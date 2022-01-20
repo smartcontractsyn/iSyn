@@ -1,6 +1,6 @@
 ## Data Explanation
 
-Experiments of RQ1 are used for measuring the overall quality of Jutitia-synthesized smart contracts. In detail, we quantify the structural differences between ground-truth smart contracts and synthesized smart contracts based on *Deckard Vector Cosine Similarity*, and record the function-level functionality correctness of synthesized smart contracts. Finally, we manually measure the editing distances (inspired by *GumTreeDiff* editing scripts) between them. The evaluation results are summarized as follows.
+Experiments of RQ1 are used for measuring the overall quality of ContractSyn-synthesized smart contracts. In detail, we quantify the structural differences between ground-truth smart contracts and synthesized smart contracts based on *Deckard Vector Cosine Similarity*, and record the function-level functionality correctness of synthesized smart contracts. Finally, we manually measure the editing distances (inspired by *GumTreeDiff* editing scripts) between them. The evaluation results are summarized as follows.
 
 ### Deckard Vector Similarity
 
