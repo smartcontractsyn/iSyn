@@ -234,7 +234,7 @@ Experiments of RQ1 are used for measuring the overall quality of Jutitia-synthes
 
 > From synthesized smart contracts to the corresponding ground-truth smart contracts.
 
-|Contract|functionality correctness|edit num|
+|Contract|Same|Edit Num|
 |----|----|----|
 |credit_contract-1001250-000110465918064317|false|3|
 |credit_contract-1059262-000110465903024786|false|2|
