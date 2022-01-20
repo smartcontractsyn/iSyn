@@ -56,17 +56,17 @@ After this execution, the res folder contains the four types programmable clause
 
     python3 pipline_for_contract.py contract_path output_path
 
-After the smartIR for a legal agreement is generated, it is ready to synthesize the corresponding target smart contract. The code for synthesis process are placed under folder `src/synthesis`. Please install dependencies first:
+After the smartIR for a legal agreement is generated, it is ready to synthesize the corresponding target smart contract. The code for synthesis process are placed under folder `synthesis/`. Please install dependencies first:
 
 ```bash
-cd src/synthesis
+cd synthesis
 npm install
 ```
 
-A typical example showing how to pipe the synthesis process is `src/synthesis/test/test_template/batch_eval.js`, which actually generates the test dataset for us. You can run it with:
+A typical example showing how to pipe the synthesis process is `synthesis/test/batch_eval.js`, which actually generates the test dataset for us. You can run it with:
 
 ```bash
-cd src/synthesis/test/test_template/
+cd synthesis/test/
 node batch_eval.js
 ```
 

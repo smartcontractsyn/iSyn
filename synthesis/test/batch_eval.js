@@ -54,14 +54,14 @@ for (var i=0; i<category_dirs.length; i++) {
     for (var j=0; j<contract_dirs.length; j++) {
         // console.log(contract_dirs[j]);
         contract_dir_path = category_dir_path + contract_dirs[j] + '/';
-        if (!fs.existsSync(contract_dir_path + "IR_ground_truth_proofread.json")) {
+        if (!fs.existsSync(contract_dir_path + "IR.json")) {
             // console.log(contract_dir_path + "IR.json");
             continue;
         }
         // continue;
         console.log(contract_dirs[j]);
         // continue;
-        var IR = JSON.parse(fs.readFileSync(contract_dir_path + "IR_ground_truth_proofread.json"));
+        var IR = JSON.parse(fs.readFileSync(contract_dir_path + "IR.json"));
         template_ast = transformer.cloneNode(template_ast_backup);
         // sample_args.contractName = contractNameDict[category_dirs[i]] + j.toString() + "_" + "synthesized";
         sample_args.contractName = contractNameDict[category_dirs[i]] + "_" + j.toString();
@@ -76,7 +76,7 @@ for (var i=0; i<category_dirs.length; i++) {
         generator.run(template_ast);
         utils.writeContract(
             generator.text,
-            contract_dir_path + "ground_truth_proofread.sol"
+            contract_dir_path + "synthesized.sol"
         );       
     }
 
