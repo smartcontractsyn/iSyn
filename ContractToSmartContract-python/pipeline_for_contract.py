@@ -9,10 +9,8 @@ import subprocess
 import copy
 import json
 import re
-import sys
 from simpletransformers.classification import ClassificationModel
 from project_global_value import *
-# from question_and_answering import *
 from utils import *
 from ner_tag_extraction import *
 from event_detect import detect_transfer_event, detect_transfer_event_for_payment, detect_transfer_event_for_termination
@@ -22,6 +20,7 @@ from word2number import w2n
 from dateutil.parser import parse
 from stanza.server import CoreNLPClient
 from question_and_answering import get_trained_qa_model, question_anwser_entity, question_answer_termination
+from string import ascii_letters, digits
 import stanza.server.semgrex as semgrex
 
 def read_contract(path):
@@ -52,7 +51,103 @@ def read_trained_model(model_name, parameter_path):
     return model
 
 
-def process_contract(path, output_dir):
+def process_contract_only_by_classification_and_ner(path, output_dir):
+    performce_record = dict()
+    contract_text = read_contract(path)
+    trained_model = read_trained_model(CLASSIFIER, CLASSIFIER_PATH)
+
+    res_dict = dict()
+    res_dict[SentenceLabel.PAYMENT] = dict()
+    res_dict[SentenceLabel.ENTITY] = dict()
+    res_dict[SentenceLabel.TRANSFER] = dict()
+    res_dict[SentenceLabel.TERMINATION] = dict()
+    payment_sentences = []
+    entity_sentences = []
+    termination_sentences = []
+    transfer_sentences = []
+    other_sentences = []
+    classify_time_start = time.monotonic()
+
+    for p in contract_text:
+        sentences = nltk.sent_tokenize(p)
+        if len(sentences) > 0:
+            predict_res = trained_model.predict(sentences)
+            labels = predict_res[0]
+            for i, class_info in enumerate(labels):
+                if class_info == SentenceLabel.PAYMENT:    # payment class
+                    payment_sentences.append(sentences[i])
+                elif class_info == SentenceLabel.ENTITY:  # entity class
+                    entity_sentences.append(sentences[i])
+                elif class_info == SentenceLabel.TERMINATION:  # termination class
+                    termination_sentences.append(sentences[i])
+                elif class_info == SentenceLabel.TRANSFER: # transfer
+                    transfer_sentences.append(sentences[i])
+                elif class_info == SentenceLabel.OTHER:
+                    other_sentences.append(sentences[i])
+                else:
+                    print("The class info is not equal to any label")
+    classify_time_end = time.monotonic()
+    performce_record['classify'] = classify_time_end- classify_time_start
+
+
+    extraction_start =  time.monotonic()
+
+    parent_folder, case_name = ntpath.split(path)
+    case_name = case_name.split(".")[0]
+    category_info = path.split('/')[-2]
+    folder_for_this_contract = os.path.join(output_dir, category_info+"-"+case_name)
+    if os.path.exists(folder_for_this_contract) is False:
+        os.mkdir(folder_for_this_contract)
+    output_path_for_payment_sentences = os.path.join(folder_for_this_contract, "payment.txt")
+    output_path_for_entity_sentences = os.path.join(folder_for_this_contract, "entity.txt")
+    output_path_for_transfer_sentences = os.path.join(folder_for_this_contract, "transfer.txt")
+    output_path_for_termination_sentences = os.path.join(folder_for_this_contract, "termination.txt")
+    output_path_for_other_sentences = os.path.join(folder_for_this_contract, "others.txt")
+
+    output_classified_res(output_path_for_payment_sentences, payment_sentences)
+    output_classified_res(output_path_for_entity_sentences, entity_sentences)
+    output_classified_res(output_path_for_transfer_sentences, transfer_sentences)
+    output_classified_res(output_path_for_termination_sentences, termination_sentences)
+    output_classified_res(output_path_for_other_sentences, other_sentences)
+    print("Finish classification.")
+
+    output_classified_res(output_path_for_payment_sentences, payment_sentences)
+    output_classified_res(output_path_for_entity_sentences, entity_sentences)
+    output_classified_res(output_path_for_transfer_sentences, transfer_sentences)
+    output_classified_res(output_path_for_termination_sentences, termination_sentences)
+    output_classified_res(output_path_for_other_sentences, other_sentences)
+
+    stanford_nlp_ssplit_processing(output_path_for_payment_sentences, folder_for_this_contract)
+    stanford_nlp_ssplit_processing(output_path_for_entity_sentences, folder_for_this_contract)
+    stanford_nlp_ssplit_processing(output_path_for_transfer_sentences, folder_for_this_contract)
+    stanford_nlp_ssplit_processing(output_path_for_termination_sentences, folder_for_this_contract)
+    #
+    ssplit_res_folder = os.path.join(folder_for_this_contract, 'ssplit')
+    processed_ssplit_folder = os.path.join(folder_for_this_contract, 'pro_ssplit')
+    if os.path.exists(processed_ssplit_folder) is False:
+        os.mkdir(processed_ssplit_folder)
+
+    # do sentence_ssplit first
+    for f in os.listdir(ssplit_res_folder):
+        ssplit_res_path = os.path.join(ssplit_res_folder, f)
+        output_nlp_ssplit_only_sentences(ssplit_res_path, processed_ssplit_folder)
+    #
+    ner_res_folder = os.path.join(folder_for_this_contract, 'ner')
+    if os.path.exists(ner_res_folder) is False:
+        os.mkdir(ner_res_folder)
+    #
+    # for f in os.listdir(processed_ssplit_folder):
+    #     processed_ssplit_file_path = os.path.join(processed_ssplit_folder, f)
+    #     stanford_nlp_ner_processing(processed_ssplit_file_path, ner_res_folder)
+
+    stanford_nlp_ner_processing(output_path_for_payment_sentences, ner_res_folder)
+    stanford_nlp_ner_processing(output_path_for_entity_sentences, ner_res_folder)
+    stanford_nlp_ner_processing(output_path_for_transfer_sentences, ner_res_folder)
+    stanford_nlp_ner_processing(output_path_for_termination_sentences, ner_res_folder)
+
+
+
+def process_contract(path, output_dir,contract_type):
     '''
 
     :param path: the docx file of the given contract
@@ -71,6 +166,7 @@ def process_contract(path, output_dir):
     entity_sentences = []
     termination_sentences = []
     transfer_sentences = []
+    other_sentences = []
     classify_time_start = time.monotonic()
 
     for p in contract_text:
@@ -96,7 +192,7 @@ def process_contract(path, output_dir):
                     # transfer_constraints = question_answer_transfer(sentences[i])
                     # add_corresponding_constraints(class_info, res_dict, transfer_constraints)
                 elif class_info == SentenceLabel.OTHER:
-                    continue
+                    other_sentences.append(sentences[i])
                 else:
                     print("The class info is not equal to any label")
     classify_time_end = time.monotonic()
@@ -115,17 +211,19 @@ def process_contract(path, output_dir):
     output_path_for_entity_sentences = os.path.join(folder_for_this_contract, "entity.txt")
     output_path_for_transfer_sentences = os.path.join(folder_for_this_contract, "transfer.txt")
     output_path_for_termination_sentences = os.path.join(folder_for_this_contract, "termination.txt")
+    output_path_for_other_sentences = os.path.join(folder_for_this_contract, "others.txt")
 
     output_classified_res(output_path_for_payment_sentences, payment_sentences)
     output_classified_res(output_path_for_entity_sentences, entity_sentences)
     output_classified_res(output_path_for_transfer_sentences, transfer_sentences)
     output_classified_res(output_path_for_termination_sentences, termination_sentences)
+    output_classified_res(output_path_for_other_sentences, other_sentences)
 
     stanford_nlp_ssplit_processing(output_path_for_payment_sentences, folder_for_this_contract)
     stanford_nlp_ssplit_processing(output_path_for_entity_sentences, folder_for_this_contract)
     stanford_nlp_ssplit_processing(output_path_for_transfer_sentences, folder_for_this_contract)
     stanford_nlp_ssplit_processing(output_path_for_termination_sentences, folder_for_this_contract)
-
+    #
     ssplit_res_folder = os.path.join(folder_for_this_contract, 'ssplit')
     processed_ssplit_folder = os.path.join(folder_for_this_contract, 'pro_ssplit')
     if os.path.exists(processed_ssplit_folder) is False:
@@ -135,11 +233,11 @@ def process_contract(path, output_dir):
     for f in os.listdir(ssplit_res_folder):
         ssplit_res_path = os.path.join(ssplit_res_folder, f)
         output_nlp_ssplit_only_sentences(ssplit_res_path, processed_ssplit_folder)
-
+    #
     ner_res_folder = os.path.join(folder_for_this_contract, 'ner')
     if os.path.exists(ner_res_folder) is False:
         os.mkdir(ner_res_folder)
-
+    #
     for f in os.listdir(processed_ssplit_folder):
         processed_ssplit_file_path = os.path.join(processed_ssplit_folder, f)
         stanford_nlp_ner_processing(processed_ssplit_file_path, ner_res_folder)
@@ -153,27 +251,27 @@ def process_contract(path, output_dir):
     termination_transfer_events = detect_transfer_event_for_termination(os.path.join(ner_res_folder, 'termination.txt.out.json'))
 
 
-    extracted_entity_signed_contract = extract_participants_for_contract(os.path.join(processed_ssplit_folder, 'entity.txt.out'))
-
-    complete_entity = extract_signed_entity_from_ner_file(os.path.join(ner_res_folder, 'entity.txt.out.json'), extracted_entity_signed_contract)
-    filtered_entity = filter_potential_signed_entity_based_on_frequency(complete_entity, os.path.join(processed_ssplit_folder, 'entity.txt.out'))
+    # extracted_entity_signed_contract = extract_participants_for_contract(os.path.join(processed_ssplit_folder, 'entity.txt.out'))
+    #
+    # complete_entity = extract_signed_entity_from_ner_file(os.path.join(ner_res_folder, 'entity.txt.out.json'), extracted_entity_signed_contract)
+    # filtered_entity = filter_potential_signed_entity_based_on_frequency(complete_entity, os.path.join(processed_ssplit_folder, 'entity.txt.out'))
     #character_of_filtered_entity = find_character_of_signed_entity(filtered_entity, os.path.join(processed_ssplit_folder, 'entity.txt.out'))
 
     #QA model
-    qa_model = get_trained_qa_model(TRAINED_QA_MODEL_PATH)
-    entity_questions = ["Who is the seller?", "Who is the buyer?", "What is effective date?"]
+    qa_model = get_trained_qa_model(TRAINED_QA_MODEL_PATH[contract_type])
+    entity_questions = CONTRACT_ENTITY_QUESTIONS[contract_type]
     seller_buyer_potential_solutions = question_anwser_entity(os.path.join(processed_ssplit_folder, 'entity.txt.out'),
                                                               qa_model, entity_questions)
-    seller_set = seller_buyer_potential_solutions[entity_questions[0]]
-    buyer_set = seller_buyer_potential_solutions[entity_questions[1]]
+    seller_set = seller_buyer_potential_solutions[PAYMENT_DIRECTIONS[contract_type][SELLER]]
+    buyer_set = seller_buyer_potential_solutions[PAYMENT_DIRECTIONS[contract_type][BUYER]]
 
-    effective_data = seller_buyer_potential_solutions[entity_questions[2]]
+    effective_data = seller_buyer_potential_solutions[QUESTION_ABOUT_EFFECTIVE_DATE]
 
 
-    if len(seller_set) > 1:
-        check_qa_res_based_on_rule_res(seller_set, complete_entity)
-    if len(buyer_set) > 1:
-        check_qa_res_based_on_rule_res(buyer_set, complete_entity)
+    # if len(seller_set) > 1:
+    #     check_qa_res_based_on_rule_res(seller_set, complete_entity)
+    # if len(buyer_set) > 1:
+    #     check_qa_res_based_on_rule_res(buyer_set, complete_entity)
 
     termination_questions = ["What is the date in this sentence?"]
     termination_date_qa = question_answer_termination(os.path.join(processed_ssplit_folder, 'termination.txt.out'),
@@ -247,9 +345,13 @@ def output_classified_res(res_file_path, sentences):
 
 
 def stanford_nlp_ner_processing(target_file_path, output_directory):
-    subprocess.run(["java", "-Xmx8g", "-cp", "/home/pxf109/stanford-corenlp-4.2.0/*",
+    # subprocess.run(["java", "-Xmx40g", "-cp", "/home/pxf109/stanford-corenlp-4.2.0/*",
+    #                 "edu.stanford.nlp.pipeline.StanfordCoreNLP",
+    #                 "-annotators", "tokenize,ssplit,pos,lemma,ner", "-ner.statisticalOnly","-file", target_file_path, "-outputFormat", "json",
+    #                 '-outputDirectory', str(output_directory)])
+    subprocess.run(["java", "-Xmx40g", "-cp", "/home/pxf109/stanford-corenlp-4.2.0/*",
                     "edu.stanford.nlp.pipeline.StanfordCoreNLP",
-                    "-annotators", "tokenize,ssplit,pos,lemma,ner", "-file", target_file_path, "-outputFormat", "json",
+                    "-annotators", "tokenize,ssplit,pos,lemma,ner","-file", target_file_path, "-outputFormat", "json",
                     '-outputDirectory', str(output_directory)])
 
 
@@ -258,7 +360,7 @@ def stanford_nlp_ssplit_processing(target_file_path, case_res_folder):
     ssplit_folder = os.path.join(case_res_folder, "ssplit")
     if os.path.exists(ssplit_folder) is False:
         os.mkdir(ssplit_folder)
-    subprocess.run(["java", "-Xmx8g", "-cp", "/home/pxf109/stanford-corenlp-4.2.0/*",
+    subprocess.run(["java", "-Xmx40g", "-cp", "/home/pxf109/stanford-corenlp-4.2.0/*",
                     "edu.stanford.nlp.pipeline.StanfordCoreNLP",
                     "-annotators", "tokenize,ssplit", "-file", target_file_path, "-outputFormat", "text",
                     "-outputDirectory", str(ssplit_folder)])
@@ -278,9 +380,19 @@ def modify_payment_constraints(extracted_payment_constraints, transfer_events, c
         idx1 = d.find("business day")
         if idx1 != -1:
             duration_constraint = d[0:idx1-1]
-            number_constraints = w2n.word_to_num(duration_constraint)
-            if number_constraints < minimum_date:
-                minimum_date = number_constraints
+            duration_constraint = duration_constraint.strip()
+            processed_duration = []
+            for c in duration_constraint:
+                if c in digits or c in ascii_letters or c == ' ':
+                    processed_duration.append(c)
+            duration_constraint = "".join(processed_duration)
+            duration_constraint = duration_constraint.strip()
+            try:
+                number_constraints = w2n.word_to_num(duration_constraint)
+                if number_constraints < minimum_date:
+                    minimum_date = number_constraints
+            except ValueError:
+                print('Illegal input for w2n.word_to_num in modify_payment_constraints :' + duration_constraint)
             # copy_of_IR['Payment'][0]['TimeLimit']['rightOp'] = copy_of_IR['Payment'][0]['TimeLimit']['rightOp'] + "-" +duration_constraint
         else:
             idx2 = d.find("per")
@@ -290,7 +402,7 @@ def modify_payment_constraints(extracted_payment_constraints, transfer_events, c
     if per_key_word is False:
         copy_of_IR['Payments'][0]['TimeLimit']['disabled'] = False
         if minimum_date != 1000000000000:
-            copy_of_IR['Payments'][0]['TimeLimit']['rightOp'] = copy_of_IR['Payment'][0]['TimeLimit']['rightOp'] + "-" +str(minimum_date)
+            copy_of_IR['Payments'][0]['TimeLimit']['rightOp'] = copy_of_IR['Payments'][0]['TimeLimit']['rightOp'] + "-" +str(minimum_date)
     else:
         copy_of_IR['Payments'][0]['TimeLimit']['disabled'] = True
 
@@ -641,7 +753,250 @@ def modify_effective_date(dates, IR):
     IR["EffectiveTime"] = dates_list
 
 
+def process_contract_later_than_ner(folder_for_this_contract, contract_type):
+    ner_res_folder = os.path.join(folder_for_this_contract, 'ner')
+    processed_ssplit_folder = os.path.join(folder_for_this_contract, 'pro_ssplit')
+    payment_constraints = extract_ner_specific_ner_tag(os.path.join(ner_res_folder, 'payment.txt.json'))
+    payment_transfer_events = detect_transfer_event_for_payment(os.path.join(ner_res_folder, 'payment.txt.json'))
+    transfer_events = detect_transfer_event(os.path.join(ner_res_folder, 'transfer.txt.json'))
+    termination_constraints = extract_ner_specific_ner_tag(os.path.join(ner_res_folder, 'termination.txt.json'))
+    termination_transfer_events = detect_transfer_event_for_termination(os.path.join(ner_res_folder, 'termination.txt.json'))
+
+    #QA model
+    qa_model = get_trained_qa_model(TRAINED_QA_MODEL_PATH[contract_type])
+    entity_questions = CONTRACT_ENTITY_QUESTIONS[contract_type]
+    seller_buyer_potential_solutions = question_anwser_entity(os.path.join(folder_for_this_contract, 'entity.txt'),
+                                                              qa_model, entity_questions, folder_for_this_contract)
+    print("Entity QA: "+ str(seller_buyer_potential_solutions))
+    seller_set = seller_buyer_potential_solutions[entity_questions[1]]
+    buyer_set = seller_buyer_potential_solutions[entity_questions[2]]
+
+    effective_data = seller_buyer_potential_solutions[entity_questions[0]]
+
+    termination_questions = ["What is the date in this sentence?"]
+    termination_date_qa = question_answer_termination(os.path.join(folder_for_this_contract, 'termination.txt'),
+                                                  qa_model, termination_questions)
+
+    termindation_date_solution_qa =termination_date_qa[termination_questions[0]]
+    copy_of_IR = copy.deepcopy(IR)
+    modify_effective_date(effective_data, copy_of_IR)
+    modify_seller_IR(seller_set, copy_of_IR)
+    modify_buyer_IR(buyer_set, copy_of_IR)
+    modify_payment_constraints(payment_constraints, payment_transfer_events, copy_of_IR)
+    modify_transfer_constraints(transfer_events, copy_of_IR)
+    modify_termination_constraints(termination_constraints, termination_transfer_events, termindation_date_solution_qa,
+                                   os.path.join(processed_ssplit_folder, 'termination.txt.out'), copy_of_IR)
+    ir_res_path = os.path.join(folder_for_this_contract, 'IR.json')
+    smartIR  = convert_json_to_smartIR(copy_of_IR)
+
+    with open(ir_res_path, 'w+') as dst_file:
+        json.dump(copy_of_IR, dst_file, indent=4)
+
+    # with open(os.path.join(folder_for_this_contract, 'time_cost.json'), 'w+') as dst_file:
+    #     json.dump(performce_record, dst_file)
+
+    with open(os.path.join(folder_for_this_contract, 'smartIR.txt'), 'w+') as dst_file:
+        dst_file.writelines(smartIR)
+
+
+    intermediate_res_record = dict()
+    intermediate_res_record['payment_transfer_sentences']  = []
+    for s in payment_transfer_events:
+        intermediate_res_record['payment_transfer_sentences'].append(s)
+
+    intermediate_res_record['termination_transfer_sentences'] = []
+    for s in termination_transfer_events:
+        intermediate_res_record['termination_transfer_sentences'].append(s)
+
+    with open(os.path.join(folder_for_this_contract, 'transfer_intermediate.json'), 'w+') as dst_file:
+        json.dump(intermediate_res_record, dst_file)
+
+
+
+def process_contract_ner_from_txt(path, output_dir,contract_type):
+    '''
+
+    :param path: the docx file of the given contract
+    :return: sentence with label
+    '''
+    performce_record = dict()
+    contract_text = read_contract(path)
+    trained_model = read_trained_model(CLASSIFIER, CLASSIFIER_PATH)
+    if os.path.exists(output_dir) is False:
+        os.mkdir(output_dir)
+
+    res_dict = dict()
+    res_dict[SentenceLabel.PAYMENT] = dict()
+    res_dict[SentenceLabel.ENTITY] = dict()
+    res_dict[SentenceLabel.TRANSFER] = dict()
+    res_dict[SentenceLabel.TERMINATION] = dict()
+    payment_sentences = []
+    entity_sentences = []
+    termination_sentences = []
+    transfer_sentences = []
+    other_sentences = []
+    classify_time_start = time.monotonic()
+
+    for p in contract_text:
+        sentences = nltk.sent_tokenize(p)
+        if len(sentences) > 0:
+            predict_res = trained_model.predict(sentences)
+            labels = predict_res[0]
+            for i, class_info in enumerate(labels):
+                if class_info == SentenceLabel.PAYMENT:    # payment class
+                    payment_sentences.append(sentences[i])
+                    # payment_constraints = question_answer_payment(sentences[i])
+                    # add_corresponding_constraints(class_info, res_dict, payment_constraints)
+                elif class_info == SentenceLabel.ENTITY:  # entity class
+                    entity_sentences.append(sentences[i])
+                    # entity_constraints =  question_anwser_entity(sentences[i])
+                    # add_corresponding_constraints(class_info, res_dict, entity_constraints)
+                elif class_info == SentenceLabel.TERMINATION:  # termination class
+                    termination_sentences.append(sentences[i])
+                    # termination_constraints =  question_answer_termination(sentences[i])
+                    # add_corresponding_constraints(class_info, res_dict, termination_constraints)
+                elif class_info == SentenceLabel.TRANSFER: # transfer
+                    transfer_sentences.append(sentences[i])
+                    # transfer_constraints = question_answer_transfer(sentences[i])
+                    # add_corresponding_constraints(class_info, res_dict, transfer_constraints)
+                elif class_info == SentenceLabel.OTHER:
+                    other_sentences.append(sentences[i])
+                else:
+                    print("The class info is not equal to any label")
+    classify_time_end = time.monotonic()
+    performce_record['classify'] = classify_time_end- classify_time_start
+
+
+    extraction_start =  time.monotonic()
+
+    parent_folder, case_name = ntpath.split(path)
+    case_name = case_name.split(".")[0]
+    category_info = path.split('/')[-2]
+    folder_for_this_contract = os.path.join(output_dir, category_info+"-"+case_name)
+    if os.path.exists(folder_for_this_contract) is False:
+        os.mkdir(folder_for_this_contract)
+    output_path_for_payment_sentences = os.path.join(folder_for_this_contract, "payment.txt")
+    output_path_for_entity_sentences = os.path.join(folder_for_this_contract, "entity.txt")
+    output_path_for_transfer_sentences = os.path.join(folder_for_this_contract, "transfer.txt")
+    output_path_for_termination_sentences = os.path.join(folder_for_this_contract, "termination.txt")
+    output_path_for_other_sentences = os.path.join(folder_for_this_contract, "others.txt")
+
+    output_classified_res(output_path_for_payment_sentences, payment_sentences)
+    output_classified_res(output_path_for_entity_sentences, entity_sentences)
+    output_classified_res(output_path_for_transfer_sentences, transfer_sentences)
+    output_classified_res(output_path_for_termination_sentences, termination_sentences)
+    output_classified_res(output_path_for_other_sentences, other_sentences)
+
+    stanford_nlp_ssplit_processing(output_path_for_payment_sentences, folder_for_this_contract)
+    stanford_nlp_ssplit_processing(output_path_for_entity_sentences, folder_for_this_contract)
+    stanford_nlp_ssplit_processing(output_path_for_transfer_sentences, folder_for_this_contract)
+    stanford_nlp_ssplit_processing(output_path_for_termination_sentences, folder_for_this_contract)
+    #
+    ssplit_res_folder = os.path.join(folder_for_this_contract, 'ssplit')
+    processed_ssplit_folder = os.path.join(folder_for_this_contract, 'pro_ssplit')
+    if os.path.exists(processed_ssplit_folder) is False:
+        os.mkdir(processed_ssplit_folder)
+
+    # do sentence_ssplit first
+    for f in os.listdir(ssplit_res_folder):
+        ssplit_res_path = os.path.join(ssplit_res_folder, f)
+        output_nlp_ssplit_only_sentences(ssplit_res_path, processed_ssplit_folder)
+    #
+    ner_res_folder = os.path.join(folder_for_this_contract, 'ner')
+    if os.path.exists(ner_res_folder) is False:
+        os.mkdir(ner_res_folder)
+    #
+    # for f in os.listdir(processed_ssplit_folder):
+    #     processed_ssplit_file_path = os.path.join(processed_ssplit_folder, f)
+    #     stanford_nlp_ner_processing(processed_ssplit_file_path, ner_res_folder)
+
+    stanford_nlp_ner_processing(output_path_for_payment_sentences, ner_res_folder)
+    stanford_nlp_ner_processing(output_path_for_entity_sentences, ner_res_folder)
+    stanford_nlp_ner_processing(output_path_for_transfer_sentences, ner_res_folder)
+    stanford_nlp_ner_processing(output_path_for_termination_sentences, ner_res_folder)
+
+    payment_constraints = extract_ner_specific_ner_tag(os.path.join(ner_res_folder, 'payment.txt.json'))
+    # payment_transfer_events = detect_transfer_event(os.path.join(ner_res_folder, 'payment.txt.out.json'))
+    payment_transfer_events = detect_transfer_event_for_payment(os.path.join(ner_res_folder, 'payment.txt.json'))
+    transfer_events = detect_transfer_event(os.path.join(ner_res_folder, 'transfer.txt.json'))
+    termination_constraints = extract_ner_specific_ner_tag(os.path.join(ner_res_folder, 'termination.txt.json'))
+    # termination_transfer_events = detect_transfer_event(os.path.join(ner_res_folder, 'termination.txt.out.json'))
+    termination_transfer_events = detect_transfer_event_for_termination(os.path.join(ner_res_folder, 'termination.txt.json'))
+
+
+    #QA model
+    qa_model = get_trained_qa_model(TRAINED_QA_MODEL_PATH[contract_type])
+    entity_questions = CONTRACT_ENTITY_QUESTIONS[contract_type]
+    seller_buyer_potential_solutions = question_anwser_entity(output_path_for_entity_sentences,
+                                                              qa_model, entity_questions, folder_for_this_contract)
+    seller_set = seller_buyer_potential_solutions[PAYMENT_DIRECTIONS[contract_type][SELLER]]
+    buyer_set = seller_buyer_potential_solutions[PAYMENT_DIRECTIONS[contract_type][BUYER]]
+
+    effective_data = seller_buyer_potential_solutions[QUESTION_ABOUT_EFFECTIVE_DATE]
+
+
+    termination_questions = ["What is the date in this sentence?"]
+    termination_date_qa = question_answer_termination(output_path_for_termination_sentences,
+                                                      qa_model, termination_questions)
+
+    termindation_date_solution_qa =termination_date_qa[termination_questions[0]]
+
+
+    copy_of_IR = copy.deepcopy(IR)
+
+    modify_effective_date(effective_data, copy_of_IR)
+    modify_seller_IR(seller_set, copy_of_IR)
+    modify_buyer_IR(buyer_set, copy_of_IR)
+    modify_payment_constraints(payment_constraints, payment_transfer_events, copy_of_IR)
+    modify_transfer_constraints(transfer_events, copy_of_IR)
+    modify_termination_constraints(termination_constraints, termination_transfer_events, termindation_date_solution_qa,
+                                   output_path_for_termination_sentences, copy_of_IR)
+    # modify_signed_entity(filtered_entity, copy_of_IR)
+
+    extraction_end = time.monotonic()
+
+    performce_record['extraction'] = extraction_end - extraction_start
+    ir_res_path = os.path.join(folder_for_this_contract, 'IR.json')
+    smartIR  = convert_json_to_smartIR(copy_of_IR)
+
+    with open(ir_res_path, 'w+') as dst_file:
+        json.dump(copy_of_IR, dst_file, indent=4)
+
+    with open(os.path.join(folder_for_this_contract, 'time_cost.json'), 'w+') as dst_file:
+        json.dump(performce_record, dst_file)
+
+    with open(os.path.join(folder_for_this_contract, 'smartIR.txt'), 'w+') as dst_file:
+        dst_file.writelines(smartIR)
+
+
+    intermediate_res_record = dict()
+    intermediate_res_record['payment_transfer_sentences']  = []
+    for s in payment_transfer_events:
+        intermediate_res_record['payment_transfer_sentences'].append(s)
+
+    intermediate_res_record['termination_transfer_sentences'] = []
+    for s in termination_transfer_events:
+        intermediate_res_record['termination_transfer_sentences'].append(s)
+
+    with open(os.path.join(folder_for_this_contract, 'transfer_intermediate.json'), 'w+') as dst_file:
+        json.dump(intermediate_res_record, dst_file)
+
+
+
+
 if __name__ == "__main__":
-    contract_path = sys.argv[1]
-    output_path = sys.argv[2]
-    process_contract(contract_path, output_path)
+    cwd = os.getcwd()
+
+    path = "/home/xxx/contractpaty"   # the folder for the specific contract category
+    output_path = "/home/user/...."   # the output path
+    qa_trained_model_path = '/home/uer/qa_modelpath' # the path of the trained QA model
+    for folder in os.listdir(path):
+        cur_path = os.path.join(path, folder)
+        for f in os.listdir(cur_path):
+            if f.endswith('docx'):
+                contract_path = os.path.join(cur_path, f)
+                print(contract_path)
+                process_contract_ner_from_txt(contract_path, output_path, SECURITY_PURCHASE_AGREEMENT)
+
+
+

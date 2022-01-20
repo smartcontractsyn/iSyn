@@ -4,10 +4,6 @@ from nltk.tokenize import word_tokenize
 from nltk.parse.corenlp import CoreNLPParser
 from simpletransformers.question_answering import QuestionAnsweringModel, QuestionAnsweringArgs
 
-STTager = StanfordNERTagger("/home/<set up by user>/stanford-ner-2020-11-17/classifiers/english.muc.7class.distsim.crf.ser.gz",
-                            "/home/<set up by user>/stanford-ner-4.2.0/stanford-ner-2020-11-17/stanford-ner-4.2.0.jar",
-                            encoding='utf-8')
-
 
 def question_answer_payment(sentence_file, qa_model, question_list):
     res = dict()
@@ -82,10 +78,6 @@ def process_entity_solution(solution_res, question_list):
                         comma_index = s.find(",")
                 solution_set.remove(s)
                 solution_set.add(s[0:comma_index])
-
-
-
-
 
 
 def question_answer_termination(sentence_file, qa_model, question_list):
@@ -166,4 +158,3 @@ def construct_qa_input(context, question, id):
 
     res.append(question_obj)
     return res
-
