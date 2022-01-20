@@ -27,7 +27,7 @@ contract IndentureAgreement_1 {
     constructor() public payable {
         EffectiveTime = 1000;
         CloseTime = 1000;
-        OutSideClosingDate = 2449411200;
+        OutSideClosingDate = 2449440000;
         sellerName = "DUKE ENERGY CORPORATION";
         seller = address(0);
         buyerName =["The Bank of New York Mellon Trust Company"];

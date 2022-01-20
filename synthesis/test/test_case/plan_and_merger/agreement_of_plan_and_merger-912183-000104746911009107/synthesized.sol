@@ -25,7 +25,7 @@ contract PlanAndMergerAgreement_9 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1319385600;
+        EffectiveTime = 1319414400;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "ADOLOR CORPORATION";

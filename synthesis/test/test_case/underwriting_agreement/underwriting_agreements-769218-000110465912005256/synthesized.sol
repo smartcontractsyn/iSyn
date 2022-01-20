@@ -25,9 +25,9 @@ contract UnderwritingAgreement_9 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1187625600;
+        EffectiveTime = 1187654400;
         CloseTime = 1000;
-        OutSideClosingDate = 2276006400;
+        OutSideClosingDate = 2276035200;
         sellerName = "AEGON N.V.";
         seller = address(0);
         buyerName =["Underwriters"];

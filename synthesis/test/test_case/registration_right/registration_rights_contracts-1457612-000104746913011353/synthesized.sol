@@ -27,7 +27,7 @@ contract RegistrationRightAgreement_5 {
     constructor() public payable {
         EffectiveTime = 1000;
         CloseTime = 1000;
-        OutSideClosingDate = 1633017600;
+        OutSideClosingDate = 1633046400;
         sellerName = "Company";
         seller = address(0);
         buyerName =["GENOCEA BIOSCIENCES"];

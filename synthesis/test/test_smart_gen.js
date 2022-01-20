@@ -10,7 +10,7 @@ const web3 = require("web3")
 const contractGenerator = require(appRoot + "/src/smart_gen");
 
 // var example_text = utils.readContract(
-//     appRoot + "/test/test_template/ground_truth_sample.sol"
+//     appRoot + "/test/ground_truth_sample.sol"
 //   );
 
 // // var template_ast = parser.parse(template_text, {loc: true, range: true});
@@ -18,9 +18,9 @@ const contractGenerator = require(appRoot + "/src/smart_gen");
 // parser.setDepthAndID(example_ast, true, true);
 // printObjectToFile(example_ast, "contract_sample.json");
 
-var IR_template = JSON.parse(fs.readFileSync(appRoot + "/test/test_template/IR_template.json"));
+var IR_template = JSON.parse(fs.readFileSync(appRoot + "/test/IR_template.json"));
 
-var sample_contract_text = utils.readContract(appRoot + "/test/test_template/contract_sample.sol");
+var sample_contract_text = utils.readContract(appRoot + "/test/contract_sample.sol");
 var sample_ast = parser.parse(sample_contract_text);
 contractGenerator.ast2IR(sample_ast, IR_template);
 printObjectToFile(IR_template, "generated_IR_sample.json");
@@ -34,13 +34,13 @@ printObjectToFile(IR_template, "generated_IR_sample.json");
 // utils.writeContract(
 // generator.text,
 // appRoot +
-//     "/test/test_template/hh.sol"
+//     "/test/hh.sol"
 // );
 
 
 // // get AST of template contract
 // var template_text = utils.readContract(
-//     appRoot + "/test/test_template/StockPurchaseAgreementGroundTruth.sol"
+//     appRoot + "/test/StockPurchaseAgreementGroundTruth.sol"
 //   );
 
 // // var template_ast = parser.parse(template_text, {loc: true, range: true});
@@ -50,7 +50,7 @@ printObjectToFile(IR_template, "generated_IR_sample.json");
 
 // // get AST of skeleton contract
 // var skeleton_text = utils.readContract(
-//     appRoot + "/test/test_template/StockPurchaseAgreementSkeleton.sol"
+//     appRoot + "/test/StockPurchaseAgreementSkeleton.sol"
 // );
 // // var skeleton_ast = parser.parse(skeleton_text, {loc: true, range: true});
 // var skeleton_ast = parser.parse(skeleton_text);
@@ -86,7 +86,7 @@ var sample_args = {
 };
 
 function doExtract() {
-    var IR = JSON.parse(fs.readFileSync(appRoot + "/test/test_template/SPA_IR.json"));
+    var IR = JSON.parse(fs.readFileSync(appRoot + "/test/SPA_IR.json"));
     contractGenerator.extractIR(IR, skeleton_ast, sample_args);
     parser.setDepthAndID(skeleton_ast, true, true);
     generator.run(skeleton_ast);
@@ -102,7 +102,7 @@ function doExtract() {
     utils.writeContract(
     generator.text,
     appRoot +
-        "/test/test_template/target_contracts/SPA.sol"
+        "/test/target_contracts/SPA.sol"
     );
 }
 
@@ -139,7 +139,7 @@ function day2SecondInBinaryOperation(binaryOperation) {
 function printObject(obj) {
     str = JSON.stringify(obj, null, 4); // (Optional) beautiful indented output.
     console.log(str); // Logs output to dev tools console.
-    // fs.writeFile(appRoot + "/test/test_template/SPA_template.json", str, "utf-8", function(err) {
+    // fs.writeFile(appRoot + "/test/SPA_template.json", str, "utf-8", function(err) {
     //     if (err) throw err;
     //     console.log("Contract saved!");
     // });
@@ -148,7 +148,7 @@ function printObject(obj) {
 function printObjectToFile(obj, filename) {
     str = JSON.stringify(obj, null, 4); // (Optional) beautiful indented output.
     // console.log(str); // Logs output to dev tools console.
-    fs.writeFile(appRoot + "/test/test_template/" + filename, str, "utf-8", function(err) {
+    fs.writeFile(appRoot + "/test/" + filename, str, "utf-8", function(err) {
         if (err) throw err;
         console.log("Contract saved!");
     });

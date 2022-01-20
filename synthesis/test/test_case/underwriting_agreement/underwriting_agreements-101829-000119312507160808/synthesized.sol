@@ -25,7 +25,7 @@ contract UnderwritingAgreement_0 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 988646400;
+        EffectiveTime = 988675200;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "Company and The Bank of New York Trust Company";

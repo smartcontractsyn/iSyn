@@ -25,9 +25,9 @@ contract PurchaseAgreement_1 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1619366400;
+        EffectiveTime = 1619395200;
         CloseTime = 1000;
-        OutSideClosingDate = 1627660800;
+        OutSideClosingDate = 1627689600;
         sellerName = "BROOKLYN IMMUNOTHERAPEUTICS";
         seller = address(0);
         buyerName =["LINCOLN PARK CAPITAL FUND"];

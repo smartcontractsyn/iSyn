@@ -25,7 +25,7 @@ contract undefined_8 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1601395200;
+        EffectiveTime = 1601424000;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "Catherine R. Atwood";

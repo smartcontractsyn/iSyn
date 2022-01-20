@@ -35,7 +35,7 @@ for (var i=0; i<category_dirs.length; i++) {
                 cnt += 1;
                 console.log(files[k]);
                 // break;
-                var IR_template = JSON.parse(fs.readFileSync(appRoot + "/test/test_template/IR_template.json"));
+                var IR_template = JSON.parse(fs.readFileSync(appRoot + "/test/IR_template.json"));
                 var gt_contract_text = utils.readContract(contract_dir_path + files[k]);
                 var gt_ast = parser.parse(gt_contract_text);
                 contractGenerator.ast2IR(gt_ast, IR_template);
@@ -54,7 +54,7 @@ for (var i=0; i<category_dirs.length; i++) {
     //     cnt += 1;
     //     // continue;
     //     contract_dir_path = category_dir_path + contract_dirs[j] + '/';
-    //     var IR_template = JSON.parse(fs.readFileSync(appRoot + "/test/test_template/IR_template.json"));
+    //     var IR_template = JSON.parse(fs.readFileSync(appRoot + "/test/IR_template.json"));
     //     var gt_contract_text = utils.readContract(contract_dir_path + "ground_truth.sol");
     //     var gt_ast = parser.parse(gt_contract_text);
     //     contractGenerator.ast2IR(gt_ast, IR_template);

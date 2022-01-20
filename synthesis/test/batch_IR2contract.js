@@ -26,7 +26,7 @@ contractNameDict = {
 
 // get AST of template contract
 var template_text = utils.readContract(
-    appRoot + "/test/test_template/ContractTemplate.sol"
+    appRoot + "/test/ContractTemplate.sol"
 );
 // var template_ast = parser.parse(template_text, {loc: true, range: true});
 var template_ast = parser.parse(template_text);

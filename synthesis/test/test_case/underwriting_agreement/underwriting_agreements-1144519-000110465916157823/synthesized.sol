@@ -25,9 +25,9 @@ contract UnderwritingAgreement_2 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1466006400;
+        EffectiveTime = 1466035200;
         CloseTime = 1000;
-        OutSideClosingDate = 1686844800;
+        OutSideClosingDate = 1686873600;
         sellerName = "Bunge Limited";
         seller = address(0);
         buyerName =["Bermuda Company"];

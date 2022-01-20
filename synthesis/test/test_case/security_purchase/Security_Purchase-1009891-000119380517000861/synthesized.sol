@@ -25,7 +25,7 @@ contract SecurityPurchaseAgreement_5 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1494518400;
+        EffectiveTime = 1494547200;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "Air Industries Group";

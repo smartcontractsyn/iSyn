@@ -25,7 +25,7 @@ contract SecurityPurchaseAgreement_0 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1617206400;
+        EffectiveTime = 1617235200;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "FUTURIS COMPANY";

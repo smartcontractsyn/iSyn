@@ -25,9 +25,9 @@ contract PlanAndMergerAgreement_2 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1626710400;
+        EffectiveTime = 1626739200;
         CloseTime = 1000;
-        OutSideClosingDate = 1630339200;
+        OutSideClosingDate = 1630368000;
         sellerName = "Mullen Automotive";
         seller = address(0);
         buyerName =["Net Element"];

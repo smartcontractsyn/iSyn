@@ -27,7 +27,7 @@ contract RegistrationRightAgreement_11 {
     constructor() public payable {
         EffectiveTime = 1577836800;
         CloseTime = 1000;
-        OutSideClosingDate = 1596124800;
+        OutSideClosingDate = 1596153600;
         sellerName = "COVETRUS";
         seller = address(0);
         buyerName =["CD&R VFC Holdings"];

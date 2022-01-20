@@ -25,7 +25,7 @@ contract CreditAgreement_3 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1297267200;
+        EffectiveTime = 1297296000;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "ROCKWOOD SPECIALTIES GROUP";

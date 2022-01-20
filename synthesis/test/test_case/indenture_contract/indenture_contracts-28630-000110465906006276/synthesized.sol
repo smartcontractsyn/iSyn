@@ -27,7 +27,7 @@ contract IndentureAgreement_8 {
     constructor() public payable {
         EffectiveTime = 1000;
         CloseTime = 1000;
-        OutSideClosingDate = 1738339200;
+        OutSideClosingDate = 1738368000;
         sellerName = "DRS TECHNOLOGIES";
         seller = address(0);
         buyerName =["THE BANK OF NEW YORK."];

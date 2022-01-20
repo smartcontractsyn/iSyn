@@ -25,9 +25,9 @@ contract RegistrationRightAgreement_1 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1103212800;
+        EffectiveTime = 1103241600;
         CloseTime = 1000;
-        OutSideClosingDate = 1107964800;
+        OutSideClosingDate = 1107993600;
         sellerName = "Medivation";
         seller = address(0);
         buyerName =["(“Stockholder”)."];

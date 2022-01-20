@@ -25,7 +25,7 @@ dirNamePatterns = ["PA", "SPA", "SECPA", "SA"];
 
 // get AST of template contract
 var template_text = utils.readContract(
-    appRoot + "/test/test_template/StockPurchaseAgreementTemplate_Test.sol"
+    appRoot + "/test/StockPurchaseAgreementTemplate_Test.sol"
 );
 // var template_ast = parser.parse(template_text, {loc: true, range: true});
 var template_ast = parser.parse(template_text);
@@ -45,8 +45,8 @@ var sample_args = {
 
 for (var i=0; i<dirNamePatterns.length; i++) {
     for (var j=0; j<testcase_Dirs[i].length; ++j) {
-        // var IR = JSON.parse(s.readFileSync(appRoot + "/test/test_template/test_case/" + dirNamePatterns[i] + "/" + contractNamePatterns[i] + testcase_Dirs[j] + ".sol"));
-        var IR = JSON.parse(fs.readFileSync(appRoot + "/test/test_template/test_case/" + dirNamePatterns[i] + testcase_Dirs[i][j] + "/IR.json"));
+        // var IR = JSON.parse(s.readFileSync(appRoot + "/test/test_case/" + dirNamePatterns[i] + "/" + contractNamePatterns[i] + testcase_Dirs[j] + ".sol"));
+        var IR = JSON.parse(fs.readFileSync(appRoot + "/test/test_case/" + dirNamePatterns[i] + testcase_Dirs[i][j] + "/IR.json"));
         template_ast = transformer.cloneNode(template_ast_backup);
         sample_args.contractName = IR.ContractCategory + "_" + testcase_Dirs[i][j] + "_" + "sythesized";
         contractGenerator.extractIR(IR, template_ast, sample_args);
@@ -55,7 +55,7 @@ for (var i=0; i<dirNamePatterns.length; i++) {
         utils.writeContract(
             generator.text,
             appRoot +
-                "/test/test_template/test_case/" + dirNamePatterns[i] + testcase_Dirs[i][j] + "/" + generatedNamePatterns[i] + testcase_Dirs[i][j] + ".sol"
+                "/test/test_case/" + dirNamePatterns[i] + testcase_Dirs[i][j] + "/" + generatedNamePatterns[i] + testcase_Dirs[i][j] + ".sol"
             );
     }
 }

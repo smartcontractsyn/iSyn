@@ -25,9 +25,9 @@ contract PlanAndMergerAgreement_5 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1534089600;
+        EffectiveTime = 1534118400;
         CloseTime = 1000;
-        OutSideClosingDate = 1563897600;
+        OutSideClosingDate = 1563926400;
         sellerName = "Agiliti";
         seller = address(0);
         buyerName =["FEDERAL STREET ACQUISITION CORP."];
