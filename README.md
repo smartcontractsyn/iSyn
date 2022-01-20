@@ -1,7 +1,7 @@
 # ContractSyn
 
 ## Introduction
-![Workflow of DepImpact](system-arch.pdf)
+![Workflow of DepImpact](picture/system-arch.png)
 The Pandemic has fundamentally shaped many aspects ofour lives. One significant example is the ever-growing digi-tal transformation for virtually every type of business, suchas online courses, online conferencing, online medical andpharmaceutical systems, remote work forces, and so on.
 Similarly, the legal sector is experiencing online transformation. To enable profound digital
 transformation of legal contract, Justitia is the first system that synthesizes blockchain-executable
