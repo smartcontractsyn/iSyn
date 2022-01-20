@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "SellerName": [
+        "ACACIA DIVERSIFIED HOLDINGS, INC."
+    ],
+    "BuyerName": [
+        "PEAK ONE OPPORTUNITY FUND, L.P."
+    ],
+    "EffectiveTime": [
+        "March 25, 2017"
+    ],
+    "CloseTime": [
+        "2019"
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "PEAK ONE OPPORTUNITY FUND, L.P."
+            ],
+            "To": [
+                "ACACIA DIVERSIFIED HOLDINGS, INC."
+            ],
+            "PurchasePrice": "400000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

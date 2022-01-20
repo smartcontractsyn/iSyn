@@ -1,0 +1,176 @@
+3.00% Exchangeable Senior Notes due 2015
+Dated as of May 7, 2010
+Payment at Maturity; Payment of Interest
+Paying Agent to Hold Money in Trust
+Payment of Notes
+The aggregate principal amount of the Original Notes shall be $600,000,000 (or $690,000,000 if the Initial Purchasers exercise their over-allotment option in full in accordance with the Purchase Agreement).
+“Daily Exchange Value” means, for each of the 20 consecutive Trading Days during the relevant Cash Settlement Averaging Period, 5% of the product of:
+(a)           cash equal to the lesser of (i) $50.00 per Note and (ii) the Daily Exchange Value; and
+(b)           if the Daily Exchange Value exceeds $50.00, a number of shares of OI Inc. Common Stock equal to (i) the difference between the Daily Exchange Value and $50.00, divided by (ii) the daily VWAP of OI Inc. Common Stock for such Trading Day.
+“Daily VWAP” of OI Inc. Common Stock means, for each of the 20 consecutive Trading Days during the relevant Cash Settlement Averaging Period, the per share volume-weighted average price as displayed under the heading “Bloomberg VWAP” on Bloomberg page “OI <equity> AQR” (or its equivalent successor if such page is not available) in respect of the period from the scheduled open of trading until the scheduled close of trading of the primary trading session on such Trading Day (or if such volume-weighted average price is unavailable,
+“Exchange Price” on any date of determination means $1,000 divided by the Exchange Rate as of such date.
+“Fundamental Change Purchase Price” has the meaning specified in Section 3.01(a).
+“Interest Payment Date” has the meaning specified in Section 2.03(b).
+“Last Reported Sale Price” of OI Inc. Common Stock on any date means:
+(a)           the closing sale price per share (or if no closing sale price is reported, the average of the last bid price and the last ask price or, if more than one in either case, the average of the average last bid price and the average last ask price) on that date as reported in composite transactions for the principal U.S. securities exchange on which OI Inc. Common Stock is listed for trading;
+“Payment Default” has the meaning specified in Section 6.01(h)(i).
+denominated 6.75% senior notes due 2014 of the Company and the euro-denominated 6.75% senior notes due 2014 of the Company were issued; and
+“Stock Price” means the price paid (or deemed paid) per share of OI Inc. Common Stock in the Make-Whole Fundamental Change.
+If the holders of OI Inc. Common Stock receive only cash in a Make-Whole Fundamental Change described in clause (2) of the definition of Fundamental Change, the Stock Price shall be the cash amount paid per share of OI Inc. Common Stock.
+In all other cases, the Stock Price shall be the average of the Last Reported Sale Prices of OI Inc. Common Stock over the five Trading Day period ending on, and including, the Trading Day immediately preceding the Effective Date of the Make-Whole Fundamental Change.
+“Trading Price” per $1,000 principal amount of the Notes on any date of determination means the average of the secondary market bid quotations obtained by the Bid Solicitation Agent for $5.0 million principal amount of the Notes at approximately 3:30 p.m., New York City time, on such determination date from three independent U.S. nationally recognized securities dealers the Company selects; provided that, if three such bids cannot reasonably be obtained by the Bid Solicitation Agent but two such bids are obtained, then the average of the two bids shall be used, and if only one such bid can reasonably be obtained by the Bid Solicitation Agent, that one bid shall be used.
+If the Bid Solicitation Agent cannot reasonably obtain at least one bid for $5.0 million principal amount of the Notes from a U.S. nationally recognized securities dealer, then the Trading Price per $1,000 principal amount of Notes will be deemed to be less than 98% of the product of the Last Reported Sale Price of OI Inc. Common Stock and the applicable Exchange Rate.
+(a)  The Notes shall be designated as “3.00% Exchangeable Senior Notes due 2015.”  The aggregate principal amount of Original Notes which may be authenticated and delivered under this Indenture is $600,000,000 (or $690,000,000 if the Initial Purchasers exercise their over-allotment option in full in accordance with the Purchase Agreement).
+The Notes shall be issuable only in registered form without interest coupons and only in minimum denominations of $1,000 and integral multiples of $1,000 in excess thereof.
+Payment of principal of, and interest on any Global Notes shall be made to the Depositary in immediately available funds.
+Notwithstanding anything to the contrary in the Indenture, any issuance of Additional Notes after the Issue Date shall be in a principal amount of at least $1,000.
+Section 2.03           Payment at Maturity; Payment of Interest.
+On the Maturity Date, each Holder shall be entitled to receive from the Company or its designee on such date $1,000 in cash for each $1,000 principal amount of Notes.
+(b)           Payment of Interest.
+Interest on the Notes will accrue at the rate of 3.00% per annum.
+Interest will accrue from the most recent date to which interest has been paid or provided for, or, if no interest has been paid or provided for, May 7, 2010.
+Interest shall be payable semi-annually in arrears on June 1 and December 1 of each year (each, an “Interest Payment Date”), commencing December 1, 2010, to the Person in whose name any Note is registered at 5:00 p.m., New York City time, on the relevant Regular Record Date with respect to the applicable Interest Payment Date.
+Interest on the Notes will be computed on the basis of a 360-day year comprised of twelve 30-day months.
+Payments in respect of the Notes represented by a Global Note (including principal and interest) shall be made by wire transfer of immediately available funds to the accounts specified by The Depository Trust Company or any successor depositary.
+If an Interest Payment Date falls on a date that is not a Business Day, such payment of interest (and principal in the case of the Maturity Date and Fundamental Change Purchase Price in the case of a Fundamental Change Purchase Date) will be postponed until the next succeeding Business Day, and no interest or other amounts will be paid as a result of any such postponement.
+If the Paying Agent segregates and holds in trust, in accordance with this Indenture, on the maturity date money sufficient to pay all principal and interest payable on that date with respect to the Notes (or portions thereof) to be repurchased or maturing, as the case may be, and the Paying Agent is not prohibited from paying such money to the Holders on that date pursuant to the terms of this Indenture, then on and after that date, such Notes (or portions thereof) cease to be outstanding and interest on them ceases to accrue.
+If the Company defaults in a payment of interest on the Notes and such default continues for a period of 30 calendar days, the interest which is payable shall forthwith cease to be payable to the Holder on the Regular Record Date and the Company shall pay the defaulted interest (plus interest on such defaulted interest to the extent lawful) to the Persons who are Holders on a subsequent special record date.
+(a)           Repurchase Option.
+If a Fundamental Change occurs at any time, a Holder will have the right, at its option, to require the Company to purchase for cash any or all of its Notes, or any portion of the principal amount thereof, that is equal to $1,000 or an integral multiple of $1,000.
+The price the Company is required to pay is equal to 100% of the principal amount of the Notes to be purchased plus accrued and unpaid interest to, but excluding, the Fundamental Change Purchase Date (the “Fundamental Change Purchase Price”); provided, however, that if the Fundamental Change Purchase Date is after a Regular Record Date and on or prior to the Interest Payment Date to which such Regular Record Date relates, the Company will instead pay the full amount of accrued and unpaid interest to the Holder of record on such Regular Record Date and the Fundamental Change Purchase Price shall not include such accrued and unpaid interest.
+The Fundamental Change Purchase Date will be the date specified by the Company that is not less than 20 or more than 35 Business Days following the date of the Company’s Fundamental Change Notice.
+Any Notes purchased by the Company will be paid for in cash.
+(iv)          the Fundamental Change Purchase Price;
+The Company shall purchase Notes that have been validly surrendered for Purchase and not withdrawn on the Fundamental Change Purchase Date.
+(ii)           the portion of the principal amount of Notes to be purchased, which must be $1,000 or an integral multiple thereof; and
+The Paying Agent shall pay the Fundamental Change Purchase Price to such Holder, subject to receipt of funds by the Company, promptly following the later of (i) the Fundamental Change Purchase Date with respect to such Note (provided, the conditions in Section 3.01(c) have been satisfied) and (ii) the time of delivery or book-entry transfer of such Note to the Paying Agent by the Holder thereof in the manner required by Section 3.01(c).
+(f)            Deposit of Fundamental Change Purchase Price.
+service charge, a new Note or Notes, of any authorized denomination as requested by such Holder in aggregate principal amount equal to, and in exchange for, the portion of the principal amount of the Note so surrendered that is not purchased.
+(i)            Repayment to the Company.
+To the extent that the aggregate amount of cash deposited by the Company pursuant to Section 3.01(f) exceeds the aggregate Fundamental Change Purchase Price of the Notes or portions thereof that the Company is obligated to purchase as of the Fundamental Change Purchase Date, then, following the Fundamental Change Purchase Date, the Paying Agent shall promptly return any such excess to the Company.
+The Company shall promptly pay the principal of and interest on the Notes on the dates and in the manner provided in the Notes and in this Indenture.
+The Company shall pay interest on overdue principal at the rate borne by the Notes, and it shall pay interest on overdue installments of interest at the same rate to the extent lawful.
+(a)           If a Registration Default or Effective Default occurs under the Registration Rights Agreement, the Company shall pay, as agreed in the Registration Rights Agreement, Registration Default Additional Interest (in additional to any Reporting Default Additional Interest), if any, on the Notes which shall accrue until such Registration Default or Effective Default, as applicable, is no longer continuing, at a rate equal to 0.25% per annum of the principal amount of Notes outstanding for the first 90 days after such Registration Default or Effective Default, as applicable, has occurred and is continuing, which rate shall be increased by an additional 0.25% per annum following the 90th day after such Registration Default  or Effective Default, as the case may be, is continuing, provided that the rate at which such Registration Default Additional Interest under this Section 4.05(a) accrues may in no event exceed 0.50% per annum.
+(b)           Registration Default Additional Interest payable in accordance with Section 4.05(a) shall be payable in arrears on each Interest Payment Date following accrual in the same manner and to the same persons as regular interest on the Notes.
+(a)           the Company defaults for 30 days in the payment when due of interest on the Notes;
+(b)           the Company defaults in payment of principal of the Notes when due at Stated Maturity, upon required purchase upon a Fundamental Change, by acceleration or otherwise;
+(c)           the Company fails to pay the cash portion of the Exchange Consideration or OI Inc. fails to deliver the portion of the Exchange Consideration that consists of shares of OI Inc. Common Stock (or cash in lieu of fractional shares thereof), if any, in accordance with this Indenture upon exercise of a Holder’s exchange right within five days after the due date thereof;
+If the Trustee collects any money or property pursuant to this Article VI, it shall pay out the money or property in the following order:
+The Trustee may fix a record date and payment date for any payment to Holders pursuant to this Section 6.10.
+Notwithstanding anything to the contrary in this Indenture, to the extent that the Company elects, the sole remedy for an Event of Default relating to OI Group or OI Inc.’s failure to perform or observe the covenant in Section 4.02(a) will, for the 365 days after the occurrence of such an Event of Default (which will be the 60th day after the written notice is provided to the Company in accordance with Section 6.01(g)), consist exclusively of the right to receive additional interest (the “Reporting Default Additional Interest”) on the Notes at a rate equal to 0.25% per annum of the outstanding principal amount of the Notes outstanding for each day during the 180-day period beginning on, and including, the occurrence of such an Event of Default during which such Event of Default is continuing in such 365 day period, and which such Reporting Default Additional Interest will be increased to 0.50% per annum of the then outstanding aggregate principal amount of the Notes, for the remaining 185 days after such Event of Default is continuing for such 365 day period, provided that the rate at which such Reporting Default Additional Interest accrues may in no event exceed 0.50% per annum.
+If the Company so elects, such Reporting Default Additional Interest (in addition to any Registration Default Additional Interest) will be payable in arrears in the same manner and on the same Interest Payment Dates as the stated interest payable on the Notes.
+In the event the Company does not elect to pay the Reporting Default Additional Interest following an Event of Default in accordance with this Section 6.13, the Notes will be subject to acceleration as provided in Section 6.02.
+The Company shall pay to the Trustee from time to time reasonable compensation for its services.
+The Trustee shall have a combined capital and surplus of at least $50,000,000 as set forth in its most recent published annual report of condition.
+Subject to any applicable abandoned property law, the Trustee and the Paying Agent shall pay to the Company and OI Inc., as applicable, upon written request any money held by them for the payment of principal or interest or any shares of OI Inc. Common Stock due in respect of exchanged Notes that remains unclaimed for two years, and, thereafter, Holders entitled to the money or any shares of OI Inc. Common Stock due in respect of exchanged Notes
+(ii)           reduce the rate of, or extend the stated time for, payment of interest on any Note;
+Section 11.01         Exchange Rights.Subject to and upon compliance with the provisions of this Article XI, a Holder shall have the right, at such Holder’s option, to exchange all or any portion (long as the portion exchanged has an aggregate principal amount that is equal to an integral multiple of $1,000 principal amount) of its Notes, at any time prior to 5:00 p.m., New York City time, on the second Scheduled Trading Day immediately preceding the Maturity Date at an exchange rate (the “Exchange Rate”) initially equal to 21.0642 shares of OI Inc. Common Stock (subject to adjustments as provided in Sections 11.03 and 11.04) per $1,000 principal amount of Notes (the “Exchange Obligation”) only under the following circumstances:
+Prior to 5:00 p.m., New York City time, on the Business Day immediately preceding March 1, 2015, a Holder may surrender all or a portion of its Notes for exchange in any fiscal quarter (and only during such fiscal quarter) commencing after June 30, 2010 if the Last Reported Sale Price of OI Inc. Common Stock for at least 20 Trading Days (whether or not consecutive) in the period of 30 consecutive Trading Days ending on the last Trading Day of the immediately preceding fiscal quarter is greater than or equal to 130% of the applicable Exchange Price on each applicable Trading Day;
+Prior to 5:00 p.m., New York City time, on the Business Day immediately preceding March 1, 2015, a Holder may surrender all or a portion of its notes for exchange during the five Business Day period immediately after any five consecutive Trading Day period (the “Trading Price Measurement Period”) in which the Trading Price per $1,000 principal amount of Notes, as determined following a request by a Holder of at least $2,000,000 in aggregate principal amount of Notes in accordance with the procedures set forth in this Section 11.01(b), for each Trading Day in that
+Trading Price Measurement Period was less than 98% of the product of the Last Reported Sale Price of OI Inc. Common Stock and the applicable Exchange Rate for such Trading Day.
+The Company shall have no obligation to request that the Bid Solicitation Agent determine the Trading Price per $1,000 principal amount of Notes on a date of determination unless a Holder of at least $2,000,000 in aggregate principal amount of Notes provides the Company with reasonable evidence that the Trading Price per $1,000 principal amount of Notes would be less than 98% of the product of the Last Reported Sale Price of the OI Inc. Common Stock and the applicable Exchange Rate.
+At such time, the Company shall instruct the Bid Solicitation Agent to determine the Trading Price per $1,000 principal amount of the Notes beginning on the next Trading Day and on each successive Trading Day until the Trading Price per $1,000 principal amount of Notes is greater than or equal to 98% of the product of the Last Reported Sale Price of OI Inc. Common Stock.
+(i)            distribute to all or substantially all holders of OI Inc. Common Stock any rights, options or warrants entitling them for a period of not more than 60 calendar days after the issuance date of such distribution to subscribe for or purchase shares of OI Inc. Common Stock, at a price per share less than the average of the Last Reported Sale Prices of OI Inc. Common Stock over the 10 consecutive Trading Day period ending on, and including, the Trading Day immediately preceding the declaration date of such distribution; or
+(ii)           distribute to all or substantially all holders of OI Inc. Common Stock its assets, debt securities or rights to purchase its securities, which distribution has a per share value, as reasonably determined by the Board of Directors of OI Inc., exceeding 10% of the Last Reported Sale Price of the OI Inc. Common Stock on the Trading Day preceding the declaration date of such distribution,
+(v)           if required pursuant to Section 11.02(h), pay funds equal to interest payable on the next Interest Payment Date to which the exchanging Holder is not entitled.
+(D)          if required pursuant to Section 11.02(h), pay funds equal to interest payable on the next Interest Payment Date to which the exchanging Holder is not entitled.
+The amount of cash and the number of shares of OI Inc. Common Stock, if any, due upon exchange of a Note will be equal to the sum of the Daily Settlement Amounts for each of the 20 consecutive Trading Days during the applicable Cash Settlement Averaging Period, plus cash in lieu of any fractional
+(h)           Upon exchange, Holders will not be entitled to any additional cash payment for accrued and unpaid interest, except to the extent set forth below.
+Notwithstanding the foregoing, if Notes are exchanged after 5:00 p.m., New York City time, on a Regular Record Date but prior to 9:00 a.m., New York City time, on the corresponding Interest Payment Date, Holders of such Notes at 5:00 p.m., New York City time, on such Regular Record Date will receive the interest payable on such Notes on the corresponding Interest Payment Date notwithstanding the exchange of such Notes.
+Any Notes surrendered for exchange during the period from 5:00 p.m., New York City time, on any Regular Record Date to 9:00 a.m., New York City time, on the corresponding Interest Payment Date (whether or not the Holder was the Holder of record on the Regular Record Date) must be accompanied by funds equal to the amount of interest payable on the Notes so exchanged; provided that no such payment need be made:
+then the Company shall increase the Exchange Rate for the Notes so surrendered for exchange by a number of additional shares of OI Inc. Common Stock (the “Additional Shares”) as set forth in this Section 11.03.
+Stock Price
+$33.91
+$40.00
+$50.00
+$60.00
+$70.00
+$80.00
+$90.00
+$100.00
+$110.00
+$120.00
+3.6882
+2.5675
+1.9426
+1.5591
+1.0764
+0.9403
+0.8320
+1.6176
+1.2718
+1.0487
+0.9040
+0.7922
+0.7032
+5.4955
+2.9465
+1.8134
+1.2696
+0.8109
+0.6859
+0.6004
+0.5331
+1.3095
+0.8615
+0.6513
+0.5457
+0.4717
+0.4162
+0.3717
+1.5550
+0.6541
+0.4011
+0.2719
+0.2386
+0.2120
+0.1899
+(iii)          if the Stock Price is less than $33.91 per share (subject to adjustment in the same manner as the Stock Prices set forth in the column headings of the table above pursuant to Section 11.03(c)), the Exchange Rate will not be increased.
+(e)           Notwithstanding the foregoing, in no event will the Exchange Rate exceed 29.4898 shares per $1,000 principal amount of Notes, subject to adjustments in the same manner as the Exchange Rate pursuant to Section 11.04.
+(f)            If a Holder exchanges a Note after the Effective Date for a Make-Whole Fundamental Change described in clause (2) of the definition of Fundamental Change  in which the holders of the OI Inc. Common Stock receive only cash in consideration for their shares of OI Common Stock in such Fundamental Change, in lieu of settling such exchange in accordance with Section 11.02, the Company will pay to such Holder, for each $1,000 principal amount of the Notes exchanged, on the third Business Day immediately following the Exchange Date for such Note, an amount of cash equal to the product of (i) the Stock Price for such Make-Whole Fundamental Change and (ii) the applicable Exchange Rate (as increased by the number of Additional Shares, if any, when required under this Section 11.03).
+(b)           If OI Inc. distributes to all or substantially all holders of its OI Inc. Common Stock any rights, options or warrants entitling them for a period of not more than 60 calendar days from the issuance date for such distribution to subscribe for or purchase shares of OI Inc. Common Stock, at a price per share less than the average of the Last Reported Sale Prices of OI Inc. Common Stock for the ten consecutive Trading Day period ending on, and including, the Trading Day immediately preceding the declaration date of such distribution, the applicable Exchange Rate will be adjusted based on the following formula:
+ER0           =        the applicable Exchange Rate in effect immediately prior to 9:00 a.m., New York City time, on the Ex-Dividend Date for such distribution;
+ER                           =        the applicable Exchange Rate in effect immediately after 9:00 a.m., New York City time, on such Ex-Dividend Date for such distribution;
+OS0           =        the number of shares of OI Inc. Common Stock outstanding immediately prior to 9:00 a.m., New York City time, on such Ex-Dividend Date for such distribution;
+Y                                  =        the number of shares of OI Inc. Common Stock equal to the aggregate price payable to exercise such rights, options or warrants divided by the average of the Last Reported Sale Prices of OI Inc. Common Stock over the ten consecutive Trading Day period ending on, and including, the Trading Day immediately preceding the declaration date for such distribution.
+ER0           =        the applicable Exchange Rate in effect immediately prior to 9:00 a.m., New York City time, on the Ex-Dividend Date for such distribution;
+ER                           =        the applicable Exchange Rate in effect immediately after 9:00 a.m., New York City time, on such Ex-Dividend Date for such distribution;
+SP0            =        the average of the Last Reported Sale Prices of OI Inc. Common Stock over the ten consecutive Trading Day period ending on, and including, the Trading Day immediately preceding the Ex-Dividend Date for such distribution; and
+ER0           =        the applicable Exchange Rate in effect immediately prior to 9:00 a.m., New York City time, on the Ex-Dividend Date for such Spin-Off;
+ER                           =        the applicable Exchange Rate in effect immediately after 9:00 a.m., New York City time, on such Ex-Dividend Date for such spin-off;
+FMV               =        the average of the Last Reported Sale Prices of the Capital Stock or similar equity interest distributed to holders of OI Inc. Common Stock applicable to one share of OI Inc. Common Stock (determined for purposes of the definition of Last Reported Sale Price as if such Capital Stock or similar equity interest were the OI Inc. Common Stock) over the first ten consecutive Trading Day period commencing on, and including, the Effective Date for the Spin-Off (the “Valuation Period”); and
+MP0         =        the average of the Last Reported Sale Prices of OI Inc. Common Stock over the Valuation Period.
+ER0           =        the applicable Exchange Rate in effect immediately prior to 9:00 a.m., New York City time, on the Ex-Dividend Date for such dividend or distribution;
+ER                           =        the applicable Exchange Rate in effect immediately after 9:00 a.m., New York City time, on the Ex-Dividend Date for such dividend or distribution;
+SP0            =        the average of the Last Reported Sale Prices of OI Inc. Common Stock over the ten consecutive Trading Day period ending on, and including, the Trading Day immediately preceding the Ex-Dividend Date for such dividend or distribution; and
+C                                  =        the amount in cash per share OI Inc. distributes to holders of OI Inc. Common Stock.
+(e)           If OI Inc. or any of its Subsidiaries makes a payment in respect of a tender offer or exchange offer for OI Inc. Common Stock and the cash and value of any other consideration included in the payment per share of OI Inc. Common Stock exceeds the average of the Last Reported Sale Prices of OI Inc. Common Stock over the ten consecutive Trading Day period commencing on, and including, the Trading Day next succeeding the last date on which tenders or exchanges may be made pursuant to such tender or exchange offer (the “Expiration Date”) , the applicable Exchange Rate will be increased based on the following formula:
+OS0           =        the number of shares of OI Inc. Common Stock outstanding immediately prior to the time such tender or exchange offer expires (the “Expiration Time”) (prior to giving effect to such tender offer or exchange offer);
+OS                          =        the number of shares of OI Inc. Common Stock outstanding immediately after the Expiration Time (after giving effect to the purchase of all shares accepted for purchase or exchange in such tender or exchange offer); and
+(i)            receives shares of OI Inc. Common Stock based on an adjusted Exchange Rate; and
+then, in lieu of receiving shares of OI Inc. Common Stock at such an adjusted Exchange Rate, the Company shall adjust the number of shares of OI Inc. Common Stock that OI Inc. will
+(k)           Adjustments to the applicable Exchange Rate shall be calculated to the nearest 1/10,000th of a share.
+In all cases, (A) the amount otherwise payable in cash upon exchange of the Notes pursuant to Section 11.02(b) shall continue to be payable in cash, (B) the number of shares of OI Inc. Common Stock otherwise deliverable upon exchange of the Notes pursuant to Section 11.02(b) will be instead be deliverable in the amount and type of Reference Property that a Holder of that number of shares of OI Inc. Common Stock would have received in such transaction and (C) the Daily VWAP shall be calculated based on the value of a unit of Reference Property that a holder of one share of OI Inc. Common Stock would have received in such transaction; provided, however, that if the holders of OI Inc. Common Stock receive only cash in such transaction, the amount deliverable upon exchange shall equal the Exchange Rate in effect on the Exchange Date multiplied by the price paid per share of OI Inc. Common Stock in such transaction and settlement will occur on the third Trading Day following the Exchange Date.
+3.00% Exchangeable Senior Note due 2015
+Owens-Brockway Glass Container Inc., a Delaware corporation, promises to pay to Cede & Co., or registered assigns, the principal sum of           dollars [or such lesser amount as is indicated in the records of the Trustee and DTC] on June 1, 2015, and to pay interest thereon from May 7, 2010, or from the most recent Interest Payment Date to which interest has been paid or duly provided for, semi-annually on June 1 and December 1 of each year, commencing December 1, 2010, at the rate of 3.00% per annum, until the principal hereof is paid or made available for payment or exchanged.
+The interest so payable, and punctually paid or duly provided for, on any Interest Payment Date will, as provided in the Indenture, be paid to the Person in whose name this Note (or one or more predecessor Notes) is registered at 5:00 p.m., New York City time, on the Regular Record Date for such interest, which shall be May 15 or November 15 (whether or not a Business Day), as the case may be, next preceding such Interest Payment Date.
+3.00% Exchangeable Senior Note due 2015
+The Company promises to pay interest on the principal amount of this Note at the rate per annum shown above.
+The Company shall pay interest semiannually on June 1 and December 1 of each year, commencing on December 1, 2010.
+Interest shall be computed on the basis of a 360-day year of twelve 30-day months.
+The Company shall pay interest on overdue principal at the rate borne by the Notes, and it shall pay interest on overdue installments of interest at the same rate to the extent lawful.
+In addition, the Company will pay Registration Default Additional Interest, if any, pursuant to Section 4.05 and Reporting Default Additional Interest, if any, pursuant to Section 6.13 of the Indenture.
+If any Interest Payment Date, the Maturity Date or any earlier required purchase date upon a Fundamental Change of a Note falls on a day that is not a Business Day, the required payment will be made on the next succeeding Business Day and no interest on such payment will accrue in respect of the delay.
+Method of Payment
+The Company shall pay interest on the Notes (except defaulted interest) to the Persons in whose name a Note is registered at 5:00 p.m., New York City time, on the May 15 or November 15, as the case may be, immediately preceding the relevant Interest Payment Date even if Notes are canceled after the Regular Record Date and on or before the Interest Payment Date.
+The Company shall pay principal and interest in money of the United States of America that at the time of payment is legal tender for payment of public and private debts.
+Payments in respect of the Notes represented by a Global Note (including principal and interest) shall be made by wire transfer of immediately available funds to the accounts specified by The Depository Trust Company or any successor depositary.
+The Company will make all payments in respect of a certificated Note (including principal and interest), at the office of the Paying Agent, except that, at the option of the Company, payment of interest may be made by mailing a check to the
+Upon the occurrence of a Fundamental Change, each Holder has the right, at such Holder’s option, to require the Company to purchase all of such Holder’s Notes or any portion thereof (in principal amounts of $1,000 or multiples thereof) on the Fundamental Change Purchase Date at a price equal to 100% of the principal amount of the Notes such Holder elects to require the Company to purchase, together with accrued and unpaid interest to, but excluding, the Fundamental Change Purchase Date.
+The initial Exchange Rate shall be 21.0642 shares of OI Inc. Common Stock for each $1,000 principal amount of Notes.
+The Notes are in registered form without coupons in minimum denominations of $1,000 and whole multiples of $1,000 in excess thereof.
+If money for the payment of principal, interest, or any shares of OI Inc. Common Stock or other property due in respect of exchanged Notes, if any, remains unclaimed for two years, the Trustee and the Paying Agent shall pay the money or any shares of OI Inc. Common Stock or other property due in respect of exchanged Notes back to the Company or OI Inc., as the case may be, at its written request unless an abandoned property law designates another Person.
+The undersigned registered owner of this Note hereby irrevocably acknowledges receipt of a notice from Owens-Brockway Glass Container Inc. (the “Company”) regarding the right of holders to elect to require the Company to purchase the Notes and requests and instructs the Company to repay the entire principal amount of this Note, or the portion thereof (which is $1,000 or an integral multiple thereof) below designated, in accordance with the terms of the Indenture at the price of 100% of such entire principal amount or portion thereof, together with accrued and unpaid interest to, but excluding, the Fundamental Change Purchase Date to the registered holder hereof.
+Principal amount to be purchased (if less than all, must be $1,000 or integral multiples thereof):
+This certificate relates to $                   principal amount of Notes held in (check applicable space)          book-entry or            definitive form by the undersigned.
+This certificate relates to                    shares of common stock, par value $0.01 per share, of Owens-Illinois, Inc. (the “Securities”) held in (check applicable space)          book-entry or            definitive form by the undersigned.

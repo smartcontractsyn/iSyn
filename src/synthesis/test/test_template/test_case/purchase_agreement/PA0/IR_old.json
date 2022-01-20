@@ -1,0 +1,39 @@
+{
+    "BuyerName": [
+        "FORD MOTOR CREDIT COMPANY LLC"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "ContractCategory": "PurchaseAgreement",
+    "EffectiveTime": [
+        "May\u00a01, 2015"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "FORD MOTOR CREDIT COMPANY LLC"
+            ],
+            "PurchasePrice": "1829526188.22",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "To": [
+                "FORD MOTOR CREDIT COMPANY LLC"
+            ],
+            "Transfer": false
+        }
+    ],
+    "SellerName": [
+        "FORD MOTOR CREDIT COMPANY LLC"
+    ],
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    },
+    "Transfers": true
+}

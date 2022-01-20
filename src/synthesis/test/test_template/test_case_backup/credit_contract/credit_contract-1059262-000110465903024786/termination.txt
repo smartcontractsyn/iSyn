@@ -1,0 +1,143 @@
+4.15
+4.20
+4.23
+7.12
+7.14
+7.15
+No Waiver By Conduct; Remedies Cumulative
+8.15
+(4)           there is no bankruptcy, insolvency or liquidation proceeding by or against the Account Debtor with respect thereto;
+(10)         such Account Receivable is not more than (a) 60 days past the due date thereof or (b) 90 days past the original invoice date thereof, in each case according to the original terms of sale;
+“LIBOR Interest Period” shall mean, with respect to any LIBOR Loan, the period commencing on the day such Loan is made or converted to a LIBOR Loan and ending on the date one, two or three months thereafter, as the Company may elect under Section 2.4 or 2.7, and each subsequent period commencing on the last day of the immediately preceding LIBOR Interest Period and ending on the date one, two or three months thereafter, as the Company may elect under Section 2.4 or 2.7, provided, however, that (a) any LIBOR Interest Period which commences on the last LIBOR Business Day of a calendar month (or on any day for which there is no numerically corresponding day in the appropriate subsequent calendar month) shall end on the last LIBOR Business Day of the appropriate subsequent calendar month, (b) each LIBOR Interest Period which would otherwise end on a day which is not a LIBOR Business Day shall end on the next succeeding LIBOR Business Day or, if such next succeeding LIBOR Business Day falls in the next succeeding calendar month, on the next preceding LIBOR Business Day, and (c) no LIBOR Interest Period which would end after the Revolving Credit Termination Date shall be permitted.
+“Ordinary Course Lease Termination” shall mean (i) the termination of an Ordinary Course Equipment Lease or an Ordinary Course Capital Lease pursuant to either (a) the termination of the related Facility Management Agreement or Facility Lease, or (b) a material modification of the related Facility Management Agreement or Facility Lease such that the items of equipment or motor vehicles which are leased under such Ordinary Course Equipment Lease or Ordinary Course Capital Lease are no longer needed or useful for the purposes of performance under such Facility Management Agreement or Facility Lease by the Company or the applicable Subsidiary, and (ii) termination of a Facility Lease or Facility Management Agreement that is no longer needed or useful in the business judgment of the Company.
+“Revolving Credit Termination Date” shall mean the earlier to occur of (i) June 30, 2006, and (ii) the date on which the Revolving Commitments shall be terminated pursuant to Section 2.2 or 6.2.
+“Term Loan Termination Date” shall mean the earlier to occur of (i) July 31, 2006, and (ii) the date on which the Revolving Commitments shall be terminated in full pursuant to Section 2.2 or 6.2.
+The Term Loan Commitments shall expire concurrently with the making of the Term Loan on the Closing Date.
+(a)           The Company shall have the right to terminate or reduce the Revolving Commitments at any time and from time to time, provided that (i) the Company shall give notice of such termination or reduction to the Agent specifying the amount and effective date thereof, (ii) each partial reduction thereof shall be in a minimum amount of $5,000,000 and in an integral multiple of $1,000,000 and shall reduce such Revolving Commitments of all of the Revolving Lenders proportionately in accordance with their respective Revolving Commitments, (iii) no such termination or reduction shall be permitted with respect to any portion of any such Revolving Commitments as to which a request for a Revolving Credit Advance pursuant to Section 2.4 is then pending, and (iv) the Revolving Commitments may not be terminated if any Revolving Credit Advances are then outstanding and may not be reduced below the principal amount of Revolving Credit Advances then outstanding.
+The Revolving Commitments or any portion thereof terminated or reduced pursuant to this Section 2.2, may not be reinstated.
+(c)           Subject to subsection 3.1(a)(ii), the Company shall not prepay the Term Loan at any time prior to the repayment in full of the Revolving Credit Advances and the termination of the Revolving Commitments, unless the Agent shall otherwise agree.
+3.5           No Setoff or Deduction.
+No Plan has been terminated within the past five years, and no steps have been taken to terminate any Plan.
+4.14         No Default.
+September 30, 2003
+December 31, 2003
+March 31, 2004
+June 30, 2004
+September 30, 2004
+December 31, 2004
+March 31, 2005
+June 30, 2005
+September 30, 2005
+December 31, 2005
+March 31, 2006
+June 30, 2006
+September 30, 2003
+December 31, 2003
+March 31, 2004
+June 30, 2004
+September 30, 2004
+December 31, 2004
+March 31, 2005
+June 30, 2005
+September 30, 2005
+December 31, 2005
+March 31, 2006
+June 30, 2006
+September 30, 2003
+December 31, 2003
+March 31, 2004
+June 30, 2004
+September 30, 2004
+December 31, 2004
+March 31, 2005
+June 30, 2005
+September 30, 2005
+December 31, 2005
+March 31, 2006
+June 30, 2006
+September 30, 2003
+December 31, 2003
+March 31, 2004
+June 30, 2004
+September 30, 2004
+December 31, 2004
+March 31, 2005
+June 30, 2005
+September 30, 2005
+December 31, 2005
+March 31, 2006
+June 30, 2006
+September 30, 2003
+December 31, 2003
+March 31, 2004
+June 30, 2004
+September 30, 2004
+December 31, 2004
+March 31, 2005
+June 30, 2005
+September 30, 2005
+December 31, 2005
+March 31, 2006
+June 30, 2006
+September 30, 2003
+December 31, 2003
+March 31, 2004
+June 30, 2004
+September 30, 2004
+December 31, 2004
+March 31, 2005
+June 30, 2005
+September 30, 2005
+December 31, 2005
+March 31, 2006
+June 30, 2006
+September 30, 2003
+December 31, 2003
+March 31, 2004
+June 30, 2004
+September 30, 2004
+December 31, 2004
+March 31, 2005
+June 30, 2005
+September 30, 2005
+December 31, 2005
+March 31, 2006
+June 30, 2006
+September 30, 2003
+December 31, 2003
+March 31, 2004
+June 30, 2004
+September 30, 2004
+December 31, 2004
+March 31, 2005
+June 30, 2005
+September 30, 2005
+December 31, 2005
+March 31, 2006
+June 30, 2006
+(3)           Intentionally Omitted;
+September 30, 2003
+December 31, 2003
+March 31, 2004
+June 30, 2004
+September 30, 2004
+December 31, 2004
+March 31, 2005
+June 30, 2005
+September 30, 2005
+December 31, 2005
+March 31, 2006
+June 30, 2006
+(a)           Nonpayment.
+(b)           Misrepresentation.
+Any of the following (i) the occurrence of a Reportable Event that results in liability of the Company, any Subsidiary or Guarantor or any ERISA Affiliate to the PBGC or to any Plan and such Reportable Event is not corrected within thirty (30) days after the occurrence thereof; (ii) the occurrence of any Reportable Event which could constitute grounds for termination of any Plan by the PBGC or for the appointment by the appropriate United States District Court of a trustee to administer any Plan and such Reportable Event is not corrected within thirty (30) days after the occurrence thereof; (iii) the filing by the Company, any Subsidiary or Guarantor or any ERISA Affiliate of a notice of intent to terminate a Plan or the institution of other proceedings to terminate a Plan; (iv) the Company, any Subsidiary or Guarantor or any ERISA Affiliate shall fail to pay when due any liability to the PBGC or to a Plan; (v) the PBGC shall have instituted proceedings to terminate, or to cause a trustee to be appointed to administer, any Plan; (vi) any Person engages in a Prohibited Transaction with respect to any Plan which results in liability of the Company, any Subsidiary or Guarantor, or any ERISA Affiliate;  (vii) there shall occur a complete or partial withdrawal from, or a default within the meaning of Section 4219(c)(5) of ERISA with respect to one or more Multiemployer Plans which could cause the Company, any Subsidiary or Guarantor or any ERISA Affiliate to incur a current payment obligation; (viii) the Company, any Subsidiary or Guarantor or any ERISA Affiliate shall fail to make a required installment or other payment to any Plan within the meaning of Section 302(f) of ERISA or Section 412(n) of the Code that results in or could result in liability of the Company, any Subsidiary of the Company or any ERISA Affiliate to the PBGC or any Plan; (ix) the withdrawal of the Company, any of its Subsidiaries or any ERISA Affiliate from a Plan during a plan year in which it was a “substantial employer” as defined in Section 4001(a)(2) of ERISA; or (x) the Company, any of its Subsidiaries or any ERISA Affiliate becomes an employer with respect to any Multiemployer Plan without the prior written consent of the Required Lenders; provided, however, that the aggregate liability caused by any of the foregoing exceeds $1,000,000;
+(a)           Upon the occurrence and during the continuance of any Event of Default, by notice to the Company (i) the Agent may, and upon being directed to do so by the Required Revolving Lenders shall, terminate the Revolving Commitments or (ii) the Agent may, and upon
+7.12         Successor Agent.
+If no successor Agent shall have been so appointed by the Required Lenders within thirty (30) days after the resigning Agent’s giving notice of its intention to resign, then the resigning Agent may appoint, on behalf of the Company and the Lenders, a successor Agent.
+Upon the effectiveness of the resignation of the Agent, the resigning Agent shall be discharged from its duties and obligations hereunder and under the Loan Documents.
+7.15         Sharing of Payments.
+(a)           No amendment, modification, termination or waiver of any provision of this Agreement nor any consent to any departure therefrom shall be effective unless the same shall be in writing and signed by the Required Lenders or as otherwise provided in clauses (i) through (xiii) below, as applicable,
+(1)           subject to Section 6.2(a), amend or terminate the Commitment of any Lender or modify the provisions of this Section regarding the taking of any action under this Section or the provisions of Sections 6.2, 6.3 or 7.10 or the definitions of Required Lenders, Required Revolving Lenders and Required Term Loan Lenders, or
+8.3           No Waiver By Conduct; Remedies Cumulative.
+8.14         Judgment and Payment.
+8.15         Submission To Jurisdiction; Waivers.

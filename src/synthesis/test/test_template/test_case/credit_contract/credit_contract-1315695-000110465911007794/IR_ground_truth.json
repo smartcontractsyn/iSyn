@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "ROCKWOOD SPECIALTIES GROUP"
+    ],
+    "BuyerName": [
+        "Lenders"
+    ],
+    "EffectiveTime": [
+        "February 10, 2011"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                ""
+            ],
+            "To": [
+                "ROCKWOOD SPECIALTIES GROUP"
+            ],
+            "PurchasePrice": "850000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

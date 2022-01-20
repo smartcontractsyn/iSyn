@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "AGREEMENT AND PLAN OF MERGER",
+    "SellerName": [
+        "Envision Healthcare Holdings, Inc."
+    ],
+    "BuyerName": [
+        "New Amethyst Corp."
+    ],
+    "EffectiveTime": [
+        "June 15, 2016"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "New Amethyst Corp."
+            ],
+            "To": [
+                "Envision Healthcare Holdings, Inc."
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

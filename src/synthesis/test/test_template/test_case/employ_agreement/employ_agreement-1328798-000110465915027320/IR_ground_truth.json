@@ -1,0 +1,40 @@
+{
+    "SellerName": [
+        "GARY T. NEDELKA"
+    ],
+    "BuyerName": [
+        "FOSTER WHEELER NORTH AMERICA CORP."
+    ],
+    "EffectiveTime": [
+        "January 6, 2009"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "FOSTER WHEELER NORTH AMERICA CORP."
+            ],
+            "To": [
+                "GARY T. NEDELKA"
+            ],
+            "PurchasePrice": "440000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

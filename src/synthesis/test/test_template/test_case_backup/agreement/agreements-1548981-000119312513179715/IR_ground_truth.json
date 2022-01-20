@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "LAURIE A. HAWKES"
+    ],
+    "BuyerName": [
+        "AMERICAN RESIDENTIAL PROPERTIES, INC."
+    ],
+    "EffectiveTime": [
+        ""
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "AMERICAN RESIDENTIAL PROPERTIES, INC."
+            ],
+            "To": [
+                "LAURIE A. HAWKES"
+            ],
+            "PurchasePrice": "500000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

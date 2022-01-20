@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "STANDARD PARKING CORPORATION"
+    ],
+    "BuyerName": [
+        "Lenders"
+    ],
+    "EffectiveTime": [
+        "August 28, 2003"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "September 30"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Lenders"
+            ],
+            "To": [
+                "STANDARD PARKING CORPORATION"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": true
+            },
+            "PurchasePrice": 500000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

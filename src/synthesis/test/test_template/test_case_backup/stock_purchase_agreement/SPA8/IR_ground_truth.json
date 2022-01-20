@@ -1,0 +1,38 @@
+{
+    "SellerName": [
+        "Mark Capital, LLC"
+    ],
+    "BuyerName": [
+        "Craig Pierson"
+    ],
+    "EffectiveTime": [
+        "6th  February, 2007,"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Craig Pierson"
+            ],
+            "To": [
+                "Mark Capital, LLC"
+            ],
+            "PurchasePrice": "35000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

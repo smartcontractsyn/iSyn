@@ -1,0 +1,109 @@
+4.03(a)(i)
+4.03(a)(ii)
+2.03(d)
+4.03(a)
+7.01(10)
+4.11(a)(3)
+2.03(c)
+2.03(c)
+4.03(b)
+7.01
+4.04(e)
+3.01(b)
+4.03(e)(2)
+4.03(e)(3)
+4.11(a)(3)
+2.03(c)
+4.03(a)(ii)
+11.01(c)
+11.01(a)
+4.04(d)
+7.01(10)
+3.02(a)
+3.02(b)
+2.14(a)
+4.04(c)
+4.03(b)
+8.06(a)
+Cancellation.
+The Trustee and no one else shall cancel, in accordance with its standard procedures, all Securities surrendered for transfer, exchange, purchase, payment or cancellation, shall dispose of the canceled Securities in accordance with its customary procedures and shall confirm such cancellation to the Issuer in writing.
+(2)                                 Notwithstanding any other provisions of this Indenture or the Securities, a Global Security shall not be exchanged in whole or in part for a Security registered, and no transfer of a Global Security in whole or in part shall be registered, in the name of any Person other than the Depositary or one or more nominees thereof; provided that a Global Security may be exchanged for securities registered in the names of any person designated by the Depositary in the event that (A) the Depositary has notified the Issuer that it is unwilling or unable to continue as Depositary for such Global Security or such Depositary has ceased to be a “clearing agency” registered under the Exchange Act, and a successor Depositary is not appointed by the Issuer within 90 days after receiving such notice or becoming aware that the Depositary has ceased to be a “clearing agency,” or (B) an Event of Default has occurred and is continuing with respect to the Securities.
+(a)                                 If a Change in Control occurs at any time prior to June 15, 2033, a Holder of Securities shall have the right, at its option, to require the Issuer to repurchase such Holder’s Securities not previously called for redemption, in whole or in part (in principal amounts of
+(9)                                 that, unless the Issuer defaults in making payment of the Change in Control Purchase Price, such Securities shall cease to be Outstanding and interest on such Securities shall cease to accrue and all rights of the Holders of such Securities shall terminate on and after the Change in Control Purchase Date; and
+(d)                                 A Change in Control Purchase Notice is irrevocable and may not be withdrawn unless waived or consented to by the Issuer in writing.
+If the Paying Agent holds, in accordance with the terms of the Indenture, money sufficient to pay the Change in Control Purchase Price of such Securities on the Change in Control Purchase Date or the Business Day following the Change in Control Purchase Date, then, on and after such date, such Securities shall cease to be Outstanding and interest on such Securities shall cease to accrue and all rights of the Holders of such Securities shall terminate (other than the right to receive the Change in Control Purchase Price after delivery or transfer of the Securities).
+If the Paying Agent holds, in accordance with the terms of the Indenture, money sufficient to pay the Repurchase Price of such Securities on the Repurchase Date or the Business Day following the Repurchase Date, then, on and after such date, such Securities shall cease to be Outstanding and interest on such Securities shall cease to accrue and all rights of the Holders of such Securities shall terminate (other than the right to receive the Repurchase Price after delivery or transfer of the Securities).
+Any Securities surrendered for cancellation may not be reissued or resold and will be canceled promptly in accordance with Section 2.13.
+June 19, 2013
+10.2722
+7.6087
+June 15, 2014
+10.2722
+8.3154
+3.9916
+2.8221
+1.4543
+June 15, 2015
+10.2722
+9.0812
+4.3051
+2.1207
+June 15, 2016
+10.2722
+4.5799
+3.1553
+2.1830
+June 15, 2017
+10.2722
+10.2722
+7.1360
+3.2719
+June 15, 2018
+10.2722
+10.2722
+4.9276
+3.2630
+2.1476
+1.4030
+June 15, 2019
+10.2722
+10.2722
+7.4299
+4.8063
+3.0713
+June 15, 2020
+10.2722
+10.2722
+4.3009
+June 15, 2021
+10.2722
+3.2263
+June 15, 2022
+10.2722
+7.3059
+June 15, 2023
+10.2722
+(d)                                 of the voluntary or involuntary dissolution, liquidation or winding up of the Parent Guarantor;
+The Issuer may not make any change to such election subsequent to May 17, 2033.
+(4)                                 failure by the Issuer to deliver the amount due upon an exchange of Securities, which failure continues for 10 days; or
+(7)                                 the Issuer or a Guarantor, as the case may be, fails to pay a final, non-appealable judgment entered by a court of competent jurisdiction against the Issuer or a Guarantor, as the case may be, in excess of $25,000,000, which judgment is not paid, discharged or stayed within 30 days after such judgment becomes final and non-appealable;
+If an Event of Default specified in clause (8), (9)  or (10) of Section 7.01 occurs and is continuing, the
+At any time after such a declaration of acceleration with respect to the Securities has been made and before a judgment or decree for payment of the money due has been obtained by the Trustee as hereinafter in this Article provided, the Holders of not less than a majority in principal amount of the Securities Outstanding, by written notice to the Issuer, the Guarantors and the Trustee, may rescind and annul such declaration and its consequences if:
+On such 60th day after such Event of Default (if the Event of Default relating to such obligation is not cured or waived prior to such 60th day), the Securities will be subject to acceleration as provided above.
+When a Default or Event of Default is waived, it is cured and ceases to exist.
+(4)                                 the Trustee does not comply with the request within 60 days after receipt of the request and the offer of security or indemnity; and
+Such lien shall survive the satisfaction and discharge of this Indenture or the resignation or removal of the Trustee.
+(a)                                 The Trustee may resign by so notifying the Issuer and the Guarantors.
+The Issuer may remove the Trustee at any time, so long as no Default or Event of Default has occurred and is continuing, and appoint a Successor Trustee in accordance with this Section 8.08.
+(b)                                 If the Trustee resigns or is removed or if a vacancy exists in the office of Trustee for any reason, the Issuer shall promptly appoint a successor Trustee.
+The resignation or removal of a Trustee shall not be effective until a successor Trustee shall have delivered the written acceptance of its appointment as described below.
+(c)                                  If a successor Trustee does not take office within 30 days after the retiring Trustee resigns or is removed, the retiring Trustee, the Issuer or the Holders of 10% in principal amount of the Securities then Outstanding may petition any court of competent jurisdiction for the appointment of a successor Trustee at the expense of the Issuer.
+However, any such Holder or subsequent Holder may revoke the consent as to its Security or portion of a Security if the Trustee receives the notice of revocation before the date the amendment, supplement or waiver becomes effective.
+(a)                                 The Issuer shall not have the right to redeem any Securities prior to June 15, 2020, except as provided in this Section 11.01(a).
+(3)                                 that Securities called for redemption may be exchanged at any time prior to the close of business on the third Business Day immediately preceding the Redemption Date; and
+(iii)                               all rights of Holders of such Securities will terminate except the right to receive the redemption price.
+(c)                                  The Guarantee shall continue to be effective or be reinstated, as the case may be, if at any time payment on any Security, in whole or in part, is rescinded or must otherwise be repaid to the Issuer or any Guarantor upon the bankruptcy, liquidation or reorganization of the Issuer, any Guarantor or otherwise.
+The Issuer shall not have the right to redeem any Securities prior to June 15, 2020, except as provided in this paragraph.
+A Change in Control Purchase Notice is irrevocable and may not be withdrawn.
+(d)                                 If the Paying Agent holds, in accordance with the terms of the Indenture, money sufficient to pay the Change in Control Purchase Price or Repurchase Price of such Securities on the Change in Control Purchase Date, the Repurchase Date or the Business Day following any such date, then, on and after such date and set forth in the Indenture, such Securities shall cease to be Outstanding and interest on such Securities shall cease to accrue, and all other rights of the Holder shall terminate (other than the right to receive the Change in Control Purchase Price or Repurchase Price upon delivery or transfer of the Securities).
+On such 60th day after such Event of Default (if the Event of Default relating to such obligation is not cured or waived prior to such 60th day), the Securities will be subject to acceleration as provided above.

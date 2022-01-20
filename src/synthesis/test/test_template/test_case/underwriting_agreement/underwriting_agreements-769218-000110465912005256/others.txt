@@ -1,0 +1,630 @@
+Exhibit 1.2
+8.000% NON-CUMULATIVE SUBORDINATED NOTES DUE 2042
+Merrill Lynch, Pierce, Fenner & Smith Incorporated
+Citigroup Global Markets Inc.
+Morgan Stanley & Co. LLC
+Wells Fargo Securities, LLC
+Merrill Lynch, Pierce, Fenner & Smith Incorporated
+One Bryant Park
+Citigroup Global Markets Inc.
+388 Greenwich Street
+Morgan Stanley & Co. LLC
+1585 Broadway
+Wells Fargo Securities, LLC
+301 S. College Street
+As Representatives of the Underwriters named in Schedule II hereto
+Ladies and Gentlemen:
+1
+Section 2 hereof.
+The Firm Securities and the Additional Securities are hereinafter collectively referred to as the “Securities.”
+The Company has filed with the United States Securities and Exchange Commission (the “Commission”) a shelf registration statement on Form F-3 (No.
+333-174878) covering the registration of various types of securities under the United States Securities Act of 1933, as amended (the “Securities Act”), including the Securities, and has filed with, or transmitted for filing to, or shall promptly hereafter file with or transmit for filing to, the Commission a prospectus supplement (the “Prospectus Supplement”) specifically relating to the Securities pursuant to Rule 424 under the Securities Act.
+The term “Registration Statement” means the registration statement, including the exhibits thereto, as amended to the date of this Agreement and includes any prospectus supplement that is filed with the Commission and deemed by virtue of Rule 430B to be part of the Registration Statement.
+The term “Basic Prospectus” means the prospectus dated June 14, 2011 included in the Registration Statement.
+The term “Prospectus” means the Basic Prospectus together with the Prospectus Supplement in the form filed pursuant to Rule 424(b) of the Securities Act (or in the form first made available to the Underwriters by the Company to meet requests of purchasers pursuant to Rule 173 under the Securities Act).
+The term “preliminary prospectus” means a preliminary prospectus supplement specifically relating to the Securities, together with the Basic Prospectus.
+The preliminary prospectus, the Time of Sale Prospectus (as defined below) and the Prospectus will be used in connection with the offering and sale of the Securities.
+As used in this Agreement, the following terms have the following meanings:
+“Free Writing Prospectus” has the meaning set forth in Rule 405 under the Securities Act.
+“Issuer Free Writing Prospectus” has the meaning set forth in Rule 433 under the Securities Act.
+“Time of Sale Prospectus” means the preliminary prospectus, together with any Free Writing Prospectus listed on Schedule III hereof.
+As used herein, the terms “Registration Statement,” “Basic Prospectus,” “Prospectus”, “preliminary prospectus” and the “Time of Sale Prospectus” shall include, in each case, the documents, if any, incorporated by reference therein.
+The terms “supplement,” “amendment” and “amend” as used herein shall include all documents deemed to be incorporated by reference in the Registration Statement, the Basic Prospectus, the Prospectus, the preliminary prospectus and the Time of Sale Prospectus that are filed subsequent to the date of the Basic Prospectus by the Company with the Commission pursuant to the
+2
+United States Securities Exchange Act of 1934, as amended (the “Exchange Act”) but, with respect to the Time of Sale Prospectus, shall not include any incorporated documents filed after the Time of Sale.
+1.
+Representations and Warranties.
+The Company represents and warrants to and agrees with each of the Underwriters that:
+(a)                               The Registration Statement has become effective; no stop order suspending the effectiveness of the Registration Statement is in effect, and no proceedings for such purpose are pending before or, to the Company’s knowledge, threatened by the Commission.
+(b)                              (i) Each document, if any, incorporated by reference or deemed to be incorporated by reference in the Time of Sale Prospectus and the Prospectus, complied or will comply when so filed in all material respects with the requirements of the Exchange Act and the applicable rules and regulations of the Commission thereunder, (ii) each part of the Registration Statement, when such part became effective, did not contain, and each such part, as amended or supplemented, if applicable, will not contain, any untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading, (iii) the Registration Statement, the Time of Sale Prospectus and the Prospectus comply and, as amended or supplemented, if applicable, will comply in all material respects with the requirements of the Securities Act and the United States Trust Indenture Act of 1939, as amended (the “Trust Indenture Act”), and the applicable rules and regulations of the Commission thereunder and (iv) the Time of Sale Prospectus as of the Time of Sale did not contain and the Prospectus does not contain and the Prospectus, as amended or supplemented, if applicable, will not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading, except that the representations and warranties set forth in this paragraph do not apply to statements or omissions in (A) that part of the Registration Statement constituting the Statement of Eligibility and Qualification (Form T-1) under the Trust Indenture Act of the Trustee or (B) the Registration Statement, the Time of Sale Prospectus or the Prospectus based upon information relating to any Underwriter furnished to the Company in writing by such Underwriter through you expressly for use therein.
+(c)                               The Company (including its agents and representatives, other than the Underwriters) has not made, used, prepared, authorized, approved or referred to and will not prepare, make, use, authorize, approve or refer to or make any offer relating to the Securities that would constitute a Free Writing Prospectus other than (i) any document not constituting a prospectus pursuant to Section 2(a)(10)(a) of the Securities
+3
+Any such Free Writing Prospectus as of its issue date and at all subsequent times through the completion of the public offer and sale of the Securities, complies or will comply in all material respects with the requirements of the Securities Act and the rules and regulations thereunder and has been, or will be, filed with the Commission in accordance with the Securities Act (to the extent required pursuant to Rule 433(d) thereunder).
+(d)                              The Company has not distributed and will not distribute, prior to the later of the Closing Date and the completion of the Underwriters’ distribution of the Securities, any offering material in connection with the offering and sale of the Securities other than a preliminary prospectus, the Prospectus, the Time of Sale Prospectus or any Issuer Free Writing Prospectus reviewed and consented to by the Representatives or included in Schedule I hereto or the Registration Statement.
+(e)                               The Company has been duly incorporated and is validly existing as a public company with limited liability under the laws of The Netherlands, has the corporate power and authority to own, lease and operate its property and to conduct its business as described in the Time of Sale Prospectus and is duly qualified to transact business and in good standing in each jurisdiction in which the conduct of its business or its ownership or leasing of property requires such qualification and in which the failure to be so qualified would have a material adverse effect on the condition, financial or otherwise, or on the earnings, business, prospects or operations of the Company and its subsidiaries taken as a whole (a “Material Adverse Effect”).
+(f)                                  Each subsidiary of the Company has been duly incorporated, is validly existing as a corporation under the laws of the jurisdiction of its incorporation, has the corporate power and authority to own its property and to conduct its business as described in the Time of Sale Prospectus and is duly qualified to transact business in each jurisdiction in which the conduct of its business or its ownership or leasing of property requires such qualification and in which the failure to be so qualified would have a Material Adverse Effect.
+(g)                               The authorized capital stock of the Company conforms as to legal matters to the description thereof contained in the Time of Sale Prospectus and the Prospectus.
+(h)                               At the Closing Date (as defined below), the Securities will have been duly authorized, and, when executed and authenticated in
+4
+accordance with the provisions of the Indenture and delivered and paid for pursuant to this Agreement, will constitute valid and legally binding obligations of the Company enforceable in accordance with their terms subject to bankruptcy, insolvency, reorganization, moratorium and other laws of general applicability relating to or affecting creditors’ rights and entitled to the benefits provided by the Indenture; the Indenture has been duly authorized by the Company and, at the Closing Date, as defined hereinafter, will have been executed and delivered by the Company and duly qualified under the Trust Indenture Act and, assuming due authorization, execution and delivery of the Indenture by the Trustee, the Indenture will, at the Closing Date, be a valid and legally binding instrument of the Company enforceable in accordance with its terms subject to bankruptcy, insolvency, reorganization, moratorium and other laws of general applicability relating to or affecting creditors’ rights.
+(i)                                   This Agreement has been duly authorized, executed and delivered by the Company.
+(j)                                  The execution and delivery by the Company of, and the performance by the Company of its obligations under, and the consummation by the Company of the transactions contemplated in, this Agreement, the Securities and the Indenture, will not contravene any provision of (i) applicable law or (ii) the Articles of Association of the Company or any equivalent corporate governance document of any subsidiary or (iii) any license, indenture, mortgage, deed of trust, loan agreement or other agreement or instrument binding upon the Company or any of its subsidiaries that is material to the Company and its subsidiaries, taken as a whole, or (iv) any judgment, order or decree of any governmental body, agency or court having jurisdiction over the Company or any of its subsidiaries or any of their respective properties or assets, and no consent, approval, authorization, registration, notification, clearance, order or qualification of or with any court, governmental or supranational body or agency or taxing authority is required for the performance by the Company of its obligations under this Agreement, the Securities and the Indenture, except such as may be required by the securities or Blue Sky laws of the various states in connection with the offer and sale of the Securities.
+(k)                              There are (i) no legal or governmental, administrative or other proceedings pending or, to the Company’s knowledge, threatened to which the Company or any of its subsidiaries is a party or to which any of the properties of the Company or any of its subsidiaries is subject that (A) except as disclosed in the Time of Sale Prospectus, would have a Material Adverse Effect or in any manner question the validity of this Agreement, the Indenture or the Securities or the ability of the Company to perform its obligations thereunder or (B) are required to be described in the Registration Statement or the Time of Sale Prospectus and are not so
+5
+described and (ii) no statutes, regulations, contracts or other documents that are required to be described in the Registration Statement or the Time of Sale Prospectus or to be filed or incorporated by reference as exhibits to the Registration Statement that are not described, filed or incorporated as required.
+(l)                                   There has not occurred any material adverse change, or any development involving a prospective material adverse change, in the condition, financial or otherwise, or in the earnings, business, prospects or operations of the Company and its subsidiaries, taken as a whole, from that set forth in the Time of Sale Prospectus (exclusive of any amendments or supplements thereto subsequent to the Time of Sale).
+(m)                           Each preliminary prospectus filed as part of the Registration Statement as originally filed or as part of any amendment thereto, or filed pursuant to Rule 424 under the Securities Act, and the Basic Prospectus complied when so filed in all material respects with the requirements of the Securities Act and the applicable rules and regulations of the Commission thereunder.
+(n)                               The Company is not, and, after giving effect to the offering and sale of the Securities and the application of the proceeds thereof as described in the Time of Sale Prospectus and the Prospectus, will not be required to register as an “investment company” within the meaning of the United States Investment Company Act of 1940, as amended.
+(o)                              Neither the Company nor, to the knowledge of the Company, any director, officer, employee or affiliate is currently the subject of any U.S. sanctions administered by the Office of Foreign Assets Control of the U.S. Treasury Department (“OFAC”); and the Company will not use the proceeds of the offering, or lend, contribute or otherwise make available such proceeds to any subsidiary, joint venture partner or other person or entity, for the purpose of financing the activities of any person who, at the time of such financing, is the subject of any U.S. sanctions administered by OFAC (for purposes of this Section 1(o), “subject to U.S. sanctions” means that a U.S. person would be prohibited by sanctions administered by OFAC from transacting with such a person).
+(p)                              At the time of filing the Registration Statement and any post-effective amendment thereto, at the earliest time thereafter that the Company or any offering participant made a bona fide offer (within the meaning of Rule 164(h)(2) under the Securities Act) of the Securities and at the date hereof, the Company was not and is not an “ineligible issuer,” and the Company was and is a well-known seasoned issuer, in each case as defined in Rule 405 under the Securities Act.
+6
+2.
+Any exercise notice shall specify the aggregate principal amount of Additional Securities to be purchased by the Underwriters and the date on which such Securities are to be purchased.
+Additional Securities may be purchased as provided in Section 4 hereof solely for the purpose of covering over-allotments made in connection with the offering of the Firm Securities.
+3.
+Terms of the Offering.
+The Company is advised by you that the Underwriters propose to offer the Securities for sale to the public as set forth in the Time of Sale Prospectus.
+7
+4.
+5.
+Conditions to the Underwriters’ Obligations.
+The several obligations of the Underwriters are subject to the following conditions:
+(a)                               Subsequent to the Time of Sale and prior to the Closing Date there shall have been no material adverse change in the condition, financial or otherwise, or in the earnings, business, prospects or operations of the Company and its subsidiaries, taken as a whole, from that set forth in the Time of Sale Prospectus (exclusive of any amendments or supplements thereto subsequent to the date of this Agreement).
+The officer signing and delivering such certificate may rely upon the best of his or her knowledge as to proceedings threatened.
+8
+6.
+Covenants of the Company.
+In further consideration of the agreements of the Underwriters herein contained, the Company covenants with each Underwriter as follows:
+9
+Prospectus, the Time of Sale Prospectus and/or the Registration Statement as you may reasonably request.
+(d)                              If required by Rule 430B(h) under the Securities Act, to prepare a form of prospectus in a form which shall be provided to the Representatives for their review and comment prior to any filing and to file such form of prospectus pursuant to Rule 424(b) under the Securities Act.
+(e)                               If the Time of Sale Prospectus is being used to solicit offers to buy the Securities at a time when the Prospectus is not yet available to prospective purchasers and any event shall occur or condition exist as a result of which it is necessary to amend or supplement the Time of Sale Prospectus in order to make the statements therein, in the light of the circumstances, not misleading, or if any event shall occur or condition exist as a result of which any Free Writing Prospectus included as part of the Time of Sale Prospectus conflicts with the information contained in the Registration Statement then on file, or if, in the opinion of counsel for the Underwriters, it is necessary to amend or supplement the Time of Sale Prospectus to comply with applicable law, the Company shall forthwith prepare (subject to Sections 6(b) and 6(c) hereof), file with the Commission and furnish, at its own expense, to the Underwriters and to any dealer upon request, either amendments or supplements to the Time of Sale Prospectus so that the statements therein as so amended or supplemented will not, in the light of the circumstances when delivered to a prospective purchaser, be misleading or so that any Free Writing Prospectus which is included as part of the Time of Sale Prospectus, as amended or supplemented, will no longer conflict with the Registration Statement, or so that the Time of Sale Prospectus as amended or supplemented, will comply with applicable law.
+(f)                                  If, during such period after the first date of the offering of the Securities as in the opinion of counsel for the Underwriters the Prospectus (or in lieu thereof the notice referred to in Rule 173(a) under
+10
+the Securities Act) is required by law to be delivered or made available to investors in connection with sales by an Underwriter, any event shall occur or condition exist as a result of which it is necessary to amend or supplement the Prospectus in order to make the statements therein, in the light of the circumstances when the Prospectus (or in lieu thereof the notice referred to in Rule 173(a) under the Securities Act) is delivered to a purchaser, not misleading, or if, in the opinion of counsel for the Underwriters, it is necessary to amend or supplement the Prospectus to comply with applicable law, forthwith to prepare (subject to Section 6(b) hereof), file with the Commission and furnish, at its own expense, to the Underwriters, either amendments or supplements to the Prospectus so that the statements in the Prospectus as so amended or supplemented will not, in the light of the circumstances when the Prospectus (or in lieu thereof the notice referred to in Rule 173(a) under the Securities Act) is delivered to a purchaser, be misleading or so that the Prospectus, as amended or supplemented, will comply with law.
+The Company will not use, authorize, approve, refer to or file any Free Writing Prospectus to which the Underwriters reasonably object.
+The Company will not take any action that would result in an Underwriter being required to file with the Commission pursuant to Rule 433(d) under the Securities Act a Free Writing Prospectus prepared by or on behalf of the Underwriter that the Underwriter otherwise would not have been required to file thereunder.
+(h)                               To endeavor to qualify the Securities for offer and sale under the securities or Blue Sky laws of such jurisdictions as you shall reasonably request.
+(i)                                   To use all reasonable efforts to list the Securities on the New York Stock Exchange.
+(j)                                  To make generally available to the Company’s security holders and to you as soon as practicable an earnings statement that satisfies the provisions of Section 11(a) of the Securities Act and the rules and regulations of the Commission thereunder.
+(k)                              Pursuant to reasonable procedures developed in good faith, to retain copies of each Free Writing Prospectus that is not required to be filed with the Commission in accordance with Rule 433 under the Securities Act.
+(l)                                   Except as otherwise expressly provided or agreed, whether or not the transactions contemplated in this Agreement are consummated
+11
+or this Agreement is terminated, to pay or cause to be paid the following expenses incident to the performance of its obligations under this Agreement: (i) the fees, disbursements and expenses of the Company’s counsel and the Company’s accountants in connection with the registration and delivery of the Securities under the Securities Act and all other fees or expenses in connection with the preparation and filing of the Registration Statement, any preliminary prospectus, the Time of Sale Prospectus, any Free Writing Prospectus or the Prospectus and amendments and supplements to any of the foregoing, including all printing costs associated therewith, and the mailing and delivering of copies thereof to the Underwriters, in the quantities hereinabove specified, (ii) all costs and expenses related to the delivery of the Securities to the Underwriters, including any taxes payable thereon,  (iii) the costs and charges of any transfer agent, registrar or depositary, (iv) the fees and disbursements of the Trustee and its counsel, and (v) any fees charged by rating agencies for the rating of the Securities.
+Except as expressly provided otherwise, the Underwriters shall pay all their costs and expenses including, without limitation, fees and disbursements of their counsel.
+7.
+Covenants of Underwriters.
+(a)                               Each Underwriter understands that no action has been or will be taken in any jurisdiction, except in the United States, that would permit a public offering of the Securities, or the possession, circulation or distribution of the Prospectus, any Free Writing Prospectus, the Time of Sale Prospectus or any other material relating to the Company in any jurisdiction where action for that purpose is required.
+(b)                              (i) Each of the Underwriters has complied and will comply with all applicable provisions of the Financial Services and Markets Act 2000 (the ‘‘FSMA’’) with respect to anything done by it in relation to the Securities in, from or otherwise involving the United Kingdom; and (ii) each of the Underwriters has only communicated or caused to be communicated and will only communicate or cause to be communicated any invitation or inducement to engage in investment activity (within the meaning of Section 21 of the FSMA) received by it in connection with the issue or sale of the Securities in circumstances in which Section 21(1) of the FSMA does not apply to the Company.
+(c)                               In relation to each Member State of the European Economic Area which has implemented the Prospectus Directive (each, a “Relevant Member State”), each Underwriter has represented and agreed that, with effect from and including the date on which the Prospectus Directive is implemented in that Relevant Member State, it has not made and will not make an offer of the Securities to the public in that Relevant Member State other than: (a) to any legal entity which is a qualified investor as defined in the Prospectus Directive; (b) to fewer than 100 or, if
+12
+the Relevant Member State has implemented the relevant provision of the 2010 PD Amending Directive, 150, natural or legal persons (other than qualified investors as defined in the Prospectus Directive), subject to obtaining the prior consent of the relevant underwriter or underwriters nominated by the Company for any such offer; or (c) in any other circumstances falling within Article 3(2) of the Prospectus Directive, provided that no such offer of the Securities shall require the Company or the Underwriters to publish a prospectus pursuant to Article 3 of the Prospectus Directive or supplement a prospectus pursuant to Article 16 of the Prospectus Directive, and provided further that no such offer of the Securities shall be made in the Netherlands except pursuant to (a) above.
+For the purpose of the above provisions, the expression “an offer to the public” in relation to any Securities in any Relevant Member State means the communication in any form and by any means of sufficient information on the terms of the offer and the Securities to be offered so as to enable an investor to decide to purchase or subscribe the Securities, as the same may be varied in the Relevant Member State by any measure implementing the Prospectus Directive in the Relevant Member State and the expression “Prospectus Directive” means Directive 2003/71/EC (including the 2010 PD Amending Directive, to the extent implemented in the Relevant Member State) and includes any relevant implementing measure in the Relevant Member State and the expression “2010 PD Amending Directive” means Directive 2010/73/EU.
+(d)                              The Underwriters will not take any action (including without limitation, the possession or distribution of the Preliminary Prospectus, any Free Writing Prospectus, the Time of Sale Prospectus, the Prospectus or any other offering document or any publicity or other material relating to the Securities) in any country or jurisdiction where such action would (i) result in any violation of applicable law, or (ii) cause the issuance of the Securities to be considered an offering to the public under applicable law.
+(e)                               The Underwriters shall not use, refer to or distribute any Free Writing Prospectus except:
+(i)                              a Free Writing Prospectus that (A) is not an Issuer Free Writing Prospectus, and (B) contains only information describing the preliminary terms of the Securities or their offering, which information is limited to the categories of terms referenced on Schedule I or otherwise permitted under Rule 134 of the Securities Act;
+(ii)                           a Free Writing Prospectus as shall be agreed in writing with the Company that has not been distributed, used or referenced by such Underwriter in a manner reasonably designed
+13
+to lead to its broad unrestricted dissemination unless the Company consents in writing to such dissemination; and
+(iii)                        a Free Writing Prospectus identified in Schedule III hereto as forming part of the Time of Sale Prospectus.
+8.
+Indemnity and Contribution.
+(a)                               The Company agrees to indemnify and hold harmless each Underwriter, each person, if any, who controls any Underwriter within the meaning of either Section 15 of the Securities Act or Section 20 of the Exchange Act and each affiliate of any Underwriter within the meaning of Rule 405 under the Securities Act, from and against any and all losses, claims, damages and liabilities (including, without limitation, any legal or other expenses reasonably incurred in connection with defending or investigating any such action or claim) caused by any untrue statement or alleged untrue statement of a material fact contained in the Registration Statement or any amendment thereof, any preliminary prospectus, any Issuer Free Writing Prospectus that the Company has filed or is required to file pursuant to Rule 433(d) under the Securities Act, any Time of Sale Prospectus and the Prospectus (as amended or supplemented if the Company shall have furnished any amendments or supplements thereto), or caused by any omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, except insofar as such losses, claims, damages or liabilities are caused by any such untrue statement or omission or alleged untrue statement or omission based upon information relating to any Underwriter furnished to the Company in writing by such Underwriter through you expressly for use therein.
+(b)                              Each Underwriter agrees, severally and not jointly, to indemnify and hold harmless the Company, the directors of the Company, officers of the Company who sign the Registration Statement and each person, if any, who controls the Company within the meaning of either Section 15 of the Securities Act or Section 20 of the Exchange Act to the same extent as the foregoing indemnity from the Company to such Underwriter, but only with reference to information relating to such Underwriter furnished to the Company in writing by such Underwriter through the Representatives expressly for use in the Registration Statement, any preliminary prospectus, any Free Writing Prospectus that
+14
+the Company has filed or is required to file pursuant to Rule 433(d) under the Securities Act, any Time of Sale Prospectus or the Prospectus or any amendments or supplements thereto.
+In any such proceeding, any indemnified party shall have the right to retain its own counsel, but the fees and expenses of such counsel shall be at the expense of such indemnified party unless (i) the indemnifying party and the indemnified party shall have mutually agreed to the retention of such counsel or (ii) the named parties to any such proceeding (including any impleaded parties) include both the indemnifying party and the indemnified party and representation of both parties by the same counsel would be inappropriate due to actual or potential differing interests between them.
+It is understood that the indemnifying party shall not, in respect of the legal expenses of any indemnified party in connection with any proceeding or related proceedings in the same jurisdiction, be liable for the fees and expenses of more than one separate firm (in addition to any local counsel) for all such indemnified parties and that all such fees and expenses shall be reimbursed as they are incurred.
+The indemnifying party shall not be liable for any settlement of any proceeding effected without its written consent, but if settled with such consent or if there be a final judgment for the plaintiff, the indemnifying party agrees to indemnify the indemnified party from and against any loss or liability by reason of such settlement or judgment.
+No indemnifying party shall, without the prior written consent of the indemnified party, effect any settlement of any pending or threatened proceeding in respect of which any indemnified party is or could have been a party and indemnity could have been sought hereunder by such indemnified party, unless such settlement (1) includes an unconditional release of such indemnified party from all liability on claims that are the subject matter of such proceeding and (2) does not include a statement as to an admission of fault, culpability or failure to act by or on behalf of any indemnified party.
+(d)                              To the extent the indemnification provided for in Section 8(a) or 8(b) is unavailable to an indemnified party or insufficient in respect
+15
+of any losses, claims, damages or liabilities referred to therein, then each indemnifying party under such paragraph, in lieu of indemnifying such indemnified party thereunder, shall contribute to the amount paid or payable by such indemnified party as a result of such losses, claims, damages or liabilities (i) in such proportion as is appropriate to reflect the relative benefits received by the Company on the one hand and the Underwriters on the other hand from the offering of the Securities or (ii) if the allocation provided by clause 8(d)(i) above is not permitted by applicable law, in such proportion as is appropriate to reflect not only the relative benefits referred to in clause 8(d)(i) above but also the relative fault of the Company on the one hand and of the Underwriters on the other hand in connection with the statements or omissions that resulted in such losses, claims, damages or liabilities, as well as any other relevant equitable considerations.
+The relative benefits received by the Company on the one hand and the Underwriters on the other hand in connection with the offering of the Securities shall be deemed to be in the same respective proportions as the net proceeds from the offering of the Securities (before deducting expenses) received by the Company and the total underwriting discounts and commissions received by the Underwriters, in each case as set forth in the table on the cover of the Prospectus, bear to the aggregate offering price of the Securities.
+The relative fault of the Company on the one hand and the Underwriters on the other hand shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by the Company or by the Underwriters and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission.
+The Underwriters’ respective obligations to contribute pursuant to this Section 8 are several in proportion to the respective principal amount of Securities they have purchased hereunder, and not joint.
+(e)                               The Company and the Underwriters agree that it would not be just or equitable if contribution pursuant to this Section 8 were determined by pro rata allocation (even if the Underwriters were treated as one entity for such purpose) or by any other method of allocation that does not take account of the equitable considerations referred to in Section 8(d).
+The amount paid or payable by an indemnified party as a result of the losses, claims, damages and liabilities referred to in the immediately preceding paragraph shall be deemed to include, subject to the limitations set forth above, any legal or other expenses reasonably incurred by such indemnified party in connection with investigating or defending any such action or claim.
+Notwithstanding the provisions of this Section 8, no Underwriter shall be required to contribute any amount in excess of the amount by which the principal amount of Securities underwritten by it and distributed to the public exceeds the amount of any damages that such Underwriter has otherwise been required to pay by reason of such untrue
+16
+or alleged untrue statement or omission or alleged omission.
+No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation.
+The remedies provided for in this Section 8 are not exclusive and shall not limit any rights or remedies which may otherwise be available to any indemnified party at law or in equity.
+(f)                                  The indemnity and contribution provisions contained in this Section 8 and the representations, warranties and other statements of the Company contained in this Agreement shall remain operative and in full force and effect regardless of (i) any termination of this Agreement,  (ii) any investigation made by or on behalf of any Underwriter, any person controlling any Underwriter or any affiliate of any Underwriter or by or on behalf of the Company, the officers or directors of the Company or any person controlling the Company and (iii) acceptance of and payment for any of the Securities.
+9.
+Termination.
+10.
+Effectiveness; Defaulting Underwriters.
+This Agreement shall become effective upon the execution and delivery hereof by the parties hereto.
+17
+amount of Firm Securities set forth opposite their respective names in Schedule II bears to the aggregate principal amount of Firm Securities set forth opposite the names of all such non-defaulting Underwriters, or in such other proportions as you may specify, to purchase the Securities which such defaulting Underwriter or Underwriters agreed but failed or refused to purchase on such date; provided that in no event shall the principal amount of Securities that any Underwriter has agreed to purchase pursuant to this Agreement be increased pursuant to this Section 10 by an amount in excess of one-ninth of such principal amount of Securities without the written consent of such Underwriter.
+Any action taken under this paragraph shall not relieve any defaulting Underwriter from liability in respect of any default of such Underwriter under this Agreement.
+11.
+Arm’s Length Relationship; No Fiduciary Duty.
+The Company acknowledges and agrees that: (i) the purchase and sale of the Securities pursuant to this Agreement, including the determination of the public offering price of the Securities and any related discounts and commissions, is an arm’s-length commercial transaction between the Company, on the one hand, and the several
+18
+Underwriters, on the other hand; (ii) in connection with the offering contemplated hereby and the process leading to such transaction each Underwriter is and has been acting solely as a principal and is not the agent or fiduciary of the Company, or its stockholders, creditors, employees or any other party; (iii) no Underwriter has assumed or will assume an advisory or fiduciary responsibility in favor of the Company with respect to the offering contemplated hereby or the process leading thereto (irrespective of whether such Underwriter has advised or is currently advising the Company on other matters) and no Underwriter has any obligation to the Company with respect to the offering contemplated hereby except the obligations expressly set forth in this Agreement; (iv) the several Underwriters and their respective affiliates may be engaged in a broad range of transactions that involve interests that differ from those of the Company; and (v) the Underwriters have not provided any legal, accounting, regulatory or tax advice with respect to the offering contemplated hereby and the Company has consulted its own legal, accounting, regulatory and tax advisors to the extent it deemed appropriate.
+12.
+Counterparts.
+This Agreement may be signed in two or more counterparts, each of which shall be an original, with the same effect as if the signatures thereto and hereto were upon the same instrument.
+13.
+Applicable Law.
+This Agreement shall be governed by and construed in accordance with the internal laws of the State of New York.
+14.
+Headings.
+The headings of the sections of this Agreement have been inserted for convenience of reference only and shall not be deemed a part of this Agreement.
+15.
+Submission to Jurisdiction; Appointment of Agent for Service.
+(a)                               The Company irrevocably submits to the non-exclusive jurisdiction of any New York State or United States Federal court sitting in The City of New York over any suit, action or proceeding arising out of or relating to this Agreement, the Prospectus, the Registration Statement or the offering of the Securities, and agrees that any such suit, action, or proceeding may be brought in any such court.
+The Company irrevocably waives, to the fullest extent permitted by law, any objection which it may now or hereafter have to the laying of venue of any such suit, action or proceeding brought in any such court and any claim that any such suit, action or proceeding brought in any such court has been brought in an inconvenient forum.
+To the extent that the Company has or hereafter may acquire any immunity (on the grounds of sovereignty or otherwise) from the jurisdiction of any court or from any legal process with respect to itself or its property, the Company irrevocably waives, to the fullest extent permitted by law, such immunity in respect of any such suit, action or proceeding.
+19
+(b)        The Company hereby irrevocably designates and appoints CT Corporation System, 111 Eighth Avenue, New York, New York 10011, as its authorized agent for service of process in any suit, action or proceeding described in the preceding paragraph and agrees that service of process in any such suit, action or proceeding may be made upon it at the office of such agent.
+The Company waives, to the fullest extent permitted by law, any other requirements of or objections to personal jurisdiction with respect thereto.
+The Company represents and warrants that such agent has agreed to act as the Company’s agent for service of process, and the Company agrees to take any and all action, including the filing of any and all documents and instruments, that may be necessary to continue such appointment in full force and effect.
+16.
+Judgment Currency.
+If for the purposes of obtaining judgment in any court it is necessary to convert a sum due hereunder into any currency other than United States dollars, the parties hereto agree, to the fullest extent permitted by law, that the rate of exchange used shall be the rate at which in accordance with normal banking procedures the Underwriters could purchase United States dollars with such other currency in The City of New York on the business day preceding that on which final judgment is given.
+The obligation of the Company with respect to any sum due from it to any Underwriter or any person controlling any Underwriter shall, notwithstanding any judgment in a currency other than United States dollars, not be discharged until the first business day following receipt by such Underwriter or controlling person of any sum in such other currency, and only to the extent that such Underwriter or controlling person may in accordance with normal banking procedures purchase United States dollars with such other currency.
+If the United States dollars so purchased are less than the sum originally due to such Underwriter or controlling person hereunder, the Company agrees as a separate obligation and notwithstanding any such judgment, to indemnify such Underwriter or controlling person against such loss.
+[SIGNATURE PAGES FOLLOW]
+20
+Very truly yours,
+By:
+/s/ C. Michiel van Katwijk
+Name:
+C. Michiel van Katwijk
+Title:
+Executive Vice President
+Accepted as of the date hereof.
+Citigroup Global Markets Inc.
+Morgan Stanley & Co. LLC
+Wells Fargo Securities, LLC
+Acting severally on behalf of themselves and the several Underwriters named in Schedule II hereto.
+By:
+By:
+/s/ Joseph A. Crowley
+Name:
+Joseph A. Crowley
+Title:
+Director
+By:
+Citigroup Global Markets Inc.
+By:
+/s/ Chandru M. Harjani
+Name:
+Chandru M. Harjani
+Title:
+Director
+By:
+Morgan Stanley & Co. LLC
+By:
+/s/ Yurij Slyz
+Name:
+Yurij Slyz
+Title:
+Executive Director
+By:
+Wells Fargo Securities, LLC
+By:
+/s/ Carolyn Hurley
+Name:
+Carolyn Hurley
+Title:
+Director
+SCHEDULE I
+FINAL PRICING TERM SHEET
+This communication relates only to the securities described below and should only be read together with the Preliminary Prospectus Supplement dated January 23, 2012 and the Prospectus dated June 14, 2011 relating to these securities.
+ISSUER:
+SECURITIES OFFERED:
+FORMAT:
+SEC-Registered Global Securities
+FORM AND DENOMINATION:
+TRADE DATE:
+SETTLEMENT DATE:
+INTEREST RATE:
+PRICE TO PUBLIC PER SUBORDINATED NOTE:
+Calculated based on actual retail sales and actual institutional sales
+PROCEEDS, BEFORE EXPENSES, TO THE ISSUER:
+OPTIONAL REDEMPTION:
+LISTING:
+NYSE expected
+007924 608 / US0079246080
+Merrill Lynch, Pierce, Fenner & Smith Incorporated, Citigroup Global Markets Inc., Morgan Stanley & Co. LLC, Wells Fargo Securities, LLC
+RBC Capital Markets, LLC, Barclays Capital, Inc., Deutsche Bank Securities Inc., HSBC Securities (USA) Inc., J.P. Morgan Securities LLC
+The Company has filed a registration statement (including a preliminary prospectus supplement and prospectus) with the U.S. Securities and Exchange Commission (SEC) for the offering to which this communication relates.
+Before you invest, you should read the preliminary prospectus supplement and prospectus in that registration statement and other documents the Company has filed with the SEC for more complete information about this offering.
+SCHEDULE II
+Underwriters
+Principal Amount
+of Firm Securities
+to be Purchased
+Merrill Lynch, Pierce, Fenner & Smith Incorporated
+$
+Citigroup Global Markets Inc.
+Morgan Stanley & Co. LLC
+Wells Fargo Securities, LLC
+RBC Capital Markets, LLC
+Barclays Capital Inc.
+Deutsche Bank Securities Inc.
+HSBC Securities (USA) Inc.
+J.P. Morgan Securities LLC
+Janney Montgomery Scott LLC
+Oppenheimer & Co. Inc.
+Pershing LLC
+Robert W. Baird & Co.
+Incorporated
+Wedbush Securities Inc.
+B.C.
+Ziegler and Company
+BB&T Capital Markets, a division of Scott & Stringfellow, LLC
+C. L. King & Associates, Inc.
+City Securities Corporation
+D.A.
+Davidson & Co.
+Davenport & Company LLC
+HRC Investment Services, Inc.
+J.J.B.
+Hilliard, W.L.
+Lyons, LLC
+Keefe, Bruyette & Woods, Inc.
+KeyBanc Capital Markets Inc.
+Morgan Keegan & Company, Inc.
+William Blair & Company, L.L.C.
+Total
+$
+SCHEDULE III
+Free Writing Prospectus filed with the Commission under Rule 433
+1.
+Final Term Sheet containing the final terms of the Securities substantially as set forth in Schedule I hereto
+EXHIBIT A
+Merrill Lynch, Pierce, Fenner & Smith Incorporated
+One Bryant Park
+Citigroup Global Markets Inc.
+388 Greenwich Street
+Morgan Stanley & Co. LLC
+1585 Broadway
+Wells Fargo Securities, LLC
+301 S. College Street
+Acting severally on behalf of themselves and as Representatives of the several Underwriters named in the Underwriting Agreement
+Ladies and Gentlemen:
+All expressions defined in the Underwriting Agreement have the same meanings in this opinion unless otherwise defined herein.
+I have acted as General Counsel to the Company in connection with the Underwriting Agreement.
+I have examined originals or copies certified to my satisfaction of the following documents:
+(a)          the Underwriting Agreement;
+(b)          the Articles of Association of the Company;
+(c)          the Prospectus and the Time of Sale Prospectus;
+A-1
+(d)          the Indenture;
+and such other documents and certificates/searches/records as I have felt necessary to give this opinion.
+I have not investigated the laws of any country other than the Netherlands.
+In particular I have made no independent investigation of the laws of the State of New York, United States of America.
+For the purpose of the opinions expressed herein, I have assumed:
+(i)            that (a) each party to the Underwriting Agreement and to the Indenture other than the Company has all requisite power (corporate and otherwise) to execute and deliver, and to perform its obligations under, the Underwriting Agreement and the Indenture, (b) the Underwriting Agreement and the Indenture have been duly authorised, executed and delivered by or on behalf of the parties thereto other than the Company and (c) each party to the Underwriting Agreement and the Indenture other than the Company has performed all of its obligations and otherwise complied in all respects with such agreements; and
+(ii)           that the Underwriting Agreement and the Indenture constitute the legal, valid and binding obligations of the parties thereto and are enforceable against those parties in accordance with their terms under the laws by which they are expressed to be governed and under the laws of any other relevant jurisdiction (other than the laws of the Netherlands).
+I am of the opinion that:
+1.
+The Company has been duly incorporated, is validly existing as a corporation under the laws of the Netherlands, has the corporate power and authority to own, lease and operate its property and to conduct its business as described in the Time of Sale Prospectus and is duly qualified to transact business in each jurisdiction in which the conduct of its business or the ownership or leasing of
+A-2
+property requires such qualification, except where the failure to be so qualified would not have a Material Adverse Effect;
+2.
+Each of the Company’s significant subsidiaries (as defined in Rule 1-02 of Article I of Regulation S-X under the Securities Act) incorporated in the Netherlands, the United States, and the United Kingdom (the “Significant Subsidiaries”), has been duly incorporated, is validly existing as a corporation under the laws of the jurisdiction of its incorporation, has the corporate power and authority to own, lease and operate its property and to conduct its business as described in the Time of Sale Prospectus and is duly qualified to transact business in each jurisdiction in which the conduct of its business or the ownership or leasing of property requires such qualification, except where the failure to be so qualified would not have a Material Adverse Effect;
+3.
+The authorized share capital of the Company conforms as to legal matters to the description thereof contained in the Time of Sale Prospectus and the Prospectus;
+4.
+The Securities have been duly authorized and, when executed and authenticated in accordance with the provisions of the Indenture and delivered and paid for pursuant to the Underwriting Agreement, will constitute valid and legally binding obligations of the Company enforceable in accordance with their terms subject to bankruptcy, insolvency, reorganization, moratorium and other laws of general applicability relating to or affecting creditors’ rights and to general principles of equity, and entitled to the benefits of the Indenture;
+5.
+The Underwriting Agreement and the Indenture, and all the transactions to which the Company is a party contemplated therein and completed or to be completed prior to or on the date hereof have been duly authorized by the Company, and the agreements (or amendments to existing agreements) entered into in connection therewith, including the Underwriting Agreement and the Indenture, have been executed and delivered by the Company and constitute valid and binding agreements of the Company enforceable in accordance with their terms subject to bankruptcy, insolvency, reorganization, moratorium and other laws of general applicability relating to or affecting creditors’ rights and to general principles of equity;
+6.
+The execution and delivery by the Company of, and the performance by the Company of its obligations under, and the consummation by the Company of the transactions contemplated in the Underwriting Agreement, the Securities and the Indenture, including the sale and delivery of the Securities, will not contravene, or result in a breach or violation of, or constitute a default under, any provision of (i) applicable law or administrative regulation or (ii) the Articles of Association of the Company or any equivalent corporate governance document of any Significant Subsidiary or, (iii) any license,
+A-3
+indenture, mortgage, deed of trust, loan agreement or other agreement or instrument, including, without limitation, the Indenture, binding upon the Company or any of its Significant Subsidiaries that is material to the Company and its Significant Subsidiaries, taken as a whole, or (iv) any judgment, order or decree of any governmental body, agency or court having jurisdiction over the Company or any Significant Subsidiary or any of their respective properties or assets, and no consent, approval, authorization, registration, notification, clearance, order or qualification of or with, any governmental or supranational body or agency or taxing authority is required for the performance by the Company of its obligations under the Underwriting Agreement, the Securities and the Indenture, including the sale and delivery of the Securities, except for (i) notice requirements to the Netherlands Central Bank pursuant to the Act on Foreign Financial Relations (Wet Financiele Betrekkingen Buitenland 1994) and regulations promulgated thereunder, and (ii) such as have been obtained or made and are in full force and effect; however, non-observance of these notice and registration requirements does not render the Underwriting Agreement void, nor does it affect the legality, validity or enforceability of the Underwriting Agreement or the obligations of the Company thereunder;
+7.
+After due inquiry, I am not aware of (i) any legal or governmental, administrative or other proceedings pending or threatened to which the Company or any of its Significant Subsidiaries is subject that (a) would have a Material Adverse Effect or in any manner question the validity of the Underwriting Agreement or the Securities or (b) are required to be described in the Registration Statement or the Time of Sale Prospectus and are not so described, or of (ii) any statutes, regulations, contracts or other documents that are required to be described in the Registration Statement or the Time of Sale Prospectus or to be filed or incorporated by reference as exhibits to the Registration Statement that are not described, filed or incorporated as required; and
+8.
+The statements relating to legal matters, documents or proceedings included in (i) the Prospectus Supplement under the caption “Description of the Subordinated Notes” (ii) the Basic Prospectus under the caption “Description of Debt Securities” and (iii) Items 4, 7 and 10 (except that no opinion is rendered with respect to Item 10E, “Taxation”) of the Company’s most recent annual report on Form 20-F incorporated by reference into the Prospectus and the Time of Sale Prospectus in each case fairly summarize in all material respects such matters, documents or proceedings.
+Terms not defined herein have the meaning assigned to such terms in the Underwriting Agreement.
+This opinion letter is given for the sole benefit of the Underwriters which are the original parties to the Underwriting Agreement and may not be relied upon by any
+A-4
+other person or entity without my prior written consent.
+Without my prior written consent, this opinion letter may not be transmitted to or filed with any person, firm, company or institution.
+Yours truly,
+Erik Lagendijk
+A-5
+EXHIBIT B
+Merrill Lynch, Pierce, Fenner & Smith Incorporated
+One Bryant Park
+Citigroup Global Markets Inc.
+388 Greenwich Street
+Morgan Stanley & Co. LLC
+1585 Broadway
+Wells Fargo Securities, LLC
+301 S. College Street
+Acting severally on behalf of themselves and as Representatives of the several Underwriters
+Amsterdam, January ·, 2012
+This legal opinion is rendered to you pursuant to clause 5(d) of the Underwriting Agreement.
+Capitalized terms used but not defined herein are used as defined in the Underwriting Agreement, unless the context requires otherwise.
+In rendering this opinion, we have examined and relied upon the following documents:
+B-1
+For the purpose of the opinions expressed herein, we have assumed:
+(i)            the genuineness of all signatures, the authenticity of all agreements, certificates, instruments and other documents submitted to us as originals and the conformity of all agreements, certificates, instruments and other documents submitted to us as copies;
+(ii)          that all factual matters, statements, certificates and other results of our investigation, relied upon or expressly assumed herein, are true and complete on the date of execution of the Underwriting Agreement;
+(iii)         that the deed of incorporation of the Company is a valid notarial deed (authentieke akte), that the contents thereof are correct and complete and that there were no defects in the incorporation (not appearing on the face of this deed) on the basis of which a court might dissolve the Company;
+Although not constituting conclusive evidence thereof, our assumption is supported by (a) the contents of the
+B-2
+Excerpt, and (b) information obtained by telephone today from the bankruptcy clerk’s office (faillissementsgriffie) of the district court (arrondissementsrechtbank) in The Hague;
+(vi)         that (a) each party to the Underwriting Agreement and to the Indenture other than the Company has all requisite power (corporate and otherwise) to execute and deliver, and to perform its obligations under, the Underwriting Agreement and the Indenture, (b) the Underwriting Agreement and the Indenture have been duly authorized, executed and delivered by or on behalf of the parties thereto other than the Company and (c) each party to the Underwriting Agreement and the Indenture other than the Company has performed all its obligations and otherwise complied in all respects with the Underwriting Agreement and the Indenture;
+(vii)        that the Underwriting Agreement, the Securities and the Indenture constitute the legal, valid and binding obligations of the parties thereto and are enforceable against those parties in accordance with their terms, and that the Securities will be entitled to the benefits of the Indenture, in each case under the laws by which they are expressed to be governed and under the laws of any other relevant jurisdiction (other than the laws of the Netherlands);
+(viii)       that the Underwriting Agreement and the Indenture have been, and that the Securities will be, signed on behalf of the Company by ·;
+(x)          that any law, other than Dutch law, which may apply to the Securities, the Indenture or the Underwriting Agreement (or any transactions contemplated thereby) or to any power of attorney issued by the Company would not be such as to affect any conclusion stated in this opinion; and
+(xii)        that the statements as made in Secretary’s Certificate are correct as of the date hereof.
+Based upon the foregoing and subject to any factual matters or documents not disclosed to us in the course of our investigation, and subject to the qualifications and limitations stated hereafter, we are of the opinion that:
+B-3
+1.
+The Company has been duly incorporated and is validly existing as a naamloze vennootschap (public company with limited liability) under the laws of the Netherlands.
+2.
+The Company has the corporate power to issue, execute, sell and deliver the Securities and to enter into the Underwriting Agreement and the Indenture and to perform its obligations thereunder.
+3.
+The Company has taken all necessary corporate action to authorise the execution and delivery by the Company of the Underwriting Agreement and the Indenture and the issuance, execution, sale and delivery by the Company of the Securities.
+4.
+The Securities have been duly authorised and when executed in accordance with assumption (viii) above and authenticated in accordance with the provisions of the Indenture and delivered and paid for pursuant to the Underwriting Agreement, will constitute valid and binding obligations of the Company enforceable in accordance with their terms and entitled to the benefits of the Indenture.
+5.
+The Indenture constitutes a valid and legally binding obligation of the Company enforceable in accordance with its terms.
+6.
+The Underwriting Agreement constitutes a valid and binding obligation of the Company.
+7.
+The subordination as provided for in Article · of the Eighth Supplemental Indenture is recognized under Dutch law as valid, binding and enforceable.
+Accordingly, the Securities will rank pari passu, without preference among themselves and will be subordinated to Senior Debt as defined in the Eighth Supplemental Indenture.
+8.
+No approval, authorisation, or other action by, or registration or filing with any governmental authority is required in connection with the execution by the Company of the Underwriting Agreement and the Indenture and the performance by the Company of its obligations thereunder, and no relevant exchange control regulations are currently in force in the Netherlands in connection therewith, except for (i) notice requirements to the Netherlands Central Bank (De Nederlandsche Bank N.V.) pursuant to the Act on Foreign Financial Relations (Wet Financiële Betrekkingen Buitenland 1994) and regulations promulgated thereunder, and (ii) such as have been obtained or made and are in full force and effect; however, non-observance of these notice and registration requirements does not render the Underwriting Agreement, the Indenture or the Securities void, nor does it affect the
+B-4
+legality, validity or enforceability of the obligations of the Company under the Underwriting Agreement and the Indenture.
+9.
+The execution and delivery by the Company of, and the performance by the Company of its obligations under, and the consummation by the Company of all of the transactions contemplated in the Underwriting Agreement, the Indenture and the Securities do not conflict with or result in a violation of the Articles or the provisions of any applicable law, rule or regulation of general application of the Netherlands or published case law of the courts of the Netherlands.
+10.
+The choice of the laws of the State of New York as the law governing the Underwriting Agreement, the Indenture and the Securities is valid and binding under the laws of the Netherlands, except (i) to the extent that any term of the Underwriting Agreement, the Indenture or the Securities or any provision of the laws of the State of New York applicable to the Underwriting Agreement, the Indenture or the Securities is manifestly incompatible with the public policy (ordre public) of the Netherlands, and except (ii) that a Dutch court may give effect to mandatory rules of the laws of another (including the Dutch) jurisdiction with which the situation has a close connection, if and insofar as, under the laws of that other jurisdiction those rules must be applied, whatever the chosen law.
+11.
+The consent to jurisdiction, as provided in Section 15 of the Underwriting Agreement and Section 114 of the Indenture is, in each case, valid and binding upon the Company under the laws of the Netherlands, provided, however, that such consent does not preclude that claims for provisional measures be brought before the president of a competent court in the Netherlands.
+12.
+In the absence of an applicable convention between the United States and the Netherlands, a judgement rendered by a New York court in the jurisdiction of that court will not be enforced by the courts of the Netherlands.
+In order to obtain a judgement which is enforceable in the Netherlands the claim must be re-litigated before a competent Netherlands court.
+A judgement rendered by a foreign court pursuant to the Underwriting Agreement, the Indenture or the Securities will, under current practice, be recognised by a Netherlands court (i) if that judgement results from proceedings compatible with Netherlands concepts of due process, and (ii) if that judgement does not contravene public policy (ordre public) of the Netherlands.
+If the judgement is recognised by a Netherlands court, that court will generally grant the same claim without re-litigation on the merits.
+13.
+Under the laws of the Netherlands, the Company would in the courts of the Netherlands not be entitled to invoke immunity from jurisdiction or immunity from execution on the grounds of sovereignty in respect of any
+B-5
+action arising out of its obligations under the Underwriting Agreement, the Indenture or the Securities.
+14.
+With respect to the execution and delivery of the Underwriting Agreement, no stamp duties (zegelrechten), issuance tax, transfer tax or similar taxes or duties except for capital tax which is payable by the Company will be imposed upon any of the parties thereto or the purchasers of the Securities procured by the Underwriters.
+15.
+In order to ensure the legality, validity or admissibility in evidence of the Underwriting Agreement, the Indenture or the Securities it is not necessary that any of these be filed, recorded or enrolled in any public office in the Netherlands.
+16.
+The statements set forth in the preliminary prospectus supplement specifically relating to the Securities which forms a part of the Time of Sale Prospectus under the caption “Taxation in the Netherlands” insofar as they purport to be a summary of Dutch tax laws, are fair and accurate.
+This opinion is subject to the following qualifications:
+(A)         The opinions expressed herein may be affected or limited by (i) the general defences available to obligors under Netherlands law in respect of the validity and enforceability of agreements and (ii) the provisions of any applicable bankruptcy (faillissement), insolvency, fraudulent conveyance (actio Pauliana), reorganisation, moratorium (surseánce van betaling), and other or similar laws of general application now or hereafter in effect, relating to or affecting the enforcement or protection of creditors’ rights.
+(B)         The enforcement in the Netherlands of the Underwriting Agreement, the Indenture, or the Securities will be subject to the rules of civil procedure as applied by the Netherlands courts.
+Specific performance may not always be available under Netherlands law.
+Enforcement in the Netherlands of a judgement expressed in a currency other than in euro may give rise to complications and it is, therefore, advisable to obtain a judgement expressed both in that currency and the equivalent thereof in euro.
+To the extent that the appointment by the Company of a process agent would be deemed to constitute a power of attorney or a mandate, this qualification would apply.
+B-6
+We express no opinion on any law other than the law of the Netherlands (unpublished case law not included) as it currently stands.
+We express no opinion on European Community law (insofar as it is not directly implemented in the Netherlands in statutes, rules or other regulations of general application) or on any anti-trust laws.
+In this opinion Netherlands legal concepts are expressed in English terms and not in their original Netherlands terms.
+The concepts concerned may not be identical to the concepts described by the same English term as they exist under the laws of other jurisdictions.
+This opinion may, therefore, only be relied upon under the express condition that any issues of interpretation or liability arising under the present legal opinion will be governed by Netherlands law and be brought before a Netherlands court only.
+This opinion is strictly limited to the matters stated herein and may not be read as extending by implication to any matters not specifically referred to.
+Nothing in this opinion should be taken as expressing an opinion in respect of the factual accuracy of the truthfulness of any representations or warranties, or other information as to factual matters, contained in the Underwriting Agreement, the Indenture, the Securities or any other document referred to herein or examined in connection with this opinion except as expressly confirmed herein.
+This opinion is given for the sole benefit of the Underwriters and may not be disclosed to any other person, nor relied upon by any other person or for any other purpose, nor is it to be quoted or made public in any way without our prior written consent.
+We undertake no responsibility to update or supplement this opinion.
+Yours sincerely,
+Allen & Overy LLP
+B-7
+EXHIBIT C-1
+[FORM OF OPINION OF U.S.
+Merrill Lynch, Pierce, Fenner & Smith Incorporated
+One Bryant Park
+Citigroup Global Markets Inc.
+388 Greenwich Street
+Morgan Stanley & Co. LLC
+1585 Broadway
+Wells Fargo Securities, LLC
+301 S. College Street
+Acting severally on behalf of themselves and as Representatives of the several Underwriters
+Ladies and Gentlemen:
+We have acted as special counsel to AEGON N.V., a limited liability public company incorporated under the laws of the Netherlands (the “Company”), on matters of New York and United States federal law in connection with the offer and sale of $500,000,000 aggregate principal amount of Securities.
+Capitalized terms used herein and not otherwise defined shall have the respective meanings set forth in the Underwriting Agreement.
+A.
+SCOPE OF REVIEW AND RELIANCE
+For purposes of this opinion letter, we have reviewed such documents and made such other investigations as we have deemed appropriate.
+As to certain matters of fact material to the opinions expressed, we have relied on the representations and
+C-1-1
+statements of fact made in the Underwriting Agreement and the other documents referred to below and other certificates of public officials and officers’ certificates provided by the Company and others.
+We have not independently verified or established the facts so relied on.
+Without limiting the generality of the foregoing, we have examined copies of:
+(i)           the registration statement of the Company on Form F-3 (No.
+333-174878) filed with the Commission on June 14, 2011, and the exhibits thereto as such registration statement has been amended through the date of the Underwriting Agreement (the “Registration Statement”), including the information deemed to be a part thereof as of the effective date thereof pursuant to Rule 430A under the Securities Act;
+(ii)          the Basic Prospectus, the Prospectus Supplement, any Free Writing Prospectus and the Time of Sale Prospectus;
+B.           ASSUMPTIONS
+In giving this opinion, we have assumed, without independent verification:
+(i)           that the performance of any obligation in any jurisdiction outside New York will not be illegal or ineffective by virtue of the laws of that jurisdiction;
+(ii)         the legal capacity of all signatories, the genuineness of all signatures, the conformity to original documents and the completeness of all documents submitted to us as copies or received by us by facsimile or other electronic transmission, and the authenticity and completeness of the originals of those documents and of all documents submitted to us as originals;
+(iii)         that (a) each of the parties to the Underwriting Agreement, the Indenture and the Securities, as the case may be, is duly organized and validly existing, has the power and authority to execute, deliver and perform its obligations under the Underwriting Agreement, the Indenture and the Securities, as the case may be, has taken all action necessary to authorize the execution, delivery and performance of the Underwriting Agreement, the Indenture and the Securities, as the case may be, and, except to the
+C-1-2
+extent expressly set out in the opinions below as to the Company, has duly executed and delivered the Underwriting Agreement, the Indenture and the Securities, as the case may be, (b) the Underwriting Agreement constitutes the legal, valid and binding obligation of each of the parties thereto, enforceable against each such party in accordance with its terms and (c) except to the extent expressly set out in the opinions below as to the Company, each of the Indenture and the Securities constitutes the legal, valid and binding obligation of the parties thereto, enforceable against each such party in accordance with its terms;
+(iv)         that the Company is able lawfully to issue and sell the Securities to be issued and sold by it pursuant to the Underwriting Agreement,  and that such Securities have been duly and validly authorized and issued;
+(v)         the accuracy of the representations and warranties, and compliance with the undertakings and agreements, of each of the parties contained in the Underwriting Agreement and the Indenture; and
+(vi)        that all offers and sales of the Securities will be made in compliance with, and in the manner contemplated by, the Prospectus, the Time of Sale Prospectus, the Underwriting Agreement and the Indenture, will not violate any applicable law (other than Applicable Laws) or result in a default under or breach of any agreement or instrument binding upon the Company and will comply with any requirement or restriction imposed by any court or governmental body having jurisdiction over the Company.
+C.        LIMITATIONS
+Our opinion expressed below is subject to the following limitations:
+1.
+We are admitted to practice in the State of New York and we have not investigated and do not express any opinion as to the laws of any jurisdiction other than the Applicable Laws.
+As used in this opinion, the term “Applicable Laws” refers to the laws of the State of New York and to the federal laws of the United States of America, in each case in effect on the date of this opinion, and to the extent they are normally applicable in relation to transactions of the type provided for in the Underwriting Agreement or the Indenture and excluding any law, rule or regulation relating to the securities or “blue sky” laws of any State of the United States.
+In particular, in this opinion we do not purport to pass on any matters governed by the laws of the Netherlands.
+In addition, our opinions do not address the effect on our opinions of laws not addressed by our opinions.
+2.
+We express no opinion as to matters of fact.
+C-1-3
+D.           OPINIONS
+On the basis of the foregoing, and having regard to such legal considerations as we deem relevant, we are of the opinion that:
+1.
+The Underwriting Agreement has been duly executed and delivered by the Company insofar as New York law is concerned.
+2.
+The Indenture has been duly executed and delivered by the Company insofar as New York law is concerned.
+3.
+The Indenture has been duly qualified under the Trust Indenture Act.
+4.
+The Indenture constitutes a valid and binding obligation of the Company (except that we express no opinion with respect to Article · (Subordination) of the Eighth Supplemental Indenture or any other provision(s) relating to subordination, priority or ranking contained in the Indenture) enforceable against the Company in accordance with its terms.
+If the choice of Dutch law as the law governing Article · (Subordination) of the Eighth Supplemental Indenture would be upheld as a valid choice of law under Dutch law, a New York court or a U.S. federal court sitting in New York, having proper jurisdiction and applying New York law, would give effect to the express choice of Dutch law contained in Article · (Subordination) of the Eighth Supplemental Indenture, so long as it was determined that: (a) the transactions contemplated by the Indenture bear a reasonable relationship to the Netherlands and (b) neither the provisions of the Indenture, nor the application of the laws of the Netherlands in accordance with the choice of law provisions in the Indenture, would violate any public policy of the State of New York, the United States or any other jurisdiction having an interest in the matter.
+5.
+When authenticated in accordance with the provisions of the Indenture and delivered and paid for pursuant to the Underwriting Agreement, the Securities will constitute valid and legally binding obligations of the Company enforceable in accordance with their terms and entitled to the benefits of the Indenture insofar as New York law is concerned.
+6.
+The execution and delivery by the Company of the Underwriting Agreement and the performance by the Company of its obligations thereunder and the consummation of the transactions contemplated thereby do not and will not result in any violation of any Applicable Laws (other than the federal securities laws of the United States as to which we express no opinion) or any agreement or other instrument that is listed as an exhibit to the Registration Statement as in effect on the date hereof and that is governed by the laws of the State of New York and is binding upon the Company or any of its subsidiaries.
+C-1-4
+7.
+No authorization, approval or consent of, and no filing or registration with, any governmental or regulatory authority or agency of the United States or of the State of New York that in our experience is normally applicable to companies such as the Company in relation to transactions of the type contemplated by the Underwriting Agreement is required under Applicable Laws on the part of the Company for the execution, delivery or performance by the Company of the Underwriting Agreement, the Indenture or the Securities other than those required under the Securities Act, Exchange Act or the Trust Indenture Act, or the rules and regulations thereunder, which have been obtained or effected (or as may be required under the securities or blue sky laws of the various States of the United States, as to which we express no opinion).
+8.
+The Company is not, and after giving effect to the offering and sale of the Securities and the application of the proceeds thereof as described in the Time of Sale Prospectus will not be, required to register as an “investment company” as such term is defined in the U.S. Investment Company Act of 1940, as amended.
+9.
+Assuming the validity of such actions under the laws of the Netherlands, the Company has, under the laws of the State of New York and the applicable federal laws of the United States relating to submission to jurisdiction, pursuant to Section 15 of the Underwriting Agreement and Section 114 of the Indenture (i) validly and irrevocably submitted to the non-exclusive personal jurisdiction of any federal or state court in The City of New York, State of New York, in any action arising out of or relating to the Underwriting Agreement and the Indenture or the transactions contemplated thereby, (ii) validly and effectively waived, to the extent it may effectively do so, any objection to the venue of a proceeding in any such court and (iii) validly appointed CT Corporation as its initial authorized agent for the purpose described in Section 15 of the Underwriting Agreement; and service of process effected on such agent in the manner set forth in the Underwriting Agreement will be effective under the laws of the State of New York to confer valid personal jurisdiction over the Company for such purposes.
+10.
+The discussions set forth in the preliminary prospectus supplement specifically relating to the Securities which forms a part of the Time of Sale Prospectus under “Taxation in the United States”, to the extent that they constitute matters of United States federal income tax law or legal conclusions with respect thereto currently applicable to U.S. holders and non-U.S. holders described therein, are (subject to the qualifications set forth therein) fair summaries of such matters in all material respects.
+C-1-5
+11.
+The statements relating to legal matters set forth in (i) the Prospectus Supplement under “Description of the Subordinated Notes” and (ii) the Basic Prospectus under “Description of Debt Securities,” in each case, are fair summaries of such legal matters in all material respects.
+E.           LIMITATIONS AND QUALIFICATIONS
+The foregoing opinion is subject to the following comments and qualifications:
+1.
+Our opinions are subject to bankruptcy, insolvency, reorganization, fraudulent conveyance, preference, equitable subordination, moratorium and other similar laws affecting the rights and remedies of creditors generally and to possible judicial action giving effect to governmental actions or foreign laws affecting creditors’ rights.
+Our opinions are also subject to the effect of general principles of equity, including without limitation concepts of materiality, reasonableness, good faith and fair dealing, regardless of whether considered in a proceeding in equity or at law.
+2.
+We express no opinion as to the enforceability of the indemnification or contribution provisions of the Indenture that may violate any law, rule, regulation or public policy.
+3.
+The enforceability of provisions in the Indenture to the effect that terms may not be waived or modified except in writing may be limited under certain circumstances.
+4.
+We note that under certain circumstances the federal courts located in the State of New York may decline to exercise subject matter jurisdiction to adjudicate a controversy relating to or arising under the Indenture, but this does not affect the ability of a party to the Indenture to bring an action relating to or arising under the Indenture in a New York State court.
+5.
+The opinion set forth in D.10 above is based on the Internal Revenue Code of 1986, as amended, Treasury Regulations, case law and Internal Revenue Service rulings or pronouncements as they exist on the date of this opinion.
+These authorities are all subject to change and such change may be made with retroactive effect.
+We can give no assurance that after any such change, this opinion would not be different.
+Moreover, this opinion is not binding on the Internal Revenue Service or the courts.
+6.
+We undertake no responsibility to update or supplement this opinion.
+7.
+In expressing the opinions set forth in paragraphs D.4 and D.5 above:
+C-1-6
+(a)          we have assumed that if the U.S. federal courts are found to be an appropriate forum for the enforcement of rights and obligations under the Indenture, that jurisdiction would be based on the diversity of the parties to the action.
+Diversity may not in fact exist as a basis for federal jurisdiction in an action against a party to the Indenture if any party to the action maintains a place of business in any state of the United States in which another party to the action is organized or maintains a place of business or if more than one party to the action is incorporated or organized outside of the United States;
+(b)          we note that, despite any waivers contained in the Indenture, a court of the State of New York or a U.S. federal court has the power to transfer or dismiss an action on the grounds that the court is an inconvenient forum for that action;
+(c)          we have assumed that consent to the choice of Dutch law provision in the Indenture was not obtained from any party to the Indenture by improper means or mistake and that the legal questions at issue in any suit or proceeding with regard to the Indenture would be governed by principles that had been considered and decided under Dutch law before initiation of the suit or proceeding, and would thus not be questions of first impression for a court in the Netherlands; and
+(d)          we note that effective enforcement of a foreign currency claim in the courts of the State of New York may be limited by requirements that the claim (or a foreign currency judgment in respect of a claim), or a claim with respect to any guarantee of the claim, be converted into U.S. dollars at the rate of exchange prevailing on the date of the judgment or decree by the New York court or U.S. federal court.
+8.
+The selection of New York law as the governing law of the Indenture is expressly permitted by New York General Obligations Law section 5-1401, but the enforceability of this selection may be subject to limitations under the Constitution of the United States of America.
+This opinion is given for the sole benefit of the Underwriters and may not be disclosed to any other person, nor relied upon by any other person or for any other purpose, nor is it to be quoted or made public in any way without our prior written consent.
+*                      *                      *                      *                      *                      *
+To ensure compliance with requirements imposed by the Internal Revenue Service, we inform you that the U.S. federal tax advice contained in this opinion letter (1) was not intended or written to be used, and cannot be used, for the purpose of avoiding U.S. federal tax-related penalties under the United States
+C-1-7
+Internal Revenue Code of 1986, as amended, and (2) was written to support the promotion or marketing of the Securities.
+Taxpayers should seek the advice of their own independent tax advisors based on their own particular circumstances.
+Yours faithfully,
+Allen & Overy LLP
+C-1-8
+EXHIBIT C-2
+Merrill Lynch, Pierce, Fenner & Smith Incorporated
+One Bryant Park
+Citigroup Global Markets Inc.
+388 Greenwich Street
+Morgan Stanley & Co. LLC
+1585 Broadway
+Wells Fargo Securities, LLC
+301 S. College Street
+Acting severally on behalf of themselves and as Representatives of the several Underwriters
+Ladies and Gentlemen:
+We have acted as special counsel to AEGON N.V., a limited liability public company incorporated under the laws of the Netherlands (the “Company”), on matters of New York and United States federal law in connection with the offer and sale of US$500,000,000 aggregate principal amount of Securities.
+This letter deals with our involvement in the preparation of (i) the registration statement of the Company on Form F-3 (No.
+333-174878) filed with the Commission on June 14, 2011, including the information deemed to be a part thereof as of such time pursuant to Rule 430A under the Securities Act; (ii) the base prospectus dated June 14, 2011 (the “Basic Prospectus”) filed with the Commission as part of the Registration Statement; (iii) the preliminary prospectus
+C-2-1
+The Basic Prospectus, the Preliminary Prospectus Supplement (including the documents incorporated or deemed to be incorporated by reference therein) and any Issuer Free Writing Prospectus as of the Time of Sale are together hereinafter referred to as the “Time of Sale Prospectus”.
+The Basic Prospectus and the Prospectus Supplement (including the documents incorporated or deemed to be incorporated by reference therein) that is in the form filed pursuant to Rule 424(b) of the Securities Act (or in the form first made available to the Underwriters by the Company to meet requests of purchasers pursuant to Rule 173 under the Securities Act) are hereinafter together referred to as the “Prospectus”.
+Capitalized terms used herein and not otherwise defined shall have the respective meanings set forth in the Underwriting Agreement.
+We have participated with the Underwriters and the Company in meetings and telephone conversations with representatives of the Underwriters, representatives of the Company, representatives of the Company’s external auditors and representatives of Davis Polk & Wardwell LLP as legal advisers to the Underwriters during which the contents of the Registration Statement, the Time of Sale Prospectus and Prospectus were discussed.
+Although we have made certain inquiries and investigations in connection with the preparation of the Registration Statement, the Time of Sale Prospectus and the Prospectus, the limitations inherent in the role of outside counsel are such that we cannot and do not assume responsibility for the accuracy, completeness or fairness of the statements made in the Registration Statement, the Time of Sale Prospectus and the Prospectus, except insofar as such statements relate to us.
+We have not participated in the preparation of any documents incorporated by reference into the Registration Statement, the Time of Sale Prospectus or the Prospectus and we have not engaged in any independent check or verification of the contents of the Registration Statement, the Time of Sale Prospectus or the Prospectus.
+Subject to the foregoing, we hereby advise you that (i) each document, if any, filed pursuant to the U.S. Securities Exchange Act of 1934, as amended (the “Exchange Act”), and incorporated by reference in the Time of Sale Prospectus and the Prospectus (except for the information of an accounting, financial or statistical nature included therein or omitted therefrom, and except for the Statement of Eligibility (Form T-1) under the Trust Indenture Act, as to which we do not express any view), when so filed, appeared to be appropriately responsive
+C-2-2
+on its face in all material respects with the requirements of the Exchange Act and the applicable rules and regulations of the Commission thereunder; and (ii) each part of the Registration Statement, when such part became effective, and the Prospectus, as of the date thereof and hereof (except for the information of an accounting, financial or statistical nature included therein or omitted therefrom, and except for the Statement of Eligibility (Form T-1) under the Trust Indenture Act, as to which we do not express any view), appeared to be appropriately responsive on its face in all material respects with the requirements of the Securities Act and the applicable rules and regulations of the Commission thereunder.
+Further, we hereby advise you that our work in connection with this matter did not disclose any information that gave us reason to believe that (i) any part of the Registration Statement (except for the information of an accounting, financial or statistical nature included therein or omitted therefrom, and except for the Statement of Eligibility (Form T-1) under the Trust Indenture Act, as to which we do not express any view), insofar as it relates to the offering of the Securities, when such part became effective, contained an untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary to make the statements therein not misleading, (ii) the Time of Sale Prospectus, insofar as it relates to the offering of Securities, as of the Time of Sale (except for the information of an accounting, financial or statistical nature included therein or omitted therefrom and except for the Statement of Eligibility (Form T-1) under the Trust Indenture Act, as to which we do not express any view) contained an untrue statement of a material fact or omitted to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading or (iii) as of the date hereof or the date of the Prospectus, the Prospectus (except for the information of an accounting, financial or statistical nature included therein or omitted therefrom, and except for the Statement of Eligibility (Form T-1) under the Trust Indenture Act, as to which we do not express any view), insofar as it relates to the offering of the Securities, contained an untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary to make the statements therein in light of the circumstances in which they were made, not misleading.
+This letter is given for the sole benefit of the Underwriters and may not be disclosed to any other person, nor relied upon by any other person or for any other purpose, nor is it to be quoted or made public in any way without our prior written consent.
+We undertake no responsibility to update or supplement this letter.
+Yours faithfully,
+Allen & Overy LLP
+C-2-3
+EXHIBIT D-1
+[FORM OF OPINION OF U.S.
+(1)          Assuming that the Underwriting Agreement has been duly authorized, executed and delivered by the Company insofar as Dutch law is concerned, the Underwriting Agreement has been duly executed and delivered by the Company.
+(2)          Assuming that the Indenture has been duly authorized, executed and delivered by the Company insofar as Dutch law is concerned, the Indenture has been duly executed and delivered by the Company, and the Indenture is a valid and binding agreement of the Company, enforceable in accordance with its terms, subject to applicable bankruptcy, insolvency and similar laws affecting creditors’ rights generally, concepts of reasonableness and equitable principles of general applicability, provided that we express no opinion as to the enforceability of any waiver of rights under any usury or stay law.
+(3)          Assuming that the Securities have been duly authorized, executed and delivered by the Company insofar as Dutch law is concerned, the Securities, when the Securities are executed and authenticated in accordance with the provisions of the Indenture and delivered to and paid for by the Underwriters pursuant to the Underwriting Agreement, will be valid and binding obligations of the Company, enforceable in accordance with their terms, subject to applicable bankruptcy, insolvency and similar laws affecting creditors’ rights generally, concepts of reasonableness and equitable principles of general applicability, and will be entitled to the benefits of the Indenture pursuant to which such Securities are to be issued, provided that we express no opinion as to the enforceability of any waiver of rights under any usury or stay law.
+(4)          Assuming that the Underwriting Agreement has been duly authorized, executed and delivered by the Company insofar as Dutch law is concerned, under the laws of the State of New York relating to personal jurisdiction, the Company has, pursuant to Section 15(a) of the Underwriting Agreement and Section 114 of the Indenture, validly and irrevocably submitted to the non-exclusive personal jurisdiction of any state or United States Federal court located in the Borough of Manhattan, the City of New York, New York (each a “New York Court”) in any action arising out of or relating to the Indenture and the Underwriting Agreement or the transactions contemplated thereby, has validly and irrevocably waived to the fullest extent it may effectively do so any objection to the venue of a proceeding in any New York Court, and has validly and irrevocably appointed the Authorized Agent as its authorized agent for the purpose described in Section 15(b) of the Underwriting Agreement and Section 114 of the Indenture; and service of process effected on such agent in the manner set forth in Section 15(b) of the Underwriting Agreement and Section 114 of the Indenture will be effective to confer valid personal jurisdiction on the Company.
+D-1-1
+EXHIBIT D-2
+(i)            the Registration Statement and the Prospectus appear on their face to be appropriately responsive in all material respects to the requirements of the Act and the applicable rules and regulations of the Commission thereunder; and
+(ii)           nothing has come to our attention that causes us to believe that, insofar as relevant to the offering of the Securities:
+(a)          on the date of the Underwriting Agreement, the Registration Statement contained any untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary to make the statements therein not misleading,
+(b)          at the Time of Sale,  the Disclosure Package contained any untrue statement of a material fact or omitted to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading, or
+(c)          the Prospectus as of its date or as of the date hereof contained or contains any untrue statement of a material fact or omitted or omits to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading.
+D-2-1
+EXHIBIT E
+Merrill Lynch, Pierce, Fenner & Smith Incorporated
+One Bryant Park
+Citigroup Global Markets Inc.
+388 Greenwich Street
+Morgan Stanley & Co. LLC
+1585 Broadway
+Wells Fargo Securities, LLC
+301 S. College Street
+Acting severally on behalf of themselves and as Representatives of the several Underwriters
+Ladies and Gentlemen:
+The Supplemental Indenture and the Base Indenture are collectively referred to herein as the “Indenture”.
+In connection herewith, we have examined the following (the “Documents”):
+E-2
+Except as otherwise expressly set forth herein, for purposes of this opinion letter, we have not reviewed any document other than the Documents.
+In particular, we have not reviewed any document that is referred to in or incorporated by reference into any Document (other than the Documents).
+We have assumed that there exists no provision in any document that we have not reviewed, or any other agreement, that bears upon or is inconsistent with the opinions stated herein.
+Except as provided in the immediately succeeding paragraph, we have conducted no independent factual investigation of our own, but rather have relied solely upon the Documents, the statements and information set forth therein and the additional matters recited or assumed herein, all of which we have assumed to be true, complete and accurate in all material respects.
+We have also examined originals or copies, certified or otherwise identified to our satisfaction, of such other records, agreements and instruments of BNYMTC, certificates of public officials and officers of BNYMTC, and such other documents, records and instruments, and we have made such legal inquiries, as we have deemed necessary or appropriate as a basis for us to render the opinions hereinafter expressed.
+In our examination of the Documents and otherwise, we have assumed the genuineness of all signatures, the legal competence and capacity of natural persons, the authenticity of documents submitted to us as originals and the conformity with authentic original documents of all documents submitted to us as copies.
+When relevant facts were not independently established, we have relied without independent investigation as to matters of fact upon statements of governmental officials and upon representations and warranties made in or pursuant to the Documents and certificates or statements of appropriate representatives of BNYMTC.
+We have assumed, with your permission, that (i) each of the parties to the Documents (other than BNYMTC with respect to the Supplemental Indenture) has been duly organized, formed or created, as the case may be, and is validly existing in good standing under the laws of the jurisdiction governing its organization, formation or creation, and has all requisite power and authority (corporate and other) to execute, deliver and perform the Documents, (ii) each of the parties to the Documents is duly qualified or admitted to transact business in each other jurisdiction where the nature of the business conducted therein or the property owned or leased therein makes such qualification or admission necessary, (iii) the Documents have been duly and validly authorized, executed and delivered by the each of the parties thereto (other than BNYMTC with respect to the Supplemental Indenture), and (iv) the Documents constitute legal, valid, binding and enforceable obligations of each of the parties thereto (other than, with respect to the Supplemental Indenture, BNYMTC).
+E-3
+Based upon the foregoing and in reliance thereon, and subject to the assumptions, comments, qualifications, limitations and exceptions set forth herein, we are of the opinion that:
+1.
+Based solely on the Certificate, BNYMTC is a national banking association validly existing and active as a “trust bank” under the national banking laws of the United States of America.
+2.
+BNYMTC has the requisite power and authority to execute, deliver and perform its obligations under the Indenture.
+3.
+The Supplemental Indenture has been duly authorized, executed and delivered by BNYMTC.
+4.
+The Indenture constitutes the valid and binding obligation of BNYMTC, enforceable against BNYMTC in accordance with its terms.
+5.
+No consent, approval, authorization or other action by, and no notice to or filing with, any federal or New York State governmental authority or regulatory body that we, based on our experience, recognize as applicable to BNYMTC in a transaction of this type is required for the due execution and delivery by BNYMTC of, and performance by BNYMTC of its obligations under, the Indenture, except for such consents, approvals, filings or registrations that have been obtained or made on or prior to the date hereof and are in full force and effect.
+6.
+The execution and delivery by BNYMTC of the Supplemental Indenture and the consummation by BNYMTC of its obligations under the Indenture do not result in any violation by BNYMTC of (i) the provisions of its organizational documents, or (ii) any provision of Applicable Law that we, based on our experience, recognize as applicable to BNYMTC in a transaction of this type.
+7.
+The certificates of authentication on the Securities have been duly executed by BNYMTC, in its capacity as trustee.
+In addition to the assumptions, comments, qualifications, limitations and exceptions set forth above, the opinions set forth herein are further limited by, subject to and based upon the following assumptions, comments, qualifications, limitations and exceptions:
+(a)          Wherever this opinion letter refers to matters “known to us,” or to our “knowledge,” or words of similar import, such reference means that, during the course of our representation of BNYMTC with respect to the Documents, we have requested information of BNYMTC concerning the matter referred to and no information has come to the attention of (either as a result of such request for information or otherwise) the attorneys
+E-4
+currently employed by our Firm devoting substantive attention or a material amount of time thereto, which has given us actual knowledge of the existence (or absence) of facts to the contrary.
+Except as otherwise stated herein, we have undertaken no independent investigation or verification of such matters, and no inference should be drawn to the contrary from the fact of our representation of BNYMTC and its affiliates.
+(b)          Our opinions herein reflect only the application of the following (“Applicable Law”): (1) the applicable laws of the State of New York (excluding all laws, rules and regulations of cities, counties and other political subdivisions within such State and all securities laws (including blue sky laws), insurance laws and tax laws of such State), and (2) the federal laws of the United States of America (excluding all securities laws, insurance laws and tax laws).
+The opinions set forth herein are made as of the date hereof and are subject to, and may be limited by, future changes in the facts, and we undertake no duty to advise you of the same.
+The opinions expressed herein are based upon the law in effect (and published or otherwise generally available) on the date hereof, and we assume no obligation to revise or supplement these opinions should such law be changed by legislative action, judicial decision or otherwise.
+In rendering our opinions, we have not considered, and hereby disclaim any opinion as to, the application or impact of any laws, cases, decisions, rules or regulations of any other jurisdiction, court or administrative agency.
+(c)          The validity, binding effect and enforceability of the Documents against BNYMTC may be limited by: (i) applicable insolvency, reorganization, receivership, moratorium or similar laws affecting or relating to the rights and remedies of creditors, including, without limitation, laws relating to fraudulent transfers or conveyances, preferences and equitable subordination, (ii) general principles of equity (regardless of whether considered in a proceeding in equity or at law), and (iii) an implied covenant of good faith and fair dealing.
+(d)          Our opinions are further subject to the effect of generally applicable rules of law arising from statutes, judicial and administrative decisions, and the rules and regulations of governmental authorities that: (i) limit or affect the enforcement of provisions of a contract that purport to require waiver of the obligations of good faith, fair dealing, diligence and reasonableness; (ii) limit the availability of a remedy under certain circumstances where another remedy has been elected; (iii) limit the enforceability of provisions releasing, exculpating, or exempting a party from, or requiring indemnification of a party for, liability for its own action or inaction, to the extent the action or inaction involves negligence, recklessness, willful misconduct or unlawful conduct; (iv) may, where less than all of the contract may be unenforceable, limit the enforceability of the balance of the contract to circumstances in which the unenforceable
+E-5
+portion is not an essential part of the agreed exchange; and (v) govern and afford judicial discretion regarding the determination of damages and entitlement to attorneys’ fees.
+(e)          We express no opinion as to the enforceability of any provision in the Documents, purporting or attempting to: (i) confer exclusive jurisdiction and/or venue upon certain courts or otherwise waive the defenses of forum non conveniens or improper venue; (ii) confer subject matter jurisdiction on a court not having independent grounds therefor; (iii) modify or waive the requirements for effective service of process for any action that may be brought; (iv) waive the right of BNYMTC or any other person to a trial by jury; (v) provide that remedies are cumulative or that decisions by a party are conclusive; (vi) modify or waive the rights to notice, legal defenses, statutes of limitations or other benefits that cannot be waived under applicable law; (vii) leave open terms for later resolution by the parties or allow one party to alter the obligations of another party without the consent of such other party; or (viii) govern conflict of laws or choice of applicable law.
+(f)           We express no opinion as to the existence, title, value, grant, attachment, perfection, priority, validity or enforceability of any property or property interest, including any security interest, purported to be created, delivered or established under any Document.
+By your acceptance of this opinion letter, you agree that it may not be relied upon, circulated, quoted or otherwise referred to by any other person or for any other purpose without our prior written consent in each instance except that this opinion may be disclosed to and relied upon without our consent by the permitted successors of the addressees hereof.
+Very truly yours,
+E-6

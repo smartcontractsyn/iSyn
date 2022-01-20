@@ -1,0 +1,38 @@
+{
+    "SellerName": [
+        "Armada Enterprises GP, LLC"
+    ],
+    "BuyerName": [
+        "MC 2 Consulting, Inc."
+    ],
+    "EffectiveTime": [
+        "5th  May, 2016,"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "MC 2 Consulting, Inc."
+            ],
+            "To": [
+                "Armada Enterprises GP, LLC"
+            ],
+            "PurchasePrice": "50000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

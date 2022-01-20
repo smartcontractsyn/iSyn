@@ -1,0 +1,306 @@
+WHEREAS, it is intended that (a) the Borrower will obtain Tranche B Term Loans (as defined below) and (b) the proceeds of the borrowings under the Tranche B Term Loans will be applied on the First Amendment Effective Date (as defined below) (i) to pay the purchase price for the acquisition (the “Acquisition”) of 100% of the outstanding share capital of Haas Group Inc., a Delaware corporation (the “Company”) (ii) to pay the fees, costs and expenses incurred in connection with the Acquisition and the other transactions contemplated under this Amendment and (iii) to repay certain Indebtedness of the Company;
+WHEREAS, the Borrower has requested that (a) the Persons set forth on Schedule I hereto (the “Tranche B Term Lenders”) commit to make a new Class of term loans (the “Tranche B Term Loans” the commitment of each Tranche B Term Lender to provide its applicable portion of the Tranche B Term Loans, a “Tranche B Term Loan Commitment” ) in an aggregate principal amount of $525,000,000 to the Borrower on the First Amendment Effective Date and (b) certain provisions of the Existing Credit Agreement be amended as provided for herein;
+(a)                                 Subject to the terms and conditions set forth herein and in the Amended Credit Agreement, each Tranche B Term Lender severally and not jointly agrees to make Tranche B Term Loans in Dollars to the Borrower on the First Amendment Effective Date in an aggregate principal amount not to exceed the amount set forth opposite such Tranche B Term Lender’s name on Schedule I hereto.
+(b)                                 Each Tranche B Term Lender will make its Tranche B Term Loans on the First Amendment Effective Date by making available to the Administrative Agent, in accordance with the Amended Credit Agreement, an amount equal to its Tranche B Term Loan Commitment.
+The proceeds of the Tranche B Term Loans made on the First Amendment Effective Date are to be used by the Borrower solely (i) to pay the purchase price for the
+SECTION ELEVEN — PAYMENT OF FEES AND EXPENSES.
+The Borrower agrees (a) to pay to (i) each Revolving Lender and Tranche A Term Lender that shall have executed and unconditionally delivered to the Administrative Agent (or its counsel) a counterpart to this Amendment at or prior to 5:00 p.m., New York City time, on February 12, 2014, an amendment fee in an amount equal to 0.125% of the sum of (x) the aggregate Revolving Commitments (whether used or unused) of such Lender and (y) the aggregate principal amount of Tranche A Term Loans of such Lender, in each case outstanding on the First Amendment Effective Date immediately prior to giving effect to this Amendment and (ii) each Tranche B Term Lender as fee compensation for the funding of the Tranche B Term Loans an amount equal to 0.25% of the aggregate principal amount of the Tranche B Term Loans made by such Tranche B Term Lender on the First Amendment Effective Date (it being understood that the fees provided for in the immediately foregoing sentence will be in all respects fully earned, due and payable on the First Amendment Effective Date and non-refundable and non-creditable thereafter) and (b) to pay or reimburse the Administrative Agent for all of its reasonable and documented out-of-pocket costs and expenses incurred in connection with this Amendment including, without limitation, the reasonable fees and disbursements and other charges of Milbank, Tweed, Hadley & McCloy LLP, counsel to the First Amendment Lead Arrangers.
+525,000,000.00
+525,000,000.00
+$825,000,0001,350,000,000
+Repayment of Term Loans
+2.5
+2.10
+Optional Prepayments
+Mandatory Prepayments
+Interest Rates and Payment Dates
+2.25
+3.5
+Payment of Obligations
+10.2
+10.3
+10.5
+Payment of Expenses; Indemnification
+4.8B
+“ABR”:  for any day, a rate per annum rounded upwards, if necessary, to the next 1/100 of 1% equal to the highest of (a) the Prime Rate in effect on such day, (b) the Federal Funds Effective Rate in effect on such day plus ½ of 1% and (c) the Eurocurrency Rate for a Eurocurrency Loan denominated in Dollars for a three-month interest period beginning on such day (or if such day is not a Business Day, on the immediately preceding Business Day) plus 1%; provided that in no event shall ABR be less than, in the case of Tranche B Term Loans, 1.75%; provided further that, for the avoidance of doubt, the Eurocurrency Rate for any day shall be based on the rate appearing on the Screen for Dollars on such day at approximately 11 A.M., London time, as the Eurocurrency Rate for deposits denominated in Dollars and having a three-month interest period.
+“Aggregate Exposure”:  with respect to any Lender at any time, an amount equal to (a) until the Closing Date, the aggregate amount of such Lender’s Commitments at such time and (b) thereafter, the sum of (i) the aggregate amount of such Lender’s Tranche A Term Loan Commitments and/or Tranche B Term Loan Commitments then in effect, and if any such Commitments have been terminated, the aggregate then unpaid principal amount of such Lender’s related Tranche A Term Loans and/or Tranche B Term Loans, as applicable, (ii) the aggregate amount of such Lender’s Revolving Dollar Exposure or Revolving Multicurrency Exposure, or if the Revolving Commitments of any Class have been terminated, the amount of such Lender’s Revolving Extensions of Credit then outstanding of such Class and (iii) the aggregate amount of such Lender’s New Term Loan Commitments then in effect, or if such New Term Loan Commitments have been terminated, the amount of such Lender’s New Term Loans.
+“Asset Sale”:  any Disposition of Property or series of related Dispositions of Property by any Loan Party (a) not in the ordinary course of business under Section 7.5(e) or (v) or (b) not otherwise permitted under Section 7.5, in each case, which yields Net Cash Proceeds to any Loan Party (valued at the initial principal amount thereof in the case of non-cash proceeds consisting of notes or other debt securities and valued at fair market value in the case of other non-cash proceeds) in excess of $7,500,000.
+(a)                                 $25,000,000;
+(h)                                 an amount equal to any returns (including dividends, interest, distributions, returns of principal, profits on sale, repayments, income and similar amounts) actually received in cash or Cash Equivalents by the Borrower or any Restricted Subsidiary in respect of any Permitted Acquisition or Investments made after the Closing Date pursuant to Sections 7.8(f), 7.8(n) and 7.8(o) using the Available Amount; and
+minus, the sum of
+(b)                                 the amount of Restricted Payments made after the Closing Date pursuant to Section 7.6(e) using the Available Amount; and
+carrying an equivalent rating by a nationally recognized rating agency, and (iii) have portfolio assets of at least $5,000,000,000.
+Notwithstanding the foregoing, from and after the First Amendment Effective Date, Consolidated EBITDA, solely with respect to Haas Group Inc. and its Subsidiaries, shall be deemed to be $10,700,000 for the fiscal quarter ending March 31, 2013, $11,100,000 for the fiscal quarter ending June 30, 2013, $10,700,000 for the fiscal quarter ending September 30, 2013 and $11,100,000 for the fiscal quarter ending December 31, 2013.
+“Dollar Equivalent”:  of any amount means, on the applicable Valuation Date, (a) if such amount is expressed in Dollars, such amount, (b) if such amount is expressed in any Agreed Foreign Currency, the equivalent of such amount in Dollars determined by using the rate of exchange quoted by the Administrative Agent in New York, New York at 11:00 a.m. (New York time) on the Valuation Date (or, in the case of any determination made under Section 2.12(f) or the last sentence of Section 2.18(g), on the date of determination or redenomination therein referred to) to prime banks in New York for the spot purchase in the New York foreign exchange market of such amount of Dollars with such Agreed Foreign Currency.
+The original aggregate amount of the Dollar Revolving Commitments is $160,000,000.
+“Eurocurrency Base Rate”:  with respect to each day during each Interest Period pertaining to a Eurocurrency Loan denominated in any Currency, the rate per annum determined on the basis of the rate for deposits in the relevant Currency for a period equal to such Interest Period commencing on the first day of such Interest Period appearing on the Screen as of 11:00 A.M., London time, two Business Days prior to the beginning of such Interest Period, as the Eurocurrency Rate for deposits denominated in such Currency with a maturity comparable to such Interest Period; provided that in no event shall the Eurocurrency Base Rate be less than, in the case of Tranche B Term Loans, 0.75%.
+“Eurocurrency Rate”:  with respect to each day during each Interest Period pertaining to a Eurocurrency Loan, a rate per annum determined for such day in accordance with the following formula (rounded upward to the nearest 1/100th of 1%):
+1.00 - Eurocurrency Reserve Requirements
+3.00 to 1.0 but not less than 2.50:1.00 and reduced further to 0% if the Consolidated Total Leverage Ratio as of the last day of such fiscal year is less than 2.50 to 1.0.
+“L/C Commitment”:  $50,000,000.
+The original Dollar Amount of the Multicurrency Revolving Commitments is $40,000,000.
+“Multicurrency Revolving Extensions of Credit”:  as to any Multicurrency Revolving Lender at any time, an amount equal to the Dollar Amount of the sum of (a) the aggregate principal amount of all Multicurrency Revolving Loans held by such Lender then outstanding, (b) such Lender’s Multicurrency Revolving Percentage of the Multicurrency L/C Obligations then outstanding and (c) such Lender’s Multicurrency Revolving Percentage of the aggregate principal amount of Multicurrency Swingline Loans then outstanding.
+“Payment Amount”:  as defined in Section 3.5.
+Applicable
+Commitment Fee Rate
+Level I <1.75:1.00
+1.75
+0.75
+0.25
+Level II >1.75:1.00 but <2.50:1.00
+1.00
+0.30
+Level III >2.50:1.00 but <3.25:1.00
+2.25
+1.25
+0.35
+Level IV >3.25:1.00
+2.50
+1.50
+0.40
+“Required Lenders”:  at any time, the holders of more than 50% of the sum of (a) until the Closing Date, thethe aggregate amount of Tranche A Term Loan Commitments and Tranche B Term Loan Commitments then in effect, and (b) thereafter, the sum of (i)if any such
+The original aggregate amount of the Revolving Commitments is $200,000,000.
+“Swingline Commitment”:  the obligation of the Swingline Lenders to make Swingline Loans pursuant to Section 2.6(a) and (b) in an aggregate principal amount at any one time outstanding not to exceed $40,000,000.
+The original aggregate amount of the Tranche A Term Loan Commitments by all Term Lenders on the Closing Date is $625,000,000.
+“Tranche A Term Loan Maturity Date”:  December 7, 2017.
+The original aggregate amount of the Tranche B Term Loan Commitments is $525,000,000.
+“Tranche B Term Maturity Date”:  February 28, 2021.
+Subject to the terms and conditions hereof, each Term Lender severally agrees to make a term loan (a “Term Loan”) in Dollars to the Borrower on the Closing Date in an amount not to exceed the amount of the Term Loan Commitment of such Lender.
+2.3                               Repayment of Term Loans.
+(a)  The Tranche A Term Loan of each Tranche A Term Lender shall be payable on each date set forth below in an amount set forth opposite such date (expressed as a percentage of the stated principal amount of the Tranche A Term Loans funded on the Closing Date) (as adjusted to reflect any prepayments thereof), with the remaining balance thereof payable on the Tranche A Term Loan Maturity Date.
+1.25
+1.25
+1.25
+1.25
+1.25
+1.25
+1.25
+1.25
+1.875
+1.875
+1.875
+1.875
+1.875
+1.875
+1.875
+1.875
+2.50
+2.50
+2.50
+Tranche A Term Loan Maturity Date
+(b)                                 The Tranche B Term Loan of each Tranche B, Term Lender shall be payable in equal consecutive quarterly installments, commencing on June 30, 2014, and on the last Business Day of each March, June, September and December thereafter in an amount equal to one quarter of one percent (0.25%) of the stated principal amount of the Tranche B Term Loans funded on the First Amendment Effective Date (as adjusted to reflect any prepayments thereof), with the remaining balance thereof payable on the Tranche B Term Maturity Date.
+(a)  Subject to the terms and conditions hereof, each Dollar Revolving Lender severally agrees to make revolving credit loans (“Dollar Revolving Loans”) in Dollars to the Borrower from time to time during the Revolving Commitment Period in an aggregate principal amount at any one time outstanding which when added to such Lender’s Dollar Revolving Percentage of the sum of (x) the Dollar L/C Obligations then outstanding and (y) the aggregate principal amount of the Dollar Swingline Loans then outstanding, does not exceed the amount of such Lender’s Dollar Revolving Commitment.
+(b)                                 Subject to the terms and conditions hereof, each Multicurrency Revolving Lender severally agrees to make revolving credit loans (“Multicurrency Revolving Loans”) in Dollars or any Agreed Foreign Currency to the Borrower from time to time during the Revolving Commitment Period in an aggregate principal amount at any one time outstanding which when added to such Lender’s Multicurrency Revolving Percentage of the sum of (x) Multicurrency L/C Obligations then outstanding and (y) the aggregate principal amount of the Multicurrency Swingline Loans then outstanding, does not exceed the amount of such Lender’s Multicurrency Revolving Commitment.
+(c)                                  The Borrower shall repay all outstanding Revolving Loans of each Class made to it on the Revolving Termination Date.
+Each borrowing by the Borrower under the Revolving Commitments of either Class shall be in an amount equal to (x) in the case of ABR Loans, $500,000 or a whole multiple of $50,000 in excess thereof (or, if the then aggregate Available Revolving Commitments of the respective Class are less than $500,000, such lesser amount) and (y) in the case of Eurocurrency Loans, $1,000,000 or a whole multiple of $250,000 in excess thereof; provided that the Swingline Lender may request, on behalf of the Borrower, borrowings under the Revolving Commitments of either Class that are ABR Loans in other amounts pursuant to Section 2.7(a).
+(c)                                  The Borrower shall repay to the Swingline Lender of the applicable Class the then unpaid principal amount of each Swingline Loan of such Class on the earlier of the date five Business Days after the Borrowing Date of such Swingline Loan and the Revolving Termination Date.
+Each borrowing under the Swingline Commitment shall be in an amount equal to $100,000 or a whole multiple of $50,000 in excess thereof.
+(c)                                  If prior to the time a Revolving Loan would have otherwise been made pursuant to Section 2.7(b), one of the events described in Section 8(f) shall have occurred and be continuing with respect to the Borrower or if for any other reason, as determined by the Swingline Lender of the applicable Class, in its sole discretion, Revolving Loans may not be made as contemplated by Section 2.7(b), each Revolving Lender of the applicable Class shall, on the date such Revolving Loan was to have been made pursuant to the notice referred to in Section 2.7(b), purchase for cash an undivided participating interest in the then outstanding Swingline Loans of the applicable Class by paying to the Swingline Lender an amount (the “Swingline Participation Amount”) equal to the product of (A) such Revolving Lender’s Dollar Revolving Percentage or Revolving Lender’s Multicurrency Revolving Percentage, as applicable, times (B) the sum of the aggregate principal amount of Swingline Loans of the applicable Class then outstanding that were to have been repaid with such Revolving Loans.
+(d)                                 Whenever, at any time after the Swingline Lender has received from any Revolving Lender such Lender’s Swingline Participation Amount with respect to any Swingline Loans, the Swingline Lender receives any payment on account of such Swingline Loans (whether directly from the Borrower or otherwise, including proceeds of collateral applied thereto by the Swingline Lender), the Swingline Lender will distribute to such Lender its Swingline Participation Amount with respect thereto (appropriately adjusted, in the case of interest payments, to reflect the period of time
+2.8                               Repayment of Loans.
+(a)  The Borrower hereby unconditionally promises to pay to the Administrative Agent for the account of the appropriate Revolving Lender or Term Lender, as the case may be, (i) the then unpaid principal amount of each Revolving Loan of such Revolving Lender made to the Borrower outstanding on the Revolving Termination Date (or on such earlier date on which the Loans become due and payable pursuant to Section 8) and (ii) the principal amount of each outstanding Term Loan of such Term Lender made to the Borrower in installments according to the amortization schedule set forth in Section 2.3 (or on such earlier date on which the Loans become due and payable pursuant to Section 8).
+The Borrower hereby further agrees to pay interest on the unpaid principal amount of the Loans made to the Borrower from time to time outstanding from the date hereof until payment in full thereof at the rates per annum, and on the dates, set forth in Section 2.15.
+(a)  The Borrower agrees to pay to the Administrative Agent for the account of each Revolving Lender a commitment fee for the period from and including the Closing Date to the last day of the Revolving Commitment Period, computed at the Applicable Commitment Fee Rate on the average daily amount of the Available Revolving Commitment of such Lender during the period for which payment is made, payable quarterly in arrears on each Fee Payment Date; provided that (i) for purposes of calculating any fees owing in accordance with this Section 2.9(a), the Available Revolving Commitment for the Swingline Lender shall exclude any outstanding Swingline Loans and (ii) the Swingline Lender shall not be entitled to any commitment fee with respect to its Swingline Commitment separate from that to which it is entitled with respect to its Available Revolving Commitment; provided, further, that (i) any commitment fee accrued with respect to any of the Available Revolving Commitments of a Defaulting Lender during the period prior to the time such Lender became a Defaulting Lender and unpaid at such time shall not be payable by the Borrower so long as such Lender shall be a Defaulting Lender except to the extent that such commitment fee shall otherwise have been due and payable by the Borrower prior to such time and (ii) no commitment fee shall accrue on any of the Available Revolving Commitments of a Defaulting Lender so long as such Lender shall be a Defaulting Lender.
+(b)                                 The Borrower agrees to pay to the Administrative Agent the fees in the amounts and on the dates as set forth in any fee agreements with the Administrative Agent.
+Any such partial reduction shall be in an amount equal to $1,000,000, or a whole multiple of $500,000 in excess thereof, and shall reduce permanently the Revolving Commitments of such Class
+2.11                        Optional Prepayments.
+Partial prepayments of Term Loans or New Term Loans of a Class and of Revolving Loans of a Class shall be in an aggregate principal amount of (i) $1,000,000 or a whole multiple of $100,000 in excess thereof (in the case of prepayments of ABR Loans) or (ii) $1,000,000 or a whole multiple of $500,000 in excess thereof (in the case of prepayments of Eurocurrency Loans), and in each case shall be subject to the provisions of Section 2.18.
+Partial prepayments of Swingline Loans of a Class shall be in an aggregate principal amount of $50,000 or a whole multiple of $50,000 in excess thereof.
+(b)  Any prepayment made pursuant to this Section 2.11 or Section 2.12(a) of the Tranche B Term Loans as a result of a Repricing Event shall be accompanied by a prepayment fee, which shall initially be 1% of the aggregate principal amount prepaid and shall decline to 0% on and after the six-month anniversary of the First Amendment Effective Date.
+2.12                        Mandatory Prepayments.
+(b)                                 Unless the Required Prepayment Lenders shall otherwise agree, if on any date any Loan Party shall for its own account receive Net Cash Proceeds from any Asset Sale or Recovery Event then, unless a Reinvestment Notice shall be delivered in respect thereof, such Net Cash Proceeds shall be applied not later than five Business Days after such date toward the prepayment of the Term Loans or New Term Loans as set forth in Section 2.12(d); provided that notwithstanding the foregoing, (x) on each Reinvestment Prepayment Date, the Term Loans or New Term Loans shall be prepaid as set forth in Section 2.12(d) by an amount equal to the Reinvestment Prepayment Amount with respect to the relevant Reinvestment Event and (y) on the date (the “Trigger Date”) that is one year after any
+such Reinvestment Prepayment Date, the Term Loans or New Term Loans shall be prepaid as set forth in Section 2.12(d) by an amount equal to the portion of any Committed Reinvestment Amount with respect to the relevant Reinvestment Event not actually expended by such Trigger Date.
+(c)                                  Unless the Required Prepayment Lenders shall otherwise agree, if, for any fiscal year of Holdings commencing with the fiscal year ending September 30, 2013, there shall be Excess Cash Flow, Holdings shall, on the relevant Excess Cash Flow Application Date, apply an amount equal to (i) the Excess Cash Flow Percentage of such Excess Cash Flow minus (ii) the aggregate amount of all prepayments of Revolving Loans and Swingline Loans during such fiscal year to the extent accompanied by permanent optional reductions of the Revolving Commitments and all optional prepayments of the Term Loans or New Term Loans during such fiscal year, in each case other than to the extent any such prepayment is funded with the proceeds of new long-term Indebtedness, toward the prepayment of the Term Loans or New Term Loans as set forth in Section 2.12(d).
+Each prepayment of the Term Loans or New Term Loans under Section 2.12 shall be accompanied by accrued interest to the date of such prepayment on the amount prepaid.
+(e)                                  If as of the last Business Day of each calendar month (computed by the Administrative Agent using the current exchange rate as of such Business Day and promptly notified to the Multicurrency Revolving Lenders and the Borrower) the Dollar Amount of the aggregate outstanding principal amount of the Revolving Loans shall exceed 105% of the aggregate Revolving Commitments, the Borrower shall, within five Business Days after the Borrower’s receipt of such notice, prepay Multicurrency Revolving Loans in such amounts as shall be necessary so that after giving effect thereto the aggregate outstanding principal amount of such Revolving Loans does not exceed the Revolving Commitments as of such Business Day.
+On the Mandatory Prepayment Date, the Borrower shall (i) pay to the relevant New Term Lenders the aggregate amount necessary to prepay that portion of the outstanding New Term Loans of the Applicable Class in respect of which such New Term Lenders have (or are deemed to have) accepted prepayment as described above and (ii) prepay outstanding Tranche A Term Loans in an aggregate amount equal to the amounts declined by New Term Lenders as described above; provided that, upon the making of such prepayments, any amount remaining unapplied (i.e., after the payment in full of the Term Loans) shall be returned to the Borrower.
+2.15                        Interest Rates and Payment Dates.
+(a)  Each Eurocurrency Loan that is a Revolving Loan or a Term Loan shall bear interest for each day during each Interest Period with respect thereto at a rate per annum equal to the Eurocurrency Rate determined for such day plus the Applicable Margin.
+(b)                                 Each ABR Loan that is a Revolving Loan or a Term Loan shall bear interest at a rate per annum equal to the ABR plus the Applicable Margin.
+(c)                                  (i) If all or a portion of the principal amount of any Loan or Reimbursement Obligation shall not be paid when due (whether at the stated maturity, by acceleration or otherwise), such overdue amount shall bear interest at a rate per annum equal to (x) in the case of the Loans, the rate that would otherwise be applicable thereto pursuant to the foregoing provisions of this Section plus 2% or (y) in the case of Reimbursement Obligations, the rate applicable to ABR Loans under the Revolving Facility plus 2%, and (ii) if all or a portion of any interest payable on any Loan or Reimbursement Obligation or any commitment fee or other amount payable hereunder shall not be paid when due (whether at the stated maturity, by acceleration or otherwise), such overdue amount shall bear interest at a rate per annum equal to the rate then applicable to ABR Loans under the relevant Facility plus 2% (or, in the case of any such other amounts that do not relate to a particular Facility, the rate then applicable to ABR Loans under the Revolving Facility plus 2%), in each case, with respect to clauses (i) and (ii) above, from the date of such non-payment until such amount is paid in full (as well after as before judgment); provided that no amount shall be payable pursuant to this Section 2.15(c) to a Defaulting Lender so long as such Lender shall be a Defaulting Lender; provided further no amounts shall accrue pursuant to this Section 2.15(c) on any overdue Loan, Reimbursement Obligation, commitment or other amount payable to a Defaulting Lender so long as such Lender shall be a Defaulting Lender.
+(d)                                 Interest shall be payable by the Borrower in arrears on each Interest Payment Date; provided that interest accruing pursuant to paragraph (c) of this Section 2.15 shall be payable from time to time on demand.
+(a)  Interest and fees payable pursuant hereto shall be calculated on the basis of a 360-day year for the actual days elapsed, except that, with respect to ABR Loans the rate of interest on which is calculated on the basis of the Prime Rate, the interest thereon shall be calculated on the basis of a 365- (or 366-, as the case may be) day year for
+(a)  Each borrowing by the Borrower from the Lenders of a Class hereunder and each payment by the Borrower on account of any commitment fee and any reduction of the Revolving Commitments of a Class shall be made pro rata according to the respective Tranche A Term Percentage, Tranche B Term Percentages, New Tranche Term Percentages or Revolving Percentages of the respective Class, as the case may be, of the relevant Lenders, except (i) for payments in respect of any differences in the Applicable Commitment Fee Rate
+(b)                                 Each payment (including prepayments) by the Borrower on account of principal of and interest on the Term Loans or New Term Loans of a Class shall be made pro rata according to the respective outstanding principal amounts of the Term Loans or New Term Loans of such Class then held by the Term Lenders of such Class, except (i) as otherwise provided in Section 2.12(f) and Section 10.6, (ii) for payments in respect of any differences in the Applicable Margin of Accepting Lenders pursuant to a Loan Modification Agreement and (iii) for payments to Defaulting Lenders as otherwise herein provided.
+(c)                                  Each payment (including prepayments) by the Borrower on account of principal of and interest on the Revolving Loans of a Class shall be made pro rata according to the respective outstanding principal amounts of the Revolving Loans of such Class then held by the Revolving Lenders of such Class, except (i) as otherwise provided in Section 2.12(f) and Section 10.6, (ii) for payments in respect of any differences in the Applicable Margin of Accepting Lenders pursuant to a Loan Modification Agreement, (iii) for payments to Defaulting Lenders as otherwise herein provided and (iv) reductions of Revolving Commitments pursuant to Section 2.24.
+Each payment in respect of Reimbursement Obligations in respect of any Letter of Credit of a Class shall be made to the Issuing Lender that issued such Letter of Credit.
+If any payment hereunder (other than payments on the Eurocurrency Loans) becomes due and payable on a day other than a Business Day, such payment shall be extended to the next succeeding Business Day.
+In the case of any extension of any payment of principal pursuant to the preceding two sentences, interest thereon shall be payable at the then applicable rate during such extension.
+If such amount is not made available to the Administrative Agent by the required time on the Borrowing Date therefor, such Lender shall pay to the Administrative Agent on demand, such amount with interest thereon, at a rate equal to the greater of (i) the Federal Funds Effective Rate and (ii) a rate determined by the Administrative Agent in accordance with banking industry rules on interbank compensation, for the period until such Lender makes such amount immediately available to the Administrative Agent.
+If such payment is not made to the Administrative Agent by the Borrower within three Business Days after such due date, the Administrative Agent shall be entitled to recover, on demand, from each relevant Lender to which any amount which was made available pursuant to the preceding sentence, such amount with interest thereon at the rate per annum equal to the daily average Federal Funds Effective Rate.
+and the result of any of the foregoing is to increase the cost to such Lender, by an amount which such Lender reasonably deems to be material, of making, converting into, continuing or maintaining Eurocurrency Loans or issuing or participating in Letters of Credit (in each case hereunder), or to reduce any amount receivable hereunder in respect thereof, then, in any such case, the Borrower shall promptly pay such Lender, in Dollars, within ten Business Days after the Borrower’s receipt of a reasonably detailed invoice therefor (showing with reasonable detail the calculations thereof), any additional amounts necessary to compensate such Lender for such increased cost or reduced amount receivable.
+The Borrower may elect to prepay the Eurocurrency Loans denominated in such Agreed Foreign Currency of the applicable Lenders pursuant to Section 2.11 at any time.
+If any such conversion or prepayment of a Eurocurrency Loan occurs on a day which is not the last day of the then current Interest Period with respect thereto, the Borrower shall pay to such Lender such amounts, if any, as may be required pursuant to Section 2.21.
+and (I) if such replacement is in connection with a Repricing Event prior to the six-month anniversary of the First Amendment Effective Date, the Borrower or the replacement Lender shall pay such replaced Lender a fee equal to 1% of the aggregate principal amount of its Tranche B Term Loans required to be assigned pursuant to this Section 2.24.
+(a) The Borrower may by written notice to the Administrative Agent elect to request the establishment of one or more new term loans (the “New Term Loan Commitments”) or the increase of the Dollar Revolving Commitments hereunder, in an aggregate amount for all such New Term Loan Commitments and increases of the Dollar Revolving Commitments not in excess of (i) $150,000,000 (each such establishment or increase, a “Cash-Capped Incremental Facility”) plus (ii) up to an additional amount (each such establishment or increase, a “Ratio-Based Incremental Facility”) if the pro forma Consolidated Total Leverage Ratio is less thandoes not exceed 2.75:1.00 (and, for the avoidance of doubt, for any Ratio-Based Incremental Facility, such Consolidated Total Leverage Ratio shall be calculated as though any Dollar Revolving Commitments to be incurred pursuant to this Section 2.25 were fully drawn), as of the end of the most recently ended Test Period.
+(a) The Borrower will pay a fee on each outstanding Letter of Credit of each Class requested by it, at a per annum rate equal to the Applicable Margin then in effect with respect to Eurocurrency Loans under the Revolving Facility (minus the fronting fee referred to below), on the face amount of such Letter of Credit, which fee shall be shared ratably among the Revolving Lenders of such Class and payable quarterly in arrears on each Fee Payment Date after the issuance date; provided that, with respect to any Defaulting Lender, such Lender’s ratable share of any letter of credit fee accrued on the aggregate amount available to be drawn on any outstanding Letters of Credit during the period prior to the time such Lender became a Defaulting Lender and unpaid at such time shall not be payable by the Borrower so long as such Lender shall be a Defaulting Lender except to the extent that such Lender’s ratable share of any letter of credit fee
+In addition, the Borrower shall pay to each Issuing Lender of a Class for its own account a fronting fee on the aggregate face amount of all outstanding Letters of Credit of such Class issued by it to the Borrower of 0.25% per annum, payable quarterly in arrears on each Fee Payment Date after the issuance date.
+(b)                                 In addition to the foregoing fees, the Borrower shall pay or reimburse each Issuing Lender for such normal and customary costs and expenses agreed to by the Borrower and such Issuing Lender in issuing, negotiating, effecting payment under, amending or otherwise administering any Letter of Credit requested by the Borrower.
+(b)                                 If any amount required to be paid by any L/C Participant to the Administrative Agent for the account of any Issuing Lender pursuant to Section 3.4(a) in respect of any unreimbursed portion of any payment made by such Issuing Lender under any Letter of Credit is paid to the Administrative Agent for the account of such Issuing Lender within three Business Days after the date such payment is due, such L/C Participant shall pay to the Administrative Agent for the account of such Issuing Lender on demand an amount equal to the product of (i) such amount, times (ii) the daily
+average Federal Funds Effective Rate during the period from and including the date such payment is required to the date on which such payment is immediately available to such Issuing Lender, times (iii) a fraction the numerator of which is the number of days that elapse during such period and the denominator of which is 360.
+If any such amount required to be paid by any L/C Participant pursuant to Section 3.4(a) is not made available to the Administrative Agent for the account of the relevant Issuing Lender by such L/C Participant within three Business Days after the date such payment is due, such Issuing Lender shall be entitled to recover from such L/C Participant, on demand, such amount with interest thereon calculated from such due date at the rate per annum applicable to ABR Loans under the Revolving Facility.
+If such reallocation cannot, or can only partially be effected, the Borrower shall, within five Business Days after written notice from the Administrative Agent, pay to the Administrative Agent, an amount of cash equal to such Defaulting Lender’s Revolving Percentage (calculated as in effect immediately prior to it becoming a Defaulting Lender) of the L/C Obligations (after giving effect to any partial reallocation pursuant to the first sentence of this Section 3.4(d)) to be held as security for all obligations of the Borrower to the Issuing Lenders hereunder in a cash collateral account to be established by, and under the sole dominion and control of, the Administrative Agent.
+So long as there is a Defaulting Lender, an Issuing Lender shall not be required to issue any Letter of Credit where the sum of the Non-Defaulting Lenders’ Revolving Percentage, as applicable, of the outstanding Revolving Loans, Swingline Loans and their participations in Letters of Credit after giving effect to any such requested Letter of Credit would exceed (such excess, the “L/C Shortfall”) the aggregate Revolving Commitments of the Non-Defaulting Lenders, unless the Borrower shall pay to the Administrative Agent, an amount of cash or Cash Equivalents equal to the amount of the L/C Shortfall, such cash or Cash Equivalents to be held as security for all obligations of the Borrower to the Issuing Lenders hereunder in a cash collateral account to be established by, and under the sole dominion and control of, the Administrative Agent.
+3.5                               Reimbursement Obligation of the Borrower.
+Interest shall be payable on any such amounts from the date on which the relevant draft is paid until payment in full at a rate equal to (i) until the second Business Day next succeeding the date of the relevant notice, the rate applicable to ABR Loans under the Revolving Facility and (ii) thereafter, the rate set forth in Section 2.15(c).
+5.25 : 1.00
+5.25 : 1.00
+4.005.00 : 1.00
+3.755.00 : 1.00
+4.75 : 1.00
+4.75 : 1.00
+4.50 : 1.00
+4.00 : 1.00
+3.503.75 : 1.00
+Permit the Consolidated Net Interest Coverage Ratio of Holdings as of the last day of any Test Period to be less than 2.25:1.00.
+(iii)                               Indebtedness (including, without limitation, Capital Lease Obligations) secured by Liens permitted by Section 7.3(g) in an aggregate principal amount not to exceed the greater of (a) $37,500,00050,000,000 and (b) 42.25% of consolidated total assets of Holdings and its Restricted Subsidiaries at any one time outstanding;
+(vi)                              Indebtedness of Non-Guarantor Subsidiaries in respect of local lines of credit, letters of credit, bank guarantees, factoring arrangements, sale/leaseback transactions and similar extensions of credit in the ordinary course of business not to exceed at any one time outstanding an aggregate principal amount equal to the sum of $45,000,00060,000,000;
+(viii)                        (i) Indebtedness of any Non-Guarantor Subsidiary to a Loan Party and (ii) Guarantee Obligations of the Loan Parties of Indebtedness for Borrowed Money of any joint venture or Non-Guarantor Subsidiaries, in an aggregate principal amount for all such Indebtedness and, without duplication, Guarantee Obligations not to exceed the greater of (a) (i) $45,000,00060,000,000 and (ii) 42.75% of consolidated total assets of Holdings and its Restricted Subsidiaries at any one time outstanding plus (b) an amount equal to the Available Amount;
+(x)                                 additional Indebtedness of Holdings or any of its Restricted Subsidiaries in an aggregate principal amount (for Holdings and all Restricted Subsidiaries) not to exceed $30,000,00040,000,000 at any one time outstanding;
+(xi)                              Indebtedness under a Permitted Seller Note issued as consideration in connection with a Permitted Acquisition under Section 7.8(f), in an aggregate principal amount not to exceed $45,000,00060,000,000 at any one time outstanding;
+(xxi)                       Indebtedness of Holdings or any other Loan Party incurred to finance any acquisition or other Investment permitted under Section 7.8(f) in an aggregate amount for all such Indebtedness not to exceed the greater of (i) $75,000,000100,000,000 and (ii) 6.54.5% of consolidated total assets
+(xix)                       (i) cash deposits in favor of any Lender or any of their respective Affiliates securing any Hedge Agreement permitted hereunder and (ii) any other cash deposits in favor of any other party securing any Hedge Agreement permitted hereunder in an aggregate amount not to exceed $30,000,000 at any one time outstanding;
+(xxviii)          other Liens with respect to obligations that do not exceed $20,000,00025,000,000 at any one time outstanding.
+Restricted Subsidiary, issue or sell any shares of such Restricted Subsidiary’s Capital Stock to any Person, except:
+(viii)                        Holdings and any Restricted Subsidiary may transfer for fair value Property (including Capital Stock of Subsidiaries (other than the Borrower)) to another Person in connection with a joint venture arrangement with respect to the transferred Property; provided that the sum of, without duplication, (A) the aggregate book value of all Property so transferred to any Person other than a Loan Party, (B) the aggregate amount of all Excess Amounts in respect of Dispositions made pursuant to Section 7.4(c), (C) the aggregate amount of all Differential Amounts in respect of Dispositions made pursuant to Section 7.5(l) and (D) the aggregate amount of all Investments made pursuant to Sections 7.8(h) and 7.8(q), shall not at any one time outstanding exceed 4% of consolidated total assets of Holdings and its
+(xii)                           Holdings and any Restricted Subsidiary may transfer Property (including Capital Stock of Subsidiaries (other than the Borrower)) for less than fair value (such difference, the “Differential Amount”) of any Loan Party to any Non-Guarantor Subsidiary; provided that the sum of, without duplication, (A) the aggregate amount of all such Differential Amounts, (B) the aggregate amount of all Excess Amounts in respect of Dispositions made pursuant to Section 7.4(c), (C) the aggregate book value of all Property transferred to a Person other than a Loan Party pursuant to Section 7.5(h) and (D) the aggregate amount of all Investments made pursuant to Sections 7.8(h) and 7.8(q), shall not at any one time outstanding exceed 4% of consolidated total assets of Holdings and its Restricted Subsidiaries (at the time of any transfer giving rise to any such amount or any such Investment); provided, further, that any sale or issuance of Capital Stock of an Unrestricted Subsidiary to a Loan Party is otherwise permitted by Section 7.8;
+(iv)                              Holdings may purchase fractional shares of its common stock arising out of stock dividends, splits or combinations or business combinations;
+(vii)                           Holdings may make Restricted Payments in an aggregate amount of payments under this clause (g) not to exceed the greater of (i) $20,000,000 and (ii) 10% of Consolidated EBITDA, as of the end of the most recently ended Test Period for which financial statements have been delivered pursuant to Section 6.1 at the time of such Restricted Payment, in any fiscal year of Holdings; provided that no such Restricted Payment shall be permitted (i) prior to January 1, 2014 and (ii) unless Holdings is in compliance with the covenant set forth in Section 7.1(a), determined on a pro forma basis as of the last day of the most recently ended Test Period after giving effect to such Restricted Payment, and determined for this purpose as though the required Consolidated Total Leverage Ratio level were 0.50:1.00 lower than the then applicable ratio level set forth in Section 7.1(a).
+(ix)                              provided that no Default or Event of Default is continuing or would result therefrom, Holdings may make Restricted Payments in an aggregate amount not to exceed $20,000,000;
+(x)                                 noncash repurchases of Capital Stock deemed to occur upon exercise of stock options or similar equity incentive awards if such Capital Stock represents a portion of the exercise price of such options or similar equity incentive awards;
+(iv)                              loans and advances to employees, consultants or directors of Holdings or any of its Restricted Subsidiaries in the ordinary course of business in an aggregate amount (for Holdings and all Restricted Subsidiaries) not to exceed $4,500,0006,000,000 (excluding (for purposes of such cap) tuition advances, travel and entertainment expenses, but including relocation expenses) at any one time outstanding;
+(vi)                              (i) Permitted Acquisitions to the extent that any Person or Property acquired in such acquisition becomes a Loan Party or a part of any Loan Party or becomes (whether or not such Person is a wholly ownedwholly-owned Subsidiary) a Subsidiary Guarantor in the manner contemplated by Section 6.8(c) and (ii) other Permitted Acquisitions in an aggregate purchase price (other than purchase price paid through the Available Amount) not to exceed in any fiscal year an amount equal to the greater of (i) $75,000,000100,000,000 and (iii) 6.54.5% of consolidated total assets;
+(xv)                          Investments so long as the aggregate amount thereof (determined as the amount originally advanced, loaned or otherwise invested, less any returns on the respective Investment not to exceed the original amount invested) at no time exceeds the greater of: (i) $37,500,00050,000,000 and (ii) 42.25% of the consolidated total assets of Holdings and its Restricted Subsidiaries plus, in the case of clauses (i) and (ii), an amount equal to the Available Amount;
+(xxviii)          Investments in Restricted Subsidiaries to fund the purchase price of any acquisition permitted pursuant to Section 7.8(f)(ii) above.
+owing in respect of, any Permitted Subordinated Indebtedness, except any such payment, prepayment, repurchase, redemption or defeasance made (a) with the Available Amount or (b) so long as (x) the aggregate amount of all such payments, prepayments, repurchases, redemptions or defeasances after the Closing Date shall not exceed $50,000,000 and (y) immediately following each such payment, prepayment, repurchase, redemption or defeasance, the Consolidated Total Leverage Ratio shall not exceed 2.00:1.00 as of the end of the most recently ended Test Period for which financial statements have been delivered pursuant to Section 6.1, on a pro forma basis.
+(i)                                     The Borrower shall fail to pay (i) any principal of or premium on any Loan when due in accordance with the terms hereof, (ii) any principal of any Reimbursement Obligation within three Business Days after any such principal becomes due in accordance with the terms hereof or (iii) any interest owed by it on any Loan or Reimbursement Obligation, or any other amount payable by it hereunder or under any other Loan Document, within five Business Days after any such interest or other amount becomes due in accordance with the terms hereof; or
+10.10                 Integration.
+If for the purpose of obtaining judgment in any court it is necessary to convert a sum due hereunder in the Specified Currency into another currency (the “Second Currency”), the rate of exchange that shall be applied shall be the rate at which in accordance with normal banking procedures the Administrative Agent could purchase the Specified Currency with the Second Currency on the Business Day next preceding the day on which such judgment is rendered.
+11,261,362.33
+4,336,433.87
+15,597,796.20
+18,935,234.70
+6,064,765.30
+25,000,000.00
+7,961,173.23
+3,131,113.27
+11,092,286.50
+7,961,173.23
+3,131,113.27
+11,092,286.50
+7,961,173.23
+3,131,113.27
+11,092,286.50
+7,961,173.23
+3,131,113.27
+11,092,286.50
+7,961,173.23
+3,131,113.27
+11,092,286.50
+7,961,173.23
+3,131,113.27
+11,092,286.50
+8,242,424.24
+2,060,606.06
+10,303,030.30
+8,242,424.24
+2,060,606.06
+10,303,030.30
+8,484,848.48
+0.00
+8,484,848.48
+5,818,181.82
+1,454,545.45
+7,272,727.27
+3,878,787.88
+969,696.97
+4,848,484.85
+4,848,484.85
+0.00
+4,848,484.85
+3,878,787.88
+969,696.97
+4,848,484.85
+3,878,787.88
+969,696.97
+4,848,484.85
+3,878,787.88
+969,696.97
+4,848,484.85
+2,715,151.51
+678,787.88
+3,393,939.39
+2,715,151.51
+678,787.88
+3,393,939.39
+3,393,939.39
+0.00
+3,393,939.39
+3,393,939.39
+0.00
+3,393,939.39
+3,393,939.39
+0.00
+3,393,939.39
+3,393,939.39
+0.00
+3,393,939.39
+3,393,939.39
+0.00
+3,393,939.39
+2,424,242.42
+0.00
+2,424,242.42
+2,424,242.42
+0.00
+2,424,242.42
+1,212,121.21
+0.00
+1,212,121.21
+1,212,121.21
+0.00
+1,212,121.21
+1,212,121.21
+0.00
+1,212,121.21
+160,000,000.00
+40,000,000.00
+200,000,000.00
+Tranche A Term Loan
+Commitment
+66,402,203.80
+35,000,000.00
+38,907,713.50
+38,907,713.50
+38,907,713.50
+38,907,713.50
+38,907,713.50
+38,907,713.50
+32,196,969.70
+32,196,969.70
+26,515,151.52
+22,727,272.73
+15,151,515.15
+15,151,515.15
+15,151,515.15
+15,151,515.15
+15,151,515.15
+10,606,060.61
+10,606,060.61
+Tranche A Term Loan
+Commitment
+10,606,060.61
+10,606,060.61
+10,606,060.61
+10,606,060.61
+10,606,060.61
+7,575,757.58
+7,575,757.58
+3,787,878.79
+3,787,878.79
+3,787,878.79
+625,000,000.00
+Tranche B Term Loan
+Commitment
+525,000,000.00
+525,000,000.00

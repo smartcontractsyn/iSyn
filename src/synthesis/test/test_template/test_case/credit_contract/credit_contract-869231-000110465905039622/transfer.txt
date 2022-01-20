@@ -1,0 +1,860 @@
+Dated as of June 28, 2005
+Letters of Credit
+Letter of Credit Fees
+Consolidation, Merger, Sale or Purchase of Assets, etc.
+Dividends, etc.
+Delivery of Information
+Form of Letter of Credit Request
+Form of Borrowing Base Certificate
+In the event that (i) the Consolidated Leverage Ratio for any period of four consecutive fiscal quarters of the Borrower (taken as one accounting period) is less than 5.25:1.00 (such Consolidated Leverage Ratio to be determined based on the delivery of a certificate signed by a Responsible Officer of the Borrower to the Administrative Agent (with a copy to be sent by the Administrative Agent to each Lender), within 45 days of the last day of any fiscal quarter (or 90 days of the last day of any fiscal year) of the Borrower, which certificate shall set forth the calculation of the Consolidated Leverage Ratio as at the last day of the four
+Asset Sale shall mean the sale, transfer or other disposition by Holdings, the Borrower or any Subsidiary of Holdings or the Borrower to any Person other than the Borrower
+Canadian Subsidiary Guarantor shall mean (i) WSC and (ii) each Canadian Subsidiary of Holdings that executes and delivers a counterpart of the Canadian Subsidiaries Guaranty after the Effective Date pursuant to the requirements of Section 7.16.
+Fee Letter shall mean that certain letter dated May 16, 2005 among BofA, DBTCA, the Co-Lead Arrangers and the Borrower, providing for the payment of certain fees in connection with this Credit Agreement.
+Maturity Date shall mean the fifth anniversary of the Effective Date.
+Revolving Note shall mean a promissory note of the Borrower payable to the order of a Lender, in the form of Exhibit A-2, evidencing the aggregate Indebtedness of the
+Syndication Date shall mean the earlier of (x) the date which is 90 days after the Effective Date and (y) the date (which may occur prior to, on or after the Effective Date) upon which the Administrative Agent determines in its sole discretion (and notifies the Borrower) that the primary syndication of the Credit Agreement (and the resulting addition of institutions as Lenders pursuant to Section 11.6) has been completed, notice of which shall be promptly given to the Borrower.
+U.S. Subsidiary Guarantor shall mean (i) each Domestic Subsidiary of the Borrower in existence on the Effective Date and (ii) each Domestic Subsidiary of the Borrower which executes and delivers a counterpart of the U.S. Subsidiaries Guaranty after the Effective Date pursuant to the requirements of Section 7.16.
+The Borrower hereby agrees to execute and deliver to each Lender that requests same a Term Note in the form of Exhibit A-1 to evidence the Term Loans made by such Lender or otherwise owing to such Lender pursuant to the Bank Assignment Agreement or as provided in Section 11.6 of this Credit Agreement.
+(a)  Except as provided in Section 2.3(b) or (c), Borrowings shall be made on notice from the Borrower to the Administrative Agent, given not later than 1:00 P.M. (New York City time) on the date on which the proposed Borrowing consisting of Base Rate Loans is requested to be made and on the third Business Day prior to the
+(a)  Except as provided in Section 2.4(b), the Administrative Agent shall give to each Revolving Credit Lender prompt notice of each Notice of Borrowing by telecopy, telex, facsimile or cable.
+No later than 3:00 P.M. (New York City time) on the date of each Borrowing representing the incurrence of Revolving Loans (each, a “RL Borrowing Date”), each Lender with a Revolving Credit Commitment will make available, from the account of its Applicable Lending Office, to the Administrative Agent at its Payment Office, in immediately available funds, for the account of the Borrower, its Revolving Credit Proportionate Share of such Borrowing.
+To the extent the Lenders have made such amounts available to the Administrative Agent as provided above, the Administrative Agent will make the aggregate of such amounts available to the Borrower by 4:00 P.M., New York time, on the respective RL Borrowing Date in accordance with this Section 2.4 and in like funds received by the Administrative Agent.
+Unless the Administrative Agent shall have been notified by any Lender prior to the date of such Borrowing that such Lender does not intend to make available to the Administrative Agent its portion of such Borrowing to be made on such date, the Administrative Agent may assume that such Lender will make such amount available to the Administrative Agent at its Payment Office on such date of Borrowing, or, if applicable, the Settlement Date and the Administrative Agent, in reliance upon such assumption, may but shall not be obligated to make available the amount of the Borrowing to be provided by such Lender.
+After the end of each month the Administrative Agent shall send the Borrower a statement accounting for the charges, loans, advances and other transactions occurring among and between the Administrative Agent, the Revolving Credit Lenders, the Issuing Lender and the Borrower during that month.
+The Borrower will furnish to the Administrative Agent within 45 days after the date the payment of any Taxes, or any withholding or deduction on account thereof, is due pursuant to applicable law certified copies of tax receipts evidencing such payment by the Borrower.
+Whenever the Borrower desires the issuance of a Letter of Credit, the Borrower shall deliver to the Administrative Agent and the Issuing Lender a written notice no later than 1:00 P.M. New York City time at least three Business Days (or such shorter period as may be agreed to by the Issuing Lender) in advance of the proposed date of issuance of a letter of credit request in the form attached as Exhibit B-2 (a “Letter of Credit Request”).
+A Letter of Credit Request may be given in writing or by facsimile.
+Promptly after the issuance of or amendment to any standby Letter of Credit, the Issuing Lender shall notify the Administrative Agent and the Borrower of such issuance or amendment in writing, and such notice shall be accompanied by a copy of such Letter of Credit or amendment thereto.
+Upon receipt of such notice, the Administrative Agent shall promptly notify each Revolving Credit Lender, in writing, of such issuance or amendment.
+Agent shall provide such Revolving Credit Lender with copies of such Letter of Credit or amendment.
+On the first Business Day of each week, the Issuing Lender shall provide the Administrative Agent with a report showing the daily aggregate outstandings for trade Letters of Credit for the previous week.
+In the event of a drawing under a Letter of Credit, the respective Issuing Lender shall notify the Administrative Agent, who shall notify each Revolving Credit Lender, of such drawing and, subject to satisfaction or waiver of the conditions specified in Section 5.2 hereof and the other terms and conditions of Borrowings contained herein, the Revolving Credit Lenders shall, on the date of such drawing (or if the Administrative Agent’s notice contemplated above is delivered after 12:00 Noon (New York City time) on the date of such drawing, the Business Day after such drawing), make Revolving Loans (constituting Base Rate Loans) in the amount of such drawing (or the Dollar Equivalent thereof in the case of any drawing under a Letter of Credit denominated in a currency other than Dollars), the proceeds of which shall be applied directly by the Administrative Agent to reimburse the Issuing Lender for the amount of such drawing or payment.
+Each Revolving Credit Lender shall make available to the Issuing Lender in Dollars an amount equal to its respective participation in same day funds, at the office of such Issuing Lender specified in such notice, not later than 1:00 P.M. New York City time on the Business Day after the date notified by the Administrative Agent.
+The Administrative Agent upon determining the Eurodollar Rate for any Interest Period shall promptly notify the Borrower and the Lenders thereof.
+Each selection of a new Interest Period (a “Continuation”) shall be made by notice given by the Borrower to the Administrative Agent not later than 12:00 Noon New York City time on the third Business Day prior to the date of any such Continuation.
+Such notice (a “Notice of Continuation”) shall be by telephone, telecopy, telex, facsimile or cable, confirmed immediately in writing if by telephone, in substantially the form of Exhibit B-3, which shall be completed in such manner as is necessary to comply with all limitations on the Loans outstanding hereunder.
+(a)  From and after the Effective Date, the Borrower shall promptly reimburse each of the Administrative Agent and the Collateral Agent for all Expenses of such Agent as the same are paid or incurred by such Agent and upon receipt of invoices therefor and, if requested by the Borrower, such reasonable backup materials and information (other than backup materials and information relating to the calculation of breakage costs) as the Borrower shall reasonably request.
+Except as otherwise provided in the proviso to the immediately preceding sentence, accrued Facing Fees shall be due and payable monthly in arrears on the last Business Day of each calendar month and on the Maturity Date or any earlier date on or after the termination of the Total Revolving Credit Commitments when no Letters of Credit are outstanding.
+The Borrower hereby authorizes the Administrative Agent, subject to prior notice to the Borrower, to charge the Borrower’s Revolving Loan account with the amount of all Fees, Expenses and other payments to be paid hereunder, under the Fee Letter and under the other Credit Documents as and when such
+payments become due, provided that any such Expenses attributable to services provided by third party accountants, consultants, advisors and other professionals retained by the Administrative Agent or any of its affiliates shall have been invoiced to the Borrower or the Administrative Agent or its respective affiliate, with a copy of said invoice provided to the Borrower.
+(B)           certified copies of Requests for Information or Copies (Form UCC-11), or equivalent reports as of a recent date, listing all effective financing statements that name Holdings, the Borrower or any of their respective Subsidiaries as debtor and that are filed in the jurisdictions referred to in clause (A) above and in such other jurisdictions in which Collateral is located on the Initial Borrowing Date or which may result in the existence of perfected security interests against Holdings, the Borrower or any of their respective Subsidiaries, together with copies of such other financing statements that name Holdings, the Borrower or any of their respective Subsidiaries as debtor (none of which shall cover any of the Collateral except (x) to the extent evidencing Permitted Liens or (y) those in respect of which the Collateral Agent shall have received termination statements (Form UCC-3) or such other termination statements as shall be required by local law fully executed for filing);
+that the Borrower has deposited (or will substantially currently with the Initial Borrowing Date deposit) an application for such notation with the applicable Governmental Authority, together with any necessary fee in connection therewith) which notation shall, under applicable state law, perfect the Collateral Agent’s security interest therein (except to the extent the UCC is controlling, in which case the Financing Statements filed pursuant to preceding clause (A) shall perfect such security interests);
+All of the certificates, legal opinions and other documents and papers referred to in this Section 5, unless otherwise specified, shall be delivered to the Administrative Agent at the location where the closing occurs for the account of each of the Lenders and, except for the Notes, in sufficient counterparts or copies for each of the Lenders and shall be in form and substance as specified herein or otherwise satisfactory to the Administrative Agent.
+None of the receipts received by the Borrower from any warehouseman states that the goods covered thereby are to be delivered to bearer or to the order of a named Person other than the Borrower or to a named Person and such named Person’s assigns.
+At all times on or after the Initial Borrowing Date, the respective grantor under each Collateral Document shall have good and marketable title to all the Collateral subject thereto free and clear of all Liens other than Permitted Liens.
+The Borrower shall furnish to the Administrative Agent (who shall then make available to the Lenders) the following information within the following time periods:
+Notwithstanding anything to the contrary contained in clause (f) of this Section 7.1, the information delivered to the Administrative Agent pursuant to sub-clauses (C) and (D) of Section 7.1(f) shall only be delivered to those Lenders which have requested same from the Administrative Agent in writing and delivered a copy of such request to the Borrower.
+In the event that the Administrative Agent or the Required Lenders at any time after the Effective Date determine in its or their good faith discretion (as a result of events or circumstances affecting the Administrative Agent or the Required Lenders after the Effective Date) that real estate appraisals satisfying the requirements set forth in 12 C.F.R., Part 34-Subpart C, or any successor or similar statute, rule, regulation, guideline or order (any such appraisal a “Required Appraisal”) are or were required to be obtained, or should be obtained, in connection with any Mortgaged Property or Mortgaged Properties, then, within 120 days after receiving written notice thereof from the Administrative Agent or the Required Lenders, as the case may be, such Required Appraisals shall be delivered, at the expense of the Borrower, to the Administrative Agent, which Required Appraisals, and the respective appraiser, shall be satisfactory to the Administrative Agent.
+As soon as possible and, in any event, within twenty days after Holdings, the Borrower, any of their respective Subsidiaries or any ERISA Affiliate knows or has reason to know of the occurrence of any of the following, the Borrower or its designee will deliver to the Administrative Agent a certificate of the chief financial officer of the Borrower
+The Borrower will deliver to each of the Lenders (i) a complete copy of the annual report (on Internal Revenue Service Form 5500-series or otherwise in the form prescribed by the applicable Governmental Authority) of each Plan that is a defined benefit plan as defined in Section 3(35) of ERISA or Foreign Pension Plan under a similar provision of applicable law (including, to the extent required, the related financial and actuarial statements and opinions and other schedules) required to be filed with the Internal Revenue Service or any other applicable Governmental Authority and (ii) copies of any material records, documents or other information that must be furnished to the PBGC or any other applicable Governmental Authority with respect to any Plan pursuant to Section 4010 of ERISA or other applicable under law.
+In addition to any certificates or notices delivered to the Lenders pursuant to the first sentence hereof, copies of annual reports and any records, documents or other information required to be furnished to the PBGC or any other applicable Governmental Authority, and any material notices received by Holdings, the Borrower, any of their respective Subsidiaries or any ERISA Affiliate with respect to any defined benefit plan as defined in Section 3(35) of ERISA shall be delivered to the Lenders no later than ten days after the date such annual report has been filed with the Internal Revenue Service or any other applicable Governmental Authority or such records, documents and/or information has been furnished to the PBGC or any other applicable Governmental Authority or such notice has been received by Holdings, the Borrower, such Subsidiary or the ERISA Affiliate, as applicable.
+The Borrower shall give the Collateral Agent fifteen days prior written notice of any change in the location of any facility owned or leased by Holdings or the Borrower or any of their respective Subsidiaries where Collateral is located or in the location of its chief executive office or place of business from the locations specified in Schedule VI, and to execute in advance of such change, cause to be filed and/or delivered to the Collateral Agent any financing statements, Collateral Access Agreements
+Each of Holdings and the Borrower agree to execute and deliver, and to cause each of their respective Subsidiaries to execute and deliver, to the Collateral Agent, from time to time, solely for the Collateral Agent’s convenience in maintaining a record of the Collateral, such written statements and schedules as the Collateral Agent may reasonably require, including, without limitation, those described in Section 7.1 of this Credit Agreement, designating, identifying or describing the Collateral pledged or granted to the Collateral Agent (for the benefit of the Lenders) under the Collateral Documents.
+Each of Holdings and the Borrower agrees to furnish any such information to the Collateral Agent promptly upon request.
+The Borrower shall provide written notice to the Administrative Agent of the occurrence of any of the following events within ten Business Days after the occurrence of such event: any Collateral is (i) damaged or destroyed, or suffers any other loss, or (ii) condemned, confiscated or otherwise taken, in whole or in part, or the use thereof is otherwise diminished so as to render impracticable or unreasonable the use of such Collateral or to materially diminish its marketability (collectively, a “Casualty Loss”), and in either case either (x) a Default or an Event of Default has occurred and is continuing or (y) the amount of the damage, destruction, loss or diminution in value is in excess of $5,000,000.
+After the occurrence and during the continuance of an Event of Default, (i) no settlement on account of any such Casualty Loss shall be made without the consent of the Collateral Agent and (ii) the Collateral Agent may participate in any such proceedings and the Borrower shall deliver to the Collateral Agent such documents as may be requested by the Collateral Agent to permit such participation and shall consult with the Collateral Agent, its attorneys and agents in the making and prosecution of such claim or claims.
+Collateral Agent, make, execute and deliver any and all assignments and other instruments sufficient for the purpose of assigning any such award or payment to the Collateral Agent for the benefit of the Lenders, free and clear of any encumbrances of any kind or nature whatsoever, other than the right of Holdings or the Borrower to any insurance proceeds remaining after application thereof by the Collateral Agent as provided in this Section 7.10.
+Furthermore, Holdings and the Borrower shall cause to be delivered to the Collateral Agent such opinions of counsel, title insurance and other related documents as may be reasonably requested by the Collateral Agent to assure itself that this Section 7.13 has been complied with.
+The Borrower shall exercise reasonable good faith efforts to obtain and deliver to the Administrative Agent, such Collateral Access Agreements with respect to Rental Equipment locations for which no Collateral Access Agreement was delivered to the Administrative Agent on or prior to the Initial Borrowing Date and shall exercise reasonable good faith efforts to obtain and deliver such other Collateral Access Agreements as may be requested by the Administrative Agent from time to time (such Collateral Access Agreements to be so delivered to the Administrative Agent promptly upon request and in any event, within 90 days after the respective request has been made); provided that, notwithstanding the foregoing, the Borrower, in obtaining the Collateral Access Agreements required under this Section 7.15, shall not be obligated to make significant payments to landlords or alter the respective lease terms with respect to any Rental Equipment locations in any way which is materially adverse to the Borrower.
+In connection with the foregoing, to the extent requested by the Administrative Agent or the Collateral Agent, the Borrower shall be required to cause to be delivered such relevant documentation (including opinions of counsel) of the type described in Section 5.1 as the respective Subsidiary would have delivered if it were a Credit Party on the Initial Borrowing Date.
+immediately after giving effect thereto; (ii) the Borrower shall have given the Administrative Agent at least 10 Business Days’(five (5) Business Days’ in the case of a Permitted Acquisition by Holdings or an Unrestricted Subsidiary) prior written notice of any Permitted Acquisition; (iii) the Borrower shall certify, and the Administrative Agent shall have been satisfied in its reasonable discretion that, to the best of the Borrower’s knowledge, the proposed Permitted Acquisition could not reasonably be expected to result in materially increased tax, ERISA, environmental or other liabilities with respect to Holdings, the Borrower or any of the Borrower’s Subsidiaries; (iv) all representations and warranties contained herein and in the other Credit Documents shall be true and correct in all material respects with the same effect as though such representations and warranties had been made on and as of the date of such Permitted Acquisition (both before and after giving effect thereto), unless stated to relate to a specific earlier date, in which case such representations and warranties shall be true and correct in all material respects as of such earlier date; (v) the Borrower provides to the Administrative Agent and the Lenders as soon as available but not later than five Business Days after the execution thereof, a copy of any executed purchase agreement or similar agreement with respect to such Permitted Acquisition; (vi) no proceeds of Revolving Loans may be used to pay the purchase price or any other amounts related to Permitted Acquisitions (whether by direct acquisition by the Borrower or any of the Borrower’s Wholly-Owned Subsidiaries (other than the Unit Subsidiary) or by distributing cash to Holdings to enable Holdings or any of the Unrestricted Subsidiaries to make such Permitted Acquisition) except that (A) $100,000,000 in the aggregate of proceeds of Revolving Loans may be used in any fiscal year of the Borrower for such purpose (including, subject to Section 8.6, by distributing cash to Holdings for such purpose), but only if for each instance of any such use of proceeds of Revolving Loans (1) (x)  Average Excess Availability for the period of 60 consecutive days (or such lesser number of consecutive days as may have elapsed from the Effective Date) ending on (and including) the day on which such Permitted Acquisition is consummated, on a pro forma basis as if such Permitted Acquisition (and any Credit Events to occur in connection therewith) had occurred on the first day of such 60 (or lesser, as the case may be) day period, is greater than or equal to $75,000,000 and (y) Excess Availability is greater than $75,000,000 on the date of consummation of such Permitted Acquisition after giving effect to such Permitted Acquisition and any Credit Events in connection therewith and (2) the Senior Secured Leverage Ratio for the four consecutive fiscal quarter period of the Borrower (taken as one accounting period) most recently ended prior to the date of the consummation of such Permitted Acquisition for which Financial Statements were required to be delivered pursuant to Section 7.1(a) or (b), on a pro forma basis as if such Permitted Acquisition and any Credit Events in connection therewith had occurred on the first day of such period, is less than 3.50:1.00; and (B) in addition to the amount of proceeds of Revolving Loans permitted under clause (A) above, an additional $100,000,000 in the aggregate of proceeds of Revolving Loans may be used during the term of this Credit Agreement for such purpose (including, subject to Section 8.6, by distributing cash to Holdings for such purpose) so long as the Average Excess Availability and Excess Availability tests in clauses (A)(1)(x) and (y) above are satisfied therefore (except that the $75,000,000 amounts referenced in such clauses shall instead be $65,000,000 amounts); and (vii) the Borrower shall have delivered to the Administrative Agent an officer’s certificate executed by a Responsible Officer of the Borrower, certifying to the best of his knowledge, compliance with the requirements of preceding clauses (i) through (iv), inclusive, containing the Senior Secured Leverage Ratio calculation required by the preceding clause (vi)(A)(2) (if applicable) and setting forth (x) the aggregate
+(a)  Holdings and the Borrower shall at all times cause the Unit Subsidiary to be a Wholly-Owned Domestic Subsidiary of the Borrower.
+1 thereto, dated as of September 1, 1998) and (b) the Second Amended and Restated Management Stockholders’ and Optionholders’ Agreement dated as of May 22, 1997 among Holdings,
+Neither Holdings, the Borrower nor any Subsidiary Guarantor shall change its legal name, its type of organization, its status as a registered organi­zation (in the case of a registered organization), its jurisdiction of organization, its Location, or its organizational identification number (if any), except that any such changes shall be permitted (so long as not in violation of the applicable requirements of the Collateral Documents and so long as same do not involve (x) a registered organization ceasing to constitute same or (y) Holdings, the Borrower or any Subsidiary Guarantor changing its juris­dic­tion of organization or location from the United States or a State thereof to a juris­dic­tion of organization or location, as the case may be, outside the United States or a State thereof) if (i) it shall have given to the Collateral Agent not less than 15 days’ prior written notice of each change to the information listed on Schedule XI (as adjusted for any subsequent changes thereto previously made in accordance with this sentence), together with a supplement to Schedule XI which shall correct all information contained therein for Holdings, the Borrower or the respective Subsidiary Guarantor, and (ii) in connection with the respective such change or changes, it shall have taken all action reasonably requested by the Collateral Agent to maintain the security interests of the Collateral Agent in the Collateral intended to be granted hereby pursuant to the Collateral Documents at all times fully perfected and in full force and effect.
+then, and in any such event, and at any time thereafter, if any Event of Default shall then be continuing, the Administrative Agent may, and shall upon the written request of the Required Lenders, by written notice to the Borrower, take any or all of the following actions, without prejudice to the rights of any Agent or any Lender to enforce its claims against the Borrower, except as otherwise specifically provided for in this Credit Agreement (provided that, if an Event of Default specified in Section 9.1(e) shall occur with respect to the Borrower or the Unit Subsidiary, the result which would occur upon the giving of written notice by the Administrative Agent as specified in clause (i) below shall occur automatically without the giving of any such notice):  (i) declare the Total Commitments terminated, whereupon the Commitments of each Lender shall forthwith terminate immediately and any accrued and unpaid Unused Line Fee shall forthwith become due and payable without any other notice of any kind and declare the principal of and any accrued interest in respect of all Loans and all other Obligations owing hereunder to be, whereupon the same shall become, forthwith due and payable without presentment, demand, protest or other notice of any kind, all of which are hereby waived by the Borrower; (ii) direct the Collateral Agent to enforce any or all of the Liens and security interests created pursuant to the Collateral Documents; (iii) terminate any Letter of Credit which may be terminated in accordance with its terms; and/or (iv) direct the Borrower to pay (and the Borrower hereby agrees upon receipt of such notice, or upon the occurrence of any Event of Default specified in Section 9.1(e) in respect of the Borrower, it will pay) to the Administrative Agent at its Payment Office such additional amounts of cash, to be held as security for the Borrower’s reimbursement obligations in respect of Letter of Credit then outstanding equal to 105% of the aggregate of all Letters of Credit Obligations.
+Each Agent shall have the right to request instructions from the Required Lenders at any time.
+(a)  The Administrative Agent may, upon five Business Days’ notice to the Lenders and the Borrower, resign at any time (effective upon the appointment of a successor Administrative Agent pursuant to the provisions of this Section 10.9) by giving written notice thereof to the Lenders and the Borrower.
+Upon any such resignation, the Required Lenders shall have the right, upon five days’ notice and written approval by the Borrower (which approval shall not be unreasonably withheld or be required at any time while an Event of Default exists), to appoint a successor Administrative Agent.
+(a)  Each Lender authorizes and directs the Collateral Agent to enter into the Collateral Documents for the benefit of the Lenders.
+10.13       Delivery of Information.
+No Agent shall be required to deliver to any Lender originals or copies of any documents, instruments, notices, communications or other
+Except as otherwise expressly provided herein, all notices and other communications provided for hereunder shall be in writing (including telegraphic, telex, telecopier or cable communication) and mailed, telegraphed, telexed, telecopied, cabled or delivered:  if to any Credit Party, at the address specified opposite its signature below or in the other relevant Credit Documents; if to any Lender, at its address specified on Schedule II; and if to the Administrative Agent, at the address set forth in the definition of “Payment Office” contained in this Credit Agreement; or, as to any Credit Party or the Administrative Agent, at such other address as shall be designated by such party in a written notice to the other parties hereto and, as to each Lender, at such other address as shall be designated by such Lender in a written notice to the Borrower and the Administrative Agent.
+All such notices and commun­ications shall, when mailed, telegraphed, telexed, telecopied, or cabled or sent by overnight courier, be effective when deposited in the mails, delivered to the telegraph company, cable company or overnight courier, as the case may be, or sent by telex or telecopier, except that notices and communications to the Administrative Agent or any Credit Party shall not be effective until received by the Administrative Agent or such Credit Party.
+than five Business Days after its receipt of a written notification by the assigning Lender and the assignee Lender of the proposed assignment.
+Assignments pursuant to clause (b)(A) will only be effective if the Administrative Agent shall have received a written notice in the form of Exhibit Q-2 hereto from the assigning Lender and the assignee.
+No later than five Business Days after its receipt of such written notice, the Administrative Agent will record such assignment, and the resultant effects thereof on the Loans and Commitments of the assigning Lender, in the Register, at which time such assignment shall become effective.
+The Administrative Agent will (x) notify the Issuing Lender with respect to outstanding Letters of Credit within 5 Business Days of the effectiveness of any assignment hereunder and (y) prepare on the last Business Day of each calendar quarter during which an assignment has become effective pursuant to this clause (b)(A) a new Schedule I giving effect to all such assignments effected during such quarter and will promptly provide same to the Borrower and each of the Lenders.
+The Register shall be available for inspection by the Borrower and any Lender at any reasonable time during normal business hours of the Administrative Agent upon reasonable prior notice.
+This Credit Agreement shall become effective on the date (the “Effective Date”) on which (i) Holdings, the Borrower, the Lenders and the Administrative Agent shall have signed a counterpart hereof (whether the same or different counterparts) and shall have delivered the same (including by way of facsimile transmission) to the Administrative Agent and (ii) the conditions contained in Sections 5.1 and 5.2 are met to the satisfaction of the Administrative Agent and the Required Lenders.
+The Administrative Agent will give the Borrower and each Lender prompt written notice of the occurrence of the Effective Date.
+IN WITNESS WHEREOF, the parties hereto have caused their duly authorized officers to execute and deliver this Credit Agreement as of the date first above written.
+Telephone: (410) 931-6000
+Facsimile: (410) 931-6117
+Telephone: (410) 931-6000
+Facsimile: (410) 931-6117
+Telephone:
+212-503-7632
+212-503-7340
+Telephone:
+212-250-3419
+212-797-4655
+Telephone:
+212-545-4435
+212-545-4283
+Telephone:
+212-790-9105
+212-536-1295
+Telephone:
+212-884-7128
+212-884-7692
+Telephone:
+212-236-1558
+212-236-0048
+Box 5201
+Norwalk, CT 06856-5201
+Telephone:
+203-956-4115
+203-956-4240
+Telephone:
+585-258-6903
+585-258-7440
+Suite 400 Locator #3049
+Telephone:
+216-222-9508
+216-222-9555
+Telephone:
+212-525-2518
+212-525-2520
+1445 Ross Drive
+Suite 4560, 45th Floor
+Telephone:
+214-721-6413
+214-721-6422
+Telephone:
+410-832-7554
+410-825-6257
+Telephone:
+312-904-6036
+312-904-6450
+Telephone:
+770-360-1442
+770-360-1672
+Telephone:
+732-590-6624
+732-590-6648
+Telephone:
+404-828-4856
+404-828-3775
+303 Peachtree Street NE
+Telephone:
+404-581-1792
+404-588-7061
+Telephone:
+212-816-2290
+212-816-2813
+Telephone:
+212-526-5803
+646-758-4980
+Telephone:
+212-806-4581
+212-806-4510
+Telephone:
+800-399-5919 x6536
+Telephone:
+212-856-6549
+212-856-3991
+Telephone:
+212-538-8209
+212-538-8290
+Telephone:
+212-538-8209
+212-538-8290
+Telephone:
+212-538-8209
+212-538-8290
+Please see attached.
+916.86
+04 FORD / NOT BUILT
+04 TOYOTA / JNAU2U1J14A455044
+731.87
+740.26
+893.15
+04 GMC / NOT AVAILABLE
+04 GMC / NOT AVAILABLE
+04 GMC / NOT AVAILABLE
+04 GMC / NOT AVAILABLE
+04 CHEV / 1GCHC39U941163923
+312.56
+883.84
+04 FORD E 350 / FTSS34P04HA75882
+740.41
+655.09
+617.49
+05 FORD F 150 / 1FTVF1259NA81397
+773.00
+05 FORD E 350 / 1FDWE35P9HA55666
+05 CHEV SILVERADO / 1GBHC24285E140507
+Please see attached.
+Please see attached.
+AUSTIN BRANCH
+2900 N IH-35
+Georgetown TX 78626
+BOISE BRANCH
+4430 E. Franklin Road
+Meridian ID 83642
+DENVER BRANCH
+4500 E. 60th Avenue
+Commerce City CO 80022
+FRESNO BRANCH
+2809 S. Chestnut Avenue
+Fresno CA 93725
+LOS ANGELES BRANCH
+12211 & 11811 Greenstone Avenue
+SantaFeSrings CA 90670
+800.00
+Reserve LA 70084
+RIVERSIDE BRANCH
+9400 Galena Street
+Riverside CA 92509
+SAN DIEGO BRANCH
+2650 Cactus Road
+San Diego CA 92145
+SAN JOSE BRANCH
+12705 Monterey Hwy
+San Martin CA 95046
+Please see attached.
+Name/Address
+Option to
+Purchase
+12221 Barlow Trail NE
+Box 6289
+3455 Hawthorne Road
+Please see attached.
+Name/Address
+AUSTIN BRANCH
+2900 N IH-35
+Georgetown TX 78626
+BOISE BRANCH
+4430 E. Franklin Road
+Meridian ID 83642
+Name/Address
+Name/Address
+DENVER BRANCH
+4500 E. 60th Avenue
+Commerce City CO 80022
+FRESNO BRANCH
+2809 S. Chestnut Avenue
+Fresno CA 93725
+FT MYERS BRANCH
+16131 Old U.S. Route 41
+Ft. Meyers FL 33912
+FT. LAUDERDALE BRANCH
+1400 N.W.
+Name/Address
+LOS ANGELES BRANCH
+12211 & 11811 Greenstone Avenue
+SantaFeSrings CA 90670
+Name/Address
+800.00
+Reserve LA 70084
+Name/Address
+RIVERSIDE BRANCH
+9400 Galena Street
+Riverside CA 92509
+SAN DIEGO BRANCH
+2850 Cactus Road
+San Diego CA 92145
+SAN JOSE BRANCH
+12705 Monterey Hwy
+San Martin CA 95046
+Name/Address
+TULSA BRANCH
+1830 N. 170th East Avenue
+Tulsa OK 74116
+Name/Address
+Box 6289
+Fort McMurray AB T9H 5N3
+Please see attached.
+Date Acq.
+1625 Western Drive
+West Chicago, IL 60185
+2/25/00
+1115 County Route 57
+Phoenix, NY 13135
+Please see attached.
+Please see attached.
+7/1/99-12/31/03
+Use Tax on Branch related purchases
+2358175
+D00245704
+00238354
+Please see attached.
+WC 2983560
+WC 2983561
+735310
+904352-00
+NO5NA02900
+Real/Personal Property @ Unnamed Loc Acquired Real Prop reported w/i 180 days Ordinance of Law Prop in due course of Transit (see policy for additional sublimits)
+Covers 8211 Town Center Drive only
+NO5NA02900
+7/1/04 - 7/1/05
+14MGU04A4705
+12/15/04 - 12/15/05
+14MGU04A4705
+12/15/04 - 12/15/05
+14MGU04A4705
+12/15/04 - 12/15/05
+14MGU04A4705
+12/15/04 - 12/15/05
+12/1/04 - 12/1/05
+1/1/04 - 12/31/04
+10/1/03 - 10/1/04
+7/1/04 - 7/1/05
+3500 Two Union Square
+601 Union Street
+Seattle, WA 98101
+(D.) Bush Cottou & Scott
+Suite 102
+11714 Northcreek Pkwy, No.
+Bothell, Wa 98041-3018
+Notwithstanding the foregoing, it is understood and agreed that nothing in this Schedule XIII or in the Credit Agreement shall permit any Credit Agreement Party (or any of its Subsidiaries) to consummate the respective transactions pursuant to any such agreement (or otherwise) unless either (i) the Required Lenders have specifically consented thereto in writing or (ii) concurrently with, or prior to, the consummation of such transaction the Borrower shall have (x) terminated the Total Commitment, all Interest Rate Agreements with Interest Rate Creditors (as defined in the U.S. Security Agreement) and all outstanding Letters of Credit (or cash collateralized all such Letters of Credit in a manner satisfactory to the Administrative Agent) and (y) repaid in full all Loans and all other Obligations under the Credit Documents then due and payable.
+Last Updated:  06/13/05
+2002-095-7901-1
+2003-232-0965-8
+060-2002-04499
+060-2003-10470
+In Lieu of filing for file #:181089414 filed on 7/9/01 with MD SOS.
+Copy of Attachment was not available
+0116560035
+067-2000-006690
+007-2001-004899
+One Eagle Pitcher R80 Lift Truck S/N: 49A03877 and substitutions, replacements, additions & accessions
+181079745
+Amendment-Change serial number to read as 49A03877
+One Wiggins WD 15.54 Lift Truck S/N:WLC012029 & Substitutions, Replacements, Additions & Accessions
+Assignment of collateral to Desert Community Bank
+One Wiggins WD 15.54 Lift Truck S/N:WLC012029 & Substitutions, Replacements, Additions & Accessions
+One Refurbished 1992 Kalmar DC-12 Forklift S/N T330122759 & 3 refurbished Taylor Forklifts, 1994 Taylor Forklift, S/N S-H5-2268687, 1993 Taylor Forklift, S/N
+S-H5-21946 & 1992 Taylor Forklift, S/N
+S-H5-21454
+One (1) KD Manitou MA470 Lift Truck S/N 158020 & Substitutions, replacements, additions & accessions
+Lease #003889993-003 dd.
+One Wiggins Fork Lift S/N WLC012079 & 1994 Taylor Forklift S/N S-H5-22687, 1993 Taylor Forklift S/N S-H5-21946, 1992 Taylor Forklift S/N S-H5-21454
+REF:008-1652414-000 (342566) 1 Konica Copier 7020 26NE25108 1313 Harding Court Indianapolis IN 46217
+SP releases all right & interest to Equipment Portfolio, inc l. (i) Equip leases, (ii) the equip.
+Lease #:E427, Schedule #:E427*A*1, Mustang Skid Steer, Serial #: 9-134895, Model # 2105/Serial: 801091, Econoline Trailer, Lowe Auger Attachment, Serial # 423DPRE4321000947 located at 5002 Hillsborough Ave., Tampa Fl 33610-4815
+Lease #:E427, Schedule #:E427*A*3, Mustang Skid Steer, Serial #:9-134895, Model #2105/Serial: 12135305, MOD.#2105/Serial #801087 Translift Model #TL2517, Lowe Auger Attachment, Serial # 8602Z located at 801 Jetstream Drive, Orlando, Fl
+32824-7109
+Lease #E427, Schedule #:E427*A*3, Translift Model #TL2517, Serial #8602Z located at 1400 N.W.
+209th Ave., Pembroke Pines, FL 33029
+Lease#006310484-011 dd.09/26/2003
+Lease#006310484-012 dd.10/09/2003
+Lease#006310484-013 dd.10/13/2003
+Lease#006310484-016 dd.11/18/2003
+Lease#006310484-017 dd.11/18/2003
+Lease#006310484-018 dd.11/18/2003
+Lease#006310484-019 dd.12/04/2003
+Lease#006310484-020 dd.12/08/2003
+Kyocerta MITA 4035 Digital Copier 960912-990885
+Lease#006310484-022 dd.01/08/2004
+Lease#006310484-0210 dd.01/08/2004
+Lease#006310484-023 dd.01/08/2004
+Lease#006310484-028 dd.01/29/2004
+Lease#006310484-027 dd.01/29/2004
+Lease#006310484-031 dd.02/17/2004
+Lease#006310484-033 dd.
+Lease#006310484-029 dd.
+Lease#006310484-032 dd.
+LSE#2100029 IR2200 KFH04533
+181214598
+93725-2211
+Kranz Service Body VIN#1 FDAX56P05EB32022
+1 CAT SSL Model 246, S/N 55Z01796
+2002-088-5479-9
+2002-282-7438-6
+K&E 6806-2 L0001268, including all components, additions, upgrades, attachments, accessions, substitutions, replacements & proceeds of the foregoing
+03081428801 as amended by 05062410773
+05062410641 as amended by 05062826242
+03-0225668-0002
+881598465
+877035546
+Please see attached.
+Disbursement
+Lockbox
+Payroll
+Concentration
+1
+Col Cuahutemoc
+06500 Mexico D.F.
+[DATE]
+335 Madison Avenue
+New York, NY  10017
+1                    Date of Letter of Credit Required.
+2                    Date of Issuance (at least three Business Days from the date hereof or such shorter period as may be acceptable to the Issuing Lender).
+7                    Insert last date upon which drafts may be presented (not later than (x) 12 months after the Date of Issuance in the case of standby Letters of Credit (except that such Letters of Credit may provide for annual renewal), (y) 180 days after the Date of Issuance in the case of trade Letters of Credit and (z) ten (or in the case of trade Letters of Credit, 30) Business Days prior to the Maturity Date.
+[DATE]
+[DATE]
+1                    Shall be a Business Day at least three Business Days, in the case of a Proposed Conversion into Eurodollar Rate Loans, after the date hereof or at least one Business Day in the case of a Proposed Conversion into Base Rate Loans; provided that notice is given by 12:00 Noon New York time.
+Conversions of Eurodollar Rate Loans to Base Rate Loans shall only be made on the last day of an Interest Period for such Eurodollar Rate Loans.
+Bank has agreed to establish and maintain for the Companies post office number [        ] the “Lockbox Address”) and deposit account number [              ] (the “Account”).
+Bank performs the services described in Exhibit A, which includes receiving mail at the Lockbox Address, processing it and depositing checks and other payment instructions (“Checks”) into the Account (the “Lockbox Service”).
+: 9369337536
+and Bank shall comply with such instruction within a reasonable period of time following the effective date of this Agreement, and continuing on each Business Day thereafter.
+Address for notices:
+Baltimore, MD 21236-5904
+Tel: 410-931-6000
+Fax: 410-931-6117
+Address for notices:
+Baltimore, MD 21236-5904
+Address for notices:
+Baltimore, MD 21236-5904
+Address for notices:
+Baltimore, MD 21236-5904
+Address for notices:
+Baltimore, MD 21236-5904
+Address for notices:
+Tel: 212-503-7632
+Fax: 212-503-7330 and,
+Tel: 262-798-4835
+Fax: 262-798-4882
+Address for notices:
+600 Peachtree Street, 10th Flr
+Tel: 404-607-5378
+Fax: 404-607-6059 and,
+600 Peachtree Street, 10th Flr
+Attn: Connie Barker
+Tel: 404-607-5375
+Fax: 404-607-5482
+The Lockbox Service involves processing Checks that are received at a Lockbox Address.
+With this Service, each Company instructs its customers to mail checks it wants to have processed under the Service to the Lockbox Address.
+Bank picks up mail at the Lockbox Address according to its mail pick-up schedule.
+Bank will have unrestricted and exclusive access to the mail directed to the Lockbox Address.
+Bank will provide each Company with the Lockbox Service for a Lockbox Address when such Company has completed and Bank has received Bank’s then current set-up documents for the Lockbox Address.
+If Bank receives any mail containing a Company’s lockbox number at Bank’s lockbox operations location (instead of the Lockbox Address), Bank may handle the mail as if it had been received at the Lockbox Address.
+Bank will handle Checks received at the Lockbox Address according to the applicable deposit account agreement, as if the Checks were delivered by one of the Companies to Bank for deposit to the Account, except as modified by these Terms and Conditions.
+Bank will open the envelopes picked up from the Lockbox Address and remove the contents.
+Unless the Companies and Bank agree to another processing procedure, Bank will reclear a Check once which has been returned and marked “Refer to Maker,” “Not Sufficient Funds” or “Uncollected Funds.”  If the Check is returned for any other reason or if the Check is returned a second time, Bank will debit the Account and return the Check to the applicable Company.
+Each Company agrees that Bank will not send a returned item notice to a Company for a returned Check unless such Company and Bank have agreed otherwise.
+For the Lockbox Address, each Company will provide to Bank the names of Acceptable Payees (“Acceptable Payee” of a Company means such Company’s name and any other payee name provided to Bank by such Company as an acceptable payee for Checks to be processed under the Lockbox Service).
+Bank will process a check only if it is made payable to an Acceptable Payee and if the check is otherwise processable.
+A Company may request Bank orally or in writing to make changes to the processing instructions (including changes to Acceptable Payees) for any Lockbox Address by contacting its Bank representative, so long as such changes do not conflict with the terms of the Deposit Account Control Agreement.
+Until the Deposit Account Bank shall have received from the Collateral Agent a Notice of Exclusive Control (as defined below), the Obligor shall be entitled to present items drawn on and otherwise to withdraw or direct the disposition of funds from the Deposit Accounts and give instructions in respect of the Deposit
+If the Collateral Agent shall give to the Deposit Account Bank a notice of the Collateral Agent’s exclusive control of the Deposit Accounts, which notice states that it is a “Notice of Exclusive Control” (a “Notice of Exclusive Control”), only the Collateral Agent shall be entitled to withdraw funds from the Deposit Accounts, to give any instructions in respect of the Deposit Accounts and any funds held therein or credited thereto or otherwise to deal with the Deposit Accounts.
+Such instructions may include the giving of stop payment orders for any items being presented to any Deposit Account for payment.
+(a)                                  All account agreements in respect of each Deposit Account in existence on the date hereof are listed on Annex A hereto and copies of all such account agreements have been furnished to the Collateral Agent.
+The Deposit Account Bank will promptly furnish to the Collateral Agent a copy of the account agreement for each Deposit Account hereafter established by the Deposit Account Bank for the Obligor.
+(e)                                  The Deposit Account Bank will promptly notify the Collateral Agent of each Deposit Account hereafter established by the Deposit Account Bank for the Obligor (which notice shall specify the account number of such Deposit Account and the location at which the Deposit Account is maintained), and each such new Deposit Account shall be subject to the terms of this Agreement in all respects.
+The Deposit Account Bank agrees, and is hereby authorized and instructed by the Obligor, to furnish to the Collateral Agent at its address indicated below copies of all account statements and other information relating to each Deposit Account that the Deposit Account Bank sends to the Obligor and to disclose to the Collateral Agent all information requested by the Collateral Agent regarding any Deposit Account.
+(1)                                  All notices and other communications provided for in this Agreement shall be in writing (including facsimile) and sent to the intended recipient at its address or telex or facsimile number set forth below:
+If to the Collateral Agent, at:
+Telephone:
+(212) 503-7632
+(212) 503-7330
+If to the Obligor, at:
+Baltimore, Maryland 21236-5997
+Telephone:
+(410) 931-6000 ext.6105
+(410)931-6117
+If to the Deposit Account Bank, at:
+Telephone:
+(2)                                  Except as otherwise provided herein, all notices and other communications hereunder shall be delivered by hand or by commercial overnight courier (delivery charges prepaid), or mailed, postage prepaid, or telexed or faxed, addressed as aforesaid, and shall be effective (i) three business days after being deposited in the mail (if mailed), (ii) when delivered (if delivered by hand or courier) and (iii) or when transmitted with receipt confirmed (if telexed or faxed); provided that notices to the Collateral Agent shall not be effective until actually received by it.
+This Agreement may not be amended, modified or supplemented except in writing executed and delivered by all the parties hereto.
+This Agreement may be executed in any number of counterparts, all of which shall constitute one and the same instrument, and any party hereto may execute this Agreement by signing and delivering one or more counterparts.
+IN WITNESS WHEREOF, the parties hereto have duly executed and delivered this Agreement as of the date first written above.
+We have furnished you with a certificate of our non-U.S. person status on Internal Revenue Service Form W-8BEN.
+each Document has been duly executed and delivered by each Principal Party that is a party to that Document.
+- and to -
+- and to -
+Dear Sirs:
+(a)                                  copies of the articles of incorporation and by-laws of the Guarantor, certified to us by an officer of the Guarantor as being complete and in full force and effect as of the date of this opinion, copies of which have been provided to you;
+(c)                                  the Officer’s Certificate, a copy of which has been provided to you;
+(d)                                 a certificate with a currency date of June 26, 2005 issued under the Personal Property Security Act (Ontario) (the “PPSA”), in respect of a search against the name of the Guarantor, showing, inter alia: (i) a financing statement bearing the Registration No.
+20020510103015337571 and the File No.
+20030813113615900113 and the File No.
+20050622150718621214 and the File No.
+20050624123318621347 and the File No.
+20030813161015900153 and the File No.
+20050622150418621213 and the File No.
+20050624123518621348 and the File No.
+20050622150218621212 and the File No.
+20050624123018621345 and the File No.
+20050629 1145 1862 1615 and the File No.
+(a)                                  a certificate with a currency date of June 26, 2005 issued under the Personal Property Security Act (Ontario) (the “PPSA”), in respect of a search against the name of the Guarantor, showing, inter alia: (i) a financing statement bearing the Registration No.
+20020510103015337571 and the File No.
+20030813113615900113 and the File No.
+20050622150718621214 and the File No.
+20050624123318621347 and the File No.
+20030813161015900153 and the File No.
+20050622150418621213 and the File No.
+20050624123518621348 and the File No.
+20050622150218621212 and the File No.
+20050624123018621345 and the File No.
+20050629 1145 1862 1615 and the File No.
+all cash;
+all Documents;
+all Goods;
+the Disbursement Account and all moneys deposited or required to be deposited in such Disbursement Account;
+No Assignor shall change its legal name, its type of organization, its status as a Registered Organization (in the case of a Registered Organization), its status as a Transmitting Utility or as a Person which is not a Transmitting Utility, as the case may be, its jurisdiction of organization, its Location, or its organizational identification number (if any), except that any such changes shall be permitted (so long as not in violation of the applicable requirements of the Secured Debt Agreements and so long as same do not involve (x) a Registered Organization ceasing to constitute same or (y) any Assignor changing its jurisdiction of organization or Location from the United States or a State thereof to a jurisdiction of organization or Location, as the case may be, outside the United States or a State thereof) if (i) it shall have given to the Collateral Agent not less than 15 days’ prior written notice of each change to the information listed on Annex C (as adjusted for any subsequent changes thereto previously made in accordance with this sentence), together with a supplement to Annex C which shall correct all information contained therein for the respective Assignor, and (ii) in connection with the respective such change or changes, it shall have taken all action reasonably requested by the Collateral Agent to maintain the security interests of the Collateral Agent in the Collateral intended to be granted hereby at all times fully perfected and in full force and effect.
+No Assignor shall assume or operate in any jurisdiction under any new trade, fictitious or other name until (i) it shall have given to the Collateral Agent not less than 30 days’ written notice of its intention so
+If at any time after the date of this Agreement any Assignor owns, acquires or obtains rights to any As-Extracted Collateral or Timber-to-be-Cut, such Assignor shall furnish the Collateral Agent with prompt written notice thereof (which notice shall describe in reasonable detail the As-Extracted Collateral and/or Timber-to-be-Cut and the locations thereof) and shall take all actions as may be deemed reasonably necessary or desirable by the Collateral Agent to perfect the security interest of the Collateral Agent therein.
+If any Inventory or other Goods are at any time in the possession of a bailee, the respective Assignor shall promptly notify the Collateral Agent thereof and, if requested by the Collateral Agent, shall use its reasonable best efforts to promptly obtain an acknowledgment from such bailee, in form and substance reasonably satisfactory to the Collateral Agent, that the bailee holds such Collateral for the benefit of the Collateral Agent and shall act upon the instructions of the Collateral Agent, without the further consent of the respective Assignor.
+Each Assignor will keep and maintain at its own cost and expense accurate records of its Accounts and Contracts, including, but not limited to, originals of all documentation (including each Contract) with respect thereto, records of all payments received, all credits granted thereon, all merchandise returned and all other dealings therewith, and such Assignor will make the same available on such Assignor’s premises to the Collateral Agent for inspection, at such Assignor’s own cost and expense, at any and all reasonable times upon prior notice to such Assignor and otherwise on a basis consistent with the respective Secured Debt Agreements.
+Upon the occurrence and during the continuance of an Event of Default, at the request of the Collateral Agent, such Assignor shall, at its own cost and expense, deliver all tangible evidence of its Accounts and Contract Rights (including, without limitation, copies of all documents evidencing the Accounts and all Contracts) and such books and records to the Collateral Agent or to its representatives (copies of which evidence and books and records may be retained by such Assignor, such copies to be certified as true and complete by an appropriate officer of such Assignor).
+Direction to Account Debtors; etc.
+If any Assignor (other than Holdings to the extent such Instrument constitutes Holdings Excluded Collateral) owns or acquires any Instrument in excess of $100,000 constituting Collateral, such Assignor will within 10 Business Days notify the Collateral Agent thereof, and upon request by the Collateral Agent will promptly deliver such Instrument to the Collateral Agent appropriately endorsed to the order of the Collateral Agent.
+Furthermore, each Assignor (other than Holdings) and each Collection Bank has duly executed and delivered to the Collateral Agent a Collection Bank Agreement which Collection Bank Agreement acknowledges the security interest of the Collateral Agent in each Collection Account established with such Collection Bank and contains the agreement of such Collection Bank to transmit daily to the Collateral Agent for deposit in the Concentration Account all cash, instruments and other securities and all collected funds received in respect of any securities or instruments deposited in each Collection Account established with such Collection Bank.
+Furthermore, the Borrower and the Concentration Account Bank have duly executed and delivered to the Collateral Agent a Concentration Account Agreement which Concentration Account Agreement acknowledges the security interest and exclusive dominion and control of the Collateral Agent in the Concentration Account established with the Concentration Account Bank and contains the agreement of the Concentration Account Bank to transmit daily to the Collateral Agent for deposit in the BofA Account all cash, instruments and other securities and all collected funds received in respect of any securities or instruments deposited in the Concentration Account.
+Receipt of Payments.
+In the event an Assignor (other than Holdings) shall otherwise receive any payment in respect of its Collateral, such Assignor shall promptly (but in no event more than five Business Days of actual receipt thereof) deposit such payment into a
+Deposit Accounts; etc.
+For each Deposit Account (including any Deposit Account at any time established pursuant to following clause (b), but excluding (x) the Concentration Account, (y) the Collection Accounts and (z) the Cash Collateral Account or any other Deposit Account maintained with the Collateral Agent), the respective Assignor (other than Holdings) shall cause the bank with which the Deposit Account is maintained to execute and deliver to the Collateral Agent, within 30 days after the Collateral Agent’s request therefor, a “control agreement” in the form of Annex F hereto (appropriately completed), with such changes thereto as may be acceptable to the Collateral Agent.
+If any bank with which such a Deposit Account is maintained refuses to, or does not, enter into such a “control agreement”, then the respective Assignor shall promptly (and in any event within 30 days after the date of the respective request) close the respective Deposit Account and transfer all balances therein to the Cash Collateral Account or another Deposit Account meeting the requirements of this Section 3.14 (with respect to which a “control agreement” meeting the foregoing requirements has been entered into and is in full force and effect).
+At the time any Deposit Account as described in clause (y) of the preceding sentence is established, to the extent so requested by the Collateral Agent, the appropriate “control agreement” shall be entered into in accordance with the requirements of preceding clause (a) and the respective Assignor shall furnish to the Collateral Agent a supplement to Annex E hereto containing the relevant information with respect to the respective Deposit Account and the bank with which same is established.
+(c)                                  The Collateral Agent agrees that it (x) shall not deliver a Notice of Exclusive Control (as defined in the Form of Control Agreement Regarding Deposit Accounts attached hereto as Annex F) pursuant to any “control agreement” (other than with respect to the Concentration Account, any Collection Accounts, the Cash Collateral Account or any other Deposit Account maintained with the Collateral Agent) to any bank with which any Assigner has established a Deposit Account unless an Event of Default then exists and is continuing, (y) shall not give any instructions (as contemplated in the first sentence of Section 2 of Annex F) as to the withdrawal or disposition of funds in any Deposit Account subject to such “control agreement” (other than with respect to the Concentration Account, any Collection Account, the Cash
+Collateral Account or any Deposit Account maintained with the Collateral Agent) unless an Event of Default then exists and is continuing and (z) shall provide the Borrower with a copy of any such Notice of Exclusive Control delivered pursuant to any such “control agreement.”
+Letter-of-Credit Rights.
+If any Assignor is at any time a beneficiary under a letter of credit with a stated amount of $100,000 or more, such Assignor shall promptly notify the Collateral Agent thereof and, at the request of the Collateral Agent, such Assignor shall, pursuant to an agreement in form and substance reasonably satisfactory to the Collateral Agent, use its commercially reasonable efforts to (i) arrange for the issuer and any confirmer of such letter of credit to consent to an assignment to the Collateral Agent of the proceeds of any drawing under such letter of credit or (ii) arrange for the Collateral Agent to become the transferee beneficiary of such letter of credit, with the Collateral Agent agreeing, in each case, that the proceeds of any drawing under the letter of credit are to be applied as provided in this Agreement after the occurrence and during the continuance of an Event of Default.
+If any Assignor shall at any time after the date of this Agreement acquire a Commercial Tort Claim in an amount (taking the greater of the aggregate claimed damages thereunder or the reasonably estimated value thereof) of $500,000 or more, such Assignor shall promptly notify the Collateral Agent thereof in a writing signed by such Assignor and describing the details thereof and shall grant to the Collateral Agent in such writing a security interest therein and in the proceeds thereof, all upon the terms of this Agreement, with such writing to be in form and substance reasonably satisfactory to the Collateral Agent.
+Upon the request of the Collateral Agent made at any time or from time to time, each Assignor shall promptly furnish to the Collateral Agent a list of all Electronic Chattel Paper held or owned by such Assignor.
+Upon the request of the Collateral Agent made at any time while an Event of Default then exists and is continuing, each Assignor will promptly (and in any event within 10 days) deliver all of its Tangible Chattel Paper to the Collateral Agent.
+Each Assignor will, at its own expense, make, execute, endorse, acknowledge, file and/or deliver to the Collateral Agent from time to time such vouchers, invoices, schedules, confirmatory assignments, conveyances, financing statements, transfer endorsements, certificates, reports and other assurances or instruments and take such further steps, including any and all actions as may be necessary or required under the Federal Assignment of Claims Act, relating to its Accounts, Contracts, Instruments and other property or rights covered by the security interest hereby granted, as the Collateral Agent may reasonably require to give effect to the purposes of this Agreement.
+Each Assignor hereby grants to the Collateral Agent an absolute power of attorney to sign, upon the occurrence and during the continuance of an Event of Default, any document which may be required by the United States Patent and Trademark Office in order to effect an absolute assignment of all right, title and interest in each Mark, and record the same.
+Each Assignor agrees, promptly upon learning thereof, to notify the Collateral Agent in writing of the name and address of, and to furnish such pertinent information that may be available with respect to, any party who such Assignor believes is infringing or diluting or otherwise violating any of such Assignor’s rights in and to any Mark in any manner that could reasonably be expected to have a Material Adverse Effect, or with respect to any party claiming that such Assignor’s use of any Mark material to such Assignor’s business violates in any material respect any property right of that party.
+If an Event of Default shall occur and be continuing, the Collateral Agent may, by written notice to the relevant Assignor, take any or all of the following actions:  (i) declare the entire right, title and interest of such Assignor in and to each of the Marks, together with all trademark rights and rights of protection to the same, vested in the Collateral Agent for the benefit of the Secured Creditors, in which event such rights, title and interest shall immediately vest, in the Collateral Agent for the benefit of the Secured Creditors, and the Collateral Agent shall be entitled to exercise the power of attorney referred to in Section 4.1 hereof to execute, cause to be acknowledged and notarized and record said absolute assignment with the applicable agency; (ii) take and use or sell the Marks and the goodwill of such Assignor’s business symbolized by the Marks and the right to carry on the business and use the assets of such Assignor in connection with which the Marks have been used; and (iii) direct such Assignor to refrain, in which event such Assignor shall refrain, from using the Marks in any manner whatsoever, directly or indirectly, and such Assignor shall execute such further documents that the Collateral Agent may reasonably request to further confirm this and to transfer ownership of the Marks and registrations and any pending trademark application in the United States Patent and Trademark Office to the Collateral Agent.
+If registration for any Mark which is material and/or necessary to its business is issued hereafter to any Assignor as a result of any application now or hereafter pending before the United States Patent and Trademark Office, within 30 days of receipt of such certificate, such Assignor shall deliver to the Collateral Agent a copy of such certificate, and a grant of security in such Mark, to the Collateral Agent and at the expense of such Assignor, confirming the grant of security in such Mark to the Collateral Agent hereunder, the form of such security to be substantially in the form of Annex K hereto or in such other form as may be reasonably satisfactory to the Collateral Agent.
+At its own expense, each Assignor shall make timely payment of all post-issuance or other fees required pursuant to 35 U.S.C.
+If an Event of Default (or a Default under Section 9.1(e) of the Credit Agreement) shall occur and be continuing, the Collateral Agent may, by written notice to the relevant Assignor, take any or all of the following actions:  (i) declare the entire right, title, and interest of such Assignor in each of the Patents and Copyrights vested in the Collateral Agent for the benefit of the Secured Creditors, in which event such right, title, and interest shall immediately vest in the Collateral Agent for the benefit of the Secured Creditors, in which case the Collateral Agent shall be entitled to exercise the power of attorney referred to in Section 5.1 hereof to execute, cause to be acknowledged and notarized and to record said absolute assignment with the applicable agency; (ii) take and practice or sell the Patents and Copyrights; and (iii) direct such Assignor to refrain, in which event such Assignor shall refrain, from practicing the Patents and using the Copyrights directly or indirectly, and such Assignor shall execute such further documents as the Collateral Agent may reasonably request further to confirm this and to transfer ownership of the Patents and Copyrights to the Collateral Agent for the benefit of the Secured Creditors.
+Within 30 days of the acquisition or issuance of a United States Patent, registration of a Copyright, or acquisition of a registered Copyright, or of filing of an application for a United States Patent or Copyright, in each case, which is material and/or necessary to its business, the relevant Assignor shall deliver to the Collateral Agent a copy of said Copyright or Patent, or certificate or registration of, or application therefor, as the case may be, with a grant of security as to such Patent or Copyright, as the case may be, to the Collateral Agent and at the expense of such Assignor, confirming the grant of security, the form of such assignment for security to be substantially in the form of Annex L or M hereto, as appropriate, or in such other form as may be reasonably satisfactory to the Collateral Agent.
+Additional Information..  Each Assignor will, at its own expense, from time to time upon the reasonable request of the Collateral Agent, promptly (and in any event within 15 days after its receipt of the respective request) furnish to the Collateral Agent such information with respect to the Collateral (including the identity of the Collateral or such components thereof as may have been requested by the Collateral Agent, the value and location of such Collateral, etc.)
+as may be requested by the Collateral Agent.
+Without limiting the forgoing, each Assignor agrees that it shall promptly (and in any event within 10 days after its receipt of the respective request) furnish to the Collateral Agent such updated Annexes hereto as may from time to time be reasonably requested by the Collateral Agent.
+Each Assignor will, at its own expense and upon the reasonable request of the Collateral Agent, make, execute, endorse, acknowledge, file and/or deliver to the Collateral Agent from time to time such lists, descriptions and designations of its Collateral, warehouse receipts, receipts in the nature of warehouse receipts, bills of lading, documents of title, vouchers, invoices, schedules, confirmatory assignments, conveyances, financing statements, transfer endorsements, certificates, reports and other assurances or instruments and take such further steps relating to the Collateral and other property or rights covered by the security interest hereby granted, which the Collateral Agent deems reasonably appropriate or advisable to perfect, preserve or protect its security interest in the Collateral.
+Each Assignor agrees to execute and deliver to the Collateral Agent such financing statements, in form reasonably acceptable to the Collateral Agent, as the Collateral Agent may from time to time reasonably request or as are reasonably necessary or desirable in the opinion of the Collateral Agent to establish and maintain a valid, enforceable, perfected security interest in the Collateral as provided herein and the other rights and security contemplated hereby.
+(x)                                   forthwith cause the same to be moved to the place or places so designated by the Collateral Agent and there delivered to the Collateral Agent;
+(y)                                 store and keep any Collateral so delivered to the Collateral Agent at such place or places pending further action by the Collateral Agent as provided in Section 7.2 hereof; and
+(e)                                  All payments required to be made hereunder shall be made (x) if to the Bank Creditors, to the Administrative Agent for the account of the Bank Creditors, (y) if to the Interest Rate Creditors, to the trustee, paying agent or other similar representative (each a “Representative”) for the Interest Rate Creditors or, in the absence of such a Representative, directly to the Interest Rate Creditors and (z) if to the Second Lien Creditors, to the Senior Secured Notes Trustee under the Senior Secured Notes Indenture for the account of the Second Lien Creditors.
+Notices.
+Except as otherwise specified herein, all notices, requests, demands or other communications to or upon the respective parties hereto shall be sent or delivered by mail, telegraph, telex, telecopy, cable or courier service and all such notices and communications shall, when mailed, telegraphed, telexed, telecopied, or cabled or sent by courier, be effective when deposited in the mails, delivered to the telegraph company, cable company or overnight courier, as the case may be, or sent by telex or telecopier, except that notices and communications to the Collateral Agent or any Assignor shall not be effective until received by the Collateral Agent or such Assignor, as the case may be.
+All notices and other communications shall be in writing and addressed as follows:
+Telephone No.
+:  (410) 931-6000
+:  (410) 931-6117
+Telephone No.
+:  (212) 503-7632
+:  (212) 503-7330
+(c)                                  if to any Bank Creditor other than the Collateral Agent, at such address as such Bank Creditor shall have specified in the Credit Agreement;
+(d)                                 if to any Interest Rate Creditor, at such address as such Interest Rate Creditor shall have specified in writing to each Assignor and the Collateral Agent;
+(e)                                  if to the Senior Secured Notes Trustee or any other Second Lien Creditor, at:
+Telephone No.
+: (651) 495-3918
+: (651) 495-8097
+or at such other address or addressed to such other individual as shall have been furnished in writing by any Person described above to the party required to give notice hereunder.
+Waiver; Amendment.
+Termination; Release.
+(b)                                 In the event that any part of the Collateral is sold, transferred or otherwise disposed of (by dividend, contribution or otherwise) (other than to Holdings (other than cash or cash equivalents distributed to Holdings in accordance with the terms of the Credit Agreement), the Borrower or any of the Borrower’s Domestic Subsidiaries or Canadian Subsidiaries) in accordance with the terms of the Secured Debt Agreements or is otherwise released with the consent of the Collateral Agent or the Required Secured Creditors and the proceeds of such sale, transfer or other disposition, or from such release, are applied in accordance with the provisions of the respective Secured Debt Agreements, to the extent required to be so applied, such Collateral will be sold, transferred or otherwise disposed of free and clear of the Liens created by this Agreement and the Collateral Agent, at the request and expense of the relevant Assignor, will duly and promptly assign, transfer and deliver to such Assignor or its designee (without recourse and without any representation or warranty) such of the Collateral as is then being (or has been) so sold, transferred or otherwise disposed of, or released, and as may be in the possession of the Collateral Agent and has not theretofore been released pursuant to this Agreement.
+In the event that any capital stock or other equity interests (or any interest therein) held by Holdings in an Unrestricted Subsidiary or any other foreign Person that is not a Subsidiary of the Borrower constituting Collateral are sold, transferred or otherwise disposed of (by dividend, contribution or otherwise), so long as (i) no Default or Event of Default is continuing and (ii) the Administrative Agent and Collateral Agent have received a certificate, in form and substance reasonably satisfactory to the Administrative Agent, signed by a Responsible Officer of Holdings certifying that such Collateral is being sold, transferred or otherwise disposed of by Holdings for a business purpose (including, without limitation, that it is being pledged in connection with local financing, sold (in whole or in part), liquidated, exchanged or contributed to a joint venture), such Collateral will be sold, transferred or otherwise disposed of free and clear of the Liens created by this Agreement, and the Collateral Agent, at the request and expense of Holdings, will duly and promptly assign, transfer and deliver to Holdings or its designee (without recourse and without any representation or warranty) such of the Collateral as is then being (or has been) so sold, transferred or otherwise disposed of, or released, and as may
+-45-
+(d)                                 At any time that an Assignor desires that the Collateral Agent take any action to acknowledge or give effect to any release of Collateral pursuant to the foregoing Section 10.8(a), (b) or (c) such Assignor shall deliver to the Collateral Agent a certificate signed by a senior officer of such Assignor stating that the release of the respective Collateral is permitted pursuant to such Section 10.8(a), (b) or (c).
+At any time that the Borrower or the respective Assignor desires that a Subsidiary of the Borrower which has been released from the Subsidiaries Guaranty be released hereunder as provided in the last sentence of Section 10.8(b), it shall deliver to the Collateral Agent a certificate signed by a Responsible Officer of the Borrower and the respective Assignor stating that the release of the respective Assignor (and its Collateral) is permitted pursuant to such Section 10.8(b).
+A set of counterparts executed by all the parties hereto shall be lodged with each Assignor and the Collateral Agent.
+It is understood and agreed that any Subsidiary of the Borrower that is required to become a party to this Agreement after the Amendment and Restatement Effective Date pursuant to the requirements of the respective Secured Debt Agreements, shall become an Assignor hereunder by (x) executing a counterpart of a U.S. Subsidiary Joinder Agreement substantially in the form of Exhibit N to the Credit Agreement, and delivering same to the Collateral Agent, (y) delivering supplements to Annexes A through E,
+inclusive, and G through J, inclusive, hereto as are necessary to cause Annexes to be complete and accurate with respect to such additional Assignor on such date and (z) taking all actions specified in this Agreement as would have been taken by such Assignor had it been an original party to this Agreement, in each case with all documents required above to be delivered to the Collateral Agent and with all documents and actions above to be taken to the reasonable satisfaction of the Collateral Agent.
+10.15.
+So long as each of DBTCA and BTCC executes and delivers to the Collateral Agent a copy of this Agreement, no further instrument need be signed by DBTCA or BTCC to evidence, or with respect to, its appointment as sub-collateral agent pursuant to this Section 10.15.
+Each Assignor acknowledges and agrees that it shall cause all Unit Certificates and MSOs with respect to its Units, and all its Leases, to be delivered to the Custodians to be held by them pursuant to the Custodian Agreement.
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+[TO BE COMPLETED BY THE BORROWER]
+Name of Bank,
+Address and
+Contact
+Information
+Until the Deposit Account Bank shall have received from the Collateral Agent a Notice of Exclusive Control (as defined below), the Assignor shall be entitled to present items drawn on and otherwise to withdraw or direct the disposition of funds from the Deposit Accounts and give instructions in respect of the Deposit Accounts; provided, however, that the Assignor may not, and the Deposit Account Bank agrees that it shall not permit the Assignor to, without the Collateral Agent’s prior written consent, close any Deposit Account.
+If the Collateral Agent shall give to the Deposit Account Bank a notice of the Collateral Agent’s exclusive control of the
+Collateral Agent’s Right to Give Instructions as to Deposit Accounts.
+Such instructions may include the giving of stop payment orders for any items being presented to any Deposit Account for payment.
+of each Deposit Account in existence on the date hereof are listed on Annex A hereto and copies of all such account agreements have been furnished to the Collateral Agent.
+The Deposit Account Bank will promptly furnish to the Collateral Agent a copy of the account agreement for each Deposit Account hereafter established by the Deposit Account Bank for the Assignor.
+(g)                                 The Deposit Account Bank will promptly notify the Collateral Agent of each Deposit Account hereafter established by the Deposit Account Bank for the Assignor (which notice shall specify the account number of such Deposit Account and the location at which the Deposit Account is maintained), and each such new Deposit Account shall be subject to the terms of this Agreement in all respects.
+The Deposit Account Bank agrees, and is hereby authorized and instructed by the Assignor, to furnish to the Collateral Agent, at its address indicated below, copies of all account statements and other information relating to each Deposit Account that the Deposit Account Bank sends to the Assignor and to disclose to the Collateral Agent all information requested by the Collateral Agent regarding any Deposit Account.
+Notices.
+(a)                                  All notices and other communications provided for in this Agreement shall be in writing (including facsimile) and sent to the intended recipient at its address or facsimile number set forth below:
+If to the Collateral Agent, at:
+Fax:  (212) 503-7330
+If to the Assignor, at:
+If to the Deposit Account Bank, at:
+(b)                                 Except as otherwise provided herein, all notices and other communications hereunder shall be delivered by hand or by commercial overnight courier (delivery charges prepaid), or mailed, postage prepaid, or faxed, addressed as aforesaid, and shall be effective (i) three business days after being deposited in the mail (if mailed), (ii) when delivered (if delivered by hand or courier) and (iii) or when transmitted with receipt confirmed (if faxed); provided that notices to the Collateral Agent shall not be effective until actually received by it.
+This Agreement may not be amended, modified or supplemented except in writing executed and delivered by all the parties hereto.
+Without limiting the provisions of the immediately preceding sentence, the Collateral Agent at any time or from time to time may designate in writing to the Deposit Account Bank a successor Collateral Agent (at such time, if any, as such entity becomes the Collateral Agent under the Security Agreement, or at any time thereafter) who shall thereafter
+This Agreement may be executed in any number of counterparts, all of which shall constitute one and the same instrument, and any party hereto may execute this Agreement by signing and delivering one or more counterparts.
+IN WITNESS WHEREOF, the parties hereto have duly executed and delivered this Agreement as of the date first written above.
+Deposit Account Bank:
+Expiration Date
+Expiration Date
+Expiration Date
+Expiration Date
+Expiration Date
+Expiration Date
+DATE
+Publication Date
+[TO BE COMPLETED BY THE BORROWER]
+Publication Date
+[TO BE COMPLETED BY THE BORROWER]
+Publication Date
+[TO BE COMPLETED BY THE BORROWER]
+Publication Date
+[TO BE COMPLETED BY THE BORROWER]
+Publication Date
+Publication Date
+Upon the occurrence of the Termination Date (as defined in the Security Agreement), the Grantee shall execute, acknowledge, and deliver to the Grantor an instrument in writing releasing the security interest in the Marks acquired under this Grant.
+DATE
+Upon the occurrence of the Termination Date (as defined in the Security Agreement), the Grantee shall execute, acknowledge, and deliver to the Grantor an instrument in writing releasing the security interest in the Patents acquired under this Grant.
+ISSUE DATE
+(a)  The Collateral Agent may resign from the performance of all of its functions and duties hereunder and under the other Collateral Documents at any time by giving five Business Days’ prior written notice to the Borrower, the Administrative Agent and the Senior Secured Notes Trustee.
+(b)  Upon any such notice of resignation by the Collateral Agent, the Required Secured Creditors shall appoint a successor Collateral Agent under the Collateral Documents who shall be a commercial bank or trust company reasonably acceptable to the Borrower, which acceptance shall not be unreasonably withheld or delayed (provided that the Borrower’s approval shall not be required if an Event of Default then exists).
+As-Extracted Collateral; Timber-to-be-Cut
+Direction to Account Debtors; etc.
+Deposit Accounts; etc.
+10.15.
+(e)                                  it was a condition precedent to the making of loans to, and the issuance of, and participation in, letters of credit for the account of the Borrower under the Existing Credit Agreement that the Obligor shall have executed and delivered to the Collateral Agent (as defined therein) the Original Canadian  Security Agreement;
+(f)                                    it was a condition precedent to the issuance of the Senior Secured Notes by the Borrower under the Senior Secured Notes Indenture that the Obligor shall have executed and delivered the Original Canadian  Security Agreement;
+The Obligor will keep and maintain at its own cost and expense accurate records of its Receivables and Contracts, including the originals of all documentation (including each Contract) with respect thereto, records of all payments received, all credits granted thereon, all merchandise returned and all other dealings therewith, and the Obligor will make the same available to the Collateral Agent for inspection on the Obligor’s premises, at the Obligor’s own cost and expense, at any and all reasonable times upon one Business Day’s prior notice.
+Upon the occurrence and during the continuance of an Event of Default, at the request of the Collateral Agent, the Obligor shall, at its own cost and expense, deliver all tangible evidence of its Receivables and Contract Rights (including all documents evidencing its Receivables and all Contracts) and such books and records to the Collateral Agent or to its representatives (copies of which evidence and books and records may be retained by the Obligor).
+Upon the occurrence and during the continuance of an Event of Default, if the Collateral Agent so directs, the Obligor shall legend, in form and manner reasonably satisfactory to the Collateral Agent, its Receivables and the Contracts, as well as books, records and documents (if any) of the Obligor evidencing or pertaining to such Receivables with an appropriate reference to the fact that such Receivables and Contracts have been assigned to the Collateral Agent and that the Collateral Agent has a security interest therein.
+If any Inventory or other goods are at any time in the possession of a bailee, the Obligor shall promptly notify the Collateral Agent thereof and, if requested by the Collateral Agent, shall use its reasonable best efforts to promptly obtain an acknowledgement from such bailee, in form and substance reasonably satisfactory to the Collateral Agent, that the bailee holds such Collateral for the benefit of the Collateral Agent and shall act upon the instructions of the Collateral Agent, without the further consent of the Obligor.
+The Obligor agrees, promptly upon learning thereof, to notify the Collateral Agent in writing of the name and address of, and to furnish such pertinent information that may be available with respect to, any party who the Obligor believes is infringing, diluting or otherwise violating any of the Obligor’s rights in and to any material Trade-mark, including the Licensed Trade-marks, in any manner that could reasonably be expected to have a Material Adverse Effect, or with respect to any party claiming that the Obligor’s use of any material Trade-mark, including the Licensed Trade-marks, violates in any material respect any property right of that party.
+If registration for any Trade-mark which is material and/or necessary to its business issues hereafter to the Obligor as a result of any application now or hereafter pending before the Canadian Intellectual Property Office — Trade-marks, or equivalent governmental agency in any foreign jurisdiction, within 30 days of receipt of the certificate evidencing such registration, the Obligor shall deliver to the Collateral Agent a copy of such certificate, and a Confirmation of Security Interest in Intellectual Property in the form of Schedule 4.1(a) in respect of such Trade-mark, to the Collateral Agent and at the expense of the Obligor, confirming the grant of a security interest in such Trade-mark to the Collateral Agent hereunder.
+Within 30 days of the acquisition or issuance of a Patent, a Copyright registration or Design, or of filing of an application for a Patent, Copyright or Design, in each case, which is material or necessary to its business, the Obligor shall deliver to the Collateral Agent a copy of the certificate of registration of, or application for, such Patent, Copyright or Design, with a Confirmation of Security
+The Obligor agrees that it shall, with respect to the Collateral (i) maintain books and records pertaining to the Collateral in such detail, form and scope as the Collateral Agent may reasonably require, and (ii) if any amount payable under or in connection with any account in excess of Cdn.$150,000 is evidenced by a promissory note, letter of credit or other instrument, immediately pledge, endorse, assign and deliver to the Collateral Agent the promissory note or instrument, as additional Collateral.
+The Obligor agrees that it shall notify the Collateral Agent in writing:
+If the Obligor shall fail to insure such Inventory and equipment (including the Units) to the extent required by the Amended and Restated Credit Agreement, or if the Obligor shall fail to so endorse and deposit all policies or certificates with respect thereto, the Collateral Agent, shall have the right (but shall be under no obligation), upon five Business Days’ prior written notice to the Obligor, to procure such insurance and the Obligor agrees to reimburse the Collateral Agent for all reasonable costs and expenses of procuring such insurance.
+The Obligor agrees that it shall perform, execute and deliver, and cause its Subsidiaries to perform, execute and deliver, all acts, agreements, and other documents as may be reasonably requested by the Collateral Agent at any time to register, file, signify, publish, perfect, maintain, protect, and enforce the Security Interest including (i) executing, recording and filing of the Credit Documents and financing or continuation statements in connection therewith, in form and substance satisfactory to the Collateral Agent, acting reasonably, and pay all taxes, fees and
+other charges payable in connection therewith, (ii) delivering to the Collateral Agent the originals of all instruments, documents and chattel paper and all other Collateral of which the Collateral Agent reasonably determines it should have physical possession in order to perfect and protect the Security Interest, duly endorsed or assigned to the Collateral Agent, (iii) delivering to the Collateral Agent warehouse receipts covering any portion of the Collateral located in warehouses and for which warehouse receipts are listed, (iv) placing notations on its books of account to disclose the Security Interest, (v) delivering to the Collateral Agent all letters of credit on which the Obligor or any of its Subsidiaries is named beneficiary, and (vi) taking such other steps as are deemed necessary by the Collateral Agent, acting reasonably, to maintain the Security Interest.
+Except as otherwise specified herein, all notices, requests, demands or other communications to or upon the respective parties hereto shall be sent or delivered by mail, telegraph, telex, telecopy, cable or courier service and all such notices and communications shall, when mailed, telegraphed, telexed, telecopied, or cabled or sent by courier, be effective when deposited in the mails, delivered to the telegraph company, cable company or overnight courier, as the case may be, or sent by telex or telecopier, except that notices and communications to the Collateral Agent or the Obligor shall not be effective until received by the Collateral Agent or the Obligor, as the case may be.
+All notices and other communications shall be in writing and addressed as follows:
+to the Obligor at:
+Baltimore, Maryland 21236-5997
+Telephone:
+(410)931-6000 ext.6105
+(410)931-6117
+With a copy to:
+Telephone:
+(416) 367-6927
+-45-
+(416) 863-0871
+to the Collateral Agent at:
+Telephone:
+(212) 503-7632
+(212) 503—7330
+(c)           to any Bank Creditor, other than the Collateral Agent, at such address as such Bank Creditor shall have specified in the Amended and Restated Credit Agreement;
+(d)           to any Interest Rate Creditor at such address as such Interest Rate Creditor shall have specified in writing to the Obligor and the Collateral Agent;
+at:
+Telephone:
+(651) 495-3918
+(651) 495-8097
+or at such address or addressed to such other individual as shall have been furnished in writing by any Person described above to the party required to give notice hereunder.
+The Obligor shall from time to time, whether before or after the Security Interest shall have become enforceable, do all acts and things and execute and deliver all transfers, assignments and instruments as the Collateral Agent may reasonably require for (i) protecting the Collateral, (ii) perfecting the Security Interest, and (iii) exercising all powers, authorities and discretions conferred upon the Collateral Agent pursuant to or in connection with this security agreement, or the other Credit Documents.
+The Obligor shall, from time to time after the Security Interest has become enforceable, do all acts and things and execute and deliver all transfers, assignments and instruments as the Collateral Agent may reasonably require for facilitating the sale or other disposition of the Collateral in connection with its realization.
+DATED at [l] on this [l] day of [l], [l].
+Signature of Notary Public
+03081428801 as amended by 05062410773
+05062410641 as amended by 05062826242
+03-0225668-0002
+881598465
+877035546
+13932 Woodbine Avenue (PO Box 89)
+Phone: (905) 726-3551
+Fax: (905) 726-3543
+Phone: (519) 336-1010
+Fax: (519) 336-5175
+3455 Hawthorne Road
+Phone: (613) 736-9390
+Fax: (613) 736-0881
+715 - Dubois St.  CP 555
+Phone: (450) 473-4220
+Fax: (450) 473-4290
+12221 Barlow Trail NE
+Phone: (403) 241-5357
+Fax: (403) 208-0405
+11755 - 231 Street NW
+Phone: (780) 454-4551
+Fax: (780) 454-4816
+Mailing Address Box 5762
+Phone: 780-743-4899
+Fax: 780-743-4897
+Phone: (604) 513-5097
+Fax: (604) 513-5067
+Disbursement
+Until the Deposit Account Bank shall have received from the Collateral Agent a Notice of Exclusive Control (as defined below), the Obligor shall be entitled to present items drawn on and otherwise to withdraw or direct the disposition of funds from the Deposit Accounts and give instructions in respect of the Deposit Accounts; provided, however, that the Obligor may not, and the Deposit Account Bank agrees that it shall not permit the Obligor to, without the Collateral Agent’s
+prior written consent, close any Deposit Account.
+If the Collateral Agent shall give to the Deposit Account Bank a notice of the Collateral Agent’s exclusive control of the Deposit Accounts, which notice states that it is a “Notice of Exclusive Control” (a “Notice of Exclusive Control”), only the Collateral Agent shall be entitled to withdraw funds from the Deposit Accounts, to give any instructions in respect of the Deposit Accounts and any funds held therein or credited thereto or otherwise to deal with the Deposit Accounts.
+Such instructions may include the giving of stop payment orders for any items being presented to any Deposit Account for payment.
+(a)                                  All account agreements in respect of each Deposit Account in existence on the date hereof are listed on Annex A hereto and copies of all such account agreements have been furnished to the Collateral Agent.
+The Deposit Account Bank will promptly furnish to the Collateral Agent a copy of the account agreement for each Deposit Account hereafter established by the Deposit Account Bank for the Obligor.
+(e)                                  The Deposit Account Bank will promptly notify the Collateral Agent of each Deposit Account hereafter established by the Deposit Account Bank for the Obligor (which notice shall specify the account number of such Deposit Account and the location at which the Deposit Account is maintained), and each such new Deposit Account shall be subject to the terms of this Agreement in all respects.
+The Deposit Account Bank agrees, and is hereby authorized and instructed by the Obligor, to furnish to the Collateral Agent at its address indicated below copies of all account statements and other information relating to each Deposit Account that the Deposit Account Bank sends to the Obligor and to disclose to the Collateral Agent all information requested by the Collateral Agent regarding any Deposit Account.
+(1)                                  All notices and other communications provided for in this Agreement shall be in writing (including facsimile) and sent to the intended recipient at its address or telex or facsimile number set forth below:
+If to the Collateral Agent, at:
+Telephone:
+(212) 503-7632
+(212) 503-7330
+If to the Obligor, at:
+Baltimore, Maryland 21236-5997
+Telephone:
+(410)931-6000 ext.6105
+(410)931-6117
+If to the Deposit Account Bank, at:
+Telephone:
+(2)                                  Except as otherwise provided herein, all notices and other communications hereunder shall be delivered by hand or by commercial overnight courier (delivery charges prepaid), or mailed, postage prepaid, or telexed or faxed, addressed as aforesaid, and shall be effective (i) three business days after being deposited in the mail (if mailed), (ii) when delivered (if delivered by hand or courier) and (iii) or when transmitted with receipt confirmed (if telexed or faxed); provided that notices to the Collateral Agent shall not be effective until actually received by it.
+This Agreement may not be amended, modified or supplemented except in writing executed and delivered by all the parties hereto.
+This Agreement may be executed in any number of counterparts, all of which shall constitute one and the same instrument, and any party hereto may execute this Agreement by signing and delivering one or more counterparts.
+IN WITNESS WHEREOF, the parties hereto have duly executed and delivered this Agreement as of the date first written above.
+Lenders shall have the right to enter upon the Premises at any time during normal business hours for the purpose of (i) inspecting the Equipment and repossessing and removing the Equipment from the Premises, provided that such Equipment can be removed from the Premises without material damage to the structural integrity of the Premises, when Lenders may elect to do so pursuant to the terms of the Credit Agreement or any agreements executed in connection therewith and (ii) guarding and maintaining the Equipment or preparing and showing the same for sale and for conducting a sale of the Equipment.
+Attached hereto as Exhibit C is a true and correct copy of resolutions which were duly adopted on __________, __ [by unanimous written consent of the Board of Directors of the Company] [by a meeting of the Board of Directors of the Company at which a quorum was present and acting throughout] [by __________],3 and said resolutions have not been rescinded, amended or modified.
+Attached hereto as Exhibit D are true and correct copies of all Plans.
+Attached hereto as Exhibit E are true and correct copies of all Collective Bargaining Agreements.
+Attached hereto as Exhibit F are true and correct copies of all Existing Indebtedness Agreements.
+Attached hereto as Exhibit G are true and correct copies of all Shareholders’ Agreements.
+Attached hereto as Exhibit H are true and correct copies of all Management Agreements.
+Attached hereto as Exhibit I are true and correct copies of all Employment Agreements.
+Attached hereto as Exhibit J are true and correct copies of all Tax Sharing Agreements.
+Attached hereto as Exhibit K are true and correct copies of all Master Lease Agreements.
+Attached hereto as Exhibit L are true and correct copies of all Material Contracts.
+WHEREAS, it was a condition precedent to the making of loans to, and the issuance of, and participation in, letters of credit for the account of the Borrower under the Existing Credit Agreement that each Guarantor shall have executed and delivered the U.S. Subsidiaries Guaranty, dated as of March 26, 2002 (as amended, modified or supplemented through, but not including, June 28, 2005, the “Original U.S. Subsidiaries Guaranty”);
+IN WITNESS WHEREOF, each Guarantor has caused this Guaranty to be executed and delivered as of June _____, 2005.
+Addresses:
+Telephone: (410) 931-6000
+Facsimile: (410) 931-6117
+Telephone: (410) 931-6000
+Facsimile: (410) 931-6117
+Telephone: (410) 931-6000
+Facsimile: (410) 931-6117
+Telephone: (410) 931-6000
+Facsimile: (410) 931-6117
+The obligation of the Guarantor to pay the amount of the Guaranteed Obligations and all other amounts payable by it to the Secured Creditors or the Collateral Agent under this Guarantee shall arise, and the Guarantor shall make such payments, immediately after demand for same is made in writing to it.
+The Collateral Agent and the Secured Creditors agree promptly to notify the Guarantor after any such set-off and application made by the relevant Collateral Agent or Secured Creditor provided that the failure to give notice shall not affect the validity of the set-off and application.
+To the Guarantor:
+Baltimore, Maryland 21236-5997
+Telephone:
+(410)931-6000 ext.6105
+(410)931-6117
+With a copy to:
+Telephone:
+(416)367-6927
+(416)863-0871
+To the Collateral Agent at:
+Telephone:
+(212) 503-7632
+(212) 503—7330
+(c)           To any Bank Creditor, other than the Collateral Agent, at such address as such Bank Creditor shall have specified in the Amended and Restated Credit Agreement;
+(d)           To any Interest Rate Creditor at such address as such Interest Rate Creditor shall have specified in writing to the Obligor and the Collateral Agent;
+or in any case at such other address as any of the Persons listed above may hereafter notify the others in writing, except that notices and communications to the Administrative Agent or any Credit Party shall not be effective until received by the Administrative Agent or such Credit Party.
+WHEREAS, each Pledgor and the Collateral Agent entered into the U.S.
+WHEREAS, it was a condition precedent to the issuance of the Senior Secured Notes by the Borrower under the Senior Secured Notes Indenture that each Pledgor (other than Holdings) shall have executed and delivered the Original U.S.
+Pledge Agreement to the Collateral Agent.
+Subsequently Acquired Collateral.
+If any Pledgor shall acquire (by purchase, stock dividend or similar distribution or otherwise) any additional Collateral at any time or from time to time after the Amendment and Restatement Effective Date, such Collateral shall automatically (and without any further action being required to be taken) be subject to the pledge and security interests created pursuant to Section 3.1 hereof and, furthermore, the respective Pledgor will promptly thereafter take (or cause to be taken) all action with respect to such Collateral in accordance with the procedures set forth in Section 3.2 hereof, and will promptly thereafter deliver to the Pledgee (i) a certificate executed by a principal executive officer of such Pledgor describing such Collateral and certifying that the same has been duly pledged in favor of the Pledgee (for the benefit of the Secured Creditors) hereunder and (ii) such supplements to Annexes A through G hereto as are necessary to cause such annexes to be complete and accurate at such time.
+Transfer Taxes.
+Subject to Section 3.2 hereof, the Pledgee shall be entitled to receive directly, and to retain as part of the Collateral:
+No Pledgor will sell or otherwise dispose of, grant any option with respect to, or mortgage, pledge or otherwise encumber any of the Collateral or any interest therein (except in accordance with the terms of this Agreement and the other Secured Debt Agreements); provided that Holdings may sell, transfer or otherwise dispose of (by dividend, contribution or otherwise) any capital stock or other equity interests (or interests therein) held by Holdings in an Unrestricted Subsidiary or any other foreign Person that is not a Subsidiary of the Borrower constituting Collateral, so long as (i) no Default or Event of Default is continuing and (ii) the Administrative Agent and Collateral Agent have received a certificate, in form and substance reasonably satisfactory to the Administrative Agent, signed by a Responsible Officer of Holdings certifying that such Collateral is being sold, transferred or otherwise disposed of by Holdings for a business purpose (including, without limitation, that it is being pledged in connection with local financing, sold (in whole or in part), liquidated, exchanged or contributed to a joint venture).
+No Pledgor shall establish a new jurisdiction of organization until (i) it shall have given to the Collateral Agent not less than 15 days’ prior written notice of its intention so to do, clearly identifying such new  jurisdiction of organization and providing such other information in connection therewith as the Collateral Agent may reasonably request, and (ii) with respect to such new jurisdiction of organization, it shall have taken all action, satisfactory to the Collateral Agent, to maintain the security interest of the Collateral Agent in the Collateral intended to be granted hereby at all times fully perfected and in full force and effect.
+Promptly after establishing a new jurisdiction of organization in accordance with the immediately preceding sentence, the respective Pledgor shall deliver to the Pledgee a supplement to Annex A hereto so as to cause such Annex A to be complete and accurate.
+Each Pledgor will cause the Pledgee to be kept reasonably advised in writing as to the progress of each such registration, qualification or compliance and as to the completion thereof, will furnish to the Pledgee such number of prospectuses, offering circulars and other documents incident thereto as the Pledgee from time to time may reasonably request, and will indemnify, to the extent permitted by law, the Pledgee and all other Secured Creditors participating in the distribution of such Collateral consisting of Securities, Limited Liability Company Interests or Partnership Interests against all claims, losses, damages and liabilities caused by any untrue statement (or alleged untrue statement) of a material fact contained therein (or in any related registration statement, notification or the like) or by any omission (or alleged omission) to state therein (or in any related registration statement, notification or the like) a material fact required to be stated therein or necessary to make the statements therein not misleading, except insofar as the same may have been caused by an untrue statement or omission based upon information furnished in writing to such Pledgor by the Pledgee expressly for use therein.
+All notices and communications hereunder shall be in writing and sent or delivered by mail, telegraph, telex, telecopy, cable or overnight courier service and all such notices and communications shall, when mailed, telegraphed, telexed, telecopied, or cabled or sent by overnight courier, be effective when deposited in the mails, delivered to the telegraph company, cable company or overnight courier, as the case may be, or sent by telex or telecopier, except that notices and communications to the Pledgee or any Pledgor shall not be effective until received by the Pledgee or such Pledgor, as the case may be.
+All such notices and other communications shall be addressed as follows:
+:  (410) 931-6000
+Telecopier No.
+:  (410) 931-6117
+:  (212) 503-7632
+Telecopier No.
+:  (212) 503-7330
+(c)           if to any Bank Creditor other than the Pledgee, at such address as such Bank Creditor shall have specified in the Credit Agreement;
+(d)           if to any Interest Rate Creditor, at such address as such Interest Rate Creditor shall have specified in writing to each Pledgor and the Collateral Agent;
+(e)           if to the Senior Secured Notes Trustee or any other Second Lien Creditor, at:
+: (651) 495-3918
+Telecopier No.
+: (651) 495-8097
+or at such other address or addressed to such other individual as shall have been furnished in writing by any Person described above to the party required to give notice hereunder.
+WAIVER; AMENDMENT.
+It is understood and agreed that any Subsidiary of the Borrower that is required to become a party to this Agreement after the Amendment and Restatement Effective Date pursuant to the requirements of the respective Secured Debt Agreements, shall become a Pledgor hereunder by (x) executing a counterpart of the Joinder Agreement substantially in the form of Exhibit N to the Credit Agreement, and delivering same to the Pledgee, (y) delivering supplements to Annexes A through G, inclusive, hereto as are necessary to cause Annexes to be complete and accurate with respect to such additional Pledgor on such date and (z) taking all actions specified in this Agreement as would have been taken by such Pledgor had it been an original party to this Agreement, in each case with all documents required above to be delivered to the Pledgee and with all documents and actions above to be taken to the reasonable satisfaction of the Pledgee.
+All notices, statements of accounts, reports, prospectuses, financial statements and other communications to be sent to the Pledgor by the Issuer in respect of the Issuer will also be sent to the Pledgee at the following address:
+Telephone No.
+:  (212) 503-______
+:  (212) 503-7330
+Until the Pledgee shall have delivered written notice to the Issuer that all of the Obligations have been paid in full and this Agreement is terminated, the Issuer will, upon receiving notice from the Pledgee stating that an “Event of Default” has occurred and is continuing, send any and all redemptions, distributions, interest or other payments in respect of the Issuer Pledged Interests from the Issuer for the account of the Pledgor only by wire transfers to the following address:
+Except as expressly provided otherwise in Sections 4 and 5, all notices, shall be sent or delivered by mail, telegraph, telex, telecopy, cable or overnight courier service and all such notices and communications shall, when mailed, telegraphed, telexed, telecopied, or cabled or sent by overnight courier, be effective when deposited in the mails, delivered to the telegraph company, cable company or courier, as the case may be, or sent by telex or telecopier, except that notices and communications to the Pledgee, the Pledgor or the Issuer shall not be effective until received by the Pledgee, the Pledgor or the Issuer, as the case may be.
+All notices and other communications shall be in writing and addressed as follows:
+(a)           if to any Pledgor, at:
+:  (410) 931-6000
+Fax:  (410) 931-6117
+(b)           if to the Pledgee, at:
+Telephone No.
+:  (212) 503-______
+:  (212) 503-7330
+(c)           if to the Issuer, at:
+or at such other address as shall have been furnished in writing by any Person described above to the party required to give notice hereunder.
+to be recorded in
+(212) 819-8729
+1140065/0001
+The Mortgagor shall execute and deliver to the Mortgagee all such other assurances, mortgages, conveyances or assignments thereof as the Mortgagee may reasonably require for the purpose of expressly and specifically subjecting such After Acquired Property Interests to the Lien of this Mortgage.
+IN WITNESS WHEREOF, the Mortgagor has caused this Mortgage to be duly executed and delivered as of the day and year first above written.
+Name (print):
+Title (print):
+IN WITNESS WHEREOF, I have hereunto set my hand and official seal.
+Title to the Mortgaged Property
+Transfers
+Sale of Mortgaged Property
+Dated:    As of June 28, 2005
+IN WITNESS WHEREOF, Assignor has duly executed this Assignment of Mortgage as of the 28th day of June, 2005 .
+IN WITNESS WHEREOF, I have hereunto set my hand and official seal.
+Dated:    As of June 28, 2005
+IN WITNESS WHEREOF, I have hereunto set my hand and official seal at ___________________________, ___________________ this ____ day of July, 2005.
+IN WITNESS WHEREOF, I have hereunto set my hand and official seal at New York, New York this ____ day of July, 2005.
+IN WITNESS WHEREOF, I have hereunto set my hand and official seal at ______________, _____________ this ____ day of July, 2005.
+WHEREAS, as to certain Units each Company may from time to time receive or arrange for the issuance of Certificates of Title (as defined below);
+WHEREAS, under the terms of the financing arrangements of Borrower with BofA, each Company is required to deliver the MSOs, the Certificates of Title and the Leases to the Custodians for the Custodians to hold on behalf of BofA (for the benefit of the Secured Creditors);
+To BofA:
+335 Madison Avenue
+New York, NY  10017
+:  (212) 503-7330
+Telephone No.
+:  (212) 503-7632
+with copies to:
+Telecopy No.
+:  (212) 503-7350
+to Donna Finnerty:
+to Maynard Becker:
+Any party hereto may change the address(es) to which all notices, requests and other communications are to be sent by giving written notice of such address change to the other parties hereto in conformity with this Section 4.2.
+Each of the undersigned acknowledges and agrees that:  (i) the failure of either or both of the Custodians to fulfill their respective obligations and duties hereunder in any material respect, after not less than fifteen (15) days prior written notice by BofA to either or both of Custodians and Borrower shall constitute an Event of Default as defined in and under the BofA Agreements (except if the Custodians are removed and shall promptly upon BofA’s request comply with Section 2.5(c) of the Custodian Agreement) and (ii) it will execute and deliver such additional documents and take such additional action as may be requested by BofA to effectuate the provisions and purposes of the foregoing Custodian Agreement.
+Pledge Agreement), the Joining Party hereby pledges, hypothecates, assigns, transfers, sets over and delivers to the Collateral Agent for the benefit of the Secured Creditors and grants to the Collateral Agent for the benefit of the Secured Creditors a security interest in all its right, title and interest in and to all Collateral (as defined in the U.S.
+The Joining Party hereby further agree that, upon its execution hereof, it will notify each of the Custodians pursuant to the Custodian Agreement, in writing, of its addition as a Company under the Custodian Agreement, which notices shall be delivered in accordance with the requirements of the Custodian Agreement.
+Pledge Agreement) in favor of the Collateral Agent, the Joining Party agrees to deliver to the Collateral Agent for the benefit of the Secured Creditors, together with the delivery of this Joinder, each of the items specified in Section 3.1 of the Pledge Agreement.
+IN WITNESS WHEREOF, I have executed this Compliance Certificate this ____ day of ______, 20__.
+Borrowing Base Certificate Dated  XX/XX/XX
+Equipment Held for Sale
+Total Equipment Held for Sale
+KS DRAFT 6/22/05
+c)              Past due (over 90 days or 120 from invoice date)
+j)                 Bill & hold, guaranteed or consignment
+877,596
+Item 2 should list the Assignee if the form is used for a single Assignee.
+as Issuing Lender
+Date and to [the] [each] Assignee for amounts which have accrued from and after the Effective Date.
+Delivery of an executed counterpart of a signature page of this Assignment by telecopy shall be effective as delivery of a manually executed counterpart of the Assignment.
+[DATE]
+ANNEX I TO EXHIBIT Q-2
+[Date]
+You may accept this Agreement by signing the enclosed copies in the space provided below, and returning one copy of same to us before the close of business on ______________ ____, ______.
+After the execution and delivery to the Administrative Agent of a fully executed copy of this Agreement (including by way of counterparts and by usage of facsimile transmission) by the parties hereto, this Agreement may only be changed, modified or varied by written instrument in accordance with the applicable requirements for the modification of Credit Documents pursuant to Section 11.10 of the Credit Agreement.
+1                    This paragraph may be inserted in the Incremental Commitment Agreement, in which case each Subsidiary Guarantor shall be required to execute and deliver a copy hereof.
+Notices to Agents.
+335 Madison Avenue, 6th Floor
+Telephone No.
+:      (212) 503-7632
+:      (212) 503-7330
+IN WITNESS WHEREOF, this Agreement has been executed and delivered by the undersigned duly authorized signatories of the parties hereto as of the date and year first above written.

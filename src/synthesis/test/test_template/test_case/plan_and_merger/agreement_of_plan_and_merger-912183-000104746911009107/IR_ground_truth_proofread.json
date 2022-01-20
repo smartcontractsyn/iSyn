@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "AAGREEMENT AND PLAN OF MERGER",
+    "SellerName": [
+        "ADOLOR CORPORATION"
+    ],
+    "BuyerName": [
+        "CUBIST PHARMACEUTICALS, INC.;FRD ACQUISITION CORPORATION"
+    ],
+    "EffectiveTime": [
+        "October 24, 2011"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "CUBIST PHARMACEUTICALS, INC.;FRD ACQUISITION CORPORATION"
+            ],
+            "To": [
+                "ADOLOR CORPORATION"
+            ],
+            "PurchasePrice": "$4.25 for each Share",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

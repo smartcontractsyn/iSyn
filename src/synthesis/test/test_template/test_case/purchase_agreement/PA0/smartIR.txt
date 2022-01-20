@@ -1,0 +1,42 @@
+ContractCategory: PurchaseAgreement;
+
+Entity: {
+    SellerNames: ['FORD MOTOR CREDIT COMPANY LLC'];
+    BuyerNames: ['FORD MOTOR CREDIT COMPANY LLC'];
+};
+
+EffectiveTime: May 1, 2015;
+CloseTime: "";
+ExpiryTime: ;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: false;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: ['FORD MOTOR CREDIT COMPANY LLC'];
+         To: ['FORD MOTOR CREDIT COMPANY LLC'];
+         Price: {
+             Amount: 1829526188.22,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: true;
+    OtherConstraint: false;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};

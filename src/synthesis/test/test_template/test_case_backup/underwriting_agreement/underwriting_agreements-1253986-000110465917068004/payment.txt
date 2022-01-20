@@ -1,0 +1,80 @@
+5.375% Convertible Senior Notes due 2020
+Arbor Realty Trust, Inc., a Maryland corporation (the “Company”), proposes to issue and sell to the several underwriters listed in Schedule 1 hereto (the “Underwriters”), for whom you are acting as representative (the “Representative”), $125,000,000 principal amount of its 5.375% Convertible Senior Notes due 2020 (the “Underwritten Securities”) and, at the option of the Underwriters, up to an additional $18,750,000 principal amount of its 5.375% Convertible Senior Notes due 2020 (the “Option Securities”) if and to the extent that the Underwriters shall have determined to exercise the option to purchase such Option Securities granted to the Underwriters in Section 2 hereof.
+(a)           The Company agrees to issue and sell the Underwritten Securities to the several Underwriters as provided in this Agreement, and each Underwriter, on the basis of the representations, warranties and agreements set forth herein and subject to the conditions set forth herein, agrees, severally and not jointly, to purchase from the Company the respective principal amount of Underwritten Securities set forth opposite such Underwriter’s name in Schedule 1 hereto at a price equal to 97% of the principal amount thereof (the “Purchase Price”) plus accrued interest, if any, from November 13, 2017 to the Closing Date (as defined below).
+(b)           In addition, the Company agrees to issue and sell the Option Securities to the several Underwriters as provided in this Agreement, and the Underwriters, on the basis of the representations, warranties and agreements set forth herein and subject to the conditions set forth herein, shall have the option to purchase, severally and not jointly, from the Company the Option Securities at the Purchase Price plus accrued interest, if any, from November 13, 2017 to the date of payment and delivery.
+If any Option Securities are to be purchased, the principal amount of Option Securities to be purchased by each Underwriter shall be the principal amount of Option Securities which bears the same ratio to the aggregate principal amount of Option Securities being purchased as the principal amount of Underwritten Securities set forth opposite the name of such Underwriter in Schedule 1 hereto (or such amount increased as set forth in Section 10 hereof) bears to the aggregate principal amount of Underwritten Securities being purchased from the Company by the several Underwriters, subject, however, to such adjustments to eliminate Securities in denominations other than $1,000 as the Representative in its sole discretion shall make.
+Payment for the Securities to be purchased on the Closing Date or the Additional Closing Date, as the case may be, shall be made against delivery to the nominee of The Depository Trust Company (“DTC”), for the respective accounts of the several Underwriters of the Securities to be purchased on such date of one or more global notes representing the Securities (collectively, the “Global Note”), with any transfer taxes payable in connection with the sale of such Securities duly paid by the Company.
+As of the date hereof, there are 100,000,000 shares of the Company’s preferred stock, par value $0.01 per share (“Preferred Shares”), authorized and 24,942,269 Preferred Shares issued and outstanding, 1,551,500 of which are classified as shares of the Company’s 8.250% Series A Cumulative Redeemable Preferred Stock, 1,260,000 of which are classified as shares of the Company’s 7.75% Series B Cumulative Redeemable Preferred Stock, 900,000 of which are classified as shares of the Company’s 8.50% Series C Cumulative Redeemable Preferred Stock and 21,230,769 of which are classified as shares of the Company’s Special Voting Preferred Stock.
+(b)                                 If, after giving effect to any arrangements for the purchase of the Securities of a defaulting Underwriter or Underwriters by the non-defaulting Underwriters and the Company as provided in paragraph (a) above, the aggregate number of Securities that remain unpurchased on the Closing Date or the Additional Closing Date, as the case may be, does not exceed one-eleventh of the aggregate number of Securities to be purchased on such date, then the Company shall have the right to require each non-defaulting Underwriter to purchase the number of Securities that such Underwriter agreed to purchase hereunder on such date plus such Underwriter’s pro rata share (based on the number of Securities that such Underwriter agreed to purchase on such date) of the Securities of such defaulting Underwriter or Underwriters for which such arrangements have not been made.
+Payment of Expenses.
+78,125,000
+34,375,000
+12,500,000
+125,000,000
+23.75
+80.00
+51.33
+100.00
+42.00
+49.00
+50.00
+0.10
+0.10
+0.10
+1.00
+$125,000,000 aggregate principal amount of
+5.375% Convertible Senior Notes due 2020 (the “notes”)
+5.375% Convertible Senior Notes due 2020
+$125,000,000 aggregate principal amount of notes (or $143,750,000 if the underwriters’ over-allotment option is exercised in full)
+100% of principal amount plus accrued interest, if any, from November 13, 2017
+5.375% per annum, accruing from the Closing Date
+Interest payment dates:
+Interest payment record dates:
+Last reported sale price:
+$8.44 per share of the Issuer’s common stock on the NYSE on November 7, 2017
+Approximately 10.00% over the Last Reported Sale Price
+Initial conversion price:
+Approximately $9.28 per share of common stock
+107.7122 shares of common stock per $1,000 principal amount of the notes
+$3,750,000 ($4,312,500 if the underwriters’ over-allotment option is exercised in full)
+The following table sets forth the number of additional shares to be added to the conversion rate per $1,000 principal amount of notes in connection with a make-whole fundamental change, as the case may be:
+Stock Price
+$8.44
+$8.75
+$9.00
+$9.28
+$9.50
+$9.75
+$10.00
+$10.25
+$10.50
+$11.00
+3.9775
+2.5893
+1.4425
+0.5779
+0.1228
+0.0000
+3.5034
+2.1575
+0.2088
+0.0000
+0.0000
+6.0297
+2.5055
+0.2536
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+·                  If the stock price is greater than $11.00 per share (subject to adjustment in the same manner as the stock prices set forth in the column headings of the table above), no additional shares will be added to the conversion rate.
+·                  If the stock price is less than $8.44 per share (subject to adjustment in the same manner as the stock prices set forth in the column headings of the table above), no additional shares will be added to the conversion rate.
+Notwithstanding the foregoing, in no event will the conversion rate per $1,000 principal amount of notes exceed 118.4834 shares of common stock, subject to adjustment in the same manner as the conversion rate as set forth under “Description of notes—Conversion rights—Conversion rate adjustments” in the preliminary prospectus supplement.
+The Issuer estimates that the net proceeds of this offering will be approximately $121.0 million (or approximately $139.2 million if the underwriters’ over-allotment option is exercised in full), after deducting the underwriters’ discounts and commissions and estimated offering expenses payable by the Issuer.
+The Issuer may also use a portion of the net proceeds from this offering to repay certain of its

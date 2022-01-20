@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "NEIMAN MARCUS GROUP LTD LLC"
+    ],
+    "BuyerName": [
+        "WILMINGTON TRUST, NATIONAL ASSOCIATION"
+    ],
+    "EffectiveTime": [
+        "June 7, 2019"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "WILMINGTON TRUST, NATIONAL ASSOCIATION"
+            ],
+            "To": [
+                "NEIMAN MARCUS GROUP LTD LLC"
+            ],
+            "PurchasePrice": "497849150",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

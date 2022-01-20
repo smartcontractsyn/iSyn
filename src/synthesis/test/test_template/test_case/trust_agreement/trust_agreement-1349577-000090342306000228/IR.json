@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "TILES"
+    ],
+    "BuyerName": [
+        "MS Structured Asset Corp."
+    ],
+    "EffectiveTime": [
+        "December 31,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "February 15, 2034."
+    ],
+    "Payments": [
+        {
+            "From": [
+                "MS Structured Asset Corp."
+            ],
+            "To": [
+                "TILES"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 20000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

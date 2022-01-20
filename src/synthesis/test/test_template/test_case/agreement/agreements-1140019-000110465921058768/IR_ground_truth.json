@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "Victory Portfolios"
+    ],
+    "BuyerName": [
+        "HARTFORD LIFE INSURANCE COMPANY"
+    ],
+    "EffectiveTime": [
+        "6th of June, 2018"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "HARTFORD LIFE INSURANCE COMPANY"
+            ],
+            "To": [
+                "Victory Portfolios"
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

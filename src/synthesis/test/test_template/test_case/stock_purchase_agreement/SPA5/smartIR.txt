@@ -1,0 +1,42 @@
+ContractCategory: StockPurchaseAgreement;
+
+Entity: {
+    SellerNames: [];
+    BuyerNames: [];
+};
+
+EffectiveTime: July 29, 2011,;
+CloseTime: "";
+ExpiryTime: ;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: true;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: [];
+         To: [];
+         Price: {
+             Amount: 60639067.55,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: true;
+    OtherConstraint: false;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};

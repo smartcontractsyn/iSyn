@@ -1,0 +1,30 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [],
+    "BuyerName": [],
+    "EffectiveTime": [],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "May 24"
+    ],
+    "Payments": [
+        {
+            "From": [],
+            "To": [],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 750000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

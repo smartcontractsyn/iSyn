@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Borrowers"
+    ],
+    "BuyerName": [
+        "AMERICAN APPAREL"
+    ],
+    "EffectiveTime": [
+        "April 4, 2013"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        ", 20"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "AMERICAN APPAREL"
+            ],
+            "To": [
+                "Borrowers"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 500000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

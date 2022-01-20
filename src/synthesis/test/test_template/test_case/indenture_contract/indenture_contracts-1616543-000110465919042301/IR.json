@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "SENSEONICS HOLDINGS"
+    ],
+    "BuyerName": [
+        "U.S. Bank National Association"
+    ],
+    "EffectiveTime": [
+        "July 25, 2019"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "January 15, 2025."
+    ],
+    "Payments": [
+        {
+            "From": [
+                "U.S. Bank National Association"
+            ],
+            "To": [
+                "SENSEONICS HOLDINGS"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 500000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

@@ -1,0 +1,42 @@
+ContractCategory: StockPurchaseAgreement;
+
+Entity: {
+    SellerNames: ['Mark Capital'];
+    BuyerNames: ['Craig Pierson'];
+};
+
+EffectiveTime: 6th  February, 2007,;
+CloseTime: "";
+ExpiryTime: ;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: false;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: ['Craig Pierson'];
+         To: ['Mark Capital'];
+         Price: {
+             Amount: 35000.0,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: false;
+    OtherConstraint: false;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};

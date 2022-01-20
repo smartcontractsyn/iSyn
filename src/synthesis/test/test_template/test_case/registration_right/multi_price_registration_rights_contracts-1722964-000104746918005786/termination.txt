@@ -1,0 +1,5 @@
+(c)                                  Right to Terminate Registration.
+The Company shall have the right to terminate or withdraw any registration initiated by it under this Section 2.2 prior to the effectiveness of such registration whether or not any Holder has elected to include securities in such registration.
+2.11                     Delay of Registration.
+2.14                     Termination of Registration Rights.
+The right of any Holder to request registration or inclusion in any registration pursuant to Section 2.1, 2.2 or 2.3 shall terminate on the earlier of (i) the date on which such Holder holds no Registrable Securities; (ii) five (5) years after the closing of the Company’s Initial Public Offering; and (iii) such time as Rule 144 or another similar exemption under the Securities Act is available for the sale of all of such Holder’s shares without limitation during a three (3)-month period without registration and without the requirement for the Company to be in compliance with the current public information required under Rule 144(c)(1).

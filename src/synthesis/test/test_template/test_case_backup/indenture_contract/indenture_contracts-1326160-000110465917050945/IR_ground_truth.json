@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "DUKE ENERGY CORPORATION"
+    ],
+    "BuyerName": [
+        "The Bank of New York Mellon Trust Company"
+    ],
+    "EffectiveTime": [
+        "the 10th day of August, 2017"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "The Bank of New York Mellon Trust Company"
+            ],
+            "To": [
+                "DUKE ENERGY CORPORATION"
+            ],
+            "PurchasePrice": "500000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

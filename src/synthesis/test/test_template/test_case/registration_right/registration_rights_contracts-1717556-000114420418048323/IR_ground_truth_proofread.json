@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "RegistrationRightAgreement",
+    "SellerName": [
+        "Xspand Products Lab, Inc."
+    ],
+    "BuyerName": [
+        " the undersigned holders of securities of the Company"
+    ],
+    "EffectiveTime": [
+        "September 4, 2018"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                " the undersigned holders of securities of the Company"
+            ],
+            "To": [
+                "Xspand Products Lab, Inc."
+            ],
+            "PurchasePrice": "1000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

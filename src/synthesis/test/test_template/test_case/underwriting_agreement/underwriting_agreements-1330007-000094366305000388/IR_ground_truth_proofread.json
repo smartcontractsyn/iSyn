@@ -1,0 +1,46 @@
+{
+    "ContractCategory": "UnderWriting Ageement",
+    "SellerName": [
+        "Wachovia Commercial Mortgage Securities, Inc."
+    ],
+    "BuyerName": [
+        "Wachovia Capital Markets", 
+	"LLC Citigroup Global Markets Inc",
+	 "Credit Suisse First Boston LLC"
+    ],
+    "EffectiveTime": [
+        "June 22, 2005"
+    ],
+    "CloseTime": [
+        " June 30, 2005"
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [    
+	"Wachovia Capital Markets", 
+	"LLC Citigroup Global Markets Inc",
+	 "Credit Suisse First Boston LLC"
+                
+            ],
+            "To": [
+                "Wachovia Commercial Mortgage Securities, Inc."
+            ],
+            "PurchasePrice": "1614545341",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

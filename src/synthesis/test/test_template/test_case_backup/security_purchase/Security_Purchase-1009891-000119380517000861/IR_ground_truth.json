@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "SellerName": [
+        "Air Industries Group"
+    ],
+    "BuyerName": [
+        ""
+    ],
+    "EffectiveTime": [
+        "May 12, 2017"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                ""
+            ],
+            "To": [
+                "Air Industries Group"
+            ],
+            "PurchasePrice": "3090000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

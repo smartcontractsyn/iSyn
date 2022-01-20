@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "LASALLE BANK NATIONAL ASSOCIATION"
+    ],
+    "BuyerName": [
+        "STRUCTURED ASSET SECURITIES CORPORATION"
+    ],
+    "EffectiveTime": [
+        "January 1, 2003"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "March 25, 2010"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "STRUCTURED ASSET SECURITIES CORPORATION"
+            ],
+            "To": [
+                "LASALLE BANK NATIONAL ASSOCIATION"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": true
+            },
+            "PurchasePrice": 600764609.9,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

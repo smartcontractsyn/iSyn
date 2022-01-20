@@ -1,0 +1,41 @@
+{
+"ContractCategory":"EmploymentAgreement",   
+"SellerName": [
+        "Vincent A. Corno"
+    ],
+    "BuyerName": [
+        "DDR Corp."
+    ],
+    "EffectiveTime": [
+        "July 11, 2016"
+    ],
+    "CloseTime": [
+        "December 31, 2018"
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "DDR Corp."
+            ],
+            "To": [
+                "Vincent A. Corno"
+            ],
+            "PurchasePrice": "?",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

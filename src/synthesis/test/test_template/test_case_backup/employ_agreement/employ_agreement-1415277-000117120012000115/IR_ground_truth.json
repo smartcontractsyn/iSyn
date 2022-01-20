@@ -1,0 +1,40 @@
+{
+    "SellerName": [
+        "Warren S. Orlando"
+    ],
+    "BuyerName": [
+        "1st United Bancorp, Inc."
+    ],
+    "EffectiveTime": [
+        "March 4, 2004"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "1st United Bancorp, Inc."
+            ],
+            "To": [
+                "Warren S. Orlando"
+            ],
+            "PurchasePrice": "62500",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

@@ -1,0 +1,112 @@
+Limitation on Liability; Termination, Release and Discharge
+(a)           has not been denied by the applicable carrier in writing; and
+“continuing” means, with respect to any Default or Event of Default, that such Default or Event of Default has not been cured or waived.
+1, dated May 13, 2019, Supplement No.
+2 dated May 16, 2019, Supplement No.
+3 dated May 17, 2019, Supplement No.
+4 dated May 21, 2019, Supplement No.
+6 dated May 30, 2019.
+An Exempted Future Foreign Asset shall no longer be an Excluded Asset under clause (e) above upon the earlier to occur of (A) the tenth Business Day after an Officer determines that the Material Adverse Consequences
+A Foreign Subsidiary or FSHCO shall no longer be an Excluded Subsidiary under clause (c) above upon the earliest to occur of (A) the tenth Business Day after an Officer determines that the Exclusion Conditions no longer apply to such Foreign Subsidiary or FSHCO, (B) the date a Lien on such Foreign Subsidiary or FSHCO is granted to secure any other Obligations of the Issuers or the Subsidiary Guarantors and (C) the date such Foreign Subsidiary or FSHCO provides Credit Support for any Indebtedness of the Issuers or any Subsidiary Guarantors.
+(4)           [Reserved];
+(22)         [Reserved];
+(25)         [Reserved];
+(4)           [Reserved];
+(8)           [Reserved];
+(27)         [Reserved];
+Notwithstanding the foregoing, (A) all Extended Term Loan Liens shall be Incurred under clause (1)(a) of this definition, (B) all ABL Liens shall be Incurred under clause (1)(b) of this definition, (C) all Second Lien Notes Liens securing Second Lien Notes Incurred under clause (iii)(B) of the definition of “Permitted Debt” and the Second Lien Notes Obligations related thereto shall be Incurred under clause (1)(c) of this definition, (D) all 2028 Debentures Liens shall be Incurred under clause (1)(d) of this definition, (E) all Third Lien Notes Liens securing Indebtedness Incurred under clause (iii)(D)(2) or (iii)(D)(4) of the definition of “Permitted Debt” and the Third Lien Notes Obligations related thereto shall be Incurred under clause (1)(e) of this definition, (F) all Non-Participating Term Loan Liens shall be Incurred under clause (1)(f)(i) of this definition, (G) all Liens securing Non-Participating Term Loan Exchange Obligations shall be Incurred under clause (1)(f)(ii) of this definition, (H) all Third Lien Notes Liens securing Third Lien Notes Incurred under clause (iii)(A)(1) of the definition of “Permitted Debt” and related Third Lien Notes Obligations shall be Incurred under clause (1)(g)(i) of this definition and (I) all Pari Passu Liens shall be Incurred under clause (1)(g)(ii) of this definition, and, in each case of subclauses (A) through (I) above, such Liens may not be later reallocated.
+2(ii)
+3(iv)
+2(v)
+7.2(g)
+3.14(a)
+3.8(a)
+2.1(d)
+3.7(d)
+3.3(b)(v)
+3.9(b)
+3.9(b)(iii)
+3.9(a)
+8.1(b)
+“Covenant Suspension Event”
+3.17(a)
+2.12(b)
+2.1(b)
+3.7(d)
+11.2(b)
+11.2(a)
+3.12(b)
+2.1(c)
+3.4(b)(v)
+8.1(b)
+11.3(b)
+3.12(a)
+3.3(b)
+2.1(c)
+3.3(a)
+3.4(b)(ii)
+6.6(b)
+3.4(a)(iv)
+3.17(b)
+2.12(b)(i)
+2.12(b)(i)
+4.1(a)(i)(A)
+4.1(c)(i)
+3.17(a)
+3.17(b)
+3.4(b)(v)
+3.14(a)
+(A)                               the Registrar receives the following:
+(A)                               the Registrar receives the following:
+the Trustee will cancel the Restricted Definitive Note, increase or cause to be increased the aggregate principal amount of, in the case of clause (A) above, the appropriate Restricted Global Note, in the case of clause (B) above, the 144A Global Note, and in the case of clause (C) above, the Regulation S Global Note, and in all other cases, the IAI Global Note.
+(A)                               the Registrar receives the following:
+Upon receipt of a request for such an exchange or transfer, the Trustee will cancel the applicable Unrestricted Definitive Note and increase or cause to be increased the aggregate principal amount of one of the Unrestricted Global Notes.
+(A)                               the Registrar receives the following:
+Simultaneously with the authentication of the corresponding Permanent Regulation S Global Note, the Trustee will cancel the corresponding Temporary Regulation S Global Note.
+At such time as all beneficial interests in a particular Global Note have been exchanged for Definitive Notes or a particular Global Note has been redeemed, repurchased or canceled in whole and not in part, each such Global Note will be returned to or retained and canceled by the Trustee in accordance with Section 2.11.
+Cancellation.
+No Note will be repurchased in part if less than the minimum denomination of such Note would be left outstanding.
+(b)                                 After the Issue Date, (i) no direct or indirect Subsidiary (including an Excluded Subsidiary) or equity investee of the Issuer may directly or indirectly provide Credit Support for the Indebtedness incurred under clause (i) or (ii) of the definition of “Permitted Debt”, (ii) no direct or indirect Subsidiary (including an Excluded Subsidiary) or equity investee of the Issuer may be an obligor on any Indebtedness for borrowed money for which any Issuer or Subsidiary Guarantor directly or indirectly provides Credit Support, unless, in each case of clause (i) and (ii), such Subsidiary or equity investee provides a Subsidiary Guarantee, and (iii) each Immaterial Subsidiary existing as of the Issue Date shall, within 90 days following the Issue Date (or such later date as agreed to by the Issuer and the Extended Term Loan Agent) either (A) be dissolved, liquidated or merged out of existence or (B) become a Subsidiary Guarantor with respect to the Guaranteed Obligations.
+(a)                                 If on any date following the Issue Date (i) the Notes have Investment Grade Ratings from both Rating Agencies, and (ii) no Default has occurred and is continuing under this Indenture (the occurrence of the events described in the foregoing clauses (i) and (ii) being collectively referred to as a “Covenant Suspension Event”), Sections 3.3, 3.4, 3.6, 3.7, 3.8 and 4.1(a)(iv) (collectively, the “Suspended Covenants”) will no longer be applicable to such Notes.
+(b)                                 In the event that the Issuer and its Restricted Subsidiaries are not subject to the Suspended Covenants under this Indenture for any period of time pursuant to Section 3.17(a) (any such period, a “Suspension Period”), and on any subsequent date (the “Reversion Date”) one or both of the Rating Agencies withdraw their Investment Grade Rating or downgrade the rating assigned to the Notes below an Investment Grade Rating, then the Issuer and its Restricted Subsidiaries will thereafter again be subject to the Suspended Covenants under this Indenture with respect to future events.
+(b)                                 Notwithstanding the foregoing clauses 4.1(a)(iii) and 4.1(a)(iv):
+(iv)                              any Subsidiary Guarantor may dissolve or liquidate to the extent that the assets of such Subsidiary Guarantor are transferred to the Issuers or another Subsidiary Guarantor substantially contemporaneously with such dissolution or liquidation; and
+(v)                                 any Restricted Subsidiary that is not a Subsidiary Guarantor may dissolve or liquidate to the extent that the assets of such Restricted Subsidiary that is
+In addition, if such redemption or notice is subject to satisfaction of one or more conditions precedent, such notice will state that, in the Issuers’ discretion, the Redemption Date may be delayed until such time as any or all such conditions will be satisfied (or waived by the Issuers in their sole discretion), or such redemption may not occur and such notice may be rescinded in the event that any or all such conditions are not satisfied (or waived by the Issuers in their sole discretion) by the Redemption Date, or by the Redemption Date so delayed.
+(d)                                 the failure by the Issuer or any Restricted Subsidiary to pay the principal amount of any Indebtedness for borrowed money (other than Indebtedness for borrowed money owing to Issuer or a Restricted Subsidiary) within any applicable grace period upon the final maturity or the acceleration of any such Indebtedness by the holders thereof because of a default, in each case, if the total amount of such Indebtedness unpaid at final maturity or accelerated exceeds $50.0 million or its foreign currency equivalent;
+(g)                                  failure by any Issuer or any Significant Subsidiary to pay final and non-appealable judgments aggregating in excess of $50.0 million or its foreign currency equivalent (net of any amounts which are covered by enforceable insurance policies issued by solvent insurance companies), which judgments are not discharged, waived or stayed for a period of 60 days after such judgment becomes final and, in the event such judgment is covered by insurance, an enforcement proceeding has been commenced by any creditor upon such judgment or decree which is not promptly stayed;
+(h)                                 the Subsidiary Guarantee of a Significant Subsidiary ceases to be in full force and effect (except as contemplated by the terms thereof or of this Indenture), or any Subsidiary Guarantor that is a Significant Subsidiary (or any Officer thereof with authority to act on behalf of such Subsidiary Guarantor with respect to such matters) denies in writing that it has any further liability under its Subsidiary Guarantee or gives written notice to such effect, other than by reason of the termination or discharge of this Indenture or the release of any such Subsidiary Guarantee in accordance with this Indenture, and such Default continues for five days;
+However, a default under Section 6.1(c) will not constitute an Event of Default until either the Trustee notifies in writing the Issuers or the Holders of at least 25.0% in principal amount of outstanding Notes notify in writing the Issuers and the Trustee of the default and such default is not cured within the time specified in Section 6.1(c) after receipt of such notice.
+If an Event of Default arising from Section 6.1(e) or Section 6.1(f) of an Issuer occurs, the Contractual Performance Amount shall be due and payable as of immediately prior to the occurrence of such Event of Default.
+The Holders of a majority in aggregate principal amount of the then outstanding Notes by written notice to the Trustee may, on behalf of the Holders of all of the Notes, waive, rescind or cancel any declaration of an existing or past Default or Event of Default and its consequences (including acceleration) under this Indenture if such waiver, rescission or cancellation would not conflict with any judgment or decree, except a continuing Default or Event of Default in the payment of interest on, or the principal of, the Notes (other than such nonpayment of principal or interest that has become due as a result of such acceleration).
+In the event of any Event of Default arising from Section 6.1(d), such Event of Default and all consequences thereof (excluding, however, any payment default on the Notes Obligations resulting from acceleration of the Notes) will be annulled, waived and rescinded, automatically and without any action by the Trustee or the Holders, if prior to 20 days after such Event of Default arose, the Issuer delivers an Officer’s Certificate to the Trustee stating that (x) the Indebtedness or guarantee that is the basis for such Event of Default has been discharged or (y) the Holders thereof have rescinded or waived the acceleration, notice or action (as the case may be) giving rise to such Event of Default or (z) the default that is the basis for such Event of Default has otherwise been cured.
+(d)                                 the Trustee has not complied with, or indicated in writing to the Requesting Holders that it will comply with, such request within 10 days after the receipt of the request and the offer of security or indemnity; and
+(a)                                 The Trustee may resign at any time by so notifying the Issuers.
+The Issuers will remove the Trustee if:
+(ii)                                  the Trustee is adjudged bankrupt or insolvent;
+(iv)                              the Trustee otherwise becomes incapable of acting.
+(b)                                 If the Trustee resigns or is removed by the Issuers or by the Holders of a majority in aggregate principal amount of the then outstanding Notes and such Holders do not within 30 days thereafter appoint a successor Trustee, or if a vacancy exists in the office of Trustee for any reason (the Trustee in such event being referred to herein as the retiring Trustee), the Issuers will promptly appoint a successor Trustee.
+Thereupon the resignation or removal of the retiring Trustee will become effective, and the successor Trustee will have all the rights, powers and duties of the Trustee under this Indenture.
+(d)                                 If a successor Trustee does not take office within 30 days after the retiring Trustee resigns or is removed, the Holders of at least 10.0% in principal amount of the Notes may petition, at the Issuers’ expense, any court of competent jurisdiction for the appointment of a successor Trustee.
+(e)                                  If the Trustee fails to comply with Section 7.9, unless the Trustee’s duty to resign is stayed, any Holder may petition any court of competent jurisdiction for the removal of the Trustee and the appointment of a successor Trustee.
+(b)                                 Subject to Section 8.1(c) and Section 8.2, the Issuers at any time may terminate (i) all of their obligations under the Notes and this Indenture (with respect to such Notes) and have each Subsidiary Guarantor’s obligation discharged with respect to its Subsidiary Guarantee and have Liens, if any, on the Collateral securing the Notes and the Note Guarantees released and cure any then-existing Events of Default (“legal defeasance option”) or (ii) its obligations under Sections 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 3.14, 3.15, 3.16, 3.19 and 3.20 and the operation of Section 4.1 (other than Sections 4.1(a)(i), (ii) and (vi)) and Sections 6.1(c) (with respect to any Default under Sections 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.9, 3.10, 3.11, 3.12, 3.14, 3.15, 3.16, 3.19 and 3.20), 6.1(d), (6.1)(e) (with respect to Significant Subsidiaries of the Issuers only), 6.1(f) (with respect to Significant Subsidiaries of the Issuers only), 6.1(g), 6.1(h), 6.1(i), 6.1(j), 6.1(k) and 6.1(m) and have Liens, if any, on the Collateral securing the Notes and the Note Guarantees released (“covenant defeasance option”).
+In the event that the Issuers terminate all of their obligations under the Notes and this Indenture (with respect to such Notes) by exercising the legal defeasance option or the covenant defeasance option, the obligations of each Subsidiary Guarantor under its Subsidiary Guarantee of such Notes will be terminated simultaneously with the termination of such obligations.
+If the Issuers exercise their covenant defeasance option, payment of the Notes so defeased may not be accelerated because of an Event of Default specified in Section 6.1(c) (with respect to any Default by the Issuer or any of its Restricted Subsidiaries with any of their obligations under Article III other than Sections 3.1, 3.13, 3.17, 6.1(d), 6.1(e) (with respect to Significant Subsidiaries of the Issuers only), 6.1(f) (with respect to Significant Subsidiaries of the Issuers only)), 6.1(g), 6.1(h), 6.1(i), 6.1(j), 6.1(k) or 6.1(m).
+(e)           Notwithstanding clauses (a) and (b) above, the Issuers’ obligations in Sections 2.3, 2.4, 2.5, 2.6, 2.7, 2.8, 7.6, 7.7 and in this Article VIII will survive until the Notes have been paid in full.
+Limitation on Liability; Termination, Release and Discharge.
+No Subrogation.
+“TSA Execution Date” means March 25, 2019, the date on which the Transaction Support Agreement was executed.
+(2)
+(2)         144A —
+(d)          Unless the Issuers default in the payment of the redemption price, interest will cease to accrue on the Notes or portions thereof called for redemption on the applicable Redemption Date.
+Subject to certain conditions set forth in the Indenture, the Issuers at any time may terminate some or all of their obligations under the Notes and the Indenture if the Issuers irrevocably deposit in trust with the Trustee money or U.S. Government Obligations (sufficient, without reinvestment, in the opinion of a nationally-recognized certified public accounting firm) for the payment of principal, premium (if any) and interest on the Notes to redemption or maturity, as the case may be.
+[remainder of page intentionally blank]
+The term (the “Term”) of this Sublease shall commence on                , 2019 (the “Commencement Date”) and, unless sooner terminated pursuant to the provisions hereof, shall terminate on the earlier of the one-year anniversary of the Commencement Date (such date, and each applicable subsequent anniversary following an extension pursuant to the proviso to this sentence, the “Scheduled Expiry Date”) and the prior termination of the term of the Prime Lease for any reason whatsoever; provided, the Term shall automatically be extended by an additional year after the Scheduled Expiry Date (subject to prior termination of the Prime Lease) if neither party has delivered to the other written notice of its intent to terminate this Sublease at least ten (10) business days prior to the Scheduled Expiry Date.
+(ii)                                  Sublandlord shall not amend, modify or terminate the Prime Lease, without the prior written consent of Subtenant, which may be withheld in its sole discretion to the extent the same could increase Subtenant’s liabilities or obligations under this Sublease.
+(i)                                     Subtenant fails to pay any Base Rent or Additional Rent within five (5) days after the date it is due;
+(ii)                                  Subtenant fails to pay any other amount due from Subtenant hereunder and such failure continues for five (5) business days after notice thereof from Sublandlord to Subtenant;
+(iii)                               Subtenant fails to perform or observe any other covenant, obligation or agreement set forth in this Sublease and such failure continues until the earlier of (1) ten (10) business days after notice thereof from Sublandlord to Subtenant or (2) any earlier date specified for default under the Prime Lease, any Superior Interest or any Ancillary Document, as the case may be; or
+Sublandlord thereunder (including without limitation the right to terminate this Sublease and recover possession of the Leased Premises free of all rights and interests of Subtenant).
+Waiver of Claims and Indemnity.
+Waiver of Subrogation.
+Superior Interests are terminated or released, and (c) all ancillary agreements and documents (including, without limitation, reciprocal easement and/or operating agreements affecting the Lease Premises as of the date hereof (including any of the same identified on Exhibit A, collectively, the “Ancillary Documents”)), as all such Superior Interests and Ancillary Documents may hereinafter be amended or supplemented from time to time.

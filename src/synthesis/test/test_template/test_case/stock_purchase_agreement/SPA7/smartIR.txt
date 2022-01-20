@@ -1,0 +1,42 @@
+ContractCategory: StockPurchaseAgreement;
+
+Entity: {
+    SellerNames: ['Armada Enterprises GP'];
+    BuyerNames: ['MC 2 Consulting'];
+};
+
+EffectiveTime: 5th  May, 2016,;
+CloseTime: "";
+ExpiryTime: ;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: false;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: ['MC 2 Consulting'];
+         To: ['Armada Enterprises GP'];
+         Price: {
+             Amount: 50000,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: true;
+    OtherConstraint: false;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};

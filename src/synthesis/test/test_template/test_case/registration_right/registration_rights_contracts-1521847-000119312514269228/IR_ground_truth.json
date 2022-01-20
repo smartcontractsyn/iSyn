@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "RegistrationRightAgreement",
+    "SellerName": [
+        ""
+    ],
+    "BuyerName": [
+        "U.S. Bank National Association"
+    ],
+    "EffectiveTime": [
+        "July 17, 2014"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "U.S. Bank National Association"
+            ],
+            "To": [
+                ""
+            ],
+            "PurchasePrice": "500000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

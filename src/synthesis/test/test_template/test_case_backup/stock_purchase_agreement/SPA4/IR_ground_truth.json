@@ -1,0 +1,38 @@
+{
+    "SellerName": [
+        ""
+    ],
+    "BuyerName": [
+        "1847 Cabinets Inc."
+    ],
+    "EffectiveTime": [
+        "August 27, 2020"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "1847 Cabinets Inc."
+            ],
+            "To": [
+                ""
+            ],
+            "PurchasePrice": "6650000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

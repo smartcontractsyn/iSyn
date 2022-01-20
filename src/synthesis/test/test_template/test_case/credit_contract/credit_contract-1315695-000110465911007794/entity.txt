@@ -1,0 +1,540 @@
+CREDIT AGREEMENT
+ROCKWOOD SPECIALTIES GROUP, INC.,
+as Borrower
+ROCKWOOD SPECIALTIES INTERNATIONAL, INC.,
+as a Guarantor
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH
+as Administrative Agent
+DEUTSCHE BANK SECURITIES INC.
+MORGAN STANLEY SENIOR FUNDING, INC. and
+KKR CAPITAL MARKETS LLC
+as Joint Arranger and Syndication Agent
+CREDIT AGREEMENT dated as of February 10, 2011, among ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Borrower”), ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware corporation (“Holdings”), the lending institutions from time to time parties hereto, CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as Administrative Agent and as Collateral Agent (such terms and each other capitalized term used but not defined in this introductory statement having the meaning provided in Section 1), and KKR CAPITAL MARKETS LLC, as Syndication Agent.
+WHEREAS, the Borrower, the lenders from time to time party thereto and Credit Suisse, as administrative agent, have entered into that certain Amended and Restated Credit Agreement, dated as of June 15, 2009 (as amended, supplemented or otherwise modified prior to the date hereof, the “Existing Credit Agreement”); and
+“Co-Documentation Agents” shall mean Deutsche Bank Securities, Inc., Morgan Stanley Senior Funding, Inc. and UBS Securities LLC.
+“Engagement Letter” shall mean that certain engagement letter, dated January 26, 2011, among the Borrower, Credit Suisse Securities (USA) LLC, Deutsche Bank Securities Inc, Morgan Stanley & Co.
+“KKR” shall mean each of Kohlberg Kravis Roberts & Co., L.P. and KKR Associates, L.P.
+“Permitted Holders” shall mean Kohlberg Kravis Roberts & Co. L.P., DLJ Merchant Banking Partners III, L.P., their respective affiliates and the Management Group.
+“PIK Holdco” shall mean Rockwood Specialties Consolidated, Inc., a Delaware corporation.
+“Purchase Agreement” shall mean the Business and Share Sale and Purchase Agreement dated September 25, 2000, between the Original Seller and Parent.
+“Sale and Purchase Agreement” shall mean the Sale and Purchase Agreement, notarized on April 19, 2004, between mg technologies ag, MG North America Holdings Inc., Knight Erste Beteiligungs-GmbH, Knight Zweite Beteiligungs-GmbH, Knight Dritte Beteiligungs-GmbH, Knight Vierte Beteiligungs-GmbH, Knight Fünfte Beteiligungs-GmbH and RW Holding Corp. as the same may be amended, supplemented or otherwise modified from time to time in accordance with the terms of this Agreement.
+Currency (each a “Foreign Currency Letter of Credit” and, collectively, the “Foreign Currency Letters of Credit” and, together with the Dollar Letters of Credit, the “Letters of Credit”) in such form as may be approved by the Letter of Credit Issuer in its reasonable discretion.
+3.6                                 Successor Letter of Credit Issuer.
+Rockwood Specialties Group, Inc.
+Princeton, NJ 08540
+New York, NY 10019
+New York, NY 10010
+THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+THE BORROWER, THE ADMINISTRATIVE AGENT AND THE LENDERS HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVE TRIAL BY JURY IN ANY LEGAL ACTION OR PROCEEDING RELATING TO THIS AGREEMENT OR ANY OTHER CREDIT DOCUMENT AND FOR ANY COUNTERCLAIM THEREIN.
+ROCKWOOD SPECIALTIES GROUP, INC.
+ROCKWOOD SPECIALTIES INTERNATIONAL, INC.
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH
+CRÉDIT INDUSTRIEL ET COMMERCIAL
+DEUTSCHE BANK AG NY BRANCH,
+ING CAPITAL LLC,
+KKR CORPORATE LENDING LLC,
+MORGAN STANLEY BANK N.A.,
+SUMITOMO MITSUI BANKING CORPORATION
+Los Angeles, CA 90023
+Harrisburg, NC 28075
+Beltsville, MD 20705
+Lemay, MO 63125
+Romulus, MI 48174
+Laurens, SC 29360
+Silver Peak, NV 89047
+Louisville, KY 40210
+Harleyville, SC 29448
+New York, NY 10010
+Attention: Sean Portrait, Agency Manager
+New York, NY 10022
+Deutsche Bank AG, New York
+New York, NY 10005
+New York, NY 10019
+New York, NY 10019
+Morgan Stanley Bank, N.A.
+Stamford, CT 06901
+Sumitomo Mitsui Banking Corporation, New York
+Rockwood Specialties Group GmbH
+Rockwood Specialties Group GmbH
+Rockwood Specialties Group GmbH
+Sachtleben Wasserrchemie GmbH
+CeramTec North America Corporation
+Chemetall US, Inc.
+ETEC-Durawear, Inc.
+Pool Spa Holdings, Inc.
+Rockwood Pigments NA, Inc.
+Southern Color N.A., Inc.
+Rockwood Italia S.p.A.
+Aachener Chemische Werke Gesellschaft für glastechnische Produkte und Verfahren mbH
+BAE Vermögensverwaltungs GmbH
+Brent International B.V.
+Brockhues GmbH & Co. KG
+99.93% indirectly through Rockwood Pigmente Holding GmbH & Silo Pigmente GmbH
+CeramTec Innovative Ceramic Engineering (M) Sdn.
+CeramTec GmbH
+CeramTec-ETEC GmbH Keramik mbH
+CeramTec Ibérica Innovative Ceramic Engineering S.L.
+CeramTec Italia S.r.l.
+Cerasiv GmbH Innovatives Keramik-Engineering
+Chemetall (Australasia) Pty.
+Chemetall (Proprietary) Ltd.
+Chemetall (Thailand) Co. Ltd.
+Chemetall B.V.
+100% indirectly through Chemetall GmbH and Chemetall S.A.
+Chemetall GmbH
+Chemetall Holding GmbH
+Chemetall Italia S.r.l.
+100% indirectly through Chemetall GmbH and Chemetall Asia Pte.
+Chemetall Mexicana, S.A. de C.V.
+Chemetall Philippines Co. Ltd., Inc.
+Chemetall PVC (Proprietary) Ltd.
+Chemetall Polska Sp.z o.o.
+Chemetall S.A.
+Chemetall S.A.S.
+100% indirectly through Knight Chimiques de Spécialité S.A.S.
+Chemetall South Africa (Proprietary) Ltd.
+CM-Hilfe GmbH Unterstützungskasse
+DNVJ Vermögensverwaltung GmbH
+Hebro Chemie GmbH
+Holliday Chemical Espana S.A.
+Holliday France S.A.S.
+100% indirectly through Knight Chimiques de Spécialité S.A.S.
+Holliday Pigments International S.A.S.
+100% indirectly through Knight Chimiques de Spécialité S.A.S.
+Holliday Pigments S.A.S.
+100% indirectly through Knight Chimiques de Spécialité S.A.S.
+Knight Chimiques de Spécialité S.A.S.
+100% indirectly through Rockwood Specialties Group, Inc. and Rockwood Specialties Inc.
+Metalon Stolberg Vermögensverwaltung GmbH Gesellschaft mit beschränkter Haftung
+PIGMENT-CHEMIE GmbH
+Press + Sintertechnik Sp.z o.o.
+Press and Sinter Technics de Mexico, S.A. de C.V.
+100% indirectly through CeramTec GmbH and Cerasiv GmbH Innovatives Keramik-Engineering
+Rockwood (Ningbo) Chemicals Corporation Limited
+Rockwood Absorbents (Baulking) Limited
+Rockwood Clay Additives GmbH
+Rockwood Italia S.p.A.
+Rockwood Pigmente Holding GmbH
+Rockwood Pigments (UK) Limited
+Rockwood Specialties GmbH
+Rockwood Specialties Group GmbH
+Rockwood Vermögensverwaltung GmbH
+100% indirectly through Knight Chimiques de Spécialité S.A.S.
+Sachtleben Chemie GmbH
+Sachtleben GmbH
+Sachtleben Trading (Shanghai) Company Limited
+Sachtleben Wasserchemie (Holding) GmbH
+Sachtleben Wasserchemie GmbH
+100% indirectly through Sachtleben Wasserchemie (Holding) GmbH
+Silo Pigmente GmbH
+Chemetall Ges.mbH, Wien
+Chemetall Ges.mbH, Wien
+Chemetall Ges.mbH, Wien
+Ceramtec Etec GmbH
+Ceramtec Etec GmbH
+Ceramtec Etec GmbH
+Ceramtec Etec GmbH
+TiO2 Sachtleben Pigments Oy
+Tio2 Sachtleben Pigments Oy
+TiO2 Sachtleben Chemie GmbH
+Chemetall GmbH
+Sachtleben Chemie GmbH
+Rockwood Specialties Group GmbH
+Orica Europe GmbH
+Rockwood Specialties Group GmbH
+Bezirksregierung Düsseldorf
+Rockwood Specialties Group GmbH
+Sachtleben Chemie GmbH
+Bezirksregierung Düsseldorf
+Sachtleben Chemie GmbH
+Chermetall Italia SRL
+Rockwood Specialties Limited and its UK Subsidiaries
+Rockwood Specialties Limited and its UK Subsidiaries
+Rockwood Specialties Limited and its UK Subsidiaries
+Rockwood Specialties Group GmbH
+Commerzbank AG
+Rockwood Specialties Group GmbH
+Commerzbank AG
+Zweckverband JenaWasser
+Rockwood Specialties Group GmbH
+Commerzbank AG
+Rockwood Specialties Group GmbH
+Rockwood Specialties Group GmbH and subsidiaries
+Commerzbank AG
+Sachtleben Chemie GmbH
+Dresdner Bank AG
+Chemetall Hispania, S.A.
+Chemetall Hispania, S.A.
+Chemetall Hispania, S.A.
+CeramTec GmbH
+Chemetall GmbH
+natGas AG, Belgium
+Commerzbank AG
+Chemetall Ges.mbH
+Verkehrskreditbank AG / ÖBB
+Chemetall Ges.mbH
+CeramTec Innovative Ceramic Engineering (M) Sdn.
+CeramTec Innovative Ceramic Engineering (M) Sdn.
+CeramTec Innovative Ceramic Engineering (M) Sdn.
+CeramTec Innovative Ceramic Engineering (M) Sdn.
+Rockwood Specialties Group GmbH
+Rockwood Specialties Group GmbH
+Rockwood Specialties Group GmbH
+Sachtleben Wasserrchemie GmbH
+Rockwood Specialties Group GmbH
+Commerzbank AG
+CeramTec Innovative Ceramic Engineering (M) Sdn.
+CeramTec Etec GmbH
+Pohjola Bank PLC
+Sachtleben Chemie GmbH
+Chemetall Ges mbH, Austria
+Chemetall Ges mbH, Austria
+Sachtleben Chemie GmbH
+Chemetall US, Inc.
+CeramTec North America Innovative Engineering Corporation
+MailFinance, Inc. d/b/a Neopost
+Chemetall GmbH
+Chemetall GmbH
+Chemetall US, Inc.
+Sachtleben Chemie GmbH
+Chemetall GmbH
+Chemetall India Company Limited & Chemetall GmbH
+Chemetall GmbH
+Chemetall GmbH & Shanghai Chemetall Chemicals Co., Ltd.
+Sachtleben Chemie GmbH
+Sachtleben Chemie GmbH
+Chemetall Ges.m.b.H
+Chemetall GmbH & Shanghai Chemetall Chemicals Co., Ltd.
+TO THE CREDIT AGREEMENT
+[FORM OF GUARANTEE]
+GUARANTEE dated as of February 10, 2011, made among ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware corporation (“Holdings”), each of the subsidiaries of ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Borrower”), listed on Annex A hereto (each such subsidiary individually, a “Subsidiary Guarantor” and, collectively, the “Subsidiary Guarantors”; the Subsidiary Guarantors and Holdings are referred to collectively as the “Guarantors”) and CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as administrative agent and collateral agent (in such capacity, the “Administrative Agent”) for the lenders (the “Lenders”) from time to time parties to the Credit Agreement dated as of February10, 2011 (as the same may be amended, supplemented or otherwise modified from time to time, the “Credit Agreement”), among the Borrower, Holdings, the Lenders, the Administrative Agent, KKR Capital Markets LLC, as syndication agent (in such capacity, the “Syndication Agent”) for the Lenders, and Deutsche Bank Securities Inc., Morgan Stanley Senior Funding, Inc. and UBS Securities LLC, as co-documentation agents (in such capacities, the “Co-Documentation Agents”) for the Lenders.
+EACH GUARANTOR HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES TRIAL BY JURY IN ANY LEGAL ACTION OR PROCEEDING RELATING TO THIS GUARANTEE, ANY OTHER CREDIT DOCUMENT AND FOR ANY COUNTERCLAIM THEREIN.
+THIS GUARANTEE AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+ROCKWOOD SPECIALTIES INTERNATIONAL, INC.,
+CERAMTEC NORTH AMERICA CORPORATION,
+CHEMETALL CORPORATION,
+CHEMETALL FOOTE CORP.,
+CHEMETALL US, INC.,
+CHEMICAL SPECIALTIES, INC.,
+ETEC-DURAWEAR, INC.,
+ETEC TECHNICAL CERAMICS CORP.,
+EXCALIBUR REALTY COMPANY,
+FOOTE CHILE HOLDING COMPANY,
+POOL SPA HOLDINGS, INC.,
+ROCKWOOD PIGMENTS NA, INC.,
+ROCKWOOD SPECIALTIES INC.,
+ROCKWOOD SPECIALTIES GROUP, INC.,,
+SOUTHERN CLAY PRODUCTS, INC.,
+SOUTHERN COLOR N.A., INC.,
+CREDIT SUISSE AG,
+CAYMAN ISLANDS BRANCH, as Administrative Agent
+TO THE GUARANTEE
+SUBSIDIARY GUARANTORS
+CeramTec North America Corporation
+Chemetall US, Inc.
+Chemical Specialties, Inc.
+ETEC-Durawear, Inc.
+ETEC Technical Ceramics Corp.
+Pool Spa Holdings, Inc.
+Rockwood Pigments NA, Inc.
+Rockwood Specialties Group,Inc.
+Rockwood Specialties Inc..
+Southern Clay Products, Inc.
+Southern Color N.A., Inc.
+[  ] dated as of [            ], to the Guarantee dated as of February 10, 2011, among ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware corporation (“Holdings”), each of the subsidiaries of ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Borrower”) listed on Annex A thereto (each such subsidiary individually, a “Subsidiary Guarantor”, and, collectively, the “Subsidiary Guarantors”; the Subsidiary Guarantors and Holdings are referred to collectively as the “Guarantors”) and CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as administrative agent and collateral agent (in such capacity, the “Administrative Agent”) for the lenders to the Borrower (the “Lenders”) from time to time parties to the Credit Agreement referred to below.
+Reference is made to (a) the Credit Agreement dated as of February 10, 2011 (as amended, supplemented or otherwise modified from time to time, the “Credit Agreement”), among Holdings, the Borrower, the Administrative Agent, KKR Capital Markets LLC, as syndication agent (in such capacity, the “Syndication Agent”) for the Lenders, and Deutsche Bank Securities Inc., Morgan Stanley Senior Funding, Inc. and UBS Securities LLC, as co-documentation agents (in such capacities, the “Co-Documentation Agents”) for the Lenders.
+Each undersigned Subsidiary (each a “New Guarantor”) is executing this Supplement in accordance with the requirements of the Credit Agreement to become a Guarantor under the Guarantee in order to induce the Lenders and the Letter of Credit Issuer to make additional Extensions of Credit and as consideration for Extensions of Credit previously made.
+[NAME OF NEW GUARANTOR],
+CREDIT SUISSE AG,
+CAYMAN ISLANDS BRANCH, as Administrative Agent
+TO THE CREDIT AGREEMENT
+New York, New York 10022-4802
+Attn: Shira E. Bressler, Esq.
+MORTGAGE, SECURITY AGREEMENT, ASSIGNMENT OF RENTS
+AND LEASES AND FIXTURE FILING
+This MORTGAGE, SECURITY AGREEMENT, ASSIGNMENT OF RENTS AND LEASES AND FIXTURE FILING, dated as of                                , 2011 (as it may be amended, supplemented or otherwise modified from time to time, this “Mortgage”), by and from [ROCKWOOD ENTITY], a                                     , with an address at                                                        (“Mortgagor”) to CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH,  with an address at 11 Madison Avenue, New York, New York 10010, as Collateral Agent for the benefit of the Secured Parties (in such capacity, together with its successors and assigns, “Mortgagee”).
+WHEREAS, reference is made to that certain Credit Agreement, dated as of the date hereof (as it may be amended, amended and restated, restated, replaced, supplemented or otherwise modified, the “Credit Agreement”), entered into by and among ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (“Borrower”), ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware corporation, MORTGAGOR, CERTAIN OTHER SUBSIDIARIES OF BORROWER, as Guarantors, the Lenders party thereto from time to time, MORTGAGEE, as administrative agent and collateral agent (together with its permitted successors in such capacity), and KKR CAPITAL MARKETS LLC, as Syndication Agent;
+to the Land, Improvements, Fixtures or Personalty (the “Condemnation Awards”).
+SECURITY AGREEMENT
+MORTGAGEE AS AGENT.
+UPON PAYMENT AND PERFORMANCE IN FULL OF THE OBLIGATIONS, SUBJECT TO AND IN ACCORDANCE WITH THE TERMS AND PROVISIONS OF THE CREDIT AGREEMENT, MORTGAGEE, AT MORTGAGOR’S EXPENSE, SHALL RELEASE THE LIENS AND SECURITY INTERESTS CREATED BY THIS MORTGAGE OR RECONVEY THE MORTGAGED PROPERTY TO MORTGAGOR.
+MORTGAGOR ACKNOWLEDGES THAT THIS MORTGAGE IS ONE OF A NUMBER OF MORTGAGES AND OTHER SECURITY DOCUMENTS (“OTHER MORTGAGES”) THAT SECURE THE OBLIGATIONS.
+SUBJECT TO THE TERMS OF SECTION 9 HEREOF,  THE LIEN OF THIS MORTGAGE SHALL NOT IN ANY MANNER BE IMPAIRED OR AFFECTED BY ANY RELEASE (EXCEPT AS TO THE PROPERTY RELEASED), SALE, PLEDGE, SURRENDER, COMPROMISE, SETTLEMENT, RENEWAL, EXTENSION, INDULGENCE, ALTERATION, CHANGING, MODIFICATION OR DISPOSITION OF
+THE PROVISIONS OF THIS MORTGAGE REGARDING THE CREATION, PERFECTION AND ENFORCEMENT OF THE LIENS AND SECURITY INTERESTS HEREIN GRANTED SHALL BE GOVERNED BY AND CONSTRUED UNDER THE LAWS OF THE STATE IN WHICH THE MORTGAGED PROPERTY IS LOCATED.
+EACH OF THE PARTIES HERETO HEREBY AGREES TO WAIVE, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ITS RESPECTIVE RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING HEREUNDER OR UNDER ANY OF THE OTHER LOAN DOCUMENTS OR ANY DEALINGS BETWEEN THEM RELATING TO THE SUBJECT MATTER OF THIS LOAN TRANSACTION OR THE LENDER/BORROWER RELATIONSHIP THAT IS BEING ESTABLISHED.
+EACH PARTY HERETO ACKNOWLEDGES THAT THIS WAIVER IS A MATERIAL INDUCEMENT TO ENTER INTO A BUSINESS RELATIONSHIP, THAT EACH HAS ALREADY RELIED ON THIS WAIVER IN ENTERING INTO THIS AGREEMENT, AND THAT EACH WILL CONTINUE TO RELY ON THIS WAIVER IN ITS RELATED FUTURE DEALINGS.
+EACH PARTY HERETO FURTHER WARRANTS AND REPRESENTS THAT IT HAS REVIEWED THIS WAIVER WITH ITS LEGAL COUNSEL AND THAT IT KNOWINGLY AND VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH LEGAL COUNSEL.
+THIS WAIVER IS IRREVOCABLE, MEANING THAT IT MAY NOT BE MODIFIED EITHER ORALLY OR IN WRITING (OTHER THAN BY A MUTUAL WRITTEN WAIVER SPECIFICALLY REFERRING TO THIS SECTION 12.6 AND EXECUTED BY EACH OF THE PARTIES HERETO), AND THIS WAIVER WILL APPLY TO ANY SUBSEQUENT AMENDMENTS, RENEWALS, SUPPLEMENTS OR MODIFICATIONS HERETO OR ANY OF THE OTHER LOAN DOCUMENTS OR TO ANY OTHER DOCUMENTS OR AGREEMENTS RELATING TO THE LOANS MADE HEREUNDER.
+IN THE EVENT OF LITIGATION, THIS AGREEMENT MAY BE FILED AS A WRITTEN CONSENT TO A TRIAL BY THE COURT.
+[APPROPRIATE NOTARY BLOCK TO BE PROVIDED BY LOCAL COUNSEL]
+TO THE CREDIT AGREEMENT
+In connection with that certain Credit Agreement, dated as of February 10, 2011, by and among ROCKWOOD SPECIALTIES GROUP, INC., ROCKWOOD SPECIALTIES INTERNATIONAL, INC., CREDIT SUISSE SECURITIES (USA) LLC, DEUTSCHE BANK SECURITIES, INC. (“DBSI”), MORGAN STANLEY SENIOR FUNDING, INC. (“MSSF”), and UBS SECURITIES LLC (“UBS Securities”), as Joint Bookrunners and Joint Lead Arrangers, KKR CAPITAL MARKETS LLC (“KKR”), as Joint Arranger and Manager, DBSI, MSSF and UBS Securities, as Co-Documentation Agents, KKR, as syndication agent, and Credit Suisse AG, as Administrative Agent and as Collateral Agent (the “Collateral Agent”) and the Security Agreement, Pledge Agreement and Guarantee referred to therein, each Grantor (as defined in the Security Agreement) hereby certifies as follows:
+corporation, limited
+liability company,
+limited partnership)
+IN WITNESS WHEREOF, the undersigned hereto has caused this Pre-Closing UCC Diligence Certificate to be executed as of this       day of February, 2011 by its officer thereunto duly authorized.
+ROCKWOOD SPECIALTIES GROUP, INC.
+[INSERT NAME OF EACH OTHER GRANTOR]
+TO THE CREDIT AGREEMENT
+PLEDGE AGREEMENT
+PLEDGE AGREEMENT dated as of February 10, 2011, among ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware corporation (“Holdings”), ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Borrower”), the undersigned Subsidiaries of the Borrower listed on Schedule 1 hereto (each a “Subsidiary Pledgor” and, collectively, the “Subsidiary Pledgors”; the Borrower, Holdings and the Subsidiary Pledgors are referred to collectively herein as the “Pledgors”) and CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as administrative agent and collateral agent (in such capacity, the “Administrative Agent”) for the lenders (the “Lenders”) from time to time parties to the Credit Agreement dated as of February 10, 2011 (as the same may be amended, supplemented or otherwise modified from time to time, the “Credit Agreement”), among the Borrower, Holdings, the Lenders, the Administrative Agent, KKR Capital Markets LLC, as syndication agent (in such capacity, the “Syndication Agent”) for the Lenders, and Deutsche Bank Securities Inc., Morgan Stanley Senior Funding, Inc. and UBS Securities LLC, as co-documentation agents (in such capacities, the “Co-Documentation Agents”) for the Lenders.
+EACH PLEDGOR HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES TRIAL BY JURY IN ANY LEGAL ACTION OR PROCEEDING RELATING TO THIS PLEDGE AGREEMENT, ANY OTHER CREDIT DOCUMENT AND FOR ANY COUNTERCLAIM THEREIN.
+THIS PLEDGE AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE
+GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+CERAMTEC NORTH AMERICA CORPORATION,
+CHEMETALL CORPORATION,
+CHEMETALL FOOTE CORP.,
+CHEMETALL US, INC.,
+CHEMICAL SPECIALTIES, INC.,
+ETEC-DURAWEAR, INC.,
+ETEC TECHNICAL CERAMICS CORP.,
+EXCALIBUR REALTY COMPANY,
+FOOTE CHILE HOLDING COMPANY,
+POOL SPA HOLDINGS, INC.,
+ROCKWOOD PIGMENTS NA, INC.,
+ROCKWOOD SPECIALTIES INC.,
+ROCKWOOD SPECIALTIES GROUP, INC.,,
+SOUTHERN CLAY PRODUCTS, INC.,
+SOUTHERN COLOR N.A., INC.,
+CREDIT SUISSE AG,
+CAYMAN ISLANDS BRANCH, as Administrative Agent
+TO THE PLEDGE AGREEMENT
+SUBSIDIARY PLEDGORS
+CeramTec North America Corporation
+Chemetall US, Inc.
+Chemical Specialties, Inc.
+ETEC-Durawear, Inc.
+ETEC Technical Ceramics Corp.
+Pool Spa Holdings, Inc.
+Rockwood Pigments NA, Inc.
+Rockwood Specialties Group,Inc.
+Rockwood Specialties Inc..
+Southern Clay Products, Inc.
+Southern Color N.A., Inc.
+TO THE PLEDGE AGREEMENT
+PLEDGE AGREEMENT
+[  ] dated as of [            ], to the Pledge Agreement (the “Pledge Agreement”) dated as of February 10, 2011, among ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware corporation (“Holdings”) ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Borrower”), the Subsidiaries of the Borrower listed on Schedule 1 thereto (each a “Subsidiary Pledgor” and, collectively, the “Subsidiary Pledgors”; the Borrower, Holdings and the Subsidiary Pledgors are referred to collectively herein as the “Pledgors”) and CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as administrative agent and collateral agent (in such capacity, the “Administrative Agent”) for the lenders (the “Lenders”) from time to time parties to the Credit Agreement referred to below.
+Reference is made to (a) the Credit Agreement dated as of February 10, 2011 (as amended, supplemented or otherwise modified from time to time, the “Credit Agreement”), among the Borrower, Holdings, the Lenders, the Administrative Agent, KKR Capital Markets LLC, as syndication agent (in such capacity, the “Syndication Agent”) for the Lenders, and Deutsche Bank Securities Inc., Morgan Stanley Senior Funding, Inc. and UBS Securities LLC, as co-documentation agents (in such capacities, the “Co-Documentation Agents”) for the Lenders and (b) the Guarantee dated as of February 10, 2011 (as amended, supplemented or otherwise modified from time to time, the “Guarantee”), among the Borrower, Holdings, the Subsidiary Guarantors party thereto and the Administrative Agent.
+D.  The undersigned [Pledgors] [Domestic Subsidiaries] (each an “Additional Pledgor”) are (a) the legal and beneficial owners of the Equity Interests described under Schedule 1 hereto and issued by the entities named therein (such pledged Equity Interests, together with any Equity Interests obtained in the future of the issuer of such Pledged Shares (the “After-acquired Additional Pledged Shares”), referred to collectively herein as the “Additional Pledged Shares”) and (b) the legal and beneficial owners of the Indebtedness (the “Additional Pledged Debt”) described under Schedule 1 hereto.
+CREDIT SUISSE AG,
+CAYMAN ISLANDS BRANCH,
+TO THE CREDIT AGREEMENT
+FIRST-LIEN INTERCREDITOR AGREEMENT
+ROCKWOOD SPECIALTIES GROUP, INC.,
+ROCKWOOD SPECIALTIES INTERNATIONAL, INC.,
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH
+as Credit Agreement Collateral Agent for the Credit Agreement Secured Parties,
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH
+as Authorized Representative for the Credit Agreement Secured Parties,
+FIRST-LIEN INTERCREDITOR AGREEMENT, dated as of [            ], 20[·] (as amended, restated, amended and restated, extended, supplemented or otherwise modified from time to time, this “Agreement”), among ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Company”), ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware Corporation (“Holdings”), the other Grantors (as defined below) from time to time party hereto, CREDIT SUISSE AG, CAYMAN ISLAND BRANCH, as administration agent and collateral agent for the Credit Agreement Secured Parties (as defined below) (in such capacity and together with its successors in such capacity, the “Credit Agreement Collateral Agent”), CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as Authorized Representative for the Credit Agreement Secured Parties (as each such term is defined below), [·], as the collateral agent and Authorized Representative for the Initial Additional First-Lien Secured Parties (as defined below) (in such capacity and together with its successors in such capacity, the “Initial Additional Authorized Representative”) and each additional Authorized Representative from time to time party hereto for the other Additional First-Lien Secured Parties of the Series (as defined below) with respect to which it is acting in such capacity.
+THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+4.09      WAIVER OF JURY TRIAL.
+EACH PARTY HERETO HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES TRIAL BY JURY IN ANY LEGAL ACTION OR PROCEEDING RELATING TO THIS AGREEMENT OR FOR ANY COUNTERCLAIM THEREIN.
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as Collateral Agent
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH,
+ROCKWOOD SPECIALTIES GROUP, INC.
+ROCKWOOD SPECIALTIES INTERNATIONAL, INC.
+TO FORM OF FIRST-LIEN INTERCREDITOR AGREEMENT
+TO FORM OF FIRST-LIEN INTERCREDITOR AGREEMENT
+[FORM OF] JOINDER NO.
+[·]dated as of [·], 20[·] to the FIRST-LIEN INTERCREDITOR AGREEMENT dated as of [·], 20[ ] (the “First-Lien Intercreditor Agreement”), among among ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Company”), ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware Corporation (“Holdings”), certain subsidiaries and affiliates of the Company (each, a “Grantor”), CREDIT SUISSE AG, CAYMAN ISLAND BRANCH, as Credit Agreement Collateral Agent for the Credit Agreement Secured Parties under the First-Lien Security Documents (in such capacity, the “Credit Agreement Collateral Agent”), CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as Authorized Representative for the Credit Agreement Secured Parties, as Initial Additional Authorized Representative, and the additional Authorized Representatives from time to time a party thereto.
+The undersigned Additional Senior Class Debt Representative (the “New Representative”) is executing this Joinder Agreement in accordance with the requirements of the First-Lien Intercreditor Agreement and the First-Lien Security Documents.
+[NAME OF NEW REPRESENTATIVE], as
+TO FORM OF FIRST-LIEN INTERCREDITOR AGREEMENT
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH,
+as the Credit Agreement Collateral Agent and Authorized Representative,
+ROCKWOOD SPECIALTIES GROUP, INC., as Company
+ROCKWOOD SPECIALTIES INTERNATIONAL, INC., as Holdings
+FIRST-LIEN INTERCREDITOR AGREEMENT
+TO THE CREDIT AGREEMENT
+SECOND LIEN INTERCREDITOR AGREEMENT
+ROCKWOOD SPECIALTIES GROUP, INC.,
+ROCKWOOD SPECIALTIES INTERNATIONAL, INC.,
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH
+as Credit Agreement Collateral Agent for the Credit Agreement Secured Parties,
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH
+as Authorized Representative for the Credit Agreement Secured Parties,
+SECOND LIEN INTERCREDITOR AGREEMENT dated as of [        ], 20[ ] (as amended, supplemented or otherwise modified from time to time, this “Agreement”), among ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Company”), ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware Corporation (“Holdings”) the other Grantors (as defined below) from time to time party hereto, CREDIT SUISSE AG, CAYMAN ISLAND BRANCH, as Representative for the Credit Agreement Secured Parties (in such capacity, the “Administrative Agent”), [INSERT NAME AND CAPACITY], as Representative for the Initial Second Priority Debt Parties (in such capacity and together with its successors in such capacity, the “Initial Second Priority Representative”), [[                 ], as Representative for the Additional Senior Debt Parties under the [describe applicable Additional Senior Debt Facility]]and each additional Second Priority Representative and Senior Representative that from time to time becomes a party hereto pursuant to Section 8.09.
+(c)                                  if to the Administrative Agent, to it at: [Credit Suisse AG, One Madison Avenue, New York, New York 10010, Attention of [S], (Fax No.
+8.12                           GOVERNING LAW; WAIVER OF JURY TRIAL.
+THIS AGREEMENT SHALL BE GOVERNED BY, AND CON-STRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK WITHOUT REGARD TO THE PRINCIPLES OF CONFLICTS OF LAWS, EXCEPT AS REQUIRED BY MANDATORY PROVISIONS OF LAW.
+EACH PARTY HERETO HEREBY IRREVOCABLY AND UN-CONDITIONALLY WAIVES TRIAL BY JURY IN ANY LEGAL ACTION OR PRO-CEEDING RELATING TO THIS AGREEMENT AND FOR ANY COUNTERCLAIM THEREIN.
+CREDIT SUISSE AG, CAYMAN ISLANDS
+BRANCH, as Administrative Agent
+ROCKWOOD SPECIALTIES GROUP, INC.
+ROCKWOOD SPECIALTIES INTERNATIONAL, INC.
+THE GRANTORS LISTED ON ANNEX I HERETO
+TO FORM OF SECOND-LIEN INTERCREDITOR AGREEMENT
+TO FORM OF SECOND-LIEN INTERCREDITOR AGREEMENT
+[ ] dated as of , to the SECOND LIEN INTERCREDITOR AGREEMENT dated as of [       ], 20[ ] (the “Second Lien Intercreditor Agreement”), among ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Company”), ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware Corporation (“Holdings”), certain subsidiaries and affiliates of the Company (each a “Grantor”), Credit Suisse AG, Cayman Islands Branch, as Administrative Agent under the Credit Agreement, [          ], as Initial Second Priority Representative, and the additional Representatives from time to time a party thereto.
+The undersigned Subsidiary (the “New Grantor”) is executing this Supplement in accordance with the requirements of the Credit Agreement, the Second Priority Debt Documents and Additional Senior Debt Documents.
+IN WITNESS WHEREOF, the New Grantor, and the Designated Senior Representative have duly executed this Supplement to the Second Lien Intercreditor Agreement as of the day and year first above written.
+TO FORM OF FIRST-LIEN INTERCREDITOR AGREEMENT
+[FORM OF] REPRESENTATIVE SUPPLEMENT NO.
+[ ] dated as of [ ], 20[ ] to the SECOND LIEN INTERCREDITOR AGREEMENT dated as of [              ], 20[ ] (the “Second Lien Intercreditor Agreement”), among ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Company”), ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware Corporation (“Holdings”), certain subsidiaries and affiliates of the Company (each a “Grantor”), Credit Suisse AG, Cayman Islands Branch, as Administrative Agent under the Credit Agreement, [       ], as Initial Second Priority Representative, and the additional Representatives from time to time a party thereto.
+THIS REPRESENTATIVE SUPPLEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+ROCKWOOD SPECIALTIES GROUP, INC.
+ROCKWOOD SPECIALTIES INTERNATIONAL, INC.
+SECOND LIEN INTERCREDITOR AGREEMENT
+SECOND LIEN INTERCREDITOR AGREEMENT
+[FORM OF] REPRESENTATIVE SUPPLEMENT NO.
+[ ] dated as of [ ], 20[ ] to the SECOND LIEN INTERCREDITOR AGREEMENT dated as of [              ], 20[ ] (the “Second Lien Intercreditor Agreement”), among ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Company”), ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware Corporation (“Holdings”), certain subsidiaries and affiliates of the Company (each a “Grantor”), Credit Suisse AG, Cayman Islands Branch, as Administrative Agent under the Credit Agreement, [       ], as Initial Second Priority Representative, and the additional Representatives from time to time a party thereto.
+THIS REPRESENTATIVE SUPPLEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF NEW YORK.
+ROCKWOOD SPECIALTIES GROUP, INC.
+ROCKWOOD SPECIALTIES INTERNATIONAL, INC.
+TO THE SECURITY AGREEMENT
+SECURITY AGREEMENT
+THIS SECURITY AGREEMENT dated as of February 10, 2011, among ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware corporation (“Holdings”), ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Borrower”), each of the Subsidiaries of the Borrower listed on Annex A hereto (each such undersigned Subsidiary being a “Subsidiary Grantor” and collectively the “Subsidiary Grantors”; the Subsidiary Grantors, Holdings and the Borrower are referred to collectively as the “Grantors”) and CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as administrative agent and as collateral agent (in such capacity, the “Administrative Agent”) for the lenders (“Lenders”) from time to time party to the Credit Agreement dated as of February 10, 2011 (as the same may be amended, supplemented or otherwise modified from time to time, the “Credit Agreement”), among the Borrower, Holdings, the Lenders, the Administrative Agent, KKR Capital Markets LLC, as syndication agent (in such capacity, the “Syndication Agent”) for the Lenders, and Deutsche Bank Securities Inc., Morgan Stanley Senior Funding, Inc. and UBS Securities LLC, as co-documentation agents (in such capacities, the “Co-Documentation Agents”) for the Lenders.
+THIS SECURITY AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+8.14  WAIVER OF JURY TRIAL.
+EACH GRANTOR HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVES TRIAL BY JURY IN ANY LEGAL ACTION OR PROCEEDING RELATING TO THIS SECURITY AGREEMENT, ANY OTHER CREDIT DOCUMENT AND FOR ANY COUNTERCLAIM THEREIN.
+ROCKWOOD SPECIALTIES INTERNATIONAL, INC.,
+ROCKWOOD SPECIALTIES GROUP, INC.,
+CERAMTEC NORTH AMERICA CORPORATION,
+CHEMETALL CORPORATION,
+CHEMETALL FOOTE CORP.,
+CHEMETALL US, INC.,
+CHEMICAL SPECIALTIES, INC.,
+ETEC-DURAWEAR, INC.,
+ETEC TECHNICAL CERAMICS CORP.,
+EXCALIBUR REALTY COMPANY,
+FOOTE CHILE HOLDING COMPANY,
+POOL SPA HOLDINGS, INC.,
+ROCKWOOD PIGMENTS NA, INC.,
+ROCKWOOD SPECIALTIES INC.,
+ROCKWOOD SPECIALTIES GROUP, INC.,,
+SOUTHERN CLAY PRODUCTS, INC.,
+SOUTHERN COLOR N.A., INC.,
+CREDIT SUISSE AG,
+CAYMAN ISLANDS BRANCH, as Administrative Agent
+SECURITY AGREEMENT
+SUBSIDIARY GRANTORS
+CeramTec North America Corporation
+Chemetall US, Inc.
+Chemical Specialties, Inc.
+ETEC-Durawear, Inc.
+ETEC Technical Ceramics Corp.
+Pool Spa Holdings, Inc.
+Rockwood Pigments NA, Inc.
+Rockwood Specialties Group,Inc.
+Rockwood Specialties Inc..
+Southern Clay Products, Inc.
+Southern Color N.A., Inc.
+Princeton, NJ 08540]
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+[  ] dated as of [             ], to the Security Agreement dated as of February 10, 2011, among ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Borrower”), ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware corporation (“Holdings”), each subsidiary of the Borrower listed on Schedule 1 thereto (each such subsidiary individually a “Subsidiary Grantor” and, collectively, the “Subsidiary Grantors”; the Subsidiary Grantors, Holdings and the Borrower are referred to collectively herein as the “Grantors”), CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as administrative agent and collateral agent (in such capacity, the “Administrative Agent”) for the lenders (the “Lenders”) from time to time parties to the Credit Agreement referred to below.
+Reference is made to (a) the Credit Agreement dated as of February 10, 2011 (as amended, supplemented or otherwise modified from time to time, the “Credit Agreement”), among the Borrower, Holdings, the Lenders, the Administrative Agent, KKR Capital Markets LLC, as syndication agent and Deutsche Bank Securities, Inc., Morgan Stanley Senior Funding, Inc. and UBS Securities LLC, as co-documentation agents (in such capacity, the “Co-Documentation Agents”) for the Lenders, and (b) the Guarantee dated as of February 10, 2011 (as amended, supplemented or otherwise modified from time to time, the “Guarantee”), among the Borrower, Holdings, the Subsidiary Guarantors party thereto and the Administrative Agent.
+Each undersigned Subsidiary (each a “New Grantor”) is executing this Supplement in accordance with the
+CREDIT SUISSE AG,
+CAYMAN ISLANDS BRANCH, as Administrative Agent
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+[  ] dated as of [             ], to the Security Agreement dated as of February 10, 2011, among ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Borrower”), ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware corporation (“Holdings”), each subsidiary of the Borrower listed on Schedule 1 thereto (each such subsidiary individually a “Subsidiary Grantor” and, collectively, the “Subsidiary Grantors”; the Subsidiary Grantors, Holdings and the Borrower are referred to collectively herein as the “Grantors”), CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as administrative agent and collateral agent (in such capacity, the “Administrative Agent”) for the lenders (the “Lenders”) from time to time parties to the Credit Agreement referred to below.
+Reference is made to (a) the Credit Agreement dated as of February 10, 2011 (as amended, supplemented or otherwise modified from time to time, the “Credit Agreement”), among the Borrower, Holdings, the Lenders, the Administrative Agent, KKR Capital Markets LLC, as syndication agent AND Deutsche Bank Securities Inc., Morgan Stanley Senior Funding, Inc. and UBS Securities LLC, as co-documentation agents (in such capacity, the “Co-Documentation Agents”) for the Lenders, and (b) the Guarantee dated as of February 10, 2011 (as amended, supplemented or otherwise modified from time to time, the “Guarantee”), among the Borrower, Holdings, the Subsidiary Guarantors party thereto and the Administrative Agent.
+[GRANTOR],
+CREDIT SUISSE AG,
+CAYMAN ISLANDS BRANCH,
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+SECURITY AGREEMENT
+TO THE SECURITY AGREEMENT
+FORM OF TRADEMARK SECURITY AGREEMENT
+This TRADEMARK SECURITY AGREEMENT, dated as of February 10, 2011 (as it may be amended, restated, supplemented or otherwise modified from time to time, this “Agreement”), is made by the entities identified as grantors on the signature pages hereto (collectively, the “Grantors”) in favor of CREDIT SUISSE AG, as administrative agent for the Secured Parties (in such capacity, together with its successors and permitted assigns, the “Administrative Agent”).
+WHEREAS, the Grantors are party to a Security Agreement dated as of February 10, 2011 (the “Security Agreement”) between each of the Grantors and the other grantors party thereto and the Administrative Agent pursuant to which the Grantors granted a security interest to the Administrative Agent in the Trademark Collateral (as defined below) and are required to execute and deliver this Agreement.
+THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+CREDIT SUISSE AG,
+CAYMAN ISLANDS BRANCH,
+SCHEDULE A
+to
+TRADEMARK SECURITY AGREEMENT
+TO THE SECURITY AGREEMENT
+FORM OF PATENT SECURITY AGREEMENT
+This PATENT SECURITY AGREEMENT, dated as of February 10, 2011 (as it may be amended, restated, supplemented or otherwise modified from time to time, this “Agreement”), is made by the entities identified as grantors on the signature pages hereto (collectively, the “Grantors”) in favor of CREDIT SUISSE AG, as administrative agent for the Secured Parties (in such capacity, together with its successors and permitted assigns, the “Administrative Agent”).
+WHEREAS, the Grantors are party to a Security Agreement dated as of February February 10, 2011 (the “Security Agreement”) between each of the Grantors and the other grantors party thereto and the Administrative Agent pursuant to which the Grantors granted a security interest to the Administrative Agent in the Patent Collateral (as defined below) and are required to execute and deliver this Agreement.
+THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+CREDIT SUISSE AG,
+CAYMAN ISLANDS BRANCH,
+SCHEDULE A
+to
+PATENT SECURITY AGREEMENT
+TO THE SECURITY AGREEMENT
+FORM OF COPYRIGHT SECURITY AGREEMENT
+This COPYRIGHT SECURITY AGREEMENT, dated as of February 10, 2011 (as it may be amended, restated, supplemented or otherwise modified from time to time, this “Agreement”), is made by the entities identified as grantors on the signature pages hereto (collectively, the “Grantors”) in favor of CREDIT SUISSE AG, as administrative agent for the Secured Parties (in such capacity, together with its successors and permitted assigns, the “Administrative Agent”).
+WHEREAS, the Grantors are party to a Security Agreement dated as of February February 10, 2011 (the “Security Agreement”) between each of the Grantors and the other grantors party thereto and the Administrative Agent pursuant to which the Grantors granted a security interest to the Administrative Agent in the Copyright Collateral (as defined below) and are required to execute and deliver this Agreement.
+THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES HEREUNDER SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+CREDIT SUISSE AG,
+CAYMAN ISLANDS BRANCH,
+SCHEDULE A
+to
+COPYRIGHT SECURITY AGREEMENT
+EXCLUSIVE INBOUND COPYRIGHT LICENSES
+EXHIBIT G
+TO THE CREDIT AGREEMENT
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as Administrative Agent and as the Letter of Credit Issuer, under the Credit Agreement dated as of February     , 2011 (as the same may be amended, supplemented or otherwise modified from time to time, the “Credit Agreement”), among Rockwood Specialties Group, Inc., and Rockwood Specialties International, Inc., the several lenders from time to time parties thereto, the Administrative Agent referred to above and KKR Capital Markets LLC, as Syndication Agent.
+The undersigned hereby requests that the Letter of Credit Issuer issue a Letter of Credit on                           (10) (the “Date of Issuance, in the aggregate stated amount of the Dollar Equivalent of                           (11) in                           (12).
+ROCKWOOD SPECIALTIES GROUP, INC.,
+TO THE CRDIT AGREEMENT
+TO THE CRDIT AGREEMENT
+EXHIBIT I
+TO THE CREDIT AGREEMENT
+Reference is made to the Credit Agreement dated as of February     , 2011 (as amended, supplemented or otherwise modified from time to time, the “Credit Agreement”), among Rockwood Specialties Group, Inc., a Delaware corporation, Rockwood Specialties International, Inc., a Delaware corporation, the lending institutions from time to time parties thereto, Credit Suisse AG, Cayman Islands Branch, as Administrative Agent and as Collateral Agent and KKR Capital Markets LLC, as Syndication Agent.
+The undersigned [President or Vice President] of [             ] (the “Certifying Credit Party”) hereby certifies as follows:
+EXHIBIT J
+TO THE CREDIT AGREEMENT
+This Assignment and Acceptance (the “Assignment and Acceptance”) is dated as of the Effective Date (as defined below) and is entered into by and between the Assignor (as defined below) and the Assignee (as defined below).
+Capitalized terms used in this Assignment and Acceptance and not otherwise defined herein shall have the meanings specified in the Credit Agreement dated as of February     , 2011 (as amended, supplemented or otherwise modified from time to time, the “Credit Agreement”), among Rockwood Specialties Group, Inc. (the “Borrower”), a Delaware corporation, Rockwood Specialties International, Inc (“Holdings”)., a Delaware corporation, the lending institutions from time to time parties thereto (each a “Lender” and, collectively, the “Lenders”), Credit Suisse AG, Cayman Islands Branch, as Administrative Agent and as Collateral Agent and KKR Capital Markets LLC, as Syndication Agent.
+Assignor (the “Assignor”):
+Assignee (the “Assignee”):
+Assigned Interest (the “Assigned Interest”):
+Effective Date of Assignment (the “Effective Date”):                      , 20  (1).
+[NAME OF ASSIGNOR], as Assignor,
+[NAME OF ASSIGNEE], as Assignee,
+CREDIT SUISSE AG, CAYMAN ISLANDS
+BRANCH, as Administrative Agent,
+ROCKWOOD SPECIALTIES GROUP, INC.,
+EXHIBIT K-1
+TO THE CREDIT AGREEMENT
+FORM OF PROMISSORY NOTE (TERM LOANS)
+This Promissory Note is one of the promissory notes referred to in Section 13.6 of the Credit Agreement dated as of February     , 2011 (as amended, supplemented or otherwise modified from time to time, the “Credit Agreement”), among the Borrower, Rockwood Specialties International, Inc., the lending institutions from time to time parties thereto, the Administrative Agent and KKR Capital Markets LLC, as Syndication Agent.
+ROCKWOOD SPECIALTIES GROUP, INC.,
+EXHIBIT K-2
+TO THE CREDIT AGREEMENT
+FORM OF PROMISSORY NOTE (REVOLVING CREDIT AND SWINGLINE LOANS)
+This Promissory Note is one of the promissory notes referred to in Section 13.6 of the Credit Agreement dated as of February     , 2011 (as amended, supplemented or otherwise modified from time to time, the “Credit Agreement”), among Rockwood Specialties Group, Inc., Rockwood Specialties International, Inc., the lending institutions from time to time parties thereto, the Administrative Agent and KKR Capital Markets LLC, as Syndication Agent.
+ROCKWOOD SPECIALTIES GROUP, INC.,
+EXHIBIT L
+TO THE CREDIT AGREEMENT
+FORM OF CONFIDENTIALITY AGREEMENT
+In connection with your interest in becoming a [Lender][counterparty to a swap agreement to be entered into in connection with Loans (a “Counterparty”)] under the Credit Agreement dated as of February     , 2011 (as the same may be amended, supplemented or otherwise modified from time to time, the “Credit Agreement”; capitalized terms used herein and not otherwise defined herein shall have the meanings assigned to such terms in the Credit Agreement), among Rockwood Specialties Group, Inc., a Delaware corporation, Rockwood Specialties International, Inc., a Delaware corporation, the lending institutions from time to time parties thereto, Credit Suisse AG, Cayman Islands Branch, as Administrative Agent and as Collateral Agent (the “Administrative Agent”)and KKR Capital Markets LLC, as Syndication Agent, you will be receiving certain information that is non-public, confidential or proprietary.
+Such information concerning Rockwood Specialties Group, Inc. and each of its Subsidiaries, Rockwood Specialties International, Inc., (each together with its respective affiliates, the “Companies”), and partnerships controlled by Kohlberg Kravis Roberts & Co. (“KKR”), including the structure of the transaction in which KKR is involved or any of the Companies or KKR, furnished to you by Credit Suisse AG, Cayman Islands Branch and KKR Capital Markets LLC or any of their respective affiliates (collectively, the “Agents”) or otherwise by or on behalf of the Companies (at any time on, before or after the date of this Confidentiality Agreement), together with analyses, compilations, studies or other documents prepared by you or by your affiliates, agents, representatives (including attorneys, accountants and financial advisors) or employees that contain or otherwise reflect such information or your review of, or interest in, the Companies, and any information otherwise concerning the Credit Agreement, is hereinafter referred to as the “Information”.
+CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH, as Administrative Agent,
+TO THE CREDIT AGREEMENT
+TO THE CREDIT AGREEMENT
+FORM OF JOINDER AGREEMENT
+JOINDER AGREEMENT, dated as of [                        , 20[  ] (this “Agreement”), by and among [NEW LOAN LENDERS] (each, a “New Loan Lender” and, collectively, the “New Loan Lenders”), ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Borrower”), ROCKWOOD SPECIALTIES INTERNATIONAL, INC., a Delaware corporation (“Holdings”) and CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH as administrative agent (the “Administrative Agent”).
+WHEREAS, reference is hereby made to the Credit Agreement, dated as of February     , 2011 (the “Credit Agreement”) among the Borrower, Holdings, the lending institutions from time to time parties thereto (each a “Lender” and, collectively, the “Lenders”), CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH as Administrative Agent and as Collateral Agent and KKR CAPITAL MARKETS LLC, as Syndication Agent (capitalized terms used but not defined herein having the meaning provided in the Credit Agreement); and
+21.1.        Business Day of Proposed Borrowing:                            ,
+a.             ABR Loan(s) 
+b.             Eurodollar Loans
+                with an initial Interest
+                Period of          month(s)
+ROCKWOOD SPECIALTIES GROUP, INC.
+ROCKWOOD SPECIALTIES INTERNATIONAL, INC.
+CREDIT SUISSE AG, CAYMAN
+TO JOINDER AGREEMENT

@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "Indenture",
+    "SellerName": [
+        "WILMINGTON TRUST, NATIONAL ASSOCIATION"
+    ],
+    "BuyerName": [
+        "Neiman Marcus Group LTD LLC；The Neiman Marcus Group LLC；Mariposa Borrower, INC.；The NMG Subsidiary LLC"
+    ],
+    "EffectiveTime": [
+        "June 7, 2019"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Neiman Marcus Group LTD LLC；The Neiman Marcus Group LLC；Mariposa Borrower, INC.；The NMG Subsidiary LLC"
+    
+            ],
+            "To": [
+                "WILMINGTON TRUST, NATIONAL ASSOCIATION"
+            ],
+            "PurchasePrice": "497849150",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

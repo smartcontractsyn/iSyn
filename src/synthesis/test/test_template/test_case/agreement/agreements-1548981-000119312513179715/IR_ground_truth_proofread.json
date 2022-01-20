@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "EMPLOYMENT AGREEMENT",
+    "SellerName": [
+        "LAURIE A. HAWKES"
+    ],
+    "BuyerName": [
+        "AMERICAN RESIDENTIAL PROPERTIES, INC."
+    ],
+    "EffectiveTime": [
+        "May 11, 2012 "
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": ["December 31, 2015"],
+    "Payments": [
+        {
+            "From": [
+                "AMERICAN RESIDENTIAL PROPERTIES, INC."
+            ],
+            "To": [
+                "LAURIE A. HAWKES"
+            ],
+            "PurchasePrice": "500000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

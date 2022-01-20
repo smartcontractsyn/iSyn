@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "Indenture",
+    "SellerName": [
+        "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A."
+    ],
+    "BuyerName": [
+        "DUKE ENERGY CORPORATION"
+    ],
+    "EffectiveTime": [
+        "the 10th day of August, 2017"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "DUKE ENERGY CORPORATION"
+            ],
+            "To": [
+                "THE BANK OF NEW YORK MELLON TRUST COMPANY, N.A."
+            ],
+            "PurchasePrice": "500000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

@@ -1,0 +1,65 @@
+Purchase and Sale of MoviePass Securities.
+Sale and Issuance of Common Stock to Helios
+2.25
+Purchase Entirely for Own Account
+2.30
+2.32
+Exculpation
+2.35
+Residence
+Purchase Entirely for Own Account
+3.21
+3.24
+Exculpation
+3.25
+Residence
+Appointment of Director
+Debt Repayment
+Approval of the Stockholders of Helios
+Completion of $10 Million Offering
+Purchase of Kelly Note and Conversion of Kelly Note Following Closing
+Approval of the Stockholders of MoviePass
+Approval of the Stockholders of Helios
+Completion of $10 Million Offering
+Fees and Expenses
+Attorneys’ Fees
+No Commitment for Additional Financing
+DISCLOSURE SCHEDULE
+Purchase and Sale of MoviePass Securities.
+(b)          Subject to the terms and conditions of this Agreement, Helios agrees to purchase at the Closing and MoviePass agrees to sell and issue to Helios at the Closing, such number of shares of MoviePass common stock, $0.0001 par value per share (the “Common Stock”), equal to fifty one percent (51%) of the then outstanding shares of Common Stock of MoviePass (on a fully-diluted basis, giving effect to the payment or conversion of any notes that convert into MoviePass capital stock that are outstanding immediately prior to the Closing, but excluding any outstanding options to purchase shares of Common Stock and warrants to purchase shares of MoviePass’s capital stock and the shares of Common Stock issuable upon conversion of the Kelly Note (as defined below)) for an aggregate purchase price of up to $27,000,000 (the “Maximum Purchase Price”), payable as provided in Subsection 1.1(c) below.
+(c)           The Maximum Purchase Price shall consist of:
+(i)     3,333,334 unregistered shares of Helios Common Stock (as defined below), based on an agreed upon value of $3.00 per share, for a total agreed upon value of approximately $10,000,000 (the “Helios Closing Shares”), to be issued by Helios to MoviePass in book-entry (uncertificated) form at the Closing; provided, however, that 666,667 of the Helios Closing Shares shall be subject to forfeiture by MoviePass if MoviePass fails to achieve either of the following two milestones within the specified time frame: (A) within one year after the Closing, subscribers to MoviePass’ MoviePass product shall have exceeded on at least one (1) day 100,000 subscribers (such number of subscribers to be determined based upon the number of registered accounts on the MoviePass server that have contracted with MoviePass (through a 3rd party or otherwise) to use the MoviePass product not including any account that has notified MoviePass that it desires to cancel its use of the MoviePass product), and (B) the Common Stock shall have been listed on The Nasdaq Stock Market (“Nasdaq”) or New York Stock Exchange (“NYSE”) by January 31, 2018 (unless such failure to be listed is remedied within sixty (60) calendar days thereafter) (the foregoing agreed upon value per share and share numbers are subject to appropriate adjustment in the event of any stock dividend, stock split, combination or similar recapitalization affecting the Helios Common Stock);
+(ii)     up to $17,000,000, payable as follows:
+(A)     $4,950,000 in cash to be paid upon receipt of the MoviePass Stockholder Approval (as defined in Subsection 5.25 hereof), in the form of a loan in the principal amount of $5,000,000 (such principal amount inclusive of the Expense Payment (as defined below)) to be made by Helios to MoviePass in accordance with a Second and Amended and Restated Subordinated Convertible Note Purchase Agreement, substantially in the form of Exhibit B-1 attached to this Agreement (the “Amended Note Purchase Agreement”) whereby, in exchange for such payment, Helios will receive a subordinated convertible promissory note of MoviePass in the principal amount of $5,000,000, substantially in the form of Exhibit B-2 attached to this Agreement (the “MoviePass Note” and together with the Shares and any shares of capital stock of MoviePass issuable upon conversion of the MoviePass Note, the “MoviePass Securities”).
+The parties hereby acknowledge that prior to execution of this Agreement, Helios paid to MoviePass $50,000 in cash (the “Expense Payment”) for legal and audit expenses (such cash payments, collectively, the “Initial Cash Payment”);
+(C)     if, and only if, MoviePass’ MoviePass product shall have exceeded on at least one (1) day 150,000 subscribers within 15 months after the Closing (such number of subscribers to be calculated in the same manner as calculated in Subsection 1.1(c)(i)), then, in addition to the Helios Closing Shares, Helios shall issue to MoviePass 666,667 additional unregistered shares of Helios Common Stock based on an agreed upon value of $3.00 per share, for a total agreed upon value of $2,000,000 (the “Helios Milestone Shares” and together with the Helios Closing Shares, the “Helios Shares”) (the foregoing agreed upon value per share and number of shares are subject to appropriate adjustment in the event of any stock dividend, stock split, combination or similar recapitalization affecting the Helios Common Stock).
+(d)     “Helios Common Stock” means the common stock, par value $0.01 per share, of Helios.
+(i)     103,000,000 shares of Common Stock of which 12,930,569 are issued and outstanding.
+(ii)     41,753,367 shares of preferred stock, $0.0001 par value per share (the “Preferred Stock”), of which (A) 4,510,741 shares have been designated Series Seed Preferred Stock, all of which are issued and outstanding, (B) 486,666 shares have been designated as Series Seed-1 Preferred Stock, all of which are issued and outstanding, (C) 7,632,239 shares have been designated as Series A Preferred Stock, of which 4,986,736 shares are issued and outstanding, and (D) 29,123,721 shares have been designated as Series A-1 Preferred Stock, of which 11,489,356 shares are issued and outstanding.
+(iii)     46,200,097 shares of Common Stock reserved for issuance to officers, directors, employees and consultants of MoviePass pursuant to its 2011 Equity Incentive Plan duly adopted by the Board of Directors and approved by MoviePass stockholders (the “Stock Plan”).
+(i)     380,000,000 shares of Common Stock, of which 154,931,774 shares will be issued and outstanding (assuming that none of the outstanding options described in Subsection 2.2(b)(iii) or warrants described in Subsection 2.2(b)(iv) are exercised).
+(ii)     20,000,000 shares of Preferred Stock, none of which will be designated or issued and outstanding as of the Closing.
+(iii)     46,200,097 shares of Common Stock will be reserved for issuance to officers, directors, employees and consultants of MoviePass pursuant to the Stock Plan.
+(v)     3,097,413 shares of Common Stock issuable upon conversion of the Kelly Note.
+Subsection 2.16(a) of the Disclosure Schedule sets forth a description of all compensation, including salary, bonus, severance obligations and deferred compensation paid or payable for each officer, employee, consultant and independent contractor of MoviePass who received compensation in excess of $50,000 for the fiscal year ended December 31, 2016 or is anticipated to receive compensation in excess of $50,000 for the fiscal year ending December 31, 2017.
+2.27     Purchase Entirely for Own Account.
+The authorized capital stock of Helios consists of (i) 100,000,000 shares of Helios Common Stock, 7,071,799 of which are issued and outstanding as of the date of this Agreement, and (ii) 2,000,000 shares of preferred stock, par value $0.01 per share, of Helios, none of which are issued and outstanding as of the date of this Agreement.
+3.17     Purchase Entirely for Own Account.
+Helios shall use its best efforts to consummate as promptly as practicable after the date of this Agreement an offering of its equity or equity-linked securities with aggregate gross proceeds of at least $10,000,000.
+5.14     Debt Repayment.
+Prior to the Closing, MoviePass shall have repaid or converted to Common Stock of MoviePass, consistent with MoviePass’ representations and warranties in Subsection 2.2(b), all of its outstanding indebtedness for borrowed money, except with respect to such indebtedness represented by the Kelly Note.
+5.18     Listing of Additional Shares (Helios Shares).
+5.20     Completion of $10 Million Offering.
+Helios shall have consummated an offering of its equity or equity-linked securities with aggregate gross proceeds of at least $10,000,000.
+The obligations of MoviePass to sell Shares to Helios at the Closing are subject to the fulfillment, at or before the Closing, of each of the following conditions, unless otherwise waived:6.1     Representations and Warranties.
+6.11     Purchase of Kelly Note and Conversion of Kelly Note Following Closing.
+Helios shall have purchased the Kelly Note from Chris Kelly for $1,000,000 and agreed to convert all outstanding principal and accrued unpaid interest under the Kelly Note into Common Stock in accordance with the terms of the Kelly Note immediately following the Closing.
+6.16     Listing of Additional Shares (Helios Shares).
+6.17     Completion of $10 Million Offering.
+Helios shall have consummated an offering of its equity or equity-linked securities with aggregate gross proceeds of at least $10,000,000.
+Neither party shall be liable after the Closing for any claims made for any breaches of representations or warranties by such party in this Agreement in excess of, in the aggregate, $2,500,000, and the maximum liability for each party under this Agreement from and after the Closing shall not exceed, in the aggregate, $4,000,000, in addition to the consideration required to be delivered under this Agreement (including the Helios Milestone Shares), except in each case for common law fraud by such party in connection with the transactions contemplated by this Agreement.
+7.7     No Finder’s Fees.
+7.9     Fees and Expenses.
+7.10     Attorneys’ Fees.
+DISCLOSURE SCHEDULE
+DISCLOSURE SCHEDULE

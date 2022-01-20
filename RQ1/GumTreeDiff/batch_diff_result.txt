@@ -1,0 +1,5793 @@
+﻿PA0
+Starting a Gradle Daemon (subsequent builds will be faster)
+
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+insert-tree
+---
+contractPart [411,493]
+    functionDefinition [411,493]
+        identifier [412,413]
+            Identifier: terminateConfirm [412,413]
+        parameterList [413,417]
+            parameter [414,416]
+                typeName [414,415]
+                    elementaryTypeName [414,415]
+                        Uint: uint32 [414,415]
+                identifier [415,416]
+                    Identifier: buyerIndex [415,416]
+        modifierList [417,418]
+        block [418,493]
+            statement [419,428]
+                simpleStatement [419,428]
+                    expressionStatement [419,428]
+                        expression [419,427]
+                            expression [419,420]
+                                primaryExpression [419,420]
+                                    identifier [419,420]
+                                        Identifier: require [419,420]
+                            functionCallArguments [421,426]
+                                expressionList [421,426]
+                                    expression [421,426]
+                                        expression [421,422]
+                                            primaryExpression [421,422]
+                                                identifier [421,422]
+                                                    Identifier: buyerIndex [421,422]
+                                        expression [423,426]
+                                            expression [423,424]
+                                                primaryExpression [423,424]
+                                                    identifier [423,424]
+                                                        Identifier: buyer [423,424]
+                                            identifier [425,426]
+                                                Identifier: length [425,426]
+            statement [428,447]
+                ifStatement [428,447]
+                    expression [430,435]
+                        expression [430,433]
+                            expression [430,431]
+                                primaryExpression [430,431]
+                                    identifier [430,431]
+                                        Identifier: msg [430,431]
+                            identifier [432,433]
+                                Identifier: sender [432,433]
+                        expression [434,435]
+                            primaryExpression [434,435]
+                                identifier [434,435]
+                                    Identifier: seller [434,435]
+                    statement [436,447]
+                        block [436,447]
+                            statement [437,444]
+                                simpleStatement [437,444]
+                                    expressionStatement [437,444]
+                                        expression [437,443]
+                                            expression [437,441]
+                                                expression [437,438]
+                                                    primaryExpression [437,438]
+                                                        identifier [437,438]
+                                                            Identifier: terminateSellerConfirmed [437,438]
+                                                expression [439,440]
+                                                    primaryExpression [439,440]
+                                                        identifier [439,440]
+                                                            Identifier: buyerIndex [439,440]
+                                            expression [442,443]
+                                                primaryExpression [442,443]
+                                                    BooleanLiteral: true [442,443]
+                            statement [444,446]
+                                returnStatement [444,446]
+            statement [447,454]
+                simpleStatement [447,454]
+                    variableDeclarationStatement [447,454]
+                        variableDeclaration [447,449]
+                            typeName [447,448]
+                                elementaryTypeName [447,448]
+                                    Uint: uint [447,448]
+                            identifier [448,449]
+                                Identifier: buyerNum [448,449]
+                        expression [450,453]
+                            expression [450,451]
+                                primaryExpression [450,451]
+                                    identifier [450,451]
+                                        Identifier: buyerName [450,451]
+                            identifier [452,453]
+                                Identifier: length [452,453]
+            statement [454,492]
+                forStatement [454,492]
+                    simpleStatement [456,461]
+                        variableDeclarationStatement [456,461]
+                            variableDeclaration [456,458]
+                                typeName [456,457]
+                                    elementaryTypeName [456,457]
+                                        Uint: uint [456,457]
+                                identifier [457,458]
+                                    Identifier: i [457,458]
+                            expression [459,460]
+                                primaryExpression [459,460]
+                                    numberLiteral [459,460]
+                                        DecimalNumber: 0 [459,460]
+                    expression [461,464]
+                        expression [461,462]
+                            primaryExpression [461,462]
+                                identifier [461,462]
+                                    Identifier: i [461,462]
+                        expression [463,464]
+                            primaryExpression [463,464]
+                                identifier [463,464]
+                                    Identifier: buyerNum [463,464]
+                    expression [465,467]
+                        expression [465,466]
+                            primaryExpression [465,466]
+                                identifier [465,466]
+                                    Identifier: i [465,466]
+                    statement [468,492]
+                        block [468,492]
+                            statement [469,491]
+                                ifStatement [469,491]
+                                    expression [471,479]
+                                        expression [471,474]
+                                            expression [471,472]
+                                                primaryExpression [471,472]
+                                                    identifier [471,472]
+                                                        Identifier: msg [471,472]
+                                            identifier [473,474]
+                                                Identifier: sender [473,474]
+                                        expression [475,479]
+                                            expression [475,476]
+                                                primaryExpression [475,476]
+                                                    identifier [475,476]
+                                                        Identifier: buyer [475,476]
+                                            expression [477,478]
+                                                primaryExpression [477,478]
+                                                    identifier [477,478]
+                                                        Identifier: i [477,478]
+                                    statement [480,491]
+                                        block [480,491]
+                                            statement [481,488]
+                                                simpleStatement [481,488]
+                                                    expressionStatement [481,488]
+                                                        expression [481,487]
+                                                            expression [481,485]
+                                                                expression [481,482]
+                                                                    primaryExpression [481,482]
+                                                                        identifier [481,482]
+                                                                            Identifier: terminateBuyerConfirmed [481,482]
+                                                                expression [483,484]
+                                                                    primaryExpression [483,484]
+                                                                        identifier [483,484]
+                                                                            Identifier: i [483,484]
+                                                            expression [486,487]
+                                                                primaryExpression [486,487]
+                                                                    BooleanLiteral: true [486,487]
+                                            statement [488,490]
+                                                returnStatement [488,490]
+to
+contractDefinition [6,475]
+at 25
+===
+insert-tree
+---
+contractPart [493,626]
+    functionDefinition [493,626]
+        identifier [494,495]
+            Identifier: terminateByTransfer [494,495]
+        parameterList [495,499]
+            parameter [496,498]
+                typeName [496,497]
+                    elementaryTypeName [496,497]
+                        Uint: uint [496,497]
+                identifier [497,498]
+                    Identifier: buyerIndex [497,498]
+        modifierList [499,500]
+        block [500,626]
+            statement [501,506]
+                simpleStatement [501,506]
+                    variableDeclarationStatement [501,506]
+                        variableDeclaration [501,503]
+                            typeName [501,502]
+                                elementaryTypeName [501,502]
+                            identifier [502,503]
+                                Identifier: validSender [502,503]
+                        expression [504,505]
+                            primaryExpression [504,505]
+                                BooleanLiteral: false [504,505]
+            statement [506,569]
+                ifStatement [506,569]
+                    expression [508,513]
+                        expression [508,511]
+                            expression [508,509]
+                                primaryExpression [508,509]
+                                    identifier [508,509]
+                                        Identifier: msg [508,509]
+                            identifier [510,511]
+                                Identifier: sender [510,511]
+                        expression [512,513]
+                            primaryExpression [512,513]
+                                identifier [512,513]
+                                    Identifier: seller [512,513]
+                    statement [514,520]
+                        block [514,520]
+                            statement [515,519]
+                                simpleStatement [515,519]
+                                    expressionStatement [515,519]
+                                        expression [515,518]
+                                            expression [515,516]
+                                                primaryExpression [515,516]
+                                                    identifier [515,516]
+                                                        Identifier: validSender [515,516]
+                                            expression [517,518]
+                                                primaryExpression [517,518]
+                                                    BooleanLiteral: true [517,518]
+                    statement [521,569]
+                        block [521,569]
+                            statement [522,529]
+                                simpleStatement [522,529]
+                                    variableDeclarationStatement [522,529]
+                                        variableDeclaration [522,524]
+                                            typeName [522,523]
+                                                elementaryTypeName [522,523]
+                                                    Uint: uint [522,523]
+                                            identifier [523,524]
+                                                Identifier: buyerNum [523,524]
+                                        expression [525,528]
+                                            expression [525,526]
+                                                primaryExpression [525,526]
+                                                    identifier [525,526]
+                                                        Identifier: buyerName [525,526]
+                                            identifier [527,528]
+                                                Identifier: length [527,528]
+                            statement [529,568]
+                                forStatement [529,568]
+                                    simpleStatement [531,536]
+                                        variableDeclarationStatement [531,536]
+                                            variableDeclaration [531,533]
+                                                typeName [531,532]
+                                                    elementaryTypeName [531,532]
+                                                        Uint: uint [531,532]
+                                                identifier [532,533]
+                                                    Identifier: i [532,533]
+                                            expression [534,535]
+                                                primaryExpression [534,535]
+                                                    numberLiteral [534,535]
+                                                        DecimalNumber: 0 [534,535]
+                                    expression [536,539]
+                                        expression [536,537]
+                                            primaryExpression [536,537]
+                                                identifier [536,537]
+                                                    Identifier: i [536,537]
+                                        expression [538,539]
+                                            primaryExpression [538,539]
+                                                identifier [538,539]
+                                                    Identifier: buyerNum [538,539]
+                                    expression [540,542]
+                                        expression [540,541]
+                                            primaryExpression [540,541]
+                                                identifier [540,541]
+                                                    Identifier: i [540,541]
+                                    statement [543,568]
+                                        block [543,568]
+                                            statement [544,567]
+                                                ifStatement [544,567]
+                                                    expression [546,554]
+                                                        expression [546,549]
+                                                            expression [546,547]
+                                                                primaryExpression [546,547]
+                                                                    identifier [546,547]
+                                                                        Identifier: msg [546,547]
+                                                            identifier [548,549]
+                                                                Identifier: sender [548,549]
+                                                        expression [550,554]
+                                                            expression [550,551]
+                                                                primaryExpression [550,551]
+                                                                    identifier [550,551]
+                                                                        Identifier: buyer [550,551]
+                                                            expression [552,553]
+                                                                primaryExpression [552,553]
+                                                                    identifier [552,553]
+                                                                        Identifier: i [552,553]
+                                                    statement [555,567]
+                                                        block [555,567]
+                                                            statement [556,560]
+                                                                simpleStatement [556,560]
+                                                                    expressionStatement [556,560]
+                                                                        expression [556,559]
+                                                                            expression [556,557]
+                                                                                primaryExpression [556,557]
+                                                                                    identifier [556,557]
+                                                                                        Identifier: validSender [556,557]
+                                                                            expression [558,559]
+                                                                                primaryExpression [558,559]
+                                                                                    BooleanLiteral: true [558,559]
+                                                            statement [560,564]
+                                                                simpleStatement [560,564]
+                                                                    expressionStatement [560,564]
+                                                                        expression [560,563]
+                                                                            expression [560,561]
+                                                                                primaryExpression [560,561]
+                                                                                    identifier [560,561]
+                                                                                        Identifier: buyerIndex [560,561]
+                                                                            expression [562,563]
+                                                                                primaryExpression [562,563]
+                                                                                    identifier [562,563]
+                                                                                        Identifier: i [562,563]
+                                                            statement [564,566]
+                                                                breakStatement [564,566]
+            statement [569,574]
+                simpleStatement [569,574]
+                    expressionStatement [569,574]
+                        expression [569,573]
+                            expression [569,570]
+                                primaryExpression [569,570]
+                                    identifier [569,570]
+                                        Identifier: require [569,570]
+                            functionCallArguments [571,572]
+                                expressionList [571,572]
+                                    expression [571,572]
+                                        primaryExpression [571,572]
+                                            identifier [571,572]
+                                                Identifier: validSender [571,572]
+            statement [574,581]
+                simpleStatement [574,581]
+                    expressionStatement [574,581]
+                        expression [574,580]
+                            expression [574,575]
+                                primaryExpression [574,575]
+                                    identifier [574,575]
+                                        Identifier: require [574,575]
+                            functionCallArguments [576,579]
+                                expressionList [576,579]
+                                    expression [576,579]
+                                        expression [576,577]
+                                            primaryExpression [576,577]
+                                                identifier [576,577]
+                                                    Identifier: now [576,577]
+                                        expression [578,579]
+                                            primaryExpression [578,579]
+                                                identifier [578,579]
+                                                    Identifier: CloseTime [578,579]
+            statement [581,589]
+                simpleStatement [581,589]
+                    expressionStatement [581,589]
+                        expression [581,588]
+                            expression [581,582]
+                                primaryExpression [581,582]
+                                    identifier [581,582]
+                                        Identifier: require [581,582]
+                            functionCallArguments [583,587]
+                                expressionList [583,587]
+                                    expression [583,587]
+                                        expression [583,584]
+                                            primaryExpression [583,584]
+                                                identifier [583,584]
+                                                    Identifier: terminateSellerConfirmed [583,584]
+                                        expression [585,586]
+                                            primaryExpression [585,586]
+                                                identifier [585,586]
+                                                    Identifier: buyerIndex [585,586]
+            statement [589,597]
+                simpleStatement [589,597]
+                    expressionStatement [589,597]
+                        expression [589,596]
+                            expression [589,590]
+                                primaryExpression [589,590]
+                                    identifier [589,590]
+                                        Identifier: require [589,590]
+                            functionCallArguments [591,595]
+                                expressionList [591,595]
+                                    expression [591,595]
+                                        expression [591,592]
+                                            primaryExpression [591,592]
+                                                identifier [591,592]
+                                                    Identifier: terminateBuyerConfirmed [591,592]
+                                        expression [593,594]
+                                            primaryExpression [593,594]
+                                                identifier [593,594]
+                                                    Identifier: buyerIndex [593,594]
+            statement [597,603]
+                emitStatement [597,603]
+                    functionCall [598,602]
+                        expression [598,599]
+                            primaryExpression [598,599]
+                                identifier [598,599]
+                                    Identifier: Terminated [598,599]
+                        functionCallArguments [600,601]
+                            expressionList [600,601]
+                                expression [600,601]
+                                    primaryExpression [600,601]
+                                        identifier [600,601]
+                                            Identifier: buyerIndex [600,601]
+            statement [603,612]
+                simpleStatement [603,612]
+                    expressionStatement [603,612]
+                        expression [603,611]
+                            expression [603,607]
+                                expression [603,604]
+                                    primaryExpression [603,604]
+                                        identifier [603,604]
+                                            Identifier: state [603,604]
+                                expression [605,606]
+                                    primaryExpression [605,606]
+                                        identifier [605,606]
+                                            Identifier: buyerIndex [605,606]
+                            expression [608,611]
+                                expression [608,609]
+                                    primaryExpression [608,609]
+                                        identifier [608,609]
+                                            Identifier: State [608,609]
+                                identifier [610,611]
+                                    Identifier: Inactive [610,611]
+            statement [612,625]
+                simpleStatement [612,625]
+                    expressionStatement [612,625]
+                        expression [612,624]
+                            expression [612,618]
+                                expression [612,616]
+                                    expression [612,613]
+                                        primaryExpression [612,613]
+                                            identifier [612,613]
+                                                Identifier: buyer [612,613]
+                                    expression [614,615]
+                                        primaryExpression [614,615]
+                                            identifier [614,615]
+                                                Identifier: buyerIndex [614,615]
+                                identifier [617,618]
+                                    Identifier: transfer [617,618]
+                            functionCallArguments [619,623]
+                                expressionList [619,623]
+                                    expression [619,623]
+                                        expression [619,620]
+                                            primaryExpression [619,620]
+                                                identifier [619,620]
+                                                    Identifier: pricePayedByBuyer [619,620]
+                                        expression [621,622]
+                                            primaryExpression [621,622]
+                                                identifier [621,622]
+                                                    Identifier: buyerIndex [621,622]
+to
+contractDefinition [6,475]
+at 26
+===
+update-node
+---
+StringLiteral: "FORD CREDIT AUTO RECEIVABLES TWO LLC" [174,175]
+replace "FORD CREDIT AUTO RECEIVABLES TWO LLC" by "FORD MOTOR CREDIT COMPANY LLC"
+Total Num of Actions is: 3
+Move Num is: 0
+Update Num is: 1
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 2
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 9s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+PA1
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+update-node
+---
+StringLiteral: "BROOKLYN IMMUNOTHERAPEUTICS, INC." [162,163]
+replace "BROOKLYN IMMUNOTHERAPEUTICS, INC." by "BROOKLYN IMMUNOTHERAPEUTICS"
+===
+update-node
+---
+StringLiteral: "LINCOLN PARK CAPITAL FUND, LLC" [174,175]
+replace "LINCOLN PARK CAPITAL FUND, LLC" by "BROOKLYN IMMUNOTHERAPEUTICS"
+Total Num of Actions is: 2
+Move Num is: 0
+Update Num is: 2
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 2s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+PA2
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+update-node
+---
+StringLiteral: "VW CREDIT, INC." [161,162]
+replace "VW CREDIT, INC." by "VW Credit"
+===
+update-node
+---
+StringLiteral: "VOLKSWAGEN AUTO LEASE/LOAN UNDERWRITTEN FUNDING, LLC" [173,174]
+replace "VOLKSWAGEN AUTO LEASE/LOAN UNDERWRITTEN FUNDING, LLC" by "VOLKSWAGEN AUTO LEASE/LOAN UNDERWRITTEN FUNDING"
+Total Num of Actions is: 2
+Move Num is: 0
+Update Num is: 2
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 2s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+PA3
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+Total Num of Actions is: 0
+Move Num is: 0
+Update Num is: 0
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 3s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+PA4
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+update-node
+---
+StringLiteral: "Solar Power, Inc." [161,162]
+replace "Solar Power, Inc." by "Solar Power"
+===
+delete-tree
+---
+contractPart [421,503]
+    functionDefinition [421,503]
+        identifier [422,423]
+            Identifier: terminateConfirm [422,423]
+        parameterList [423,427]
+            parameter [424,426]
+                typeName [424,425]
+                    elementaryTypeName [424,425]
+                        Uint: uint32 [424,425]
+                identifier [425,426]
+                    Identifier: buyerIndex [425,426]
+        modifierList [427,428]
+        block [428,503]
+            statement [429,438]
+                simpleStatement [429,438]
+                    expressionStatement [429,438]
+                        expression [429,437]
+                            expression [429,430]
+                                primaryExpression [429,430]
+                                    identifier [429,430]
+                                        Identifier: require [429,430]
+                            functionCallArguments [431,436]
+                                expressionList [431,436]
+                                    expression [431,436]
+                                        expression [431,432]
+                                            primaryExpression [431,432]
+                                                identifier [431,432]
+                                                    Identifier: buyerIndex [431,432]
+                                        expression [433,436]
+                                            expression [433,434]
+                                                primaryExpression [433,434]
+                                                    identifier [433,434]
+                                                        Identifier: buyer [433,434]
+                                            identifier [435,436]
+                                                Identifier: length [435,436]
+            statement [438,457]
+                ifStatement [438,457]
+                    expression [440,445]
+                        expression [440,443]
+                            expression [440,441]
+                                primaryExpression [440,441]
+                                    identifier [440,441]
+                                        Identifier: msg [440,441]
+                            identifier [442,443]
+                                Identifier: sender [442,443]
+                        expression [444,445]
+                            primaryExpression [444,445]
+                                identifier [444,445]
+                                    Identifier: seller [444,445]
+                    statement [446,457]
+                        block [446,457]
+                            statement [447,454]
+                                simpleStatement [447,454]
+                                    expressionStatement [447,454]
+                                        expression [447,453]
+                                            expression [447,451]
+                                                expression [447,448]
+                                                    primaryExpression [447,448]
+                                                        identifier [447,448]
+                                                            Identifier: terminateSellerConfirmed [447,448]
+                                                expression [449,450]
+                                                    primaryExpression [449,450]
+                                                        identifier [449,450]
+                                                            Identifier: buyerIndex [449,450]
+                                            expression [452,453]
+                                                primaryExpression [452,453]
+                                                    BooleanLiteral: true [452,453]
+                            statement [454,456]
+                                returnStatement [454,456]
+            statement [457,464]
+                simpleStatement [457,464]
+                    variableDeclarationStatement [457,464]
+                        variableDeclaration [457,459]
+                            typeName [457,458]
+                                elementaryTypeName [457,458]
+                                    Uint: uint [457,458]
+                            identifier [458,459]
+                                Identifier: buyerNum [458,459]
+                        expression [460,463]
+                            expression [460,461]
+                                primaryExpression [460,461]
+                                    identifier [460,461]
+                                        Identifier: buyerName [460,461]
+                            identifier [462,463]
+                                Identifier: length [462,463]
+            statement [464,502]
+                forStatement [464,502]
+                    simpleStatement [466,471]
+                        variableDeclarationStatement [466,471]
+                            variableDeclaration [466,468]
+                                typeName [466,467]
+                                    elementaryTypeName [466,467]
+                                        Uint: uint [466,467]
+                                identifier [467,468]
+                                    Identifier: i [467,468]
+                            expression [469,470]
+                                primaryExpression [469,470]
+                                    numberLiteral [469,470]
+                                        DecimalNumber: 0 [469,470]
+                    expression [471,474]
+                        expression [471,472]
+                            primaryExpression [471,472]
+                                identifier [471,472]
+                                    Identifier: i [471,472]
+                        expression [473,474]
+                            primaryExpression [473,474]
+                                identifier [473,474]
+                                    Identifier: buyerNum [473,474]
+                    expression [475,477]
+                        expression [475,476]
+                            primaryExpression [475,476]
+                                identifier [475,476]
+                                    Identifier: i [475,476]
+                    statement [478,502]
+                        block [478,502]
+                            statement [479,501]
+                                ifStatement [479,501]
+                                    expression [481,489]
+                                        expression [481,484]
+                                            expression [481,482]
+                                                primaryExpression [481,482]
+                                                    identifier [481,482]
+                                                        Identifier: msg [481,482]
+                                            identifier [483,484]
+                                                Identifier: sender [483,484]
+                                        expression [485,489]
+                                            expression [485,486]
+                                                primaryExpression [485,486]
+                                                    identifier [485,486]
+                                                        Identifier: buyer [485,486]
+                                            expression [487,488]
+                                                primaryExpression [487,488]
+                                                    identifier [487,488]
+                                                        Identifier: i [487,488]
+                                    statement [490,501]
+                                        block [490,501]
+                                            statement [491,498]
+                                                simpleStatement [491,498]
+                                                    expressionStatement [491,498]
+                                                        expression [491,497]
+                                                            expression [491,495]
+                                                                expression [491,492]
+                                                                    primaryExpression [491,492]
+                                                                        identifier [491,492]
+                                                                            Identifier: terminateBuyerConfirmed [491,492]
+                                                                expression [493,494]
+                                                                    primaryExpression [493,494]
+                                                                        identifier [493,494]
+                                                                            Identifier: i [493,494]
+                                                            expression [496,497]
+                                                                primaryExpression [496,497]
+                                                                    BooleanLiteral: true [496,497]
+                                            statement [498,500]
+                                                returnStatement [498,500]
+===
+delete-tree
+---
+contractPart [503,638]
+    functionDefinition [503,638]
+        identifier [504,505]
+            Identifier: terminateByTransfer [504,505]
+        parameterList [505,509]
+            parameter [506,508]
+                typeName [506,507]
+                    elementaryTypeName [506,507]
+                        Uint: uint [506,507]
+                identifier [507,508]
+                    Identifier: buyerIndex [507,508]
+        modifierList [509,510]
+        block [510,638]
+            statement [511,516]
+                simpleStatement [511,516]
+                    variableDeclarationStatement [511,516]
+                        variableDeclaration [511,513]
+                            typeName [511,512]
+                                elementaryTypeName [511,512]
+                            identifier [512,513]
+                                Identifier: validSender [512,513]
+                        expression [514,515]
+                            primaryExpression [514,515]
+                                BooleanLiteral: false [514,515]
+            statement [516,579]
+                ifStatement [516,579]
+                    expression [518,523]
+                        expression [518,521]
+                            expression [518,519]
+                                primaryExpression [518,519]
+                                    identifier [518,519]
+                                        Identifier: msg [518,519]
+                            identifier [520,521]
+                                Identifier: sender [520,521]
+                        expression [522,523]
+                            primaryExpression [522,523]
+                                identifier [522,523]
+                                    Identifier: seller [522,523]
+                    statement [524,530]
+                        block [524,530]
+                            statement [525,529]
+                                simpleStatement [525,529]
+                                    expressionStatement [525,529]
+                                        expression [525,528]
+                                            expression [525,526]
+                                                primaryExpression [525,526]
+                                                    identifier [525,526]
+                                                        Identifier: validSender [525,526]
+                                            expression [527,528]
+                                                primaryExpression [527,528]
+                                                    BooleanLiteral: true [527,528]
+                    statement [531,579]
+                        block [531,579]
+                            statement [532,539]
+                                simpleStatement [532,539]
+                                    variableDeclarationStatement [532,539]
+                                        variableDeclaration [532,534]
+                                            typeName [532,533]
+                                                elementaryTypeName [532,533]
+                                                    Uint: uint [532,533]
+                                            identifier [533,534]
+                                                Identifier: buyerNum [533,534]
+                                        expression [535,538]
+                                            expression [535,536]
+                                                primaryExpression [535,536]
+                                                    identifier [535,536]
+                                                        Identifier: buyerName [535,536]
+                                            identifier [537,538]
+                                                Identifier: length [537,538]
+                            statement [539,578]
+                                forStatement [539,578]
+                                    simpleStatement [541,546]
+                                        variableDeclarationStatement [541,546]
+                                            variableDeclaration [541,543]
+                                                typeName [541,542]
+                                                    elementaryTypeName [541,542]
+                                                        Uint: uint [541,542]
+                                                identifier [542,543]
+                                                    Identifier: i [542,543]
+                                            expression [544,545]
+                                                primaryExpression [544,545]
+                                                    numberLiteral [544,545]
+                                                        DecimalNumber: 0 [544,545]
+                                    expression [546,549]
+                                        expression [546,547]
+                                            primaryExpression [546,547]
+                                                identifier [546,547]
+                                                    Identifier: i [546,547]
+                                        expression [548,549]
+                                            primaryExpression [548,549]
+                                                identifier [548,549]
+                                                    Identifier: buyerNum [548,549]
+                                    expression [550,552]
+                                        expression [550,551]
+                                            primaryExpression [550,551]
+                                                identifier [550,551]
+                                                    Identifier: i [550,551]
+                                    statement [553,578]
+                                        block [553,578]
+                                            statement [554,577]
+                                                ifStatement [554,577]
+                                                    expression [556,564]
+                                                        expression [556,559]
+                                                            expression [556,557]
+                                                                primaryExpression [556,557]
+                                                                    identifier [556,557]
+                                                                        Identifier: msg [556,557]
+                                                            identifier [558,559]
+                                                                Identifier: sender [558,559]
+                                                        expression [560,564]
+                                                            expression [560,561]
+                                                                primaryExpression [560,561]
+                                                                    identifier [560,561]
+                                                                        Identifier: buyer [560,561]
+                                                            expression [562,563]
+                                                                primaryExpression [562,563]
+                                                                    identifier [562,563]
+                                                                        Identifier: i [562,563]
+                                                    statement [565,577]
+                                                        block [565,577]
+                                                            statement [566,570]
+                                                                simpleStatement [566,570]
+                                                                    expressionStatement [566,570]
+                                                                        expression [566,569]
+                                                                            expression [566,567]
+                                                                                primaryExpression [566,567]
+                                                                                    identifier [566,567]
+                                                                                        Identifier: validSender [566,567]
+                                                                            expression [568,569]
+                                                                                primaryExpression [568,569]
+                                                                                    BooleanLiteral: true [568,569]
+                                                            statement [570,574]
+                                                                simpleStatement [570,574]
+                                                                    expressionStatement [570,574]
+                                                                        expression [570,573]
+                                                                            expression [570,571]
+                                                                                primaryExpression [570,571]
+                                                                                    identifier [570,571]
+                                                                                        Identifier: buyerIndex [570,571]
+                                                                            expression [572,573]
+                                                                                primaryExpression [572,573]
+                                                                                    identifier [572,573]
+                                                                                        Identifier: i [572,573]
+                                                            statement [574,576]
+                                                                breakStatement [574,576]
+            statement [579,584]
+                simpleStatement [579,584]
+                    expressionStatement [579,584]
+                        expression [579,583]
+                            expression [579,580]
+                                primaryExpression [579,580]
+                                    identifier [579,580]
+                                        Identifier: require [579,580]
+                            functionCallArguments [581,582]
+                                expressionList [581,582]
+                                    expression [581,582]
+                                        primaryExpression [581,582]
+                                            identifier [581,582]
+                                                Identifier: validSender [581,582]
+            statement [584,591]
+                simpleStatement [584,591]
+                    expressionStatement [584,591]
+                        expression [584,590]
+                            expression [584,585]
+                                primaryExpression [584,585]
+                                    identifier [584,585]
+                                        Identifier: require [584,585]
+                            functionCallArguments [586,589]
+                                expressionList [586,589]
+                                    expression [586,589]
+                                        expression [586,587]
+                                            primaryExpression [586,587]
+                                                identifier [586,587]
+                                                    Identifier: now [586,587]
+                                        expression [588,589]
+                                            primaryExpression [588,589]
+                                                identifier [588,589]
+                                                    Identifier: CloseTime [588,589]
+            statement [591,599]
+                simpleStatement [591,599]
+                    expressionStatement [591,599]
+                        expression [591,598]
+                            expression [591,592]
+                                primaryExpression [591,592]
+                                    identifier [591,592]
+                                        Identifier: require [591,592]
+                            functionCallArguments [593,597]
+                                expressionList [593,597]
+                                    expression [593,597]
+                                        expression [593,594]
+                                            primaryExpression [593,594]
+                                                identifier [593,594]
+                                                    Identifier: terminateSellerConfirmed [593,594]
+                                        expression [595,596]
+                                            primaryExpression [595,596]
+                                                identifier [595,596]
+                                                    Identifier: buyerIndex [595,596]
+            statement [599,607]
+                simpleStatement [599,607]
+                    expressionStatement [599,607]
+                        expression [599,606]
+                            expression [599,600]
+                                primaryExpression [599,600]
+                                    identifier [599,600]
+                                        Identifier: require [599,600]
+                            functionCallArguments [601,605]
+                                expressionList [601,605]
+                                    expression [601,605]
+                                        expression [601,602]
+                                            primaryExpression [601,602]
+                                                identifier [601,602]
+                                                    Identifier: terminateBuyerConfirmed [601,602]
+                                        expression [603,604]
+                                            primaryExpression [603,604]
+                                                identifier [603,604]
+                                                    Identifier: buyerIndex [603,604]
+            statement [607,613]
+                emitStatement [607,613]
+                    functionCall [608,612]
+                        expression [608,609]
+                            primaryExpression [608,609]
+                                identifier [608,609]
+                                    Identifier: Terminated [608,609]
+                        functionCallArguments [610,611]
+                            expressionList [610,611]
+                                expression [610,611]
+                                    primaryExpression [610,611]
+                                        identifier [610,611]
+                                            Identifier: buyerIndex [610,611]
+            statement [613,622]
+                simpleStatement [613,622]
+                    expressionStatement [613,622]
+                        expression [613,621]
+                            expression [613,617]
+                                expression [613,614]
+                                    primaryExpression [613,614]
+                                        identifier [613,614]
+                                            Identifier: state [613,614]
+                                expression [615,616]
+                                    primaryExpression [615,616]
+                                        identifier [615,616]
+                                            Identifier: buyerIndex [615,616]
+                            expression [618,621]
+                                expression [618,619]
+                                    primaryExpression [618,619]
+                                        identifier [618,619]
+                                            Identifier: State [618,619]
+                                identifier [620,621]
+                                    Identifier: Inactive [620,621]
+            statement [623,636]
+                simpleStatement [623,636]
+                    expressionStatement [623,636]
+                        expression [623,635]
+                            expression [623,629]
+                                expression [623,627]
+                                    expression [623,624]
+                                        primaryExpression [623,624]
+                                            identifier [623,624]
+                                                Identifier: buyer [623,624]
+                                    expression [625,626]
+                                        primaryExpression [625,626]
+                                            identifier [625,626]
+                                                Identifier: buyerIndex [625,626]
+                                identifier [628,629]
+                                    Identifier: transfer [628,629]
+                            functionCallArguments [630,634]
+                                expressionList [630,634]
+                                    expression [630,634]
+                                        expression [630,631]
+                                            primaryExpression [630,631]
+                                                identifier [630,631]
+                                                    Identifier: pricePayedByBuyer [630,631]
+                                        expression [632,633]
+                                            primaryExpression [632,633]
+                                                identifier [632,633]
+                                                    Identifier: buyerIndex [632,633]
+Total Num of Actions is: 3
+Move Num is: 0
+Update Num is: 1
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 2
+
+
+BUILD SUCCESSFUL in 3s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+PA5
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+insert-tree
+---
+expression [155,156]
+    primaryExpression [155,156]
+        StringLiteral: "RANGE OPERATING NEW MEXICO" [155,156]
+to
+expression [160,163]
+at 1
+===
+insert-tree
+---
+identifier [143,144]
+    Identifier: NaN [143,144]
+to
+primaryExpression [148,149]
+at 0
+===
+move-tree
+---
+expression [162,163]
+    primaryExpression [162,163]
+        StringLiteral: "" [162,163]
+to
+tupleExpression [174,177]
+at 0
+===
+delete-tree
+---
+numberLiteral [148,149]
+    DecimalNumber: 0 [148,149]
+===
+delete-tree
+---
+expression [175,176]
+    primaryExpression [175,176]
+        StringLiteral: "VANGUARD PERMIAN LLC" [175,176]
+Total Num of Actions is: 5
+Move Num is: 1
+Update Num is: 0
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 2
+Tree Delete Num is: 2
+
+
+BUILD SUCCESSFUL in 2s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SPA0
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+Total Num of Actions is: 0
+Move Num is: 0
+Update Num is: 0
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 3s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SPA1
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+insert-tree
+---
+contractPart [420,509]
+    functionDefinition [420,509]
+        identifier [421,422]
+            Identifier: uploadFileHash [421,422]
+        parameterList [422,430]
+            parameter [423,426]
+                typeName [423,424]
+                    elementaryTypeName [423,424]
+                storageLocation [424,425]
+                identifier [425,426]
+                    Identifier: fileName [425,426]
+            parameter [427,429]
+                typeName [427,428]
+                    elementaryTypeName [427,428]
+                        Uint: uint32 [427,428]
+                identifier [428,429]
+                    Identifier: hashCode [428,429]
+        modifierList [430,431]
+        block [431,509]
+            statement [432,437]
+                simpleStatement [432,437]
+                    variableDeclarationStatement [432,437]
+                        variableDeclaration [432,434]
+                            typeName [432,433]
+                                elementaryTypeName [432,433]
+                            identifier [433,434]
+                                Identifier: validSender [433,434]
+                        expression [435,436]
+                            primaryExpression [435,436]
+                                BooleanLiteral: false [435,436]
+            statement [437,496]
+                ifStatement [437,496]
+                    expression [439,444]
+                        expression [439,442]
+                            expression [439,440]
+                                primaryExpression [439,440]
+                                    identifier [439,440]
+                                        Identifier: msg [439,440]
+                            identifier [441,442]
+                                Identifier: sender [441,442]
+                        expression [443,444]
+                            primaryExpression [443,444]
+                                identifier [443,444]
+                                    Identifier: seller [443,444]
+                    statement [445,451]
+                        block [445,451]
+                            statement [446,450]
+                                simpleStatement [446,450]
+                                    expressionStatement [446,450]
+                                        expression [446,449]
+                                            expression [446,447]
+                                                primaryExpression [446,447]
+                                                    identifier [446,447]
+                                                        Identifier: validSender [446,447]
+                                            expression [448,449]
+                                                primaryExpression [448,449]
+                                                    BooleanLiteral: true [448,449]
+                    statement [452,496]
+                        block [452,496]
+                            statement [453,460]
+                                simpleStatement [453,460]
+                                    variableDeclarationStatement [453,460]
+                                        variableDeclaration [453,455]
+                                            typeName [453,454]
+                                                elementaryTypeName [453,454]
+                                                    Uint: uint [453,454]
+                                            identifier [454,455]
+                                                Identifier: buyerNum [454,455]
+                                        expression [456,459]
+                                            expression [456,457]
+                                                primaryExpression [456,457]
+                                                    identifier [456,457]
+                                                        Identifier: buyerName [456,457]
+                                            identifier [458,459]
+                                                Identifier: length [458,459]
+                            statement [460,495]
+                                forStatement [460,495]
+                                    simpleStatement [462,467]
+                                        variableDeclarationStatement [462,467]
+                                            variableDeclaration [462,464]
+                                                typeName [462,463]
+                                                    elementaryTypeName [462,463]
+                                                        Uint: uint [462,463]
+                                                identifier [463,464]
+                                                    Identifier: i [463,464]
+                                            expression [465,466]
+                                                primaryExpression [465,466]
+                                                    numberLiteral [465,466]
+                                                        DecimalNumber: 0 [465,466]
+                                    expression [467,470]
+                                        expression [467,468]
+                                            primaryExpression [467,468]
+                                                identifier [467,468]
+                                                    Identifier: i [467,468]
+                                        expression [469,470]
+                                            primaryExpression [469,470]
+                                                identifier [469,470]
+                                                    Identifier: buyerNum [469,470]
+                                    expression [471,473]
+                                        expression [471,472]
+                                            primaryExpression [471,472]
+                                                identifier [471,472]
+                                                    Identifier: i [471,472]
+                                    statement [474,495]
+                                        block [474,495]
+                                            statement [475,494]
+                                                ifStatement [475,494]
+                                                    expression [477,485]
+                                                        expression [477,480]
+                                                            expression [477,478]
+                                                                primaryExpression [477,478]
+                                                                    identifier [477,478]
+                                                                        Identifier: msg [477,478]
+                                                            identifier [479,480]
+                                                                Identifier: sender [479,480]
+                                                        expression [481,485]
+                                                            expression [481,482]
+                                                                primaryExpression [481,482]
+                                                                    identifier [481,482]
+                                                                        Identifier: buyer [481,482]
+                                                            expression [483,484]
+                                                                primaryExpression [483,484]
+                                                                    identifier [483,484]
+                                                                        Identifier: i [483,484]
+                                                    statement [486,494]
+                                                        block [486,494]
+                                                            statement [487,491]
+                                                                simpleStatement [487,491]
+                                                                    expressionStatement [487,491]
+                                                                        expression [487,490]
+                                                                            expression [487,488]
+                                                                                primaryExpression [487,488]
+                                                                                    identifier [487,488]
+                                                                                        Identifier: validSender [487,488]
+                                                                            expression [489,490]
+                                                                                primaryExpression [489,490]
+                                                                                    BooleanLiteral: true [489,490]
+                                                            statement [491,493]
+                                                                breakStatement [491,493]
+            statement [496,501]
+                simpleStatement [496,501]
+                    expressionStatement [496,501]
+                        expression [496,500]
+                            expression [496,497]
+                                primaryExpression [496,497]
+                                    identifier [496,497]
+                                        Identifier: require [496,497]
+                            functionCallArguments [498,499]
+                                expressionList [498,499]
+                                    expression [498,499]
+                                        primaryExpression [498,499]
+                                            identifier [498,499]
+                                                Identifier: validSender [498,499]
+            statement [501,508]
+                simpleStatement [501,508]
+                    expressionStatement [501,508]
+                        expression [501,507]
+                            expression [501,505]
+                                expression [501,502]
+                                    primaryExpression [501,502]
+                                        identifier [501,502]
+                                            Identifier: fileHashMap [501,502]
+                                expression [503,504]
+                                    primaryExpression [503,504]
+                                        identifier [503,504]
+                                            Identifier: fileName [503,504]
+                            expression [506,507]
+                                primaryExpression [506,507]
+                                    identifier [506,507]
+                                        Identifier: hashCode [506,507]
+to
+contractDefinition [6,709]
+at 25
+===
+update-node
+---
+StringLiteral: "undersigned entity" [173,174]
+replace "undersigned entity" by "Centrue Financial Corporation"
+Total Num of Actions is: 2
+Move Num is: 0
+Update Num is: 1
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 1
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 2s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SPA2
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+Total Num of Actions is: 0
+Move Num is: 0
+Update Num is: 0
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 3s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SPA3
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+update-node
+---
+StringLiteral: "BIOCARDIA, INC." [162,163]
+replace "BIOCARDIA, INC." by "BIOCARDIA"
+===
+update-node
+---
+DecimalNumber: 2000000 [237,238]
+replace 2000000 by 20000000
+===
+update-node
+---
+StringLiteral: "LINCOLN PARK CAPITAL FUND, LLC" [174,175]
+replace "LINCOLN PARK CAPITAL FUND, LLC" by "BIOCARDIA"
+Total Num of Actions is: 3
+Move Num is: 0
+Update Num is: 3
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 2s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SPA4
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+update-node
+---
+StringLiteral: "" [161,162]
+replace "" by "Rita Mallatt"
+Total Num of Actions is: 1
+Move Num is: 0
+Update Num is: 1
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 2s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SPA5
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+update-node
+---
+StringLiteral: "Griffin Ventures, Ltd." [161,162]
+replace "Griffin Ventures, Ltd." by ""
+===
+update-node
+---
+DecimalNumber: 37100 [236,237]
+replace 37100 by 60639067
+===
+update-node
+---
+StringLiteral: "the investors listed on Schedule A hereto" [173,174]
+replace "the investors listed on Schedule A hereto" by ""
+Total Num of Actions is: 3
+Move Num is: 0
+Update Num is: 3
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 4s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SPA6
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+move-tree
+---
+expression [320,321]
+    primaryExpression [320,321]
+        numberLiteral [320,321]
+            DecimalNumber: 0 [320,321]
+to
+variableDeclarationStatement [234,239]
+at 1
+===
+insert-tree
+---
+identifier [143,144]
+    Identifier: NaN [143,144]
+to
+primaryExpression [148,149]
+at 0
+===
+update-node
+---
+StringLiteral: "American Champion Entertainment, Inc." [161,162]
+replace "American Champion Entertainment, Inc." by "American Champion Entertainment"
+===
+update-node
+---
+StringLiteral: "Mr. Yuanhao Li" [173,174]
+replace "Mr. Yuanhao Li" by "Yuanhao Li"
+===
+delete-tree
+---
+numberLiteral [148,149]
+    DecimalNumber: 0 [148,149]
+===
+delete-tree
+---
+expression [237,238]
+    primaryExpression [237,238]
+        numberLiteral [237,238]
+            DecimalNumber: 1000000 [237,238]
+===
+delete-tree
+---
+identifier [273,274]
+    Identifier: purchaseConfirm [273,274]
+===
+delete-tree
+---
+parameterList [274,278]
+    parameter [275,277]
+        typeName [275,276]
+            elementaryTypeName [275,276]
+                Uint: uint32 [275,276]
+        identifier [276,277]
+            Identifier: buyerIndex [276,277]
+===
+delete-node
+---
+modifierList [278,279]
+===
+===
+delete-tree
+---
+statement [280,289]
+    simpleStatement [280,289]
+        expressionStatement [280,289]
+            expression [280,288]
+                expression [280,281]
+                    primaryExpression [280,281]
+                        identifier [280,281]
+                            Identifier: require [280,281]
+                functionCallArguments [282,287]
+                    expressionList [282,287]
+                        expression [282,287]
+                            expression [282,283]
+                                primaryExpression [282,283]
+                                    identifier [282,283]
+                                        Identifier: buyerIndex [282,283]
+                            expression [284,287]
+                                expression [284,285]
+                                    primaryExpression [284,285]
+                                        identifier [284,285]
+                                            Identifier: buyer [284,285]
+                                identifier [286,287]
+                                    Identifier: length [286,287]
+===
+delete-tree
+---
+statement [289,308]
+    ifStatement [289,308]
+        expression [291,296]
+            expression [291,294]
+                expression [291,292]
+                    primaryExpression [291,292]
+                        identifier [291,292]
+                            Identifier: msg [291,292]
+                identifier [293,294]
+                    Identifier: sender [293,294]
+            expression [295,296]
+                primaryExpression [295,296]
+                    identifier [295,296]
+                        Identifier: seller [295,296]
+        statement [297,308]
+            block [297,308]
+                statement [298,305]
+                    simpleStatement [298,305]
+                        expressionStatement [298,305]
+                            expression [298,304]
+                                expression [298,302]
+                                    expression [298,299]
+                                        primaryExpression [298,299]
+                                            identifier [298,299]
+                                                Identifier: purchaseSellerConfirmed [298,299]
+                                    expression [300,301]
+                                        primaryExpression [300,301]
+                                            identifier [300,301]
+                                                Identifier: buyerIndex [300,301]
+                                expression [303,304]
+                                    primaryExpression [303,304]
+                                        BooleanLiteral: true [303,304]
+                statement [305,307]
+                    returnStatement [305,307]
+===
+delete-tree
+---
+statement [308,315]
+    simpleStatement [308,315]
+        variableDeclarationStatement [308,315]
+            variableDeclaration [308,310]
+                typeName [308,309]
+                    elementaryTypeName [308,309]
+                        Uint: uint [308,309]
+                identifier [309,310]
+                    Identifier: buyerNum [309,310]
+            expression [311,314]
+                expression [311,312]
+                    primaryExpression [311,312]
+                        identifier [311,312]
+                            Identifier: buyerName [311,312]
+                identifier [313,314]
+                    Identifier: length [313,314]
+===
+delete-tree
+---
+variableDeclaration [317,319]
+    typeName [317,318]
+        elementaryTypeName [317,318]
+            Uint: uint [317,318]
+    identifier [318,319]
+        Identifier: i [318,319]
+===
+delete-node
+---
+variableDeclarationStatement [317,322]
+===
+===
+delete-node
+---
+simpleStatement [317,322]
+===
+===
+delete-tree
+---
+expression [322,325]
+    expression [322,323]
+        primaryExpression [322,323]
+            identifier [322,323]
+                Identifier: i [322,323]
+    expression [324,325]
+        primaryExpression [324,325]
+            identifier [324,325]
+                Identifier: buyerNum [324,325]
+===
+delete-tree
+---
+expression [326,328]
+    expression [326,327]
+        primaryExpression [326,327]
+            identifier [326,327]
+                Identifier: i [326,327]
+===
+delete-tree
+---
+statement [329,353]
+    block [329,353]
+        statement [330,352]
+            ifStatement [330,352]
+                expression [332,340]
+                    expression [332,335]
+                        expression [332,333]
+                            primaryExpression [332,333]
+                                identifier [332,333]
+                                    Identifier: msg [332,333]
+                        identifier [334,335]
+                            Identifier: sender [334,335]
+                    expression [336,340]
+                        expression [336,337]
+                            primaryExpression [336,337]
+                                identifier [336,337]
+                                    Identifier: buyer [336,337]
+                        expression [338,339]
+                            primaryExpression [338,339]
+                                identifier [338,339]
+                                    Identifier: i [338,339]
+                statement [341,352]
+                    block [341,352]
+                        statement [342,349]
+                            simpleStatement [342,349]
+                                expressionStatement [342,349]
+                                    expression [342,348]
+                                        expression [342,346]
+                                            expression [342,343]
+                                                primaryExpression [342,343]
+                                                    identifier [342,343]
+                                                        Identifier: purchaseBuyerConfirmed [342,343]
+                                            expression [344,345]
+                                                primaryExpression [344,345]
+                                                    identifier [344,345]
+                                                        Identifier: i [344,345]
+                                        expression [347,348]
+                                            primaryExpression [347,348]
+                                                BooleanLiteral: true [347,348]
+                        statement [349,351]
+                            returnStatement [349,351]
+===
+delete-node
+---
+forStatement [315,353]
+===
+===
+delete-node
+---
+statement [315,353]
+===
+===
+delete-node
+---
+block [279,354]
+===
+===
+delete-node
+---
+functionDefinition [272,354]
+===
+===
+delete-node
+---
+contractPart [272,354]
+===
+===
+delete-tree
+---
+statement [382,390]
+    simpleStatement [382,390]
+        expressionStatement [382,390]
+            expression [382,389]
+                expression [382,383]
+                    primaryExpression [382,383]
+                        identifier [382,383]
+                            Identifier: require [382,383]
+                functionCallArguments [384,388]
+                    expressionList [384,388]
+                        expression [384,388]
+                            expression [384,385]
+                                primaryExpression [384,385]
+                                    identifier [384,385]
+                                        Identifier: purchaseBuyerConfirmed [384,385]
+                            expression [386,387]
+                                primaryExpression [386,387]
+                                    numberLiteral [386,387]
+                                        DecimalNumber: 0 [386,387]
+===
+delete-tree
+---
+statement [390,398]
+    simpleStatement [390,398]
+        expressionStatement [390,398]
+            expression [390,397]
+                expression [390,391]
+                    primaryExpression [390,391]
+                        identifier [390,391]
+                            Identifier: require [390,391]
+                functionCallArguments [392,396]
+                    expressionList [392,396]
+                        expression [392,396]
+                            expression [392,393]
+                                primaryExpression [392,393]
+                                    identifier [392,393]
+                                        Identifier: purchaseSellerConfirmed [392,393]
+                            expression [394,395]
+                                primaryExpression [394,395]
+                                    numberLiteral [394,395]
+                                        DecimalNumber: 0 [394,395]
+Total Num of Actions is: 25
+Move Num is: 1
+Update Num is: 2
+Insert Num is: 0
+Delete Num is: 8
+Tree Insert Num is: 1
+Tree Delete Num is: 13
+
+
+BUILD SUCCESSFUL in 3s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SPA7
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+insert-tree
+---
+identifier [143,144]
+    Identifier: NaN [143,144]
+to
+primaryExpression [148,149]
+at 0
+===
+update-node
+---
+StringLiteral: "Armada Enterprises GP, LLC" [161,162]
+replace "Armada Enterprises GP, LLC" by "Armada Enterprises GP"
+===
+update-node
+---
+StringLiteral: "MC 2 Consulting, Inc." [173,174]
+replace "MC 2 Consulting, Inc." by "MC 2 Consulting"
+===
+delete-tree
+---
+numberLiteral [148,149]
+    DecimalNumber: 0 [148,149]
+Total Num of Actions is: 4
+Move Num is: 0
+Update Num is: 2
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 1
+Tree Delete Num is: 1
+
+
+BUILD SUCCESSFUL in 3s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SPA8
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+insert-tree
+---
+identifier [143,144]
+    Identifier: NaN [143,144]
+to
+primaryExpression [148,149]
+at 0
+===
+update-node
+---
+StringLiteral: "Mark Capital, LLC" [161,162]
+replace "Mark Capital, LLC" by "Mark Capital"
+===
+delete-tree
+---
+numberLiteral [148,149]
+    DecimalNumber: 0 [148,149]
+Total Num of Actions is: 3
+Move Num is: 0
+Update Num is: 1
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 1
+Tree Delete Num is: 1
+
+
+BUILD SUCCESSFUL in 3s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SPA9
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+update-node
+---
+StringLiteral: "Location Based Technologies, Inc." [161,162]
+replace "Location Based Technologies, Inc." by ""
+===
+update-node
+---
+StringLiteral: "Allen Simon" [173,174]
+replace "Allen Simon" by ""
+Total Num of Actions is: 2
+Move Num is: 0
+Update Num is: 2
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 3s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SECPA0
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+Total Num of Actions is: 0
+Move Num is: 0
+Update Num is: 0
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 3s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SECPA1
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+Total Num of Actions is: 0
+Move Num is: 0
+Update Num is: 0
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 2s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SECPA2
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+update-node
+---
+StringLiteral: "REYNALD THAUVETTE and DOMINIQUE JOYAL" [173,174]
+replace "REYNALD THAUVETTE and DOMINIQUE JOYAL" by "TEGO CYBER INC."
+Total Num of Actions is: 1
+Move Num is: 0
+Update Num is: 1
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 2s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SECPA3
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+update-node
+---
+DecimalNumber: 600000 [236,237]
+replace 600000 by 10000000
+Total Num of Actions is: 1
+Move Num is: 0
+Update Num is: 1
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 2s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SA0
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+update-node
+---
+Identifier: StockPurchaseAgreement [7,8]
+replace StockPurchaseAgreement by SecurityAgreement
+===
+update-node
+---
+StringLiteral: "Adial Pharmaceuticals, Inc." [161,162]
+replace "Adial Pharmaceuticals, Inc." by "Adial Pharmaceuticals"
+===
+update-node
+---
+DecimalNumber: 32500 [236,237]
+replace 32500 by 325000
+===
+update-node
+---
+StringLiteral: "the secured party signatory hereto and its respective endorsees, transferees and assigns" [173,174]
+replace "the secured party signatory hereto and its respective endorsees, transferees and assigns" by "Adial Pharmaceuticals"
+Total Num of Actions is: 4
+Move Num is: 0
+Update Num is: 4
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 3s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+
+SA1
+> Task :core:compileJava UP-TO-DATE
+
+> Task :core:processResources NO-SOURCE
+
+> Task :core:classes UP-TO-DATE
+
+> Task :core:jar UP-TO-DATE
+
+> Task :gen.jdt:compileJava UP-TO-DATE
+
+> Task :gen.jdt:processResources NO-SOURCE
+
+> Task :gen.jdt:classes UP-TO-DATE
+
+> Task :gen.jdt:jar UP-TO-DATE
+
+> Task :benchmark:compileJava UP-TO-DATE
+
+> Task :benchmark:processResources NO-SOURCE
+
+> Task :benchmark:classes UP-TO-DATE
+
+> Task :benchmark:run SKIPPED
+
+> Task :client:compileJava UP-TO-DATE
+
+> Task :client:processResources NO-SOURCE
+
+> Task :client:classes UP-TO-DATE
+
+> Task :client:jar UP-TO-DATE
+
+> Task :client.diff:compileJava UP-TO-DATE
+
+> Task :client.diff:processResources UP-TO-DATE
+
+> Task :client.diff:classes UP-TO-DATE
+
+> Task :client.diff:jar UP-TO-DATE
+
+> Task :gen.antlr3:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr3:compileJava UP-TO-DATE
+
+> Task :gen.antlr3:processResources NO-SOURCE
+
+> Task :gen.antlr3:classes UP-TO-DATE
+
+> Task :gen.antlr3:jar UP-TO-DATE
+
+> Task :gen.antlr3-antlr:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-antlr:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-antlr:processResources NO-SOURCE
+
+> Task :gen.antlr3-antlr:classes UP-TO-DATE
+
+> Task :gen.antlr3-antlr:jar UP-TO-DATE
+
+> Task :gen.antlr3-json:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-json:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-json:processResources NO-SOURCE
+
+> Task :gen.antlr3-json:classes UP-TO-DATE
+
+> Task :gen.antlr3-json:jar UP-TO-DATE
+
+> Task :gen.antlr3-php:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-php:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-php:processResources NO-SOURCE
+
+> Task :gen.antlr3-php:classes UP-TO-DATE
+
+> Task :gen.antlr3-php:jar UP-TO-DATE
+
+> Task :gen.antlr3-r:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-r:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-r:processResources NO-SOURCE
+
+> Task :gen.antlr3-r:classes UP-TO-DATE
+
+> Task :gen.antlr3-r:jar UP-TO-DATE
+
+> Task :gen.antlr3-xml:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr3-xml:compileJava UP-TO-DATE
+
+> Task :gen.antlr3-xml:processResources NO-SOURCE
+
+> Task :gen.antlr3-xml:classes UP-TO-DATE
+
+> Task :gen.antlr3-xml:jar UP-TO-DATE
+
+> Task :gen.antlr4:generateGrammarSource NO-SOURCE
+
+> Task :gen.antlr4:compileJava UP-TO-DATE
+
+> Task :gen.antlr4:processResources NO-SOURCE
+
+> Task :gen.antlr4:classes UP-TO-DATE
+
+> Task :gen.antlr4:jar UP-TO-DATE
+
+> Task :gen.antlr4-solidity:generateGrammarSource UP-TO-DATE
+
+> Task :gen.antlr4-solidity:compileJava UP-TO-DATE
+
+> Task :gen.antlr4-solidity:processResources NO-SOURCE
+
+> Task :gen.antlr4-solidity:classes UP-TO-DATE
+
+> Task :gen.antlr4-solidity:jar UP-TO-DATE
+
+> Task :gen.css:compileJava UP-TO-DATE
+
+> Task :gen.css:processResources NO-SOURCE
+
+> Task :gen.css:classes UP-TO-DATE
+
+> Task :gen.css:jar UP-TO-DATE
+
+> Task :gen.javaparser:compileJava UP-TO-DATE
+
+> Task :gen.javaparser:processResources NO-SOURCE
+
+> Task :gen.javaparser:classes UP-TO-DATE
+
+> Task :gen.javaparser:jar UP-TO-DATE
+
+> Task :gen.js:compileJava UP-TO-DATE
+
+> Task :gen.js:processResources NO-SOURCE
+
+> Task :gen.js:classes UP-TO-DATE
+
+> Task :gen.js:jar UP-TO-DATE
+
+> Task :gen.python:compileJava UP-TO-DATE
+
+> Task :gen.python:processResources NO-SOURCE
+
+> Task :gen.python:classes UP-TO-DATE
+
+> Task :gen.python:jar UP-TO-DATE
+
+> Task :gen.ruby:compileJava UP-TO-DATE
+
+> Task :gen.ruby:processResources NO-SOURCE
+
+> Task :gen.ruby:classes UP-TO-DATE
+
+> Task :gen.ruby:jar UP-TO-DATE
+
+> Task :gen.srcml:compileJava UP-TO-DATE
+
+> Task :gen.srcml:processResources NO-SOURCE
+
+> Task :gen.srcml:classes UP-TO-DATE
+
+> Task :gen.srcml:jar UP-TO-DATE
+
+> Task :dist:compileJava NO-SOURCE
+
+> Task :dist:processResources NO-SOURCE
+
+> Task :dist:classes UP-TO-DATE
+
+
+
+> Task :dist:run
+
+===
+update-node
+---
+Identifier: StockPurchaseAgreement [7,8]
+replace StockPurchaseAgreement by SecurityAgreement
+===
+update-node
+---
+StringLiteral: "HOYTS HOLLOW MANAGEMENT LLC" [173,174]
+replace "HOYTS HOLLOW MANAGEMENT LLC" by "INTELLIGENT LIVING INC."
+Total Num of Actions is: 2
+Move Num is: 0
+Update Num is: 2
+Insert Num is: 0
+Delete Num is: 0
+Tree Insert Num is: 0
+Tree Delete Num is: 0
+
+
+BUILD SUCCESSFUL in 3s
+
+45 actionable tasks: 1 executed, 44 up-to-date
+
+

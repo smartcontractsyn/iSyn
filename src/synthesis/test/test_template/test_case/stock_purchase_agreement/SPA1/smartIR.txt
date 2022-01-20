@@ -1,0 +1,42 @@
+ContractCategory: StockPurchaseAgreement;
+
+Entity: {
+    SellerNames: ['Centrue Financial Corporation'];
+    BuyerNames: ['Centrue Financial Corporation'];
+};
+
+EffectiveTime: March 30, 2015;
+CloseTime: "";
+ExpiryTime: ;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: true;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: ['Centrue Financial Corporation'];
+         To: ['Centrue Financial Corporation'];
+         Price: {
+             Amount: 460000000,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: true;
+    OtherConstraint: true;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};

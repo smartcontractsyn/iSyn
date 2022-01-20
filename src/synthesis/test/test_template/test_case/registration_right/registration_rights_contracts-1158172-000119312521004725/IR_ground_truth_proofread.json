@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "RegistrationRightAgreement",
+    "SellerName": [
+        "comScore, Inc."
+    ],
+    "BuyerName": [
+        "Charter Communications Holding Company, LLC"
+    ],
+    "EffectiveTime": [
+        "January 7, 2021"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        "July 1, 2021"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Charter Communications Holding Company, LLC"
+            ],
+            "To": [
+                "comScore, Inc."
+            ],
+            "PurchasePrice": "68000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

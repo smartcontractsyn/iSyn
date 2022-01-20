@@ -1,0 +1,331 @@
+Dated as of June 25, 2015
+as Paying Agent and Transfer Agent
+Paying Agent, Registrars and Transfer Agents
+Transfer and Exchange
+Notices to Trustee
+Selection of Notes to Be Redeemed or Purchased
+Deposit of Redemption or Purchase Price
+Notes Redeemed or Purchased in Part
+Offer to Repurchase Upon Change of Control.
+Post-Closing Collateral and Guarantees
+Collection Suit by Trustee
+Trustee May File Proofs of Claim
+AMENDMENT, SUPPLEMENT AND WAIVER
+Trustee and the Collateral Agents to Sign Amendments, etc.
+“Issue Date” means June 25, 2015.
+(c)                                  Investments in: (i) the Issuer, (ii) a Restricted Subsidiary; or (iii) another Person if as a result of such Investment such other Person becomes a Restricted Subsidiary or such other Person is merged or consolidated with or into, or transfers or conveys all or substantially all of its assets to, the Parent Guarantor or a Restricted Subsidiary; provided that, in the case of clauses (ii) and (iii), such Investment complies with Section 4.11(a)(1) hereof;
+“Acquisition Longstop Date”
+“Change of Control Payment Date”
+“Purchase Date”
+Each Note will be dated the date of its authentication.
+The Global Notes will, upon issuance, be deposited with and registered in the name of the Depositary (or its nominee) for the accounts of Euroclear and Clearstream.
+Notes offered and sold in reliance on Regulation S will be issued initially in the form of a Regulation S Global Note, which will be deposited with the Custodian and registered in the name of the Depositary or its nominee, duly executed by the Issuer and authenticated by the Trustee or the Authenticating Agent as hereinafter provided.
+Definitive Notes issued upon transfer of a Book-Entry Interest or a Definitive Note, or in exchange for a Book-Entry Interest or a Definitive Note, will be issued in accordance with this Indenture.
+At least one Officer must sign the Notes for the Issuer by manual or facsimile signature.
+Notwithstanding the foregoing, if any Note will have been authenticated and delivered hereunder but never issued and sold by the Issuer, the Issuer will deliver such Note to the Trustee for cancellation pursuant to Section 2.11 hereof.
+The Trustee will, upon receipt of a written order of the Issuer signed by an authorized representative (an “Authentication Order”), authenticate or cause the Authenticating Agent to authenticate the Notes for original issue that may be validly issued under this Indenture, including any Additional Notes.
+The Registrar and the Transfer Agent will maintain a register (the “Register”) reflecting ownership of Definitive Notes outstanding from time to time and will make payments on and facilitate transfer of Definitive Notes on the behalf of the Issuer and will send a copy of the Register to the Issuer on the Issue Date and after any change to the Register made by the Registrar, with such copy to be held by the Issuer and at its registered office.
+Upon written notice to the Trustee, the Issuer may change the Paying Agent, Registrar or Transfer Agent without prior notice to the Holders.
+The Issuer will require each Paying Agent other than the Trustee and the initial Paying Agent to agree in writing that each Paying Agent will hold for the benefit of Holders or the Trustee all money held by the Paying Agent for the payment of principal of (and premium, if any) or interest on the Notes, and will notify the Trustee in writing of any Default by the Issuer in making any such payment.
+The Issuer will provide funds to the Paying Agent no later than 10:00 a.m. (London time) on the Business Day prior to the day on which the Paying Agent is to make payment.
+In addition, the Issuer shall cause the bank effecting payment for it to confirm, before 10:00 a.m. (London time) on the third Business Day before each Payment Date, by tested telex or authenticated SWIFT message to the Paying Agent, the payment instructions relating to such payment.
+If the Trustee or the Paying Agent is not the Registrar, the Issuer will furnish or cause the Registrar to furnish, to the Trustee and each Paying Agent at least seven Business Days before each interest payment date and at such other times as the Trustee or the Paying Agent may request in writing, a list of the names and addresses of the Holders in such form and as of such date as the Trustee or the Paying Agent may reasonably require.
+All Global Notes will be exchanged by the Issuer for Definitive Notes:
+(2)           if Euroclear or Clearstream so request following an Event of Default under the Indenture;
+(4)           if the owner of a Book-Entry Interest requests such exchange in writing delivered through either Euroclear or Clearstream following an Event of Default.
+Every Note authenticated and delivered in exchange for, or in lieu of, a Global Note or any portion thereof, pursuant to this Section 2.06 or Section 2.07 or 2.10 hereof, shall be authenticated and delivered in the form of, and shall be, a Global Note.
+Book-Entry Interests in a Restricted Global Note may be transferred to Persons who take delivery thereof in the form of a Book-Entry Interest in the same Restricted Global Note in accordance with the transfer restrictions set forth in the Private Placement Legend; provided, however, that prior to the expiration of the Restricted Period, Book-Entry Interests in the Regulation S Global Notes will be limited to persons that have accounts with Euroclear or Clearstream or persons who hold interests through Euroclear or Clearstream, and any sale or transfer of such interest to U.S.
+Book-Entry Interests in any Unrestricted Global Note may be transferred to Persons who take delivery thereof in the form of a Book-Entry Interest in an Unrestricted Global Note.
+No written orders or instructions will be required to be delivered to the Trustee to effect the transfers described in this Section 2.06(b)(1).
+A holder may transfer or exchange a Book-Entry Interest in Global Notes in a transaction not subject to Section 2.06(b)(1) hereof only if the Trustee and the Registrar or the Transfer Agent (copied to the Trustee) receives either:
+(i)            a written order from a Participant or an Indirect Participant given to the Depositary in accordance with the Applicable Procedures directing such Depositary to credit or cause to be credited a Book-Entry Interest in another Global Note in an amount equal to the Book-Entry Interest to be transferred or exchanged; and
+(i)            a written order from a Participant or an Indirect Participant given to the Depositary in accordance with the Applicable Procedures directing such Depositary to cause to be issued a Definitive Note in an amount equal to the Book-Entry Interest to be transferred or exchanged; and
+(ii)           instructions given by the Depositary to the Registrar containing information specifying the identity of the Person in whose name such Definitive Note will be registered to effect the transfer or exchange referred to in (i) above, the principal amount of such securities and the ISIN, Common Code or other similar number identifying the Notes,
+(3)           Transfer of Book-Entry Interests to Another Restricted Global Note.
+A Book-Entry Interest in any Restricted Global Note may be transferred to a Person who takes delivery thereof in the form of a Book-Entry Interest in another Restricted Global Note if the transfer complies with the requirements of Section 2.06(b)(2) hereof and the Registrar receives the following:
+(A)          if the transferee will take delivery in the form of a Book-Entry Interest in a Rule 144A Global Note, then the transferor must deliver a certificate in the form of Exhibit B hereto, including the certifications in item (1) thereof; and
+(B)          if the transferee will take delivery in the form of a Book-Entry Interest in a Regulation S Global Note, then the transferor must deliver a certificate in the form of Exhibit B hereto, including the certifications in item (2) thereof.
+A Book-Entry Interest in any Restricted Global Note may be exchanged by any holder thereof for a Book-Entry Interest in an Unrestricted Global Note or transferred to a Person who takes delivery thereof in the form of a Book-Entry Interest in an Unrestricted Global Note if the exchange or transfer complies with the requirements of Section 2.06(b)(2) above and the Registrar receives the following:
+(i)            if the holder of such Book-Entry Interest in a Restricted Global Note proposes to exchange such Book-Entry Interest for a Book-Entry Interest in an Unrestricted Global Note, a certificate from such holder in the form of Exhibit C hereto, including the certifications in item (1)(a) thereof; or
+(ii)           if the holder of such Book-Entry Interest in a Restricted Global Note proposes to transfer such Book-Entry Interest to a Person who shall take delivery thereof in the form of a Book-Entry Interest in an Unrestricted Global Note, a certificate from such holder in the form of Exhibit B hereto, including the certifications in item (4) thereof;
+If any such transfer is effected at a time when an Unrestricted Global Note has not yet been issued, the Issuer shall issue and, upon receipt of an Authentication Order in accordance with Section 2.02 hereof, the Trustee shall authenticate one or more Unrestricted Global Notes in an aggregate principal amount equal to the aggregate principal amount of Book-Entry Interests transferred pursuant to this Section 2.06(b)(4).
+Book-Entry Interests in an Unrestricted Global Note cannot be exchanged for, or transferred to Persons who take delivery thereof in the form of, a Book-Entry Interest in a Restricted Global Note.
+(c)           Transfer or Exchange of Book-Entry Interests for Definitive Notes.
+If any holder of a Book-Entry Interest in a Restricted Global Note proposes to exchange such Book-Entry Interest for a Restricted Definitive Note or to transfer such Book-Entry Interest to a Person who takes delivery thereof in the form of a Restricted Definitive Note, then, upon receipt by the Registrar of the following documentation:
+(A)          if the holder of such Book-Entry Interest in a Restricted Global Note proposes to exchange such Book-Entry Interest for a Restricted Definitive Note, a certificate from such holder in the form of Exhibit C hereto, including the certifications in item (2)(a) thereof;
+(B)          if such Book-Entry Interest is being transferred to a QIB in accordance with Rule 144A, a certificate to the effect set forth in Exhibit B hereto, including the certifications in item (1) thereof;
+(E)           if such Book-Entry Interest is being transferred to the Issuer or any of its Subsidiaries, a certificate to the effect set forth in Exhibit B hereto, including the certifications in item (3)(b) thereof; or
+the Trustee shall cause the aggregate principal amount of the applicable Global Note to be reduced accordingly pursuant to Section 2.06(g) hereof, and the Issuer shall execute and the Trustee shall authenticate and deliver to the Person designated in the instructions a Definitive Note in the appropriate principal amount.
+The Trustee shall deliver such Definitive Notes to the Persons in whose names such Notes are so registered.
+A holder of a Book-Entry Interest in a Restricted Global Note may exchange such Book-Entry Interest for an Unrestricted Definitive Note or may transfer such Book-Entry Interest to a Person who takes delivery thereof in the form of an Unrestricted Definitive Note only if the Registrar receives the following:
+(A)          if the holder of such Book-Entry Interest in a Restricted Global Note proposes to exchange such Book-Entry Interest for an Unrestricted Definitive Note, a certificate from such holder in the form of Exhibit C hereto, including the certifications in item (1)(b) thereof; or
+(B)          if the holder of such Book-Entry Interest in a Restricted Global Note proposes to transfer such Book-Entry Interest to a Person who shall take delivery thereof in the form of an Unrestricted Definitive Note, a certificate from such holder in the form of Exhibit B hereto, including the certifications in item (4) thereof;
+If any holder of a Book-Entry Interest in an Unrestricted Global Note proposes to exchange such Book-Entry Interest for a Definitive Note or to transfer such Book-Entry Interest to a Person who takes delivery thereof in the form of a Definitive Note, then, upon satisfaction of the conditions set forth in Section 2.06(b)(2) hereof, the Trustee will cause the aggregate principal amount of the applicable Global Note to be reduced accordingly pursuant to Section 2.06(g) hereof, and the Issuer will execute and the Trustee will authenticate and deliver to the Person designated in the instructions a Definitive Note in the appropriate principal amount.
+The Trustee will deliver such Definitive Notes to the
+(d)           Transfer and Exchange of Definitive Notes for Book-Entry Interests.
+If any Holder of a Restricted Definitive Note proposes to exchange such Note for a Book-Entry Interest in a Restricted Global Note or to transfer such Restricted Definitive Notes to a Person who takes delivery thereof in the form of a Book-Entry Interest in a Restricted Global Note, then, upon receipt by the Registrar of the following documentation:
+(A)          if the Holder of such Restricted Definitive Note proposes to exchange such Note for a Book-Entry Interest in a Restricted Global Note, a certificate from such Holder in the form of Exhibit C hereto, including the certifications in item (2)(b) thereof;
+(B)          if such Restricted Definitive Note is being transferred to a QIB in accordance with Rule 144A, a certificate to the effect set forth in Exhibit B hereto, including the certifications in item (1) thereof;
+(E)           if such Restricted Definitive Note is being transferred to the Issuer or any of its Subsidiaries, a certificate to the effect set forth in Exhibit B hereto, including the certifications in item (3)(b) thereof; or
+A Holder of a Restricted Definitive Note may exchange such Note for a Book-Entry Interest in an Unrestricted Global Note or transfer such Restricted Definitive Note to a Person who takes delivery thereof in the form of a Book-Entry Interest in an Unrestricted Global Note only if the Registrar receives the following:
+(A)          if the Holder of such Definitive Notes proposes to exchange such Notes for a Book-Entry Interest in the Unrestricted Global Note, a certificate from such Holder in the form of Exhibit C hereto, including the certifications in item (1)(c) thereof; or
+(B)          if the Holder of such Definitive Notes proposes to transfer such Notes to a Person who shall take delivery thereof in the form of a Book-Entry Interest in the Unrestricted Global Note, a certificate from such Holder in the form of Exhibit B hereto, including the certifications in item (4) thereof;
+A Holder of an Unrestricted Definitive Note may exchange such Note for a Book-Entry Interest in an Unrestricted Global Note or transfer such Definitive Notes to a Person who takes delivery thereof in the form of a Book-Entry Interest in an Unrestricted Global Note at any time.
+If any such exchange or transfer from a Definitive Note to a Book-Entry Interest is effected pursuant to paragraphs (2) or (3) above at a time when an Unrestricted Global Note has not yet been issued, the Issuer will issue and, upon receipt of an Authentication Order in accordance with Section 2.02 hereof, the Trustee will authenticate one or more Unrestricted Global Notes in an aggregate principal amount equal to the principal amount of Definitive Notes so transferred.
+(e)           Transfer and Exchange of Definitive Notes for Definitive Notes.
+Prior to such registration of transfer or exchange, the requesting Holder must present or surrender to the Registrar the Definitive Notes duly endorsed or accompanied by a written instruction of transfer in form satisfactory to the Registrar duly executed by such Holder or by its attorney, duly authorized in writing.
+Any Restricted Definitive Note may be transferred to and registered in the name of Persons who take delivery thereof in the form of a Restricted Definitive Note if the Registrar receives the following:
+(A)          if the transfer will be made pursuant to Rule 144A, then the transferor must deliver a certificate in the form of Exhibit B hereto, including the certifications in item (1) thereof;
+(B)          if the transfer will be made pursuant to Rule 903 or Rule 904, then the transferor must deliver a certificate in the form of Exhibit B hereto, including the certifications in item (2) thereof; and
+certificate in the form of Exhibit B hereto, including the certifications, certificates and Opinion of Counsel required by item (3) thereof, if applicable.
+Any Restricted Definitive Note may be exchanged by the Holder thereof for an Unrestricted Definitive Note or transferred to a Person or Persons who take delivery thereof in the form of an Unrestricted Definitive Note if the Registrar receives the following:
+(A)          if the Holder of such Restricted Definitive Notes proposes to exchange such Notes for an Unrestricted Definitive Note, a certificate from such Holder in the form of Exhibit C hereto, including the certifications in item (1)(d) thereof; or
+(B)          if the Holder of such Restricted Definitive Notes proposes to transfer such Notes to a Person who shall take delivery thereof in the form of an Unrestricted Definitive Note, a certificate from such Holder in the form of Exhibit B hereto, including the certifications in item (4) thereof;
+A Holder of Unrestricted Definitive Notes may transfer such Notes to a Person who takes delivery thereof in the form of an Unrestricted Definitive Note.
+Upon receipt of a request to register such a transfer, the Registrar shall register the Unrestricted Definitive Notes pursuant to the instructions from the Holder thereof.
+At any time prior to such cancellation, if any Book-Entry Interest in a Global Note is exchanged for or transferred to a Person who will take delivery thereof in the form of a Book-Entry Interest in another Global Note or for Definitive Notes, the principal amount of Notes represented by such Global Note will be reduced accordingly and an endorsement will be made on such Global Note by the Trustee or
+(1)           To permit registrations of transfers and exchanges, the Issuer will execute and the Trustee or the Authenticating Agent will authenticate Global Notes and Definitive Notes upon receipt of an Authentication Order in accordance with Section 2.02 hereof or at the Registrar’s request.
+(5)           The Issuer will not be required to register the transfer into its register kept at its registered office of any Definitive Notes: (A) for a period of 15 calendar days prior to any date fixed for the redemption of the Notes under Section 3.03 hereof; (B) for a period of 15 calendar days immediately prior to the date fixed for selection of Notes to be redeemed in part; (C) for a period of 15 calendar days prior to the record date with respect to any interest payment date, or (D) which the Holder has tendered (and not withdrawn) for repurchase in connection with a Change of Control Offer, an Asset Sale Offer or a Notes Offer.
+(7)           All certifications, certificates and Opinions of Counsel required to be submitted to the Issuer, the Trustee or the applicable Registrar pursuant to this Section 2.06 to effect a registration of transfer or exchange may be submitted initially by facsimile with originals to be delivered promptly thereafter to the Trustee.
+(a)           If any mutilated Note is surrendered to the Registrar, the Trustee or the Issuer and the Trustee receives evidence to its satisfaction of the destruction, loss or theft of any Note, the Issuer will issue and the Trustee, upon receipt of an Authentication Order, will authenticate or cause the Authenticating Agent to authenticate a replacement Note if the Trustee’s requirements are met.
+Until certificates representing Notes are ready for delivery, the Issuer may prepare and the Trustee, upon receipt of an Authentication Order, will authenticate or cause the Authenticating Agent to authenticate temporary Notes.
+Without unreasonable delay, the Issuer will prepare and the Trustee or the Authenticating Agent will authenticate definitive Notes in exchange for temporary Notes.
+The Issuer at any time may deliver Notes to the Trustee for cancellation.
+The Registrar, each Paying Agent and any Transfer Agent will forward to the Trustee any Notes surrendered to them for registration of transfer, exchange or payment.
+Certification of the destruction of all canceled Notes will be delivered to the Issuer following a written request from the Issuer.
+The Issuer may not issue new Notes to replace Notes that it has paid or that have been delivered to the Trustee for cancellation.
+The Issuer will notify the Trustee as soon as practicable in writing of the amount of defaulted interest proposed to be paid on each Note and the date of the proposed payment.
+The Issuer will fix or cause to be fixed each such special record date and payment date; provided that no such special record date may be less than 10 days prior to the related payment date for such defaulted interest.
+At least 15 days before the special record date, the Issuer (or, upon the written request of the Issuer, the Trustee in the name and at the expense of the Issuer) will mail or cause to be mailed to the Holders in accordance with Section 13.01 hereof a notice that states the special record date, the related payment date and the amount of such interest to be paid.
+(b)           Whenever it is proposed to create and issue any Additional Notes, the Issuer will give to the Trustee not less than three Business Days’ notice in writing of its intention to do so, stating the amount of Additional Notes proposed to be created and issued.
+The Issuer will promptly notify the Trustee in writing of any change in the ISIN or Common Code number.
+No later than 10:00 a.m. (London time) on the Business Day prior to each Interest Payment Date, the maturity date of the Notes and each payment date relating to an Asset Sale Offer, Notes Offer or a Change of Control Offer, and on the Business Day immediately following any acceleration of the Notes pursuant to Section 6.02 hereof, the Issuer will deposit with the Paying Agent, in immediately available funds, money in Swiss francs sufficient to make cash payments, if any, due on such day or date, as the case may be.
+Subject to actual receipt of such funds as provided by this Section 2.15 by the designated Paying Agent, such Paying Agent will remit such payment in a timely manner to the Holders on such day or date, as the case may be, to the Persons and in the manner set forth in paragraph 2 of the Notes.
+The Issuer will promptly notify the Trustee and the Paying Agent of its failure to so act.
+If the Issuer elects to redeem Notes pursuant to the optional redemption provisions of Section 3.07 or Section 3.08 hereof, it will deliver to the Trustee in accordance with Section 13.01 hereof, at least 10 days but not more than 60 days before a redemption date, an Officers’ Certificate setting forth:
+(b)           the redemption date and the record date;
+Section 3.02          Selection of Notes to Be Redeemed or Purchased.
+Notices of purchase or redemption will be given to each Holder pursuant to Sections 3.03 and 13.01 hereof.
+(a)           At least 10 days but not more than 60 days before a redemption date, the Issuer will deliver, pursuant to Section 13.01 hereof, a notice of redemption to each Holder whose Notes are to be redeemed at its registered address, except that redemption notices may be mailed more than 60 days prior to a redemption date if the notice is issued in connection with a defeasance of the Notes or the satisfaction and discharge of this Indenture pursuant to Articles 8 or 12 hereof.
+For Notes which are represented by Global Notes held on behalf of Euroclear or Clearstream, notices may be given by delivery of the relevant notices to Euroclear or Clearstream, which will give such notices to the Holders.
+(b)           The notice will identify the Notes to be redeemed and corresponding ISIN or Common Code numbers, as applicable, and will state:
+(5)     the name and address of the Paying Agent(s) to which the Notes are to be surrendered for redemption;
+(c)           At the Issuer’s request, the Trustee will give the notice of redemption in the Issuer’s name and at its expense in accordance with Section 13.01 hereof; provided, however, that the Issuer will have delivered to the Trustee, at least ten days prior to the date the notice is required to be delivered pursuant to Section 3.03(a) hereof or such shorter period acceptable to the Trustee, an Officers’ Certificate requesting that the Trustee give such notice and setting forth the information to be stated in such notice as provided in Section 3.03(b) hereof.
+Section 3.05          Deposit of Redemption or Purchase Price.
+The Trustee or the Paying Agent will promptly return to the Issuer any money deposited with the Trustee or the Paying Agent, as applicable, by the Issuer in excess of the amounts necessary to pay the redemption or purchase price of, and accrued interest, if any, on, all Notes to be purchased or redeemed.
+At any time on or after July 15, 2018, and prior to maturity, upon not less than 10 nor more than 60 days’ notice, the Issuer may, on any one or more occasions, redeem all or part of the Notes.
+(c)           Prior to the publication or, where relevant, mailing of any notice of redemption pursuant to the foregoing, the Issuer will deliver to the Trustee:
+(b)           Notice of the Special Mandatory Redemption will be delivered by the Issuer, no later than one Business Day following the Special Termination Date, to the Trustee and the Paying Agent, and will provide that the Notes shall be redeemed on a date that is no later than the fifth Business Day after such notice is given by the Issuer (the “Special Mandatory Redemption Date”).
+(b)           Each Asset Sale Offer and Notes Offer will be made to all Holders and, to the extent applicable, to all holders of Pari Passu Debt or Senior Debt, as applicable.
+(d)           Upon the commencement of an Asset Sale Offer or Notes Offer, the Issuer will send, by first class mail, a notice to the Trustee and each of the Holders with a copy to the Trustee.
+(6)     that Holders electing to have a Note purchased pursuant to any Asset Sale Offer or Notes Offer (as applicable) will be required to surrender the Note, with the form entitled “Option of Holder to Elect Purchase” on the reverse of the Note completed, or transfer by book-entry transfer through the facilities of the Depositary, to the account of the Issuer, or a Paying Agent at the address specified in the notice at least three Business Days before the Purchase Date;
+(7)     that Holders will be entitled to withdraw their election if the Issuer, the Depositary or the Paying Agent, as the case may be, receives, not later than the expiration of the Offer Period, a facsimile transmission or letter setting forth the name of the Holder, the principal amount of the Note the Holder delivered for purchase and a statement that such Holder is withdrawing his election to have such Note purchased;
+(e)           On or before the Purchase Date, the Issuer will, to the extent lawful, accept for payment, on a pro rata basis to the extent necessary, the Offer Amount of Notes or portions thereof tendered pursuant to the Asset Sale Offer or Notes Offer (as applicable), or if less than the Offer Amount has been tendered, all Notes tendered, and will deliver or cause to be delivered to the Trustee the Notes properly accepted together with an Officers’ Certificate stating that such Notes or portions thereof were accepted for payment by the Issuer in accordance with the terms of this Section 3.10.
+The Issuer, the Depositary or the Paying Agent, as the case may be, will promptly (but in any case not later than five Business Days after the Purchase Date) mail or deliver to each tendering Holder in the manner specified in the Notes an amount equal to the purchase price of the Notes tendered by such Holder and accepted by the Issuer for purchase.
+In connection with any partial purchase of Definitive Notes, the Issuer will promptly issue a new Definitive Note, and the Trustee, upon written request from the Issuer, will procure the authentication of and mail or deliver such new Definitive Note to the tendering Holder, in a principal amount equal to any unpurchased portion of the Definitive Note surrendered.
+Any Note tendered but not accepted will be promptly mailed or delivered by the Issuer to the Holder thereof.
+In addition, interest on Definitive Notes may be paid by check mailed to the person entitled thereto as shown on the Register for such Definitive Notes.
+The Issuer will give prompt written notice to the Trustee of the location, and any change in the location, of such office or agency.
+The Issuer will give prompt written notice to the Trustee of any such designation or rescission and of any change in the location of any such other office or agency.
+(a)           As long as any Notes are outstanding, the Issuer will furnish to the Trustee (who, at the Issuer’s expense will furnish by mail to the Holders):
+(1)           within 120 days after the end of the Parent Guarantor’s fiscal year beginning with the fiscal year ending August 31, 2015, annual reports containing (i) the audited consolidated balance sheet of the Parent Guarantor as of the end of the most recent fiscal year and audited consolidated income statements and statements of cash flow of the Parent Guarantor for the most recent two fiscal years, including appropriate footnotes to such financial statements, for and as of the end of such fiscal years and the report of the independent auditors on the financial statements and (ii) calculations of Consolidated EBITDA and Consolidated Interest Expense, in each case, for such fiscal year;
+(e)           The Issuer will furnish to the Holders and to prospective investors, upon the request of such Holders, any information required to be delivered pursuant to Rule 144A(d)(4) under the Securities Act as long as the Notes are not freely transferable under the Exchange Act by Persons who are not “affiliates” under the Securities Act.
+(a)           The Issuer will deliver to the Trustee no later than the date on which the Issuer is required to deliver annual reports pursuant to Section 4.03 hereof, an Officers’ Certificate stating that in the course of the performance by the relevant officers of their respective duties as an officer of the Issuer they would normally have knowledge of any Default and whether or not such officers know of any Default that occurred during such period and, if any, specifying such Default, its status and what action the Issuer is taking or proposes to take with respect thereto.
+(b)           As long as any of the Notes are outstanding, the Issuer will deliver to the Trustee, within 15 Business Days upon any Officer becoming aware of any Default, an Officers’ Certificate specifying such Default and what action the Issuer is taking or proposes to take with respect thereto.
+(2)           purchase, redeem or otherwise acquire or retire for value (including, without limitation, in connection with any merger, consolidation, amalgamation or other combination), directly or indirectly (i) any shares of the Parent Guarantor’s Capital Stock or any Capital Stock of any direct or indirect parent of the Parent Guarantor or (ii) any options, warrants or other rights to acquire such shares of Capital Stock;
+(1)           the payment of any dividend within 120 days after the date of its declaration if at such date of its declaration such payment would have been permitted by the provisions of this Section 4.07;
+(3)           make loans or advances to the Parent Guarantor or any other Restricted Subsidiary; or
+(4)           transfer any of its properties or assets to the Parent Guarantor or any other Restricted Subsidiary,
+(3)           the Issuer delivers an Officers’ Certificate to the Trustee certifying that such Asset Sale complies with the provisions described in the foregoing Sections 4.10(a)(1) and (2).
+(2)           with respect to any transaction or series of related transactions involving aggregate payments or the transfer of assets or the provision of services having a value greater than US$5,000,000 (or the Dollar Equivalent thereof), the Parent Guarantor will deliver a resolution of its Board of Directors (attached to an Officers’ Certificate to the Trustee) resolving that such transaction complies with Section 4.11(a)(1) hereof and that the fairness of such transaction has been approved by a majority of the Disinterested Members, if any, of the Board of Directors; and
+(3)           with respect to any transaction or series of related transactions involving aggregate payments or the transfer of assets or the provision of services having a value greater than US$10,000,000 (or the Dollar Equivalent thereof), the Parent Guarantor will deliver to the Trustee a written opinion of an Independent Financial Advisor stating that the transaction or series of transactions is fair to the Parent Guarantor or such Restricted Subsidiary from a financial point of view or that the terms are not materially less favorable to the Parent Guarantor or its relevant Restricted Subsidiary than those that would have been obtained in a comparable transaction by the Parent Guarantor or such Restricted Subsidiary with a Person that is not an Affiliate of the Parent Guarantor.
+Within thirty days following any Change of Control, the Issuer will mail a notice to each Holder describing the transaction or transactions that constitute the Change of Control and offering to repurchase Notes on the date (the “Change of Control Payment Date”) specified in the notice, stating:
+(2)           the Change of Control Payment and the Change of Control Payment Date, which will be no earlier than 30 days and no later than 60 days from the date such notice is mailed;
+(5)           that Holders electing to have any Notes purchased pursuant to a Change of Control Offer will be required to surrender the Notes, with the form entitled “Option of Holder to Elect Purchase” attached to the Notes completed, or transfer by book-entry transfer, to the Paying Agent at the address specified in the notice prior to the close of business on the third Business Day preceding the Change of Control Payment Date;
+(6)           that Holders will be entitled to withdraw their election if the Paying Agent receives, not later than the close of business on the second Business Day preceding the Change of Control Payment Date, a facsimile transmission or letter setting forth the name of the Holder, the principal amount of Notes delivered for purchase, and a statement that such Holder is withdrawing his election to have the Notes purchased; and
+(c)           On the Change of Control Payment Date, the Issuer will, to the extent lawful:
+(3)           deliver or cause to be delivered to the Trustee the Notes properly accepted together with an Officers’ Certificate stating the aggregate principal amount of Notes or portions of Notes being purchased by the Issuer;
+(4)           in the case of Global Notes, deliver, or cause to be delivered, to the Paying Agent the Global Notes in order to reflect thereon the portion of such Notes or portions thereof that have been tendered to and purchased by the Issuer; and
+(5)           in the case of Definitive Registered Notes, deliver, or cause to be delivered, to the relevant Registrar for cancellation all Definitive Registered Notes accepted for purchase by the Issuer.
+(d)           If any Definitive Registered Notes have been issued, the Issuer will cause to be promptly mailed to each Holder of Definitive Registered Notes so tendered the Change of Control Payment for such Notes, and the Trustee or its Authenticating Agent will promptly authenticate (or cause to be authenticated) and mail (or cause to be transferred by book-entry) to each Holder of Definitive Registered Notes a new Note equal in aggregate principal amount to the unpurchased portion of the Notes surrendered, if any; provided that each such new Note will be in an aggregate principal amount that is at least CHF150,000 and integral multiples of CHF1,000 in excess thereof.
+The Issuer will publicly announce the results of the Change of Control Offer on or as soon as practicable after the Change of Control Payment Date.
+(a)           Subject to Section 4.17(b), (c) and (d) below, the Parent Guarantor will cause all future Restricted Subsidiaries to Guarantee the Notes (other than an Immaterial Subsidiary or a Restricted Subsidiary incorporated in or organized under the laws of the PRC, the Czech Republic, the Slovak Republic, Thailand, Vietnam or any jurisdiction that prohibits such Restricted Subsidiary from guaranteeing the payment of the Notes) as soon as practicable but in any event within 60 days after each such person becomes a Restricted Subsidiary.
+(1)           (A)            such Restricted Subsidiary simultaneously executes and delivers a supplemental indenture (the form of which is attached as Exhibit E hereto) to this Indenture providing for a Guarantee of payment of the Notes by such Restricted Subsidiary on the same terms as the guarantee of such other Debt; and
+(A)          subscribe for additional Capital Stock of such Person; or
+(2)           a certificate from the Board of Directors or chief financial officer of the Parent Guarantor (acting in good faith), substantially in the form set forth as Exhibit F to this Indenture, confirming the solvency of the Person granting such Lien after giving effect
+(5)           any Tax that would not have been so imposed but for the presentation (where presentation is required in order to receive payment) by the Holder or beneficial owner of a Note for payment on a date more than 30 days after the date on which such payment becomes due and payable or the date on which payment thereof is duly provided for, whichever occurs later, except to the extent that the Holder or beneficial owner would have been entitled to such Additional Amounts on presenting the same for payment on any day (including the last day) within such 30-day period;
+The Issuer will provide the Trustee with and, upon request, make available to the Holders, within 30 days after the date on which the payment of any Taxes so deducted or withheld is due pursuant to applicable law, certified copies of tax receipts evidencing such payment by the Issuer or relevant Guarantor or if, notwithstanding the Issuer’s or relevant Guarantor’s reasonable efforts to obtain such receipts, the same are not obtainable, other evidence of such payment reasonably satisfactory to the Trustee.
+(d)           At least 30 calendar days prior to each date on which any payment under or with respect to the Notes or the Guarantees is due and payable, if the Issuer or a Guarantor will be obliged to pay Additional Amounts with respect to such payment (unless such obligation to pay Additional Amounts arises after the 30th day prior to the date on which payment under or with respect to the Notes or the Guarantees is due and payable, in which case delivery of the Officers’ Certificate described below will be made promptly thereafter), the Issuer or the relevant Guarantor will deliver to the Trustee an Officers’ Certificate stating that such Additional Amounts will be payable and the amounts so payable on the payment date.
+The Officers’ Certificate must also set forth any other information necessary to enable the Paying Agent to pay Additional Amounts on the relevant payment date.
+(a)           The Parent Guarantor shall pledge, or cause each Guarantor, including each future Guarantor, to pledge, the Capital Stock owned by the Parent Guarantor or such Guarantor of any Person that is a Guarantor or becomes a Guarantor after the Issue Date, upon such Person becoming a Guarantor, to secure the obligations of the Issuer and the Guarantors under the Notes and this Indenture in the manner described in Article 10 hereof (subject to the Perfection Requirements set forth in the Security Documents and the restrictions set forth under Section 4.12 hereof).
+The Parent Guarantor will, and will procure that each Guarantor will, execute all transfers, conveyances, assignments and releases of that property whether to each Collateral Agent or to its nominees and give all notices, orders and directions which each Collateral Agent may reasonably request.
+The Issuer shall notify the Trustee in writing that the conditions under this covenant have been satisfied, although such notification shall not be a condition for the suspension of the covenants set forth above to be effective.
+(a)           The Issuer and the Parent Guarantor will and, as applicable, will procure that each of the Guarantors, as soon as practicable, and, in any event, on or before the applicable date set forth in Schedule A (Security Documents) (or such later date consented to by the Primary Collateral Agent, such consent not to be unreasonably withheld or delayed), (x) execute and deliver to the applicable Collateral Agent, as applicable, such Security Documents (in the agreed form as of the Issue Date, with such changes, amendments, supplements and other variations as agreed by the applicable Collateral Agent) and other documents to create effective first priority Liens and security interests over the Post-Closing Collateral to be provided in respect of the Notes, the Guarantees and this Indenture and (y) take all action, including executing and delivering all ancillary documents, in connection with the creation, perfection and/or registration of such Post-Closing Collateral.
+The Issuer and the Parent Guarantor will cause the Post-Closing Date Guarantors to Guarantee the Notes on or before the Post-Closing Date by executing and delivering to the Trustee a supplemental indenture in the form of Exhibit E to this Indenture.
+days after written notice by the Trustee or the Holders of 25% or more in aggregate principal amount of the Notes then outstanding;
+(5)           admits in writing its inability to pay its debts generally as they become due; or
+If a Default or an Event of Default occurs and is continuing and is known to the Trustee, the Trustee will mail to each Holder of the Notes notice of the Default or Event of Default within 15 Business Days after written notice is provided to the Trustee in accordance with Section 13.01 hereof.
+(a)           If an Event of Default (other than as specified in (k) or (l) of Section 6.01 hereof) occurs and is continuing, the Trustee or the Holders of not less than 25% in aggregate principal amount of the Notes then outstanding by written notice to the Issuer (and to the Trustee if such notice is given by the Holders) may, and the Trustee, upon the written request of such Holders, will, subject to being indemnified and/or secured to its satisfaction, declare the principal of, premium, if any, and accrued interest on all of the outstanding Notes immediately due and payable, and upon any such declaration all such amounts payable in respect of the Notes will become immediately due and payable.
+(c)           At any time after a declaration of acceleration under this Indenture, but before a judgment or decree for payment of the money due has been obtained by the Trustee, the Holders of a majority in aggregate principal amount of the outstanding Notes, by written notice to the Issuer and the Trustee, may rescind such declaration and its consequences if:
+The Holders of not less than a majority in aggregate principal amount of the outstanding Notes by written notice to the Trustee may, on behalf of the Holders of all of the Notes, waive any past Default, except a Default in the payment of the principal of, premium, if any, and interest on any Note held by a non-consenting Holder (which may only be waived with the consent of each Holder affected).
+Section 6.09          Trustee May File Proofs of Claim.
+(e)           Unless otherwise specifically provided in this Indenture, any demand, request, direction or notice from the Issuer will be sufficient if signed by an Officer of the Issuer.
+If a Default or Event of Default occurs and is continuing and is known to the Trustee, the Trustee will mail to Holders a notice of the Default or Event of Default within 15 Business Days after it occurs.
+The Trustee and the Agents will notify the Issuer promptly of any claim for which they may seek indemnity.
+The Holders of a majority in aggregate principal amount of the then outstanding Notes may remove the Trustee by so notifying the Trustee and the Issuer in writing.
+(f)            A successor Trustee will deliver a written acceptance of its appointment to the retiring Trustee and to the Issuer.
+The successor Trustee will mail a notice of its succession to Holders.
+The retiring Trustee will promptly transfer all property held by it as Trustee to the successor Trustee; provided all sums owing to the Trustee hereunder have been paid and subject to the Lien provided for in Section 7.06 hereof.
+The Trustee or Issuer may remove any Agent at any time by giving thirty (30) days’ prior written notice to any Agent.
+Upon such notice, a successor Agent will be appointed by the Issuer, who will provide written notice of such to the Trustee.
+If the Issuer is unable to replace the resigning Agent within thirty (30) days after such notice, the Agent may, in its sole discretion, deliver any funds then held hereunder in its possession to the Trustee or may (at the expense of the Issuer) appoint a successor Agent or may (at the expense of the Issuer) apply to a court of competent jurisdiction for the appointment of a successor Agent or for other appropriate relief.
+Upon receipt of the identity of the successor Agent, the Agent will deliver any funds then held hereunder to the successor Agent, less the Agent’s fees, costs and expenses or other obligations owed to the Agent.
+Notwithstanding the foregoing, the Paying Agent shall provide prior notice to the Issuer before withholding or making any deduction in
+(b)           in the case of an election under Section 8.02 hereof, the Issuer must deliver to the Trustee:
+(c)           in the case of an election under Section 8.03 hereof, the Issuer must deliver to the Trustee an Opinion of Counsel reasonably acceptable to the Trustee confirming that the Holders of the outstanding Notes will not recognize income, gain or loss for U.S. federal income tax purposes as a result of such Covenant Defeasance and will be subject to U.S. federal income tax on the same amounts, in the same manner and at the same times as would have been the case if such Covenant Defeasance had not occurred;
+(f)            the Issuer must deliver to the Trustee an Officers’ Certificate stating that the deposit was not made by the Issuer with the intent of preferring the Holders of Notes over the other creditors of the Issuer with the intent of defeating, hindering, delaying or defrauding any creditors of the Issuer or others; and
+(g)           the Issuer must deliver to the Trustee an Officers’ Certificate and an Opinion of Counsel, each stating that all conditions precedent relating to the Legal Defeasance or the Covenant Defeasance have been complied with.
+Notwithstanding anything in this Article 8 to the contrary, the Trustee will deliver or pay to the Issuer from time to time upon the request of the Issuer any cash in Swiss francs or non-callable Swiss Government Securities held by it as provided in Section 8.04 hereof which, in the opinion of a nationally recognized firm of independent public accountants expressed in a written certification thereof delivered to the Trustee (which may be the opinion delivered under Section 8.04(9) hereof), are in excess of the amount thereof that would then be required to be deposited to effect an equivalent Legal Defeasance or Covenant Defeasance.
+After an amendment, supplement or waiver under this Section 9.02 becomes effective, the Issuer will mail to the Holders affected thereby a notice briefly describing the amendment, supplement or waiver.
+The Trustee may place an appropriate notation about an amendment, supplement or waiver on any Note thereafter authenticated.
+The Issuer in exchange for all Notes may issue and the Trustee will, upon receipt of an Authentication Order, authenticate or cause the Authenticating Agent to authenticate the new Notes that reflect the amendment, supplement or waiver.
+Section 9.05          Trustee and the Collateral Agents to Sign Amendments, etc.
+(2)           collect and receive any and all amounts payable in respect of the Obligations of the Issuer or any Guarantor hereunder.
+Each Collateral Agent will, at the request of the Issuer or a Guarantor upon having provided the relevant Collateral Agent an Officers’ Certificate (and Opinion of Counsel certifying compliance with this Section 10.05), release the relevant Collateral or other appropriate instrument evidencing such release (in the form provided by and at the expense of the Issuer under one or more of the following circumstances):
+(iii)          notify (and the Issuer shall ensure that the Swiss Guarantor will notify) the relevant Collateral Agent that such a deduction has been made and provide the relevant Collateral Agent with evidence that such a deduction has been paid to the Swiss Federal Tax Administration; and
+The Swiss Guarantor shall use its best efforts to ensure that any Person that is, as a result of a deduction of Swiss Anticipatory Tax, entitled to a full or partial refund of the Swiss Anticipatory Tax, will as soon as possible after the deduction of the Swiss Anticipatory Tax (i) request a refund of the Swiss Anticipatory Tax under any applicable law (including double tax treaties) and (ii) pay to the relevant Collateral Agent upon receipt any amount so refunded for application as a further payment of the Swiss Guarantor under and pursuant to this Indenture.
+To evidence its Guarantee set forth in Section 11.01 hereof, each Guarantor hereby agrees that a notation of such Guarantee substantially in the form attached as Exhibit D hereto will be endorsed by an Officer of such Guarantor on each Note authenticated and delivered by the Trustee and that this Indenture will be executed on behalf of such Guarantor by one of its Officers.
+(3)           upon repayment in full of the Notes; or
+(5)           upon repayment in full of the Notes; or
+(1)           the Issuer has irrevocably deposited or caused to be deposited with the Trustee as funds on trust for such purpose an amount in Swiss francs or Swiss Government Obligations sufficient to pay and discharge the entire Debt on such Notes that have not, prior to such time, been delivered to the Trustee for cancellation, for principal of, premium, if any, and any accrued and unpaid interest on the Notes to the date of such deposit (in the case of Notes which have become due and payable) or to the Stated Maturity or redemption date, as the case may be, and the Issuer has delivered irrevocable instructions to the Trustee under this Indenture to apply the deposited money toward the payment of Notes at Stated Maturity or on the redemption date, as the case may be and either:
+(A)          all of the Notes that have been authenticated and delivered (other than destroyed, lost or stolen Notes that have been replaced or paid and Notes for which payment money has been deposited on trust or segregated and held on trust by the Issuer and thereafter repaid to the Issuer or discharged from such trust as provided for in this Indenture) have been delivered to the Trustee for cancellation; or
+(B)          all Notes that have not been delivered to the Trustee for cancellation: (x) have become due and payable (by reason of the mailing of a notice of redemption or otherwise); (y) will become due and payable within one year of Stated Maturity, or (z) are to be called for redemption within one year of the proposed discharge date under arrangements satisfactory to the Trustee for the giving of notice of redemption by the Trustee in the Issuer’s name and at the Issuer’s expense;
+(3)           the Issuer has delivered to the Trustee an Officers’ Certificate and an Opinion of Counsel, each stating that:
+In addition, the Issuer must deliver an Officers’ Certificate and an Opinion of Counsel to the Trustee stating that all conditions precedent to satisfaction and discharge have been satisfied; provided that any such counsel may rely on any Officers’ Certificate as to matters of fact (including as to compliance with the foregoing clauses (1), (2) and (3) of this Section 12.01(a)).
+Any notice or communication by the Issuer, any Guarantor, the Trustee, the Primary Collateral Agent or the Hungarian Collateral Agent to the others is duly given if in writing and delivered in Person or mailed by first class mail (registered or certified, return receipt requested), facsimile transmission or overnight air courier guaranteeing next day delivery, to the others’ address:
+If to the Issuer and/or any Guarantor:
+With a copy to:
+If to the Trustee
+:  +852 2323 0279
+Attention:  Agency & Trust
+If to the Paying Agent or Transfer Agent:
+With a copy to:
+: +852 2323 0279
+If to the Registrar:
+With a copy to:
+: +852 2323 0279
+If to the Primary Collateral Agent:
+452 5th Ave-8E6
+If to the Hungarian Collateral Agent:
+London, E14 5HQ
+The Issuer, any Guarantor, the Trustee, the Primary Collateral Agent or the Hungarian Collateral Agent, by notice to the others, may designate additional or different addresses for subsequent notices or communications.
+In the case of certificated Notes, all notices to Holders of the Notes will be validly given if mailed to each Holder by first-class mail at such Holder’s respective address in the register of the Holders of such Notes, if any, maintained by the Registrar.
+In addition, for so long as any Notes are represented by Global Notes, all notices to Holders of the Notes will be validly given if delivered to Euroclear and Clearstream, each of which will give such notices to the Holders or, alternatively, will be valid if published in a leading English language daily newspaper published in London or such other English language daily newspaper with general circulation in Europe.
+If the Issuer mails a notice or communication to Holders, it will mail a copy to the Trustee and each Agent at the same time.
+Each such notice shall be deemed to have been given on the date of such publication or, if published more than once on different dates, on the first date on which publication is made; provided that, if notices are mailed, such notice shall be deemed to have been given on the later of such publication and the seventh day after being so mailed.
+Any notice or communication mailed to a Holder shall be mailed to such Person by first-class mail or other equivalent means, postage paid, and shall be deemed given five calendar days after mailing whether or not the addressee receives it.
+Failure to mail a notice or communication to a Holder or any defect in it shall not affect its sufficiency with respect to other Holders.
+If a notice or communication is mailed in the manner provided above, it is duly given, whether or not the addressee receives it.
+If a notice or communication is mailed or published in the manner provided above within the time prescribed, it is duly given, whether or not the addressee receives it.
+If the Issuer or any Guarantor mails a notice or communication to Holders or delivers a notice or communication to holders of Book-Entry Interests, it will mail a copy to the Trustee and each Agent at the same time.
+The parties may sign any number of copies of this Indenture.
+Each signed copy will be an original, but all of them together represent the same agreement.
+[Signatures on following page]
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+(Signature Page to Indenture)
+1 dated a date within 5 Business Days of the date hereof over the shares in the Czech Company (English and Czech version)
+2 dated a date within 5 Business Days of the date hereof over the shares in the Czech Company (English and Czech version)
+3.5                               Security Confirmation Deed dated a date within 5 Business Days of the date hereof in respect of the security documents listed in paragraphs 3.1 to 3.4 above
+to be executed within 5 Business Days of the date hereof
+5.3                               Submission to enforcement to be executed within 5 Business Days of the date hereof
+Ltd. dated 2 March 2015
+Pledge Agreement dated as of  March 31, 2014
+5.1                               Share pledge agreement to be dated a date within 60 days of the date hereof over the shares in Meritas Malta Holdings Limited
+8.3                               Quota Pledge Agreement to be dated a date within 60 days of the date hereof regarding quotas in Collège du Léman S.à.r.l.
+Supplemental Pledge and Security Agreement dated a date within 60 days of the date hereof by Meritas MX, LLC in favor of the Primary Collateral Agent
+Pledge Agreement dated a date within 60 days of the date hereof by Meritas Luxembourg Holding S.à r.l in favor of the Primary Collateral Agent
+The Notes will be payable as to principal, premium, if any, interest and Additional Amounts, if any, through the Paying Agent as provided in the Indenture or, at the option of the Issuer, payment of interest and Additional Amounts, if any, may be made by check mailed to the Holders at their addresses set forth in the register of Holders; provided that payment by wire transfer of immediately available funds will be required with respect to principal of and interest, premium and Additional Amounts, if any, on, all Global Notes and all other Notes the Holders of which will have provided wire transfer instructions to the Issuer or the Paying Agent.
+Upon notice to the Trustee, the Issuer may change any Paying Agent, Registrar or Transfer Agent.
+(d)           At any time on or after July 15, 2018, and prior to maturity, upon not less than 30 nor more than 60 days’ notice, the Issuer may, on any one or more occasions, redeem all or part of the Notes.
+The Issuer may, at its option, redeem the Notes, in whole but not in part, at any time upon giving not less than 10 nor more than 60 days’ notice (which notice shall be irrevocable and given in accordance with the provisions described in Section 3.03 of the Indenture) to the Holders, at a
+Prior to the publication or, where relevant, mailing of any notice of redemption pursuant to the foregoing, the Issuer will deliver to the Trustee:
+(b)           Notice of the Special Mandatory Redemption will be delivered by the Issuer, no later than one Business Day following the Special Termination Date, to the Trustee and the Paying Agent, and will provide that the Notes shall be redeemed on a date that is no later than the fifth Business Day after such notice is given by the Issuer (the “Special Mandatory Redemption Date”).
+Within 30 days following any Change of Control, the Issuer will mail a notice to each Holder setting forth the procedures governing the Change of Control Offer as required by the Indenture.
+The offer price as to each Note and any such Pari Passu Debt in any
+At least 30 days but not more than 60 days before a redemption date, the Issuer will deliver, pursuant to Section 13.01 of the Indenture, a notice of redemption to each Holder whose Notes are to be redeemed at its registered address, except that redemption notices may be mailed more than 60 days prior to a redemption date if the notice is issued in connection with a defeasance of the Notes or the satisfaction and discharge of the Indenture.
+[The Global Notes are in registered form without coupons attached.
+The transfer of Notes may be registered and Notes may be exchanged as provided in the Indenture.
+The Issuer shall not be required to register the transfer of any Definitive Notes (A) for a period of 15 days prior to any date fixed for the redemption of the Notes; (B) for a period of 15 days immediately prior to the date fixed for selection of Notes to be redeemed in part; (C) for a period of 15 days prior to the record date with respect to any interest payment date; or (D) which the holder has tendered (and not withdrawn) for repurchase in connection with a Change of Control Offer, an Asset Sale Proceeds Offer or a Notes Offer.
+The Issuer will furnish to any Holder upon written request and without charge a copy of the Indenture, the form of Note, the Security Documents, the Intercreditor Agreement or any Additional Intercreditor Agreement.
+Requests may be made to:
+To assign this Note, fill in the form below:
+(I) or (we) assign and transfer this Note to:
+(Print or type assignee’s name, address and zip code)
+Date:
+If you want to elect to have this Note purchased by the Issuer pursuant to Section 4.10 or 4.14 of the Indenture, check the appropriate box below
+Date:
+1.  o    Check if Transferee will take delivery of a Book-Entry Interest in the Rule 144A Global Note or a Restricted Definitive Note pursuant to Rule 144A.
+Person, and will take delivery only as a Book-Entry Interest so transferred through Euroclear or Clearstream.
+4. o    Check if Transferee will take delivery of a Book-Entry Interest in an Unrestricted Global Note or of an Unrestricted Definitive Note.
+The Transferor owns and proposes to transfer the following:
+[CHECK ONE OF (a) OR (b)]
+(a) o          a Book-Entry Interest held through Euroclear Account No.
+After the Transfer the Transferee will hold:
+(a)    o       a Book-Entry Interest held through Euroclear Account No.
+(b)     o Check if Exchange is from Book-Entry Interest in a Restricted Global Note to Unrestricted Definitive Note.
+(c)      o Check if Exchange is from Restricted Definitive Note to Book-Entry Interest in an Unrestricted Global Note.
+(a)      o Check if Exchange is from Book-Entry Interest in a Restricted Global Note to Restricted Definitive Note.
+(b)     o Check if Exchange is from Restricted Definitive Note to Book-Entry Interest in a Restricted Global Note.
+WHEREAS, the Issuer has heretofore executed and delivered to the Trustee an indenture (the “Indenture”), dated as of June 25, 2015, providing for the issuance of 5.750% Senior Secured Notes due 2022 (the “Notes”); and
+WHEREAS, the Indenture provides that under certain circumstances the Subsequent Guarantor shall execute and deliver to the Trustee a supplemental indenture and notation of guarantee pursuant to which the Subsequent Guarantor shall unconditionally guarantee all of the Issuer’s Obligations under the Notes and the Indenture on the terms and conditions set forth herein (the “Guarantee”).
+(a)           To evidence its Guarantee, the Subsequent Guarantor hereby agrees that a notation of such Guarantee shall be endorsed by an Officer of the Subsequent Guarantor on each Note authenticated and delivered by or on behalf of the Trustee and that this Supplemental Indenture shall be executed on behalf of the Subsequent Guarantor by one of its Directors or Officers.
+(d)           Upon execution of this Supplemental Indenture, the delivery of any Note by the Trustee, after the authentication thereof hereunder, shall constitute due delivery of the Guarantee set forth in this Supplemental Indenture on behalf of the Subsequent Guarantor.
+The parties may sign any number of copies of this Supplemental Indenture.
+Each signed copy shall be an original, but all of them together represent the same agreement.

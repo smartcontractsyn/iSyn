@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "SellerName": [
+        "MoviePass Inc."
+    ],
+    "BuyerName": [
+        "Helios and Matheson Analytics Inc."
+    ],
+    "EffectiveTime": [
+        "15 August, 2017"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        "15th day of August, 2018"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Helios and Matheson Analytics Inc."
+            ],
+            "To": [
+                "MoviePass Inc."
+            ],
+            "PurchasePrice": "27000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

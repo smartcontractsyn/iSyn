@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "The Bank of New York Mellon"
+    ],
+    "BuyerName": [
+        "Starwood Property Trust, Inc"
+    ],
+    "EffectiveTime": [
+        "March 29, 2017,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "April 1, 2023"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Starwood Property Trust, Inc"
+            ],
+            "To": [
+                "The Bank of New York Mellon"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 250000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

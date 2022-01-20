@@ -1,0 +1,41 @@
+{
+    "BuyerName": [
+        "BROOKLYN IMMUNOTHERAPEUTICS"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "ContractCategory": "PurchaseAgreement",
+    "EffectiveTime": [
+        "April 26, 2021,"
+    ],
+    "OutSideClosingDate": [
+        "July 31, 2021"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "BROOKLYN IMMUNOTHERAPEUTICS"
+            ],
+            "PurchasePrice": "20000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "To": [
+                "BROOKLYN IMMUNOTHERAPEUTICS"
+            ],
+            "Transfer": true
+        }
+    ],
+    "SellerName": [
+        "BROOKLYN IMMUNOTHERAPEUTICS"
+    ],
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    },
+    "Transfers": true
+}

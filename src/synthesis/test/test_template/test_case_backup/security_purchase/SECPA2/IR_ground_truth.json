@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "SellerName": [
+        "TEGO CYBER INC."
+    ],
+    "BuyerName": [
+        "REYNALD THAUVETTE and DOMINIQUE JOYAL"
+    ],
+    "EffectiveTime": [
+        "April 28, 2021,"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "REYNALD THAUVETTE and DOMINIQUE JOYAL"
+            ],
+            "To": [
+                "TEGO CYBER INC."
+            ],
+            "PurchasePrice": "33507",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

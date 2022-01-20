@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "PurchaseAgreement",
+    "SellerName": [
+        "FORD MOTOR CREDIT COMPANY LLC"
+    ],
+    "BuyerName": [
+        "FORD CREDIT AUTO RECEIVABLES TWO LLC"
+    ],
+    "EffectiveTime": [
+        "May 1, 2015"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "FORD CREDIT AUTO RECEIVABLES TWO LLC"
+            ],
+            "To": [
+                "FORD MOTOR CREDIT COMPANY LLC"
+            ],
+            "PurchasePrice": "1829526188",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

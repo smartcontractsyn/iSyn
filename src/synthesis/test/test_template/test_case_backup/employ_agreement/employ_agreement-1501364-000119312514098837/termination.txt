@@ -1,0 +1,138 @@
+As of February 19, 2014
+1.
+Employment
+2.
+Term
+3.
+(a)
+Generally
+(b)
+Place of Employment
+4.
+(a)
+(b)
+Forfeitable Sign-On Bonus
+(c)
+(d)
+5.
+(a)
+(b)
+(c)
+Acceleration of Awards Upon Termination Within Two Years After a Change in Control
+(d)
+(e)
+(f)
+(g)
+Club Dues
+(h)
+(i)
+6.
+Termination Due to Retirement, Death, or Disability
+(a)
+Retirement
+(b)
+Death
+(c)
+Disability
+(d)
+Other Terms of Payment Following Retirement, Death, or Disability
+7.
+Termination of Employment For Reasons Other Than Retirement, Death or Disability
+(a)
+Termination by the Bank for Cause
+(b)
+Termination by Executive Other Than For Good Reason
+(c)Termination by the Bank Without Cause Prior to or More than Two Years After a Change in Control(d)Termination by Executive for Good Reason Prior to or More than Two Years After a Change in Control(e)Termination by the Bank Without Cause Within Two Years After a Change in Control(f)Termination by Executive for Good Reason Within Two Years After a Change in Control(g)Other Terms Relating to Certain Terminations of Employment; Reimbursements; Section 409A Exemptions; Delayed Payments Under Section 409A8.Definitions Relating to Termination Events(a)“Cause.”(b)“Change in Control.”(c)“Compensation Accrued at Termination.”(d)“Disability.”(e)“Good Reason.”(f)“Potential Change in Control.”(g)“Specified Employee.”9.Limitation on Change in Control Payments10.Non-Solicitation and Non-Disclosure; Executive Cooperation; Non-Disparagement; Certain Forfeitures  (a)Non-Solicitation(b)Non-Disclosure; Ownership of Work(c)Cooperation With Regard to Litigation(d)Non-Disparagement(e)Release of Employment Claims(f)Forfeiture of Outstanding Options(g)Forfeiture of Certain Bonuses and Profits(h)Forfeiture Due to Regulatory Restrictions(i)Survival11.Governing Law; Disputes(a)Governing Law(b)Dispute Resolution(c)Interest on Unpaid Amounts12.Miscellaneous(a)Integration(b)Successors; Transferability(c)Beneficiaries(d)Notices(e)Reformation
+Term.The term of employment of Executive under this Agreement (the “Term”) shall be the period commencing on February 19, 2014 and ending on December 31, 2014 and any period of extension thereof in accordance with this Section 2, except that the Term will end at a date, prior to the end of such period or extension thereof, specified in Section 6 or 7 in the event of termination of Executive’s employment.
+The Term, if not previously ended, shall be extended by one additional year (added to the end of the Term) first on December 31, 2014 (extending the Term to December 31, 2015) and on each succeeding December 31st thereafter (a “December 31st extension date”) but only in the event the Bank serves written notice in accordance with Section 12(d) upon Executive at least 60 days preceding December 31, 2014 extending the Term to December 31, 2015 and thereafter at least 60 days preceding a December 31st extension date, in which case the Term shall be extended to the next succeeding December 31st, subject to earlier termination of Executive’s employment and earlier termination of the Term in accordance with Section 6 or 7.
+The foregoing notwithstanding, in the event there occurs a Potential Change in Control during the Term, the Term shall be extended automatically until the day after the earlier of: (a) the second anniversary of the date the Change in Control is consummated; or (b) the date the Change in Control contemplated by the Potential Change in Control is fully and finally abandoned.3.
+the Bank.
+(b) Place of Employment.
+(b) Forfeitable Sign-On Bonus.
+Should Executive voluntarily terminate employment with the Bank prior to the one year anniversary date of commencement date, Executive shall return to the Bank that portion of the $150,000 FSOB equal to the number of days between the date of termination and the anniversary date, divided by 365 (e.g., if the number of days between the date of termination and commencement anniversary date is 180, then Executive shall return 180 ÷ 365 x $150,000 or $73,972.59).
+5
+(d) Retention Bonuses.
+(c) Acceleration of Awards Upon Termination Within Two Years After a Change in Control.
+In the event of termination of the employment of Executive, other than for Cause, simultaneously with or within two years after a Change in Control (as defined in Section 8(b)), all outstanding stock options, restricted stock, and other equity-based awards then held by Executive shall become vested and exercisable.
+(g) Club Dues.
+(i) Limitations Under Code Section 409A.
+The Bank will pay the adjusted payment at the beginning of the seventh month following Executive’s termination of employment.
+In the event of Executive’s death during such six-month period, payment will be made in the payroll period next following the payroll period in which Executive’s death occurs.
+7
+6.
+Termination Due to Retirement, Death, or Disability.
+(a) Retirement.
+Executive may elect to terminate employment hereunder by retirement at or after age 60 (“Retirement”).
+At the time Executive’s employment terminates due to Retirement, the Term will terminate, all obligations of the Bank and Executive under Sections 1 through 5 of this Agreement will immediately cease except for obligations which expressly continue after termination of employment due to Retirement, and the Bank will pay Executive at the time specified in Section 6(d), and Executive will be entitled to receive, the following:     (b) Death.
+In the event of Executive’s death which results in the termination of Executive’s employment, the Term will terminate, all obligations of the Bank and Executive under Sections 1 through 5 of this Agreement will immediately cease except for obligations which expressly continue after death, and the Bank will pay Executive’s beneficiary or estate at the time specified in Section 6(d), and Executive’s beneficiary or estate will be entitled to receive, the following:  In lieu of any annual incentive compensation under Section 4(b) for the year in which Executive’s death occurred, a lump sum amount equal to the portion of annual incentive compensation that would have become payable in cash to Executive (i.e., excluding the portion 8
+   (c) Disability.
+The Bank may terminate the employment of Executive hereunder due to the Disability (as defined in Section 8(d)) of Executive.
+Upon termination of employment, the Term will terminate, all obligations of the Bank and Executive under Sections 1 through 5 of this Agreement will immediately cease except for obligations which expressly continue after termination of employment due to Disability, and the Bank will pay Executive at the time specified in Section 6(d), and Executive will be entitled to receive, the following:      Upon termination of Executive’s employment due to Disability, if Executive is not eligible for retiree coverage under the Bank’s Health Plan or Medicare and provided that Executive shall be in compliance with the conditions set forth in Section 10, the Bank shall pay to Executive a lump sum amount equal on an after-tax basis to the present value of the total cost of medical coverage under the Health Plan that would have been incurred by both Executive and the Bank 9
+(d) Other Terms of Payment Following Retirement.
+Death, or Disability.
+Amounts payable under this Section 6 following Executive’s termination of employment, other than those expressly payable following determination of performance for the year of termination for purposes of annual incentive compensation or otherwise expressly payable on a deferred basis, will be paid in the payroll period next following the payroll period in which termination of employment occurs; subject, however, to the provisions of Section 7(g) of this Agreement relating to the six-month delay in payment of certain benefits to Specified Employees as required by Section 409A of the Code.
+The Bank will pay the adjusted payment or reimbursement at the beginning of the seventh month following Executive’s termination of employment.
+In the event of Executive’s death during such six-month period, payment will be made in the payroll period next following the payroll period in which Executive’s death occurs.
+10
+7.
+Termination of Employment For Reasons Other Than Retirement, Death or Disability.
+(a) Termination by the Bank for Cause.
+The Bank may terminate the employment of Executive hereunder for Cause (as defined in Section 8(a)) at any time.
+At the time Executive’s employment is terminated for Cause, the Term will terminate, all obligations of the Bank and Executive under Sections 1 through 5 of this Agreement will immediately cease except for obligations which expressly continue after termination of employment by the Bank for Cause, and the Bank will pay Executive at the time specified in Section 7(g), and Executive will be entitled to receive, the following:   (b) Termination by Executive Other Than For Good Reason.
+Executive may terminate his employment hereunder voluntarily for reasons other than Good Reason (as defined in Section 8(e)) at any time upon 90 days’ written notice to the Bank.
+An election by Executive not to extend the Term pursuant to Section 2 hereof shall be deemed to be a termination of employment by Executive for reasons other than Good Reason at the date of expiration of the Term, unless a Change in Control (as defined in Section 8(b)) occurs prior to, and there exists Good Reason at, such date of expiration; provided, however, that, if Executive has attained age 60 at such date of termination, such termination shall be deemed a Retirement of Executive, which shall instead be governed by Section 6(a) above.
+At the time Executive’s employment is terminated by Executive other than for Good Reason the Term will terminate, all obligations of the Bank and Executive under Sections 1 through 5 of this Agreement will immediately cease, and the Bank will pay Executive at the time specified in Section 7(g), and Executive will be entitled to receive, the following:   (c) Termination by the Bank Without Cause Prior to or More than Two Years After a Change in Control.
+The Bank may terminate the employment of Executive hereunder without Cause, if at the date of termination no Change in Control has occurred or such date of termination is at least two years after the most recent Change in Control, upon at least 90 days’ written notice to Executive.
+The foregoing notwithstanding, the Bank may elect, by written notice to Executive, to terminate Executive’s positions specified in Sections 1 and 3 and all other obligations of Executive and the Bank under Section 3 at a date earlier than the expiration of such 90-day period, if so specified by the Bank in the written notice, provided that Executive shall be treated as an employee of the Bank (without any assigned duties) for all other purposes of this Agreement, including for purposes of Sections 4 and 5, from such specified date until the expiration of such 90-day period.
+At the time Executive’s employment is terminated by the Bank (i.e., at the expiration of such notice period), the Term will terminate, all remaining obligations of the Bank and Executive under Sections 1 through 5 of this Agreement will immediately cease (except for obligations which continue after termination of employment as expressly provided herein), and the Bank will pay Executive at the time specified in Section 7(g), and Executive will be entitled to receive, the following:  Cash in an aggregate amount equal to one and one-half (1.5) times the sum of (A) Executive’s Base Salary under Section 4(a) immediately prior to termination plus (B) an amount equal to the greater of (x) the portion of Executive’s annual target incentive compensation potentially payable in cash to Executive (i.e., excluding the portion payable in stock or in other non-cash awards) for the year of termination or (y) the portion of Executive’s annual incentive compensation that became payable in cash to Executive (i.e., excluding the portion payable in 11
+       12
+(d) Termination by Executive for Good Reason Prior to or More than Two Years After a Change in Control.
+Executive may terminate his employment hereunder for Good Reason, prior to a Change in Control or after the second anniversary of the most recent Change in Control, upon 90 days’ written notice to the Bank; provided, however, that, if the Bank has corrected the basis for such Good Reason within 30 days after receipt of such notice, Executive may not terminate his employment for Good Reason, and therefore Executive’s notice of termination will automatically become null and void.
+At the time Executive’s employment is terminated by Executive for Good Reason (i.e., at the expiration of such notice period), the Term will terminate, all obligations of the Bank and Executive under Sections 1 through 5 of this Agreement will immediately cease (except for obligations which continue after termination of employment as expressly provided herein), and the Bank will pay Executive at the time specified in Section 7(g), and Executive will be entitled to receive, the following:        Upon termination of Executive’s employment hereunder, if Executive is not eligible for retiree coverage under the Bank’s Health Plan or Medicare and provided that Executive shall be in compliance with the conditions set forth in Section 10, the Bank shall pay to Executive a lump sum amount equal on an after-tax basis to the present value of the total cost of medical coverage under the Health Plan that would have been incurred by both Executive and the Bank on behalf of Executive (and his spouse and eligible dependents, if any, for whom coverage had been provided under the Health Plan immediately prior to Executive’s termination of employment) from the date of Executive’s termination of employment until the third anniversary of such date, calculated on the assumption that the cost of such coverage would remain unchanged from that in effect for the year of Executive’s termination of employment.
+If any payment or benefit under this Section 7(d) is based on Base Salary or other level of compensation or benefits at the time of Executive’s termination and if a reduction in such Base Salary or other level of compensation or benefit was the basis for Executive’s termination for Good Reason, then the Base Salary or other level of compensation in effect before such reduction shall be used to calculate payments or benefits under this Section 7(d).
+(e) Termination by the Bank Without Cause Within Two Years After a Change in Control.
+The Bank may terminate the employment of Executive hereunder without Cause, simultaneously with or within two years after a Change in Control, upon at least 90 days’ written notice to Executive.
+The foregoing notwithstanding, the Bank may elect, by written notice to Executive, to terminate Executive’s positions specified in Sections 1 and 3 and all other obligations of Executive and the Bank under Section 3 at a date earlier than the expiration of such 90-day notice period, if so specified by the Bank in the written notice, provided that Executive shall be treated as an employee of the Bank (without any assigned duties) for all other purposes of this Agreement, including for purposes of Sections 4 and 5, from such specified date until the expiration of such 90-day period.
+At the time Executive’s employment is terminated by the Bank (i.e., at the expiration of such notice period), the Term will terminate, all remaining obligations of the Bank and Executive under Sections 1 through 5 of this Agreement will immediately cease (except for obligations which continue after termination of employment as expressly provided herein), and the Bank will pay Executive at the time specified in Section 7(g), and Executive will be entitled to receive, the following:    Stock options held by Executive at termination, if not then vested and exercisable, will become fully vested and exercisable at the date of such termination, and any such options granted on or after the Effective Date shall remain outstanding and exercisable until the stated expiration date 14
+    (f) Termination by Executive for Good Reason Within Two Years After a Change in Control.
+Executive may terminate his employment hereunder for Good Reason, simultaneously with or within two years after a Change in Control, upon 90 days’ written notice to the Bank; provided, however, that, if the Bank has corrected the basis for such Good Reason within 30 days after receipt of such notice, Executive may not terminate his employment for Good Reason, and therefore Executive’s notice of termination will automatically become null and void.
+At the time Executive’s employment is terminated by Executive for Good Reason (i.e., at the expiration of such notice period), the Term will terminate, all obligations of the Bank and Executive under Sections 1 through 5 of this Agreement will immediately cease (except for obligations which continue after termination of employment as expressly provided herein), and the Bank will pay Executive at the time specified in Section 7(g), and Executive will be entitled to receive, the following:  15
+      Upon termination of Executive’s employment hereunder, if Executive is not eligible for retiree coverage under the Bank’s Health Plan or Medicare and provided that Executive shall be in compliance with the conditions set forth in Section 10, the Bank shall pay to Executive a lump sum amount equal on an after-tax basis to the present value of the total cost of medical coverage under the Health Plan that would have been incurred by both Executive and the Bank on behalf of Executive (and his spouse and eligible dependents, if any, for whom coverage had been provided under the Health Plan immediately prior to Executive’s termination of employment) from the date of Executive’s termination of employment until the third anniversary of such date, calculated on the assumption that the cost of such coverage would remain unchanged from that in effect for the year of Executive’s termination of employment.
+If any payment or benefit under this Section 7(f) is based on Base Salary or other level of compensation or benefits at the time of Executive’s termination and if a reduction in such Base Salary or other level of compensation or benefit was the basis for Executive’s termination for Good Reason, then the Base Salary or other level of compensation in effect before such reduction shall be used to calculate payments or benefits under this Section 7(f).
+(g) Other Terms Relating to Certain Terminations of Employment; Reimbursements; Section 409A Exemptions; Delayed Payments Under Section 409A.
+It is intended that payments made under this Agreement due to Executive’s termination of employment which are paid on or before the 15th day of the third month following the end of 17
+ 8.
+Definitions Relating to Termination Events.
+(a) “Cause.” For purposes of this Agreement, “Cause” shall mean:    18
+ (b) “Change in Control.” For purposes of this Agreement, a “Change in Control” shall be deemed to have occurred if, during the term of this Agreement:     NOTWITHSTANDING THE FOREGOING, no Change in Control or Potential Change in Control shall be deemed to have occurred in connection with the Merger, its closing or any other event associated with it.
+19
+(c) “Compensation Accrued at Termination.” For purposes of this Agreement, “Compensation Accrued at Termination” means the following:   (d) “Disability.” For purposes of this Agreement, “Disability” shall have the meaning ascribed to it by Section 409A of the Code and the Regulations.
+(e) “Good Reason.” For purposes of this Agreement, “Good Reason” shall mean, without Executive’s express written consent, the occurrence of any of the following circumstances provided that Executive shall have given notice of such circumstance(s) to the Bank within a period not to exceed 90 days of the initial existence of such circumstance(s) and the Bank shall not have remedied such circumstance(s) within 30 days after receipt of such notice:     provided, however, that a forfeiture under Section 10(f), (g), or (h) shall not constitute “Good Reason.” 20
+(f) “Potential Change in Control.” For purposes of this Agreement, a “Potential Change in Control” shall be deemed to have occurred if, during the term of this Agreement:   (g) “Specified Employee.” For purposes of this Agreement, a “Specified Employee” shall mean an employee of the Bank, at a time when any stock of the Company is publicly traded on an established securities market or otherwise, who satisfies the requirements for being designated a “key employee” under Section 416(i)(1)(A)(i), (ii) or (iii) of the Code without regard to Section 416(i)(5) of the Code at any time during a calendar year, in which case such employee shall be considered a Specified Employee for the twelve-month period beginning on the first day of the fourth month immediately following the end of such calendar year.
+Limitation on Change in Control Payments.In the event that:(a) the aggregate payments or benefits to be made to Executive pursuant to this Agreement, together with other payments and benefits which Executive has a right to receive from the Bank, which are deemed to be parachute payments as defined in Section 280G of the Code (the “Termination Benefits”), would be deemed to include an “excess parachute payment” under Section 280G of the Code; and(b) if such Termination Benefits were reduced to an amount (the “Non-Triggering Amount”), the value of which is one dollar ($1.00) less than an amount equal to three times Executive’s “base amount,” as determined in accordance with said Section 280G, and the Non-Triggering Amount less the product of the marginal rate of any applicable state and federal income tax on the Non-Triggering Amount would be greater than the aggregate value of the Termination Benefits (without such reduction) minus (A) the amount of tax required to be paid by Executive by Section 4999 of the Code and further minus (B) the product of the Termination Benefits and the marginal rate of any applicable state and federal income tax,then the Termination Benefits shall be reduced to the Non-Triggering Amount.
+The reduction required hereby among the Termination Benefits shall be allocated to the payments and benefits set forth in Sections 7(c), 7(d), 7(e), and 7(f), as applicable, in the following order until the reduction is fully accomplished: Subsection (ii), (iii) and (viii) of Sections 7(c), 7(d), 7(e), and 7(f), as applicable.
+(a) Non-Solicitation.
+In addition, upon termination of employment for any reason, Executive will return to the Company or its affiliates all documents and other media containing information belonging or relating to the Bank and the Company or its affiliates.
+(c) Cooperation With Regard to Litigation.
+(d) Non-Disparagement.
+(e) Release of Employment Claims.
+Executive agrees, as a condition to receipt of any termination payments and benefits provided for in Sections 6 and 7 herein (other than Compensation Accrued at Termination), that he will execute a general release agreement, in substantially the form set forth in Attachment A to this Agreement, releasing any and all claims arising out of Executive’s employment other than enforcement of this Agreement and rights to indemnification under any agreement, law, Bank or Company organizational document or policy, or otherwise.
+(f) Forfeiture of Outstanding Options.
+(g) Forfeiture of Certain Bonuses and Profits.
+(h) Forfeiture Due to Regulatory Restrictions.
+(i) Survival.
+The provisions of this Section 10 shall survive the termination of the Term and any termination or expiration of this Agreement.11.
+(b) Dispute Resolution.
+24
+12.
+(a) Integration.
+(c) Beneficiaries.
+25
+(e) Reformation.
+(f) Headings.
+(i) Offsets: Withholding.
+(k) Counterparts.
+26
+  27
+You have until the date which is seven (7) days after the Release is signed and returned to Rockville Bank to change your mind and revoke your Release.
+You have seven (7) days from the date you sign this Release to revoke it by written notification to the Company.

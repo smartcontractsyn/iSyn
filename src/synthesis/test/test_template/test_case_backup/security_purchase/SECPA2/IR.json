@@ -1,0 +1,39 @@
+{
+    "BuyerName": [
+        "TEGO CYBER INC."
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "EffectiveTime": [
+        "April 28, 2021,"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "TEGO CYBER INC."
+            ],
+            "PurchasePrice": "33507.5",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "To": [
+                "TEGO CYBER INC."
+            ],
+            "Transfer": true
+        }
+    ],
+    "SellerName": [
+        "TEGO CYBER INC."
+    ],
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    },
+    "Transfers": true
+}

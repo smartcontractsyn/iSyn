@@ -1,0 +1,67 @@
+\begin{table}[]
+    \footnotesize
+    \ra{1.2}
+    \caption{The mapping between the \ir items and constraints for validation case.}
+    \begin{tabular}{|c|c|}
+        \hline
+        \multicolumn{1}{|c|}{\textit{\ir Item}} & \multicolumn{1}{c|}{\textit{Constraint}} \\ \hline
+        \multicolumn{1}{|c|}{\emph{$\langle$EffectiveTimeDef$\rangle$}} & \multicolumn{1}{c|}{\textit{EffectiveTimeCons}} \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$SourceDef$\rangle$}\\ (OnlineStateTransfer)\end{tabular}}          & \multicolumn{1}{c|}{PaymentRoleCons}       \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$DestinationDef$\rangle$}\\ (OnlineStateTransfer)\end{tabular}}          & \multicolumn{1}{c|}{PaymentRoleCons}       \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$TimeConstraintDef$\rangle$}\\ (OnlineStateTransfer)\end{tabular}}       & \multicolumn{1}{c|}{PaymentTimeCons}         \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$DeliveryConstraintDef$\rangle$}\\ (OnlineStateTransfer)\end{tabular}}  & \multicolumn{1}{c|}{PaymentDeliveryCons} \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$PriceDef$\rangle$}\\ (OnlineStateTransfer)\end{tabular}}  & \multicolumn{1}{c|}{PaymentPriceCons} \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$DeliveryConstraintDef$\rangle$}\\ (OfflineDelivery)\end{tabular}}  &  \multicolumn{1}{c|}{ValidFileSignUploaderCons} \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$DeliveryConstraintDef$\rangle$}\\ (Termination)\end{tabular}}  &  \multicolumn{1}{c|}{TerminationDeliveryCons} \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$TimeConstraintDef$\rangle$}\\ (Termination)\end{tabular}} &  \multicolumn{1}{c|}{TerminationTimeCons} \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$OtherConstraintDef$\rangle$}\\ (Termination)\end{tabular}} &  \multicolumn{1}{c|}{TerminationOtherCons} \\ \hline
+    \end{tabular}
+    \label{tab:correspondence-IR-validation-constraints}
+\end{table}
+
+\begin{table}[]
+    \footnotesize
+    \ra{1.2}
+    \caption{The mapping between the \ir items and contract template elements.}
+    \begin{threeparttable}
+    \begin{tabular}{|c|c|c|}
+        \hline
+        \multicolumn{1}{|c|}{\textit{\ir Item}}                                     & \multicolumn{1}{c|}{\begin{tabular}[c]{@{}c@{}}\textit{Template} \\ \textit{Element Name}\end{tabular}} & \multicolumn{1}{c|}{\textit{Solidity Type}}       \\ \hline
+        \multicolumn{1}{|c|}{\emph{$\langle$EntityNamesDef$\rangle$}}     & \multicolumn{1}{c|}{entityNames}           & \multicolumn{1}{c|}{string array(state)} \\ \hline
+        \multicolumn{1}{|c|}{\emph{$\langle$CloseTimeDef$\rangle$}}       & \multicolumn{1}{c|}{CloseTime}             & \multicolumn{1}{c|}{uint256(state)}      \\ \hline
+        \multicolumn{1}{|c|}{\emph{$\langle$EffectiveTimeDef$\rangle$}}   & \multicolumn{1}{c|}{EffectiveTime}         & \multicolumn{1}{c|}{uint256(state)}      \\ \hline
+        \multicolumn{1}{|c|}{\emph{$\langle$ExpiryTimeDef$\rangle$}}      & \multicolumn{1}{c|}{ExpireTime}            & \multicolumn{1}{c|}{uint256(state)}      \\ \hline
+        \multicolumn{1}{|c|}{\emph{$\langle$PaymentDef$\rangle$}}         & \multicolumn{1}{c|}{pay \& payRelease}     & \multicolumn{1}{c|}{function}            \\ \hline
+        \multicolumn{1}{|c|}{\emph{$\langle$SourceDef$\rangle$}}          & \multicolumn{1}{c|}{require()}               & \multicolumn{1}{c|}{guard statement}       \\ \hline
+        \multicolumn{1}{|c|}{\emph{$\langle$DestinationDef$\rangle$}}     & \multicolumn{1}{c|}{require()}               & \multicolumn{1}{c|}{guard statement}       \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$TimeConstraintDef$\rangle$}\\ (OnlineStateTransfer)\end{tabular}}       & \multicolumn{1}{c|}{require()}               & \multicolumn{1}{c|}{guard statement}       \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$DeliveryConstraintDef$\rangle$}\\ (OnlineStateTransfer)\end{tabular}}  & 
+        \multicolumn{1}{c|}{\begin{tabular}[c]{@{}c@{}} payConfirm \\ \& require() \end{tabular}}       & \multicolumn{1}{c|}{\begin{tabular}[c]{@{}c@{}} function \\ \& guard statement \end{tabular}}           \\ \hline
+        \multicolumn{1}{|c|}{\emph{$\langle$PriceDef$\rangle$}}           & \multicolumn{1}{c|}{price}                 & \multicolumn{1}{c|}{uint256(local)}      \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$DeliveryConstraintDef$\rangle$}\\ (OfflineDelivery)\end{tabular}}  & 
+        \multicolumn{1}{c|}{uploadFileHash}      & \multicolumn{1}{c|}{function}          \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$DeliveryConstraintDef$\rangle$}\\ (Termination)\end{tabular}}  & 
+        \multicolumn{1}{c|}{\begin{tabular}[c]{@{}c@{}}terminateByDelivery\\ \& terminateConfirm\end{tabular}}      & \multicolumn{1}{c|}{function}          \\ \hline
+        \multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}\emph{$\langle$TimeConstraintDef$\rangle$}\\ (Termination)\end{tabular}}  & 
+        \multicolumn{1}{c|}{terminateByExpiry}     & \multicolumn{1}{c|}{function}          \\ \hline
+        \multicolumn{1}{|c|}{\emph{$\langle$OtherConstraintDef$\rangle$}}  & \multicolumn{1}{|c|}{terminateByOther}       & \multicolumn{1}{|c|}{function}       \\ \hline
+    \end{tabular}
+    \begin{tablenotes}
+        \footnotesize
+        \item $\ast$ Specifically, the (OnlineStateTransfer) under \emph{$\langle$TimeConstraintDef$\rangle$} refers that the \emph{$\langle$TimeConstraintDef$\rangle$} belongs to \textbf{OnlineStateTransfer} in Grammar~\ref{bnf:IR grammar}.
+    \end{tablenotes}    
+    \end{threeparttable}
+    \label{tab:correspondence-IR-template}
+\end{table}
+
+\begin{table*}[t]
+    \centering
+    \caption{Statistical information of the evaluation data set} 
+    \begin{tabular}{@{}c|cccccccc|c@{}}
+    \toprule
+    \textbf{Contract Category} & \textbf{CC} & \textbf{EA} & \textbf{IC} & \textbf{PMA} & \textbf{RRC} & \textbf{SECPA} & \textbf{TA} & \textbf{Mini-bench} & \textbf{Average} \\ \hline
+    # of Contracts          & 8    & 9     & 10   & 10      & 9    & 10       & 8    & 22             & 86         \\
+    # of Sentences       & 65080    & 1702    & 32924     & 12749   & 3038 & 5427     & 4108        & 4879     & 129907        \\ \bottomrule
+    \end{tabular}
+    \label{tab:evaluationSetInfo}
+\end{table*}

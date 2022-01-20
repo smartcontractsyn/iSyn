@@ -1,0 +1,31 @@
+{
+    "BuyerName": [],
+    "CloseTime": [
+        ""
+    ],
+    "ContractCategory": "StockPurchaseAgreement",
+    "EffectiveTime": [
+        "July 29, 2011,"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [],
+            "PurchasePrice": "60639067.55",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "To": [],
+            "Transfer": true
+        }
+    ],
+    "SellerName": [],
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    },
+    "Transfers": true
+}

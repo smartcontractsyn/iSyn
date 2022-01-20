@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "SellerName": [
+        "Taylor Capital Group, Inc."
+    ],
+    "BuyerName": [
+        ""
+    ],
+    "EffectiveTime": [
+        "September 4, 2008"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        "November 15, 2008"
+    ],
+    "Payments": [
+        {
+            "From": [
+                ""
+            ],
+            "To": [
+                "Taylor Capital Group, Inc."
+            ],
+            "PurchasePrice": "1000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

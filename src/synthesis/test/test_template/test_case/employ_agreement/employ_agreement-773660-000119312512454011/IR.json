@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "R. Scott Donovan"
+    ],
+    "BuyerName": [
+        "The Blackstone Group",
+        "HealthMarkets"
+    ],
+    "EffectiveTime": [
+        "November 1, 2012,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "The Blackstone Group",
+                "HealthMarkets"
+            ],
+            "To": [
+                "R. Scott Donovan"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": true
+            },
+            "PurchasePrice": 500000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": false,
+        "OtherTermination": true
+    }
+}

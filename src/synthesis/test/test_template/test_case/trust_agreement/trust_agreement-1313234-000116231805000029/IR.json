@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Manager"
+    ],
+    "BuyerName": [
+        "STRUCTURED ASSET SECURITIES CORPORATION"
+    ],
+    "EffectiveTime": [
+        "December 1, 2004___________________________STRUCTURED"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "Sunday"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "STRUCTURED ASSET SECURITIES CORPORATION"
+            ],
+            "To": [
+                "Manager"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 2299579137.7,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

@@ -1,0 +1,372 @@
+Minimum Amount of Each Borrowing; Maximum Number of Borrowings
+Disbursement of Funds
+2.5
+2.10
+3.5
+Payments
+Voluntary Prepayments
+Mandatory Prepayments
+Payment of Taxes
+10.2
+10.3
+10.5
+Payments
+11.5
+12.5
+13.3
+13.5
+Payment of Expenses and Taxes
+“ABR” shall mean, for any day, a rate per annum equal to the greater of (a) the Prime Rate in effect on such day, (b) the Federal Funds Effective Rate in effect on such day plus ½ of 1% and (c) the Eurodollar Rate for a one-month Interest Period on such day (or if such day is not a Business Day, the immediately preceding Business Day) plus 1%; provided that, for the avoidance of doubt, the Eurodollar Rate for any day shall be based on the rate determined on such day at approximately 11 a.m. (London time) by reference to the British Bankers’ Associate Interest Settlement Rates for deposits in dollars (as set forth by any service selected by the Administrative Agent that has been nominated by the British Bankers’ Association as an authorized vendor for the purpose of displaying such rates).
+“Applicable ABR Margin” shall mean at any date, with respect to each ABR Loan, 1.75% per annum.
+Greater than 2.00:1.00
+2.75
+1.75
+Less than or equal to 2.00:1.00
+2.50
+1.50
+certificate for such Applicable Period, and (iii) the Borrower shall immediately pay to the Administrative Agent (for the account of the Lenders during the Applicable Period or their successors and assigns) the accrued additional interest owing as a result of such increased Applicable ABR Margin or Applicable Eurodollar Margin, as applicable, for such Applicable Period.
+“Applicable Eurodollar Margin” shall mean at any date, with respect to each Eurodollar Loan, 2.75% per annum.
+“Available Amount” shall mean, on any date (the “Reference Date”), an amount equal at such time to (a) the sum of, without duplication, (i) the greater of (x) $600,000,000 and (y) 15% of Consolidated Total Assets as of the most recent fiscal quarter for which Section 9.1 Financials have been delivered to the Lenders under Section 9.1, (ii) the aggregate amount of Net Cash Proceeds from Prepayment Events refused by Term Loan Lenders and retained by the Borrower in accordance with Section 5.2(c)(iv) after the Closing Date and on or prior to the Reference Date, (iii) an amount equal to (x) the cumulative amount of Excess Cash Flow for all fiscal years completed after the Closing Date and prior to the Reference Date minus (y) the portion of such Excess Cash Flow that has been after the Closing Date and on or prior to the Reference Date (or will be) applied to (A) the prepayment of Loans in accordance with
+Section 5.2(a)(ii), (B) the payment by the Borrower of cash interest of the Senior Subordinated Notes, (C) the redemption, repurchase or retirement of the Senior Subordinated Notes or (D) the payment of dividends and distributions by the Borrower pursuant to sub-clause (ii) of the proviso to Section 10.6(d), (iv) the amount of any capital contributions made in cash to the Borrower from and including the Business Day immediately following the Closing Date through and including the Reference Date, including contributions with the proceeds from any issuance of equity securities by any of the Borrower, the Parent Companies or Holdings, (v) the aggregate amount of all cash dividends and other cash distributions received by the Borrower or any Restricted Subsidiary so long as such dividends or distributions are then immediately distributed to the Borrower or a Guarantor from any Minority Investments or Unrestricted Subsidiaries after the Closing Date and on or prior to the Reference Date (other than the portion of any such dividends and other distributions that is used by the Borrower or any Guarantor to pay taxes), (vi) the aggregate amount of all cash repayments of principal received by the Borrower or any Guarantor from any Minority Investments or Unrestricted Subsidiaries after the Closing Date and on or prior to the Reference Date in respect of loans made by the Borrower or any Guarantor to such Minority Investments or Unrestricted Subsidiaries and (vii) the aggregate amount of all net cash proceeds received by the Borrower or any Restricted Subsidiary so long as such proceeds are then immediately distributed to the Borrower or a Guarantor in connection with the sale, transfer or other disposition of its ownership interest in any Minority Investment or Unrestricted Subsidiary after the Closing Date and on or prior to the Reference Date minus (b) the sum at such time of (i) the aggregate amount of any investments (including loans) made by the Borrower or any Restricted Subsidiary pursuant to Section 10.5(m) after the Closing Date and on or prior to the Reference Date and (ii) the aggregate amount of Capital Expenditures made by the Borrower or any of the Restricted Subsidiaries after the Closing Date and on or prior to the Reference Date pursuant to Section 10.11(b).
+“Available Commitment” shall mean an amount equal to the excess, if any, of (a) the Dollar Equivalent of the amount of the Total Revolving Credit Commitment over (b) the sum of (i) the aggregate principal amount of all Revolving Credit Loans then outstanding and (ii) the aggregate applicable Letter of Credit Outstanding at such time.
+“Commitment Fee Rate” shall mean, with respect to the Available Commitment on any day, 0.50% per annum.
+“Eurodollar Rate” shall mean, in the case of any Eurodollar Term Loan or Eurodollar Revolving Credit Loan (other than any Foreign Currency Revolving Credit Loan), with respect to each day during each Interest Period pertaining to such Eurodollar Loan, a rate equal to the higher of (a) 1.0% per annum and (b) (i) the rate of interest per annum determined by the Administrative Agent at approximately 11:00 a.m., London time, on the date that is two Business Days prior to the commencement of such Interest Period by reference to the British Bankers’ Association Interest Settlement Rates for deposits in Dollars (as set forth by the Bloomberg Information Service or any successor thereto or any other service selected by the Administrative Agent which has been nominated by the British Bankers’ Association as an authorized information vendor for the purpose of displaying such rates) for a period equal to such Interest Period; provided, that, to the extent that an interest rate is not ascertainable pursuant to the foregoing provisions of this definition, the “Eurodollar Rate” shall be the interest rate per annum determined by the Administrative Agent to be the average of the rates per annum at which deposits in Dollars in an amount comparable to such Borrowing are offered for such relevant Interest Period to major banks in the London interbank market in London, England by the Administrative Agent at approximately 11:00 a.m. (London time) on the date that is two Business Days prior to the beginning of such Interest Period multiplied by (ii) the Statutory Reserve Rate.
+With respect to Eurodollar Borrowings denominated in a Foreign Currency, the Eurodollar Rate for any Interest Period shall be a rate equal to the higher of (a) 1.0% per annum and (b) (i) the rate of interest per annum determined by the Administrative Agent at approximately 11:00 a.m. (London time) on the Quotation Day for such Interest Period by reference to the British Bankers’ Association Interest Settlement Rates for deposits in a Foreign Currency (as set forth by the Bloomberg Information Service or any successor thereto or any other service selected by the Administrative Agent which has been nominated by the British Bankers’ Association as
+“Eurodollar Term Loan” shall mean any Term Loan bearing interest at a rate determined by reference to the Eurodollar Rate.
+“Excess Cash Flow” shall mean, for any period, an amount equal to the excess of (a) the sum, without duplication, of (i) Consolidated Net Income for such period, (ii) an amount equal to the amount of all non-cash charges to the extent deducted in arriving at such Consolidated Net Income, (iii) decreases in Consolidated Working Capital for such period and (iv) an amount equal to the aggregate net non-cash loss on the sale, lease, transfer or other disposition of assets by the Borrower and the Restricted Subsidiaries during such period (other than sales in the ordinary course of business) to the extent deducted in arriving at such Consolidated Net Income over (b) the sum, without duplication, of (i) an amount equal to the amount of all non-cash credits included in arriving at such Consolidated Net Income, (ii) the aggregate amount actually paid by the Borrower and the Restricted Subsidiaries in cash during such period on account of Capital Expenditures (excluding the principal amount of Indebtedness incurred in connection with such Capital Expenditures, whether incurred in such period or in a subsequent period), (iii) the aggregate amount of all prepayments of Revolving Credit Loans and Swingline Loans made during such period to the extent accompanying reductions of the Total Revolving Credit Commitments, (iv) the aggregate amount of all principal payments of Indebtedness of the Borrower or the Restricted Subsidiaries (including any Term Loans and the principal component of payments in respect of Capitalized Lease Obligations but excluding Revolving Credit Loans, Swingline Loans and voluntary prepayments of Term Loans pursuant to Section 5.1) made during such period (other than in respect of any revolving credit facility to the extent there is not an equivalent permanent reduction in commitments thereunder), (v) an amount equal to the aggregate net non-cash gain on the sale, lease, transfer or other disposition of assets by the Borrower and the Restricted Subsidiaries during such period (other than sales in the ordinary course of business) to the extent included in arriving at such Consolidated Net Income, (vi) increases in Consolidated Working Capital for such period, (vii) payments by the Borrower and the Restricted Subsidiaries during such period in respect of long-term liabilities of the Borrower and the Restricted Subsidiaries other than Indebtedness, (viii) the amount of acquisitions and investments made during such period pursuant to
+“Guarantee and Collateral Exception Amount” shall mean, at any time, $200,000,000.
+“Letter of Credit Commitment” shall mean $100,000,000, as the same may be reduced from time to time pursuant to Section 3.1.
+“Letter of Credit Exposure” shall mean, with respect to any Lender, at any time, the sum of (a) the Dollar Equivalent of the amount of any Unpaid Drawings in respect of which such Lender has made (or is required to have made) payments to the Letter of Credit Issuer pursuant to Section 3.4(a) at such time and (b) such Lender’s Revolving Credit Commitment Percentage of the Letter of Credit Outstanding at such time (excluding the portion thereof consisting of Unpaid Drawings in respect of which the Lenders have made (or are required to have made) payments to the Letter of Credit Issuer pursuant to Section 3.4(a)).
+“Minimum Borrowing Amount” shall mean (a) with respect to a Dollar Borrowing of Term Loans or Revolving Credit Loans, $1,000,000, (b) with respect to a Foreign Currency Borrowing of Revolving Credit Loans, the smallest amount of the applicable Foreign Currency that has a Dollar Equivalent in excess of $1,000,000 and (c) with respect to a Borrowing of Swingline Loans, $100,000.
+in the currency of such Borrowing for delivery on the first day of such Interest Period.
+“Swingline Commitment” shall mean $75,000,000.
+The Total Revolving Credit Commitment on the Closing Date is $180,000,000.
+The Total Term Loan Commitment on the Closing Date is $850,000,000.
+(i)            each Lender having a Term Loan Commitment severally agrees to make a loan (each a “Term Loan” and, collectively, the “Term Loans”) to the Borrower on the Closing Date in Dollars, which Term Loan shall not exceed for any such Lender such Lender’s pro rata share of all Term Loans to be made on the Closing Date (based on the percentage which such Lender’s Term Loan Commitment represents of the Total Term Loan Commitments of all Lenders); provided, that the aggregate principal amount of all Term Loans made on the Closing Date shall not exceed $850,000,000; and
+On the Term Loan Maturity Date, all Term Loans shall be repaid in full.
+On the Revolving Credit Maturity Date, all Revolving Credit Loans shall be repaid in full.
+On the Swingline Maturity Date, each outstanding Swingline Loan shall be repaid in full.
+2.2           Minimum Amount of Each Borrowing; Maximum Number of Borrowings.
+The aggregate principal amount of each Borrowing of Term Loans, Revolving Credit Loans or Swingline Loans shall be in a multiple of the Dollar Equivalent of $100,000 and shall not be less than the Minimum Borrowing Amount with respect thereto (except that Mandatory Borrowings shall be made in the amounts required by Section 2.1(d)).
+More than one Borrowing may be incurred on any date; provided, that at no time shall there be outstanding more than 20 Borrowings of Eurodollar Loans under this Agreement.
+The Administrative Agent shall also be entitled to recover from such Lender or the Borrower interest on such corresponding amount in respect of each day from the date such corresponding amount was made available by the Administrative Agent to the Borrower to the date such corresponding amount is recovered by the Administrative Agent, at a rate per annum equal to (i) if paid by such Lender, the Federal Funds Effective Rate or (ii) if paid by the Borrower, the then-applicable rate of interest, calculated in accordance with Section 2.8, for the respective Loans.
+(a)  The Borrower shall repay to the Administrative Agent, for the benefit of the Lenders, on the Term Loan Maturity Date, the then-unpaid Term Loans, in Dollars.
+The Borrower shall repay to the Administrative Agent in Dollars or the applicable Foreign Currency, as the case may be, for the benefit of the Lenders, on the Revolving Credit Maturity Date, the then-unpaid Revolving Credit Loans.
+The Borrower shall repay to the Administrative Agent in Dollars, for the account of the Swingline Lender, on the Swingline Maturity Date, the then-unpaid Swingline Loans.
+(b)           The Borrower shall repay to the Administrative Agent, in Dollars, for the benefit of the Lenders of Term Loans, on each date set forth below (each a “Term Loan Repayment Date”), the principal amount of the Term Loans equal to (x) the sum of the outstanding principal amount of Term Loans immediately after funding on the Closing Date, multiplied by (y) the percentage set forth below opposite such Term Loan Repayment Date (each a “Term Loan Repayment Amount”):
+Number of Months
+From Closing Date
+Term Loan
+Repayment Amount
+0.5 %
+0.5 %
+0.5 %
+0.5 %
+0.5 %
+0.5 %
+0.5 %
+0.5 %
+0.5 %
+0.5 %
+0.5 %
+0.5 %
+(a)  The unpaid principal amount of each ABR Loan shall bear interest from the date of the Borrowing thereof until maturity (whether by acceleration or otherwise) at a rate per annum that shall at all times be the Applicable ABR Margin plus the ABR in effect from time to time.
+(b)           The unpaid principal amount of each Eurodollar Term Loan or Eurodollar Revolving Credit Loan shall bear interest from the date of the Borrowing thereof until maturity thereof (whether by acceleration or otherwise) at a rate per annum that shall at all times be the Applicable Eurodollar Margin in effect from time to time plus the relevant Eurodollar Rate plus, in the case of Foreign Currency Loans, any Additional Cost incurred by such Lender in respect of such Foreign Currency Loans from time to time.
+(c)           If all or a portion of (i) the principal amount of any Loan or (ii) any interest payable thereon shall not be paid when due (whether at the stated maturity, by acceleration or otherwise), such overdue amount shall bear interest at a rate per annum that is (x) in the case of overdue principal, the rate that would otherwise be applicable thereto plus 2% or (y) in the case of any overdue interest, to the extent permitted by applicable law, the rate described in Section 2.8(a) plus 2% from and including the date of such non-payment to but excluding the date on which such amount is paid in full (after as well as before judgment).
+(d)           Interest on each Loan shall accrue from and including the date of any Borrowing to but excluding the date of any repayment thereof and shall be payable (i) in respect of each ABR Loan, quarterly in arrears on the last Business Day of each March, June, September and December, (ii) in respect of each Eurodollar Term Loan or Eurodollar Revolving Credit Loan, on the last day of each Interest Period applicable thereto and, in the case of an Interest Period in excess of three months, on each date occurring at three-month intervals after the first Business Day of such Interest Period, (iii) in respect of each Loan (except, other than in the case of prepayments, any ABR Loan), on any prepayment (on the amount prepaid), at maturity (whether by acceleration or otherwise) and, after such maturity, on demand.
+If a Substitute Rate is not so agreed upon by the Borrower and all the Lenders within such time, each Lender’s Foreign Currency Revolving Credit Loans shall thereafter bear interest at a rate equal to the sum of (i) the rate certified by such Lender to be its costs of funds (from such sources as it may reasonably select out of those sources then available to it) for such Foreign Currency Revolving Credit Loans plus (ii) the Applicable Eurodollar Margin plus (iii), in the case of Foreign Currency Loans denominated in Sterling only, any Additional Cost incurred by such Lender in respect of such Sterling Foreign Currency Loans from time to time.
+On any Increased Amount Date on which New Revolving Loan Commitments are effected, subject to the satisfaction of the foregoing terms and conditions, (a) each of the Lenders with Revolving Credit Commitments shall assign to each Lender with a New Revolving Loan Commitment (each, a “New Revolving Loan Lender”) and each of the New Revolving Loan Lenders shall purchase from each of the Lenders with Revolving Credit Commitments at the principal amount thereof (together with accrued interest), such interests in the Revolving Credit Loans outstanding on such Increased Amount Date as shall be necessary in order that, after giving effect to all such assignments and purchases, such Revolving Credit Loans will be held by existing Lenders with Revolving Credit Loans and New Revolving Loan Lenders ratably in accordance with their Revolving Credit Commitments after giving effect to the addition of such New Revolving Loan Commitments to the Revolving Credit Commitments, (b) each New Revolving Loan Commitment shall be deemed for all purposes a Revolving Credit Commitment and each Loan made thereunder (a “New Revolving Loan”) shall be deemed, for all purposes, a Revolving Credit Loan and (c) each New Revolving Loan Lender shall become a Lender with respect to the New Revolving Loan Commitment and all matters relating thereto.
+(c)           In the event that the Letter of Credit Issuer makes any payment under any Letter of Credit issued by it and the Borrower shall not have repaid such amount in full to the Letter of Credit Issuer pursuant to Section 3.4(a), the Letter of Credit Issuer shall promptly notify the Administrative Agent who will notify each applicable L/C Participant of such failure, and each such L/C Participant shall promptly and unconditionally pay to the Administrative Agent, for the account of the Letter of Credit Issuer, the amount of such L/C Participant’s Revolving Credit Commitment Percentage of such unreimbursed payment in Dollars or in the applicable Foreign Currency, as the case may be, and in immediately available funds; provided, however, that no L/C Participant shall be obligated to pay to the Administrative Agent for the account of the Letter of Credit Issuer its Revolving Credit Commitment Percentage of such unreimbursed amount arising from any wrongful payment made by the Letter of
+If and to the extent such L/C Participant shall not have so made its Revolving Credit Commitment Percentage of the amount of such payment available to the Administrative Agent for the account of the Letter of Credit Issuer, such L/C Participant agrees to pay to the Administrative Agent for the account of the Letter of Credit Issuer, forthwith on demand, such amount, together with interest thereon for each day from such date until the date such amount is paid to the Administrative Agent for the account of the Letter of Credit Issuer at the Federal Funds Effective Rate.
+(d)           Whenever the Letter of Credit Issuer receives a payment in respect of an unpaid reimbursement obligation as to which the Administrative Agent has received for the account of the Letter of Credit Issuer any payments from the L/C Participants pursuant to paragraph (c) above, the Letter of Credit Issuer shall pay to the Administrative Agent and the Administrative Agent shall promptly pay to each L/C Participant that has paid its Revolving Credit Commitment Percentage of such reimbursement obligation, in Dollars or the applicable Foreign Currency, as the case may be, and in immediately available funds, an amount equal to such L/C Participant’s share (based upon the proportionate aggregate amount originally funded by such L/C Participant to the aggregate amount funded by all L/C Participants) of the principal amount of such reimbursement obligation and interest thereon accruing after the purchase of the respective L/C Participations.
+(a)  The Borrower hereby agrees to reimburse the Letter of Credit Issuer, by making payment to the Administrative Agent in Dollars or in the applicable Foreign Currency, as the case may be, in immediately available funds at the Administrative Agent’s Office, for any payment or disbursement made by the Letter of Credit Issuer under any Letter of Credit (each such amount (including the Dollar Equivalent thereof) so paid until reimbursed, an “Unpaid Drawing”) immediately after, and in any event on the date of, such payment, with interest on the amount so paid or disbursed by the Letter of Credit Issuer, to the extent not reimbursed prior to 5:00 p.m. (Local Time) on the date of such payment or disbursement, from and including the date paid or disbursed to but excluding the date the Letter of Credit Issuer is reimbursed therefor at a rate per annum that shall at all times be the Applicable ABR Margin plus the ABR as in effect from time to time; provided, that, notwithstanding anything contained in this Agreement to the contrary, (i) unless the Borrower shall have notified the Administrative Agent and the Letter of Credit Issuer prior to 10:00 a.m. (Local Time) on the date of such drawing that the Borrower intends to reimburse the Letter of Credit Issuer for the amount of such drawing with funds other than the proceeds of Loans, the Borrower shall be deemed to have given a Notice of Borrowing to the Administrative Agent requesting that the Lenders make Dollar Revolving Credit Loans (which shall initially be ABR Loans) or Foreign Currency Revolving Credit Loans (each of which shall be Eurodollar Loans with an Interest Period
+At the time such resignation shall become effective, the Borrower shall pay to the resigning Letter of Credit Issuer all accrued and unpaid fees pursuant to Sections 4.1(c) and (d).
+(a)  The Borrower agrees to pay to the Administrative Agent in Dollars, for the account of each Lender having a Revolving Credit Commitment (in
+each case pro rata according to the respective Revolving Credit Commitments of all such Lenders), a commitment fee for each day from and including the Closing Date to but excluding the Final Date.
+Such commitment fee shall be payable in arrears (i) on the last Business Day of each March, June, September and December (for the three-month period (or portion thereof) ended on such day for which no payment has been received) and (ii) on the Final Date (for the period ended on such date for which no payment has been received pursuant to clause (i) above), and shall be computed for each day during such period at a rate per annum equal to the Commitment Fee Rate in effect on such day on the Available Commitments in effect on such day.
+(b)                                 The Borrower agrees to pay to the Administrative Agent in Dollars for the account of the Lenders pro rata on the basis of their respective Letter of Credit Exposure, a fee in respect of each Letter of Credit (the “Letter of Credit Fee”), for the period from and including the date of issuance of such Letter of Credit to but excluding the termination date of such Letter of Credit computed at the per annum rate for each day equal to the Applicable Eurodollar Margin for Revolving Credit Loans on the average daily Stated Amount of such Letter of Credit.
+(c)                                  The Borrower agrees to pay to the Administrative Agent in Dollars for the account of the Letter of Credit Issuer a fee in respect of each Letter of Credit issued by it (the “Fronting Fee”), for the period from and including the date of issuance of such Letter of Credit to but excluding the termination date of such Letter of Credit, computed at the rate for each day equal to 0.25% per annum on the average daily Stated Amount of such Letter of Credit.
+(d)                                 The Borrower agrees to pay directly to the Letter of Credit Issuer in Dollars upon each issuance of, drawing under, and/or amendment of, a Letter of Credit issued by it such amount as the Letter of Credit Issuer and the Borrower shall have agreed upon for issuances of, drawings under or amendments of, letters of credit issued by it.
+(e)                                  The Borrower agrees to pay to the Administrative Agent in Dollars for its own account the administrative agency fee described in the Engagement Letter and to pay to the Joint Lead Arrangers and the Arranger for their own accounts the arrangement fee described in the Engagement Letter, in each case, at the times described therein.
+Payments
+5.1                                 Voluntary Prepayments.
+prepayment of Eurodollar Term Loans or Eurodollar Revolving Credit Loans made pursuant to a single Borrowing shall reduce the outstanding Eurodollar Term Loans or Eurodollar Revolving Credit Loans made pursuant to such Borrowing to an amount less than the Minimum Borrowing Amount for Eurodollar Term Loans or Eurodollar Revolving Credit Loans; and (c) any prepayment of Eurodollar Term Loans or Eurodollar Revolving Credit Loans pursuant to this Section 5.1 on any day other than the last day of an Interest Period applicable thereto shall be subject to compliance by the Borrower, with the applicable provisions of Section 2.11.
+Notwithstanding the foregoing, a prepayment premium of 1.00% of the principal amount outstanding thereof shall apply to (i) any prepayment of Term Loans occurring on or prior to the first anniversary of the Closing Date from the proceeds of a Repricing Transaction (as defined below) and (ii) any other prepayment of all of the Term Loans occurring on or prior to the first anniversary of the Closing Date from the proceeds of an incurrence of Indebtedness.
+5.2                                 Mandatory Prepayments.
+(a)  Term Loan Prepayments.
+(i)  On each occasion that a Prepayment Event occurs, the Borrower shall, within five Business Days after the occurrence of such Prepayment Event, offer to prepay, in accordance with paragraph (c) below, the principal amount of Term Loans in an amount equal to 100% of the Net Cash Proceeds from such Prepayment Event.
+(ii)                                  Not later than the date that is six months after the last day of any fiscal year (commencing with the fiscal year ending December 31, 2011), if the Senior Secured Debt to Consolidated EBITDA Ratio as of the end of such fiscal year is greater than or equal to 1.50 to 1.00, the Borrower shall offer to prepay, in accordance with paragraph (c) below, the principal of Term Loans in an amount equal to (w) 50% of Excess Cash Flow for such fiscal year, minus (x) the amount of any such Excess Cash Flow that the Borrower has, after the end of such fiscal year and prior to such date, reinvested in the business of the Borrower or any of its Subsidiaries (subject to Section 9.14), minus (y) the principal amount of Term Loans voluntarily prepaid pursuant to Section 5.1 during such fiscal year and minus (z) an amount equal to $10,000,000 for such fiscal year; provided that the percentage under sub-clause (w) above will be reduced
+to 25% or 0% if the Senior Secured Debt to Consolidated EBITDA Ratio as of the end of such fiscal year is (x) greater than 1.25:1.00 but less than 1.50:1.00 or (y) less than or equal to 1.25:1.00, respectively.
+If on any date the aggregate amount of the Lenders’ Revolving Credit Exposures (all the foregoing, collectively, the “Aggregate Revolving Credit Outstandings”) exceeds 103% of the Total Revolving Credit Commitment as then in effect, the Borrower shall forthwith repay on such date the principal amount of Swingline Loans and, after all Swingline Loans have been paid in full, Revolving Credit Loans in an amount equal to such excess.
+If, after giving effect to the prepayment of all outstanding Swingline Loans and Revolving Credit Loans, the Aggregate Revolving Credit Outstandings exceed the Total Revolving Credit Commitment then in effect, the Borrower shall pay to the Administrative Agent an amount in cash equal to such excess and the Administrative Agent shall hold such payment for the benefit of the Lenders as security for the obligations of the Borrower hereunder (including obligations in respect of Letter of Credit Outstandings) pursuant to a cash collateral agreement to be entered into in form and substance satisfactory to the Administrative Agent (which shall permit certain investments in Permitted Investments satisfactory to the Administrative Agent, until the proceeds are applied to the secured obligations).
+Each prepayment of Term Loans required by Section 5.2(a) shall be applied to Classes of Term Loans on a pro rata basis and to reduce the Term Loan Repayment Amounts in such order as the Borrower may determine up to an amount equal to the aggregate amount of the applicable Term Loan Repayment Amounts required to be made by the Borrower pursuant to Section 2.5(b) during the two year period immediately following the date of the prepayment (such amount being, the “Amortization Amount”); provided, that to the extent that the amount of the prepayment exceeds the Amortization Amount, such excess shall be applied ratably to reduce the then remaining Term Loan Repayment Amounts.
+prepayment pursuant to this Section 5.2 only on the last day of an Interest Period applicable thereto unless all Eurodollar Term Loans with Interest Periods ending on such date of required prepayment and all Term Loans that are ABR Loans have been paid in full; (ii) if any prepayment of Eurodollar Term Loans made pursuant to a single Borrowing shall reduce the outstanding Term Loans made pursuant to such Borrowing to an amount less than the Minimum Borrowing Amount for Eurodollar Term Loans, such Borrowing shall immediately be converted into ABR Loans and (iii) each prepayment pursuant to this Section 5.2 of any Loans made pursuant to a Borrowing shall be applied pro rata among such Loans.
+With respect to each prepayment of Revolving Credit Loans elected by the Borrower pursuant to Section 5.1 or required by Section 5.2(b), the Borrower may designate (i) the Types of Loans that are to be prepaid and the specific Borrowing(s) pursuant to which made and (ii) the Dollar Revolving Credit Loans or Foreign Currency Revolving Credit Loans to be prepaid; provided, that (w) Eurodollar Revolving Credit Loans may be designated for prepayment pursuant to this Section 5.2 only on the last day of an Interest Period applicable thereto unless all Eurodollar Revolving Credit Loans with Interest Periods ending on such date of required prepayment and all ABR Loans have been paid in full; (x) if any prepayment by the Borrower of Eurodollar Revolving Credit Loans made pursuant to a single Borrowing shall reduce the outstanding Dollar Equivalent of the Revolving Credit Loans made pursuant to such Borrowing to an amount less than the Minimum Borrowing Amount for Eurodollar Revolving Credit Loans, such Borrowing shall immediately be converted into ABR Loans; (y) each prepayment of any Loans made pursuant to a Borrowing shall be applied pro rata among such Loans; and (z) notwithstanding the provisions of the preceding clause (y), no prepayment made pursuant to Section 5.2(a) or Section 5.2(b) of Revolving Credit Loans shall be applied to the Revolving Credit Loans of any Defaulting Lender.
+In lieu of making any payment pursuant to this Section 5.2 in respect of any Eurodollar Loan other than on the last day of the Interest Period therefor so long as no Default or Event of Default shall have occurred and be continuing, the Borrower at its option may deposit with the Administrative Agent an amount equal to the amount of the Eurodollar Loan to be prepaid and such Eurodollar Loan shall be repaid on the last day of the Interest Period therefor in the required amount.
+Whenever any payment to be made hereunder shall be stated to be due on a day that is not a Business Day, the due date thereof shall be extended to the next succeeding Business Day and, with respect to payments of principal, interest shall be payable during such extension at the applicable rate in effect immediately prior to such extension.
+Interest on Foreign Currency Revolving Credit Loans denominated in Sterling shall be calculated on the basis of a 365-day year for the actual days elapsed.
+(h)           additional Liens incurred after the Closing Date so long as the aggregate principal amount of the obligations so secured does not exceed $75,000,000 at any time outstanding;
+such Permitted Other Indebtedness and (y) if such Permitted Other Indebtedness is initially made with OID, the amount of such OID divided by the lesser of (A) the average life to maturity of such Permitted Other Indebtedness and (B) four) exceeds by more than 50 basis points (the amount of such excess above 50 basis points being referred to herein as the “Permitted Other Indebtedness Yield Differential”) the Eurodollar Rate plus the Applicable Eurodollar Margin then in effect for any Eurodollar Rate Term Loan, then the Applicable ABR Margin and the Applicable Eurodollar Margin then in effect for Term Loans shall automatically be increased by the Permitted Other Indebtedness Yield Differential, effective upon the making of such Permitted Other Indebtedness (and if the Eurodollar Rate margins on such Permitted Other Indebtedness are subject to a leveraged-based pricing grid, appropriate increases to the other Applicable ABR Margin and Applicable Eurodollar Margin for the Term Loans, consistent with the foregoing, shall be made); and
+(b)           the Borrower and the Restricted Subsidiaries may sell, transfer or otherwise dispose of other assets (other than accounts receivable) for fair value, provided, that in the case of any such sale, transfer or other disposition on and after the Closing Date (i) the amount of any such sale, transfer or disposal, together with the aggregate amount of any previous sales, transfers and disposals made by the Borrower and the Restricted Subsidiaries, taken as a whole, pursuant to this clause (b) on and after the Closing Date, shall not exceed in the aggregate an amount equal to 35% of Consolidated Total Assets as of September 30, 2010, (ii) any consideration in excess of $5,000,000 received by the Borrower or any Guarantor in connection with such sales, transfers and other dispositions of assets pursuant to this clause (b) that is in the form of Indebtedness shall be pledged to the Administrative Agent pursuant to Section 9.12, (iii) with respect to any such sale, transfer or disposition (or series of related sales, transfers or dispositions) in an aggregate amount in excess of $25,000,000 the Borrower shall be in compliance, on a pro forma basis after giving effect to such sale, transfer or disposition, with the covenants set forth in Sections 10.9 and 10.10, as such covenants are recomputed as at the last day of the most recently ended Test Period under such Sections as if such sale, transfer or disposition had occurred on the first day of such Test Period and (iv) after giving effect to any such sale, transfer or disposition, no Default or Event of Default shall have occurred and be continuing;
+(e)           in addition to selling or transferring accounts receivable pursuant to the other provisions hereof, the Borrower and the Restricted Subsidiaries may (i) sell or discount without recourse accounts receivable arising in the ordinary course of business in connection with the compromise or collection thereof and (ii) sell or transfer accounts receivable and related rights pursuant to customary receivables financing facilities or factoring arrangements; provided, that the aggregate amount of accounts receivable subject to such receivables financing facilities or factoring arrangements at any one time shall not exceed $200,000,000 or any greater amount so long as any Net Cash Proceeds in respect of accounts receivable in excess of $200,000,000 subject to such receivables financing facilities or factoring arrangements at any one time are promptly applied to prepay the Term Loans in the manner set forth in Sections 5.2(c) and (d).
+(c)           loans and advances to officers, directors and employees of Parent or any of its Subsidiaries (i) to finance the purchase of capital stock of Parent (provided, that the amount of such loans and advances used to acquire such capital stock shall be contributed by Holdings to the Borrower in cash as common equity using the proceeds of prior contributions of common equity by Parent to PIK Holdco and by PIK Holdco to Holdings, respectively) and (ii) for additional purposes not contemplated by subclause (i) above in an aggregate principal amount at any time outstanding with respect to this clause (ii) not exceeding $25,000,000;
+(o)           additional investments (including investments in Minority Investments, Unrestricted Subsidiaries and in foreign Restricted Subsidiaries), as valued at the fair market value of such investment at the time each such investment is made, in an aggregate amount at the time of such investment not in excess of $250,000,000 plus an amount equal to any repayments, interest, returns, profits, distributions, income and similar amounts actually received in cash in respect of any such investment (which amount shall not exceed the amount of such investment valued at the fair market value of such investment at the time such investment was made); and
+10.6        Limitation on Dividends.
+Neither the Borrower nor any Restricted Subsidiary will prepay, repurchase or redeem or otherwise defease any Senior Subordinated Notes; provided, however, that the Borrower may prepay, repurchase or redeem Senior Subordinated Notes (x) so long as no Default or Event of Default has occurred and is continuing, for an aggregate price not in excess of the sum of (A) $200,000,000 plus €250,108,000 and (B) any redemption or prepayment premiums payable in respect thereof or (y) so long as no Event of Default described in Section 11.1 or 11.5 has occurred and is continuing,  with the proceeds of subordinated Indebtedness that (1) is permitted by Section 10.1 and (2) has terms material to the interests of the Lenders not materially less advantageous to the Lenders than those of the Senior Subordinated Notes.
+The Borrower will not, and will not permit any of the Restricted Subsidiaries to, make any Capital Expenditures (other than Permitted Acquisitions that constitute Capital Expenditures), that would cause the aggregate amount of such Capital Expenditures made by the Borrower and the Restricted Subsidiaries in any fiscal year of the Borrower to exceed the sum of (a) the greater of (i) $325,000,000 and (ii) an amount equal to 10% multiplied by Consolidated Net Sales for such fiscal year (such greater amount, the “Permitted Capital Expenditure Amount”) and (b) the Available Amount as of the last day of such fiscal year (provided, that no portion of the Available Amount may be used for Capital Expenditures until the entire amount of the sum of (i) the Permitted Capital Expenditure Amount for such year and (ii) the carry-forward amount (as defined below in this Section 10.11) for such year shall have been used to make Capital Expenditures).
+and recordation fee of $3,500, which fee may be waived or reduced in the Administrative Agent’s sole discretion;
+(ii)           A Participant shall not be entitled to receive any greater payment under Section 2.10 or 5.4 than the applicable Lender would have been entitled to receive with respect to the participation sold to such Participant, unless the sale of the participation to such Participant is made with the Borrower’s prior written consent.
+(b)           If there is a change in the rate of exchange prevailing between the Judgment Currency Conversion Date and the date of actual payment of the amount due, the Borrower covenants and agrees to pay, or cause to be paid, such additional amounts, if any (but in any event not a lesser amount), as may be necessary to ensure that the amount paid in the Judgment Currency, when converted at the rate of exchange prevailing on the date of payment, will produce the amount of the Obligation Currency which could have been purchased with the amount of Judgment Currency stipulated in the judgment or judicial award at the rate of exchange prevailing on the Judgment Currency Conversion Date.
+On the first day of each Interest Period (or as soon as possible thereafter) the Administrative Agent shall calculate, as a percentage rate, a rate (the “Additional Cost Rate”) for each Lender, in accordance with the paragraphs set out below.
+The Additional Cost will be calculated by the Administrative Agent as a weighted average of the Lenders’ Additional Cost Rates (weighted in proportion to the percentage participation of each Lender in the relevant Loan) and will be expressed as a percentage rate per annum.
+AB + C(B - D) + E x 0.01
+per annum
+     100 - (A + C)
+E x 0.01
+per annum
+B                                       is the percentage rate of interest (excluding the applicable Foreign Currency Borrowing margin and the Additional Cost and, if the Loan is an overdue amount, the additional rate of interest specified in Section 2.8(c)) payable for the relevant Interest Period on the Loan.
+D                                       is the percentage rate per annum payable by the Bank of England to the Administrative Agent on interest bearing Special Deposits.
+E                                        is designed to compensate Lenders for amounts payable under the Fees Rules and is calculated by the Administrative Agent as being the average of the most recent rates of charge supplied by the Reference Lender to the Administrative Agent pursuant to paragraph 7 below and expressed in pounds per ₤1,000,000.
+5 per cent.
+The Administrative Agent shall distribute the additional amounts received as a result of the Additional Cost to the Lenders on the basis of the Additional Cost Rate for each Lender based on the information provided by each Lender and the Reference Lender pursuant to paragraphs 3, 7 and 8 above.
+850,000,000
+30,000,000
+880,000,000
+5,000,000
+5,000,000
+30,000,000
+30,000,000
+15,000,000
+15,000,000
+15,000,000
+15,000,000
+30,000,000
+30,000,000
+30,000,000
+30,000,000
+25,000,000
+25,000,000
+850,000,000
+180,000,000
+1,030,000,000
+USD
+5,330,111.00
+40,000.00
+USD
+3,584,632.00
+USD
+404,116.00
+USD
+115,000.00
+USD
+136,379.67
+USD
+200,000.00
+USD
+1,585,000.00
+USD
+683,023.60
+USD
+4,078,000.00
+12,509
+4,800,000.00
+500,000.00
+USD
+7,380,000.00
+1,420,000.00
+13,003.00
+USD
+231,883.00
+100% indirectly through Chemetall S.r.l.
+100% indirectly through Knight Lux 2 S.à r.l.
+100% indirectly through Chemetall S.r.l.
+100% indirectly through Knight Lux 1 S.à r.l.
+100% indirectly through Knight Lux 2 S.à r.l.
+100% indirectly through Knight Polska 1 Sp.z o.o.
+100% indirectly through Knight Lux 2 S.à r.l.
+100% indirectly through Knight Lux 2 S.à r.l.
+100% indirectly through Knight Lux 2 S.à r.l.
+Interest Rate
+3,840,000.00
+1,70%
+556,600.00
+1,5%
+163,600.00
+2,00%
+87,200.00
+32,700.00
+696,370.00
+342,702.21
+101,557.00
+4,55%
+325,000.00
+5,22%
+531,360.00
+4,19%
+196,337.07
+4,60%
+45,000,000.00
+4,78%
+13,000,000.00
+3,00%
+276,478.73
+4,75%
+1,363,915.88
+5,00%
+7,667,610.17
+3,65%
+220,000,000.00
+2,76%
+23,851,159.88
+5,523,396.60
+$300,000.00 initial principal amt.
+($90,228 outstanding as of December 31, 2010)
+Interest Rate Product
+Interest Rate Swap Euro 134,200,000
+134,200,000.00
+Interest Rate Swap Euro 38,456,000
+38,456,000.00
+Interest Rate Swap Euro 47,344,000
+47,344,000.00
+6,925,000.00
+874,431.50
+6,936,545.57
+2,891,800.00
+10,000.00
+154,937.07
+574,000.00
+346,000.00
+500,000.00
+48,600.00
+42,800.00
+181,022.00
+12,509.09
+4,800,000.00
+2,560.00
+17,081,000.00
+266,892.00
+1,450,000.00
+14,000.00
+1,474.00
+40,733.00
+24,789.00
+433,259.00
+93,106.00
+10,000.00
+10,000.00
+8,000.00
+150,000.00
+136,500.00
+2,500.00
+40,627.00
+598,000.00
+100,000.00
+5,000,00
+USD
+20,000
+USD
+5,330,111.00
+40,000.00
+USD
+3,584,632.00
+USD
+404,116.00
+USD
+115,000.00
+USD
+136,379.67
+USD
+200,000.00
+USD
+1,585,000.00
+USD
+683,023.60
+USD
+4,078,000.00
+12,509
+4,800,000.00
+500,000.00
+USD
+7,380,000.00
+1,420,000.00
+13,003.00
+USD
+231,883.00
+Interest Rate
+10,800,000.00
+10,000,000.00
+1,000,000.00
+329,627
+50,000.00
+5,000,000.00
+30,000,000.00
+Bank Austria Creditanstalt, Bank Loan EUR 556,600.00
+Pledging of securities of 120% of the loan amount
+Bank Austria Creditanstalt, Bank Loan EUR3,840,000.00
+2 — Sharp MX5500, 1 Sharp AR-M257
+51% capital investment (representing $885,599.00(1) capital investment) in Changshu Rockwood Pigments Company Limited
+60% capital investment in Nanjing Chemetall Surface Technologies Co. Ltd.
+99.99% capital investment (representing an original investment $3,575,000.00) in Chemetall Mexicana SA de CV
+99.95% capital investment (representing an original investment $4,343,000.00) in DNVJ Vermögensverwaltung GmbH
+40% capital investment (representing an original investment $630,000.00(2)) in Guangzhou Huali Sachtleben Chemicals Company Ltd
+50% capital investment (representing an original investment $713,000.00) in ChemStore GmbH
+30% capital investment (representing an original investment $61,000.00(3)) in Bedec Tir SA
+33.33% capital investment (representing an original investment $19,000.00) in LRG Recycling GmbH Leverkusen
+34.08% capital investment (representing an original investment $334,000.00(4)) in DICON Explosives Company Ltd.
+25% capital investment (representing an original investment $43,000.00(5)) in Nigerian Development and Construction Company Ltd.
+6% capital investment (representing an original investment $13,000.00) in Würgendorf GenehmigungshaltersgesellschaftmbH
+40% and 10% capital investment, respectively, (representing an original investment $1,300,000.00) in Chemetall-Rai India Ltd.
+60% capital investment (representing an original investment $1,118,000.00 and an additional $2,400,000.00 contribution in December 2010) in Shanghai Chemetall Chemicals Co., Ltd.
+50% capital investment (representing an original investment $89,000.00) in Sales de Magnesio Limitida
+49% capital investment (representing an original investment of $1,000) in Chemetall Thailand Co. Ltd.
+35% and 20% capital investment, respectively, (representing an original investment $507,000.00) in Chongqing Chemetall Chemicals Co., Ltd
+49% capital investment (representing an original investment of $1,000) in Chemetall Surface Treatment Holding Co. Ltd.
+25% capital investment (representing an original investment $16,000.00) in Alberti & Co. GmbH
+25% capital investment (representing an original investment $727,000.00) in Deutsche Baryt-Industrie, Dr. Rudolf Alberti GmbH & Co. KG
+13% capital investment (representing an original investment $6,000.00) in Troisdorf Genehmigungshaltergesellschaft mbH
+an original investment $3,000.00) in Stadeln Genehmigungshaltergesellschaft mbH
+10% capital investment (representing an original investment $28,000.00) in Industrieservice Ges.m.b.H.
+40% and 17% capital investment, respectively, (representing an original investment $1,100,000.00) in Changchun Chemetall Chemicals Co., Ltd.
+Payments.
+Mortgagor shall pay the Indebtedness when due under the Credit Documents and shall perform the Obligations in full when they are required to be performed as required under the Credit Documents.
+Mortgagee or any of the Lenders may be a purchaser at such sale and if Mortgagee is the highest bidder, Mortgagee shall credit the portion of the purchase price that would be distributed to Mortgagee against the Indebtedness in lieu of paying cash.
+The Administrative Agent or any Secured Party shall have the right upon any such public sale, and, to the extent permitted by law, upon any such private sale, to purchase the whole or any part of the Collateral so sold, and the Administrative Agent or such Secured Party may subject to (x) the satisfaction in full in cash of all payments due pursuant to Section 12(b)(i), and (y) the ratable satisfaction of the Obligations in accordance with Section 12(b)(ii) pay the purchase price by crediting the amount thereof against the Obligations.
+(ii)           second, to the Secured Parties, an amount equal to all Obligations owing to them on the date of any such distribution, and, if such moneys shall be insufficient to pay such amounts in full, then ratably (without priority of any one over any other) to such Secured Parties in proportion to the unpaid amounts thereof; and
+Number of Shares
+than a 50% equity interest at the time.
+6.10                           506(c) Claims.
+(ii)           second, to the Secured Parties, an amount equal to all Obligations owing to them on the date of any distribution, and, if such moneys shall be insufficient to pay such amounts in full, then ratably (without priority of any one over any other) to such Secured Parties in proportion to the unpaid amounts thereof; and
+law, upon any such private sale, to purchase the whole or any part of the Collateral so sold, and the Administrative Agent or such Secured Party may subject to (x) the satisfaction in full in cash of all payments due pursuant to Section 5.4(i), and (y) the ratable satisfaction of the Obligations in accordance with Section 5.4(ii), pay the purchase price by crediting the amount thereof against the Obligations.
+(c)           The expenses of the Administrative Agent incurred in connection with actions undertaken as provided in this Section 6.1, together with interest thereon at a rate per annum equal to the highest rate per annum at which interest would then be payable on any category of past due ABR Loans under the Credit Agreement, from the date of payment by the Administrative Agent to the date reimbursed by the relevant Grantor, shall be payable by such Grantor to the Administrative Agent on demand.
+Percentage Assigned of
+Total Commitment of all
+Lenders (Set forth, to at
+least 9 decimals, as a
+percentage of the Total
+Commitment of
+Revolving Credit
+Commitment of all
+Lenders)
+180,000,000.00
+[0.000000000]
+850,000,000.00
+[0.000000000]
+Payments.
+From and after the Effective Date, the Administrative Agent shall make all payments in respect of the Assigned Interest (including payments of principal, interest, fees and other amounts) to the Assignor for amounts which have accrued to but
+FOR VALUE RECEIVED, the undersigned, ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Borrower”), hereby unconditionally promises to pay to the order of [Lender] or its registered assigns (the “Lender”), at the Administrative Agent’s Office or such other place as Credit Suisse AG, Cayman Islands Branch (the “Administrative Agent”), shall have specified, in Dollars and in immediately available funds, in accordance with Section 2.5 of the Credit Agreement (as defined below) on the Term Loan Maturity Date (capitalized terms used and not otherwise defined herein shall have the meanings assigned to such terms in the Credit Agreement), the principal amount of [        ] Dollars ($[    ]) or, if less, the aggregate unpaid principal amount of all Term Loans, if any, made by the Lender to the Borrower pursuant to the Credit Agreement.
+The Borrower further unconditionally promises to pay interest in like money at such office on the unpaid principal amount hereof from time to time outstanding at the rates per annum and on the dates specified in Section 2.8 of the Credit Agreement.
+[$][€][£]
+FOR VALUE RECEIVED, the undersigned, ROCKWOOD SPECIALTIES GROUP, INC., a Delaware corporation (the “Borrower”), hereby unconditionally promises to pay to the order of [Lender] or its registered assigns (the “Lender”), at the Administrative Agent’s Office or such other place as CREDIT SUISSE AG, CAYMAN ISLANDS BRANCH (the “Administrative Agent”), shall have specified, in [Dollars][Euro][Sterling] and in immediately available funds, in accordance with Section 2.5 of the Credit Agreement (as defined below) on the [Revolving Credit Maturity Date] [Swingline Maturity Date] (capitalized terms used and not otherwise defined herein shall have the meanings assigned to such terms in the Credit Agreement), the principal amount of [   ] [Dollars][Euro][Sterling] ([$][€][£][        ]) or, if less, the aggregate unpaid principal amount of all [Revolving Credit Loans][Swingline Loans], if any, made by the Lender to the Borrower pursuant to the Credit Agreement.
+The Borrower further unconditionally promises to pay interest in like money at such office on the unpaid principal amount hereof from time to time outstanding at the rates per annum and on the dates specified in Section 2.8 of the Credit Agreement.
+The Applicable Eurodollar Margin for each Series [  ] New Term Loans shall mean, as of any date of determination, [    ]% per annum [plus the pricing premium, if any, less the pricing reduction].
+The Borrower shall make principal payments on the Series [    ] New Term Loans in installments on the dates and in the amounts set forth below:
+(A)
+Payment
+Date
+Voluntary and Mandatory Prepayments
+V.            Prepayment Fees
+The Borrower agrees to pay to each New Term Loan Lender the following prepayment fees, if any:  [                                  ].
+The Borrower agrees to pay each New Term Loan Lender its pro rata share of an aggregate fee equal to [                          ] on [                        ,         ].
+Amount of Proposed Borrowing:  $
+Interest rate option:
+(a)           [The Borrower shall make any payments required pursuant to Section 2.11 of the Credit Agreement in connection with the New Revolving Loan Commitments](23)

@@ -1,0 +1,70 @@
+(a)(1)
+(a)(2)
+(a)(3)
+(a)(4)
+(a)(5)
+(c)
+(c)
+(c)
+(b)(2)
+(c)
+(d)
+(c)(1)
+(c)(2)
+(c)(3)
+(f)
+(c)
+(d)
+(a)(1)(A)
+(a)(1)(B)
+(a)(2)
+(c)
+(a)(1)
+(a)(2)
+(c)
+Effect of Purchase Notice; Withdrawal of Purchase Notice
+No Purchase Upon Event of Default
+Section 2.10           Cancellation.
+(i)            Certificated Securities shall be issued in exchange for interests in the Global Securities only if (x) the Depositary notifies the Company that it is unwilling or unable to continue as Depositary for the Global Securities or if any time the Depositary ceases to be a “clearing agency” registered under the Exchange Act and a successor depositary is not appointed by the Company within 90 days or (y) an Event of Default has occurred and is continuing and the Registrar has received a request from the Depositary that the Securities be reissued as Certificated Securities.
+(a)           the Redemption Date;
+(e)           that Securities called for redemption may be converted at any time prior to 5:00 p.m., Eastern Standard time, on the second Business Day preceding the Redemption Date;
+(h)           if fewer than all of the outstanding Securities are to be redeemed, the certificate numbers, if any, and principal amounts of the particular Securities to be redeemed;
+(i)            that, unless the Company defaults in making payment of such Redemption Price and interest (including Contingent Interest and Additional Interest, if any), on Securities called for redemption shall cease to accrue on and after the Redemption Date and that all other rights of Holders will terminate;
+Once notice of redemption is given, Securities called for redemption become due and payable on the Redemption Date and at the Redemption Price, except for Securities which
+If the Paying Agent holds, in accordance with the terms hereof, at 10:00 a.m., Eastern Standard time, on the applicable Redemption Date, cash sufficient to pay the Redemption Price of any Securities for which notice of redemption is given, then, on such Redemption Date, such Securities shall cease to be outstanding and interest (including Contingent Interest and Additional Interest, if any), on such Securities shall cease to accrue, whether or not such Securities are delivered to the Paying Agent, and the rights of the Holders in respect thereof shall terminate (other than the right to receive the Redemption Price upon delivery of such Securities).
+If a Purchase Notice has been properly withdrawn pursuant to this Section 4.2(b) prior to the Purchase Date, the Company shall not be obligated to purchase those Securities so identified in such notice of withdrawal.
+If the Paying Agent holds, in accordance with the terms hereof, at 10:00 a.m., Eastern Standard time, on the applicable Purchase Date (or such date specified in the preceding paragraph), cash sufficient to pay the Purchase Price of any Securities for which a Purchase Notice has been tendered and not withdrawn pursuant to Section 4.2(b), then, on such Purchase Date, such Securities shall cease to be outstanding and interest (including Additional Interest, if any) on such Securities shall cease to accrue (whether or not book-entry transfer of the Securities is made or whether or not the Securities are delivered to the Paying Agent), and all other rights of the Holders will terminate (other than the right to receive the Purchase Price upon delivery or transfer of the Securities).
+If a Fundamental Change Purchase Notice has been properly withdrawn pursuant to this Section 5.2(b) prior to the Fundamental Change Purchase Date, the Company shall not be obligated to purchase those Securities so identified in such notice of withdrawal.
+If the Paying Agent holds, in accordance with the terms hereof, at 10:00 a.m., Eastern Standard time, on the applicable Fundamental Change Purchase Date, cash sufficient to pay the Fundamental Change Purchase Price of any Securities for which a Fundamental Change Purchase Notice has been tendered and not withdrawn pursuant to Section 5.2(b), then, on such Fundamental Change Purchase Date, such Securities shall cease to be outstanding and interest and Additional Interest, if any, on such Securities shall cease to accrue, whether or not such Securities are delivered to the Paying Agent, and the rights of the Holders in respect thereof shall terminate (other than the right to receive the Fundamental Change Purchase Price upon delivery of such Securities).
+(c)           immediately after giving effect to such transaction, no Default shall have occurred and be continuing; and
+(iii)          orders the winding up or liquidation of the Company or any Significant Subsidiary,
+When a Default is waived, it is deemed cured, but no such waiver shall extend to any subsequent or other Default or impair any consequent right.
+(d)           the Trustee has not complied with such request within 60 days after the receipt thereof and the offer of security or indemnity; and
+(a)  A resignation or removal of the Trustee and appointment of a successor Trustee will become effective only upon the successor Trustee’s acceptance of appointment as provided in this Section 9.8.
+(b)           The Trustee may resign in writing at any time and be discharged from the trust hereby created by so notifying the Company.
+The Company may remove the Trustee if:
+(iv)          the Trustee becomes incapable of acting.
+(c)           If the Trustee resigns or is removed or if a vacancy exists in the office of Trustee for any reason, the Company will promptly appoint a successor Trustee.
+(d)                                 If a successor Trustee does not take office within 60 days after the retiring Trustee resigns or is removed, the retiring Trustee, the Company, or the Holders of at least 10% in principal amount of the then outstanding Securities may petition at the expense of the Company any court of competent jurisdiction for the appointment of a successor Trustee.
+(e)                                  If the Trustee, after written request by any Holder who has been a Holder for at least six months, fails to comply with Section 9.10 hereof, such Holder may petition any court of competent jurisdiction for the removal of the Trustee and the appointment of a successor Trustee.
+Thereupon, the resignation or removal of the retiring Trustee will become effective, and the successor Trustee will have all the rights, powers and duties of the Trustee under this Indenture.
+However, any such Holder or subsequent Holder may revoke the consent, waiver or action as to such Holder’s Security or portion of the Security if the Trustee receives the notice of revocation before the date the amendment, waiver or action becomes effective.
+(C)                                at any time prior to 5:00 p.m., Eastern Standard time, on the second Business Day immediately preceding the Redemption Date, if such Security has been called for redemption pursuant to ARTICLE III;
+(ii)                                  after February 1, 2010:
+(B)                                on or after February 1, 2025;
+(E)                                 at any time prior to 5:00 p.m., Eastern Standard time, on the second Business Day immediately preceding the Redemption Date, if such Security has been called for redemption pursuant to ARTICLE III.
+(c)                                  Notwithstanding the foregoing, a Security in respect of which a Holder has delivered a Purchase Notice or a Fundamental Change Purchase Notice, as the case may be, exercising such Holder’s right to require the Company to repurchase such Security may be converted only if such Purchase Notice or Fundamental Change Purchase Notice is withdrawn in accordance with Section 4.2(b) or Section 5.2(b).
+If a Holder has exercised its right to require the Company to repurchase its Securities pursuant to ARTICLE IV or ARTICLE V and has not withdrawn its Purchase Notice or Fundamental Change Purchase Notice, such Holder’s conversion rights on the Securities so subject to repurchase shall expire at 5:00 p.m., Eastern Standard time, on the Business Day immediately preceding the Purchase Date or Fundamental Change Purchase Date, as the case may be.
+Each Subsidiary Guarantor shall be released (a) in connection with any sale or other disposition of all or substantially all of the assets of that Guarantor (including by way of merger or consolidation) to a person that is not (either before or after giving effect to such transaction) the Company or its Subsidiary, provided that any such termination shall occur only to the extent that all obligations of such Guarantor under all of its Subsidiary Guarantees of, and under all of its pledges of assets or other security interests which secure any Indebtedness of the Company or the Indebtedness of any of the Guarantors shall also terminate upon such release, sale or transfer; or
+(3)
+If the Paying Agent holds, in accordance with the terms hereof, at 10:00 a.m., New York City time, on the applicable Redemption Date, cash sufficient to pay the Redemption Price of any Notes for which notice of redemption is given, then, on such Redemption Date, such Notes shall cease to be outstanding and interest (including Contingent Interest and Additional Interest, if any) on such Notes shall cease to accrue, whether or not such Notes are delivered to the Paying Agent, and the rights of the Holders in respect thereof shall terminate (other than the right to receive the Redemption Price upon delivery of such Notes).
+If the Paying Agent holds, in accordance with the terms hereof, at 10:00 a.m., New York City time, on the applicable Purchase Date or Fundamental Change Purchase Date, cash sufficient to irrevocably pay the Purchase Price or Fundamental Change Purchase Price, as the case may be, of any Notes for which a Purchase Price or Fundamental Change Purchase Notice, as the case may be, has been tendered and not withdrawn pursuant to the Indenture, then, on such Purchase Date or Fundamental Change Purchase Date, as the case may be, such Notes shall cease to be outstanding and interest (including Contingent Interest and Additional Interest, if any) on such Notes shall cease to accrue, whether or not such Notes are delivered to the Paying Agent, and the rights of the Holders in respect thereof shall terminate (other than the right to receive the Purchase Price or Fundamental Change Purchase Price, as the case may be, upon delivery of such Notes).
+Amendment; Waiver.
+January 30, 2006
+3.350
+February 1, 2007
+February 1, 2008
+February 1, 2009
+February 1, 2010
+February 1, 2011
+3.350

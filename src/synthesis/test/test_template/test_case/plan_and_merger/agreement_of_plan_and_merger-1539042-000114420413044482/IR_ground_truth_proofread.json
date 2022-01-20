@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "AGREEMENT AND PLAN OF MERGER",
+    "SellerName": [
+        "Westinghouse Solar, Inc."
+    ],
+    "BuyerName": [
+        "CBD Energy Limited；CBD-WS Merger Sub, Inc."
+    ],
+    "EffectiveTime": [
+        "May 7, 2012"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": ["October 31, 2012"],
+    "Payments": [
+        {
+            "From": [
+                "CBD Energy Limited；CBD-WS Merger Sub, Inc."
+            ],
+            "To": [
+                "Westinghouse Solar, Inc."
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

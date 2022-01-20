@@ -1,0 +1,42 @@
+ContractCategory: PurchaseAgreement;
+
+Entity: {
+    SellerNames: ['VW Credit'];
+    BuyerNames: ['VOLKSWAGEN AUTO LEASE/LOAN UNDERWRITTEN FUNDING'];
+};
+
+EffectiveTime: May 19, 2020;
+CloseTime: "";
+ExpiryTime: ;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: true;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: ['VOLKSWAGEN AUTO LEASE/LOAN UNDERWRITTEN FUNDING'];
+         To: ['VW Credit'];
+         Price: {
+             Amount: 1290803105.57,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: false;
+    OtherConstraint: true;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};

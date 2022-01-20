@@ -1,0 +1,41 @@
+{
+"Contract category":"EMPLOYMENT AGREEMENT",
+"SellerName": [
+        "Seth Taube"
+    ],
+    "BuyerName": [
+        "Medley Capital LLC"
+    ],
+    "EffectiveTime": [
+        "July [  ], 2018"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        "July [  ], 2020"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Medley Capital LLC"
+            ],
+            "To": [
+                "Seth Taube"
+            ],
+            "PurchasePrice": "480000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

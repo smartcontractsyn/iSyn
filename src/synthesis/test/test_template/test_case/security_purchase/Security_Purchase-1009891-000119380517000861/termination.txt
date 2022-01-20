@@ -1,0 +1,276 @@
+A.
+B.
+1.
+- 1 -
+ (b)   Closing.
+2.
+- 2 -
+ (b)   Accredited Investor Status.
+(f)    Transfer or Resale.
+- 3 -
+ (g)   Legends.
+- 4 -
+ (h)   Validity; Enforcement.
+(i)     No Conflicts.
+3.
+- 5 -
+ (b)   Authorization; Enforcement; Validity.
+(c)   Issuance of Securities.
+- 6 -
+ (e)    Consents.
+(f)    Acknowledgment Regarding Buyer's Purchase of Securities.
+- 7 -
+ (g)   No General Solicitation; Placement Agent's Fees.
+(h)   No Integrated Offering.
+(i)     Dilutive Effect.
+- 8 -
+ (j)     Application of Takeover Protections; Rights Agreement.
+- 9 -
+ (l)     Absence of Certain Changes.
+(m)        No Undisclosed Events, Liabilities, Developments or Circumstances.
+(n)   Conduct of Business; Regulatory Permits.
+- 10 -
+ (o)   Foreign Corrupt Practices.
+(p)   Sarbanes-Oxley Act.
+(q)   Transactions With Affiliates.
+- 11 -
+- 12 -
+ (s)    Indebtedness and Other Contracts.
+(t)     Absence of Litigation.
+- 13 -
+(x)   Intellectual Property Rights.
+None of the Company's or its Subsidiaries' Intellectual Property Rights have expired or terminated or have been abandoned or are expected to expire or terminate or are expected to be abandoned, within three years from the date of this Agreement.
+- 14 -
+ (y)   Environmental Laws.
+(z)   Subsidiary Rights.
+(bb)        Tax Status.
+- 15 -
+ (cc)         Internal Accounting and Disclosure Controls.
+(ee)         Ranking of Notes.
+(ff)        Transfer Taxes.
+- 16 -
+ (gg)        Manipulation of Price.
+(hh)        Acknowledgement Regarding Buyers' Trading Activity.
+(ii)       U.S. Real Property Holding Corporation.
+(jj)         Bank Holding Company Act.
+(kk)        No Additional Agreements.
+- 17 -
+ (ll)          Disclosure.
+(mm)   Shell Company Status.
+(nn)        Stock Option Plans.
+(oo)        No Disagreements with Accountants and Lawyers.
+- 18 -
+ (pp)        Compliance with Anti-Money Laundering Laws.
+(qq)        No Conflicts with Sanctions Laws.
+- 19 -
+ (rr)        Anti-Bribery.
+(ss)         No Disqualification Events.
+(tt)         Other Covered Persons.
+- 20 -
+ 4.
+(a)   Best Efforts.
+(b)   Form D and Blue Sky.
+(c)   Reporting Status.
+Until the date on which the Buyers shall have sold all of the Conversion Shares and Warrant Shares and none of the Notes or Warrants are outstanding (the "Reporting Period"), the Company shall file all reports required to be filed with the SEC pursuant to the 1934 Act, and the Company shall not terminate its status as an issuer required to file reports under the 1934 Act even if the 1934 Act or the rules and regulations thereunder would no longer require or otherwise permit such termination.
+(d)   Use of Proceeds.
+- 21 -
+(h)   Pledge of Securities.
+- 22 -
+In addition, effective upon the filing of the 8-K Filing, the Company acknowledges and agrees that any and all confidentiality or similar obligations under any agreement, whether written or oral, between the Company, any of its Subsidiaries or any of their respective officers, directors, employees, affiliates or agents, on the one hand, and any of the Buyers or any of their affiliates, on the other hand, shall terminate and be of no further force or effect.
+(j)    Additional Notes; Variable Securities.
+- 23 -
+ (k)   Corporate Existence.
+(l)    Reservation of Shares.
+(m)     Conduct of Business.
+At any time during the period commencing from the six (6) month anniversary of the Closing Date and ending at such time that all of the Securities, if a registration statement is not available for the resale of all of the Securities, may be sold without restriction or limitation pursuant to Rule 144 and without the requirement to be in compliance with Rule 144(c)(1), if the Company shall (i) fail for any reason to satisfy the requirements of Rule 144(c)(1), including, without limitation, the failure to satisfy the current public information requirement under Rule 144(c) or (ii) if the Company shall fail to satisfy any condition set forth in Rule 144(i)(2) (a "Public Information Failure") then, as partial relief for the damages to any holder of Securities by reason of any such delay in or reduction of its ability to sell the Securities (which remedy shall not be exclusive of any other remedies available at law or in equity), the Company shall pay to each such holder an amount in cash equal to two percent (2.0%) of the aggregate Purchase Price of such holder's Securities on the day of a Public Information Failure and on every thirtieth day (pro-rated for periods totaling less than thirty days) thereafter until the earlier of (i) the date such Public Information Failure is cured and (ii) such time that such Public Information Failure no longer prevents a holder of Securities from selling such Securities pursuant to Rule 144 without any restrictions or limitations.
+- 24 -
+ (o)     Notice of Disqualification Events.
+(a)   FAST Compliance.
+5.
+- 25 -
+ 6.
+(iii)            The representations and warranties of such Buyer shall be true and correct as of the date when made and as of the Closing Date as though made at that time (except for representations and warranties that speak as of a specific date which shall be true and correct as of such specified date), and such Buyer shall have performed, satisfied and complied in all material respects with the covenants, agreements and conditions required by this Agreement to be performed, satisfied or complied with by such Buyer at or prior to the Closing Date.
+- 26 -
+ 7.
+- 27 -
+(viii)        The Common Stock (I) shall be designated for quotation or listed on the Principal Market and (II) shall not have been suspended, as of the Closing Date, by the SEC or the Principal Market from trading on the Principal Market nor shall suspension by the SEC or the Principal Market have been threatened, as of the Closing Date, either (A) in writing by the SEC or the Principal Market or (B) by falling below the minimum listing maintenance requirements of the Principal Market.
+(ix)            The Company shall have obtained all governmental, regulatory or third party consents and approvals, if any, necessary for the sale of the Securities.
+8.
+In the event that the Closing shall not have occurred with respect to a Buyer on or before five (5) Business Days from the date hereof due to the Company's or such Buyer's failure to satisfy the conditions set forth in Sections 6 and 7 above (and the non-breaching party's failure to waive such unsatisfied condition(s)), the non-breaching party shall have the option to terminate this Agreement with respect to such breaching party at the close of business on such date by delivering a written notice to that effect to each other party to this Agreement and without liability of any party to any other party.
+9.
+(a)   Governing Law; Jurisdiction; Jury Trial.
+- 28 -
+(c)   Headings.
+(d)   Severability.
+(e)   Entire Agreement; Amendments.
+- 29 -
+- 30 -
+(g)   Successors and Assigns.
+(h)   No Third Party Beneficiaries.
+(i)     Survival.
+Unless this Agreement is terminated under Section 8, the representations and warranties of the Company and the Buyers contained in Sections 2 and 3, and the agreements and covenants set forth in Sections 4, 5 and 9 shall survive the Closing.
+- 31 -
+(k)   Indemnification.
+- 32 -
+(l)     No Strict Construction.
+(m)        Remedies.
+- 33 -
+ (n)   Rescission and Withdrawal Right.
+(p)   Independent Nature of Buyers' Obligations and Rights.
+- 34 -
+- 1 -
+(2)   DEFAULT INTEREST.
+In the event that an Event of Default is subsequently cured, the Interest shall cease to accrue as of the date of such cure; provided, that the Interest as calculated and unpaid as of the cure of such Event of Default shall continue to be due and payable as set forth above.
+(3)   CONVERSION OF NOTES.
+(a)   Conversion Right.
+(b)   Conversion Rate.
+- 2 -
+ (i)            "Conversion Amount" means the sum of (A) the portion of the Principal to be converted, redeemed or otherwise with respect to which this determination is being made, (B) accrued and unpaid Interest, if any, with respect to such Principal and (C) accrued and unpaid Late Charges, if any, with respect to such Principal and Interest.
+(c)   Mechanics of Conversion.
+(i)            Optional Conversion.
+- 3 -
+ (ii)          Company's Failure to Timely Convert.
+- 4 -
+- 5 -
+- 6 -
+ (4)   SUBORDINATION.
+(b)    Upon the acceleration of any Senior Indebtedness or upon the maturity of all or any portion of the principal amount of any Senior Indebtedness by lapse of time, acceleration or otherwise, all such Senior Indebtedness which has been so accelerated or matured shall first indefeasibly be paid in full before any payment is made by the Company or any person acting on behalf of the Company on account of any obligations evidenced by this Note.
+(c)    The Company shall not pay any principal portion of this Note, or interest accrued hereon, if at such time there exists a Blockage Event (as hereafter defined) and written notice thereof has been given to the Company and the Holder by the holders of the Senior Indebtedness.
+(d)    A “Blockage Event” is deemed to exist for the period of time commencing on the date of receipt by the Holder of written notice of the occurrence of a Default or an Event of Default (as defined in the instruments evidencing the Senior Indebtedness), provided that the failure to pay accrued interest on this Note when due shall not give rise to a Blockage Event in the absence of another Default or Event of Default, which notice shall specify such Default or Event of Default, and ending on:
+- 7 -
+ (i)    the date such Default or Event of Default under the Senior Indebtedness, as applicable, is cured or waived, provided that such Default or Event of Default is in the payment of any amount due thereunder; or (ii)   in the case of any other Default or Event of Default under the Senior Indebtedness, the earlier of (A) the date on which Holder has received written notice of such Default or Event of Default shall have been cured or waived and (B) the date that is 365 days after the occurrence of such Default or Event of Default, provided that a Blockage Event with respect to a single specified Default or Event of Default may be deemed to occur only once for each twelve-month period, provided, further, that no Default or Event of Default that existed at the commencement of, or during the pendency of, a Blockage Event shall serve as the basis for the institution of any subsequent Blockage Event.
+(e)    At any time there exists a Blockage Event, (i) the Company shall not, directly or indirectly, make any payment of any part of this Note, (ii) the Holder shall not demand or accept from the Company or any other person any such payment or cancel, set-off or otherwise discharge any part of the indebtedness represented by this Note, and (iii) neither the Company nor the Holder shall otherwise take or permit any action prejudicial to or inconsistent with the priority position of any holder of Senior Indebtedness over the Holder of this Note.
+- 8 -
+(h)   After all Senior Indebtedness indefeasibly is paid in full and until the obligations under the Note are paid in full, the Holder shall be subrogated to the rights of holders of Senior Indebtedness to the extent that distributions otherwise payable to the Holder have been applied to the payment of Senior Indebtedness.
+(i)    In any insolvency, receivership, bankruptcy, dissolution, liquidation or reorganization proceeding, or in any other proceeding, whether voluntary or involuntary, by or against the Company under any bankruptcy or insolvency law or laws relating to relief of debtors, to compositions, extensions or readjustments of indebtedness: (i)   the claims of any holders of Senior Indebtedness against the Company shall be paid indefeasibly in full in cash or such payment shall have been provided for in a manner acceptable to the holders of at least a majority of the then outstanding principal amount of the Senior Indebtedness before any payment is made to the Holder; (ii)  until all Senior Indebtedness is indefeasibly paid in full in cash or such payment shall have been provided for in a manner acceptable to the holders of at least a majority of the then outstanding principal amount of the Senior Indebtedness before any payment is made to the Holder, any distribution to which the Holder would be entitled but for this Section shall be made to holders of Senior Indebtedness, except for distribution of securities issued by the Company which are subordinate and junior in right of payment to the Senior Indebtedness; and (iii)  the holders of Senior Indebtedness shall have the right to enforce, collect and receive every such payment or distribution and give acquittance therefor.
+- 9 -
+(5)   RIGHTS UPON EVENT OF DEFAULT.
+(a) Event of Default.
+Each of the following events shall constitute an "Event of Default": (i)            (A) the suspension of the Common Stock from trading on an Eligible Market for a period of two (2) consecutive Trading Days or for more than an aggregate of ten (10) Trading Days in any 365-day period or (B) the failure of the Common Stock to be listed on an Eligible Market; (ii)           the Company's (A) failure to cure a Conversion Failure by delivery of the required number of shares of Common Stock within five (5) Business Days after the applicable Conversion Date or (B) notice, written or oral, to the Holder or any holder of the Other Notes, including by way of public announcement or through any of its agents, at any time, of its intention not to comply with a request for conversion of this Note or any Other Notes into shares of Common Stock that is tendered in accordance with the provisions of this Note or the Other Notes, other than pursuant to Section 3(d) (and analogous provisions under the Other Notes); (iii)          the Company's failure to pay to the Holder any amount of Principal, Interest, Late Charges or other amounts when and as due under this Note or the Other Notes (including, without limitation, the Company's failure to pay any redemption amounts hereunder) or any other Transaction Document or any other agreement, document, certificate or other instrument delivered in connection with the transactions contemplated hereby and thereby to which the Holder is a party, except, in the case of a failure to pay Interest and/or Late Charges when and as due, in which case only if such failure continues for a period of no more than an aggregate of five (5) Business Days; (iv)          any default under any Senior Indebtedness of the Company or any of its Subsidiaries other than with respect to this Note or any Other Notes which results in the acceleration of such Senior Indebtedness;
+- 10 -
+ (v)           the Company or any of its Subsidiaries, pursuant to or within the meaning of Title 11, U.S. Code, or any similar Federal, foreign or state law for the relief of debtors (collectively, "Bankruptcy Law"), (A) commences a voluntary case, (B) consents to the entry of an order for relief against it in an involuntary case, (C) consents to the appointment of a receiver, trustee, assignee, liquidator or similar official (a "Custodian"), (D) makes a general assignment for the benefit of its creditors or (E) admits in writing that it is generally unable to pay its debts as they become due; (vi)           a court of competent jurisdiction enters an order or decree under any Bankruptcy Law that (A) is for relief against the Company or any of its Subsidiaries in an involuntary case, (B) appoints a Custodian of the Company or any of its Subsidiaries or (C) orders the liquidation of the Company or any of its Subsidiaries; (vii)          a final judgment or judgments for the payment of money aggregating in excess of $250,000 are rendered against the Company or any of its Subsidiaries and which judgments are not, within sixty (60) days after the entry thereof, bonded, discharged or stayed pending appeal, or are not discharged within sixty (60) days after the expiration of such stay; provided, however, that any judgment which is covered by insurance or an indemnity from a credit worthy party shall not be included in calculating the $250,000 amount set forth above so long as the Company provides the Holder a written statement from such insurer or indemnity provider (which written statement shall be reasonably satisfactory to the Holder) to the effect that such judgment is covered by insurance or an indemnity and the Company will receive the proceeds of such insurance or indemnity within thirty (30) days of the issuance of such judgment; (viii)        other than as specifically set forth in another clause of this Section 4(a), the Company or any of its Subsidiaries breaches any representation, warranty, covenant or other term or condition of any Transaction Document, except, in the case of a breach of a covenant or other term or condition of any Transaction Document which is curable, only if such breach continues for a period of at least an aggregate of five (5) Business Days; (ix)            any breach or failure in any respect to comply with Sections 16 or 17 of this Note; (x)             any material damage to, or loss, theft or destruction of, a material amount of property of the Company, whether or not insured, or any strike, lockout, labor dispute, embargo, condemnation, act of God or public enemy, or other casualty which causes, for more than fifteen (15) consecutive days, the cessation or substantial curtailment of revenue producing activities at any facility of the Company or any Subsidiary, if any such event or circumstance could reasonably be expected to have a Material Adverse Effect (as defined in the Securities Purchase Agreement); (xi)            a false or inaccurate certification by the Company as to whether any Event of Default has occurred; or
+- 11 -
+ (xii)          any Event of Default (as defined in the Other Notes) occurs with respect to any Other Notes.
+(b) Redemption Right.
+6.
+(e)   Assumption.
+- 12 -
+- 13 -
+ (f)    Redemption Right.
+- 14 -
+ (4)      DISTRIBUTION OF ASSETS; RIGHTS UPON ISSUANCE OF PURCHASE RIGHTS AND OTHER CORPORATE EVENTS.
+- 15 -
+ (c)   Other Corporate Events.
+(5)      RIGHTS UPON ISSUANCE OF OTHER SECURITIES.
+(a)   Adjustment of Fixed Conversion Price upon Subdivision or Combination of Common Stock.
+(b)   Voluntary Adjustment by Company.
+- 16 -
+ (6)      OPTIONAL REDEMPTION AT THE COMPANY'S ELECTION.
+(a)   General.
+(b)   Pro Rata Redemption Requirement.
+- 17 -
+ (7)      ADJUSTMENT OF PRINCIPAL.
+(8)      NONCIRCUMVENTION.
+(9)      RESERVATION OF AUTHORIZED SHARES.
+___________________________4 Insert date that is ninety one (91) days immediately following the Issuance Date or, if such date falls on a Holiday, the next day that is not a Holiday.
+- 18 -
+  (b)   Insufficient Authorized Shares.
+(10)        REDEMPTIONS.
+(a)   Mechanics.
+Upon the Company's receipt of such notice, (x) the applicable Redemption Notice shall be null and void with respect to such Conversion Amount, and (y) the Company shall immediately return this Note, or issue a new Note (in accordance with Section 20(d)) to the Holder representing such Conversion Amount to be redeemed.
+- 19 -
+ (b)   Redemption by Other Holders.
+(c)   Insufficient Assets.
+- 20 -
+ (11)        VOTING RIGHTS.
+(12)         RANK.
+- 21 -
+(14)        AFFIRMATIVE COVENANTS.
+- 22 -
+ (b)   maintain and preserve, and cause each of its Subsidiaries to maintain and preserve, all of its properties which are necessary or useful in the proper conduct of its business in good working order and condition, ordinary wear and tear excepted, and comply, and cause each of its Subsidiaries to comply, at all times with the provisions of all leases to which it is a party as lessee or under which it occupies property, so as to prevent any loss or forfeiture thereof or thereunder; and (c)   maintain, insurance with responsible and reputable insurance companies or associations (including, without limitation, comprehensive general liability, hazard, rent and business interruption insurance) with respect to its properties (including all real properties leased or owned by it) and business, in such amounts and covering such risks as is required by any governmental authority having jurisdiction with respect thereto or as is carried generally in accordance with sound business practice by companies in similar businesses similarly situated.
+(15)        VOTE TO ISSUE, OR CHANGE THE TERMS OF, NOTES.
+(17)        REISSUANCE OF THIS NOTE.
+(a)   Transfer.
+- 23 -
+(d)   Issuance of New Notes.
+(18)        REMEDIES, CHARACTERIZATIONS, OTHER OBLIGATIONS, BREACHES AND INJUNCTIVE RELIEF.
+- 24 -
+ (20)        CONSTRUCTION; HEADINGS.
+(21)        FAILURE OR INDULGENCE NOT WAIVER.
+(22)        DISPUTE RESOLUTION.
+- 25 -
+(24)        CANCELLATION.
+After all Principal, accrued Interest and other amounts at any time owed on this Note have been paid in full, this Note shall automatically be deemed canceled, shall be surrendered to the Company for cancellation and shall not be reissued.
+(25)        WAIVER OF NOTICE.
+(26)        GOVERNING LAW; JURISDICTION; JURY TRIAL.
+- 26 -
+ (27)        SEVERABILITY.
+(28)        DISCLOSURE.
+(29)        USURY.
+- 27 -
+ (30)        CERTAIN DEFINITIONS.
+(d)   "Business Day" means any day other than Saturday, Sunday or other day on which commercial banks in The City of New York are authorized or required by law to remain closed.
+(f)    "Closing Bid Price" and "Closing Sale Price" means, for any security as of any date, the last closing bid price and last closing trade price, respectively, for such security on the Principal Market, as reported by Bloomberg, or, if the Principal Market begins to operate on an extended hours basis and does not designate the closing bid price or the closing trade price, as the case may be, then the last bid price or last trade price, respectively, of such security prior to 4:00:00 p.m., New York Time, as reported by Bloomberg, or, if the Principal Market is not the principal securities exchange or trading market for such security, the last closing bid price or last trade price, respectively, of such security on the principal securities exchange or trading market where such security is listed or traded as reported by Bloomberg, or if the foregoing do not apply, the last closing bid price or last trade price, respectively, of such security in the over-the-counter market on the electronic bulletin board for such security as reported by Bloomberg, or, if no closing bid price or last trade price, respectively, is reported for such security by Bloomberg, the average of the bid prices, or the ask prices, respectively, of any market makers for such security as reported in the OTC Link or "pink sheets" by OTC Markets Group Inc. (formerly Pink OTC Markets Inc.).
+- 28 -
+ (g)   "Closing Date" shall have the meaning set forth in the Securities Purchase Agreement, which date is the date the Company initially issued Notes pursuant to the terms of the Securities Purchase Agreement.
+(k)   "Default Rate" means 10.0% per annum.
+(l)     "Designee" means Empery Asset Management, LP.
+(m)        "Eligible Market" means the Principal Market, The New York Stock Exchange, The NASDAQ Global Market, The NASDAQ Global Select Market or The NASDAQ Capital Market.
+- 29 -
+ (o)   "Exchange Act" means the Securities Exchange Act of 1934, as amended.
+- 30 -
+(s)    "Holiday" means a day other than a Business Day or on which trading does not take place on the Principal Market.
+- 31 -
+- 32 -
+(aa)   "Redemption Dates" means, collectively, the Event of Default Redemption Dates, the Change of Control Redemption Dates and the Company Optional Redemption Dates, each of the foregoing, individually, a Redemption Date.
+(gg)  "Securities Purchase Agreement" means that certain securities purchase agreement dated as of the Subscription Date by and among the Company and the Purchasers of the Notes pursuant to which the Company issued the Notes and Warrants.
+- 33 -
+ (i)   "Standard Settlement Period" means the standard settlement period, expressed in a number of Trading Days, on the Company's primary trading market with respect to the Common Stock as in effect on the date of delivery of the applicable Conversion Notice.
+(i)   "Trading Day" means any day on which the Common Stock is traded on the Principal Market, or, if the Principal Market is not the principal trading market for the Common Stock on such day, then on the principal securities exchange or securities market on which the Common Stock is then traded.
+- 34 -
+- 35 -
+- 36 -
+- 37 -
+- 38 -
+  ·                EXERCISE OF WARRANT.
+- 39 -
+- 40 -
+Disputes.
+- 41 -
+- 42 -
+- 43 -
+ ·                ADJUSTMENT OF EXERCISE PRICE AND NUMBER OF WARRANT SHARES.
+(ii)Voluntary Adjustment By Company.
+(iii)Reset.
+On the earlier to occur of (i) the consummation by the Company of an offering of Common Stock pursuant to the Company's Registration Statement No.
+·                RIGHTS UPON DISTRIBUTION OF ASSETS.
+- 44 -
+- 45 -
+- 46 -
+- 47 -
+ ·                NONCIRCUMVENTION.
+- 48 -
+ ·                 REISSUANCE OF WARRANTS.
+- 49 -
+·                 AMENDMENT AND WAIVER.
+- 50 -
+·                 DISPUTE RESOLUTION.
+- 51 -
+·                 SEVERABILITY.
+·                DISCLOSURE.
+- 52 -
+- 53 -
+"Eligible Market" means the Principal Market, The NASDAQ Global Market, The NASDAQ Global Select Market, The NASDAQ Capital Market or The New York Stock Exchange, Inc. "Expiration Date" means the date sixty (60) months after the Issuance Date or, if such date falls on a day other than a Business Day or on which trading does not take place on the Principal Market (a "Holiday"), the next day that is not a Holiday.
+- 54 -
+- 55 -
+- 56 -
+- 57 -
+1.
+2.
+3.
+1.
+2.
+3.
+(c)       We have assumed the due authorization, execution and delivery of the Purchase Agreement and the other Transaction Documents by the Investors.
+In addition, we wish to advise you that: (j)       As members of the Bar of the State of New York we do not purport to be experts in the laws of any jurisdictions other than the Federal laws of the United States, the laws of the State of New York and Chapter 78 (Private Corporations) of the Nevada Revised Statutes (the Nevada General Corporation Law”).
+(n)       We express no opinion with respect to environmental, health, safety or similar laws or as to any compliance by any person therewith.

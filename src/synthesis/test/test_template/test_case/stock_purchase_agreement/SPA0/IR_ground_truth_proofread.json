@@ -1,0 +1,38 @@
+{
+    "SellerName": [
+        "Entech Solar，Inc."
+    ],
+    "BuyerName": [
+        "The Quercus Trust"
+    ],
+    "EffectiveTime": [
+        "October 4, 2011,"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "The Quercus Trust"
+            ],
+            "To": [
+                "Entech Solar，Inc."
+            ],
+            "PurchasePrice": "100000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

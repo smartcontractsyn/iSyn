@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "UnderWritingAgeement",
+    "SellerName": [
+        ""
+    ],
+    "BuyerName": [
+        "The Bank of New York Mellon Trust Company, N.A."
+    ],
+    "EffectiveTime": [
+        "1000"
+    ],
+    "CloseTime": [
+        "1000"
+    ],
+    "OutSideClosingDate": [
+        "1000"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "The Bank of New York Mellon Trust Company, N.A."
+            ],
+            "To": [
+                ""
+            ],
+            "PurchasePrice": "1000000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

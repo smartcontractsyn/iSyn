@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Medivation"
+    ],
+    "BuyerName": [
+        "(\u201cStockholder\u201d)."
+    ],
+    "EffectiveTime": [
+        "December 17, 2004"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "February 10, 2005"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "(\u201cStockholder\u201d)."
+            ],
+            "To": [
+                "Medivation"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 1900000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "RegistrationRight Agreement",
+    "SellerName": [
+        "GENOCEA BIOSCIENCES, INC."
+    ],
+    "BuyerName": [
+        "LIGHTHOUSE CAPITAL PARTNERS VI, L.P."
+    ],
+    "EffectiveTime": [
+        "October 25, 2011"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        " October 25, 2021"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "LIGHTHOUSE CAPITAL PARTNERS VI, L.P."
+            ],
+            "To": [
+                "GENOCEA BIOSCIENCES, INC."
+            ],
+            "PurchasePrice": "517242",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": true,
+        "TransferTermination": false
+    }
+}

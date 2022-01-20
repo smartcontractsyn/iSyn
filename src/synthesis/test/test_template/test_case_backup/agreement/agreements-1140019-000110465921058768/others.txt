@@ -1,0 +1,276 @@
+WITNESSETH:
+WHEREAS, beneficial interests in the Fund are divided into several series of shares, each representing the interest in a particular managed portfolio of securities and other assets (the “Portfolios”); and
+WHEREAS, the Fund is registered as an open-end management investment company under the Investment Company Act of 1940, as amended (hereinafter the “1940 Act”) and its shares are registered under the Securities Act of 1933, as amended (hereinafter the “1933 Act”); and
+WHEREAS, the Company issues certain group variable annuity contracts and variable funding agreements (the “Contracts”) in connection with retirement plans (“Plans’) intended to meet the qualification requirements of Sections 401, 403(b) or 457 of the Internal Revenue Code of 1986, as amended (the “Code”); and
+WHEREAS, in connection with the acquisition, the Company and MassMutual entered into a Reinsurance Agreement and an Administrative Services Agreement, each dated January 1, 2013, relating to the RPG Business associated with and including the Contracts, Separate Accounts, and the Company’s servicing agreements with the Plans; and
+WHEREAS, Pursuant to said Administrative Services Agreement dated January I, 2013, the Company appointed MassMutual to act as its exclusive agent and in its name as attorney-in-fact with respect to all matters required, necessary or appropriate to administer such RPG Business and to perform any and all of the Company’s obligations with respect to such RPG Business; and
+WHEREAS, each Separate Account is a duly organized, validly existing segregated asset account, established by resolution of the Board of Directors of the Company under the insurance laws of the State of Connecticut to set aside and invest assets attributable to the Contracts; and
+WHEREAS, Victory Capital Management Inc. (the “Adviser”) is the investment adviser of the Portfolios of the Fund and is duly registered as an investment adviser under the Investment Advisers Act of 1940, as amended (the “Advisers Act”), and any applicable state securities laws; and
+WHEREAS, the Underwriter is the principal underwriter for the Fund and is registered as a broker-dealer with the Securities and Exchange Commission (hereinafter the “SEC”) under the Securities Exchange Act of 1934, as amended (hereinafter the “1934 Act”), and is a member in good standing of the Financial Industry Regulatory Authority.
+NOW, THEREFORE, in consideration of their mutual promises, the Company, the Fund and the Underwriter agree as follows:
+ARTICLE I.
+The Fund or its designee will also provide the Company with account positions and activity data using the NSCC’s Networking platform.
+“Business Day” shall mean any day on which the New York Stock Exchange is open for trading and on which the Fund calculates it net asset value pursuant to the rules of the SEC.
+“Networking” shall mean the NSCC’s product that allows Fund’s and Companies to exchange account level information electronically.
+“Settling Bank” shall mean the entity appointed by the Fund to perform such settlement services on behalf of the Fund and agrees to abide by the NSCC’s Rules and Procedures insofar as they relate to the same day funds settlement.
+2
+“Business Day” shall mean any day on which the New York Stock Exchange is open for trading and on which the Fund calculates it net asset value pursuant to the rules of the SEC and the Fund’s then-current Prospectus.
+The Fund or its designee will also provide the Company with account positions and activity data using the NSCC’s Networking platform.
+For purposes of this Section, the Fund designates the Company as its agent for receipt of requests for redemption from each Separate Account and receipt by such designee shall constitute receipt by the Fund; provided the Fund or the Underwriter receives notice of such request for redemption by 10:00 a.m. Eastern Time on the next following Business Day and the Company complies with the terms of the Fund’s then-current Prospectus.
+3
+1.5                               Issuance and transfer of the Fund’s shares will be by book entry only.
+Share certificates will not be issued to the Company or any Separate Account.
+1.8(a)                If the Underwriter or the Fund provides materially incorrect share net asset value information through no fault of the Company, the Separate Accounts shall be entitled to an adjustment with respect to the Series shares purchased or redeemed to reflect the correct net asset value per share.
+l .8(b)                 The determination of the materiality of any net asset value pricing error and its correction shall be based on the Funds’ NAV Error Correction Policy.
+Any material error in the calculation or reporting of net asset value per share, dividend or capital gain information shall be reported promptly to the Company upon discovery.
+The Underwriter and the Fund shall indemnify and hold harmless the Company against any amount the Company is legally required to pay Contract Owners, participants or beneficiaries that have selected a Portfolio as an investment option (“Contract owners”), and which amount is due to the Fund’s or its agents’ material miscalculation and/or incorrect reporting of or failure to report the daily net asset value, dividend rate or capital gains distribution rate.
+Should a material miscalculation by the Fund or its agents result in a gain to the Company, the Company shall immediately reimburse the Fund, the applicable Portfolios or its agents for any material losses incurred by the Fund, the applicable Portfolios or its agents as a result of the incorrect calculation.
+Should a material miscalculation by the Fund or its agents result in a gain to Contract owners, the Company will consult with the Fund or its designee as to what reasonable efforts shall be made to recover the money and repay the Fund, the applicable Portfolio or its agents.
+The Company shall then make such reasonable effort, at the expense of the Fund or its agents, to recover the money and repay the Fund, the applicable Portfolios or its agents; but the Company shall not be obligated to take legal action against Contract owners.
+With respect to the material errors or omissions described above, this section shall control over other indemnification provisions in this Agreement.
+4
+ARTICLE IL Representations and Warranties
+2.1.
+The Company represents and warrants that the Contracts are or will be registered under the 1933 Act unless exempt from the registration requirements, and that the Company will make every effort to maintain such registration under the 1933 Act to the extent required by the 1933 Act; that the Contracts are intended to be issued and sold in compliance in all material respects with all applicable federal and state laws.
+The Company further represents and warrants that it is an insurance company duly organized and in good standing under applicable law and that it has legally and validly established each Separate Account prior to any issuance or sale of Contracts, shares or other interests therein, as a segregated asset account under the insurance laws of the State of Connecticut and has registered or, prior to any issuance or sale of the Contracts, will register and will maintain the registration of each Separate Account as a unit investment trust in accordance with and to the extent required by the provisions of the 1940 Act, unless exempt therefrom, to serve as a segregated investment account for the Contracts.
+Unless exempt, the Company shall amend its registration statement for its Contracts under the 1933 Act and the 1940 Act from time to time as required in order to effect the continuous offering of its Contracts.
+The Company shall register and qualify the Contracts for sale in accordance with securities laws of the various states only if and to the extent deemed necessary by the Company.
+2.2                               The Fund and the Underwriter represent and warrant that (i) Fund shares sold pursuant to this Agreement shall be registered under the 1933 Act and duly authorized for issuance in accordance with applicable law and that the Fund is and shall remain registered under the 1940 Act for as long as the Fund shares are sold; (ii) the Fund shall amend the registration statement for its shares under the 1933 Act and the 1940 Act from time to time as required in order to effect the continuous offering of its shares; and (iii) the Fund shall register and qualify its shares for sales in accordance with the laws of the various states only if and to the extent deemed advisable by the Fund or the Underwriter.
+2.3                               The Fund represents that each Portfolio (a) is currently qualified as a Regulated Investment Company under Subchapter M of the Code; (b) will make every effort to maintain such qualification (under Subchapter M or any successor or similar provision); and (c) will notify the Company immediately upon having a reasonable basis for believing that such Portfolio has ceased to so qualify or might not so qualify in the future.
+2.4                               To the extent that the Fund finances distribution expenses pursuant to Rule 12b- l under the 1940 Act, the Fund represents that its Board of Trustees or Directors, as applicable, including a majority of its Trustees/Directors who are not interested persons of the Fund, have formulated and approved a plan under Rule l 2b-1.
+2.5                               The Underwriter represents and warrants that it is a member in good standing of the FINRA and is registered as a broker-dealer with the SEC.
+The Underwriter further represents that it will sell and distribute the Fund shares in accordance in all material respects with all applicable federal and state securities laws, including without limitation the 1933 Act, the 1934 Act, and the 1940 Act.
+2.6                               The Fund represents that it is a statutory trust that is lawfully organized and validly existing under the laws of the State of Delaware and that it does and will comply in all material respects with applicable provisions of the 1940 Act.
+2.7                               The Fund represents and warrants that all of its Trustees/Directors, officers, employees, investment advisers, and other individuals/entities having access to the funds and/or securities of the Fund
+5
+are and continue to be at all times covered by a blanket fidelity bond or similar coverage for the benefit of the Fund in an amount not less than the minimal coverage as required by Rule l 7g-1 under the 1940 Act or related provisions as may be promulgated from time to time.
+The aforesaid Bond includes coverage for larceny and embezzlement and is issued by a reputable bonding company.
+2.8                               The Company represents and warrants that all of its directors, officers, employees, investment advisers, and other individuals/entities dealing with the money and/or securities of the Fund are covered by a blanket fidelity bond or similar coverage in an amount not less than $5 million.
+The aforesaid includes coverage for larceny and embezzlement and is issued by a reputable bonding company.
+2.9                               The Underwriter represents and warrants that the Adviser is and shall remain duly registered in all material respects under all applicable federal and state securities laws and that the Adviser shall perform its obligations for the Fund in compliance in all material respects with any applicable state and federal securities laws.
+2.10                        The foregoing representations and warranties shall be made, by the party hereto that makes the representation or warranty as of the date first written above and at the time of each purchase and each sale of the Fund’s shares pursuant to this Agreement.
+2.11                        The Company represents that it has adopted written policies and procedures reasonably designed to discourage frequent and/or disruptive trading in Shares.
+The Company and the Fund agree to reasonably cooperate for the purpose of discouraging frequent or disruptive trading in shares of the Funds and have entered into the a “shareholder information agreement” under Rule 22c-2 effective as of February 27, 2007.
+2.12                        The Company represents that it has and will continue to have the necessary facilities, equipment, and personnel to perform its duties and obligations under the Agreement.
+2.13                        The Company represents that (a) it has established and maintains policies and procedures reasonably designed to detect and prevent the occurrence of transactions that would violate Rule 22c-1 under the 1940 Act and other applicable rules and regulations; and (b) it has reviewed its policies and procedures to ensure that they are adequate with respect to preventing violations of law and prospectus requirements related to timely order-taking and market timing activity.
+The Fund and Underwriter acknowledge that the Company maintains its own platform-level frequent trading policy, and does not monitor or administer the Fund’s frequent trading or market timing policy.
+ARTICLE III.
+Prospectuses; Reports and Proxy Statements; Voting
+The Company may elect to print the Fund’s prospectus and/or its statement of additional
+6
+information in combination with other fund companies’ prospectuses and statements of additional information.
+3.3.
+The Fund’s statement of additional information shall be obtainable by Contract owners from the Fund, the Underwriter, the Company or such other person as the Fund may designate.
+A.                                   solicit voting instructions from Contract owners;
+B.                                    vote the Fund shares held in the Separate Account in accordance with instructions received from Contract owners; and
+C.                                    so long as and to the extent that the SEC continues to interpret the 1940 Act to require pass through voting privileges for variable annuity contract owners, vote Fund shares held in the Separate Account for which no timely instructions have been received, in the same proportion as Fund shares of such Portfolio for which instructions have been received from the Company’s Contract owners.
+The Company reserves the right to vote Fund shares held in any segregated asset account for its own account, to the extent permitted by law.
+Notwithstanding the foregoing, with respect to the Fund shares held by unregistered Separate Accounts that issue Contracts issued in connection with employee benefit plans subject to the provisions of the Employee Retirement Income Security Act of 1974, as amended, the Company shall vote such Fund shares allocated to such Contracts only in accordance with the Company’s agreements with such Contract owners.
+3.5                               The Fund will comply with all provisions of the 1940 Act requiring voting by shareholders.
+ARTICLE IV.
+Sales Material and Information
+No such literature or material shall be used without prior approval from the Fund, the Underwriter or their designee, however, the failure to object in writing within
+7
+Such approval process shall not apply to subsequent usage of materials that are substantially similar to prior approved materials.
+4.2                               Neither the Company nor any person contracting with the Company shall give any information or make any representations or statements on behalf of the Fund or concerning the Fund in connection with the sale of the Contracts other than the information or representations contained in the registration statement or prospectus for the Fund shares, as such registration statement and prospectus may be amended or supplemented from time to time, or in reports to shareholders or proxy statements for the Fund, or in sales literature or other promotional material approved by the Fund or its designee, except with the permission of the Fund or its designee.
+Such approval process shall not apply to subsequent usage of materials that are substantially similar to prior approved materials.
+4.4                               Neither the Fund nor the Underwriter shall give any information or make any representations on behalf of the Company or concerning the Company, each Separate Account, or the Contracts other than the information or representations contained in the Contracts, a disclosure document, registration statement or prospectus for the Contracts (if applicable), as such registration statement and prospectus may be amended or supplemented from time to time, or in published reports for each Separate Account which are in the public domain or approved by the Company for distribution to Contract owners or participants, or in sales literature or other promotional material approved by the Company, except with the permission of the Company.
+4.6.
+4.7                               For purposes of this Article IV, the phrase “sales literature or other promotional material” includes, but is not limited to, advertisements (such as material published, or designed for use in, a newspaper, magazine, or other periodical, radio, television, telephone or tape recording, videotape display, signs or billboards, motion pictures, Internet, social media or other public media), sales literature (i.e., any written communication distributed or made generally available to customers or the public, including brochures, circulars, research reports, market letters, form letters, electronic mail, seminar texts, reprints or excerpts of any other advertisement, sales literature, social media or published article), educational or training materials or other communications distributed or made generally available to some or all agents or employees, registration statements, disclosure documents, prospectuses, statements of additional information, shareholder reports, and proxy materials.
+8
+4.8                               The Company agrees and acknowledges that the Company has no right, title or interest in the names and marks of the Fund and that all use of any designation comprised in whole or part or such names or marks under this Agreement shall inure to the benefit of the Fund and the Underwriter.
+Except as provided in Section 4.1, the Company shall not use any such names or marks on its own behalf or on behalf of a Separate Account in connection with marketing the Contracts without prior written consent of the Fund or the Underwriter.
+4.9                               The Fund and Underwriter agree and acknowledge that each has no right, title or interest in the names and marks of the Company, and that all use of any designation comprised in whole or part or such names or marks under this Agreement shall inure to the benefit of the Company.
+Except as provided in Section 4.3, the Fund and Underwriter shall not use any such names or marks on its own behalf or on behalf of a Fund in connection with marketing the Fund without prior written consent of the Company.
+ARTICLE V.  Fees and Expenses
+5.1                               The Fund or the Underwriter, as applicable, shall pay or cause to be paid, the fees and expenses provided for in the attached Schedule B.
+ARTICLE VI.
+Indemnification
+6.1                               Indemnification By The Company
+(a)                                 The Company agrees to indemnify and hold harmless the Fund, the Underwriter and each of their respective trustees, directors, officers, employees or agents and each person, if any, who controls the Fund or the Underwriter within the meaning of section 15 of the 1933 Act (collectively, the “Indemnified Parties” for purposes of this Section 6.1) against any and all losses, claims, damages, liabilities (including amounts paid in settlement with the written consent of the Company) or litigation (including reasonable legal and other expenses), to which the Indemnified Parties may become subject under any statute, regulation, at common law or otherwise, insofar as such losses, claims, damages, liabilities or expenses (or actions in respect thereof) or settlements are related to the sale or acquisition of the Fund’s shares or the Contracts and:
+(i)                                     arise out of or are based upon any untrue statement or alleged untrue statement of any material fact contained in the disclosure statement, registration statement, prospectus or statement of information for the Contracts or contained in the Contracts or sales literature or other promotional material for the Contracts (or any amendment or supplement to any of the foregoing), or arise out of or are based upon the omission or the alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading; provided that this agreement to indemnify shall not apply as to an Indemnified Party if such statement or omission or such alleged statement or omission was made in reliance upon and in conformity with information furnished by such Indemnified Party or the Fund to the Company on behalf of the Fund for use in the registration statement, prospectus or statement of additional information for the Contracts or in the Contracts or sales literature (or any amendment or supplement) or otherwise for use in connection with the sale of the Contracts or Fund shares; or
+9
+(ii)                                  arise out of or as a result of (a) statements or representations by or on behalf of the Company (other than statements or representations contained in the Fund registration statement, Fund prospectus or sales literature or other promotional material of the Fund not supplied by the Company, or persons under its control and other than statements or representations authorized by the Fund, the Underwriter or the Adviser); or (b) the willful misfeasance, bad faith, gross negligence or reckless disregard of duty of the Company or persons under its control, with respect to the sale or distribution of the Contracts or Fund shares; or
+(iii)                               arise out of or as a result of any untrue statement or alleged untrue statement of a material fact contained in the Fund registration statement, Fund prospectus, statement of additional information or sales literature or other promotional material of the Fund (or any amendment thereof or supplement thereto) or the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading, if such a statement or omission was made in reliance upon and in conformity with information furnished to the Fund or the Underwriter by the Company or persons under its control; or
+(iv)                              arise as a result of any material failure by the Company to provide the services and furnish the materials under the terms of this Agreement; or
+(v)                                 arise out of or result from any material breach of any representation and/or warranty made by the Company in this Agreement or arise out of or result from any other material breach by the Company of this Agreement; except to the extent provided in Sections 6.1(b) and 6.4 hereof.
+(b)                                 No party shall be entitled to indemnification to the extent that such loss, claim, damage, liability or litigation is due to the willful misfeasance, bad faith, gross negligence or reckless disregard of duty by the party seeking indemnification.
+(c)                                  In accordance with Section 6.4 hereof, the Indemnified Parties will promptly notify the Company of the commencement of any litigation or proceedings against them in connection with the issuance or sale of the Fund shares or the Contracts or the operation of the Fund.
+(a)                                 The Underwriter agrees, with respect to each Portfolio that it distributes, to indemnify and hold harmless the Company and each of its directors, officers, employees or agents and each person, if any, who controls the Company within the meaning of section 15 of the 1933 Act (collectively, the “Indemnified Parties” for purposes of this Section 6.2) against any and all losses, claims, damages, liabilities (including amounts paid in settlement with the written consent of the Underwriter) or litigation (including reasonable legal and other expenses) to which the Indemnified Parties may become subject under any statute, regulation, at common law or otherwise, insofar as such losses, claims, damages, liabilities or expenses (or actions in respect thereof) or settlements are related to the sale or acquisition of the shares of the Portfolios that it distributes or the Contracts and:
+(i)                                     arise out of or are based upon any untrue statement or alleged untrue statement of any material fact contained in the registration statement, prospectus or statement of additional information for the Fund or sales literature or other promotional material of the Fund (or any amendment or supplement to any of the foregoing), or arise out of or are based upon the omission or the
+10
+alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading; provided that this agreement to indemnify shall not apply as to any Indemnified Party if such statement or omission or such alleged statement or omission was made in reliance upon and in conformity with information furnished by such Indemnified Party or the Company to the Fund or the Underwriter on behalf of the Company for use in the registration statement, prospectus or statement of additional information for the Fund or in sales literature of the Fund (or any amendment or supplement thereto) or otherwise for use in connection with the sale of the Contracts or the Portfolio shares; or
+(ii)                                  arise out of or as a result of (a) statements or representations (other than statements or representations contained in the registration statement, prospectus or sales literature for the Contracts not supplied by the Fund or the Underwriter or persons under their respective control and other than statements or representations authorized by the Company); or (b) the willful misfeasance, bad faith, gross negligence or reckless disregard of duty of the Fund or the Underwriter or persons under the control of the Fund or the Underwriter, respectively, with respect to the sale or distribution of the Contracts or Portfolio shares; or
+(iii)                               arise out of any untrue statement or alleged untrue statement of a material fact contained in a registration statement, prospectus, statement of additional information or sales 1iterature or other promotional material with respect to the Contracts (or any amendment thereof or supplement thereto), or the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statement or statements therein not misleading, if such statement or omission was made in reliance upon and in conformity with information furnished to the Company by the Fund or the Underwriter or persons under the control of the Fund or the Underwriter, respectively; or
+(iv)                              arise as a result of any material failure by the Fund or the Underwriter to provide the services and furnish the materials under the terms of this Agreement; or
+(v)                                 arise out of or result from any material breach of any representation and/or warranty made by the Underwriter or the Fund in this Agreement or arise out of or result from any other material breach of this Agreement by the Underwriter or the Fund; except to the extent provided in Sections 6.2(b) and 6.4 hereof.
+(b)                                 No party shall be entitled to indemnification to the extent that such loss, claim, damage, liability or litigation is due to the willful misfeasance, bad faith, gross negligence or reckless disregard of duty by the party seeking indemnification.
+(c)                                  In accordance with Section 6.4 hereof, the Indemnified Parties will promptly notify the Underwriter of the commencement of any litigation or proceedings against them in connection with the issuance or sale of the Fund shares or the Contracts or the operation of the Separate Accounts.
+(a)                                 The Fund, on behalf of its Portfolios, individually and not jointly, agrees to indemnify and hold harmless the Company and each of its directors, officers, employees or agents and each person, if any, who controls the Company within the meaning of section 15 of the 1933 Act (collectively, the “Indemnified Parties” for purposes of this Section 6.3) against any and all losses, claims, damages, liabilities (including amounts paid in settlement with the written consent of the Fund) or litigation (including reasonable legal and other expenses) to which the Indemnified Parties may become
+11
+subject under any statute, regulation, at common law or otherwise, insofar as such losses, claims, damages, liabilities or expenses (or actions in respect thereof) or settlements are related to the sale or acquisition of the shares of the Portfolios or the Contracts and:
+(i)                                     arise out of or are based upon any untrue statement or alleged untrue statement of any material fact contained in the registration statement, prospectus or statement of additional information for the Fund or sales literature or other promotional material of the Fund (or any amendment or supplement to any of the foregoing), or arise out of or are based upon the omission or the alleged omission to state therein a material fact required to be stated therein or necessary to make the statements therein not misleading; provided that this agreement to indemnify shall not apply as to any Indemnified Party if such statement or omission or such alleged statement or omission was made in reliance upon and in conformity with information furnished by such Indemnified Party or the Company to the Fund or the Underwriter on behalf of the Company for use in the registration statement, prospectus or statement of additional information for the Fund or in sales literature of the Fund (or any amendment or supplement thereto) or otherwise for use in connection with the sale of the Contracts or the Portfolio shares; or
+(ii)                                  arise out of or as a result of (a) statements or representations (other than statements or representations contained in the registration statement, prospectus or sales literature for the Contracts not supplied by the Fund or the Underwriter or persons under their respective control and other than statements or representations authorized by the Company); or (b) the willful misfeasance, bad faith, gross negligence or reckless disregard of duty of the Fund or the Underwriter or persons under the control of the Fund or the Underwriter, respectively, with respect to the sale or distribution of the Contracts or Portfolio shares; or
+(iii)                               arise out of any untrue statement or alleged untrue statement of a material fact contained in a registration statement, prospectus, statement of additional information or sales literature or other promotional material with respect to the Contracts (or any amendment thereof or supplement thereto), or the omission or alleged omission to state therein a material fact required to be stated therein or necessary to make the statement or statements therein not misleading, if such statement or omission was made in reliance upon and in conformity with information furnished to the Company by the Fund or the Underwriter or persons under the control of the Fund or the Underwriter, respectively; or
+(iv)                              arise as a result of any material failure by the Fund or the Underwriter to provide the services and furnish the materials under the terms of this Agreement; or
+(v)                                 arise out of or result from any material breach of any representation and/or warranty made by the Underwriter or the Fund in this Agreement or arise out of or result from any other material breach of this Agreement by the Underwriter or the Fund; except to the extent provided in Sections 6.3(b) and 6.4 hereof.
+(b)                                 No party shall be entitled to indemnification to the extent that such loss, claim, damage, liability or litigation is due to the willful misfeasance, bad faith, gross negligence or reckless disregard of duty by the party seeking indemnification.
+(c)                                  In accordance with Section 6.4 hereof, the Indemnified Parties will promptly notify the Fund of the commencement of any litigation or proceedings against them in connection with the issuance or sale of the Fund shares or the Contracts or the operation of the Separate Accounts.
+12
+6.4.
+Indemnification Procedure
+(a)                                 Any person obligated to provide indemnification under this Article VI (“Indemnifying Party” for the purpose of this Section 6.4) shall not be liable under the indemnification provisions of this Article VI with respect to any claim made against a party entitled to indemnification under this Article VI (“Indemnified Party” for the purpose of this Section 6.4) unless such Indemnified Party shall have notified the Indemnifying Party in writing within a reasonable time after the summons or other first legal process giving information of the nature of the claim shall have been served upon such Indemnified Party (or after such party shall have received notice of such service on any designated agent), but failure to notify the Indemnifying Party of any such claim shall not relieve the Indemnifying Party from any liability which it may have to the Indemnified Party against whom such action is brought otherwise than on account of the indemnification provision of this Article VI.
+In case any such action is brought against the Indemnified Party, the Indemnifying Party will be entitled to participate, at its own expense, in the defense thereof.
+The Indemnifying Party also shall be entitled to assume the defense thereof, with counsel satisfactory to the party named in the action.
+After notice from the Indemnifying Party to the Indemnified Party of the Indemnifying Party’s election to assume the defense thereof, the Indemnified Party shall bear the fees and expenses of any additional counsel retained by the Indemnified Party, and the Indemnifying Party will not be liable to such party under this Agreement for any legal or other expenses subsequently incurred by such party independently in connection with the defense thereof other than reasonable costs of investigation, unless:
+(i)                                     the Indemnifying Party and the Indemnified Party shall have mutually agreed to the retention of such counsel or
+(ii)                                  the named parties to any such proceeding (including any impleaded parties) include both the Indemnifying Party and the Indemnified Party and representation of both parties by the same counsel would be inappropriate due to actual or potential differing interests between them.
+A successor by law of the parties to this Agreement shall be entitled to the benefits of the indemnification contained in this Article VI.
+The indemnification provisions contained in this Article VI shall survive any termination of this Agreement.
+ARTICLE VII.
+Applicable Law
+7.1                               This Agreement shall be construed and the provisions hereof interpreted under and in accordance with the laws of the State of New York.
+7.2                               This Agreement shall be subject to the provisions of the 1933, 1934 and 1940 Acts, and the rules and regulations and rulings thereunder, including such exemptions from those statutes, rules and regulations as the SEC may grant and the terms hereof shall be interpreted and construed in accordance therewith.
+ARTICLE VIII.
+Term & Termination
+13
+Cause for such termination may include a material violation by the other party of the Agreement; commencement of bankruptcy, liquidation, or similar proceedings respecting the other party; or institution of formal proceedings against the other party by the Financial Industry Regulatory Authority, the SEC, the Department of Labor, the Internal Revenue Service, or any other governmental or regulatory body with respect to the other party or, in the case of termination by the Company, the investment adviser or distributor of the Funds, provided that the terminating party has a reasonable belief that the institution of formal proceedings will have a material adverse impact on the terminating party or a material adverse impact on the ability of the party subject to the proceeding to meet its obligations under this Agreement.
+8.2                               Effect of Termination
+Specifically, without limitation, the owners of the Existing Contracts shall be permitted to direct reallocation of investments in the Fund, redeem investments in the Fund and/or invest in the Fund upon the making of additional purchase payments under the Existing Contracts unless such further sale of Fund shares is proscribed by law, regulation or an applicable regulatory body.
+(b)                                 Fund and/or Underwriter shall remain obligated to pay Company the fee in effect as of the date of termination for so long as shares are held by the Accounts and Company continues to provide services to the Accounts.
+Such fee shall apply to shares purchased both prior to and subsequent to the date of termination.
+(c)                                  In the event of the insolvency or liquidation of the Company, fees shall continue to be payable directly to the Company or its liquidator, receiver, conservator or statutory successor, without diminution and reasonable provision for verification by the Company or its liquidator, receiver, conservator or statutory successor.
+14
+ARTICLE IX.
+Notices
+Massachusetts Mutual Life Insurance Company
+As Administrator for Hartford Life Insurance Company
+100 Bright Meadow Blvd.
+Law Department, Retirement Services
+Massachusetts Mutual Life Insurance Company
+100 Bright Meadow Blvd.
+Victory Portfolios
+Brooklyn, Ohio 44144
+Attention: General Counsel
+Victory Capital Advisers, Inc.
+Brooklyn, Ohio 44144
+Attention: General Counsel
+ARTICLE X Miscellaneous
+10.1                        Subject to law and regulatory authority, each party hereto shall treat as confidential the names and addresses of the owners of the Contracts and all other information reasonably identified as such in writing by any other party hereto, and, except as contemplated by this Agreement, shall not disclose, disseminate or utilize such confidential information without the express prior written consent of the affected party until such time as it may come into the public domain.
+In addition, the parties hereby represent that they will use and disclose Personal Information (as defined below) only to carry out the purposes for which it was disclosed to them and will not use or disclose Personal information if prohibited by applicable law, including, without limitation, statutes and regulations enacted pursuant to the Gramm-Leach-Bliley Act (Public Law 106-102).
+“Personal Information” means financial and medical information that identifies an individual personally and is not available to the public, including, but not limited to, credit history, income, financial benefits, policy or claim information and medical records.
+If either party outsources services to a third party, such third party will agree in writing to maintain the security and confidentiality of any information shared with them.
+15
+10.2                        The captions in this Agreement are included for convenience of reference only and in no way define or delineate any of the provisions hereof or otherwise affect their construction or effect.
+10.3                        This Agreement may be executed simultaneously in two or more counterparts, each of which taken together shall constitute one and the same instrument.
+10.4                        If any provision of this Agreement shall be held or made invalid by a court decision, statute, rule or otherwise, the remainder of the Agreement shall not be affected thereby.
+10.5                        This Agreement shall not be assigned by any party hereto without the prior written consent of all the parties.
+10.6                        Each party hereto shall cooperate with each other party and all appropriate governmental authorities (including without limitation the SEC, the FINRA, and state insurance regulators) and shall permit each other and such authorities (and the parties hereto) reasonable access to its books and records in connection with any investigation or inquiry relating to this Agreement or the transactions contemplated hereby.
+10.7                        Each party represents that (a) the execution and delivery of this Agreement and the consummation of the transactions contemplated herein have been duly authorized by all necessary corporate or trust action, as applicable, by such party and when so executed and delivered this Agreement will be the valid and binding obligation of such party enforceable in accordance with its terms subject to bankruptcy, insolvency, reorganization, moratorium and similar laws of general applicability relating to or affecting creditors’ rights and to general equity principles; (b) the party has obtained, and during the term of this Agreement will maintain, all authorizations, licenses, qualifications or registrations required to be maintained in connection with the performance of its duties under this Agreement; and (c) the party will comply in all material respects with all applicable laws, rules and regulations.
+10.8                        The parties to this Agreement may amend by written agreement the Schedules to this Agreement from time to time to reflect changes in or relating to the Contracts, the Separate Accounts or the Portfolios of the Fund.
+10.9                        The Fund is governed by a Trust Instrument of the Fund, as amended, and notice is hereby given that this instrument is executed on behalf of the Trust as officers of the Trust and not individually and that the obligations of this instrument are not binding upon any of the Trustees, officers, or Shareholders individually but are binding only upon the assets and property of the Portfolios.
+The Company further acknowledges that the assets and liabilities of each Portfolio are separate and distinct and that the obligations of or arising out of this instrument are binding solely upon the assets or property of the Portfolio on whose behalf the Trust has executed this instrument.
+The Company also agrees that the obligations of each Portfolio hereunder shall be separate and not joint, and the Company agrees to look solely to the assets and property of the respective Portfolios listed on Schedule A hereto as though each such Portfolio had separately contracted with the Company for the enforcement of any claims against the Trust.
+16
+IN WITNESS WHEREOF, each of the parties hereto has used this Agreement to be executed in its name and behalf by its duly authorized representative as of the date first written above.
+By Massachusetts Mutual Life Insurance Company
+series Portfolios, individually and not jointly
+Its Administrator
+By:
+By:
+Name:
+[Redacted]
+Name:
+[Redacted]
+Title:
+Senior Vice President
+Title:
+President
+By:
+Name:
+[Redacted]
+Title:
+President
+17
+SCHEDULE A
+SEPARATE ACCOUNTS
+Name of Separate Account
+Portfolios
+Class
+Cusip#
+Symbol
+Victory Floating Rate Fund
+A
+RSFLX
+Victory High Income Municipal Bond Fund
+A
+RSHMX
+A
+GUHYX
+Victory INCORE Investment Quality Bond Fund
+A
+GUIQX
+Victory INCORE Low Duration Bond Fund
+A
+RLDAX
+Victory Strategic Income Fund
+A
+RSIAX
+Victory Tax-Exempt Fund
+A
+92647K317
+GUTEX
+Victory RS Growth Fund
+A
+RSGRX
+Victory RS Mid Cap Growth Fund
+A
+RSMOX
+Victory RS Select Growth Fund
+A
+RSDGX
+Victory RS Small Cap Equity Fund
+A
+GPSCX
+Victory RS Small Cap Growth Fund
+A
+RSEGX
+Victory RS Science and Technology Fund
+A
+RSIFX
+Victory Sophus Emerging Markets Fund
+A
+GBEMX
+Victory Sophus Emerging Markets Small Cap Fund
+A
+RSMSX
+Victory RS Global Fund
+A
+RSGGX
+Victory RS International Fund
+A
+GUBGX
+Victory Global Natural Resources Fund
+A
+92647Q678
+RSNRX
+Victory RS Investors Fund
+A
+RSINX
+Victory RS Large Cap Alpha Fund
+A
+GPAFX
+Victory RS Partners Fund
+A
+RSPFX
+A
+RSVAX
+18
+SCHEDULE B
+Portfolio
+Service
+Fees
+Portfolios listed on Schedule A
+15 bps
+25 bps
+19

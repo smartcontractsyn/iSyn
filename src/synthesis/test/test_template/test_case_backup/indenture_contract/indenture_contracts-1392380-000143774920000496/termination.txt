@@ -1,0 +1,86 @@
+Dated as of January 10, 2020
+Section 3.12     Cancellation     50
+Section 8.03     Withdrawal of Fundamental Change Purchase Notice     133
+Section 9.11     Delay or Omission Not Waiver     141
+Section 11.11     Resignation or Removal of Trustee     147
+Section 14.05     [Reserved]     155
+Section 16.03     [Reserved]     160
+“Closing Date” means January 10, 2020.
+§3000(f) et seq.
+(c)
+(d)
+(c)
+(d)
+(i)     Notes theretofore canceled by the Trustee or accepted by the Trustee for cancellation;
+“Resale Restriction Termination Date” has the meaning specified in Section 3.08(b).
+“Termination Event” means (a) a Reportable Event described in Section 4043 of ERISA and the regulations issued thereunder (other than a Reportable Event not subject to the provision for 30 day notice to the PBGC or with respect to which the notice required is waived under such regulations), (b) the withdrawal of the Company or any of its Affiliates from a Plan or a Multiemployer Plan during a plan year in which it was a “substantial employer” as defined in Section 4001(a)(2) of ERISA, (c) the filing of a notice of intent to terminate a Plan or a Multiemployer Plan or the treatment of a Plan or a Multiemployer Plan amendment as a termination under Section 4041, 4041A or 4042 of ERISA, or (d) the institution of proceedings to terminate a Plan or a Multiemployer Plan by the PBGC.
+(c)     Any Notes repurchased by the Company will be cancelled and no longer outstanding hereunder.
+(A)     the Depository is unwilling or unable to continue to act as Depository; or
+If all of the beneficial interests in a Global Note are so exchanged, such Global Note will be deemed surrendered to the Trustee for cancellation, and the Trustee will cause such Global Note to be cancelled in accordance with the Applicable Procedures.
+Section 3.12     Cancellation
+The Trustee shall cancel all Notes surrendered for registration of transfer, exchange, payment, purchase, repurchase, conversion (pursuant to Section 3.15(g) or Article 7 hereof) or cancellation in accordance with its customary practices (subject to the record retention requirements of the Exchange Act), unless the Company directs canceled Notes to be returned to it.
+(d)     [Reserved]
+(f)     [Reserved]
+(i)     the Redemption Date;
+(v)     that on the Redemption Date, the Redemption Price will become due and payable upon each Note to be redeemed, and that, unless the Company defaults in the payment of the Redemption Price, interest thereon shall cease to accrue on and after the Redemption Date; and
+(d)     A Notice of Redemption shall be irrevocable.
+(e)     If less than all Notes then outstanding are called for redemption, then:
+Section 4.08     [Reserved]
+(b)     144A Information.
+(d)     Termination Events.
+(e)     Termination of Plans.
+If the Company is so requested by the Trustee (acting pursuant to a Deliverables Notice from the Requisite Holders), promptly and in any event within ten (10) days after receipt thereof by the Company or any member of the Controlled Group from the PBGC, copies of each notice received by the Company or any such member of the Controlled Group of the PBGC's intention to terminate any Plan or to have a trustee appointed to administer any Plan.
+Section 4.14     [Reserved]
+Section 4.15     [Reserved]
+(b)     [Reserved]
+(e)     [Reserved]
+(g)     [Reserved]
+(i)     [Reserved]
+(xviii)     [Reserved];
+(xxiii)     [Reserved];
+(f)     [Reserved];
+(v)     [Reserved];
+Without limitation to the foregoing, in any event, no Credit Party shall directly or indirectly, (a) engage in any transaction in connection with which the Company or any Controlled Group member of a Credit Party could be subjected to either a civil penalty assessed pursuant to Section 502(c), (i) of ERISA or a tax imposed by Chapter 43 of Subtitle D of the Code with respect to any Plan or Multiemployer Plan; (b) terminate any Plan or Multiemployer Plan in a manner, or take any other action with respect to any Plan, which could result in any liability to the Company or any Controlled Group member of a Credit Party to the PBGC; (c) fail to make full payment when due of all amounts which, under the provisions of any Plan or Multiemployer Plan, agreement relating thereto or Applicable Law, the Company or any Controlled Group member of a Credit Party is required to pay as contributions thereto; (d) fail to satisfy the minimum funding standards within the meaning of Sections 412 and 430 of the Code or Sections 302 and 303 of ERISA; (e) permit the actuarial present value of the benefit liabilities (based on reasonable assumptions used to fund such Plan for purposes of Sections 412 and 430 of the Code) under any Plan maintained by the Company or any Controlled Group member of a Credit Party which is regulated under Title IV of ERISA to exceed the current value of the assets (computed on a plan termination basis in accordance with Title IV of ERISA) of such Plan allocable to such benefit liabilities; (f) acquire a 90% or greater interest in any Person if such Person sponsors, maintains or contributes to, or at any time in the six-year period preceding such acquisition has sponsored, maintained, or contributed to, (1) any Multiemployer Plan, or (2) any other Plan that is subject to Title IV of ERISA, and in either case, the actuarial present value of the benefit liabilities under such Plan exceeds the current value of the assets (computed on a plan termination basis in accordance with Title IV of ERISA) of such Plan allocable to such benefit liabilities, and the withdrawal liability, if assessed, could reasonably be expected to result in a Material Adverse Change; (g) incur a liability to or on account of a Plan under Sections 515, 4062, 4063, 4064, 4201 or 4204 of ERISA; (h) amend a Plan in contravention of Section 206(g) of ERISA; or (i) permit to exist any occurrence of any “Reportable Event” (as defined in Section 4043 of ERISA, and other than a “Reportable Event” not subject to the provision for 30-day notice to the PBGC or with respect to which the notice requirement is waived under applicable regulations), or any other event or condition, which presents a material risk of such a termination by the PBGC of any Plan, and in each case in clauses (a) through (i) above, to the extent such event or condition, together with all other such events or conditions, if any, would reasonably be expected to result in a Material Adverse Change.
+(i)      no Default or Event of Default has occurred and is continuing immediately after giving effect to such Designation;
+(b)     [Reserved]
+Section 5.04     [Reserved]
+(a)     [Reserved]
+(b)     [Reserved]
+If a Holder has surrendered such Holder’s Note for required purchase in connection with a Fundamental Change, such Holder’s right to withdraw the related Fundamental Change Purchase Note and convert each Note that is subject thereto will terminate at the Close of Business on (i) the Business Day immediately preceding the relevant Fundamental Change Purchase Date or (ii) in the case of a Default by the Company in the payment of the Fundamental Change Purchase Price with respect to such Note, the Business Day immediately preceding the day on which such Default is no longer continuing.
+If any such right, option or warrant, including any such existing rights, options or warrants distributed prior to the date of this Indenture, is subject to events, upon the occurrence of which such rights, options or warrants become exercisable to purchase different securities, evidences of indebtedness or other assets or property, then the date of the occurrence of any and each such event shall be deemed to be the date of distribution and Record Date with respect to new rights, options or warrants with such rights (in which case the existing rights, options or warrants shall be deemed to terminate and expire on such date without exercise by any of the holders thereof).
+(f)     [Reserved]
+(a)     [Reserved]
+(d)     of the voluntary or involuntary dissolution, liquidation or winding up of the Company or any Significant Subsidiary that is a Credit Party,
+Section 7.14     [Reserved]
+(c)     No Payment During an Acceleration.
+Section 8.03     Withdrawal of Fundamental Change Purchase Notice
+If the Paying Agent holds money sufficient to pay the Fundamental Change Purchase Price of any Note surrendered for purchase and not withdrawn in accordance with this Indenture as of the Close of Business on the Fundamental Change Purchase Date, then immediately following the Close of Business on the Fundamental Change Purchase Date, (a) any such Note will cease to be outstanding and interest will cease to accrue thereon on the Fundamental Change Purchase Date (whether or not book-entry transfer of the Notes is made or whether or not the Notes are delivered to the Paying Agent) and (b) all other rights of the Holder in respect thereof will terminate (other than the right to receive the Fundamental Change Purchase Price and previously accrued and unpaid interest (including Additional Interest, if any) upon delivery or book-entry transfer of such Note).
+Section 8.08     [Reserved]
+(d)     failure by the Company to provide the Fundamental Change Company Notice to Holders required pursuant to Section 8.01(b) hereof when due, and such failure continues for five (5) Business Days;
+(e)     [Reserved]
+(g)     (i) default by any Credit Party with respect to any Indebtedness (other than the Indebtedness under the Indenture Documents) for borrowed money of any Credit Party in excess of $1,000,000 in the aggregate, whether such Indebtedness now exists or shall hereafter be created, which default results (A) in such Indebtedness being accelerated or otherwise becoming or being declared due and payable prior to its stated maturity or (B) from the failure to make any payment when due under such Indebtedness, whether upon maturity, required purchase, acceleration, regularly scheduled payment date or otherwise (after giving effect to any applicable grace period) which results in the right of the holders of such Indebtedness to accelerate the maturity of such Indebtedness; provided, however, that any such Event of Default shall be deemed cured and not continuing upon payment of such Indebtedness or rescission of such declaration of acceleration, (ii) a Recommendation Withdrawal has occurred, or (iii) any breach or violation of the Purchase Agreement or Registration Rights Agreement;
+(h)     a final judgment for the payment of $1,000,000 or more (to the extent not adequately covered by insurance as to which a solvent and unaffiliated insurance company has acknowledged coverage) rendered against any Credit Party by a court of competent jurisdiction, which judgment is not discharged, stayed, vacated, paid or otherwise satisfied within sixty (60) days after (i) the date on which the right to appeal thereof has expired if no such appeal has commenced, or (ii) the date on which all rights to appeal have been extinguished;
+(ii)     all existing Events of Default (other than the non-payment of any Principal Amount or interest or any other Obligation that became due solely by such declaration of acceleration) have been cured or waived.
+Section 9.11     Delay or Omission Not Waiver
+Section 9.14     [Reserved]
+Section 9.15     [Reserved]
+Section 11.11     Resignation or Removal of Trustee
+(b)     In case at any time any of the following shall occur:
+(i)     the Trustee shall fail to comply with Section 11.09 after written request therefor by the Company or by any Holder who has been a bona fide Holder of a Note or Notes for at least six (6) months; or
+(ii)     the Trustee shall cease to be eligible in accordance with the provisions of Section 11.10 and shall fail to resign after written request therefor by the Company or by any such Holder; or
+(iii)     reduce the Principal Amount of, or extend the Maturity Date of, any Note;
+(viii)     [Reserved];
+(ix)     [Reserved]; or
+Section 14.05     [Reserved]
+Section 15.02     [Reserved]
+Further, the Subsidiary Guarantees are not convertible and will automatically terminate when the Notes are all converted in full in accordance with Section 3.15(g) or Article 7 (including any Make-Whole Payment, which shall be paid or converted in accordance with Section 3.15(g) or Article 7).
+Section 16.01     [Reserved]
+Section 16.03     [Reserved]
+Section 16.11     [Reserved]
+(3)     Guarantees.
+(4)     No Optional Redemption.
+(6)     Withdrawal of Fundamental Change Purchase Notice.
+The right to withdraw the Fundamental Change Purchase Notice will terminate at the Close of Business on the Business Day immediately preceding the relevant Fundamental Change Purchase Date.
+(8)     Conversion.
+Date:                              Signed:
+The Resale Restriction Termination Date for the Notes is the date of this Free Transferability Certificate.

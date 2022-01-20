@@ -1,0 +1,39 @@
+{
+    "BuyerName": [
+        "Yuanhao Li"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "ContractCategory": "StockPurchaseAgreement",
+    "EffectiveTime": [
+        "27th  December, 2000,"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Yuanhao Li"
+            ],
+            "PurchasePrice": "0.0001",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "To": [
+                "American Champion Entertainment"
+            ],
+            "Transfer": false
+        }
+    ],
+    "SellerName": [
+        "American Champion Entertainment"
+    ],
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    },
+    "Transfers": true
+}

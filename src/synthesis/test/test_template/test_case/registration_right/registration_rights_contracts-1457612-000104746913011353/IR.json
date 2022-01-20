@@ -1,0 +1,38 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Company"
+    ],
+    "BuyerName": [
+        "GENOCEA BIOSCIENCES"
+    ],
+    "EffectiveTime": [],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "October     , 2021"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "GENOCEA BIOSCIENCES"
+            ],
+            "To": [
+                "Company"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 40000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

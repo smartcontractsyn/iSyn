@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "MoviePass Inc."
+    ],
+    "BuyerName": [
+        "MOVIEPASS INC"
+    ],
+    "EffectiveTime": [
+        "15th  August, 2017"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "August 15, 2017"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "MOVIEPASS INC"
+            ],
+            "To": [
+                "MoviePass Inc."
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 27000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

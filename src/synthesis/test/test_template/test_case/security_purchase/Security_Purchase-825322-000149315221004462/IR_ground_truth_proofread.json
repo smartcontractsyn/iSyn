@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "SellerName": [
+        "MPHASE TECHNOLOGIES, INC."
+    ],
+    "BuyerName": [
+        ""
+    ],
+    "EffectiveTime": [
+        "January 25, 2021"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                ""
+            ],
+            "To": [
+                "MPHASE TECHNOLOGIES, INC."
+            ],
+            "PurchasePrice": "140000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "SEAHAWK ONE, LTD."
+    ],
+    "BuyerName": [
+        ""
+    ],
+    "EffectiveTime": [
+        "18 February 2021"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                ""
+            ],
+            "To": [
+                "SEAHAWK ONE, LTD."
+            ],
+            "PurchasePrice": "710831000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

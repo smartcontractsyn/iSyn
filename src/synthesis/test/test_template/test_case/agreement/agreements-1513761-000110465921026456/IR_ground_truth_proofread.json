@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "LEONARDO ONE, LTD."
+    ],
+    "BuyerName": [
+        "THE BANKS AND FINANCIAL INSTITUTIONS LISTED IN SCHEDULE 1"
+    ],
+    "EffectiveTime": [
+        "17 June 2021"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "THE BANKS AND FINANCIAL INSTITUTIONS LISTED IN SCHEDULE 1"
+            ],
+            "To": [
+                "LEONARDO ONE, LTD."
+            ],
+            "PurchasePrice": "800000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

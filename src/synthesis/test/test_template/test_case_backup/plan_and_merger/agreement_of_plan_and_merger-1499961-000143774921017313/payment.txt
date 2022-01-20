@@ -1,0 +1,241 @@
+Dated as of July 20, 2021
+(b)    a total of shares of Parent Common Stock will be deposited into an escrow account to be released as set forth and further described on Schedule B hereto (the “Escrow Shares”);
+(c)    it is intended that the number of shares of Parent Common Stock outstanding immediately after the Merger Effective Time on a fully diluted and fully converted basis (the “Post Merger Capitalization”) shall not exceed 75,000,000.
+As referenced in Section 2.10 herein, it is intended that 15% of the Post Merger Capitalization be allocated to the persons that hold shares of Parent Common Stock immediately prior to the Merger Effective Time (the “Parent Pre-Merger Stockholders”) (subject to upward adjustment as set forth in Section 2.01); Parent shall take all commercially reasonable efforts to ensure that the number of shares of Parent Common Stock outstanding immediately before the Merger Effective Time on a fully diluted and fully converted basis does not exceed 11,250,000 – however, Parent and the Company may mutually agree to allow Parent to issue additional shares beyond said 11,250,000 limit if the issuance of such shares is necessary to allow Parent to effect the financing referenced in Section 2.01(e); and
+By way of example, if there would have been 75,000,000 shares of Parent Common Stock outstanding on a fully-diluted and converted basis prior to the additional capital raised beyond the Net Cash Position, and Parent issues 3,000,000 shares of Parent Common Stock to raise additional capital over and above the Net Cash Position, the Parent Pre-Merger Stockholders would own 15% of such 75,000,000 shares of Parent Common Stock and plus 3,000,000 shares of Parent Common Stock, or 14,250,000 shares of Parent Common Stock immediately after the Merger Effective Time, and the number of outstanding shares of Parent Common Stock would increase from 75,000,000 to 78,000,000 on a fully-diluted and converted basis immediately after the Merger Effective Time.
+(f)    The parties acknowledge a prior agreement that, if the Registration Statement (with the Proxy Statement included as part of the prospectus) was not filed with U.S. Securities and Exchange Commission (the “SEC”) on or prior to January 15, 2021, then the Company shall pay an agreed sum of $13,333.00 per day (the “Late Fee”) to Parent until the said Registration Statement (with the Proxy Statement included as part of the prospectus) is filed with the SEC.
+As of the date hereof, an aggregate Late Fee of $1,519,962 was accrued and remains unpaid.
+Subject to the effect of escheat, tax or other applicable Laws, following surrender of any Certificate or Book-Entry Shares, there shall be paid to the holder of Company Common Stock issued in exchange therefor, without interest, (i) the amount of dividends or other distributions with a record date after the Merger Effective Time and theretofore paid with respect to such shares of Company Common Stock, and (ii) at the appropriate payment date, the amount of dividends or other distributions, with a record date after the Merger Effective Time but prior to surrender and a payment date occurring after surrender, payable with respect to such whole shares of Company Common Stock.
+In addition to the Company’s payment obligations for the matters referenced in the LOI, up to $350,000 of accountable legal fees and expenses of Parent incurred in connection with the matters referenced herein (the “Reimbursable Expense Amount”) shall be reimbursed by Company in the form of a reduction of the Net Cash Position, it being understood and agreed that such reduction shall still count as having been included in the Net Cash Position and therefore be deemed to have been included in the Net Cash Position.
+The Parent Break Up Fee shall by paid by the Parent to the Company by wire transfer of immediately available funds to such account as the Company designates.
+In the event that the Company notifies Parent of its termination of this Agreement which is not otherwise allowed pursuant to Section 8.01, Company shall pay to Parent a “break-up” fee in the amount of seven hundred fifty thousand dollars ($750,000) plus all not yet reimbursed fees and expenses required to be reimbursed pursuant to Section 6.05(a) (the “Company Break Up Fee”).
+The Company Break Up Fee shall by paid by the Company to Parent by wire transfer of immediately available funds to such account as Parent designates.
+Net Cash Position immediately prior to the Merger Effective Time is Ten Million Dollars ($10,000,000) less the reductions set forth in Section 6.05(a) hereof.
+As of the date hereof, the Company has 67,860,246 shares of Company Common Stock outstanding, 1,500,250 shares of Series A Preferred Stock outstanding that convert on a 100-for-1 basis into shares of common stock, 71,516,534 shares of Series B Preferred Stock outstanding that currently converts on a one-for-one basis into shares of Company Common Stock and 0 shares of Series C Preferred Stock outstanding that currently converts on a one-for-one basis into shares of Company Common Stock (as of the date hereof, this equals a total current pre-merger Company equity capitalization assuming full conversion of the Series A Preferred Stock, Series B Preferred Stock and Series C Preferred Stock of 289,401,780 shares of Company Common Stock, the calculation of such number of shares immediately prior to the Merger Effective Time known as the “Current Pre-Merger Mullen Capitalization”).
+In addition, (i) the holder of the Series B Preferred Stock holds a convertible promissory note (the “Drawbridge Convertible Note”) that is potentially convertible into a maximum of 2,383,156 shares of Company Common Stock (the “Drawbridge Conversion Shares”) and (ii) the Company has currently issued an aggregate of $10,762,500 of convertible promissory notes convertible into Company Series C Preferred Stock at a per share conversion price of $0.6877 to certain investors (the “Current Investor Notes”), said Series C Preferred Stock potentially convertible into approximately 15,549,993 shares of Company Common Stock  and in connection with the issuance of the Investor Notes issued five year warrants exercisable for up to an aggregate of approximately 40,892,635 shares of Company Common Stock at a per share exercise price of $0.6877 (the “Current Noteholder Warrants”).
+The Company has agreed to issue an aggregate of 29,082,449 shares of Series C Preferred Stock and warrants to purchase an aggregate of 75,990,980 shares of Common Stock to a holder of Current Investor Notes immediately prior to the Merger Effective Time (the “Pre-Merger Issuance”).
+The sum of the Current Pre-Merger Mullen Equity Capitalization plus the Drawbridge Conversion Shares plus the Investor Conversion Shares plus the Warrant Shares is referred to herein as the “Pre-Merger Sum” (453,409,992 shares).
+Immediately after the Merger Effective Time the holder of Series B Preferred Stock will be allocated that percentage of the Post Merger Capitalization equal to that holder’s percentage ownership of the outstanding Company Common Stock on a fully converted and fully diluted basis immediately prior to the Merger Effective Time (excluding the Drawbridge Convertible Note), meaning that such holder will be issued such number of shares of Parent Series B Preferred Stock which converts into that number of shares of Parent Common Stock equal to that entitled percentage of the Post Merger Capitalization (such allocation known as the “Series B Percentage”).
+Immediately after the Merger Effective Time the holders of Investor Warrants will be allocated that percentage of the Post Merger Capitalization equal to those holders’ percentage ownership of the outstanding Company Common Stock on a fully converted and fully diluted basis immediately prior to the Merger Effective Time meaning that such holders will be issued such number of warrants which are exercisable into that number of shares of Parent Common Stock equal to that entitled percentage of the Post Merger Capitalization (such allocation known as the “Investor Warrant Percentage”).
+By way of example only, assuming 75,000,000 shares of Parent Common Stock are outstanding on a fully diluted and fully converted basis immediately after the Merger Effective Time and assuming Parent Pre-Merger Stockholders are entitled to 15% of the Post Merger Capitalization pursuant to Section 2.01, 11,250,000 shares constitute the allocation to Parent Pre-Merger Stockholders, and 85% of the Post Merger Capitalization, or 63,750,000 shares, constitutes the “Post-Merger Sum.” The holder of the Series B Preferred Stock owns approximately 15.8% of the Pre-Merger Sum (excluding the Drawbridge Convertible Note), the holder of the Company’s Series B Preferred Stock will be issued 11,829,779 shares of newly issued Parent Series B Preferred Stock that convert into an equivalent number of shares of Parent Common Stock.
+The Drawbridge Conversion Percentage is approximately 3.7% of the Post-Merger Sum (excluding the Drawbridge Convertible Note) or 2,383,155 shares.
+The Remainder Percentage represents 30,201,484 shares.
+As such, the holders of the Company Common Stock would be issued 7,804,713 shares of newly issued Parent Common Stock,  the holders of the Company’s Series C Preferred Stock would be issued 5,147,654 shares of newly issued Parent Series C Preferred Stock that convert on a 1-for-1 basis into Parent Common Stock and the holders of the Company’s Series A Preferred Stock would be issued 172,491 shares of newly issued Parent Series A Preferred Stock that convert on a 100-for-1 basis into approximately 17,249,117 shares of Parent Common Stock.
+The Pre-Merger Issuance could substantially increase by mutual agreement between the Company and the subject investor (up to an additional $40 million of Series C Stock with attendant warrant coverage).
+By way of example, if there would have been 75,000,000 shares of Parent Common Stock outstanding on a fully-diluted and converted basis prior to the additional capital raise beyond the Net Cash Position, and Parent issues 3,000,000 shares of Parent Common Stock to raise additional capital over and above the Net Cash Position, the Parent Pre-Merger Stockholders would own 15% of such 75,000,000 shares of Parent Common Stock and plus 3,000,000 shares of Parent Common Stock, or 14,250,000 shares of Parent Common Stock immediately after the Merger Effective Time, and the number of outstanding shares of Parent Common Stock would increase from 75,000,000 to 78,000,000 on a fully-diluted and converted basis immediately after the Merger Effective Time.
+At the Merger Effective Time, Parent, a person authorized to act on behalf of the Parent shareholders (the “Parent Representative”), the Company and such other escrow agent mutually acceptable to Parent and the Company, as escrow agent (the “Escrow Agent”), shall enter into an Escrow Agreement, effective as of the Merger Effective Time, in form and substance reasonably satisfactory to Parent and the Company (the “Escrow Agreement”), pursuant to which Parent shall issue to David Michery, as trustee for the benefit of the Distributees (as defined below) and deposit with the Escrow Agent that total number of shares of Parent Common Stock equal to sum of (i) the maximum number of shares of Parent Common Stock issuable upon conversion of the Drawbridge Convertible Note (the “Drawbridge Escrow Shares”) plus (ii) the number of Warrant Shares (the “Warrant Escrow Shares” and together with the Drawbridge Escrow Shares the “Escrow Shares”) to be held, along with any other dividends, distributions or other income on the Escrow Shares (other than regular ordinary dividends) in a segregated escrow account (the “Escrow Account”) and disbursed in accordance with the terms hereof and the Escrow Agreement.
+The Investor Warrants have a five-year term from the date of issuance and are each exercisable for one share of Company Common Stock at a per share cash exercise price or are exercisable on a “cashless exercise” basis further to Section 1(d) of the Investor Warrants.
+With respect to the Balance Shares, the Company shall take the following actions: (i) with respect to holders of Company Common Stock, the Company shall release to such holders pro rata that percentage of the Balance Shares equal to the Common Stock Percentage, (ii) with respect to the holders of Company Series C Preferred Stock, the combined company shall cancel that number of Escrow Shares equal to the Series C Percentage and issue to holders of Company Series C Preferred Stock, pro rata, that number of newly shares of Series C Preferred Stock which converts into the Series C Percentage of the Balance Shares and (iii) with respect to the holders of Company Series A Preferred Stock, the combined company shall cancel that number of Escrow Shares equal to the Series A Percentage and issue to holders of Company Series A Preferred Stock, pro rata, that number of newly shares of Series A Preferred Stock which converts into the Series A Percentage of the Balance Shares.
+10000 · Cash In Bank:1000015 - WF 0374
+8,155.88
+137,651.45
+150.00
+10000 · Cash In Bank:1000003 · WF-3067 DBA Mullen Reservations
+10000 · Cash In Bank:1000004 · WF-3075 DBA Mullen Auto Fresno
+10000 · Cash In Bank:1000005 · WF-3083 DBA Mullen Auto O/Side
+10000 · Cash In Bank:1000006 · WF-3091 Mullen Payroll
+80.00
+10000 · Cash In Bank:1000007 · WF-3109 Mullen Technologies
+10000 · Cash In Bank:1000010 · BBVA  - 4674 Payroll
+76,679.62
+10000 · Cash In Bank:1000012 · BBVA  - 1615 Carhub
+181.51
+10000 · Cash In Bank:1000013 · BBVA  - 3782
+67.51
+10000 · Cash In Bank:1000014 · BBVA  - 8606 Mullen Reservation
+1.51
+10000 · Cash In Bank:1000020 · BBVA  - 7142 Si N Fuz
+55.52
+10000 · Cash In Bank:1000051 · F&M - 7929 Mullen Auto Sales
+345.00
+10000 · Cash In Bank:1000055 · F&M - 7910 Mullen Eight
+10005 · Cash on Hand:1000510 · Petty Cash Fund - Corp
+153,850.00
+1,002,139.71
+(959,056.29)
+214,990.00
+(161,842.00)
+15,054,000.00
+14000 · Prepaid Expense
+9,186.26
+15,045.04
+2,000.00
+79,059.47
+107,207.18
+15000 · Office Furniture & Equipment:1500010 · Accumulated Depreciation
+(58,728.41)
+71,732.00
+16000 · Battery Production - Codacar:16000.1 · Battery-Codacar Acc Dep
+(64,558.64)
+1,094,515.45
+(716,583.15)
+23,941.00
+(11,970.55)
+108,541.75
+(68,079.47)
+24,441.65
+(23,178.33)
+1,200,000.00
+(1,200,000.00)
+181,747.88
+(117,410.09)
+45,375.00
+(98,237.69)
+6,375.66
+287,643.50
+28,876.03
+61,735.03
+(19,556.90)
+76,675.20
+(25,906.56)
+(26,258.11)
+647,575.93
+131,624.07
+25,453.59
+2,500.00
+(6,000.00)
+6,000.00
+14010 · Investment into CarMoxy
+27,921.38
+1,651,468.48
+71,000.00
+20,000.00
+70,324.00
+2,236.89
+10,138.06
+8,480.00
+12,558.52
+2,709,523.67
+(51,409.22)
+1.52
+21,862,274.47
+20000 · Accounts Payable
+(2,656,613.22)
+Accounts Payable
+(12,298.14)
+(367,058.56)
+220,762.57
+(16,036,203.73)
+21013 · CBSG Note 3.10.20
+(306,008.90)
+21013 · CBSG Note 3.10.20:21013.5 · CBSG Loan Fee 3.10.2020
+9,194.93
+21028 · EIN Cap 2.12.20
+(206,080.83)
+21029 · GTR - N/P 3.6.2020 payback $10m:21029.5 · GTR Loan Fee 3.6.2020
+0.16
+21030 · 21030 - United note 3.17.20
+(71,866.00)
+21034 · Wittels Note 6.22.20
+(250,000.00)
+21034 · Wittels Note 6.22.20:210344 - Det discount
+19,513.28
+(80,000.00)
+3,278.36
+(500,000.00)
+21038 · NY Grp Loan 7.24.20
+(250,000.00)
+200,584.76
+21039 · - Net Element 8/11/2020 14$ ST
+(500,000.00)
+(1,000,000.00)
+412,522.44
+21041 · Mank Capital Conv Note 8.26.20
+(200,000.00)
+82,504.51
+(200,000.00)
+82,504.51
+(100,000.00)
+41,252.21
+(105,000.00)
+52,579.85
+(157,500.00)
+78,869.81
+(105,000.00)
+52,579.85
+(33,000.00)
+21047 - Conv Note Fallon 10.12.20:21047.5 Fallon 101220 Debt Discount
+20,898.34
+21047 - Conv Note Mogul 10.12.20
+(27,500.00)
+21047 - Conv Note Mogul 10.12.20:21048.5 Mogul 101220 Debt Discount
+17,415.33
+(660,000.00)
+21047 - Conv Note Acuitas 10.12.20:21049.5 - Debt Disc.
+417,966.73
+(660,000.00)
+2180 - Acuitas 11/9/20:21080.5 - Acuitas 1192 Debt Discount
+440,984.05
+(33,000.00)
+2181 - Fallon 11/9/20:21081.5 - Fallon note 11920 Debt Discount
+22,049.20
+(27,500.00)
+18,374.39
+(660,000.00)
+21084 - N/P Acuitas 12/4/2020:21084.5 - Acuitas  12/4/2020 Debt Discount
+461,472.96
+(33,000.00)
+21085 -  N/P Fallon 12/4/2020:21085.5 - N/P Fallon 12420 Debt DiscounT
+23,073.65
+(27,500.00)
+21086 -  N/P Mogul 12/4/20:21086.5 N/P Mogul 12420 Debt Discount
+19,228.09
+(157,500.00)
+21087 -  Mogul conv Note  12/15:21087.5 Mogul note 121520
+(157,500.00)
+21088 -  Mank conv Note  12/15:21088.5 - Mank Note 121520 Debt Discount
+2200517 · Loans Pay - Carmoxy purch 2018
+(540,358.00)
+(457,500.00)
+24000 · Payroll Liabilities:2400014 · Accrued Payroll
+(287,528.58)
+24000 · Payroll Liabilities:2400015 · Accrued Payroll Taxes
+(588,791.11)
+24000 · Payroll Liabilities:2400016 · CA PIT / SDI
+24000 · Payroll Liabilities:2400017 · CA SUI / ETT
+(21,386.45)
+24000 · Payroll Liabilities:2400018 · Child Support Payable
+73.51
+24000 · Payroll Liabilities:2400020 · FUTA
+(44,687.72)
+24000 · Payroll Liabilities:2400023 · FICA
+(1,816,157.63)
+24000 · Payroll Liabilities:2400025 · FIT
+(1,238,732.00)
+24000 · Payroll Liabilities:2400032 · Accrued Vacation
+(31,193.23)
+24000 · Payroll Liabilities:2400100 · Employee Stock Payable
+(450,425.45)
+84.70
+25500 · Sales Tax Payable:2550010 · Use Tax Payable
+(2,475.00)
+21036 · N/P 7.13.20 MABM Holdings
+(25,000.00)
+5,438.40
+2200526 · Drawbridge 7.23.2020
+(23,831,553.98)
+27000 · 270001 Lease Liab Long Term
+(1,378,972.97)
+27000 · Long Term Liabilities:2700018 - SBA PPPloan 4.22.20
+(9,108.17)
+27000 · Long Term Liabilities:25600 · Interest Payable
+(4,267,438.70)
+27000 · Long Term Liabilities:2600010 · Note Payable - Chris Langley 10
+(100,000.00)
+27000 · Long Term Liabilities:2600033 · Note ST - Elegant - RLE 458k
+(438,000.00)
+(2,385,004.13)
+(195,800.00)
+27000 · Long Term Liabilities:2700005 · Loan - Deral LLC
+(137,000.00)
+(309,919.00)
+27000 · Long Term Liabilities:2700011 · Loan  - DM
+(86,941.38)
+27000 · Long Term Liabilities:2700012 · Note Payable - Eximusa
+(700,000.00)
+27000 · Long Term Liabilities:2700017 · Loan - Elegant Funding 09/18/18
+(185,000.00)
+27000 · Long Term Liabilities:2700019 · Note Payable - John Gordon
+(250,000.00)
+(4,500,000.00)
+(67,271,128.51)

@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Anworth Mortgage Asset Corporation"
+    ],
+    "BuyerName": [
+        "READY CAPITAL CORPORATION"
+    ],
+    "EffectiveTime": [
+        "December 6, 2020"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "September 30, 2021"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "READY CAPITAL CORPORATION"
+            ],
+            "To": [
+                "Anworth Mortgage Asset Corporation"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 125000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

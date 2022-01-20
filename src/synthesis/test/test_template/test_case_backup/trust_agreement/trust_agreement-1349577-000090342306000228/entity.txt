@@ -1,0 +1,44 @@
+TRUST AGREEMENT
+TRUST AGREEMENT, between MS Structured Asset Corp. (the “Depositor”) and LaSalle Bank National Association (the “Trustee”), made as of the date set forth in Schedule I attached hereto, which Schedule together with Schedules II and III attached hereto, are made a part hereof and are hereinafter referred to collectively as the “Terms Schedule”.
+WHEREAS, the Depositor and the Trustee desire to establish the Trust identified in Schedule I attached hereto (the “Trust”) for the primary purposes of (i) holding the Underlying Securities, (ii) entering into an interest rate swap transaction (the “Interest Rate Swap”) and three separate forward interest rate agreements with Morgan Stanley (the “Forward Interest Rate Agreements”), in the form of an ISDA Master Agreement and schedule with the Swap Counterparty (the “Swap Agreement”) attached as Schedules III-A through III-D and (iii) issuing the Units;
+  Schedule I(Terms of Trust and Units)Trust:TILES Trust No.
+  ANNEX A TO SCHEDULE ILASALLE BANK NATIONAL ASSOCIATIONABS ANNUAL REPORT BACKUP CERTIFICATIONIn connection with the preparation and delivery of the annual report on Form 10-K of MS Structured Asset Corp. for the fiscal year ending December 31, [____] and the certifications given on behalf of TILES Trust No.
+  EXHIBIT A TO ANNEX A TOSCHEDULE I TILES Trust No.
+:/ISIN No.38143VAA7Underlying SecurityProperty Trustee:Bank of New YorkUnderlying Delaware Trustee:Bank of New York (Delaware)Other Trust Property:All of the Trust’s right, title and interest in and to the Swap Agreement dated February 15, 2006, by and between the Trustee (on behalf of the Trust) and Morgan Capital Services, Inc. See Schedules III-A through III-D.   II-4
+  Schedule III-A(ISDA Master Agreement, Schedule and Interest Rate Swap Confirm)     III-A-1   (Multicurrency—Cross Border)ISDA®International Swap Dealers Association, Inc.MASTER AGREEMENT dated as of    February 15, 2006          Morgan Stanley                                                               and            TILES Trust No 2006-1                                  have entered and/or anticipate entering into one or more transactions (each a “Transaction”) that are or will be governed by this Master Agreement, which includes the schedule (the “Schedule”), and the documents and other confirming evidence (each a “Confirmation”) exchanged between the parties confirming those Transactions.Accordingly, the parties agree as follows:—1.Interpretation(a)           Definitions.
+  SCHEDULETO THEMASTER AGREEMENTdated as of February 15, 2006betweenMORGAN STANLEY(“Party A”)andTILES TRUST NO.
+2006-1(“Party B” or the “Trust”)Part 1.Termination Provisions.
+  IN WITNESS WHEREOF, the parties have executed this Schedule by their duly authorized officers as of the date hereof.MORGAN STANLEYBy: /s/ John Kehoe       Name: John KehoeTitle: Vice PresidentDate: February 15, 2006TILES TRUST NO.
+2006-1By: LaSalle Bank National Association,as TrusteeBy: /s/ Andy Streepey      Name: Andy StreepeyTitle: Assistant Vice PresidentDate: February 15, 2006
+MORGAN STANLEY   Date:February 15, 2006      To:TILES Trust No.
+2006-1From:Morgan Stanley    Attn:Asset-Backed Securities GroupTILES Trust No.
+2006-1Attn:Chief Legal OfficerMorgan Stanley1585 Broadway,
+New York, New York 10036-8293    Fax:312-904-2084Fax:212-507-4622    Tel:312-904-9387Tel:212-761-4000 Re: Interest Rate Swap Transaction.
+2006-1 (“Party B”) and Morgan Stanley (“Party A”) on the Trade Date specified below (the “Transaction").
+This Confirmation supplements, forms a part of, and is subject to, the 1992 ISDA Master Agreement (Multicurrency-Cross Border) dated as of February 15, 2006, as amended and supplemented from time to time (the "Agreement"), between you and us.
+071 000 505Reference: TILES 2006-1LaSalle CHGO / CTR / BNF: / LASALLE TRUST         A/C# 723425.1 Operations Contact:       3
+MORGAN STANLEY   Please confirm that the foregoing correctly sets forth the terms of our agreement MS Reference Number SQABD by executing this Confirmation and returning it to us.Best Regards, MORGAN STANLEY BY:   /s/ John Kehoe     Name:John Kehoe  Title:Vice President Acknowledged and agreed as of the date first written above: TILES TRUST NO.
+BY:   /s/ Andy Streepey     Name:Andy Streepey  Title:Assistant Vice President
+   Schedule III-B(Forward Rate Swap Confirm with effective date of February 15, 2006)     III-B-1     MORGAN STANLEY  Date:February 15, 2006      To:TILES Trust No.
+2006-1From:Morgan Stanley    Attn:Asset-Backed Securities GroupTILES Trust No.
+2006-1Attn:Chief Legal OfficerMorgan Stanley1585 Broadway,
+New York, New York 10036-8293    Fax:312-904-2084Fax:212-507-4622    Tel:312-904-9387Tel:212-761-4000 The purpose of this letter agreement is to confirm the terms and conditions of the Transaction entered into between TILES Trust No.
+2006-1 (“Party B”) and Morgan Stanley (“Party A”) on the Trade Date specified below (the “Transaction").
+This Confirmation supplements, forms a part of, and is subject to, the 1992 ISDA Master Agreement (Multicurrency-Cross Border) dated as of February 15, 2006, as amended and supplemented from time to time (the "Agreement"), between you and us.
+071 000 505Reference: TILES 2006-1LaSalle CHGO / CTR / BNF: / LASALLE TRUST           A/C# 723425.1 Operations Contact:       3
+BY: /s/ Andy Streepey      Name:Andy Streepey  Title:Assistant Vice President
+  Schedule III-C(Forward Rate Swap Confirm with effective date of August 15, 2006)     III-C-1     MORGAN STANLEY  Date:February 15, 2006      To:TILES Trust No.
+2006-1From:Morgan Stanley    Attn:Asset-Backed Securities GroupTILES Trust No.
+2006-1Attn:Chief Legal OfficerMorgan Stanley1585 Broadway,
+New York, New York 10036-8293    Fax:312-904-2084Fax:212-507-4622    Tel:312-904-9387Tel:212-761-4000 The purpose of this letter agreement is to confirm the terms and conditions of the Transaction entered into between TILES Trust No.
+2006-1 (“Party B”) and Morgan Stanley (“Party A”) on the Trade Date specified below (the “Transaction").
+This Confirmation supplements, forms a part of, and is subject to, the 1992 ISDA Master Agreement (Multicurrency-Cross Border) dated as of February 15, 2006, as amended and supplemented from time to time (the "Agreement"), between you and us.
+071 000 505Reference: TILES 2006-1LaSalle CHGO / CTR / BNF: / LASALLE TRUSTA/C# 723425.1 Operations Contact:       3
+BY: /s/ Andy Streepey      Name:Andy Streepey  Title:Assistant Vice President
+  Schedule III-D(Forward Rate Swap Confirm with effective date of February 15, 2007)      III-D-1    MORGAN STANLEY  Date:February 15, 2006      To:TILES Trust No.
+2006-1From:Morgan Stanley    Attn:Asset-Backed Securities GroupTILES Trust No.
+2006-1Attn:Chief Legal OfficerMorgan Stanley1585 Broadway,
+New York, New York 10036-8293    Fax:312-904-2084Fax:212-507-4622    Tel:312-904-9387Tel:212-761-4000  The purpose of this letter agreement is to confirm the terms and conditions of the Transaction entered into between TILES Trust No.
+2006-1 (“Party B”) and Morgan Stanley (“Party A”) on the Trade Date specified below (the “Transaction").
+This Confirmation supplements, forms a part of, and is subject to, the 1992 ISDA Master Agreement (Multicurrency-Cross Border) dated as of February 15, 2006, as amended and supplemented from time to time (the "Agreement"), between you and us.
+071 000 505Reference: TILES 2006-1LaSalle CHGO / CTR / BNF: / LASALLE TRUST          A/C# 723425.1 Operations Contact:       3

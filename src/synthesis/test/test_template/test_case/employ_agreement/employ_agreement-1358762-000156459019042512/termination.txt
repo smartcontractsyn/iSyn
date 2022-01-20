@@ -1,0 +1,109 @@
+1.Employment Period.
+Subject to earlier termination pursuant to Section 3, the Company hereby agrees to employ the Executive, and the Executive hereby agrees to be employed by the Company, in accordance with the terms and provisions of this Agreement, for the period commencing on the date of this Agreement (the “Effective Date”) and ending at the close of business on August 28, 2023 (the “Employment Period”).
+Thereafter, such term of employment shall be extended automatically for successive one-year periods (such extended term, the “Additional Employment Period”) unless the Company or Executive provides the other with written notice no less than 30 days prior to the date the Employment Period or the Additional Employment Period, as applicable, would otherwise end either (i) declining to extend such term of employment, or (ii) requesting that the terms of this Agreement are renegotiated prior to the Agreement’s renewal.
+If the parties fail to enter into the renegotiation process within 30 days of receipt of such notice, this Agreement will be extended automatically as if such notice was not given.
+2.Terms of Employment.
+(ii)During the Employment Period, or any Additional Employment Period, and excluding any periods of vacation and sick leave to which the Executive is entitled, the Executive agrees to devote full business time to the business and affairs of the Company and, to the extent necessary to discharge the responsibilities assigned to the Executive hereunder, to use the Executive’s reasonable best efforts to perform faithfully
+(ii)Bonus.
+2
+(vi)Vacation and Holidays.
+3
+Co by the Company.
+The expiry period of the Time-Vested Option, the Performance-Based Option, and the RSUs is 10 years from the date of grant.
+Subject to the terms of Section 4 of this Agreement, in the event the Executive’s employment with the Company terminates, either voluntarily or involuntarily, any unvested Time-Vested Option, Performance-Based Option, or RSUs shall be forfeited upon the employment termination date.
+4
+3.Termination of Employment.
+(a)Death or Disability.
+The Executive’s employment shall terminate automatically upon the Executive’s death during the Employment Period, or any Additional Employment Period.
+If a Disability (as defined below) of the Executive has occurred during the Employment Period, or any Additional Employment Period, and subject to Executive’s rights, if any, under the Family Medical Leave Act, Americans with Disabilities Act or similar local, state or federal law, the Company may give to the Executive written notice of its intention to terminate the Executive’s employment.
+In such event, the Executive’s employment with the Company shall terminate effective on the 30th day after receipt of such notice by the Executive (the “Disability Effective Date”), provided, that, within the 30 days after such receipt, the Executive shall not have returned to full-time performance of the Executive’s duties.
+(b)Cause.
+The Company may terminate the Executive’s employment during the Employment Period, or any Additional Employment Period, for Cause or without Cause.
+(i)commission by the Executive of an act of fraud upon, or willful misconduct toward, the Company;
+(ii)a material breach by the Executive of the noncompetition provisions of Section 5 or of the Employee Confidentiality, Nondisclosure, Intellectual Property and Nonsolicitation Agreement described in Section 6;
+(iii)the conviction of the Executive of any felony (or a plea of nolo contendere thereto); or
+(iv)the Executive’s addiction to alcohol, drugs or any other controlled substance.
+Upon the occurrence of any event described in Section 3(b), the Company may terminate Executive’s employment hereunder for Cause by giving Executive a Notice of Termination to that effect as provided in Section 3(d) within 30 days after the occurrence of the event giving rise to Cause that specifies the date of Executive’s termination (which may be the date the Notice of Termination is delivered) and describes in reasonable detail the facts or circumstances giving rise to the Company’s right to terminate Executive’s employment for Cause (and, if applicable, the action required to cure same).
+If the effect of the occurrence of the event described in Section 3(b) may be cured, Executive shall have the opportunity to cure any such effect for a period of 30 days following receipt of the Company’s Notice of Termination.
+If, within 30 days following Executive’s receipt of a Notice of Termination for Cause, (A) Executive delivers written notice to the Company denying that Cause exists, the question of the existence or nonexistence of Cause will be subject to the dispute resolution procedure set forth in Section 9(f); or (B) Executive has not cured the facts or circumstances giving rise to the Company’s right to terminate Executive’s employment for Cause and shall not have delivered a notice pursuant to clause (A) herein, then
+5
+Executive’s termination for Cause shall be effective as of the date specified in the Company’s Notice of Termination (which date may not be earlier than the date the Notice of Termination is delivered to Executive).
+If the Company does not give a Notice of Termination to Executive within 30 days after learning of the occurrence of an event giving rise to Cause, then this Agreement will remain in effect, and Executive may not be terminated for Cause based on the occurrence of the event that gave rise to Cause; provided, however, that the failure of the Company to terminate the Executive’s employment for Cause shall not be deemed a waiver of the Company’s right to terminate Executive’s employment for Cause upon the occurrence of a subsequent event described in Section 3(b) in accordance with the terms of this Agreement.
+Notwithstanding the foregoing, the right of the Company to terminate Executive’s employment for Cause under this Section 3(b) shall not limit Executive’s right to terminate his employment for Good Reason under Section 3(c) if Good Reason is determined to exist prior to the time Cause is determined to exist.
+(c)Good Reason.
+The Executive’s employment may be terminated during the Employment Period, or any Additional Employment Period, by the Executive for Good Reason or without Good Reason.
+(i)a material diminution in the Executive’s base compensation;
+(ii)a material diminution in the Executive’s authority, duties or responsibilities; provided, however, following a Change in Control, the Executive’s authority, duties and responsibilities shall be deemed to have been materially diminished (even though his authority, duties and responsibilities have not actually been materially diminished) if, during the two-year period after the Change in Control, (1) the Executive is not serving as the Chief Financial Officer and an Executive Vice President of the Company or its successor, or (2), if the Company or its successor is not the ultimate parent company after a Change in Control, the Executive is not serving as the Chief Financial Officer and an Executive Vice President of the ultimate parent company;
+(iii)a material diminution in the authority, duties or responsibilities of the supervisor to whom the Executive is required to report; provided, however, that a change in the person to whom the Executive shall report pursuant to Section 2(a)(i) shall not be or constitute Good Reason;
+(iv)a material diminution in the budget over which the Executive retains authority;
+(v)a change in the geographic location at which the Executive must perform services of more than 50 miles in radius from such location as of the date of this Agreement; or
+(vi)any other action or inaction that constitutes a material breach by the Company of this Agreement.
+6
+In the case of the Executive’s allegation of Good Reason, (A) the Executive shall provide notice to the Company of the event alleged to constitute Good Reason within 90 days after the occurrence of such event (such notice the “Notice of Good Reason,”) and (B) the Company shall have the opportunity to remedy the alleged Good Reason event within 30 days after receipt of notice of such allegation (the “Cure Period”).
+In the event the Company has not cured the facts or circumstances giving rise to the Executive’s right to terminate the Executive’s employment for Good Reason during the Cure Period and shall not have delivered a notice pursuant to the preceding sentence, then the Executive’s employment hereunder will be terminated for Good Reason on the 31st day following the Cure Period.
+If the Executive does not give a Notice of Good Reason to the Company within 90 days after learning of the occurrence of an event giving rise to Good Reason, then this Agreement will remain in effect, and Executive may not terminate his employment for Good Reason based on the occurrence of the event that gave rise to Good Reason; provided, however, that the failure of the Executive to provide a Notice of Good Reason or terminate the Executive’s employment for Good Reason shall not be deemed a waiver of the Executive’s right to terminate the Executive’s employment for Good Reason upon the occurrence of a subsequent event described in Section 3(c) in accordance with the terms of this Agreement.
+(d)Notice of Termination.
+Any termination by the Company for Cause or without Cause, or by the Executive for Good Reason or without Good Reason, shall be communicated by a Notice of Termination to the other party hereto.
+For purposes of this Agreement, a “Notice of Termination” means a written notice that (i) indicates the specific termination provision in this Agreement relied upon, (ii) to the extent applicable, sets forth in reasonable detail the facts and circumstances claimed to provide a basis for termination of the Executive’s employment under the provision so indicated, and (iii) other than with respect to a termination by the Executive for Good Reason, if the Date of Termination (as defined below) is other than the date of receipt of such notice, specifies the termination date (which date, except for a termination of Executive’s employment due to a Disability, shall not be more than 15 days after the giving of such notice or the date the applicable cure period expires, whichever is later).
+(e)Date of Termination.
+“Date of Termination” means (i) if the Executive’s employment is terminated by the Company for Cause, or by the Executive without Good Reason, the date of receipt of the Notice of Termination or any later date specified therein, (ii) if the Executive’s employment is terminated by the Executive for Good Reason, the 31st day following receipt by the Company of the Notice of Good Reason (provided the Company does not otherwise remedy the alleged Good Reason event within the Cure Period), (iii) if the Executive’s employment is terminated by the Company without Cause, the date on which the Company notifies
+7
+the Executive of such termination (unless a later date is specified in the Notice of Termination, in which case the Executive’s employment will be terminated on such later date), and (iv) if the Executive dies or incurs a Disability, the date of death of the Executive or the Disability Effective Date, as the case may be.
+If the Executive is a member of the Board, any continuation of the Executive’s service to the Company as a member of the Board on or after the Executive’s termination of employment shall not result in any deferral of the Date of Termination.
+4.Obligations of the Company upon Termination.
+(a)Termination by the Company for Cause or by the Executive other than for Good Reason.
+If, during the Employment Period, or any Additional Employment Period,  the Executive’s employment with the Company is terminated by the Company for Cause or by the Executive other than for Good Reason (and not due to death or Disability), the Company shall have no further payment obligations to the Executive or his legal representatives under this Agreement, other than for:
+(i)to the extent not theretofore paid, the sum of (w) the Executive’s Annual Base Salary earned through the Date of Termination, (x) the Bonus for the fiscal year ending immediately prior to the Date of Termination, (y)  compensation previously deferred by the Executive (together with any accrued interest or earnings thereon), and (z) any accrued and unused vacation pay through the Date of Termination (the “Accrued Obligations”), which sum shall be paid within 15 days following the Date of Termination; and
+(ii)to the extent not theretofore paid or provided, the Company shall timely pay or provide to the Executive and/or the Executive’s family any other amounts or benefits required to be paid or provided or which the Executive and/or the Executive’s family is eligible to receive pursuant to this Agreement and under any plan, program, policy or practice or contract or agreement of the Company (“Other Benefits”).
+(b)Death or Disability prior to, or more than two years after, a Change in Control.
+(c)Certain Terminations more than six months prior to, or more than two years after, a Change in Control by the Company other than for Cause or by Executive for Good Reason.
+If, during the Employment Period, or any Additional Employment Period, but more than six months  prior to, or more than two years after, the occurrence of a Change in Control, the Executive’s employment with the Company is terminated by the Company for any reason other than for Cause (and not due to death or Disability) or by the Executive for Good Reason, the Executive will be entitled to (i) the Accrued Obligations and Other Benefits, payable in accordance with Section 4(a)(i) and (ii), (ii) subject to Sections 4(f) and (h), a lump sum cash amount equal to the Executive’s current Annual Base Salary, payable on the next payroll date immediately following the eighth day following the Executive’s delivery to the Company of a properly executed Release in accordance with Section 4(f) of this Agreement, and (iii) Welfare Benefit Continuation as defined, and pursuant to the terms and in the manner described, in Section 4(d)(ii) up to the 12 month, rather than the 24 month, anniversary of the Date of Termination.
+If a Change in Control does not occur during such six month period, the Unvested Equity Awards will be forfeited immediately following such six month period.
+(d)Certain Terminations within six months prior to, or within two years following, a Change in Control.
+In the event that the Executive’s employment is terminated  by the Company for any reason other than Cause or by the Executive for Good Reason or the Executive dies or incurs a Disability, in each case, during the Employment Period, or any Additional Employment Period, and such termination occurs within six months prior to (excluding death or Disability), or within two years after, a Change in Control, the following provisions shall apply and Sections 4(b) and (c) shall not be applicable until Section 4(d) is no longer applicable:
+9
+(ii)Until the earlier to occur of (A) the 24 month anniversary of the Date of Termination or (B) the Executive’s acceptance of full-time employment with another entity, the Company shall continue benefits provided under Welfare Plans to the Executive and/or the Executive’s family at least equal to those that would have been provided to them if the Executive’s employment had not been terminated (“Welfare Benefit Continuation”) pursuant to an in-kind benefit arrangement that satisfies the requirements of Treasury Regulation § 1.409A-3(i)(1)(iv)(A), and the Company-provided costs of such Welfare Benefit Continuation will be imputed as income to the Executive and reported on Form W-2; provided, that in the event the Company is unable to provide the Welfare Benefit Continuation under its Welfare Plans or to the extent such Welfare Benefit Continuation would subject the Company to negative tax consequences, the Company will reimburse the Executive for amounts necessary to enable the Executive to obtain similar benefits, and any such reimbursement will be made in accordance with the provisions of Treasury Regulation § 1.409A-3(i)(1)(iv).
+The COBRA continuation period shall begin on the day following the end of the Welfare Benefit Continuation period provided in this Section 4(d)(ii).
+(v)If the Executive’s employment is terminated within six months prior to a Change in Control and the provisions of Section 4(d) apply, but the provisions of Section 4(b) or 4(c) were initially applied, then, subject to Section 4(f), upon the Change in Control, the Company shall pay, no later than the first payroll date following such Change in Control, additional payments and provide additional benefits and vesting in order to provide the Executive the payments, benefits and vesting as set forth in Section 4(d).
+(e)In addition, upon a Change in Control, if the Executive’s employment with the Company (or its successor) continues following the Change in Control, any outstanding equity awards that are not vested on the date of the Change in Control shall become vested and, as applicable, exercisable with respect to one-eighteenth of all such unvested equity awards on the one month anniversary of the Change in Control and thereafter with respect to an additional one-
+10
+(iii)The Company is to be dissolved and liquidated (in a dissolution taxed under Section 331 of the Internal Revenue Code of 1986, as amended (the “Code”));
+(iv)Any person or entity, including a “group” as contemplated by Section 13(d)(3) of the Securities Exchange Act of 1934, as amended, acquires or gains ownership or control (including, without limitation, power to vote), directly, by merger or otherwise,  of more than 50% of the outstanding shares of the Company’s voting stock (based upon voting power) and as a result of such acquisition, the stockholders holding a majority of the capital stock of the Company receive cash or marketable securities for their shares of capital stock; or
+(v)As a result of or in connection with a contested election of directors, the persons who were directors before such election will cease to constitute a majority of the Board.
+(f)Release.
+11
+4(d) and the payments described in Section 4(b)(ii), Section 4(c)(ii) or Section 4(d)(i)(B).
+(g)Gross-Up for Certain Taxes.
+12
+For purposes of determining the time of payment of any severance payable pursuant to Section 4(b)(ii), Section 4(c)(ii) and Section 4(d)(i)(B), and the timely return of the Release in accordance with Section 4(f), the Date of Termination shall be the date that the Executive incurs a “separation from service” within the meaning of Treasury Regulation § 1.409A-1(h).
+13
+The Executive understands that the restrictions set forth in this Section 5(a)(i) shall continue to apply following the Executive’s termination of employment with the Company, regardless of the reason for such termination.
+C.directly or indirectly, for Executive or for others, recruit, solicit or induce any employee of the Company or its Affiliates to terminate his or her employment with the Company or its Affiliates, or hire or assist in the hiring of any such employee by a Person not affiliated with the Company or its Affiliates; or
+15
+D.induce or attempt to induce any customer, client, supplier, service provider, researcher, scientist or other business relation of the Company or its Affiliates to cease doing business with the Company or its Affiliates, or in any way interfere with the relationship between the Company and any such Person.
+(c)Scope of Prohibited Activities.
+(d)Non-Disparagement.
+6.Full Settlement.
+7.Successors.
+8.Effect of Agreement on Other Benefits.
+9.Miscellaneous.
+If to the Executive:
+If to the Company:
+Reata Pharmaceuticals, Inc.
+19
+(i)The parties hereto agree that, in the event of any conflict or inconsistency between this Agreement and the terms of any equity award agreement, this Agreement shall govern and shall supersede the terms of the equity award agreement.
+(m)       The Executive understands, and the Company agrees, that nothing contained in this Agreement, or any other agreement between the Executive and the Company, limits the Executive’s ability to file a charge or complaint with the Equal Employment Opportunity Commission, the National Labor Relations Board, the Occupational Safety and Health Administration, the Securities and Exchange Commission or any other federal, state or local governmental agency or commission (“Government Agencies”).
+20
+EXECUTIVE
+Chief Executive Officer
+1
+11.Consideration.
+2
+12.Release of Claims.
+(a)You — on behalf of yourself and your heirs, executors, administrators, legal representatives, successors, beneficiaries, and assigns — unconditionally release and forever discharge the Released Parties from, and waive, any and all Claims that you have or may have against any of the Released Parties arising from your employment with the Company, the termination thereof, and any other acts or omissions occurring on or before the date you sign this Release.
+13.Acknowledgment.
+3
+(c)You have been given at least [___________] days to review this Release and you understand that if you do not accept this Release by returning an executed copy to the Company on or before ___________, ___, this offer will expire.
+(d)You have seven (7) days after signing this Release to revoke it.
+16.Severability.
+18.Other Agreements.

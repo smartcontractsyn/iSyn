@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "SellerName": [
+        "MDC Partners Inc."
+    ],
+    "BuyerName": [
+        "Stagwell Agency Holdings LLC"
+    ],
+    "EffectiveTime": [
+        "March 14, 2019"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Stagwell Agency Holdings LLC"
+            ],
+            "To": [
+                "MDC Partners Inc."
+            ],
+            "PurchasePrice": "50000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

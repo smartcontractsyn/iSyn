@@ -1,0 +1,42 @@
+ContractCategory: PurchaseAgreement;
+
+Entity: {
+    SellerNames: ['RANGE OPERATING NEW MEXICO'];
+    BuyerNames: [];
+};
+
+EffectiveTime: 26th  February 2013,;
+CloseTime: "";
+ExpiryTime: June 1, 2013;;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: true;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: [];
+         To: ['RANGE OPERATING NEW MEXICO'];
+         Price: {
+             Amount: 275000000,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: true;
+    OtherConstraint: true;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};

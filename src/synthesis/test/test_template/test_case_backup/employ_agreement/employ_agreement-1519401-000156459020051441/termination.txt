@@ -1,0 +1,145 @@
+(a)“2015 Plan”: as defined in Section 2.4(c).
+(c)“Agreement”: as defined in the introductory paragraph.
+(e)“Annual Incentive Plan”: the Annual Incentive Plan of the Corporation or any successor plan thereto, as amended and/or restated.
+(f)“Average Bonus”: the average of the Annual Bonus paid to Executive in his or her capacity as General Counsel for each of the three fiscal years preceding the fiscal year in which Executive’s Termination Date occurs (or the average of such lesser number of full fiscal year periods that Executive is employed as General Counsel if less than three full fiscal years prior to the Termination Date); provided, however, that if Executive’s employment terminates before December 31, 2021, then the Average Bonus shall equal the Target Bonus.
+(h)“Business”: the business of providing installment, automobile purchase, and retail purchase loans and related payment protection insurance to consumers, and “Business Services” means the services related to the Business.
+(i)“Cause”: (i) the willful or grossly negligent material failure by Executive to perform his or her duties hereunder (other than arising due to Executive’s Disability); (ii) the conviction of Executive, or the entering into a plea bargain or plea of nolo contendere by Executive, of any felony, or of a misdemeanor involving the unlawful theft or conversion of substantial monies or other property or any fraud or embezzlement offense; (iii) personally or on behalf of another Person, willfully receiving a benefit relating to the Corporation or its Subsidiaries or its funds, properties, opportunities, or other assets in violation of applicable law, or constituting fraud, embezzlement, or misappropriation; (iv) the willful or grossly negligent failure by Executive to comply substantially with any lawful written policy of the Corporation or its Subsidiaries that materially interferes with his or her ability to discharge his or her duties, responsibilities, or obligations under this Agreement; (v) the knowing misstatement by Executive of the financial records of the Corporation or its Subsidiaries or complicit actions in respect thereof; (vi) the material breach by Executive of any of the terms of this Agreement; (vii) Executive’s habitual drunkenness or substance abuse that interferes with his or her ability to discharge his or her duties, responsibilities, or obligations under this Agreement; (viii) the knowing failure to disclose material financial or other information to the Board; or (ix) Executive’s engagement in conduct that results in Executive’s obligation to reimburse the Corporation for the amount of any bonus, incentive-based compensation, equity-based compensation, profits realized from the sale of the Corporation’s securities, or other compensation pursuant to application of the provisions of Section 304 of the Sarbanes-Oxley Act of 2002, Section 954 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, or other applicable laws, rules, or regulations, but, in each case for clauses (i) through (ix) herein, only if (1) Executive has been provided with written notice of any assertion that there is a basis for termination for Cause, which notice shall specify in reasonable detail specific facts regarding any such assertion, and in the case of non-willful behavior under clauses (i), (iii), (iv), or (vi), Executive has failed to cure within 30 days of written notice to Executive, (2) such written notice is provided to Executive a reasonable time before the
+2
+Board meets to consider any possible termination for Cause, (3) at or prior to the meeting of the Board to consider the matters described in the written notice, an opportunity is provided to Executive and his or her counsel to be heard before the Board with respect to the matters described in the written notice, (4) any resolution or other Board action held with respect to any deliberation regarding or decision to terminate Executive for Cause is duly adopted by a vote of a majority of the entire Board of the Corporation at a meeting of the Board called and held, and (5) Executive is promptly provided with a copy of the resolution or other corporate action taken with respect to such termination.
+Notwithstanding the provisions of this Section 1.1(i), “Cause” will not be deemed to have occurred solely as a result of Executive’s failure to follow any Corporation policy or any Corporation instruction to Executive that would permit Executive to terminate this Agreement under Section 2.7(a) because such policy or instruction constitutes Good Reason.
+(j)“Change of Control”: except as may be otherwise required, if at all, under Code Section 409A, the occurrence of any of the following:
+(i)any entity or person shall have become the beneficial owner of, or shall have obtained voting control over, more than fifty percent (50%) of the total voting power of the Corporation’s then outstanding voting stock;
+(ii)the consummation of (A) a merger, consolidation, recapitalization, or reorganization of the Corporation (or similar transaction involving the Corporation), in which the holders of the Corporation’s common stock immediately prior to the transaction have voting control over less than fifty percent (50%) of the voting securities of the surviving corporation immediately after such transaction, or (B) the sale or disposition of all or substantially all of the assets of the Corporation; or
+(iii)a change in a majority of the Board within a 12-month period unless the nomination for election by the Corporation’s stockholders or the appointment of each new director was approved by the vote of two-thirds of the members of the Board (or a committee of the Board, if nominations are approved by a Board committee rather than the Board) then still in office who were in office at the beginning of the 12-month period.
+3
+(k)“COBRA”: as defined in Section 2.7(f).
+(r)“Disability”: a physical or mental impairment that prevents Executive from performing one or more of the essential functions of his or her job hereunder, whether with or without reasonable accommodation, (i) for at least 90 consecutive calendar days or for shorter periods of time aggregating 90 or more calendar days in any 12-month period, or (ii) where a licensed physician mutually selected by Executive and the Corporation (with the Corporation responsible for any expenses related thereto) determines that the timeline for Executive’s return to full duty is indeterminable, is indefinite, or is likely to exceed a 90-day period; provided, however, that if Executive and the Corporation cannot agree upon a mutually acceptable licensed physician, then the determination of whether a “Disability” has occurred shall be made by the majority vote of a panel of three licensed physicians, with one physician selected by Executive, one physician selected by the Corporation, and the third physician mutually agreed upon by the two physicians selected by Executive and the Corporation respectively (with each party responsible for his, her, or its related expenses and the parties being equally responsible for the expenses related to the services of the third physician).
+(s)“Effective Date”: as defined in the introductory paragraph.
+4
+(t)“Employment Period”: as defined in Section 2.1.
+(w)“Exempt Person”: as defined in Section 3.2(g).
+(x)“Good Reason”: the termination of Executive’s employment by Executive which is due to (i) (A) a material diminution of Executive’s responsibilities, position (as General Counsel and Secretary of the Corporation, its successor, or ultimate parent entity), office, title, reporting relationships, working conditions, authority, or duties, or (B) the assignment to Executive of titles, authority, duties, or responsibilities that are materially inconsistent with this Agreement and are a material diminution of his or her title, position, authority, duties, or responsibilities as General Counsel and Secretary of the Corporation; (ii) a material adverse change in the terms or status (including, but not limited to, a reduction of the Employment Period) of this Agreement; (iii) a material reduction in Executive’s compensation package provided herein, including Salary, Target Bonus, bonus opportunities, or equity award opportunities (other than a reduction in bonus opportunities or equity award opportunities that applies to senior executive officers of the Corporation generally or that is due, in the discretion of the Board or the Compensation Committee, to the failure to attain performance or other business objectives, and subject in all cases to the discretion of the Compensation Committee and other terms of Section 2.4 herein); or (iv) an actual relocation of the Corporation’s principal office to a location outside of a 50-mile radius from the current location of the Corporation’s principal office at 979 Batesville Road, Suite B, Greer, South Carolina 29651, and in each case of clauses (i) through (iv) herein, without the written consent of Executive.
+(z)“Loan Source”: as defined in Section 3.4(a).
+(cc)[intentionally omitted]
+5
+(dd)“Salary”: as defined in Section 2.4(a).
+(ee)“Severance Period”: as defined in Section 2.7(a)(ii).
+(ff)“Stock Plan”: as defined in Section 2.4(c).
+(hh)“Target Bonus”: as defined in Section 2.4(b).
+(ii)“Termination Date”: as defined in Section 2.1.
+II.
+TERMS OF EMPLOYMENT
+2.1Employment Period.
+Executive’s employment with the Corporation commenced on August 18, 2014.
+The term of the Agreement shall commence on the Effective Date, and the Agreement will terminate on the third anniversary of the Effective Date, unless sooner terminated in accordance with Section 2.7.
+The term of this Agreement as determined under the preceding sentence is referred to herein as the “Employment Period,” and the date on which Executive’s employment terminates is referred to herein as the “Termination Date.”
+2.2Duties During Employment Period.
+6
+2.3Activities During Employment Period.
+7
+Executive shall be subject to the terms and conditions of the plans and programs, including, without limitation, the Corporation’s right to amend and/or terminate the plans and programs at any time and without advance notice to the participants.
+(b)Vacation; Leave.
+9
+2.7Termination.
+(a)Termination by the Corporation without Cause or by Executive for Good Reason.
+(i)Notice of Termination.
+The Corporation may terminate Executive’s employment hereunder without Cause at any time, upon 30 calendar days’ written notice to Executive.
+Executive may terminate Executive’s employment hereunder for Good Reason upon 30 calendar days’ written notice to the Corporation, subject to the additional notice provisions of Section 1.1(x) herein.
+10
+If Executive is terminated by the Corporation without Cause or if Executive terminates his or her employment for Good Reason, the Corporation will pay to Executive (A) accrued but unpaid Salary through the Termination Date, (B) an amount equal to the Executive’s Salary in effect on the Termination Date, to be paid over a period of twelve (12) months from and after the Termination Date (such 12-month period, the “Severance Period”), (C) an amount equal to the Executive’s Average Bonus as determined as of the Termination Date, to be paid over the Severance Period, (D) a pro-rata portion of the Annual Bonus for the year in which Executive’s Termination Date occurs, to the extent earned (such amount to be calculated by determining the amount of the Annual Bonus earned as of the end of the year in which the Termination Date occurs and pro-rating such amount by the portion of such year Executive was employed by the Corporation), plus, if Executive’s termination occurs after year-end but before the Annual Bonus for the preceding year is paid, the Annual Bonus for the preceding year, to the extent earned, and (E) COBRA premiums as described in Section 2.7(f).
+(iii)Change of Control Adjustment.
+If Executive is terminated by the Corporation without Cause or if Executive terminates his or her employment for Good Reason, and such termination occurs within six (6) months before or one (1) year after the effective date of a Change of Control, the amounts described in Section 2.7(a)(ii)(B)–(C) shall be increased by a factor of one hundred percent (100%) (for a total of 200% of Salary and Average Bonus).
+11
+(vi)Liquidated Damages.
+(vii)Compliance with Article III.
+The Corporation’s obligation to make any payments under this Section 2.7(a), except for accrued but unpaid Salary through the Termination Date, any Annual Bonus that was previously earned but unpaid as of the Termination Date, and reimbursement of unreimbursed expenses, is contingent upon Executive’s compliance with Article III herein, and Executive and the Corporation agree that the Corporation shall have the right, in addition to any other rights of the Corporation, to terminate or suspend such payments in the event of Executive’s breach of Article III herein.
+(viii)Termination of Agreement.
+Upon termination of Executive’s employment pursuant to this Section 2.7(a), except for the payments required by this Section 2.7(a) or as required by applicable law, the Corporation will have no additional obligations to Executive hereunder or otherwise and, except as otherwise provided in this Agreement (including but not limited to Executive’s obligations under Article III herein), this Agreement will terminate.
+(b)Termination by the Corporation for Cause.
+The Corporation will have the right to terminate Executive’s employment hereunder for Cause upon written notice to Executive and Executive’s failure to cure during any applicable cure period as set forth in this Agreement.
+If Executive’s employment is terminated for Cause, the Corporation will pay to Executive (i) accrued but unpaid Salary through the Termination Date (payable 45 calendar days after the Termination Date), and (ii) all unreimbursed expenses incurred by Executive prior to the Termination Date for which Executive is entitled to reimbursement pursuant to and in accordance with Section 2.5(c).
+Upon termination of Executive’s employment pursuant to this Section 2.7(b), except for the payments required by this Section 2.7(b) or as required by applicable law, the Corporation will have no additional obligations to Executive hereunder or otherwise and, except as otherwise provided in this Agreement (including but not limited to Executive’s obligations under Article III herein), this Agreement will terminate as of the Termination Date.
+(c)Voluntary Termination by Executive.
+If Executive voluntarily terminates his or her employment, the Corporation will pay to Executive (i) accrued but unpaid Salary through the Termination Date (payable as and at such times as Executive would have otherwise received his or her Salary had he or she remained an employee of the Corporation (that is, in accordance with Corporation payroll practices)), (ii) if Executive’s termination occurs after year-end but before the Annual Bonus for the preceding year is paid, the Annual Bonus for the preceding year, to the extent earned (payable as and at such time as Executive would have otherwise received his or her Annual Bonus had he or she remained
+12
+an employee of the Corporation), and (iii) all expenses incurred by Executive prior to the Termination Date for which Executive is entitled to reimbursement pursuant to and in accordance with Section 2.5(c).
+Upon termination of Executive’s employment pursuant to this Section 2.7(c), except for the payments required by this Section 2.7(c) or as required by applicable law, the Corporation will have no additional obligations to Executive hereunder or otherwise and, except as otherwise provided in this Agreement (including but not limited to Executive’s obligations under Article III herein), this Agreement will terminate.
+(d)Termination by Death of Executive.
+This Agreement in all other respects will terminate upon the death of Executive, and all rights of Executive and his or her heirs, legatees, descendants, testamentary executors, and testamentary administrators regarding compensation and other benefits under this Agreement shall cease.
+(e)Termination for Disability.
+The parties, therefore, agree to the following termination provisions to avoid grievous economic injury and/or other undue hardship to the Corporation in the event of the Disability of Executive.
+(i)Notice of Termination.
+Subject to a municipal, state, or federal law expressly providing to the contrary, the Corporation will have the right to terminate Executive’s employment hereunder at any time upon the Disability of Executive during the Employment Period.
+If Executive’s employment is terminated because of Executive’s Disability, the Corporation will pay to Executive (A) accrued but unpaid Salary through the Termination Date, (B) an amount equal to the Executive’s Salary in effect on the Termination Date, to be paid over the Severance Period, (C) an amount equal to the Executive’s Average Bonus as
+13
+determined as of the Termination Date, to be paid over the Severance Period, (D) a pro-rata portion of the Annual Bonus for the year in which Executive’s termination due to Disability occurs, to the extent earned (such amount to be calculated by determining the amount of the Annual Bonus earned as of the end of the year in which Executive’s termination due to Disability occurs and pro-rating such amount by the portion of such year Executive was employed by the Corporation), plus, if Executive’s termination due to Disability occurs after year-end but before the Annual Bonus for the preceding year is paid, the Annual Bonus for the preceding year, to the extent earned, and (E) COBRA premiums as described in Section 2.7(f).
+(vi)Liquidated Damages.
+(vii)Compliance with Article III.
+The Corporation’s obligation to make any payments under this Section 2.7(e), except for accrued but unpaid Salary through the Termination Date, any Annual Bonus that was previously earned but unpaid as of the Termination Date, and reimbursement of unreimbursed expenses, is contingent upon Executive’s compliance with Article III herein, and Executive and the Corporation agree that the Corporation shall have the right, in addition to any other rights of the Corporation, to terminate or suspend such payments in the event of Executive’s breach of Article III herein.
+(viii)Termination of Agreement.
+Upon termination of Executive’s employment pursuant to this Section 2.7(e), except for the payments required by this Section 2.7(e) or as required by applicable law, the Corporation will have no additional obligations to Executive hereunder or otherwise and, except as otherwise provided in this Agreement (including but not limited to Executive’s obligations under Article III herein), this Agreement will terminate.
+During the Severance Period and provided that Executive timely and properly elects health continuation coverage under the Consolidated Omnibus Budget Reconciliation Act of 1985 (“COBRA”), the Corporation shall reimburse Executive for the monthly COBRA premium paid by Executive for himself or herself and his or her dependents for continuation coverage under the Corporation’s group medical plan; provided, however, that if at any time during the Severance Period Executive becomes eligible to receive health insurance from a subsequent employer or is no longer eligible to receive COBRA continuation coverage under the Corporation’s group medical plan, the Corporation’s obligation to continue to reimburse Executive for his or her COBRA premium payments shall terminate immediately.
+Notwithstanding anything to the contrary herein and subject to the terms of any benefit plan or program of the Corporation, no termination of Executive’s employment with the Corporation shall in any manner whatsoever result in any termination, curtailment, reduction, or cessation of any vested benefits or other entitlements to which Executive is entitled under the terms of any such benefit plan or program of the Corporation in respect of which Executive is a participant as of the Termination Date.
+In the event of any termination of Executive’s employment under this Section 2.7, Executive shall be under no obligation to seek other employment and there shall be no offset against amounts due Executive under this Agreement on account of any compensation attributable to any subsequent employment that he or she may obtain, except as specifically provided in this Section 2.7.
+15
+(h)Survival.
+In the event that the Corporation becomes obligated during the Employment Period to make post-termination payments to Executive pursuant to this Section 2.7, the Corporation’s obligation to continue to make such payments in accordance with this Section 2.7 shall survive the termination of the Agreement and the Employment Period, subject to the other provisions of this Agreement (including but not limited to Executive’s compliance with Article III).
+For the avoidance of doubt, Executive will not be entitled to any payment pursuant to this Section 2.7 if Executive’s termination of employment occurs after the end of the Employment Period.
+III.
+(a)If at any time during the Employment Period or prior thereto at any time that Executive was an employee, agent, director, or officer of or consultant to the Corporation or its Subsidiaries, Executive, whether alone or with any other Person, makes, discovers, produces, conceives, or first reduces to practice any invention, process, development, design, or improvement that relates to, affects, or, in the opinion of the Board, is capable of being used or adapted for use in or in connection with the Business or any product, process, or intellectual property right of the Corporation or its Subsidiaries, (i) Executive acknowledges and agrees that such invention, process, development, design, or improvement (collectively, “Corporation IP”) will be the sole property of the Corporation or such Subsidiaries, as appropriate, and is hereby irrevocably assigned by Executive to the Corporation or such Subsidiaries, as appropriate, and (ii) Executive will immediately disclose in confidence all Corporation IP to the Corporation in writing.
+(b)Executive will, if and when reasonably required to do so by the Corporation (whether during the Employment Period or thereafter), at the Corporation’s expense and, if after the expiration of the Employment Period, subject to Executive’s availability and reimbursement by the Corporation of Executive’s reasonable out-of-pocket expenses and payment to Executive of a reasonable per diem to compensate Executive for time spent in connection therewith: (i) apply, or join with the Corporation or a Subsidiary thereof, as appropriate, in applying, for patents or other protection in any jurisdiction in the world for any Corporation IP; (ii) execute or procure to be executed all instruments, and do or procure to be done all things, that are necessary or, in the opinion of the Corporation, advisable for vesting such patents or other protection in the name of the Corporation or a Subsidiary thereof or any nominee thereof, or subsequently for renewing and maintaining the same in the name of the Corporation, a Subsidiary thereof, or its nominees; and (iii) assist in
+3.3Covenant Not to Compete.
+19
+(a)Executive agrees that during his or her employment with the Corporation, and for a period of one (1) year immediately following the termination thereof, whether voluntary or involuntary, he or she shall not, directly or indirectly, on behalf of himself or herself or any other person or entity, solicit the provision of, or otherwise provide, Business Services that are competitive with those provided by or to the Corporation or its Subsidiaries, through any Loan Source.
+(b)Executive agrees that during his or her employment with the Corporation, and for a period of one (1) year immediately following the termination thereof, whether voluntary or involuntary, he or she shall not, directly or indirectly, on behalf of himself or herself or any other person or entity, solicit any Loan Source for the purpose of providing or receiving Business Services that are competitive with those provided by or to the Corporation or its Subsidiaries.
+3.6Reasonableness of Restrictions.
+20
+3.7Non-Disparagement.
+3.9Breach of Restrictive Covenants.
+21
+The provisions contained in this Article III and in Section 4.4 and Section 4.7 will survive termination of this Agreement regardless of whether such termination is initiated by the Corporation or Executive.
+In the event of the termination of his or her employment with the Corporation and subsequent employment with, or work for, another entity or person, Executive agrees to notify the Corporation of his or her new employment or work, including the name and address of the new employer or entity or person he or she intends to work for, before commencing work for the new employer or other entity or person.
+22
+IV.
+(a)
+(b)
+If to Executive, to:
+23
+Notwithstanding anything contained in this Agreement to the contrary, this Section 4.4 shall survive the termination of the Agreement and the Employment Period.
+24
+Notwithstanding anything contained in this Agreement to the contrary, this Section 4.8 shall survive the termination of the Agreement and the Employment Period.
+4.10Counterparts.
+4.12Severability.
+4.14Entire Agreement.
+25
+Without limiting the foregoing, the Parties hereby agree that, effective as of the Effective Date, the Offer Letter dated May 24, 2017 shall be terminated and of no further force or effect, and that Executive shall have no rights to compensation or benefits thereunder.
+For the purposes herein, the phrase “termination of employment” or similar phrases will be interpreted in accordance with the term “separation from service” as defined under Code Section 409A if and to the extent required under Code Section 409A.
+26
+409A.
+4.17Compliance with Recoupment, Ownership, and Other Policies or Agreements.
+27
+Robert W. Beck
+EXECUTIVE
+/s/ Catherine R. Atwood
+Catherine R. Atwood
+BACKGROUND
+(i)All Claims that Executive has or may have now, whether Executive now knows about or suspects such claims;
+(ii)All Claims for attorney’s fees;
+(iv)All rights and Claims of any other forms of discrimination and retaliation of any kind or nature whatsoever under federal, state, or local law, including but not limited to Claims of discrimination and retaliation under Title VII of the Civil Rights Act of 1964, and the Americans With Disabilities Act (“ADA”);
+(v)All Claims, whether in contract or tort, arising out of Executive’s employment and Executive’s termination of employment with the Corporation, including but not limited to any alleged breach of contract, breach of implied contract, wrongful or illegal termination, defamation, invasion of privacy, fraud, promissory estoppel, and infliction of emotional distress;
+(vi)All Claims for any other compensation, including but not limited to front pay, back pay, bonus, fringe benefits, vacation pay, other paid time off, severance pay, other severance benefits, incentive opportunity pay, other grants of incentive compensation, and grants of stock, stock options, and other equity awards or equity-based awards;
+(vii)All Claims under the Employee Retirement Security Act of 1974, as amended (“ERISA”), subject to Section 4(c) herein;
+(viii)All Claims for any other alleged unlawful employment practices arising out of or relating to Executive’s employment or termination of employment with the Corporation;
+(ix)All Claims for emotional distress, pain and suffering, compensatory damages, punitive damages, and liquidated damages; and
+(x)All Claims for reinstatement or re-employment.
+A-2
+A-3
+(b)Executive further understands that Executive has 21 days to consider Executive’s release of rights and claims of age discrimination under the ADEA and OWBPA, beginning the date on which Executive receives this Agreement.
+6.Non-Admission.
+If this Agreement is not
+A-4
+12.Agreement Freely Entered Into.
+Catherine R. Atwood
+Dated:
+Dated:
+A-5

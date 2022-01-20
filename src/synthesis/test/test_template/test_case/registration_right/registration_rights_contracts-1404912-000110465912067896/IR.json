@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "CHINA CORD BLOOD CORPORATION"
+    ],
+    "BuyerName": [
+        "Codan Trust Company"
+    ],
+    "EffectiveTime": [
+        "September 20, 2012"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "December 31"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Codan Trust Company"
+            ],
+            "To": [
+                "CHINA CORD BLOOD CORPORATION"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 65000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

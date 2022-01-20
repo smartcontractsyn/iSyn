@@ -1,0 +1,36 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "AMC ENTERTAINMENT INC"
+    ],
+    "BuyerName": [
+        "CITICORP"
+    ],
+    "EffectiveTime": [
+        "January 26, 2006"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "September 30, 2012"
+    ],
+    "Payments": [
+        {
+            "From": ["CITICORP"],
+            "To": ["AMC ENTERTAINMENT INC"],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime-3",
+                "disabled": false
+            },
+            "PurchasePrice": 5000000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

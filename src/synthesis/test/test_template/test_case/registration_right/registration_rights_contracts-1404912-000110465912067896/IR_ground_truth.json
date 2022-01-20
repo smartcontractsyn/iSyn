@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "RegistrationRightAgreement",
+    "SellerName": [
+        "CHINA CORD BLOOD CORPORATION"
+    ],
+    "BuyerName": [
+        "KKR CHINA HEALTHCARE INVESTMENT LIMITED"
+    ],
+    "EffectiveTime": [
+        "September 20, 2012"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "KKR CHINA HEALTHCARE INVESTMENT LIMITED"
+            ],
+            "To": [
+                "CHINA CORD BLOOD CORPORATION"
+            ],
+            "PurchasePrice": "65000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

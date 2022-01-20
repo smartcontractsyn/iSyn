@@ -1,0 +1,39 @@
+{
+    "BuyerName": [
+        "INTELLIGENT LIVING INC."
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "ContractCategory": "SecurityAgreement",
+    "EffectiveTime": [
+        "April 25, 2014,"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "INTELLIGENT LIVING INC."
+            ],
+            "PurchasePrice": "300000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "To": [
+                "INTELLIGENT LIVING INC."
+            ],
+            "Transfer": false
+        }
+    ],
+    "SellerName": [
+        "INTELLIGENT LIVING INC."
+    ],
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    },
+    "Transfers": true
+}

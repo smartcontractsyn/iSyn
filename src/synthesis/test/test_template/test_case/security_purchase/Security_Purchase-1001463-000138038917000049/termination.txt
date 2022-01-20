@@ -1,0 +1,171 @@
+1.
+a.
+(iv) [Reserved]
+(v)
+1
+2
+pertaining to a material amount of the Company’s or any Subsidiary’s products or services, (iii) the loss of any material insurance coverage (including, in any case, comprehensive general liability coverage, products liability coverage or directors and officers coverage, in each case in effect at the time of execution and delivery of this Agreement, except with respect to any loss due to government action relating to the Company’s operations in the cannabis industry), (iv) an action by a regulatory agency or governmental body affecting the Common Stock (including, without limitation, (1) the commencement of any regulatory investigation of which the Company is aware, the suspension of trading of the Common Stock by the Financial Industry Regulation Authority (“FINRA”), the SEC, the OTC Bulletin Board (“OTCBB”) or the OTC Markets Group, Inc., the failure of the Common Stock to be DTC eligible or the placing of the Common Stock on the DTC “chill list” or (2) the engaging in any market manipulation or other unlawful or improper trading or other activity by any Affiliate), (v) the Company’s independent registered accountants shall resign under circumstances where a disagreement exists between the Company and its independent registered accountants, (vi) the Company shall fail to timely file any disclosure document as required by applicable federal or state securities laws and regulations or by the rules and regulations of any exchange, trading market or quotation system to which the Company or the Common Stock is subject, or (vii) the Chief Executive Officer of the Company or any other key full-time officer or director of the Company, shall, for any reason (including, without limitation, termination, resignation, retirement, death or disability) cease to act on behalf of the Company in the same role and to the same extent as his or her involvement as of the date of execution and delivery of this Agreement.
+(x)  “Second Closing Date” shall have the meaning ascribed to such term in Section 6(b).
+(xi)
+3
+(xiii) “Signing Closing Date” shall have the meaning ascribed to such term in Section 6(a).
+(xvii) “Third Closing Date” shall have the meaning ascribed to such term in Section 6(c).
+a.
+(ii)
+4
+b.
+[Reserved]
+(i) [Reserved]
+(ii) [Reserved]
+1.
+a.
+b.
+c. Subsequent Offers and Sales.
+5
+h. Organization; Authorization.
+i. Residency.
+2.
+a.
+b.
+6
+d. Authorization.
+e. Non-contravention.
+7
+deed of trust, or other material agreement or instrument to which the Company is a party or by which it or any of its properties or assets are bound, including any listing agreement for the Common Stock, except as herein set forth or an event which results in the creation of any lien, charge or encumbrance upon any assets of the Company or the triggering of any anti-dilution rights, rights of first refusal or first offer on the part of holders of the Company’s securities, (iii) to its knowledge, any existing applicable law, rule, or regulation or any applicable decree, judgment, or order of any court, United States federal or state regulatory body, administrative agency, or other governmental body having jurisdiction over the Company or any of its properties or assets, or (iv) the Company’s listing agreement for its Common Stock (if applicable).
+f. Approvals.
+h. Absence of Certain Changes.
+i.
+j.
+k. Absence of Liens.
+l. Absence of Events of Default.
+n.
+9
+o. Dilution.
+r. Hazardous Materials.
+10
+ v. DWAC Operational; DRS.
+3.
+a.
+11
+b.
+12
+13
+f. Use of Proceeds.
+i.
+k. Notice of Material Adverse Effect.
+15
+m. Nature of Transaction; Savings Clause.
+4.
+a.
+The Company shall not terminate the Transfer Agent or otherwise change Transfer Agents without at least fifteen (15) days prior written notice to the Buyer and with the Buyer’s prior written consent to such change, which the Buyer may grant or withhold in its sole discretion.
+b.
+Conversion.
+a.
+b.
+c.
+§101 et seq.
+(the “Bankruptcy Code”).
+§362.
+1.
+a.
+b.
+d.
+19
+2.
+a.
+b.
+3.
+a.
+The execution and delivery of this Agreement by the Company;
+b.
+Debenture(s).
+c. Section 4(2) Exemption.
+d.  DWAC Status.
+20
+or would likely occur with the passage of time and (ii) no material adverse change in the financial condition or business operations of the Company shall have occurred;
+h. [Reserved];
+i.
+n. Adverse Changes.
+4.
+a.
+21
+b.
+c. Waivers.
+e. Construction.
+g. Counterparts.
+i. Enforceability.
+j.
+k. Entire Agreement.
+l.
+22
+5.
+NOTICES.
+c. the first (1st) business day after deposit with a recognized courier service (e.g.
+6.
+7.
+a.
+b.
+0
+1
+SCHEDULE 3(b)
+SCHEDULE 3(c)
+3
+CONVERTIBLE DEBENTURE DUE ____________, 2019
+1.
+5
+2.
+a.
+b.So long as no Event of Default (as defined in Section 10) shall have occurred and be continuing (whether such Event of Default has been declared by the Holder) (unless the Holder consents to such redemption notwithstanding such Event of Default, as described in clause (v), below), the Company may at its option call for redemption all or part of the Debentures, with the exception of any portion thereof which is the subject of a previously-delivered Notice of Conversion, prior to the Maturity Date, as follows:
+(i)The Debentures called for redemption shall be redeemable by the Company, upon not more than two (2) days written notice, for an amount (the “Redemption Price”) equal to: (i) if the Redemption Date (as defined below) is ninety (90) days or less from the date of issuance of this Debenture, One Hundred Five percent (105%) of the sum of the Principal Amount so redeemed plus accrued interest, if any; (ii) if the Redemption Date is greater than or equal to one ninety-one (91) days from the date of issuance of this Debenture and less than or equal to one hundred twenty (120) days from the date of issuance of this Debenture, One Hundred Fifteen percent (115%) of the sum of the Principal Amount so redeemed plus accrued interest, if any; (iii) if the Redemption Date is greater than or equal to one hundred twenty one (121) days from the date of issuance of this Debenture and less than or equal to one hundred fifty (150) days from the date of issuance of this Debenture, One Hundred Twenty percent (120%) of the sum of the Principal Amount so redeemed plus accrued interest, if any; (iv) if the Redemption Date is greater than or equal to one hundred fifty one (151) days from the date of issuance of this Debenture and
+7
+less than or equal to one hundred eighty (180) days from the date of issuance of this Debenture, One Hundred Thirty percent (130%) of the sum of the Principal Amount so redeemed plus accrued interest, if any; and (v) if either (1) the Debentures are in default but the Holder consents to the redemption notwithstanding such default or (2) the Redemption Date is greater than or equal to one hundred eighty one (181) days from the date of issuance of this Debenture, One Hundred Forty percent (140%) of the sum of the Principal Amount so redeemed plus accrued interest, if any.
+(ii)If fewer than all outstanding Debentures are to be redeemed and are held by different investors, then all Debentures shall be partially redeemed on a pro rata basis.
+(iii)[Reserved]
+(v)To effect a redemption the Company shall provide a written notice to the Holder(s) not more than two (2) days prior to the Redemption Date (the “Redemption Notice”), setting forth the following:
+1.the Redemption Date;
+6.in the case of a partial redemption, a statement advising the Holders that after the Redemption Date a substitute Debenture will be issued by the Company after deduction the portion thereof called for redemption, at no cost to the Holder, if the Holder so requests.
+1.
+2.
+3.
+4.
+9
+5.
+6.
+7.
+8.
+a.The Company fails in the payment of principal or interest (to the extent that interest is imposed under this Section 10) on this Debenture as required to be paid in cash hereunder, and payment shall not have been made for a period of five (5) business days following the payment due date (as to which no further cure period shall apply); or
+a.
+misstatement of a material fact or the omission of a material fact) in any material respect at the time made (as to which no cure period shall apply); or
+b.
+11
+substantial portion of the properties or assets of the Company and shall not be dismissed within sixty (60) days thereafter (as to which no cure period shall apply); or
+h. Any money judgment, writ or warrant of attachment, or similar process (including an arbitral determination), in excess of Fifty Thousand Dollars ($50,000) in the aggregate shall be entered or filed against the Company or any of its properties or other assets (as to which no cure period shall apply); or
+i.
+j.
+k. The issuance of an order, ruling, finding or similar adverse determination the SEC, the Secretary of State of the State of Nevada or Florida, the National Association of Securities Dealers, Inc. or any other securities regulatory body (whether in the United States, Canada or elsewhere) having proper jurisdiction that the Company and/or any of its past or present directors or officers have committed a material violation of applicable securities laws or regulations (as to which no cure period shall apply); or
+l. The Company shall have its Common Stock suspended or delisted from a national securities exchange or an electronic quotation service such as the OTCP, OTCQB, or OTCQX for a period in excess of five (5) Trading Days (as to which no further cure period shall apply); or
+m. Any of the following shall occur and be continuing:  a breach or default by any party under (a) any agreement identified by the Company in its SEC filings as a material agreement or (b) any note or other form of indebtedness in favor of the Company representing indebtedness of at least Fifty Thousand Dollars ($50,000.00), irrespective of whether such breach or default was waived (as to which no cure period shall apply); or
+n. Notice of a Material Adverse Effect is provided by the Company or the determination in good faith by the Holder that a Material Adverse Effect has occurred (as to which no cure period shall apply); or
+o.
+p.
+q.
+13
+1.
+2.
+3.
+4.
+5.
+15
+EXHIBIT B
+March __, 2017
+          Re:  Irrevocable Instructions for Peak One Opportunity Fund, LP
+The Transfer Agent agrees that in the event of its resignation, then the Transfer Agent will provide at least fifteen (15) days prior written notice to the Company and the Investor.
+The Company agrees that in the event it seeks to replace the Transfer Agent, the Company shall provide at least fifteen (15) days prior written notice to the Transfer Agent and the Investor, and
+Acknowledged and Agreed:
+EXHIBIT C
+RESOLVED, that the Corporation is hereby irrevocably  authorized and instructed
+Dated: March __, 2017
+EXHIBIT D
+OFFICER'S CERTIFICATE
+EXHIBIT II
+EXHIBIT III

@@ -1,0 +1,93 @@
+SECTION TWO — AMENDMENT.
+The Tranche B Term Loan Commitment of each Tranche B Term Lender shall automatically terminate upon the making of the Tranche B Term Loans on the First Amendment Effective Date.
+Notwithstanding the foregoing, this Amendment shall not become effective unless each of the foregoing conditions is satisfied at or prior to 5:00 p.m. New York City time on Friday, February 28, 2014.
+SECTION NINE — CONTINUING EFFECT; NO OTHER WAIVERS OR AMENDMENTS.
+Dated as of December 7, 2012
+3740
+3740
+3740
+4245
+4246
+4650
+4750
+4953
+2.20
+5457
+4.15
+7276
+7479
+7882
+8590
+8590
+7.12
+7.14
+7.15
+110115
+10.10
+10.12
+10.16
+10.17
+10.18
+10.20
+10.21
+7.2(d)
+7.3(f)
+“Closing Date”:  December 7, 2012, which was the date on which the conditions precedent set forth in Section 5.1 shall have beenwere satisfied and the initial Tranche A Term Loans hereunder shall have beenwere funded, which date is December 7, 2012.
+writing that such failure is the result of such Lender’s determination that one or more conditions precedent to funding (which conditions precedent, together with the applicable default, if any, shall be specifically identified in such writing) has not been satisfied, or (ii) pay to the Administrative Agent, any Issuing Lender, any Swingline Lender or any other Lender any other amount required to be paid by it hereunder (including in respect of its participation in Letters of Credit or Swingline Loans) within two Business Days of the date when due, (b) has notified the Borrower, the Administrative Agent or any Issuing Lender or Swingline Lender in writing that it does not intend to comply with its funding obligations hereunder or has made a public statement to that effect (unless such writing or public statement relates to such Lenders’ obligation to fund a Loan hereunder and states that such position is based on such Lender’s determination that a condition precedent to funding (which condition precedent, together with the applicable default, if any, shall be specifically identified in such writing or public statement) cannot be satisfied), (c) has failed, within three Business Days after written request by the Administrative Agent or the Borrower, to confirm in writing to the Administrative Agent and the Borrower that it will comply with its prospective funding obligations hereunder (provided that such Lender shall cease to be a Defaulting Lender pursuant to this clause (c) upon receipt of such written confirmation by the Administrative Agent and the Borrower), or (d) has, or has a direct or indirect parent company that has, (i) become the subject of a proceeding under any Debtor Relief Law, or (ii) had appointed for it a receiver, custodian, conservator, trustee, administrator, assignee for the benefit of creditors or similar Person charged with reorganization or liquidation of its business or assets, including the Federal Deposit Insurance Corporation or any other state or federal regulatory authority acting in such a capacity; provided that a Lender shall not be a Defaulting Lender solely by virtue of the ownership or acquisition of any equity interest in that Lender or any direct or indirect parent company thereof by a Governmental Authority so long as such ownership interest does not result in or provide such Lender with immunity from the jurisdiction of courts within the United States or from the enforcement of judgments or writs of attachment on its assets or permit such Lender (or such Governmental Authority or instrumentality) to reject, repudiate, disavow or disaffirm any contracts or agreements made with such Lender.
+(i)            if any Interest Period would otherwise end on a day that is not a Business Day, such Interest Period shall be extended to the next succeeding Business Day unless the result of such extension would be to carry such Interest Period into another calendar month in which event such Interest Period shall end on the immediately preceding Business Day;
+(ii)           any Interest Period that would otherwise extend beyond the scheduled Revolving Termination Date or beyond the date final payment is due on the Term Loans or New Term Loans shall end on the Revolving Termination Date or such due date, as applicable; and
+(a)           No Event of Default shall be in effect immediately prior or after giving effect to the consummation of such Acquisition.
+“Removal Effective Date” as defined in Section 9.9(b).
+“Required Covenant Lenders”: at any time, the holders of more than 50% of the sum of (a) the aggregate amount of Tranche A Term Loan Commitments then in effect, and if any such Commitments have been terminated, the aggregate then unpaid principal amount of such related Tranche A Term Loans, as applicable and (b) the Revolving Commitments then in effect or, if the Revolving Commitments have been terminated, the Dollar Amount of the Revolving Extensions of Credit then outstanding; provided that in determining Required Covenant Lenders at any time, the Loans, Commitments and Revolving Extensions of Credit of each Defaulting Lender and each Affiliate Lender (other than any Debt Fund Affiliate) shall be disregarded.
+Commitments have been terminated, the aggregate then unpaid principal amount of thesuch related Tranche A Term Loans and New/or Tranche B Term Loans then outstanding, as applicable and (iib) the Revolving Commitments then in effect or, if the Revolving Commitments have been terminated, the Dollar Amount of the Revolving Extensions of Credit then outstanding; provided that in determining Required Lenders at any time, the Loans, Commitments and Revolving Extensions of Credit of each Defaulting Lender and each Affiliate Lender (other than any Debt Fund Affiliate) shall be disregarded.
+“Resignation Effective Date”:  as defined in Section 9.9(a).
+“Revolving Termination Date”:  December 7, 2017.
+March 31, 2013
+June 30, 2013
+September 30, 2013
+December 31, 2013
+March 31, 2014
+June 30, 2014
+September 30, 2014
+December 31, 2014
+March 31, 2015
+June 30, 2015
+September 30, 2015
+December 31, 2015
+March 31, 2016
+June 30, 2016
+September 30, 2016
+June 30, 2017
+September 30, 2017
+2.10                        Termination or Reduction of Revolving Commitments.
+The Borrower shall have the right, upon not less than two Business Days’ notice to the Administrative Agent, to terminate the Revolving Commitments of either Class or, from time to time, to reduce the amount of the Revolving Commitments of such Class; provided that no such termination or reduction of such Revolving Commitments of a Class shall be permitted if, after giving effect thereto and to any prepayments of the Revolving Loans of such Class made on the effective date thereof, the total Revolving Extensions of Credit of such Class would exceed the total Revolving Commitments of such Class.
+Notwithstanding anything to the contrary contained in this Agreement, the Borrower may rescind any notice of termination under this Section 2.10 if such termination would have resulted from a replacement of all of the Revolving Commitments outstanding at such time, which replacement shall not be consummated or shall otherwise be delayed.
+This covenant shall survive the termination of this Agreement and the payment of the Obligations.
+In addition, the Borrower shall be permitted to prepay or terminate, without duplication or penalty (but subject to Section 2.21), the Loans and Commitments of any Defaulting Lender.
+No Default or Event of Default has occurred and is continuing.
+such Restricted Subsidiary were to withdraw completely from all Multiemployer Plans as of the valuation date most closely preceding the date on which this representation is made; and no Multiemployer Plan is in Reorganization or Insolvent.
+extensions of credit thereunder have been terminated and all liens securing such indebtedness or other obligations thereunder have been released and/or terminated.
+6.7                               Notices.
+(iii)                               the following events, that, individually or in the aggregate, could reasonably be expected to have a Material Adverse Effect, as soon as possible and in any event within 30 days after Holdings or any Restricted Subsidiary knows thereof: (i) the occurrence of any Reportable Event with respect to any Plan, a failure to make any required contribution to a Plan, the creation of any Lien in favor of the PBGC or a Plan or any withdrawal from, or the termination, Reorganization or Insolvency of, any Multiemployer Plan, (ii) the institution of proceedings or the taking of any other action by the PBGC or Holdings or any Commonly Controlled Entity or any Multiemployer Plan with respect to the withdrawal from, or the termination, Reorganization or Insolvency of, any Plan or (iii) the occurrence of any similar events with respect to a Commonly Controlled Plan, that would reasonably be likely to result in a direct obligation of Holdings or any of its Restricted Subsidiaries to pay money;
+June 30, 2014
+September 30, 2014
+December 31, 2012 — March 31, 2014
+June 30, 2014 - March 31, 2015
+June 30, 2015
+September 30, 2015
+December 31, 2015
+March 31, 2016
+June 30, 20152016 and thereafter
+(vii)                           any Restricted Subsidiary may liquidate or dissolve if (i) Holdings determines in good faith that such liquidation or dissolution is in the best interest of Holdings and is not materially disadvantageous to the Lenders and (ii) to the extent such Restricted Subsidiary is a Loan Party, any assets or business of such Restricted Subsidiary not otherwise disposed of or transferred in accordance with Sections 7.4 or 7.5 or, in the case of any such business, discontinued, shall be transferred to, or otherwise owned or conducted by, a Loan Party after giving effect to such liquidation or dissolution.
+(xiii)                        at any time after a Qualified IPO, provided that no Default or Event of Default is continuing or would result therefrom and the Consolidated Total Leverage Ratio shall not exceed 2.00:1.00 on a pro forma basis as of the end of the most recently ended Test Period for which financial statements have been delivered pursuant to Section 6.1, both immediately prior to and immediately after giving effect to such Restricted Payment, Holdings may make unlimited Restricted Payments.
+(iii)                               Any Loan Party shall default in the observance or performance of any covenant contained in Section 6.7(a) or Section 7; orprovided that, notwithstanding this clause (c), a breach or default by any Loan Party under Section 7.1(a) or (b) will not constitute an Event of Default with respect to the Tranche B Term Loans or New Term Loans unless the Required Lenders (other than the Tranche B Term Lenders and New Term Lenders) have accelerated the Loans and terminated the commitments thereunder and demanded repayment of, or otherwise accelerated, the Indebtedness or other obligations under the each Facility (other than the Tranche B Term Facility or any New Term Facility); or
+(iv)                              Any Loan Party shall default in the observance or performance of any other agreement contained in this Agreement or any other Loan Document (other than as provided in paragraphs (a) through (c) of this Section), and such default shall continue unremedied for a period of 30 days after such Loan Party receives from the Administrative Agent or any Lender notice of the existence of such default; or
+or any Lien in favor of the PBGC or a Plan shall arise on the assets of Holdings or any of its Restricted Subsidiaries, (iii) a Reportable Event shall occur with respect to, or proceedings shall commence to have a trustee appointed, or a trustee shall be appointed, to administer or to terminate, any Single Employer Plan, which Reportable Event or commencement of proceedings or appointment of a trustee is reasonably likely to result in the termination of such Plan for purposes of Title IV of ERISA, (iv) any Single Employer Plan shall terminate for purposes of Title IV of ERISA, (v) Holdings or any of its Restricted Subsidiaries shall, or is reasonably likely to, incur any liability as a result of a withdrawal from, or the Insolvency or Reorganization of, a Multiemployer Plan or (vi) any other event or condition (other than one which could not reasonably be expected to result in a violation of any applicable law or of the qualification requirements of the Code) shall occur or exist with respect to a Plan or a Commonly Controlled Plan; and in each case in clauses (i) through (vi) above, such event or condition, together with all other such events or conditions, if any, could reasonably be expected to result in a direct obligation of Holdings or any of its Restricted Subsidiaries to pay money that could have a Material Adverse Effect; or
+(viii)                        One or more judgments or decrees shall be entered against Holdings or any of its Material Subsidiaries (which are not Unrestricted Subsidiaries) involving for Holdings and any Material Subsidiaries (which are not Unrestricted Subsidiaries) taken as a whole a liability (not paid or fully covered by insurance or effective indemnity) of $25,000,00030,000,000 or more, and all such judgments or decrees shall not have been vacated, discharged, stayed or bonded pending appeal within 30 days from the entry thereof; or
+then, and in any such event, (A) if such event is an Event of Default specified in clause (i) or (ii) of paragraph (f) above with respect to the Borrower, automatically the Commitments shall immediately terminate and the Loans hereunder (with accrued interest thereon) and all other amounts owing under this Agreement and the other Loan Documents shall immediately become due and payable, and (B) if such event is any other Event of Default, either or both of the following actions may be taken: (i) with the consent of the Required Lenders, the Administrative Agent may, or upon the request of the Required Lenders, the Administrative Agent shall, by notice to the Borrower declare the Revolving Commitments to be terminated forthwith, whereupon the Revolving Commitments shall immediately terminate; and (ii) with the consent of the Required Lenders, the Administrative Agent may, or upon the request of the Required Lenders, the Administrative Agent shall, by notice to the Borrower, declare the Loans hereunder (with accrued interest thereon) and all other amounts owing under this Agreement and the other Loan Documents to be due and payable forthwith, whereupon the same shall immediately become due and payable.
+If no such successor shall have been so appointed by the Required Lenders and shall have accepted such appointment within 30 days after the retiring Agent gives notice of its resignation (or such earlier day as shall be agreed by the Required Lenders) (the “Resignation Effective Date”), then the retiring Agent may (but shall not be obligated to), on behalf of the Lenders, appoint a successor Agent meeting the qualifications set forth above.
+Whether or not a successor has been appointed, such resignation shall become effective in accordance with such notice on the Resignation Effective Date.
+If no such successor shall have been so appointed by the Required Lenders and shall have accepted such appointment within 30 days (or such earlier day as shall be agreed by the Required Lenders) (the “Removal Effective Date”), then such removal shall nonetheless become effective in accordance with such notice on the Removal Effective Date.
+(c)                                  With effect from the Resignation Effective Date or the Removal Effective Date (as applicable) (i) the retiring or removed Agent shall be discharged from its duties and obligations hereunder and under the other Loan Documents (except that in the case of any Collateral held by the Collateral Agent on behalf of the Lenders under any of the Loan Documents, the retiring or removed Collateral Agent shall continue to hold such Collateral until such time as a successor Collateral Agent is appointed) and (ii) all payments, communications and determinations provided to be made by, to or through the Agent shall instead be made by or to each Lender directly, until such time, if any, as the Required Lenders appoint a successor agent as provided for above.
+10.15                 Confidentiality.
+10.22      Keepwell.

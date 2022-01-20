@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Giga-tronics Incorporated"
+    ],
+    "BuyerName": [
+        "Giga-tronics Incorporated"
+    ],
+    "EffectiveTime": [
+        "June 27, 2013"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "Sunday"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Giga-tronics Incorporated"
+            ],
+            "To": [
+                "Giga-tronics Incorporated"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 858171.08,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "ContractCategory":"StockPurchaseAgreement",    
+    "SellerName": [
+        "Centrue Financial Corporation"
+    ],
+    "BuyerName": [
+        "undersigned entity"
+    ],
+    "EffectiveTime": [
+        "March 30, 2015"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "undersigned entity"
+            ],
+            "To": [
+                "Centrue Financial Corporation"
+            ],
+            "PurchasePrice": "460000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": false,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

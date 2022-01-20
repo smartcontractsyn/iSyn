@@ -1,0 +1,78 @@
+SECOND AMENDMENT AND RESTATEMENT AGREEMENT
+RED FOOTBALL LIMITEDas Company
+MANCHESTER UNITED FOOTBALL CLUB LIMITEDas Borrower
+BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY as Agent
+This SECOND AMENDMENT AND RESTATEMENT AGREEMENT (the “Second Amendment and Restatement Agreement”) is made the  4 March 2021 among:(1)RED FOOTBALL LIMITED (registration number 5370076) (the “Company”);(2)MANCHESTER UNITED FOOTBALL CLUB LIMITED (registration number 00095489) (the “Borrower”); and(3)BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY (formerly known as Bank of America Merrill Lynch International Designated Activity Company) as agent of the other Finance Parties (the “Agent”).BACKGROUND:(A)By a revolving facilities agreement dated 22 May 2015 as amended pursuant to an amendment letter dated 7 October 2015 (the “Original Facility Agreement”) between, among others, the Company, the Original Lenders (as defined therein), Bank of America, N.A.
+as Arranger and Bank of America Europe Designated Activity Company as Agent, the Original Lenders agreed to make available a revolving facility to MU Finance Limited (formerly known as known as MU Finance plc), as Borrower, on the terms and conditions set out in the Original Facility Agreement.
+EXECUTION PAGESTHE COMPANYEXECUTED AS A DEED BYRED FOOTBALL LIMITED for and on behalf of itself and each Obligor
+THE BORROWEREXECUTED AS A DEED BYMANCHESTER UNITED FOOTBALL CLUB LIMITED
+/s/ Joel GlazerChairman/s/ Christopher RodiWitness
+THE AGENTFor and on behalf ofBANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY as Agent of the other Finance Parties
+/s/ Kevin DayVice President
+DATED 22 MAY 2015 AS AMENDED PURSUANT TO ANAMENDMENT LETTER DATED 7 OCTOBER 2015, AS AMENDEDAND RESTATED PURSUANT TO AN AMENDMENT ANDRESTATEMENT AGREEMENT DATED 4 APRIL 2019 AND ASFURTHER AMENDED AND RESTATED PURSUANT TO ANAMENDMENT AND RESTATEMENT AGREEMENT DATED 4 MARCH2021RED FOOTBALL LIMITED
+as the Companyarranged byBANK OF AMERICA, N.A.
+as ArrangerwithBANK OF AMERICA EUROPE DESIGNATED ACTIVITYCOMPANYNATIONAL WESTMINSTER BANK PLCandDEUTSCHE BANK AG, LONDON BRANCHas Original Lenders as of the First Amendment and RestatementEffective Date
+andBANK OF AMERICA EUROPE DESIGNATED ACTIVITYCOMPANYas Agent and Security TrusteeREVOLVING FACILITIES AGREEMENT
+99 Bishopsgate
+London EC2M 3XF  
+United Kingdom
+Tel: +44.20.7710.1000www.lw.com
+6.UTILISATION - LETTERS OF CREDIT57
+11.ILLEGALITY, VOLUNTARY PREPAYMENT AND CANCELLATION76
+23.GUARANTEE AND INDEMNITY108
+25.INFORMATION UNDERTAKINGS120
+26.FINANCIAL COVENANT128
+27.GENERAL UNDERTAKINGS133
+32.ROLE OF THE AGENT, THE ARRANGER, THE ISSUING BANK AND OTHERS161
+34.SHARING AMONG THE FINANCE PARTIES174
+46.ENFORCEMENT198
+FORM OF ASSIGNMENT AGREEMENT
+THIS AGREEMENT is dated 22 May 2015 as amended pursuant to an amendment letter dated 7 October 2015, as amended and restated pursuant to an amendment and restatement agreement dated 4 April 2019 and as further amended and restated pursuant to an amendment and restatement agreement dated 4 March 2021 and made between:(1)RED FOOTBALL LIMITED (registration number 5370076) (the “Company”);(2)MU FINANCE LIMITED (FORMERLY KNOWN AS MU FINANCE PLC) (registration number 07088267) (“MUF”) as original borrower (the “Original Borrower”);(3)THE SUBSIDIARIES of the Company listed in Part 1 of Schedule 1 (The Original Parties) as original guarantors (together with the Company, the “Original Guarantors”);(4)BANK OF AMERICA, N.A.
+as mandated lead arranger (the “Arranger”);(5)THE FINANCIAL INSTITUTIONS listed in Part 2 of Schedule 1 (The Original Parties) as lenders (the “Original Lenders”);(6)BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY (FORMERLY KNOWN AS BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY) as agent of the other Finance Parties (the “Agent”);(7)BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY (FORMERLY KNOWN AS BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY) as security trustee for the Secured Parties (the “Security Trustee”); and(8)BANK OF AMERICA EUROPE DESIGNATED ACTIVITY COMPANY (FORMERLY KNOWN AS BANK OF AMERICA MERRILL LYNCH INTERNATIONAL DESIGNATED ACTIVITY COMPANY) as Issuing Bank (as defined below).IT IS AGREED as follows:SECTION 1INTERPRETATION1.DEFINITIONS AND INTERPRETATION1.1DefinitionsIn this Agreement:“Acceleration Event” means, following the occurrence of an Event of Default which is then continuing(a)the Agent:(i)giving a notice of acceleration pursuant to, and in accordance with, paragraph (a)(ii), (a)(iv), (a)(vi) or (a)(viii) (but only if such notice relates to the enforcement of Transaction Security) of Clause 28.9 (Acceleration); or(ii)having previously placed any part of a Facility on demand pursuant to, and in accordance with, paragraph (a)(iii), (a)(v) or (a)(vii) of Clause 28.9 (Acceleration), making a demand for payment as referred to therein,
+(as original lender) and Bank of America, N.A.
+(a)the English law debenture dated  29 January 2010 between the Company, Red Football Junior Limited, MUL, MUFC and MUF and J.P. Morgan Europe Limited (the “Existing Debenture”);(b)the English law mortgage dated 29 January 2010 between MUL and J.P. Morgan Europe Limited;(c)the English law mortgage dated 29 January 2010 between MUFC and J.P. Morgan Europe Limited; and(d)the English law mortgage dated 23 April 2010 between MUL and J.P. Morgan Europe Limited.“Expiry Date” means, for a Letter of Credit, the last day of its Term.“Facility” means an Initial Facility or any Additional Facility.“Facility Office” means:(a)in respect of a Lender or an Issuing Bank, the office or offices notified by that Lender or Issuing Bank to the Agent in writing on or before the date it becomes a Lender or a Issuing Bank (or, following that date, by not less than five Business Days' written notice) as the office or offices through which it will perform its obligations under this Agreement; or(b)in respect of any other Finance Party, the office in the jurisdiction in which it is resident for tax purposes.“Fallback Interest Period” means one Month.“FATCA” means:(a)sections 1471 to 1474 of the Code or any associated regulations;(b)any treaty, law or regulation of any other jurisdiction, or relating to an intergovernmental agreement between the US and any other jurisdiction, which (in either case) facilitates the implementation of any law or regulation referred to in paragraph (a) above; or(c)any agreement pursuant to the implementation of any treaty, law or regulation referred to in paragraphs (a) or (b) above with the US Internal Revenue Service, the US government or any governmental or taxation authority in any other jurisdiction.“FATCA Application Date” means:(a)in relation to a "withholdable payment" described in section 1473(1)(A)(i) of the Code (which relates to payments of interest and certain other payments from sources within the US), 1 July 2014; or(b)in relation to a "passthru payment" described in section 1471(d)(7) of the Code not falling within paragraph (a) above, the first date from which such payment may become subject to a deduction or withholding required by FATCA.
+The above rules will only apply to the last Month of any period.“MUFC” means Manchester United Football Club limited, a company incorporated in England and Wales with registered number 00095489.“MU Interactive” means Manchester United Interactive Limited (registration number 04365059), a company incorporated in England and Wales with limited liability.“MUL” means Manchester United Limited (registration number 02570509), a company incorporated in England and Wales with limited liability.
+Borrower” means a Borrower that is a U.S. Person.“U.S.
+Obligor” means a U.S. Borrower or U.S. Guarantor.“U.S.
+SECTION 10THE FINANCE PARTIES32.ROLE OF THE AGENT, THE ARRANGER, THE ISSUING BANK AND OTHERS32.1Appointment of the Agent(a)Each of the Arranger, the Lenders and the Issuing Bank appoints the Agent to act as its agent under and in connection with the Finance Documents.
+MU Finance Limited (formerly known as MU Finance PLC)
+Manchester United Football Club LimitedEngland & Wales00095489
+MU Finance Limited (formerly known as MU Finance PLC)England & Wales07088267
+SCHEDULE 3REQUESTS AND NOTICESPart 1Utilisation Request LoansFrom:[Borrower] [Company]*To:[Agent]Dated:
+Dear SirsRed Football Limited – Revolving Facilities Agreementdated 22 May 2015 (as amended and/or restated from time to time) (the “Facilities Agreement”)1.We refer to the Facilities Agreement.
+…………………………………authorised signatory for[the Company on behalf of] [insert name of Borrower]*
+Dear SirsRed Football Limited – Revolving Facilities Agreementdated 22 May 2015 (as amended and/or restated from time to time) (the “Facilities Agreement”)
+………………………………authorised signatory for[the Company on behalf of] [insert name of relevant Borrower]*NOTES:*Amend as appropriate.
+To:[•] as Agent and [•] as Security TrusteeFrom:[The Existing Lender] (the “Existing Lender”) and [The New Lender] (the “New Lender”)Dated:
+Red Football Limited – Revolving Facilities Agreementdated 22 May 2015 (as amended and/or restated from time to time) (the “Facilities Agreement”)1.We refer to the Facilities Agreement and to the Intercreditor Agreement (as defined in the Facilities Agreement).
+SCHEDULE 6FORM OF ASSIGNMENT AGREEMENT
+From:[the Existing Lender] (the “Existing Lender”) and [the New Lender] (the “New Lender”)
+Red Football Limited – Revolving Facilities Agreementdated 22 May 2015 (as amended and/or restated from time to time) (the “Facilities Agreement”)1.We refer to the Facilities Agreement and to the Intercreditor Agreement (as defined in the Facilities Agreement).
+SCHEDULE 7FORM OF ACCESSION DEEDTo:[            ] as Agent and [             ] as Security Trustee for itself and each of the otherparties to the Intercreditor Agreement referred to below
+From:[Restricted Subsidiary] and [Company]
+Dear SirsRed Football Limited – Revolving Facilities Agreementdated 22 May 2015 (as amended and/or restated from time to time) (the “Facilities Agreement”)1.We refer to the Facilities Agreement and to the Intercreditor Agreement.
+[EXECUTED AS A DEED     )
+By: [Subsidiary]      )
+[EXECUTED AS A DEEDBy: [Subsidiary]
+[Company]By:
+From:[resigning Obligor] and [Company]
+Dear SirsRed Football Limited – Revolving Facilities Agreementdated 22 May 2015 (as amended and/or restated from time to time) (the “Facilities Agreement”)1.We refer to the Facilities Agreement.
+[Company][resigning Obligor]By:By:
+Dear SirsRed Football Limited – Revolving Facilities Agreementdated 22 May 2015 (as amended and/or restated from time to time) (the “Facilities Agreement”)
+SCHEDULE 10TIMETABLESPart 1Loans
+SCHEDULE 11FORM OF LETTER OF CREDITTo:[Beneficiary](the “Beneficiary”)DateIrrevocable Standby Letter of Credit no.
+[•]At the request of [•], [Issuing Bank] (the “Issuing Bank”) issues this irrevocable standby Letter of Credit (“Letter of Credit”) in your favour on the following terms and conditions:1.DefinitionsIn this Letter of Credit:“Business Day” means a day (other than a Saturday or a Sunday) on which banks are open for general business in [London].
+THE SCHEDULEFORM OF DEMANDTo:[Issuing Bank][Date]Dear SirsStandby Letter of Credit no.
+[•] issued in favour of [Beneficiary] (the “Letter of Credit”)We refer to the Letter of Credit.
+SCHEDULE 12MATERIAL COMPANIESRed Football LimitedRed Football Junior LimitedManchester United LimitedManchester United Football Club LimitedMU Finance Limited
+SCHEDULE 13FORMS OF NOTIFIABLE DEBT PURCHASE TRANSACTION NOTICEPart 1Form of Notice on entering into Notifiable Debt Purchase TransactionTo:[             ] as AgentFrom:[The Lender]Dated:Red Football Limited – Revolving Facilities Agreementdated 22 May 2015 (as amended and/or restated from time to time) (the “Facilities Agreement”)1.We refer to paragraph (b) of Clause 30.2 (Disenfranchisement on Debt Purchase Transactions entered into by Investor Affiliates) of the Facilities Agreement.
+Part 2Form of Notice on Termination of Notifiable Debt Purchase Transaction / Notifiable Debt Purchase Transaction ceasing to be with Investor AffiliateTo:[             ] as AgentFrom:[The Lender]Dated:Red Football Limited – Revolving Facilities Agreementdated 22 May 2015 (as amended and/or restated from time to time) (the “Facilities Agreement”)1.We refer to paragraph (c) of Clause 30.2 (Disenfranchisement on Debt Purchase Transactions entered into by Investor Affiliates) of the Facilities Agreement.
+SCHEDULE 17FORM OF ADDITIONAL FACILITY LENDER ACCESSION NOTICETo:[⚫] as Agent and [⚫] as Security TrusteeFrom:[Proposed Additional Facility Lender] (the “Additional Facility Lender”)Dated:Dear SirsRed Football Limited – Revolving Facilities Agreementdated 22 May 2015 (as amended and/or restated from time to time) (the “Facilities Agreement”)We refer to the Facilities Agreement.
+THE SCHEDULERelevant Additional Facility Commitment/rights and obligations to be assumed by the New Additional Facility Lender[insert relevant details][Facility Office address, fax number and attention details for notices and account details for payments]EXECUTED as a DEED[New Additional Facility Lender]By:This Additional Facility Lender Accession Notice is accepted as an Additional Facility Lender Accession Notice for the purposes of the Facilities Agreement by the Agent, and as a [Creditor/Creditor Representative Accession Undertaking] for the purposes of the Intercreditor Agreement by the Security Trustee and the Commencement Date is confirmed as [⚫].AgentBy:Security TrusteeBy:13.
+SCHEDULE 18ADDITIONAL FACILITY NOTICETo:[⚫] as AgentFrom:[The Company] [Borrower] [Additional Facility Lender]Dated:Dear SirsRed Football Limited – Revolving Facilities Agreementdated 22 May 2015 (as amended and/or restated from time to time) (the “Facilities Agreement”)We refer to the Facilities Agreement.
+[the Company] [Borrower]
+THE SCHEDULERelevant Additional Facility Commitment/rights and obligations to be assumed by the Additional Facility Lender[insert relevant details][Facility Office address, fax number and attention details for notices and account details for payments]EXECUTED as a DEED[Additional Facility Lender]By:This Agreement is accepted as an Additional Facility Notice for the purposes of the Facilities Agreement by the Agent and the Commencement Date is confirmed as [⚫].AgentBy:Security TrusteeBy:
+SCHEDULE 19FORM OF SUBSTITUTE AFFILIATE LENDER DESIGNATION NOTICETo:[        ] (as Agent); and[[                              ] (as Security Trustee)]for itself and each of the other parties to the Facilities Agreement and the Intercreditor Agreement referred to below.Copy:[The Company]From:[Designating Lender] (the “Designating Lender”)Countersigned by [Substitute Affiliate Lender] (the “Substitute Affiliate Lender”)Dated:[⚫]Dear SirsRed Football Limited – Revolving Facilities Agreementdated 22 May 2015 (as amended and/or restated from time to time) (the “Facilities Agreement”)1.We refer to the Facilities Agreement and to the Intercreditor Agreement.
+For and on behalf of[Designating Lender]
+SCHEDULE 20FORM OF INCREASE CONFIRMATIONTo:[·] as Agent and as Security Trustee, [·] as Issuing Bank and [·] as Company, for and on behalf of the Company and each ObligorFrom: [the Increase Lender] (the “Increase Lender”)Dated:Red Football Limited – Revolving Facilities Agreementdated 22 May 2015 (as amended and/or restated from time to time) (the “Facilities Agreement”)1.We refer to the Facilities Agreement and particularly Clause 2.2 (Increase) of the Facilities Agreement and to the Intercreditor Agreement (as defined in the Facilities Agreement).
+[Issuing Bank

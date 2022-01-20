@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "Allegiance Funding Corp."
+    ],
+    "BuyerName": [
+        "Manufacturers and Traders Trust Company"
+    ],
+    "EffectiveTime": [
+        "August 1, 1998"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": ["December 31, 2020"],
+    "Payments": [
+        {
+            "From": [
+                "Manufacturers and Traders Trust Company"
+            ],
+            "To": [
+                "Allegiance Funding Corp."
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": false
+    }
+}

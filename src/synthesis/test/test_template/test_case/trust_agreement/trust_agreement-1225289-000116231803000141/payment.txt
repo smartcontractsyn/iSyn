@@ -1,0 +1,2641 @@
+Repurchase, Purchase or Substitution of Mortgage Loans.47Section 2.06.
+Appointment of Paying Agent.58Section 3.09.
+Allocation of Realized Losses.75Section 5.04.
+Termination of Trust Fund Upon Repurchase orLiquidation of All Mortgage Loans.94Section 7.02.
+Compensation to the Master Servicer.112Section 9.22.
+The following table specifies the Class designation, interest rate, and principal amount for each Class of REMIC I Interests:REMIC I
+Class DesignationInterest RateInitial Class Principal
+AmountCorresponding Class of Certificates or ComponentsLT-1A15.00%$     74,948,000.001-A1(1)1-A6LT-1A25.00%$     51,067,000.001-A2LT-1A35.00%$     25,000,000.001-A3LT-1A45.00%$     45,393,000.001-A4LT-1A55.00%$              1,000.001-A5LT-1AX(2)(2)1-AXLT-1AP0.00%$     69,221,000.001-APLT-2A15.00%$     69,221,000.002-A1(3)2-A12LT-2A25.00%$     25,000,000.002-A2LT-2A35.00%$     42,326,000.002-A3LT-2A45.00%$              1,000.002-A4LT-2A54.75%$   125,000,000.002-A5LT-2A65.00%$     25,000,000.002-A6LT-2A75.75%$     26,090,000.002-A7LT-2A86.50%$     25,000,000.002-A8LT-2A98.00%$   101,071,000.002-A9(4)2-A13LT-2A105.75%$     17,582,000.002-A10LT-2A115.75%$          781,000.002-A11LT-2AX(5)(5)2-AXLT-2PAX(6)(6)2-PAXLT-2AP0.00%$        1,462,879.002-APLT-1B15.00%$           599,000.001B1LT-1B25.00%$           899,000.001B2LT-2B15.75%$      11,972,000.002B1LT-2B25.75%$        3,112,000.002B2LT-1B35.00%$           499,000.00B3LT-2B35.75%$        2,394,000.00B3LT-1B45.00%$           299,000.001B4LT-1B55.00%$           199,000.001B5LT-1B65.00%$           303,736.001B6LT-2B45.75%$           957,000.002B4LT-2B55.75%$           961,176.002B5LT-2B65.75%$                  100.002B6LT-R5.00%$                  100.00R__________________(1)For each Distribution Date, the Class 1-A6 Certificate is entitled to a specified portion of the interest accrued on the Class LT-1A1 Interest.
+Specifically, the Class 1-A6 Certificate is entitled to interest accrued on the Class LT-A1 Interest at a per annum rate of 2.21%.
+(2)The Class LT-1AX Interest is entitled to receive on each Distribution Date a specified portion of the interest payable on the Pool 1-AX Mortgage Loans.
+Specifically, for each Accrual Period, the Class LT-1AX Interest is entitled to interest accruals on the Pool 1-AX Mortgage Loans at a per annum rate equal to the excess of the weighted average of the Net Mortgage Rates on the Pool 1-AX Mortgage Loans over 5.00%.
+(3)For each Distribution Date, the Class 2-A12 Certificate is entitled to a specified portion of the interest accrued on the Class LT-2A1Interest.
+Specifically, the Class 2-A12 Certificate is entitled to interest accrued on the Class LT-2A1 Interest at a per annum rate of 1.20%.
+Specifically, the Class 2-A13 Certificates are entitled to the interest accrued on the Class LT-2A9 at a per annum rate equal to the excess of 7.50% over LIBOR.
+(5)The Class LT-2AX Interest is entitled to receive on each Distribution Date a specified portion of the interest payable on the Pool 2-AX Mortgage Loans.
+Specifically, for each Accrual Period, the Class LT-2AX Interest is entitled to interest accruals on the Pool  2-AX Mortgage Loans at a per annum rate equal to the excess of the weighted average of the Net Mortgage Rates on the Pool 2-AX Mortgage Loans over 5.75%.
+(6)The Class LT-2PAX Interest is entitled to receive on each Distribution Date a specified portion of the interest payable on the 2-PAX Mortgage Loans.
+Specifically, for each Accrual Period, the Class LT-2PAX Interest is entitled to interest accruals on the 2PAX Mortgage Loans at a per annum rate equal to the excess of the weighted average of the Net Mortgage Rates in Pool 2 over 5.75%.On each Distribution Date, the Available Distribution Amount (exclusive of the Class E Distributable Amount and the Class P Distributable Amount) shall be distributed with respect to the REMIC I Interests in the same manner that the Available Distribution Amount is distributed with respect to the Corresponding Class of Certificates or Components.On each Distribution Date, Realized Losses shall be allocated among the REMIC I Interests in the same manner that Realized Losses are allocated among the Corresponding Classes of Certificates or Components.Net Prepayment Shortfalls and Excess Losses are to be allocated among the Classes of REMIC I Interests in the same manner that such items are allocated among the Corresponding Classes of Certificates.REMIC IIREMIC II shall hold as assets all the REMIC I Interests, other than the Class R-1 Interest.
+The following table specifies the Class designation, Certificate Interest Rate, initial Class Principal (or Notional) Amount and minimum denomination (by dollar amount or Percentage Interest) for each Class of Certificates (each of which, other than the Class R, Class E and Class P Certificates, is hereby designated as one or more regular interests in REMIC II) constituting the interests in the Trust Fund created hereunder.Class DesignationCertificate
+Interest RateInitial Class Principal
+(or Notional) AmountMinimum Denomination
+or Percentage InterestClass 1-A12.79%$          74,948,000.0025,000.00Class 1-A25.00%$          51,067,000.0025,000.00Class 1-A35.00%$          25,000,000.0025,000.00Class 1-A45.00%$          45,393,000.0025,000.00Class 1-A55.00%$                   1,000.001,000.00Class 1-A65.00%(1)1,000,000.00Class 1-AX5.00%(2)1,000,000.00Class 1-AP0.00%$               679,945.00250,000.00Class 2-A13.80%$          69,221,000.0025,000.00Class 2-A25.00%$          25,000,000.0025,000.00Class 2-A35.00%$          42,326,000.0025,000.00Class 2-A45.00%$                   1,000.001,000.00Class 2-A54.75%$        125,000,000.0025,000.00Class 2-A65.00%$          25,000,000.0025,000.00Class 2-A75.75%$          26,090,000.0025,000.00Class 2-A86.50%$          25,000,000.0025,000.00Class 2-A9Adjustable (3)$        101,071,000.0025,000.00Class 2-A105.75%$          17,582,000.001,000.00Class 2-A115.75%$               781,000.001,000.00Class 2-A125.00%(4)1,000,000.00Class 2-A13Adjustable (5)(6)1,000,000.00Class 2-AX5.75%(7)1,000,000.00Class 2-PAX5.75%(8)1,000,000.00Class 2-AP0.00%$            1,462,879.00250,000.00Class 1B15.00%$               599,000.00100,000.00Class 1B25.00%$               899,000.00100,000.00Class 2B15.75%$          11,972,000.00100,000.00Class 2B25.75%$            3,112,000.00100,000.00Class B3Variable (9)$            2,893,000.00100,000.00Class 1B45.00%$               299,000.00250,000.00Class 1B55.00%$               199,000.00100%Class 1B65.00%$               303,736.00250,000.00Class 2B45.75%$               957,000.00250,000.00Class 2B55.75%$               957,000.00250,000.00Class 2B65.75%$               961,176.00250,000.00Class R5.00%$                      100.00100% (11)Class P(12)(12)100%Class E(13)(13)100%__________________(1)The Class Notional Amount of the Class 1-A6 Certificates for any Distribution Date will be equal to the product of approximately 44.20% and the Class Principal Amount of the Class 1-A1 Certificates immediately prior to that Distribution Date.
+The initial Class Notional Amount of the Class 1-A6 Certificates is approximately $33,127,016.00.
+(2)The Class Notional Amount of the Class 1-AX Certificates for any Distribution Date will be equal to the product of (1) a fraction, the numerator of which is the weighted average of the Net Mortgage Rates of the Non-Discount Mortgage Loans in Pool 1 at the beginning of the related Due Period minus 5.00%, and the denominator of which is 5.00% and (2) the total Scheduled Principal Balance of such Mortgage Loans as of the first day of the related Accrual Period.
+The initial Class Notional Amount of the Class 1-AX Certificates is $16,292,990.48.
+(3)The Certificate Interest Rate for the Class 2-A9 Certificates for the first Distribution Date (and related Accrual Period) will equal an annual rate of 1.77%, and thereafter, for any Distribution Date (and related Accrual Period) will equal an annual rate equal to the lesser of (i) LIBOR plus 0.50% and (ii) 8.00%, subject to a minimum rate of 0.50%.
+(4)The Class Notional Amount of the Class 2-A12 Certificates for any Distribution Date will be equal to the products of approximately 24.00% and the Class Principal Amount of the Class 2-A1 Certificates immediately prior to that Distribution Date.
+The initial Class Notional Amount of the Class 2-A12 Certificates is approximately $16,613,040.00.
+(5)The Certificate Interest Rate for the Class 2-A13 Certificates for the first Distribution Date (and related Accrual Period) will equal an annual rate of 6.23%, and thereafter, for any Distribution Date (and related Accrual Period) will equal an annual rate equal to 7.50% minus LIBOR, subject to a minimum rate of 0.00%.
+(6)The Class Notional Amount of the Class 2-A13 Certificates for any Distribution Date will be equal to the Class Principal Amount of the Class 2-A9 Certificates immediately before that Distribution Date.
+The initial Class Notional Amount of the Class 2-A13 Certificates is approximately $101,071,000.00.
+(7)The Class Notional Amount of the Class 2-AX Certificates for any Distribution Date will be equal to the product of (1) a fraction, the numerator of which is the weighted average of the Net Mortgage Rates of Non-Discount Mortgage Loans in Pool 2 excluding any Pool 2-PAX Mortgage Loans at the beginning of the related Due Period minus 5.75%, and the denominator of which is 5.75%, and (2) the total Scheduled Principal Balance of the Pool 2-AX Mortgage Loans as of the first day of the related Accrual Period.
+The initial Class Notional Amount of the Class 2-AX Certificates is $34,039,924.06.
+(8)The Class Notional Amount of the Class 2-PAX Certificates for any Distribution Date will be equal to the product of (1) a fraction, the numerator of which is the weighted average of the Net Mortgage Rates of the Pool 2-PAX Mortgage Loans at the beginning of the related Due Period minus 5.75% and the denominator of which is 5.75% and (2) the total Scheduled Principal Balance of the Pool 2-PAX Mortgage Loans as of the first day of the related Accrual Period.
+The initial Class Notional Amount of the Class 2-PAX Certificates is approximately $6,603,605.58.
+(9)The Certificate Interest Rate for the Class B3 Certificates will be equal to the weighted average of the Component Interest Rates of its Components, weighted on the basis of the Component Principal Amount of such Components.
+The B3(1) Component has a Component Interest Rate of 5.00% and an initial Component Principal Amount of $499,000.
+The B3(2) Component has a Component Interest Rate of 5.75% and an initial Component Principal Amount of $2,394,000.
+(10)The Class Principal Amount of the Class B3 Certificates for any Distribution Date (and the related Accrual Period) will be equal to the sum of the Component Principal Amounts of the B3(1) Component and the B3(2) Component for such Distribution Date.
+The Class P Certificates will be entitled to receive prepayment penalties paid to borrowers upon voluntary full or partial prepayment of certain mortgage loans.
+With respect to the Class 2-A4 Certificates, the earlier of (x) the Credit Support Depletion Date with respect to Group 2 and (y) the first Distribution Date on which the Class Principal Amounts of the Class 2-A2 or Class 2-A3 Certificates have each been reduced to zero.Accrual Amount:  As to any Class of Accrual Certificates and each Distribution Date through the applicable Accretion Termination Date, the sum of (x) any amount of Accrued Certificate Interest allocable to such Class pursuant to Section 5.02(a)(i) on such Distribution Date and (y) any Interest Shortfall allocable to such Class pursuant to Section 5.02(a)(ii) on such Distribution Date.
+Interest shall accrue on the basis of a 360-day year comprising twelve 30-day months.Act:  As defined in Section 3.03(c).Additional Collateral:  None.Advance:  An advance of the aggregate of payments of principal and interest (net of the applicable Servicing Fee) on one or more Mortgage Loans that were due on the Due Date in the related Due Period and not received as of the close of business on the related Determination Date, required to be made by or on behalf of the Master Servicer and the related Servicer (or by the Trustee) pursuant to Section 5.04.Affiliate:  With respect to any specified Person, any other Person controlling or controlled by or under common control with such specified Person.
+As to any Non-Discount Mortgage Loan, 0%.AP Principal Distribution Amount:  For any Distribution Date and for each Mortgage Pool, the sum of the following amounts:(i)the applicable AP Percentage of the principal portion of each Scheduled Payment (without giving effect to any Debt Service Reduction occurring prior to the Bankruptcy Coverage Termination Date) on each Mortgage Loan in the related Mortgage Pool due during the related Due Period;(ii)the applicable AP Percentage of each of the following amounts:  (1) each Principal Prepayment collected on a Mortgage Loan in the related Mortgage Pool during the applicable Prepayment Period, (2) each other unscheduled collection, including Insurance Proceeds and Net Liquidation Proceeds (other than with respect to any Mortgage Loan in the related Mortgage Pool that was finally liquidated during the applicable Prepayment Period), representing or allocable to recoveries of principal of such Mortgage Loan in the related Mortgage Pool received during the applicable Prepayment Period and (3) the principal portion of all proceeds of the purchase of any Mortgage Loan in the related Mortgage Pool (or, in the case of a permitted substitution, amounts representing a principal adjustment) actually received by the Trustee with respect to the applicable Prepayment Period;(iii)with respect to unscheduled recoveries allocable to principal of any Mortgage Loan in the related Mortgage Pool that was finally liquidated during the related Prepayment Period, the applicable AP Percentage of the related net Liquidation Proceeds allocable to principal; and(iv)any amounts described in clauses (i) through (iii) for any previous Distribution Date that remain unpaid.Appraised Value:  With respect to any Mortgage Loan, the amount set forth in an appraisal made in connection with the origination of such Mortgage Loan as the value of the related Mortgaged Property.Assignment of Mortgage:  An assignment of the Mortgage, notice of transfer or equivalent instrument, in recordable form, sufficient under the laws of the jurisdiction wherein the related Mortgaged Property is located to reflect the sale of the Mortgage to the Trustee, which assignment, notice of transfer or equivalent instrument may be in the form of one or more blanket assignments covering the Mortgage Loans secured by Mortgaged Properties located in the same jurisdiction, if permitted by law; provided, however, that the Trustee shall not be responsible for determining whether any such assignment is in recordable form.Aurora:  Aurora Loan Services Inc. or its successor in interest, in its capacity as a Servicer.Authenticating Agent:  Any authenticating agent appointed by the Trustee pursuant to Section 6.10.Authorized Officer:  Any Person who may execute an Officer’s Certificate on behalf of the Depositor.Available Distribution Amount:  As to each Mortgage Pool and on any Distribution Date, the sum of the following amounts:(i)the total amount of all cash received by the Master Servicer through the Remittance Date applicable to each Servicer and deposited with the Trustee by the Master Servicer by the Deposit Date for such Distribution Date on the Mortgage Loans of such Mortgage Pool (including proceeds of any Insurance Policy and any other credit support relating to such Mortgage Loans and including recoveries through liquidation of any REO Property), plus all Advances made by the Master Servicer or any Servicer (or the Trustee in its capacity as successor master servicer) for such Distribution Date, any Compensating Interest Payment for such date and Mortgage Pool and any amounts paid by any Servicer in respect of Prepayment Interest Shortfalls in respect of the related Mortgage Loans for such date, any proceeds of any purchase of a related Mortgage Loan and any Prepayment Penalty Amounts with respect to the related Mortgage Loans for which the Sellers own the servicing rights, but not including:(A)all amounts distributed pursuant to Section 5.02 on prior Distribution Dates;(B)all Scheduled Payments of principal and interest collected but due on a date subsequent to the related Due Period;(C)all Principal Prepayments received or identified by the applicable Servicer after the applicable Prepayment Period (together with any interest payments received with such prepayments to the extent that they represent the payment of interest accrued on the related Mortgage Loans for the period subsequent to the applicable Prepayment Period);(D)any other unscheduled collection, including Net Liquidation Proceeds and Insurance Proceeds, received by the Master Servicer after the applicable Prepayment Period;(E)all fees and amounts due or reimbursable to the Master Servicer, the Trustee, a Custodian or any Servicer pursuant to the terms of this Agreement, a Custodial Agreement or the applicable Servicing Agreement;(F)any Prepayment Penalty Amounts with respect to Mortgage Loans for which the Sellers do not hold the servicing rights;(G)any Prepayment Interest Excess; and(H)such portion of each payment in respect of interest representing Retained Interest; and(v)any other payment made by the Master Servicer, any Servicer, the Sellers, the Depositor, or any other Person with respect to such Distribution Date (including the Purchase Price with respect to any Mortgage Loan purchased by the Sellers, the Depositor or any other Person and any related Substitution Amount).AX Mortgage Loans:  The Non-Discount Mortgage Loans listed on Schedule B-1 hereto.Balloon Mortgage Loan:  None.Balloon Payment:  The final Scheduled Payment in respect of a Balloon Mortgage Loan.Bankruptcy:  With respect to any Person, the making of an assignment for the benefit of creditors, the filing of a voluntary petition in bankruptcy, adjudication as a bankrupt or insolvent, the entry of an order for relief in a bankruptcy or insolvency proceeding, the seeking of reorganization, arrangement, composition, readjustment, liquidation, dissolution or similar relief, or seeking, consenting to or acquiescing in the appointment of a trustee, receiver or liquidator, dissolution, or termination, as the case may be, of such Person pursuant to the provisions of either the United States Bankruptcy Code of 1986, as amended, or any other similar state laws.Bankruptcy Coverage Termination Date:  With respect to any Mortgage Pool, the Distribution Date on which the Bankruptcy Loss Limit has been reduced to zero (or less than zero).Bankruptcy Loss Limit:  As of the Cut-off Date, $100,000 with respect to Pool 1 and $100,000 with respect to Pool 2 which amounts shall be reduced from time to time by the amount of Bankruptcy Losses allocated to the related Classes of Certificates.Bankruptcy Losses:  With respect to the Mortgage Loans in the related Mortgage Pool, losses that are incurred as a result of Deficient Valuations and any reduction, in a bankruptcy proceeding, of the amount of the Scheduled Payment on a Mortgage Loan other than as a result of a Deficient Valuation.Benefit Plan Opinion:  An Opinion of Counsel satisfactory to the Trustee to the effect that any proposed transfer will not (i) cause the assets of the Trust Fund to be regarded as plan assets for purposes of the Plan Asset Regulations or (ii) give rise to any fiduciary duty on the part of the Depositor or the Trustee.Blanket Mortgage:  The mortgage or mortgages encumbering a Cooperative Property.Book-Entry Certificates:  Beneficial interests in Certificates designated as “Book-Entry Certificates” in this Agreement, ownership and transfers of which shall be evidenced or made through book entries by a Clearing Agency as described in Section 3.09; provided, that after the occurrence of a condition whereupon book-entry registration and transfer are no longer permitted and Definitive Certificates are to be issued to Certificate Owners, such Book-Entry Certificates shall no longer be “Book-Entry Certificates.”  As of the Closing Date, all of the Classes of Certificates listed in the second table of the Preliminary Statement, other than the Class P and Class R Certificates, constitute Book-Entry Certificates.
+With respect to Pool 2, 5.75% per annum.
+Determination Date:  With respect to each Distribution Date, the Remittance Date immediately preceding such Distribution Date.Discount Mortgage Loan:  With respect to Pool 1, any Mortgage Loan with a Net Mortgage Rate less than 5.00% per annum.
+With respect to each subsequent Accrual Period, a per annum rate determined on the LIBOR Determination Date in the following manner by the Trustee on the basis of the “Interest Settlement Rate” set by the British Bankers’ Association (the “BBA”) for one-month United States dollar deposits, as such rates appear on the Telerate Page 3750, as of 11:00 a.m. (London time) on such LIBOR Determination Date.If on such a LIBOR Determination Date, the BBA’s Interest Settlement Rate does not appear on the Telerate Page 3750 as of 11:00 a.m. (London time), or if the Telerate Page 3750 is not available on such date, the Trustee will obtain such rate from Reuters’ “page LIBOR 01” or Bloomberg’s page “BBAM”.
+Prepayment Interest Shortfall:  With respect to any Distribution Date and (x) any Principal Prepayment in part (and, with respect to those Mortgage Loans serviced by Servicers other than Aurora, any Principal Prepayment in full) and (y) any Principal Prepayment in full with respect to those Mortgage Loans serviced by Aurora if received on or after the seventeenth day of the month immediately preceding the month of such Distribution Date, but on or before the last day of the month immediately preceding the month of such Distribution Date, the difference between (i) one full month’s interest at the applicable Mortgage Rate (after giving effect to any applicable Relief Act Reduction), as reduced by the applicable Servicing Fee Rate, the Master Servicing Fee Rate (if the Master Servicer is acting as Servicer) and the applicable Retained Interest Rate, if any, on the outstanding principal balance of such Mortgage Loan immediately prior to such prepayment and (ii) the amount of interest actually received with respect to such Mortgage Loan in connection with such Principal Prepayment.Prepayment Penalty Amounts:  With respect to any Distribution Date, all premiums or charges paid by the obligors under the related Mortgage Notes due to Principal Prepayments collected by the Servicers during the immediately preceding Prepayment Period.Prepayment Period:  With respect to those Mortgage Loans serviced by Servicers other than Aurora, any Distribution Date and any Principal Prepayment, whether in part or in full (including any liquidation), the calendar month immediately preceding the month in which such Distribution Date occurs.
+Notwithstanding any provision herein to the contrary, a Qualifying Substitute Mortgage Loan shall be deemed to have the same AP Percentage and Non-AP Percentage as that of the Deleted Mortgage Loan for which it was substituted.Rating Agency:  Each of S&P and Moody’s.Realized Loss:  (a) With respect to each Liquidated Mortgage Loan, an amount equal to (i) the unpaid principal balance of such Mortgage Loan as of the date of liquidation, plus (ii) interest at the applicable Net Mortgage Rate (plus the Employee Discount Rate, if any, for such Mortgage Loan) from the date as to which interest was last paid up to the last day of the month of such liquidation, minus (iii) Liquidation Proceeds received, net of amounts that are reimbursable to the Master Servicer or the applicable Servicer with respect to such Mortgage Loan (other than Advances of principal and interest) including expenses of liquidation, and (b) with respect to each Mortgage Loan that has become the subject of a Deficient Valuation, the difference between the unpaid principal balance of such Mortgage Loan immediately prior to such Deficient Valuation and the unpaid principal balance of such Mortgage Loan as reduced by the Deficient Valuation.
+In the case of any bi-weekly payment Mortgage Loan, all payments due on such Mortgage Loan during any Due Period shall be deemed collectively to constitute the Scheduled Payment due on such Mortgage Loan in such Due Period.Scheduled Principal Balance:  With respect to (i) any Mortgage Loan as of any Distribution Date, the principal balance of such Mortgage Loan at the close of business on the Cut-off Date, after giving effect to principal payments due on or before the Cut-off Date, whether or not received, less an amount equal to principal payments due after the Cut-off Date and on or before the Due Date in the related Due Period, whether or not received from the Mortgagor or advanced by the applicable Servicer or the Master Servicer, and all amounts allocable to unscheduled principal payments (including Principal Prepayments, Net Liquidation Proceeds, Insurance Proceeds and condemnation proceeds, in each case to the extent identified and applied prior to or during the applicable Prepayment Period) and (ii) any REO Property as of any Distribution Date, the Scheduled Principal Balance of the related Mortgage Loan on the Due Date immediately preceding the date of acquisition of such REO Property by or on behalf of the Trustee (reduced by any amount applied as a reduction of principal on the Mortgage Loan).
+With respect to each Mortgage Pool and for any Distribution Date occurring on or after the fifth anniversary of the first Distribution Date, the related Senior Percentage plus the following percentage of the related Subordinate Percentage for such Distribution Date: for any Distribution Date in the first year thereafter, 70%; for any Distribution Date in the second year thereafter, 60%; for any Distribution Date in the third year thereafter, 40%; for any Distribution Date in the fourth year thereafter, 20%; and for any subsequent Distribution Date, 0%; provided, however, that if on any of the foregoing Distribution Dates the Senior Percentage for a Mortgage Pool exceeds the initial Senior Percentage for such Mortgage Pool, the Senior Prepayment Percentage for each Mortgage Pool for such Distribution Date shall once again equal 100% for such Distribution Date.Notwithstanding the foregoing, no decrease in the Senior Prepayment Percentage for any Mortgage Pool below the level in effect for the most recent prior period set forth in the paragraph above shall be effective on any Distribution Date if, as of the first Distribution Date as to which any such decrease applies, (i) the average outstanding principal balance on such Distribution Date and for the preceding five Distribution Dates of all Mortgage Loans in such Mortgage Pool that were delinquent 60 days or more (including for this purpose any REO Property or Mortgage Loans in foreclosure and the Scheduled Payments that would have been due on Mortgage Loans with respect to which the related Mortgaged Property has been acquired by the Trust Fund if the related Mortgage Loan had remained in existence) is greater than or equal to 50% of the applicable Original Subordinate Amount immediately prior to such Distribution Date or (ii) cumulative Realized Losses with respect to the Mortgage Loans in such Mortgage Pool exceed (a) with respect to the Distribution Date on the fifth anniversary of the first Distribution Date, 30% of the related Original Subordinate Amount, (b) with respect to the Distribution Date on the sixth anniversary of the first Distribution Date, 35% of the related Original Subordinate Amount, (c) with respect to the Distribution Date on the seventh anniversary of the first Distribution Date, 40% of the related Original Subordinate Amount, (d) with respect to the Distribution Date on the eighth anniversary of the first Distribution Date, 45% of the related Original Subordinate Amount, and (e) with respect to the Distribution Date on the ninth anniversary of the first Distribution Date or thereafter, 50% of the related Original Subordinate Amount.
+After the Class Principal Amount of each Class of Senior Certificates in any Certificate Group has been reduced to zero, the Senior Prepayment Percentage for the related Mortgage Pool shall be 0%.Senior Principal Distribution Amount:  For each Certificate Group and any Distribution Date, the sum of the following amounts:(i)the product of (1) the related Senior Percentage for such date and (2) the principal portion (multiplied by the applicable Non-AP Percentage) of each Scheduled Payment (without giving effect to any Debt Service Reduction occurring prior to the Bankruptcy Coverage Termination Date), on each Mortgage Loan in the related Mortgage Pool due during the related Due Period;(ii)the product of (a) the related Senior Prepayment Percentage for such date and (b) each of the following amounts (multiplied by the applicable Non-AP Percentage):  (1) each Principal Prepayment on the Mortgage Loans in the related Mortgage Pool collected during the related Prepayment Period, (2) each other unscheduled collection, including Insurance Proceeds and Net Liquidation Proceeds (other than with respect to any Mortgage Loan in the related Mortgage Pool that was finally liquidated during the related Prepayment Period) representing or allocable to recoveries of principal received during the related Prepayment Period, and (3) the principal portion of all proceeds of the purchase of any Mortgage Loan in the related Mortgage Pool (or, in the case of a permitted substitution, amounts representing a principal adjustment) actually received by the Trustee during the related Prepayment Period;(iii)with respect to unscheduled recoveries allocable to principal of any Mortgage Loan in the related Mortgage Pool that was finally liquidated during the related Prepayment Period, the lesser of (a) the related net Liquidation Proceeds allocable to principal (multiplied by the applicable Non-AP Percentage) and (b) the product of the related Senior Prepayment Percentage for such date and the Scheduled Principal Balance (multiplied by the applicable Non-AP Percentage) of such related Mortgage Loan at the time of liquidation; and(iv)any amounts described in clauses (i) through (iii) for any previous Distribution Date that remain unpaid.If on any Distribution Date the Class Principal Amount of each Class of Senior Certificates (other than any Class AP Certificates) in any Certificate Group has been reduced to zero, the Senior Principal Distribution Amount for such Certificate Group for such date (following such reduction) and each subsequent Distribution Date shall be zero.Senior Principal Priorities:  The priorities for distribution of principal to the Senior Certificates and Components as set forth in Exhibit O.Servicer:  Any Servicer that has entered into any of the Servicing Agreements attached as Exhibit E hereto, or any successors in interest.
+Within the two year period following the Closing Date, the Depositor may, in lieu of repurchasing a Mortgage Loan pursuant to this Section 2.02, substitute for such Mortgage Loan a Qualifying Substitute Mortgage Loan subject to the provisions of Section 2.05.
+Each Class of Book-Entry Certificates shall be issued in the minimum denominations in Certificate Principal Amount (or Notional Amount) or Percentage Interest specified in the Preliminary Statement hereto and in integral multiples of $1 or 5% (in the case of Certificates issued in Percentage Interests) in excess thereof.
+The Trustee shall make withdrawals from the Certificate Account only for the following purposes:(i)to withdraw amounts deposited in the Certificate Account in error;(ii)to pay itself any investment income earned with respect to funds in the Certificate Account invested in Eligible Investments as set forth in subsection (c) below, and to make payments to itself prior to making distributions pursuant to Section 5.02 for any expenses or other indemnification owing to the Trustee and others pursuant to any provision of this Agreement;(iii)to make payments of the Master Servicing Fee (to the extent not already withheld or withdrawn from the Collection Account by the Master Servicer) to the Master Servicer;(iv)to make distributions to the Certificateholders pursuant to Article V; and(v)to clear and terminate the Certificate Account pursuant to Section 7.02.
+If any payment required to be made on the Certificates is to be made on a day that is not a Business Day, then such payment will be made on the next succeeding Business Day.
+(vi)from the remaining Available Distribution Amount for Pool 2, subject to the prior distribution of amounts pursuant to Section 5.02(d) in the case of clauses (C), (F), (I), (L), (O) and (R) below, to the Subordinated Certificates, in the following order of priority:(A)to the Class 2B1 Certificates, the Accrued Certificate Interest thereon for such Distribution Date, as reduced by such Class’s allocable share of any Net Prepayment Interest Shortfalls for such Distribution Date;(B)to the Class 2B1 Certificates, any Interest Shortfall for such Class on such Distribution Date;(C)to the Class 2B1 Certificates, in reduction of the Class Principal Amount thereof, such Class’s Subordinate Class Percentage of the related Subordinate Principal Distribution Amount for such Distribution Date, except as provided in Section 5.02(d), until the Certificate Principal Balance thereof has been reduced to zero;(D)to the Class 2B2 Certificates, the Accrued Certificate Interest thereon for such Distribution Date, as reduced by such Class’s allocable share of any Net Prepayment Interest Shortfalls for such Distribution Date;(E)to the Class 2B2 Certificates, any Interest Shortfall for such Class on such Distribution Date;(F)to the Class 2B2 Certificates, in reduction of the Certificate Principal Amount thereof, such Class’s Subordinate Class Percentage of the related Subordinate Principal Distribution Amount for such Distribution Date, except as provided in Section 5.02(d), until the Class Principal Amount thereof has been reduced to zero;(G)to the B3(2) Component, the Accrued Certificate Interest thereon for such Distribution Date, as reduced by such Component’s allocable share of any Net Prepayment Interest Shortfalls for such Distribution Date;(H)to the B3(2) Component, any Interest Shortfall for such Component on such Distribution Date;(I)to the B3(2) Component, in reduction of the Certificate Principal Amount thereof, such Component’s Subordinate Component Percentage of the related Subordinate Principal Distribution Amount for such Distribution Date, except as provided in Section 5.02(d), until the Component Principal Amount thereof has been reduced to zero;(J)to the Class 2B4 Certificates, the Accrued Certificate Interest thereon for such Distribution Date, as reduced by such Class’s allocable share of any Net Prepayment Interest Shortfalls for such Distribution Date;(K)to the Class 2B4 Certificates, any Interest Shortfall for such Class on such Distribution Date;(L)to the Class 2B4 Certificates, in reduction of the Certificate Principal Amount thereof, such Class’s Subordinate Class Percentage of the related Subordinate Principal Distribution Amount for such Distribution Date, except as provided in Section 5.02(d), until the Certificate Principal Balance thereof has been reduced to zero;(M)to the Class 2B5 Certificates, the Accrued Certificate Interest thereon for such Distribution Date, as reduced by such Class’s allocable share of any Net Prepayment Interest Shortfalls for such Distribution Date;(N)to the Class 2B5 Certificates, any Interest Shortfall for such Class on such Distribution Date;(O)to the Class 2B5 Certificates, in reduction of the Certificate Principal Amount thereof, such Class’s Subordinate Class Percentage of the related Subordinate Principal Distribution Amount for such Distribution Date, except as provided in Section 5.02(d), until the Class Principal Balance thereof has been reduced to zero;(P)to the Class 2B6 Certificates, the Accrued Certificate Interest thereon for such Distribution Date, as reduced by such Class’s allocable share of any Net Prepayment Interest Shortfalls for such Distribution Date;(Q)to the Class 2B6 Certificates, any Interest Shortfall for such Class on such Distribution Date; and(R)to the Class 2B6 Certificates, in reduction of the Certificate Principal Amount thereof, such Class’s Subordinate Class Percentage of the related Subordinate Principal Distribution Amount for such Distribution Date, except as provided in Section 5.02(d), until the Certificate Principal Balance thereof has been reduced to zero.
+(ii)Prepayment Interest Shortfalls for Pool 2 shall be allocated among the Group 2 Certificates pro rata based on the Accrued Certificate Interest otherwise distributable thereon.
+(f)On each Distribution Date, the Accrual Amounts for such date for the Class 1-A5 Certificates shall be distributed in reduction of the Class Principal Amounts of the Class 1-A3 and 1-A4 Certificates, pro rata, until the Class Principal Amounts thereof have been reduced to zero and the Accrual Amounts for such date for the Class 2-A4 Certificates shall be distributed in reduction of the Class Principal Amounts of the Class 2-A2 and 2-A3 Certificates, pro rata, until the Class Principal Amounts thereof have been reduced to zero, and an equal amount equal to the related Accrual Amount will be added to the Class Principal Amount of the Class 1-A5 and Class 2-A4 Certificates, as applicable.
+Compensating Interest Payments.The amount of the Master Servicing Fee payable to the Master Servicer in respect of any Distribution Date shall be reduced by the amount of any Compensating Interest Payment for such Distribution Date, but only to the extent such Compensating Interest Payment is not actually made by a Servicer on the applicable Remittance Date.
+The property of the Trust Fund shall be sold at a price (the “Termination Price”) equal to the sum of : (i) 100% of the unpaid principal balance of each Mortgage Loan on the day of such purchase plus interest accrued thereon at the applicable Mortgage Rate with respect to any Mortgage Loan to the Due Date in the Due Period immediately preceding the related Distribution Date to the date of such repurchase, (ii) the fair market value of any REO Property and any other property held by any REMIC, such fair market value to be determined by an appraiser or appraisers appointed by the Master Servicer with the consent of the Trustee and (iii) any unreimbursed Servicing Advances with respect to each Mortgage Loan.Section 7.02.
+The latest possible maturity date for purposes of Treasury Regulation 1.86OG-1(a)(4) will be the Latest Possible Maturity Date.
+:Reason for requesting file:1.Mortgage Loan paid in full.
+Dear Sirs:In connection with our proposed purchase of $______________ principal amount of Mortgage Pass-Through Certificates, Series 2003-8 (the “Privately Offered Certificates”) of Structured Asset Securities Corporation (the “Depositor”) which are held in the form of Definitive Certificates, we confirm that:(1)We understand that the Privately Offered Certificates have not been, and will not be, registered under the Securities Act of 1933, as amended (the “Securities Act”), and may not be sold except as permitted in the following sentence.
+Date:                                   ,       EXHIBIT OSENIOR PRINCIPAL PRIORITIES(3) to the Senior Certificates of the related Certificate Group, other than any related Interest-Only Certificates, to the extent of the remaining Available Distribution Amount for the related Mortgage Pool, as follows:(a) to the Class 1-Al, Class 1-A2, Class 1-A3, Class 1-A4, Class 1-A5, Class 1-AP and Class R Certificates, in reduction of their respective Class Principal Amounts, from the Available Distribution Amount for Pool 1, concurrently, as follows:(i) to the Class 1-A1, Class 1-A2, Class 1-A3, Class 1-A4, Class 1-A5 and Class R Certificates, in an amount up to the Senior Principal Distribution Amount for Pool 1, in the following order of priority:(A) to the Class R Certificate, until its Class Principal Amount has been reduced to zero;(B) sequentially, to the Class 1-Al and Class l-A2 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their PAC Principal Amount for such Distribution Date (as set forth in the PAC 1 Principal Amount Schedule attached in Annex B to this Prospectus Supplement), in that order, until their Class Principal Amounts have been reduced to zero;(C) concurrently, to the Class 1-A3 and Class 1-A4 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule I for Group 1 attached in Annex C to this Prospectus Supplement), for so long as both the Class 1-A3 and Class 1-A4 Certificates remain outstanding, as follows:(I) approximately 7.00% of the amount distributable pursuant to clause (3)(a)(i)(C), to the Class 1-A3 Certificates, until their Class Principal Amount has been reduced to zero; and(II) approximately 93.00% of the amount distributable pursuant to clause (3)(a)(i)(C), to the Class 1-A4 Certificates, until their Class Principal Amount has been reduced to zero;(D) concurrently, to the Class 1-A3 and Class 1-A4 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule II for Group 1 attached in Annex C to this Prospectus Supplement), for so long as both the Class 1-A3 and Class 1-A4 Certificates remain outstanding, as follows:(I) approximately 35.50% of the amount distributable pursuant to clause (3)(a)(i)(D), to the Class 1-A3 Certificates, until their Class Principal Amount has been reduced to zero; and(II) approximately 64.50% of the amount distributable pursuant to clause (3)(a)(i)(D), to the Class 1-A4 Certificates, until their Class Principal Amount has been reduced to zero;(E) concurrently, to the Class 1-A3 and Class 1-A4 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule III for Group 1 attached in Annex C to this Prospectus Supplement), for so long as both the Class 1-A3 and Class 1-A4 Certificates remain outstanding, as follows:(I) approximately 45.50% of the amount distributable pursuant to clause (3)(a)(i)(E), to the Class 1-A3 Certificates, until.
+their Class Principal Amount has been reduced to zero; and(II) approximately 54.50% of the amount distributable pursuant to clause (3)(a)(i)(E), to the Class 1-A4 Certificates, until their Class Principal Amount has been reduced to zero;(F) concurrently, to the Class 1-A3 and Class 1-A4 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule IV for Group 1 attached in Annex C to this Prospectus Supplement), for so long as both the Class 1-A3 and Class 1-A4 Certificates remain outstanding, as follows:(I) approximately 54.00% of the amount distributable pursuant to clause (3)(a)(i)(F), to the Class 1-A3 Certificates, until their Class Principal Amount has been reduced to zero; and(II) approximately 46.00% of the amount distributable pursuant to clause (3)(a)(i)(F), to the Class 1-A4 Certificates, until their Class Principal Amount has been reduced to zero;(G) concurrently, to the Class 1-A3 and Class 1-A4 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule V for Group 1 attached in Annex C to this Prospectus Supplement), for so long as both the Class 1-A3 and Class 1-A4 Certificates remain outstanding, as follows:(I) approximately 60.50% of the amount distributable pursuant to clause (3)(a)(i)(G), to the Class 1-A3 Certificates, until their Class Principal Amount has been reduced to zero; and(II) approximately 39.50% of the amount distributable pursuant to clause (3)(a)(i)(G), to the Class 1-A4 Certificates, until their Class Principal Amount has been reduced to zero;(H) concurrently, to the Class 1-A3 and Class 1-A4 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule VI for Group 1 attached in Annex C to this Prospectus Supplement), for so long as both the Class l-A3 and Class 1-A4 Certificates remain outstanding, as follows:(I) approximately 61.50% of the amount distributable pursuant to clause (3)(a)(i)(H), to the Class 1-A3 Certificates, until their Class Principal Amount has been reduced to zero; and(II) approximately 38.50% of the amount distributable pursuant to clause (3)(a)(i)(H), to the Class 1-A4 Certificates, until their Class Principal Amount has been reduced to zero;(I) concurrently, to the Class 1-A3 and Class 1-A4 Certificates, without regard to their Principal Amount Schedules and for so long as both the Class 1-A3 and Class 1-A4 Certificates remain outstanding, as follows:(I) approximately 60.00% of the amount distributable pursuant to clause (3)(a)(i)(I), to the Class 1-A3 Certificates, until their Class Principal Amount has been reduced to zero; and(II) approximately 40.00% of the amount distributable pursuant to clause (3)(a)(i)(I), to the Class 1-A4 Certificates, until their Class Principal Amount has been reduced to zero; and(J) sequentially, to the Class I.-A3, Class 1-A4 and Class 1-A5 Certificates, in that order, until their respective Class Principal Amounts have been reduced to zero; and(K) sequentially, to the Class 1-Al and Class 1-A2 Certificates, without regard to the PAC I Principal Amount Schedule, until their respective Class Principal Amounts have been reduced to zero;(ii) to the Class 1-AP Certificates, the AP Principal Distribution Amount (as defined herein) for Pool 1, until its Class Principal Amount has been reduced to zero;(b) to the Class 2-Al, Class 2-A2, Class 2-A3, Class 2-A4, Class 2-A5, Class 2-A6, Class 2-A7, Class 2-A8, Class 2-A9, Class 2-Al0, Class 2-A11 and Class 2-AP Certificates, in reduction of their respective Class Principal Amounts, from the Available Distribution Amount for Pool 2, concurrently, as follows:(i) to the Class 2-Al, Class 2-A2, Class 2-A3, Class 2-A4, Class 2-A5, Class 2-A6, Class 2-A7, Class 2-A8, Class 2-A9, Class 2-Al0 and Class 2-A11 Certificates, in an amount up to the Senior Principal Distribution Amount for Pool 2, in the following order of priority:(A) approximately 68.8750401747% of the amount distributable pursuant to clause (3)(b)(i), pro rata, to the Class 2-A5, Class 2-A6, Class 2-A7, Class 2-A8 and Class 2-A9 Certificates, based on their respective Class Principal Amounts, until their Class Principal Amounts have been reduced to zero;(B) approximately 31.1249598253% of the amount distributable pursuant to clause (3)(b)(i), sequentially, in the following order of priority;(I) to the Class 2-Al.
+Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to its PAC Principal Amount for such Distribution Date (as set forth in the PAC II Principal Amount Schedule attached in Annex B to this Prospectus Supplement), until its Class Principal Amount has been reduced to zero:(II) concurrently, to the Class 2-A2 and Class 2-A3 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule I for Group 2 attached in Annex C to this Prospectus Supplement), for so long as both the Class 2-A2 and Class 2-A3 Certificates remain outstanding, as follows:(a) approximately 8.50% of the amount distributable pursuant to clause (3)(b)(i)(B)(II), to the Class 2-A2 Certificates, until their Class Principal Amount has been reduced to zero; and(b) approximately 91.50% of the amount distributable pursuant to clause (3)(b)(i)(B)(II), to the Class 2-A3 Certificates, until their Class Principal Amount has been reduced to zero;(III) concurrently, to the Class 2-A2 and Class 2-A3 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule II for Group 2 attached in Annex C to this Prospectus Supplement), for so long as both the Class 2-A2 and Class 2-A3 Certificates remain outstanding follows:(a) approximately 31.00% of the amount distributable pursuant to clause (3)(b)(i)(B)(III), to the Class 2-A2 Certificates, until their Class Principal Amount has been reduced to zero; and(b) approximately 69.00% of the amount distributable pursuant to clause (3)(b)(i)(B)(III), to the Class 2-A3 Certificates, until their Class Principal Amount has been reduced to zero;(IV) concurrently, to the Class 2-A2 and Class 2-A3 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule III for Group 2 attached in Annex C to this Prospectus Supplement), for so long as both the Class 2-A2 and Class 2-A3 Certificates remain outstanding, as follows:(a) approximately 39.00% of the amount distributable pursuant to clause (3)(b)(i)(B)(IV), to the Class 2-A2 Certificates, until their Class Principal Amount has been reduced to zero; and(b) approximately 61.00% of the amount distributable pursuant to clause (3)(b)(i)(B)(IV), to the Class 2-A3 Certificates, until their Class Principal Amount has been reduced to zero;(V) concurrently, to the Class 2-A2 and Class 2-A3 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule IV for Group 2 attached in Annex C to this Prospectus Supplement), for so long as both the Class 2-A2 and Class 2-A3 Certificates remain outstanding, as follows:(a) approximately 49.00% of the amount distributable pursuant to clause (3)(b)(i)(B)(V), to the Class 2-A2 Certificates, until their Class Principal Amount has been reduced to zero: and(b) approximately 51.00% of the amount distributable pursuant to clause (3)(b)(i)(B)(V), to the Class 2-A3 Certificates, until their Class Principal Amount has been reduced to zero;(VI) concurrently, to the Class 2-A2 and Class 2-A3 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule V for Group 2 attached in Annex C to this Prospectus Supplement), for so long as both the Class 2-A2 and Class 2-A3 Certificates remain outstanding, as follows:(a) approximately 75.00% of the amount distributable pursuant to clause (3)(b)(i)(B)(VI), to the Class 2-A2 Certificates, until their Class Principal Amount has been reduced to zero; and(b) approximately 25.00% of the amount distributable pursuant to clause (3)(b)(i)(B)(VI), to the Class 2-A3 Certificates, until their Class Principal Amount has been reduced to zero;(VII) concurrently, to the Class 2-A2 and Class 2-A3 Certificates, without regard to their Principal Amount Schedules and for so long as both the Class 2-A2 and Class 2-A3 Certificates remain outstanding, as follows:(a) approximately 76.00% of the amount distributable pursuant to clause (3)(b)(i)(B)(VII), to the Class 2-A2 Certificates, until their Class Principal Amount has been reduced to zero; and(b) approximately 24.00% of the amount distributable pursuant to clause (3)(b)(i)(B)(VII), to the Class 2-A3 Certificates, until their Class Principal Amount has been reduced to zero: and(VIII) sequentially, to the Class 2-A2, Class 2-A3 and Class 2-A4 Certificates, in that order, until their respective Class Principal Amounts have been reduced to zero; and(IX) to the Class 2-Al Certificates, without regard to the PAC II Principal Amount Schedule, until its Class Principal Amounts has been reduced to zero;(C) pro rata, to the Class 2-Al0 and Class 2-A11.
+Certificates, based on their respective Class Principal Amounts, in an amount up to the remaining Senior Principal Distribution Amount for Pool 2, until their respective Class Principal Amounts have been reduced to zero;(ii) to the Class 2-AP Certificates, the AP Principal Distribution Amount (as defined herein or Pool 2, until its Class Principal Amount has been reduced to zero;
+Initial Date$126,015,000.00March 25, 2007$  61,380,106.31April 25, 2003$125,210,892.47April 25, 2007$  59,957,979.94May 25, 2003$124,370,959.02May 25, 2007$  58,543,639.11June 25, 2003$123,495,651.01June 25, 2007$  57,137,044.18July 25, 2003$122,585,339.69July 25, 2007$  55,738,155.72August 25, 2003$121,640,415.90August 25, 2007$  54,346,934.51September 25, 2003$120,661,289.83September 25, 2007$  52,963,341.54October 25, 2003$119,648,390.78October 25, 2007$  51,587,337.98November 25, 2003$118,602,166.82November 25, 2007$  50,218,885.23December 25, 2003$117,523,084.52December 25, 2007$  48,857,944.88January 25, 2004$116,411,628.60January 25, 2008$  47,504,478.72February 25, 2004$115,268,301.59February 25, 2008$  46,158,448.74March 25, 2004$114,093,623.47March 25, 2008$  44,819,817.12April 25, 2004$112,888,131.28April 25, 2008$  43,491,769.08May 25, 2004$111,652,378.76May 25, 2008$  42,170,998.03June 25, 2004$110,386,935.91June 25, 2008$  40,857,466.59July 25, 2004$109,092,388.55July 25, 2008$  39,551,137.51August 25, 2004$107,769,337.92August 25, 2008$  38,251,973.80September 25, 2004$106,418,400.19September 25, 2008$  36,981,842.64October 25, 2004$105,040,206.03October 25, 2008$  35,746,076.92November 25, 2004$103,635,400.07November 25, 2008$  34,543,801.69December 25, 2004$102,204,640.44December 25, 2008$  33,374,163.54January 25, 2005$100,748,598.27January 25, 2009$  32,236,330.05February 25, 2005$  99,267,957.13February 25, 2009$  31,129,489.26March 25, 2005$  97,763,412.54March 25, 2009$  30,052,849.25April 25, 2005$  96,235,671.39April 25, 2009$  29,009,645.76May 25, 2005$  94,685,451.42May 25, 2009$  27,994,995.12June 25, 2005$  93,113,480.63June 25, 2009$  27,008,164.29July 25, 2005$  91,520,496.69July 25, 2009$  26,048,438.31August 25, 2005$  89,934,020.20August 25, 2009$  25,115,119.95September 25, 2005$  88,356,155.42September 25, 2009$  24,207,529.20October 25, 2005$  86,786,869.94October 25, 2009$  23,325,002.90November 25, 2005$  85,226,119.98November 25, 2009$  22,466,894.31December 25, 2005$  83,673,862.00December 25, 2009$  21,632,572.74January 25, 2006$  82,130,052.70January 25, 2010$  20,821,423.14February 25, 2006$  80,594,648.97February 25, 2010$  20,032,845.73March 25, 2006$  79,067,607.96March 25, 2010$  19,266,255.61April 25, 2006$  77,548,887.03April 25, 2010$  18,527,617.72May 25, 2006$  76,038,443.75May 25, 2010$  17,809,581.93June 25, 2006$  74,536,235.94June 25, 2010$  17,111,611.44July 25, 2006$  73,042,221.60July 25, 2010$  16,433,182.89August 25, 2006$  71,556,358.98August 25, 2010$  15,773,785.97September 25, 2006$  70,078,606.53September 25, 2010$  15,132,923.16October 25, 2006$  68,608,922.94October 25, 2010$  14,510,109.39November 25, 2006$  67,147,267.08November 25, 2010$  13,904,871.74December 25, 2006$  65,693,598.07December 25, 2010$  13,316,749.15January 25, 2007$  64,247,875.22January 25, 2011$  12,745,292.14February 25, 2007$  62,810,058.05February 25, 2011$  12,190,062.49
+March 25, 2011$11,650,633.02October 25, 2012$  3,984,709.61April 25, 2011$11,131,548.11November 25, 2012$  3,689,688.54May 25, 2011$10,627,184.76December 25, 2012$  3,403,309.80June 25, 2011$10,137,155.00January 25, 2013$  3,125,342.47July 25, 2011$  9,661,080.64February 25, 2013$  2,855,561.47August 25, 2011$  9,198,593.03March 25, 2013$  2,593,747.45September 25, 2011$  8,749,332.84April 25, 2013$  2,339,602.23October 25, 2011$  8,312,949.80May 25, 2013$  2,093,005.35November 25, 2011$  7,889,102.53June 25, 2013$  1,853,753.65December 25, 2011$  7,477,458.27July 25, 2013$  1,621,649.19January 25, 2012$  7,077,692.68August 25, 2013$  1,396,499.05February 25, 2012$  6,689,489.67September 25, 2013$  1,178,115.26March 25, 2012$  6,312,541.15October 25, 2013$     966,314.64April 25, 2012$  5,950,033.48November 25, 2013$     760,918.70May 25, 2012$  5,597,961.62December 25, 2013$     561,753.52June 25, 2012$  5,256,049.28January 25, 2014$     368,649.64July 25, 2012$  4,924,027.14February 25, 2014$     181,441.93August 25, 2012$  4,601,632.65Thereafter$                0.00September 25, 2012$  4,288,609.95
+Distribution DateClass 2-A1Distribution DateClass 2-A1Initial Date$  69,221,000.00May 25, 2006$  25,728,213.94April 25, 2003$  68,519,119.00June 25, 2006$  24,707,287.44May 25, 2003$  67,727,583.96July 25, 2006$  23,695,752.47June 25, 2003$  66,847,152.50August 25, 2006$  22,693,526.13July 25, 2003$  65,878,751.58September 25, 2006$  21,700,526.30August 25, 2003$  64,823,476.71October 25, 2006$  20,716,671.54September 25, 2003$  63,682,590.76November 25, 2006$  19,741,881.15October 25, 2003$  62,457,522.07December 25, 2006$  18,776,075.16November 25, 2003$  61,149,862.18January 25, 2007$  17,819,174.26December 25, 2003$  59,820,824.43February 25, 2007$  16,871,099.89January 25, 2004$  58,487,960.51March 25, 2007$  15,931,774.16February 25, 2004$  57,167,240.63April 25, 2007$  15,001,119.85March 25, 2004$  55,858,557.63May 25, 2007$  14,079,060.47April 25, 2004$  54,561,805.31June 25, 2007$  13,165,520.15May 25, 2004$  53,276,878.42July 25, 2007$  12,266,486.05June 25, 2004$  52,003,672.62August 25, 2007$  11,400,268.94July 25, 2004$  50,742,084.49September 25, 2007$  10,565,688.12August 25, 2004$  49,492,011.51October 25, 2007$    9,761,605.29September 25, 2004$  48,253,352.10November 25, 2007$    8,986,923.03October 25, 2004$  47,026,005.55December 25, 2007$    8,240,583.32November 25, 2004$  45,809,872.02January 25, 2008$    7,521,566.15December 25, 2004$  44,604,852.59February 25, 2008$    6,828,888.15January 25, 2005$  43,410,849.18March 25, 2008$    6,161,601.29February 25, 2005$  42,227,764.59April 25, 2008$    5,581,781.84March 25, 2005$  41,055,502.47May 25, 2008$    5,024,737.75April 25, 2005$  39,893,967.32June 25, 2008$    4,489,627.82May 25, 2005$  38,743,064.49July 25, 2008$    3,975,641.27June 25, 2005$  37,602,700.16August 25, 2008$    3,481,996.68July 25, 2005$  36,472,781.33September 25, 2008$    3,007,940.95August 25, 2005$  35,353,215.82October 25, 2008$    2,552,748.21September 25, 2005$  34,243,912.28November 25, 2008$    2,115,718.93October 25, 2005$  33,144,780.15December 25, 2008$    1,696,178.92November 25, 2005$  32,055,729.67January 25, 2009$    1,293,478.43December 25, 2005$  30,976,671.88February 25, 2009$       906,991.29January 25, 2006$  29,907,518.59March 25, 2009$       536,114.03February 25, 2006$  28,848,182.40April 25, 2009$       198,464.84March 25, 2006$  27,798,576.68Thereafter$                  0.00April 25, 2006$  26,758,615.56
+$70,393,000.00March 25, 2007
+$59,651,234.98April 25, 2003
+$69,469,224.10April 25, 2007
+$59,651,229.90May 25, 2003
+$68,590,493.33May 25, 2007
+$59,651,224.79June 25, 2003
+$67,756,408.69June 25, 2007
+$59,651,219.66July 25, 2003
+$66,966,551.54July 25, 2007
+$59,651,214.51August 25, 2003
+$66,220,483.92August 25, 2007
+$59,651,209.33September 25, 2003
+$65,517,748.72September 25, 2007
+$59,651,204.14October 25, 2003
+$64,857,870.00October 25, 2007
+$59,651,198.93November 25, 2003
+$64,240,353.28November 25, 2007
+$59,651,193.69December 25, 2003
+$63,664,685.82December 25, 2007
+$59,651,188.43January 25, 2004
+$63,130,336.97January 25, 2008
+$59,651,183.15February 25, 2004
+$62,636,758.52February 25, 2008
+$59,651,177.84March 25, 2004
+$62,183,385.04March 25, 2008
+$59,651,172.52April 25, 2004
+$61,769,634.24April 25, 2008
+$59,651,167.17May 25, 2004
+$61,394,907.43May 25, 2008
+$59,651,161.80June 25, 2004
+$61,058,589.87June 25, 2008
+$59,651,156.41July 25, 2004
+$60,760,051.19July 25, 2008
+$59,651,151.00August 25, 2004
+$60,498,645.89August 25, 2008
+$59,651,145.56September 25, 2004
+$60,273,713.74September 25, 2008
+$59,651,140.10October 25, 2004
+$60,084,580.25October 25, 2008
+$59,651,134.62November 25, 2004
+$59,930,557.20November 25, 2008
+$59,651,129.11December 25, 2004
+$59,810,943.07December 25, 2008
+$59,651,123.58January 25, 2005
+$59,725,023.60January 25, 2009
+$59,651,118.03February 25, 2005
+$59,672,072.29February 25, 2009
+$59,651,112.46March 25, 2005
+$59,651,350.94March 25, 2009
+$59,651,106.86April 25, 2005
+$59,651,346.33April 25, 2009
+$59,651,101.24May 25, 2005
+$59,651,341.71May 25, 2009
+$59,651,095.60June 25, 2005
+$59,651,337.07June 25, 2009
+$59,651,089.93July 25, 2005
+$59,651,332.41July 25, 2009
+$59,651,084.24August 25, 2005
+$59,651,327.72August 25, 2009
+$59,651,078.52September 25, 2005
+$59,651,323.02September 25, 2009
+$59,651,072.78October 25, 2005
+$59,651,318.30October 25, 2009
+$59,651,067.02November 25, 2005
+$59,651,313.56November 25, 2009
+$59,651,061.23December 25, 2005
+$59,651,308.80December 25, 2009
+$59,651,055.42January 25, 2006
+$59,651,304.02January 25, 2010
+$59,651,049.59February 25, 2006
+$59,651,299.23February 25, 2010
+$59,651,043.73March 25, 2006
+$59,651,294.41March 25, 2010
+$59,651,037.84April 25, 2006
+$59,651,289.57April 25, 2010
+$59,651,031.93May 25, 2006
+$59,651,284.71May 25, 2010
+$59,651,026.00June 25, 2006
+$59,651,279.83June 25, 2010
+$59,371,032.41July 25, 2006
+$59,651,274.93July 25, 2010
+$58,981,892.90August 25, 2006
+$59,651,270.01August 25, 2010
+$58,579,593.54September 25, 2006
+$59,651,265.07September 25, 2010
+$58,164,601.49October 25, 2006
+$59,651,260.10October 25, 2010
+$57,737,371.55November 25, 2006
+$59,651,255.12November 25, 2010
+$57,298,346.56December 25, 2006
+$59,651,250.12December 25, 2010
+$56,847,957.64January 25, 2007
+$59,651,245.09January 25, 2011
+$56,386,624.52February 25, 2007
+$59,651,240.05February 25, 2011
+$55,914,755.77
+$55,432,749.11September 25, 2014
+$28,967,580.44April 25, 2011
+$54,937,515.37October 25, 2014
+$28,163,322.58May 25, 2011
+$54,433,123.12November 25, 2014
+$27,363,505.02June 25, 2011
+$53,919,931.48December 25, 2014
+$26,568,104.78July 25, 2011
+$53,398,289.95January 25, 2015
+$25,777,098.97August 25, 2011
+$52,868,538.63February 25, 2015
+$24,990,464.86September 25, 2011
+$52,331,008.45March 25, 2015
+$24,208,179.78October 25, 2011
+$51,786,021.41April 25, 2015
+$23,430,221.24November 25, 2011
+$51,233,890.80May 25, 2015
+$22,656,566.81December 25, 2011
+$50,674,921.41June 25, 2015
+$21,887,194.22January 25, 2012
+$50,109,409.75July 25, 2015
+$21,122,081.28February 25, 2012
+$49,537,644.25August 25, 2015
+$20,361,205.93March 25, 2012
+$48,959,905.45September 25, 2015
+$19,604,546.23April 25, 2012
+$48,374,215.79October 25, 2015
+$18,852,080.34May 25, 2012
+$47,783,275.21November 25, 2015
+$18,103,786.54June 25, 2012
+$47,187,333.17December 25, 2015
+$17,359,643.22July 25, 2012
+$46,586,632.34January 25, 2016
+$16,619,628.87August 25, 2012
+$45,981,408.67February 25, 2016
+$15,883,722.12September 25, 2012
+$45,371,891.66March 25, 2016
+$15,151,901.67October 25, 2012
+$44,758,304.43April 25, 2016
+$14,424,146.37November 25, 2012
+$44,140,863.95May 25, 2016
+$13,700,435.15December 25, 2012
+$43,519,781.14June 25, 2016
+$12,980,747.07January 25, 2013
+$42,895,261.07July 25, 2016
+$12,265,061.26February 25, 2013
+$42,267,503.06August 25, 2016
+$11,553,357.01March 25, 2013
+$41,636,700.86September 25, 2016
+$10,845,613.68April 25, 2013
+$41,002,592.64October 25, 2016
+$10,141,810.74May 25, 2013
+$40,365,811.19November 25, 2016
+$  9,441,927.79June 25, 2013
+$39,726,534.41December 25, 2016
+$  8,745,944.49July 25, 2013
+$39,084,935.16January 25, 2017
+$  8,053,840.66August 25, 2013
+$38,441,181.37February 25, 2017
+$  7,365,596.18September 25, 2013
+$37,795,436.19March 25, 2017
+$  6,681,191.05October 25, 2013
+$37,147,858.08April 25, 2017
+$  6,000,605.37November 25, 2013
+$36,498,600.94May 25, 2017
+$  5,323,819.35December 25, 2013
+$35,847,814.23June 25, 2017
+$  4,650,813.30January 25, 2014
+$35,195,643.09July 25, 2017
+$  3,981,567.62February 25, 2014
+$34,542,228.42August 25, 2017
+$  3,316,062.82March 25, 2014
+$33,887,676.55September 25, 2017
+$  2,654,279.51April 25, 2014
+$33,056,287.35October 25, 2017
+$  1,996,198.40May 25, 2014
+$32,229,478.92November 25, 2017
+$  1,341,800.30June 25, 2014
+$31,407,227.54December 25, 2017
+$     691,066.11July 25, 2014
+$30,589,509.63January 25, 2018
+$       43,976.84August 25, 2014
+$29,776,301.71Thereafter
+$                0.00
+$70,393,000.00March 25, 2007
+$56,079,971.19April 25, 2003
+$69,293,302.81April 25, 2007
+$56,079,966.11May 25, 2003
+$68,241,886.37May 25, 2007
+$56,079,961.00June 25, 2003
+$67,238,322.79June 25, 2007
+$56,079,955.87July 25, 2003
+$66,282,164.78July 25, 2007
+$56,079,950.72August 25, 2003
+$65,372,945.91August 25, 2007
+$56,079,945.55September 25, 2003
+$64,510,180.86September 25, 2007
+$56,079,940.35October 25, 2003
+$63,693,365.65October 25, 2007
+$56,079,935.14November 25, 2003
+$62,921,978.01November 25, 2007
+$56,079,929.90December 25, 2003
+$62,195,477.59December 25, 2007
+$56,079,924.64January 25, 2004
+$61,513,306.36January 25, 2008
+$56,079,919.36February 25, 2004
+$60,874,888.92February 25, 2008
+$56,079,914.06March 25, 2004
+$60,279,632.87March 25, 2008
+$56,079,908.73April 25, 2004
+$59,726,929.17April 25, 2008
+$56,079,903.38May 25, 2004
+$59,216,152.54May 25, 2008
+$56,079,898.01June 25, 2004
+$58,746,661.88June 25, 2008
+$56,079,892.62July 25, 2004
+$58,317,800.68July 25, 2008
+$56,079,887.21August 25, 2004
+$57,928,897.45August 25, 2008
+$56,079,881.77September 25, 2004
+$57,579,266.21September 25, 2008
+$56,079,876.31October 25, 2004
+$57,268,206.89October 25, 2008
+$56,079,870.83November 25, 2004
+$56,995,005.90November 25, 2008
+$56,079,865.32December 25, 2004
+$56,758,936.55December 25, 2008
+$56,079,859.80January 25, 2005
+$56,559,259.57January 25, 2009
+$56,079,854.24February 25, 2005
+$56,395,223.68February 25, 2009
+$56,079,848.67March 25, 2005
+$56,266,066.06March 25, 2009
+$56,079,843.07April 25, 2005
+$56,171,012.90April 25, 2009
+$56,079,837.45May 25, 2005
+$56,109,280.00May 25, 2009
+$56,079,831.81June 25, 2005
+$56,080,073.28June 25, 2009
+$56,079,826.14July 25, 2005
+$56,080,068.62July 25, 2009
+$56,079,820.45August 25, 2005
+$56,080,063.94August 25, 2009
+$56,079,814.73September 25, 2005
+$56,080,059.24September 25, 2009
+$56,079,808.99October 25, 2005
+$56,080,054.52October 25, 2009
+$56,015,675.56November 25, 2005
+$56,080,049.78November 25, 2009
+$55,762,606.71December 25, 2005
+$56,080,045.02December 25, 2009
+$55,493,416.54January 25, 2006
+$56,080,040.24January 25, 2010
+$55,208,672.70February 25, 2006
+$56,080,035.44February 25, 2010
+$54,908,927.89March 25, 2006
+$56,080,030.62March 25, 2010
+$54,594,720.19April 25, 2006
+$56,080,025.78April 25, 2010
+$54,262,042.76May 25, 2006
+$56,080,020.92May 25, 2010
+$53,916,148.48June 25, 2006
+$56,080,016.04June 25, 2010
+$53,557,528.31July 25, 2006
+$56,080,011.14July 25, 2010
+$53,186,660.07August 25, 2006
+$56,080,006.22August 25, 2010
+$52,804,008.78September 25, 2006
+$56,080,001.28September 25, 2010
+$52,410,026.96October 25, 2006
+$56,079,996.32October 25, 2010
+$52,005,154.95November 25, 2006
+$56,079,991.33November 25, 2010
+$51,589,821.22December 25, 2006
+$56,079,986.33December 25, 2010
+$51,164,442.62January 25, 2007
+$56,079,981.31January 25, 2011
+$50,729,424.75February 25, 2007
+$56,079,976.26February 25, 2011
+$50,285,162.14
+$49,832,038.61September 25, 2014
+$25,571,670.16April 25, 2011
+$49,367,183.05October 25, 2014
+$24,839,539.64May 25, 2011
+$48,894,409.99November 25, 2014
+$24,112,606.10June 25, 2011
+$48,414,065.09December 25, 2014
+$23,390,837.12July 25, 2011
+$47,926,484.50January 25, 2015
+$22,674,200.50August 25, 2011
+$47,431,995.06February 25, 2015
+$21,962,664.23September 25, 2011
+$46,930,914.56March 25, 2015
+$21,256,196.48October 25, 2011
+$46,423,551.97April 25, 2015
+$20,554,765.63November 25, 2011
+$45,910,207.65May 25, 2015
+$19,858,340.25December 25, 2011
+$45,391,173.55June 25, 2015
+$19,166,889.09January 25, 2012
+$44,866,733.47July 25, 2015
+$18,480,381.10February 25, 2012
+$44,337,163.21August 25, 2015
+$17,798,785.42March 25, 2012
+$43,802,730.80September 25, 2015
+$17,122,071.37April 25, 2012
+$43,261,627.18October 25, 2015
+$16,450,208.45May 25, 2012
+$42,716,350.73November 25, 2015
+$15,783,166.37June 25, 2012
+$42,167,138.86December 25, 2015
+$15,120,915.01July 25, 2012
+$41,614,222.27January 25, 2016
+$14,463,424.42August 25, 2012
+$41,057,825.06February 25, 2016
+$13,810,664.84September 25, 2012
+$40,498,164.96March 25, 2016
+$13,162,606.72October 25, 2012
+$39,935,453.44April 25, 2016
+$12,519,220.64November 25, 2012
+$39,369,895.87May 25, 2016
+$11,880,477.40December 25, 2012
+$38,801,691.71June 25, 2016
+$11,246,347.95January 25, 2013
+$38,231,034.64July 25, 2016
+$10,616,803.43February 25, 2013
+$37,658,112.69August 25, 2016
+$  9,991,815.16March 25, 2013
+$37,083,108.40September 25, 2016
+$  9,371,354.62April 25, 2013
+$36,505,804.31October 25, 2016
+$  8,755,393.47May 25, 2013
+$35,926,767.25November 25, 2016
+$  8,143,903.55June 25, 2013
+$35,346,164.19December 25, 2016
+$  7,536,856.87July 25, 2013
+$34,764,157.14January 25, 2017
+$  6,934,225.58August 25, 2013
+$34,180,903.30February 25, 2017
+$  6,335,982.05September 25, 2013
+$33,596,555.13March 25, 2017
+$  5,742,098.79October 25, 2013
+$33,011,260.51April 25, 2017
+$  5,152,548.46November 25, 2013
+$32,425,162.87May 25, 2017
+$  4,567,303.92December 25, 2013
+$31,838,401.25June 25, 2017
+$  3,986,338.18January 25, 2014
+$31,251,110.47July 25, 2017
+$  3,409,624.41February 25, 2014
+$30,663,421.21August 25, 2017
+$  2,837,135.95March 25, 2014
+$30,075,429.62September 25, 2017
+$  2,268,846.30April 25, 2014
+$29,311,425.54October 25, 2017
+$  1,704,729.12May 25, 2014
+$28,552,817.08November 25, 2017
+$  1,144,758.23June 25, 2014
+$27,799,570.62December 25, 2017
+$     588,907.62July 25, 2014
+$27,051,652.75January 25, 2018
+$       37,151.43August 25, 2014
+$26,309,030.26Thereafter
+$                0.00
+$70,393,000.00March 25, 2007
+$51,477,706.81April 25, 2003
+$69,115,638.91April 25, 2007
+$51,476,263.28May 25, 2003
+$67,890,141.57May 25, 2007
+$51,476,258.17June 25, 2003
+$66,716,041.78June 25, 2007
+$51,476,253.04July 25, 2003
+$65,592,854.27July 25, 2007
+$51,476,247.89August 25, 2003
+$64,520,074.97August 25, 2007
+$51,476,242.72September 25, 2003
+$63,497,181.25September 25, 2007
+$51,476,237.53October 25, 2003
+$62,523,632.17October 25, 2007
+$51,476,232.31November 25, 2003
+$61,598,868.79November 25, 2007
+$51,476,227.07December 25, 2003
+$60,722,314.47December 25, 2007
+$51,476,221.82January 25, 2004
+$59,893,375.18January 25, 2008
+$51,476,216.53February 25, 2004
+$59,111,439.84February 25, 2008
+$51,476,211.23March 25, 2004
+$58,375,880.70March 25, 2008
+$51,476,205.91April 25, 2004
+$57,686,053.68April 25, 2008
+$51,476,200.56May 25, 2004
+$57,041,298.80May 25, 2008
+$51,476,195.19June 25, 2004
+$56,440,940.51June 25, 2008
+$51,476,189.80July 25, 2004
+$55,884,288.22July 25, 2008
+$51,476,184.38August 25, 2004
+$55,370,636.65August 25, 2008
+$51,476,178.95September 25, 2004
+$54,899,266.29September 25, 2008
+$51,476,173.49October 25, 2004
+$54,469,443.91October 25, 2008
+$51,476,168.00November 25, 2004
+$54,080,423.01November 25, 2008
+$51,476,162.50December 25, 2004
+$53,731,444.29December 25, 2008
+$51,476,156.97January 25, 2005
+$53,421,736.21January 25, 2009
+$51,476,151.42February 25, 2005
+$53,150,515.43February 25, 2009
+$51,476,145.84March 25, 2005
+$52,916,987.43March 25, 2009
+$51,476,140.25April 25, 2005
+$52,720,346.96April 25, 2009
+$51,476,134.63May 25, 2005
+$52,559,778.65May 25, 2009
+$51,422,740.97June 25, 2005
+$52,434,457.55June 25, 2009
+$51,263,094.80July 25, 2005
+$52,343,549.70July 25, 2009
+$51,085,746.31August 25, 2005
+$52,259,438.91August 25, 2009
+$50,891,324.52September 25, 2005
+$52,179,925.99September 25, 2009
+$50,680,441.68October 25, 2005
+$52,104,949.11October 25, 2009
+$50,453,693.66November 25, 2005
+$52,034,458.43November 25, 2009
+$50,211,660.38December 25, 2005
+$51,968,404.57December 25, 2009
+$49,954,906.20January 25, 2006
+$51,906,738.55January 25, 2010
+$49,683,980.30February 25, 2006
+$51,849,411.85February 25, 2010
+$49,399,417.06March 25, 2006
+$51,796,376.33March 25, 2010
+$49,101,736.40April 25, 2006
+$51,747,584.29April 25, 2010
+$48,787,193.83May 25, 2006
+$51,702,988.45May 25, 2010
+$48,460,735.60June 25, 2006
+$51,662,541.92June 25, 2010
+$48,122,835.14July 25, 2006
+$51,626,198.24July 25, 2010
+$47,773,952.90August 25, 2006
+$51,593,911.33August 25, 2010
+$47,414,536.68September 25, 2006
+$51,565,635.55September 25, 2010
+$47,045,021.98October 25, 2006
+$51,541,325.61October 25, 2010
+$46,665,832.26November 25, 2006
+$51,520,936.65November 25, 2010
+$46,277,379.27December 25, 2006
+$51,504,424.19December 25, 2010
+$45,880,063.32January 25, 2007
+$51,491,744.13January 25, 2011
+$45,474,273.60February 25, 2007
+$51,482,852.78February 25, 2011
+$45,060,388.42
+$44,638,775.53September 25, 2014
+$22,540,389.09April 25, 2011
+$44,206,775.26October 25, 2014
+$21,875,320.68May 25, 2011
+$43,767,950.08November 25, 2014
+$21,216,004.49June 25, 2011
+$43,322,630.18December 25, 2014
+$20,562,398.09July 25, 2011
+$42,871,136.37January 25, 2015
+$19,914,459.34August 25, 2011
+$42,413,780.34February 25, 2015
+$19,272,146.44September 25, 2011
+$41,950,864.86March 25, 2015
+$18,635,417.83October 25, 2011
+$41,482,684.02April 25, 2015
+$18,004,232.28November 25, 2011
+$41,009,523.44May 25, 2015
+$17,378,548.84December 25, 2011
+$40,531,660.50June 25, 2015
+$16,758,326.85January 25, 2012
+$40,049,364.55July 25, 2015
+$16,143,525.94February 25, 2012
+$39,562,897.09August 25, 2015
+$15,534,106.02March 25, 2012
+$39,072,511.99September 25, 2015
+$14,930,027.29April 25, 2012
+$38,576,560.11October 25, 2015
+$14,331,250.23May 25, 2012
+$38,077,343.33November 25, 2015
+$13,737,735.60June 25, 2012
+$37,575,085.53December 25, 2015
+$13,149,444.42July 25, 2012
+$37,070,003.97January 25, 2016
+$12,566,338.01August 25, 2012
+$36,562,309.47February 25, 2016
+$11,988,377.96September 25, 2012
+$36,052,206.61March 25, 2016
+$11,415,526.12October 25, 2012
+$35,539,893.81April 25, 2016
+$10,847,744.61November 25, 2012
+$35,025,563.57May 25, 2016
+$10,284,995.84December 25, 2012
+$34,509,402.58June 25, 2016
+$  9,727,242.45January 25, 2013
+$33,991,591.86July 25, 2016
+$  9,174,447.38February 25, 2013
+$33,472,306.94August 25, 2016
+$  8,626,573.81March 25, 2013
+$32,951,717.97September 25, 2016
+$  8,083,585.18April 25, 2013
+$32,429,645.46October 25, 2016
+$  7,545,445.20May 25, 2013
+$31,906,594.23November 25, 2016
+$  7,012,117.84June 25, 2013
+$31,382,719.22December 25, 2016
+$  6,483,567.32July 25, 2013
+$30,858,170.54January 25, 2017
+$  5,959,758.09August 25, 2013
+$30,333,093.56February 25, 2017
+$  5,440,654.90September 25, 2013
+$29,807,629.10March 25, 2017
+$  4,926,222.70October 25, 2013
+$29,281,913.47April 25, 2017
+$  4,416,426.72November 25, 2013
+$28,756,078.64May 25, 2017
+$  3,911,232.42December 25, 2013
+$28,230,252.36June 25, 2017
+$  3,410,605.52January 25, 2014
+$27,704,558.21July 25, 2017
+$  2,914,511.98February 25, 2014
+$27,179,115.77August 25, 2017
+$  2,422,917.98March 25, 2014
+$26,654,010.23September 25, 2017
+$  1,935,789.97April 25, 2014
+$25,953,520.53October 25, 2017
+$  1,453,094.61May 25, 2014
+$25,259,044.01November 25, 2017
+$     974,798.81June 25, 2014
+$24,570,536.41December 25, 2017
+$     500,869.73July 25, 2014
+$23,887,953.77January 25, 2018
+$       31,274.73August 25, 2014
+$23,211,252.44Thereafter
+$                0.00
+$70,393,000.00March 25, 2007
+$46,553,651.51April 25, 2003
+$68,936,195.90April 25, 2007
+$46,514,578.74May 25, 2003
+$67,535,196.11May 25, 2007
+$46,481,251.01June 25, 2003
+$66,189,485.52June 25, 2007
+$46,453,596.64July 25, 2003
+$64,898,530.47July 25, 2007
+$46,431,544.63August 25, 2003
+$63,661,779.01August 25, 2007
+$46,415,024.69September 25, 2003
+$62,478,661.08September 25, 2007
+$46,403,967.18October 25, 2003
+$61,348,588.83October 25, 2007
+$46,398,303.14November 25, 2003
+$60,270,956.89November 25, 2007
+$46,397,964.28December 25, 2003
+$59,245,142.66December 25, 2007
+$46,397,959.02January 25, 2004
+$58,270,506.61January 25, 2008
+$46,397,953.74February 25, 2004
+$57,346,392.68February 25, 2008
+$46,397,948.43March 25, 2004
+$56,472,128.53March 25, 2008
+$46,397,943.11April 25, 2004
+$55,647,026.02April 25, 2008
+$46,397,937.76May 25, 2004
+$54,870,381.51May 25, 2008
+$46,397,932.39June 25, 2004
+$54,141,476.30June 25, 2008
+$46,397,927.00July 25, 2004
+$53,459,577.03July 25, 2008
+$46,397,921.59August 25, 2004
+$52,823,936.15August 25, 2008
+$46,397,916.15September 25, 2004
+$52,233,792.29September 25, 2008
+$46,397,910.69October 25, 2004
+$51,688,370.82October 25, 2008
+$46,397,905.21November 25, 2004
+$51,186,884.22November 25, 2008
+$46,397,899.70December 25, 2004
+$50,728,532.66December 25, 2008
+$46,397,894.17January 25, 2005
+$50,312,504.44January 25, 2009
+$46,397,888.62February 25, 2005
+$49,937,976.52February 25, 2009
+$46,397,883.05March 25, 2005
+$49,604,115.06March 25, 2009
+$46,384,396.03April 25, 2005
+$49,310,075.93April 25, 2009
+$46,267,613.10May 25, 2005
+$49,055,005.26May 25, 2009
+$46,133,263.15June 25, 2005
+$48,838,040.03June 25, 2009
+$45,981,987.40July 25, 2005
+$48,658,308.58July 25, 2009
+$45,814,409.69August 25, 2005
+$48,488,157.45August 25, 2009
+$45,631,136.91September 25, 2005
+$48,325,350.54September 25, 2009
+$45,432,759.40October 25, 2005
+$48,169,789.51October 25, 2009
+$45,219,851.43November 25, 2005
+$48,021,388.41November 25, 2009
+$44,992,971.52December 25, 2005
+$47,880,062.09December 25, 2009
+$44,752,662.85January 25, 2006
+$47,745,726.23January 25, 2010
+$44,499,453.71February 25, 2006
+$47,618,297.29February 25, 2010
+$44,233,857.77March 25, 2006
+$47,497,692.53March 25, 2010
+$43,956,374.51April 25, 2006
+$47,383,829.97April 25, 2010
+$43,663,517.93May 25, 2006
+$47,276,628.45May 25, 2010
+$43,359,926.58June 25, 2006
+$47,176,007.54June 25, 2010
+$43,046,054.22July 25, 2006
+$47,081,887.59July 25, 2010
+$42,722,341.86August 25, 2006
+$46,994,189.72August 25, 2010
+$42,389,218.09September 25, 2006
+$46,912,835.77September 25, 2010
+$42,047,099.41October 25, 2006
+$46,837,748.35October 25, 2010
+$41,696,390.48November 25, 2006
+$46,768,850.80November 25, 2010
+$41,337,484.50December 25, 2006
+$46,706,067.19December 25, 2010
+$40,970,763.43January 25, 2007
+$46,649,322.31January 25, 2011
+$40,596,598.28February 25, 2007
+$46,598,541.67February 25, 2011
+$40,215,349.45
+$39,827,366.92September 25, 2014
+$19,838,071.94April 25, 2011
+$39,430,196.42October 25, 2014
+$19,235,201.76May 25, 2011
+$39,027,150.80November 25, 2014
+$18,638,466.19June 25, 2011
+$38,618,543.27December 25, 2014
+$18,047,812.73July 25, 2011
+$38,204,677.92January 25, 2015
+$17,463,189.29August 25, 2011
+$37,785,849.84February 25, 2015
+$16,884,544.20September 25, 2011
+$37,362,345.44March 25, 2015
+$16,311,826.24October 25, 2011
+$36,934,442.61April 25, 2015
+$15,744,984.56November 25, 2011
+$36,502,410.98May 25, 2015
+$15,183,968.75December 25, 2011
+$36,066,512.13June 25, 2015
+$14,628,728.82January 25, 2012
+$35,626,999.77July 25, 2015
+$14,079,215.14February 25, 2012
+$35,184,119.96August 25, 2015
+$13,535,378.54March 25, 2012
+$34,738,111.31September 25, 2015
+$12,997,170.20April 25, 2012
+$34,287,476.61October 25, 2015
+$12,464,541.72May 25, 2012
+$33,834,326.83November 25, 2015
+$11,937,445.09June 25, 2012
+$33,378,871.33December 25, 2015
+$11,415,832.69July 25, 2012
+$32,921,313.05January 25, 2016
+$10,899,657.28August 25, 2012
+$32,461,848.65February 25, 2016
+$10,388,872.01September 25, 2012
+$32,000,668.68March 25, 2016
+$  9,883,430.41October 25, 2012
+$31,537,957.77April 25, 2016
+$  9,383,286.39November 25, 2012
+$31,073,894.72May 25, 2016
+$  8,888,394.22December 25, 2012
+$30,608,652.72June 25, 2016
+$  8,398,708.55January 25, 2013
+$30,142,399.44July 25, 2016
+$  7,914,184.42February 25, 2013
+$29,675,297.22August 25, 2016
+$  7,434,777.19March 25, 2013
+$29,207,503.18September 25, 2016
+$  6,960,442.63April 25, 2013
+$28,738,870.48October 25, 2016
+$  6,491,136.83May 25, 2013
+$28,269,845.95November 25, 2016
+$  6,026,816.26June 25, 2013
+$27,800,571.97December 25, 2016
+$  5,567,437.75July 25, 2013
+$27,331,186.20January 25, 2017
+$  5,112,958.46August 25, 2013
+$26,861,821.75February 25, 2017
+$  4,663,335.90September 25, 2013
+$26,392,607.30March 25, 2017
+$  4,218,527.95October 25, 2013
+$25,923,667.20April 25, 2017
+$  3,778,492.81November 25, 2013
+$25,455,121.56May 25, 2017
+$  3,343,189.03December 25, 2013
+$24,987,086.44June 25, 2017
+$  2,912,575.49January 25, 2014
+$24,519,673.87July 25, 2017
+$  2,486,611.42February 25, 2014
+$24,052,992.02August 25, 2017
+$  2,065,256.36March 25, 2014
+$23,587,114.80September 25, 2017
+$  1,648,470.19April 25, 2014
+$22,946,310.02October 25, 2017
+$  1,236,213.12May 25, 2014
+$22,311,964.03November 25, 2017
+$     828,445.70June 25, 2014
+$21,684,021.69December 25, 2017
+$     425,128.76July 25, 2014
+$21,062,428.32January 25, 2018
+$       26,223.48August 25, 2014
+$20,447,129.67Thereafter
+$                0.00
+$70,393,000.00March 25, 2007
+$41,789,279.48April 25, 2003
+$68,754,936.13April 25, 2007
+$41,718,191.90May 25, 2003
+$67,176,985.21May 25, 2007
+$41,654,925.79June 25, 2003
+$65,658,571.46June 25, 2007
+$41,599,375.41July 25, 2003
+$64,199,101.25July 25, 2007
+$41,551,436.12August 25, 2003
+$62,797,963.34August 25, 2007
+$41,511,004.39September 25, 2003
+$61,454,529.10September 25, 2007
+$41,477,977.77October 25, 2003
+$60,168,152.79October 25, 2007
+$41,452,254.88November 25, 2003
+$58,938,171.82November 25, 2007
+$41,433,735.43December 25, 2003
+$57,763,907.01December 25, 2007
+$41,422,320.14January 25, 2004
+$56,644,662.98January 25, 2008
+$41,417,910.83February 25, 2004
+$55,579,728.39February 25, 2008
+$41,417,905.53March 25, 2004
+$54,568,376.36March 25, 2008
+$41,417,900.20April 25, 2004
+$53,609,864.78April 25, 2008
+$41,417,894.85May 25, 2004
+$52,703,436.70May 25, 2008
+$41,417,889.48June 25, 2004
+$51,848,320.73June 25, 2008
+$41,417,884.09July 25, 2004
+$51,043,731.47July 25, 2008
+$41,417,878.68August 25, 2004
+$50,288,869.89August 25, 2008
+$41,417,873.24September 25, 2004
+$49,582,923.82September 25, 2008
+$41,417,867.78October 25, 2004
+$48,925,068.35October 25, 2008
+$41,417,862.30November 25, 2004
+$48,314,466.34November 25, 2008
+$41,417,856.79December 25, 2004
+$47,750,268.90December 25, 2008
+$41,417,851.26January 25, 2005
+$47,231,615.84January 25, 2009
+$41,417,845.71February 25, 2005
+$46,757,636.25February 25, 2009
+$41,417,840.14March 25, 2005
+$46,327,448.94March 25, 2009
+$41,366,288.66April 25, 2005
+$45,940,163.02April 25, 2009
+$41,259,343.01May 25, 2005
+$45,594,878.43May 25, 2009
+$41,136,181.94June 25, 2005
+$45,290,686.47June 25, 2009
+$40,997,421.54July 25, 2005
+$45,026,670.38July 25, 2009
+$40,843,660.88August 25, 2005
+$44,775,132.13August 25, 2009
+$40,675,482.37September 25, 2005
+$44,533,791.58September 25, 2009
+$40,493,452.22October 25, 2005
+$44,302,506.88October 25, 2009
+$40,298,120.83November 25, 2005
+$44,081,149.10November 25, 2009
+$40,090,023.19December 25, 2005
+$43,869,590.63December 25, 2009
+$39,869,679.26January 25, 2006
+$43,667,705.17January 25, 2010
+$39,637,594.38February 25, 2006
+$43,475,367.75February 25, 2010
+$39,394,259.60March 25, 2006
+$43,292,454.65March 25, 2010
+$39,140,152.07April 25, 2006
+$43,118,843.48April 25, 2010
+$38,872,040.84May 25, 2006
+$42,954,413.06May 25, 2010
+$38,594,256.10June 25, 2006
+$42,799,043.52June 25, 2010
+$38,307,230.28July 25, 2006
+$42,652,616.18July 25, 2010
+$38,011,383.33August 25, 2006
+$42,515,013.64August 25, 2010
+$37,707,123.06September 25, 2006
+$42,386,119.68September 25, 2010
+$37,394,845.44October 25, 2006
+$42,265,819.30October 25, 2010
+$37,074,934.91November 25, 2006
+$42,153,998.72November 25, 2010
+$36,747,764.69December 25, 2006
+$42,050,545.31December 25, 2010
+$36,413,697.02January 25, 2007
+$41,955,347.63January 25, 2011
+$36,073,083.50February 25, 2007
+$41,868,295.39February 25, 2011
+$35,726,265.31
+$35,373,573.51September 25, 2014
+$17,432,202.61April 25, 2011
+$35,012,753.55October 25, 2014
+$16,886,879.71May 25, 2011
+$34,646,871.62November 25, 2014
+$16,347,926.64June 25, 2011
+$34,276,222.99December 25, 2014
+$15,815,281.16July 25, 2011
+$33,901,093.98January 25, 2015
+$15,288,881.61August 25, 2011
+$33,521,762.22February 25, 2015
+$14,768,666.90September 25, 2011
+$33,138,496.84March 25, 2015
+$14,254,576.50October 25, 2011
+$32,751,558.74April 25, 2015
+$13,746,550.43November 25, 2011
+$32,361,200.74May 25, 2015
+$13,244,529.26December 25, 2011
+$31,967,667.86June 25, 2015
+$12,748,454.12January 25, 2012
+$31,571,197.47July 25, 2015
+$12,258,266.66February 25, 2012
+$31,172,019.53August 25, 2015
+$11,773,909.07March 25, 2012
+$30,770,356.75September 25, 2015
+$11,295,324.09April 25, 2012
+$30,364,856.45October 25, 2015
+$10,822,454.97May 25, 2012
+$29,957,444.67November 25, 2015
+$10,355,245.49June 25, 2012
+$29,548,315.79December 25, 2015
+$  9,893,639.92July 25, 2012
+$29,137,657.97January 25, 2016
+$  9,437,583.10August 25, 2012
+$28,725,653.32February 25, 2016
+$  8,987,020.31September 25, 2012
+$28,312,478.02March 25, 2016
+$  8,541,897.39October 25, 2012
+$27,898,302.51April 25, 2016
+$  8,102,160.64November 25, 2012
+$27,483,291.65May 25, 2016
+$  7,667,756.87December 25, 2012
+$27,067,604.85June 25, 2016
+$  7,238,633.39January 25, 2013
+$26,651,396.19July 25, 2016
+$  6,814,737.98February 25, 2013
+$26,234,814.63August 25, 2016
+$  6,396,018.90March 25, 2013
+$25,818,004.08September 25, 2016
+$  5,982,424.90April 25, 2013
+$25,400,845.85October 25, 2016
+$  5,573,905.19May 25, 2013
+$24,983,732.96November 25, 2016
+$  5,170,409.45June 25, 2013
+$24,566,795.10December 25, 2016
+$  4,771,887.85July 25, 2013
+$24,150,157.47January 25, 2017
+$  4,378,290.97August 25, 2013
+$23,733,940.89February 25, 2017
+$  3,989,569.90September 25, 2013
+$23,318,261.90March 25, 2017
+$  3,605,676.13October 25, 2013
+$22,903,232.89April 25, 2017
+$  3,226,561.65November 25, 2013
+$22,488,962.23May 25, 2017
+$  2,852,178.84December 25, 2013
+$22,075,554.33June 25, 2017
+$  2,482,480.57January 25, 2014
+$21,663,109.81July 25, 2017
+$  2,117,420.12February 25, 2014
+$21,251,725.55August 25, 2017
+$  1,756,951.19March 25, 2014
+$20,841,464.36September 25, 2017
+$  1,401,027.94April 25, 2014
+$20,256,583.08October 25, 2017
+$  1,049,604.93May 25, 2014
+$19,678,457.28November 25, 2017
+$     702,637.15June 25, 2014
+$19,107,021.20December 25, 2017
+$     360,080.00July 25, 2014
+$18,542,209.67January 25, 2018
+$       21,889.30August 25, 2014
+$17,983,958.13Thereafter
+$    0.00
+$70,393,000.00March 25, 2007
+$32,725,663.17April 25, 2003
+$68,386,809.45April 25, 2007
+$32,606,309.56May 25, 2003
+$66,450,497.64May 25, 2007
+$32,498,865.71June 25, 2003
+$64,583,326.91June 25, 2007
+$32,403,144.63July 25, 2003
+$62,784,544.02July 25, 2007
+$32,318,961.62August 25, 2003
+$61,053,380.31August 25, 2007
+$32,246,134.27September 25, 2003
+$59,389,051.90September 25, 2007
+$32,184,482.45October 25, 2003
+$57,790,759.95October 25, 2007
+$32,133,828.24November 25, 2003
+$56,257,690.89November 25, 2007
+$32,093,995.94December 25, 2003
+$54,789,016.69December 25, 2007
+$32,064,812.03January 25, 2004
+$53,383,895.13January 25, 2008
+$32,046,105.13February 25, 2004
+$52,041,470.12February 25, 2008
+$32,037,706.04March 25, 2004
+$50,760,872.03March 25, 2008
+$32,037,700.71April 25, 2004
+$49,541,217.98April 25, 2008
+$32,037,695.36May 25, 2004
+$48,381,612.25May 25, 2008
+$32,037,689.99June 25, 2004
+$47,281,146.59June 25, 2008
+$32,037,684.60July 25, 2004
+$46,238,900.66July 25, 2008
+$32,037,679.19August 25, 2004
+$45,253,942.41August 25, 2008
+$32,037,673.75September 25, 2004
+$44,325,328.47September 25, 2008
+$32,037,668.29October 25, 2004
+$43,452,104.63October 25, 2008
+$32,037,662.81November 25, 2004
+$42,633,306.23November 25, 2008
+$32,037,657.30December 25, 2004
+$41,867,958.67December 25, 2008
+$32,037,651.77January 25, 2005
+$41,155,077.86January 25, 2009
+$32,037,646.22February 25, 2005
+$40,493,670.67February 25, 2009
+$32,037,640.65March 25, 2005
+$39,882,735.48March 25, 2009
+$32,037,635.05April 25, 2005
+$39,321,262.66April 25, 2009
+$32,037,629.43May 25, 2005
+$38,808,235.09May 25, 2009
+$31,967,051.15June 25, 2005
+$38,342,628.69June 25, 2009
+$31,863,995.72July 25, 2005
+$37,923,412.95July 25, 2009
+$31,748,238.50August 25, 2005
+$37,522,777.72August 25, 2009
+$31,620,307.44September 25, 2005
+$37,138,332.34September 25, 2009
+$31,480,715.16October 25, 2005
+$36,769,826.02October 25, 2009
+$31,329,959.29November 25, 2005
+$36,417,022.45November 25, 2009
+$31,168,522.90December 25, 2005
+$36,079,688.19December 25, 2009
+$30,996,874.84January 25, 2006
+$35,757,592.63January 25, 2010
+$30,815,470.12February 25, 2006
+$35,450,507.97February 25, 2010
+$30,624,750.30March 25, 2006
+$35,158,209.18March 25, 2010
+$30,425,143.78April 25, 2006
+$34,880,473.97April 25, 2010
+$30,213,920.96May 25, 2006
+$34,617,082.77May 25, 2010
+$29,994,795.14June 25, 2006
+$34,367,818.69June 25, 2010
+$29,768,152.64July 25, 2006
+$34,132,467.48July 25, 2010
+$29,534,368.07August 25, 2006
+$33,910,817.53August 25, 2010
+$29,293,804.61September 25, 2006
+$33,702,659.79September 25, 2010
+$29,046,814.34October 25, 2006
+$33,507,787.79October 25, 2010
+$28,793,738.51November 25, 2006
+$33,325,997.61November 25, 2010
+$28,534,907.84December 25, 2006
+$33,157,087.79December 25, 2010
+$28,270,642.79January 25, 2007
+$33,000,859.39January 25, 2011
+$28,001,253.83February 25, 2007
+$32,857,115.88February 25, 2011
+$27,727,041.72
+$27,448,297.72September 25, 2014
+$13,394,019.10April 25, 2011
+$27,163,151.37October 25, 2014
+$12,950,726.72May 25, 2011
+$26,874,186.25November 25, 2014
+$12,513,922.30June 25, 2011
+$26,581,660.28December 25, 2014
+$12,083,526.45July 25, 2011
+$26,285,823.10January 25, 2015
+$11,659,460.66August 25, 2011
+$25,986,916.23February 25, 2015
+$11,241,647.35September 25, 2011
+$25,685,173.33March 25, 2015
+$10,830,009.80October 25, 2011
+$25,380,820.38April 25, 2015
+$10,424,472.16November 25, 2011
+$25,074,075.91May 25, 2015
+$10,024,959.48December 25, 2011
+$24,765,151.21June 25, 2015
+$  9,631,397.63January 25, 2012
+$24,454,250.51July 25, 2015
+$  9,243,713.34February 25, 2012
+$24,141,571.15August 25, 2015
+$  8,861,834.18March 25, 2012
+$23,827,303.82September 25, 2015
+$  8,485,688.55April 25, 2012
+$23,510,364.56October 25, 2015
+$  8,115,205.66May 25, 2012
+$23,192,328.89November 25, 2015
+$  7,750,315.53June 25, 2012
+$22,873,361.44December 25, 2015
+$  7,390,948.98July 25, 2012
+$22,553,621.08January 25, 2016
+$  7,037,037.64August 25, 2012
+$22,233,261.17February 25, 2016
+$  6,688,513.90September 25, 2012
+$21,912,429.64March 25, 2016
+$  6,345,310.94October 25, 2012
+$21,591,269.17April 25, 2016
+$  6,007,362.69November 25, 2012
+$21,269,917.33May 25, 2016
+$  5,674,603.86December 25, 2012
+$20,948,506.71June 25, 2016
+$  5,346,969.89January 25, 2013
+$20,627,165.10July 25, 2016
+$  5,024,396.97February 25, 2013
+$20,306,015.55August 25, 2016
+$  4,706,822.02March 25, 2013
+$19,985,176.59September 25, 2016
+$  4,394,182.69April 25, 2013
+$19,664,575.31October 25, 2016
+$  4,086,417.33May 25, 2013
+$19,344,509.54November 25, 2016
+$  3,783,465.02June 25, 2013
+$19,025,084.91December 25, 2016
+$  3,485,265.53July 25, 2013
+$18,706,402.97January 25, 2017
+$  3,191,759.33August 25, 2013
+$18,388,561.29February 25, 2017
+$  2,902,887.56September 25, 2013
+$18,071,653.63March 25, 2017
+$  2,618,592.05October 25, 2013
+$17,755,769.98April 25, 2017
+$  2,338,815.30November 25, 2013
+$17,440,996.72May 25, 2017
+$  2,063,500.47December 25, 2013
+$17,127,416.70June 25, 2017
+$  1,792,591.38January 25, 2014
+$16,815,109.34July 25, 2017
+$  1,526,032.49February 25, 2014
+$16,504,150.76August 25, 2017
+$  1,263,768.91March 25, 2014
+$16,194,583.33September 25, 2017
+$  1,005,746.38April 25, 2014
+$15,710,643.91October 25, 2017
+$     751,911.26May 25, 2014
+$15,233,688.39November 25, 2017
+$     502,210.54June 25, 2014
+$14,763,631.75December 25, 2017
+$     256,591.83July 25, 2014
+$14,300,389.91January 25, 2018
+$       15,003.33August 25, 2014
+$13,843,879.75Thereafter
+$                0.00
+$67,326,000.00July 25, 2006
+$67,058,378.85April 25, 2003
+$67,145,164.84August 25, 2006
+$67,058,373.93May 25, 2003
+$67,058,551.45September 25, 2006
+$67,058,368.99June 25, 2003
+$67,058,547.25October 25, 2006
+$67,058,364.03July 25, 2003
+$67,058,543.03November 25, 2006
+$67,058,359.04August 25, 2003
+$67,058,538.79December 25, 2006
+$67,058,354.04September 25, 2003
+$67,058,534.54January 25, 2007
+$67,058,349.02October 25, 2003
+$67,058,530.27February 25, 2007
+$67,058,343.97November 25, 2003
+$67,058,525.98March 25, 2007
+$67,058,338.90December 25, 2003
+$67,058,521.67April 25, 2007
+$67,058,333.82January 25, 2004
+$67,058,517.34May 25, 2007
+$67,058,328.71February 25, 2004
+$67,058,513.00June 25, 2007
+$67,058,323.58March 25, 2004
+$67,058,508.64July 25, 2007
+$67,058,318.43April 25, 2004
+$67,058,504.26August 25, 2007
+$67,058,313.26May 25, 2004
+$67,058,499.86September 25, 2007
+$67,058,308.06June 25, 2004
+$67,058,495.44October 25, 2007
+$67,058,302.85July 25, 2004
+$67,058,491.01November 25, 2007
+$67,058,297.61August 25, 2004
+$67,058,486.56December 25, 2007
+$67,058,292.35September 25, 2004
+$67,058,482.08January 25, 2008
+$67,058,287.07October 25, 2004
+$67,058,477.59February 25, 2008
+$67,058,281.77November 25, 2004
+$67,058,473.08March 25, 2008
+$67,058,276.44December 25, 2004
+$67,058,468.56April 25, 2008
+$67,058,271.09January 25, 2005
+$67,058,464.01May 25, 2008
+$67,058,265.72February 25, 2005
+$67,058,459.44June 25, 2008
+$67,058,260.33March 25, 2005
+$67,058,454.86July 25, 2008
+$67,058,254.92April 25, 2005
+$67,058,450.25August 25, 2008
+$67,058,249.48May 25, 2005
+$67,058,445.63September 25, 2008
+$67,058,244.02June 25, 2005
+$67,058,440.99October 25, 2008
+$67,058,238.54July 25, 2005
+$67,058,436.33November 25, 2008
+$67,058,233.03August 25, 2005
+$67,058,431.65December 25, 2008
+$67,058,227.51September 25, 2005
+$67,058,426.95January 25, 2009
+$67,058,221.95October 25, 2005
+$67,058,422.23February 25, 2009
+$67,058,216.38November 25, 2005
+$67,058,417.49March 25, 2009
+$67,058,210.78December 25, 2005
+$67,058,412.73April 25, 2009
+$67,058,205.16January 25, 2006
+$67,058,407.95May 25, 2009
+$67,058,199.52February 25, 2006
+$67,058,403.15June 25, 2009
+$67,058,193.85March 25, 2006
+$67,058,398.33July 25, 2009
+$67,058,188.16April 25, 2006
+$67,058,393.49August 25, 2009
+$67,058,182.44May 25, 2006
+$67,058,388.63September 25, 2009
+$67,058,176.70June 25, 2006
+$67,058,383.75October 25, 2009
+$67,058,170.94
+$67,058,165.15February 25, 2014
+$53,532,363.67December 25, 2009
+$67,058,159.34March 25, 2014
+$53,092,306.98January 25, 2010
+$67,058,153.51April 25, 2014
+$52,654,483.77February 25, 2010
+$67,058,147.65May 25, 2014
+$52,218,882.52March 25, 2010
+$67,058,141.76June 25, 2014
+$51,785,491.81April 25, 2010
+$67,058,135.86July 25, 2014
+$51,354,300.25May 25, 2010
+$67,058,129.92August 25, 2014
+$50,925,296.51June 25, 2010
+$67,058,123.96September 25, 2014
+$50,498,469.35July 25, 2010
+$67,058,117.98October 25, 2014
+$50,073,807.54August 25, 2010
+$67,058,111.97November 25, 2014
+$49,651,299.95September 25, 2010
+$67,058,105.94December 25, 2014
+$49,230,935.48October 25, 2010
+$67,058,099.88January 25, 2015
+$48,812,703.10November 25, 2010
+$67,058,093.80February 25, 2015
+$48,396,591.83December 25, 2010
+$67,058,087.69March 25, 2015
+$47,982,590.75January 25, 2011
+$67,058,081.56April 25, 2015
+$47,570,689.00February 25, 2011
+$67,058,075.40May 25, 2015
+$47,160,875.77March 25, 2011
+$67,058,069.21June 25, 2015
+$46,753,140.31April 25, 2011
+$67,058,063.00July 25, 2015
+$46,347,471.91May 25, 2011
+$67,058,056.77August 25, 2015
+$45,943,859.94June 25, 2011
+$67,058,050.50September 25, 2015
+$45,542,293.81July 25, 2011
+$67,058,044.22October 25, 2015
+$45,142,762.98August 25, 2011
+$67,058,037.90November 25, 2015
+$44,745,256.98September 25, 2011
+$67,058,031.56December 25, 2015
+$44,349,765.38October 25, 2011
+$66,583,798.98January 25, 2016
+$43,956,277.81November 25, 2011
+$66,088,317.04February 25, 2016
+$43,564,783.95December 25, 2011
+$65,595,394.44March 25, 2016
+$43,175,273.54January 25, 2012
+$65,105,017.90April 25, 2016
+$42,787,736.36February 25, 2012
+$64,617,174.22May 25, 2016
+$42,402,162.25March 25, 2012
+$64,131,850.27June 25, 2016
+$42,018,541.11April 25, 2012
+$63,654,047.36July 25, 2016
+$41,636,862.88May 25, 2012
+$63,178,674.53August 25, 2016
+$41,257,117.56June 25, 2012
+$62,705,719.28September 25, 2016
+$40,879,295.18July 25, 2012
+$62,235,169.17October 25, 2016
+$40,503,385.87August 25, 2012
+$61,767,011.82November 25, 2016
+$40,129,379.75September 25, 2012
+$61,301,234.90December 25, 2016
+$39,757,267.04October 25, 2012
+$60,837,826.16January 25, 2017
+$39,387,037.98November 25, 2012
+$60,376,773.42February 25, 2017
+$39,018,682.87December 25, 2012
+$59,918,064.55March 25, 2017
+$38,652,192.07January 25, 2013
+$59,461,687.49April 25, 2017
+$38,287,555.97February 25, 2013
+$58,991,521.90May 25, 2017
+$37,924,765.02March 25, 2013
+$58,523,744.78June 25, 2017
+$37,563,809.73April 25, 2013
+$58,058,343.83July 25, 2017
+$37,204,680.64May 25, 2013
+$57,595,306.82August 25, 2017
+$36,847,368.35June 25, 2013
+$57,134,621.58September 25, 2017
+$36,491,863.50July 25, 2013
+$56,676,276.01October 25, 2017
+$36,138,156.78August 25, 2013
+$56,220,258.06November 25, 2017
+$35,786,238.94September 25, 2013
+$55,766,555.75December 25, 2017
+$35,436,100.76October 25, 2013
+$55,315,157.15January 25, 2018
+$35,087,733.08November 25, 2013
+$54,866,050.42February 25, 2018
+$34,741,126.78December 25, 2013
+$54,419,223.74March 25, 2018
+$34,396,272.79January 25, 2014
+$53,974,665.38April 25, 2018
+$34,053,162.09
+$33,711,785.69August 25, 2022
+$18,404,860.30June 25, 2018
+$33,372,134.68September 25, 2022
+$18,142,370.93July 25, 2018
+$33,034,200.16October 25, 2022
+$17,881,200.61August 25, 2018
+$32,697,973.29November 25, 2022
+$17,621,342.55September 25, 2018
+$32,363,445.29December 25, 2022
+$17,362,789.98October 25, 2018
+$32,030,607.39January 25, 2023
+$17,105,536.18November 25, 2018
+$31,699,450.90February 25, 2023
+$16,849,574.46December 25, 2018
+$31,369,967.16March 25, 2023
+$16,594,898.15January 25, 2019
+$31,042,147.55April 25, 2023
+$16,341,500.65February 25, 2019
+$30,715,983.50May 25, 2023
+$16,089,375.35March 25, 2019
+$30,391,466.49June 25, 2023
+$15,838,515.71April 25, 2019
+$30,068,588.03July 25, 2023
+$15,588,915.20May 25, 2019
+$29,747,339.69August 25, 2023
+$15,340,567.33June 25, 2019
+$29,427,713.07September 25, 2023
+$15,093,465.66July 25, 2019
+$29,109,699.82October 25, 2023
+$14,847,603.76August 25, 2019
+$28,793,291.62November 25, 2023
+$14,602,975.23September 25, 2019
+$28,478,480.22December 25, 2023
+$14,359,573.74October 25, 2019
+$28,165,257.38January 25, 2024
+$14,117,392.94November 25, 2019
+$27,853,614.93February 25, 2024
+$13,876,426.57December 25, 2019
+$27,543,544.73March 25, 2024
+$13,636,668.34January 25, 2020
+$27,235,038.68April 25, 2024
+$13,398,112.05February 25, 2020
+$26,928,088.71May 25, 2024
+$13,160,751.50March 25, 2020
+$26,622,686.83June 25, 2024
+$12,924,580.52April 25, 2020
+$26,318,825.05July 25, 2024
+$12,689,592.99May 25, 2020
+$26,016,495.44August 25, 2024
+$12,455,782.80June 25, 2020
+$25,715,690.12September 25, 2024
+$12,223,143.90July 25, 2020
+$25,416,401.22October 25, 2024
+$11,991,670.24August 25, 2020
+$25,118,620.94November 25, 2024
+$11,761,355.81September 25, 2020
+$24,822,341.50December 25, 2024
+$11,532,194.66October 25, 2020
+$24,527,555.19January 25, 2025
+$11,304,180.83November 25, 2020
+$24,234,254.30February 25, 2025
+$11,077,308.40December 25, 2020
+$23,942,431.18March 25, 2025
+$10,851,571.51January 25, 2021
+$23,652,078.23April 25, 2025
+$10,626,964.29February 25, 2021
+$23,363,187.87May 25, 2025
+$10,403,480.92March 25, 2021
+$23,075,752.57June 25, 2025
+$10,181,115.61April 25, 2021
+$22,789,764.82July 25, 2025
+$  9,959,862.61May 25, 2021
+$22,505,217.18August 25, 2025
+$  9,739,716.17June 25, 2021
+$22,222,102.23September 25, 2025
+$  9,520,670.59July 25, 2021
+$21,940,412.58October 25, 2025
+$  9,302,720.21August 25, 2021
+$21,660,140.90November 25, 2025
+$  9,085,859.37September 25, 2021
+$21,381,279.87December 25, 2025
+$  8,870,082.46October 25, 2021
+$21,103,822.24January 25, 2026
+$  8,655,383.89November 25, 2021
+$20,827,760.77February 25, 2026
+$  8,441,758.11December 25, 2021
+$20,553,088.28March 25, 2026
+$  8,229,199.58January 25, 2022
+$20,279,797.60April 25, 2026
+$  8,017,702.81February 25, 2022
+$20,007,881.61May 25, 2026
+$  7,807,262.32March 25, 2022
+$19,737,333.24June 25, 2026
+$  7,597,872.67April 25, 2022
+$19,468,145.44July 25, 2026
+$  7,389,528.44May 25, 2022
+$19,200,311.21August 25, 2026
+$  7,182,224.24June 25, 2022
+$18,933,823.55September 25, 2026
+$  6,975,954.72July 25, 2022
+$18,668,675.55October 25, 2026
+$  6,770,714.53
+Distribution DateClass 2-A2
+Class 2-A3Distribution DateClass 2-A2
+Class 2-A3November 25, 2026
+$6,566,498.37June 25, 2028
+$2,874,096.52December 25, 2026
+$6,363,300.97July 25, 2028
+$2,689,287.77January 25, 2027
+$6,161,117.07August 25, 2028
+$2,505,397.71February 25, 2027
+$5,959,941.45September 25, 2028
+$2,322,421.61March 25, 2027
+$5,759,768.90October 25, 2028
+$2,140,354.76April 25, 2027
+$5,560,594.27November 25, 2028
+$1,959,192.48May 25, 2027
+$5,362,412.40December 25, 2028
+$1,778,930.08June 25, 2027
+$5,165,218.17January 25, 2029
+$1,599,562.95July 25, 2027
+$4,969,006.51February 25, 2029
+$1,423,857.12August 25, 2027
+$4,773,772.33March 25, 2029
+$1,249,024.01September 25, 2027
+$4,579,510.60April 25, 2029
+$1,075,059.09October 25, 2027
+$4,386,216.30May 25, 2029
+$   901,957.91November 25, 2027
+$4,193,884.46June 25, 2029
+$   729,716.01December 25, 2027
+$4,002,510.11July 25, 2029
+$   558,328.95January 25, 2028
+$3,812,088.30August 25, 2029
+$   387,792.33February 25, 2028
+$3,622,614.13September 25, 2029
+$   218,101.75March 25, 2028
+$3,434,082.72October 25, 2029
+$     49,252.87April 25, 2028
+$3,246,489.20Thereafter
+$              0.00May 25, 2028
+$3,059,828.74
+$67,326,000.00February 25, 2007
+$66,648,218.40April 25, 2003
+$67,013,573.05March 25, 2007
+$66,648,213.34May 25, 2003
+$66,797,058.55April 25, 2007
+$66,648,208.25June 25, 2003
+$66,675,661.42May 25, 2007
+$66,648,203.14July 25, 2003
+$66,648,417.46June 25, 2007
+$66,648,198.01August 25, 2003
+$66,648,413.22July 25, 2007
+$66,648,192.86September 25, 2003
+$66,648,408.97August 25, 2007
+$66,648,187.69October 25, 2003
+$66,648,404.70September 25, 2007
+$66,648,182.50November 25, 2003
+$66,648,400.41October 25, 2007
+$66,648,177.28December 25, 2003
+$66,648,396.10November 25, 2007
+$66,648,172.04January 25, 2004
+$66,648,391.78December 25, 2007
+$66,648,166.78February 25, 2004
+$66,648,387.43January 25, 2008
+$66,648,161.50March 25, 2004
+$66,648,383.07February 25, 2008
+$66,648,156.20April 25, 2004
+$66,648,378.69March 25, 2008
+$66,648,150.87May 25, 2004
+$66,648,374.29April 25, 2008
+$66,648,145.53June 25, 2004
+$66,648,369.88May 25, 2008
+$66,648,140.16July 25, 2004
+$66,648,365.44June 25, 2008
+$66,648,134.77August 25, 2004
+$66,648,360.99July 25, 2008
+$66,648,129.35September 25, 2004
+$66,648,356.52August 25, 2008
+$66,648,123.91October 25, 2004
+$66,648,352.03September 25, 2008
+$66,648,118.45November 25, 2004
+$66,648,347.52October 25, 2008
+$66,648,112.97December 25, 2004
+$66,648,342.99November 25, 2008
+$66,648,107.47January 25, 2005
+$66,648,338.44December 25, 2008
+$66,648,101.94February 25, 2005
+$66,648,333.88January 25, 2009
+$66,648,096.39March 25, 2005
+$66,648,329.29February 25, 2009
+$66,648,090.81April 25, 2005
+$66,648,324.69March 25, 2009
+$66,648,085.21May 25, 2005
+$66,648,320.06April 25, 2009
+$66,648,079.59June 25, 2005
+$66,648,315.42May 25, 2009
+$66,648,073.95July 25, 2005
+$66,648,310.76June 25, 2009
+$66,648,068.28August 25, 2005
+$66,648,306.08July 25, 2009
+$66,648,062.59September 25, 2005
+$66,648,301.38August 25, 2009
+$66,648,056.88October 25, 2005
+$66,648,296.66September 25, 2009
+$66,648,051.14November 25, 2005
+$66,648,291.92October 25, 2009
+$66,648,045.37December 25, 2005
+$66,648,287.16November 25, 2009
+$66,648,039.59January 25, 2006
+$66,648,282.38December 25, 2009
+$66,648,033.78February 25, 2006
+$66,648,277.58January 25, 2010
+$66,648,027.94March 25, 2006
+$66,648,272.76February 25, 2010
+$66,648,022.08April 25, 2006
+$66,648,267.92March 25, 2010
+$66,648,016.20May 25, 2006
+$66,648,263.06April 25, 2010
+$66,648,010.29June 25, 2006
+$66,648,258.18May 25, 2010
+$66,648,004.35July 25, 2006
+$66,648,253.28June 25, 2010
+$66,647,998.40August 25, 2006
+$66,648,248.36July 25, 2010
+$66,647,992.41September 25, 2006
+$66,648,243.42August 25, 2010
+$66,647,986.41October 25, 2006
+$66,648,238.46September 25, 2010
+$66,647,980.37November 25, 2006
+$66,648,233.48October 25, 2010
+$66,290,481.35December 25, 2006
+$66,648,228.47November 25, 2010
+$65,735,132.26January 25, 2007
+$66,648,223.45December 25, 2010
+$65,183,288.15
+$64,634,927.64April 25, 2015
+$40,859,543.23February 25, 2011
+$64,090,029.49May 25, 2015
+$40,460,166.21March 25, 2011
+$63,548,572.60June 25, 2015
+$40,063,276.65April 25, 2011
+$63,016,748.93July 25, 2015
+$39,668,859.51May 25, 2011
+$62,488,252.71August 25, 2015
+$39,276,899.80June 25, 2011
+$61,963,063.62September 25, 2015
+$38,887,382.67July 25, 2011
+$61,441,161.50October 25, 2015
+$38,500,293.32August 25, 2011
+$60,922,526.29November 25, 2015
+$38,115,617.06September 25, 2011
+$60,407,138.06December 25, 2015
+$37,733,339.28October 25, 2011
+$59,894,977.00January 25, 2016
+$37,353,445.46November 25, 2011
+$59,386,023.41February 25, 2016
+$36,975,921.18December 25, 2011
+$58,880,257.72March 25, 2016
+$36,600,752.09January 25, 2012
+$58,377,660.48April 25, 2016
+$36,227,923.92February 25, 2012
+$57,878,212.36May 25, 2016
+$35,857,422.51March 25, 2012
+$57,381,894.14June 25, 2016
+$35,489,233.78April 25, 2012
+$56,894,434.95July 25, 2016
+$35,123,343.72May 25, 2012
+$56,409,985.54August 25, 2016
+$34,759,738.42June 25, 2012
+$55,928,527.72September 25, 2016
+$34,398,404.03July 25, 2012
+$55,450,043.39October 25, 2016
+$34,039,326.82August 25, 2012
+$54,974,514.58November 25, 2016
+$33,682,493.12September 25, 2012
+$54,501,923.41December 25, 2016
+$33,327,889.34October 25, 2012
+$54,032,252.13January 25, 2017
+$32,975,501.99November 25, 2012
+$53,565,483.08February 25, 2017
+$32,625,317.63December 25, 2012
+$53,101,598.71March 25, 2017
+$32,277,322.94January 25, 2013
+$52,640,581.58April 25, 2017
+$31,931,504.64February 25, 2013
+$52,168,004.64May 25, 2017
+$31,587,849.57March 25, 2013
+$51,698,358.09June 25, 2017
+$31,246,344.63April 25, 2013
+$51,231,624.20July 25, 2017
+$30,906,976.79May 25, 2013
+$50,767,785.35August 25, 2017
+$30,569,733.11June 25, 2013
+$50,306,824.02September 25, 2017
+$30,234,600.73July 25, 2013
+$49,848,722.80October 25, 2017
+$29,901,566.86August 25, 2013
+$49,393,464.40November 25, 2017
+$29,570,618.79September 25, 2013
+$48,941,031.61December 25, 2017
+$29,241,743.89October 25, 2013
+$48,491,407.34January 25, 2018
+$28,914,929.61November 25, 2013
+$48,044,574.60February 25, 2018
+$28,590,163.46December 25, 2013
+$47,600,516.49March 25, 2018
+$28,267,433.04January 25, 2014
+$47,159,216.23April 25, 2018
+$27,946,726.01February 25, 2014
+$46,720,657.14May 25, 2018
+$27,628,030.13March 25, 2014
+$46,284,822.61June 25, 2018
+$27,311,333.20April 25, 2014
+$45,851,696.18July 25, 2018
+$26,996,623.13May 25, 2014
+$45,421,261.46August 25, 2018
+$26,683,887.87June 25, 2014
+$44,993,502.15September 25, 2018
+$26,373,115.47July 25, 2014
+$44,568,402.07October 25, 2018
+$26,064,294.02August 25, 2014
+$44,145,945.12November 25, 2018
+$25,757,411.72September 25, 2014
+$43,726,115.32December 25, 2018
+$25,452,456.82October 25, 2014
+$43,308,896.76January 25, 2019
+$25,149,417.63November 25, 2014
+$42,894,273.64February 25, 2019
+$24,848,282.55December 25, 2014
+$42,482,230.25March 25, 2019
+$24,549,040.06January 25, 2015
+$42,072,750.99April 25, 2019
+$24,251,678.66February 25, 2015
+$41,665,820.33May 25, 2019
+$23,956,186.99March 25, 2015
+$41,261,422.86June 25, 2019
+$23,662,553.69
+$23,370,767.51October 25, 2023
+$10,695,419.00August 25, 2019
+$23,080,817.27November 25, 2023
+$10,485,729.20September 25, 2019
+$22,792,691.83December 25, 2023
+$10,277,377.51October 25, 2019
+$22,506,380.13January 25, 2024
+$10,070,355.80November 25, 2019
+$22,221,871.19February 25, 2024
+$  9,864,656.01December 25, 2019
+$21,939,154.09March 25, 2024
+$  9,660,270.11January 25, 2020
+$21,658,217.95April 25, 2024
+$  9,457,190.13February 25, 2020
+$21,379,051.99May 25, 2024
+$  9,255,408.13March 25, 2020
+$21,101,645.48June 25, 2024
+$  9,054,916.24April 25, 2020
+$20,825,987.76July 25, 2024
+$  8,855,706.63May 25, 2020
+$20,552,068.22August 25, 2024
+$  8,657,771.51June 25, 2020
+$20,279,876.34September 25, 2024
+$  8,461,103.15July 25, 2020
+$20,009,401.64October 25, 2024
+$  8,265,693.85August 25, 2020
+$19,740,633.70November 25, 2024
+$  8,071,535.97September 25, 2020
+$19,473,562.20December 25, 2024
+$  7,878,621.91October 25, 2020
+$19,208,176.83January 25, 2025
+$  7,686,944.12November 25, 2020
+$18,944,467.39February 25, 2025
+$  7,496,495.10December 25, 2020
+$18,682,423.71March 25, 2025
+$  7,307,267.37January 25, 2021
+$18,422,035.69April 25, 2025
+$  7,119,253.53February 25, 2021
+$18,163,293.30May 25, 2025
+$  6,932,446.20March 25, 2021
+$17,906,186.55June 25, 2025
+$  6,746,838.06April 25, 2021
+$17,650,705.54July 25, 2025
+$  6,562,421.82May 25, 2021
+$17,396,840.40August 25, 2025
+$  6,379,190.24June 25, 2021
+$17,144,581.34September 25, 2025
+$  6,197,136.14July 25, 2021
+$16,893,918.62October 25, 2025
+$  6,016,252.34August 25, 2021
+$16,644,842.56November 25, 2025
+$  5,836,531.76September 25, 2021
+$16,397,343.54December 25, 2025
+$  5,657,967.31October 25, 2021
+$16,151,412.00January 25, 2026
+$  5,480,551.99November 25, 2021
+$15,907,038.42February 25, 2026
+$  5,304,278.80December 25, 2021
+$15,664,213.37March 25, 2026
+$  5,129,140.81January 25, 2022
+$15,422,927.45April 25, 2026
+$  4,955,131.12February 25, 2022
+$15,183,171.33May 25, 2026
+$  4,782,242.88March 25, 2022
+$14,944,935.73June 25, 2026
+$  4,610,469.26April 25, 2022
+$14,708,211.42July 25, 2026
+$  4,439,803.51May 25, 2022
+$14,472,989.25August 25, 2026
+$  4,270,238.89June 25, 2022
+$14,239,260.10September 25, 2026
+$  4,101,768.70July 25, 2022
+$14,007,014.91October 25, 2026
+$  3,934,386.30August 25, 2022
+$13,776,244.68November 25, 2026
+$  3,768,085.07September 25, 2022
+$13,546,940.47December 25, 2026
+$  3,602,858.45October 25, 2022
+$13,319,093.38January 25, 2027
+$  3,438,699.89November 25, 2022
+$13,092,694.57February 25, 2027
+$  3,275,602.92December 25, 2022
+$12,867,735.26March 25, 2027
+$  3,113,561.08January 25, 2023
+$12,644,206.71April 25, 2027
+$  2,952,567.95February 25, 2023
+$12,422,100.24May 25, 2027
+$  2,792,617.16March 25, 2023
+$12,201,407.24June 25, 2027
+$  2,633,702.38April 25, 2023
+$11,982,119.10July 25, 2027
+$  2,475,817.29May 25, 2023
+$11,764,227.33August 25, 2027
+$  2,318,955.66June 25, 2023
+$11,547,723.43September 25, 2027
+$  2,163,111.24July 25, 2023
+$11,332,599.00October 25, 2027
+$  2,008,277.86August 25, 2023
+$11,118,845.65November 25, 2027
+$  1,854,449.38September 25, 2023
+$10,906,455.08December 25, 2027
+$  1,701,619.67
+Distribution DateClass 2-A2
+Class 2-A3Distribution DateClass 2-A2
+Class 2-A3January 25, 2028
+$1,549,782.66July 25, 2028
+$659,271.93February 25, 2028
+$1,398,932.33August 25, 2028
+$514,216.86March 25, 2028
+$1,249,062.66September 25, 2028
+$370,107.20April 25, 2028
+$1,100,167.70October 25, 2028
+$226,937.21May 25, 2028
+$   952,241.51November 25, 2028
+$  84,701.18June 25, 2028
+$   805,278.21Thereafter
+$           0.00
+$67,326,000.00February 25, 2007
+$66,068,770.41April 25, 2003
+$66,880,677.77March 25, 2007
+$66,068,765.34May 25, 2003
+$66,533,211.94April 25, 2007
+$66,068,760.26June 25, 2003
+$66,282,788.14May 25, 2007
+$66,068,755.15July 25, 2003
+$66,128,423.07June 25, 2007
+$66,068,750.02August 25, 2003
+$66,068,965.23July 25, 2007
+$66,068,744.87September 25, 2003
+$66,068,960.98August 25, 2007
+$66,068,739.70October 25, 2003
+$66,068,956.71September 25, 2007
+$66,068,734.50November 25, 2003
+$66,068,952.42October 25, 2007
+$66,068,729.29December 25, 2003
+$66,068,948.11November 25, 2007
+$66,068,724.05January 25, 2004
+$66,068,943.78December 25, 2007
+$66,068,718.79February 25, 2004
+$66,068,939.44January 25, 2008
+$66,068,713.51March 25, 2004
+$66,068,935.08February 25, 2008
+$66,068,708.21April 25, 2004
+$66,068,930.70March 25, 2008
+$66,068,702.88May 25, 2004
+$66,068,926.30April 25, 2008
+$66,068,697.53June 25, 2004
+$66,068,921.88May 25, 2008
+$66,068,692.16July 25, 2004
+$66,068,917.45June 25, 2008
+$66,068,686.77August 25, 2004
+$66,068,913.00July 25, 2008
+$66,068,681.36September 25, 2004
+$66,068,908.52August 25, 2008
+$66,068,675.92October 25, 2004
+$66,068,904.03September 25, 2008
+$66,068,670.46November 25, 2004
+$66,068,899.52October 25, 2008
+$66,068,664.98December 25, 2004
+$66,068,895.00November 25, 2008
+$66,068,659.47January 25, 2005
+$66,068,890.45December 25, 2008
+$66,068,653.95February 25, 2005
+$66,068,885.88January 25, 2009
+$66,068,648.39March 25, 2005
+$66,068,881.30February 25, 2009
+$66,068,642.82April 25, 2005
+$66,068,876.69March 25, 2009
+$66,068,637.22May 25, 2005
+$66,068,872.07April 25, 2009
+$66,068,631.60June 25, 2005
+$66,068,867.43May 25, 2009
+$66,068,625.96July 25, 2005
+$66,068,862.77June 25, 2009
+$66,068,620.29August 25, 2005
+$66,068,858.09July 25, 2009
+$66,068,614.60September 25, 2005
+$66,068,853.39August 25, 2009
+$66,068,608.88October 25, 2005
+$66,068,848.67September 25, 2009
+$66,068,603.14November 25, 2005
+$66,068,843.93October 25, 2009
+$66,068,597.38December 25, 2005
+$66,068,839.17November 25, 2009
+$66,068,591.59January 25, 2006
+$66,068,834.39December 25, 2009
+$66,068,585.78February 25, 2006
+$66,068,829.59January 25, 2010
+$65,610,955.55March 25, 2006
+$66,068,824.77February 25, 2010
+$64,993,361.46April 25, 2006
+$66,068,819.93March 25, 2010
+$64,380,329.59May 25, 2006
+$66,068,815.07April 25, 2010
+$63,779,359.78June 25, 2006
+$66,068,810.19May 25, 2010
+$63,182,814.45July 25, 2006
+$66,068,805.29June 25, 2010
+$62,590,662.38August 25, 2006
+$66,068,800.37July 25, 2010
+$62,002,872.57September 25, 2006
+$66,068,795.43August 25, 2010
+$61,419,414.23October 25, 2006
+$66,068,790.47September 25, 2010
+$60,840,256.81November 25, 2006
+$66,068,785.48October 25, 2010
+$60,265,369.93December 25, 2006
+$66,068,780.48November 25, 2010
+$59,694,723.47January 25, 2007
+$66,068,775.46December 25, 2010
+$59,128,287.49
+$58,566,032.26April 25, 2015
+$34,916,023.01February 25, 2011
+$58,007,928.28May 25, 2015
+$34,531,331.50March 25, 2011
+$57,453,946.23June 25, 2015
+$34,149,465.99April 25, 2011
+$56,911,093.04July 25, 2015
+$33,770,406.65May 25, 2011
+$56,372,213.45August 25, 2015
+$33,394,133.81June 25, 2011
+$55,837,279.41September 25, 2015
+$33,020,627.89July 25, 2011
+$55,306,263.06October 25, 2015
+$32,649,869.50August 25, 2011
+$54,779,136.73November 25, 2015
+$32,281,839.34September 25, 2011
+$54,255,872.94December 25, 2015
+$31,916,518.27October 25, 2011
+$53,736,444.43January 25, 2016
+$31,553,887.28November 25, 2011
+$53,220,824.09February 25, 2016
+$31,193,927.47December 25, 2011
+$52,708,985.04March 25, 2016
+$30,836,620.10January 25, 2012
+$52,200,900.55April 25, 2016
+$30,481,946.54February 25, 2012
+$51,696,544.11May 25, 2016
+$30,129,888.31March 25, 2012
+$51,195,889.38June 25, 2016
+$29,780,427.04April 25, 2012
+$50,705,363.99July 25, 2016
+$29,433,544.49May 25, 2012
+$50,218,385.69August 25, 2016
+$29,089,222.56June 25, 2012
+$49,734,929.70September 25, 2016
+$28,747,443.25July 25, 2012
+$49,254,971.38October 25, 2016
+$28,408,188.72August 25, 2012
+$48,778,486.27November 25, 2016
+$28,071,441.22September 25, 2012
+$48,305,450.09December 25, 2016
+$27,737,183.14October 25, 2012
+$47,835,838.72January 25, 2017
+$27,405,397.00November 25, 2012
+$47,369,628.20February 25, 2017
+$27,076,065.43December 25, 2012
+$46,906,794.76March 25, 2017
+$26,749,171.18January 25, 2013
+$46,447,314.77April 25, 2017
+$26,424,697.12February 25, 2013
+$45,978,295.92May 25, 2017
+$26,102,626.25March 25, 2013
+$45,512,694.13June 25, 2017
+$25,782,941.67April 25, 2013
+$45,050,485.49July 25, 2017
+$25,465,626.62May 25, 2013
+$44,591,646.22August 25, 2017
+$25,150,664.43June 25, 2013
+$44,136,152.73September 25, 2017
+$24,838,038.56July 25, 2013
+$43,683,981.57October 25, 2017
+$24,527,732.60August 25, 2013
+$43,235,109.47November 25, 2017
+$24,219,730.22September 25, 2013
+$42,789,513.33December 25, 2017
+$23,914,015.23October 25, 2013
+$42,347,170.18January 25, 2018
+$23,610,571.55November 25, 2013
+$41,908,057.24February 25, 2018
+$23,309,383.21December 25, 2013
+$41,472,151.87March 25, 2018
+$23,010,434.32January 25, 2014
+$41,039,431.60April 25, 2018
+$22,713,709.16February 25, 2014
+$40,609,874.10May 25, 2018
+$22,419,192.07March 25, 2014
+$40,183,457.21June 25, 2018
+$22,126,867.52April 25, 2014
+$39,760,158.92July 25, 2018
+$21,836,720.08May 25, 2014
+$39,339,957.36August 25, 2018
+$21,548,734.43June 25, 2014
+$38,922,830.83September 25, 2018
+$21,262,895.37July 25, 2014
+$38,508,757.78October 25, 2018
+$20,979,187.78August 25, 2014
+$38,097,716.79November 25, 2018
+$20,697,596.66September 25, 2014
+$37,689,686.61December 25, 2018
+$20,418,107.11October 25, 2014
+$37,284,646.13January 25, 2019
+$20,140,704.35November 25, 2014
+$36,882,574.38February 25, 2019
+$19,865,373.67December 25, 2014
+$36,483,450.54March 25, 2019
+$19,592,100.50January 25, 2015
+$36,087,253.95April 25, 2019
+$19,320,870.34February 25, 2015
+$35,693,964.06May 25, 2019
+$19,051,668.80March 25, 2015
+$35,303,560.50June 25, 2019
+$18,784,481.60
+$18,519,294.55October 25, 2023
+$7,343,738.73August 25, 2019
+$18,256,093.56November 25, 2023
+$7,165,253.15September 25, 2019
+$17,994,864.65December 25, 2023
+$6,988,141.34October 25, 2019
+$17,735,593.90January 25, 2024
+$6,812,393.59November 25, 2019
+$17,478,267.54February 25, 2024
+$6,638,000.21December 25, 2019
+$17,222,871.86March 25, 2024
+$6,464,951.62January 25, 2020
+$16,969,393.24April 25, 2024
+$6,293,238.29February 25, 2020
+$16,717,818.19May 25, 2024
+$6,122,850.75March 25, 2020
+$16,468,133.28June 25, 2024
+$5,953,779.60April 25, 2020
+$16,220,325.19July 25, 2024
+$5,786,015.51May 25, 2020
+$15,974,380.68August 25, 2024
+$5,619,549.21June 25, 2020
+$15,730,286.62September 25, 2024
+$5,454,371.50July 25, 2020
+$15,488,029.96October 25, 2024
+$5,290,473.23August 25, 2020
+$15,247,597.75November 25, 2024
+$5,127,845.34September 25, 2020
+$15,008,977.10December 25, 2024
+$4,966,478.82October 25, 2020
+$14,772,155.25January 25, 2025
+$4,806,364.70November 25, 2020
+$14,537,119.51February 25, 2025
+$4,647,494.11December 25, 2020
+$14,303,857.27March 25, 2025
+$4,489,858.21January 25, 2021
+$14,072,356.02April 25, 2025
+$4,333,448.25February 25, 2021
+$13,842,603.34May 25, 2025
+$4,178,255.52March 25, 2021
+$13,614,586.89June 25, 2025
+$4,024,271.38April 25, 2021
+$13,388,294.41July 25, 2025
+$3,871,487.25May 25, 2021
+$13,163,713.73August 25, 2025
+$3,719,894.60June 25, 2021
+$12,940,832.77September 25, 2025
+$3,569,484.97July 25, 2021
+$12,719,639.53October 25, 2025
+$3,420,249.95August 25, 2021
+$12,500,122.10November 25, 2025
+$3,272,181.21September 25, 2021
+$12,282,268.63December 25, 2025
+$3,125,270.45October 25, 2021
+$12,066,067.38January 25, 2026
+$2,979,509.44November 25, 2021
+$11,851,506.67February 25, 2026
+$2,834,890.02December 25, 2021
+$11,638,574.93March 25, 2026
+$2,691,404.06January 25, 2022
+$11,427,260.64April 25, 2026
+$2,549,043.51February 25, 2022
+$11,217,552.37May 25, 2026
+$2,407,800.36March 25, 2022
+$11,009,438.77June 25, 2026
+$2,267,666.66April 25, 2022
+$10,802,908.58July 25, 2026
+$2,128,634.54May 25, 2022
+$10,597,950.61August 25, 2026
+$1,990,696.14June 25, 2022
+$10,394,553.74September 25, 2026
+$1,853,843.68July 25, 2022
+$10,192,706.93October 25, 2026
+$1,718,069.44August 25, 2022
+$  9,992,399.23November 25, 2026
+$1,583,365.75September 25, 2022
+$  9,793,619.75December 25, 2026
+$1,449,724.98October 25, 2022
+$  9,596,357.69January 25, 2027
+$1,317,139.57November 25, 2022
+$  9,400,602.31February 25, 2027
+$1,185,601.99December 25, 2022
+$  9,206,342.96March 25, 2027
+$1,055,104.80January 25, 2023
+$  9,013,569.06April 25, 2027
+$   925,640.57February 25, 2023
+$  8,822,270.09May 25, 2027
+$   797,201.95March 25, 2023
+$  8,632,435.61June 25, 2027
+$   669,781.63April 25, 2023
+$  8,444,055.27July 25, 2027
+$   543,372.35May 25, 2023
+$  8,257,118.78August 25, 2027
+$   417,966.92June 25, 2023
+$  8,071,615.91September 25, 2027
+$   293,558.17July 25, 2023
+$  7,887,536.51October 25, 2027
+$   170,138.99August 25, 2023
+$  7,704,870.51November 25, 2027
+$     47,702.34September 25, 2023
+$  7,523,607.89Thereafter
+$              0.00Principal Amount Schedule IV
+Distribution DateClass 2-A2
+Class 2-A3Distribution DateClass 2-A2
+Class 2-A3Initial Date$67,326,000.00February 25, 2007
+$65,330,121.41April 25, 2003
+$66,746,451.69March 25, 2007
+$65,330,116.35May 25, 2003
+$66,266,964.48April 25, 2007
+$65,330,111.26June 25, 2003
+$65,886,698.91May 25, 2007
+$65,330,106.15July 25, 2003
+$65,604,646.81June 25, 2007
+$65,330,101.02August 25, 2003
+$65,419,632.10July 25, 2007
+$65,330,095.87September 25, 2003
+$65,330,311.98August 25, 2007
+$65,330,090.70October 25, 2003
+$65,330,307.71September 25, 2007
+$65,330,085.50November 25, 2003
+$65,330,303.42October 25, 2007
+$65,330,080.29December 25, 2003
+$65,330,299.11November 25, 2007
+$65,330,075.05January 25, 2004
+$65,330,294.79December 25, 2007
+$65,330,069.79February 25, 2004
+$65,330,290.44January 25, 2008
+$65,330,064.51March 25, 2004
+$65,330,286.08February 25, 2008
+$65,330,059.21April 25, 2004
+$65,330,281.70March 25, 2008
+$65,330,053.88May 25, 2004
+$65,330,277.30April 25, 2008
+$65,330,048.54June 25, 2004
+$65,330,272.89May 25, 2008
+$65,330,043.17July 25, 2004
+$65,330,268.45June 25, 2008
+$65,330,037.77August 25, 2004
+$65,330,264.00July 25, 2008
+$65,330,032.36September 25, 2004
+$65,330,259.53August 25, 2008
+$65,330,026.92October 25, 2004
+$65,330,255.04September 25, 2008
+$65,330,021.46November 25, 2004
+$65,330,250.53October 25, 2008
+$65,330,015.98December 25, 2004
+$65,330,246.00November 25, 2008
+$65,330,010.48January 25, 2005
+$65,330,241.45December 25, 2008
+$65,330,004.95February 25, 2005
+$65,330,236.89January 25, 2009
+$65,329,999.40March 25, 2005
+$65,330,232.30February 25, 2009
+$65,329,993.82April 25, 2005
+$65,330,227.70March 25, 2009
+$65,329,988.22May 25, 2005
+$65,330,223.07April 25, 2009
+$65,329,982.60June 25, 2005
+$65,330,218.43May 25, 2009
+$65,329,976.96July 25, 2005
+$65,330,213.77June 25, 2009
+$64,712,222.29August 25, 2005
+$65,330,209.09July 25, 2009
+$64,039,528.82September 25, 2005
+$65,330,204.39August 25, 2009
+$63,372,490.59October 25, 2005
+$65,330,199.67September 25, 2009
+$62,711,062.43November 25, 2005
+$65,330,194.93October 25, 2009
+$62,055,199.56December 25, 2005
+$65,330,190.17November 25, 2009
+$61,404,857.53January 25, 2006
+$65,330,185.39December 25, 2009
+$60,759,992.24February 25, 2006
+$65,330,180.59January 25, 2010
+$60,120,559.95March 25, 2006
+$65,330,175.77February 25, 2010
+$59,486,517.26April 25, 2006
+$65,330,170.93March 25, 2010
+$58,857,821.11May 25, 2006
+$65,330,166.07April 25, 2010
+$58,242,879.40June 25, 2006
+$65,330,161.19May 25, 2010
+$57,633,108.51July 25, 2006
+$65,330,156.29June 25, 2010
+$57,028,466.87August 25, 2006
+$65,330,151.37July 25, 2010
+$56,428,913.24September 25, 2006
+$65,330,146.43August 25, 2010
+$55,834,406.72October 25, 2006
+$65,330,141.47September 25, 2010
+$55,244,906.72November 25, 2006
+$65,330,136.48October 25, 2010
+$54,660,372.99December 25, 2006
+$65,330,131.48November 25, 2010
+$54,080,765.59January 25, 2007
+$65,330,126.46December 25, 2010
+$53,506,044.87
+$52,936,171.54April 25, 2015
+$29,660,250.39February 25, 2011
+$52,371,106.60May 25, 2015
+$29,293,415.59March 25, 2011
+$51,810,811.34June 25, 2015
+$28,929,675.33April 25, 2011
+$51,263,090.25July 25, 2015
+$28,569,004.83May 25, 2011
+$50,719,951.79August 25, 2015
+$28,211,379.52June 25, 2011
+$50,181,359.10September 25, 2015
+$27,856,774.99July 25, 2011
+$49,647,275.61October 25, 2015
+$27,505,167.05August 25, 2011
+$49,117,665.03November 25, 2015
+$27,156,531.68September 25, 2011
+$48,592,491.39December 25, 2015
+$26,810,845.07October 25, 2011
+$48,071,718.97January 25, 2016
+$26,468,083.59November 25, 2011
+$47,555,312.34February 25, 2016
+$26,128,223.79December 25, 2011
+$47,043,236.38March 25, 2016
+$25,791,242.41January 25, 2012
+$46,535,456.22April 25, 2016
+$25,457,116.37February 25, 2012
+$46,031,937.28May 25, 2016
+$25,125,822.77March 25, 2012
+$45,532,645.23June 25, 2016
+$24,797,338.91April 25, 2012
+$45,044,677.38July 25, 2016
+$24,471,642.24May 25, 2012
+$44,560,743.79August 25, 2016
+$24,148,710.42June 25, 2012
+$44,080,812.37September 25, 2016
+$23,828,521.25July 25, 2012
+$43,604,851.24October 25, 2016
+$23,511,052.73August 25, 2012
+$43,132,828.80November 25, 2016
+$23,196,283.02September 25, 2012
+$42,664,713.68December 25, 2016
+$22,884,190.48October 25, 2012
+$42,200,474.77January 25, 2017
+$22,574,753.60November 25, 2012
+$41,740,081.19February 25, 2017
+$22,267,951.08December 25, 2012
+$41,283,502.33March 25, 2017
+$21,963,761.74January 25, 2013
+$40,830,707.79April 25, 2017
+$21,662,164.62February 25, 2013
+$40,370,194.62May 25, 2017
+$21,363,138.89March 25, 2013
+$39,913,524.91June 25, 2017
+$21,066,663.90April 25, 2013
+$39,460,667.98July 25, 2017
+$20,772,719.15May 25, 2013
+$39,011,593.39August 25, 2017
+$20,481,284.32June 25, 2013
+$38,566,270.92September 25, 2017
+$20,192,339.23July 25, 2013
+$38,124,670.62October 25, 2017
+$19,905,863.87August 25, 2013
+$37,686,762.77November 25, 2017
+$19,621,838.40September 25, 2013
+$37,252,517.86December 25, 2017
+$19,340,243.11October 25, 2013
+$36,821,906.63January 25, 2018
+$19,061,058.47November 25, 2013
+$36,394,900.06February 25, 2018
+$18,784,265.08December 25, 2013
+$35,971,469.34March 25, 2018
+$18,509,843.72January 25, 2014
+$35,551,585.90April 25, 2018
+$18,237,775.31February 25, 2014
+$35,135,221.38May 25, 2018
+$17,968,040.91March 25, 2014
+$34,722,347.66June 25, 2018
+$17,700,621.74April 25, 2014
+$34,312,936.84July 25, 2018
+$17,435,499.17May 25, 2014
+$33,906,961.23August 25, 2018
+$17,172,654.72June 25, 2014
+$33,504,393.36September 25, 2018
+$16,912,070.04July 25, 2014
+$33,105,205.98October 25, 2018
+$16,653,726.94August 25, 2014
+$32,709,372.06November 25, 2018
+$16,397,607.36September 25, 2014
+$32,316,864.77December 25, 2018
+$16,143,693.41October 25, 2014
+$31,927,657.51January 25, 2019
+$15,891,967.31November 25, 2014
+$31,541,723.87February 25, 2019
+$15,642,411.44December 25, 2014
+$31,159,037.65March 25, 2019
+$15,395,008.30January 25, 2015
+$30,779,572.88April 25, 2019
+$15,149,740.55February 25, 2015
+$30,403,303.76May 25, 2019
+$14,906,590.98March 25, 2015
+$30,030,204.73June 25, 2019
+$14,665,542.50
+$14,426,578.19March 25, 2023
+$5,740,641.15August 25, 2019
+$14,189,681.22April 25, 2023
+$5,579,924.54September 25, 2019
+$13,954,834.94May 25, 2023
+$5,420,641.81October 25, 2019
+$13,722,022.78June 25, 2023
+$5,262,781.30November 25, 2019
+$13,491,228.34July 25, 2023
+$5,106,331.44December 25, 2019
+$13,262,435.35August 25, 2023
+$4,951,280.75January 25, 2020
+$13,035,627.63September 25, 2023
+$4,797,617.84February 25, 2020
+$12,810,789.18October 25, 2023
+$4,645,331.41March 25, 2020
+$12,587,904.08November 25, 2023
+$4,494,410.26April 25, 2020
+$12,366,956.56December 25, 2023
+$4,344,843.26May 25, 2020
+$12,147,930.98January 25, 2024
+$4,196,619.38June 25, 2020
+$11,930,811.81February 25, 2024
+$4,049,727.68July 25, 2020
+$11,715,583.65March 25, 2024
+$3,904,157.31August 25, 2020
+$11,502,231.21April 25, 2024
+$3,759,897.48September 25, 2020
+$11,290,739.34May 25, 2024
+$3,616,937.51October 25, 2020
+$11,081,092.99June 25, 2024
+$3,475,266.81November 25, 2020
+$10,873,277.24July 25, 2024
+$3,334,874.85December 25, 2020
+$10,667,277.30August 25, 2024
+$3,195,751.20January 25, 2021
+$10,463,078.47September 25, 2024
+$3,057,885.51February 25, 2021
+$10,260,666.18October 25, 2024
+$2,921,267.51March 25, 2021
+$10,060,025.98November 25, 2024
+$2,785,887.02April 25, 2021
+$  9,861,143.53December 25, 2024
+$2,651,733.91May 25, 2021
+$  9,664,004.61January 25, 2025
+$2,518,798.18June 25, 2021
+$  9,468,595.08February 25, 2025
+$2,387,069.87July 25, 2021
+$  9,274,900.97March 25, 2025
+$2,256,539.11August 25, 2021
+$  9,082,908.36April 25, 2025
+$2,127,196.12September 25, 2021
+$  8,892,603.48May 25, 2025
+$1,999,031.17October 25, 2021
+$  8,703,972.66June 25, 2025
+$1,872,034.65November 25, 2021
+$  8,517,002.33July 25, 2025
+$1,746,196.98December 25, 2021
+$  8,331,679.03August 25, 2025
+$1,621,508.68January 25, 2022
+$  8,147,989.41September 25, 2025
+$1,497,960.35February 25, 2022
+$  7,965,920.23October 25, 2025
+$1,375,542.65March 25, 2022
+$  7,785,458.35November 25, 2025
+$1,254,246.33April 25, 2022
+$  7,606,590.73December 25, 2025
+$1,134,062.20May 25, 2022
+$  7,429,304.43January 25, 2026
+$1,014,981.14June 25, 2022
+$  7,253,586.62February 25, 2026
+$   896,994.12July 25, 2022
+$  7,079,424.58March 25, 2026
+$   780,092.17August 25, 2022
+$  6,906,805.68April 25, 2026
+$   664,266.39September 25, 2022
+$  6,735,717.38May 25, 2026
+$   549,507.96October 25, 2022
+$  6,566,147.27June 25, 2026
+$   435,808.11November 25, 2022
+$  6,398,082.99July 25, 2026
+$   323,158.17December 25, 2022
+$  6,231,512.34August 25, 2026
+$   211,549.50January 25, 2023
+$  6,066,423.16September 25, 2026
+$   100,973.58February 25, 2023
+$  5,902,803.41Thereafter
+$              0.00
+$67,326,000.00February 25, 2007
+$64,415,195.81April 25, 2003
+$66,610,866.64March 25, 2007
+$64,415,190.74May 25, 2003
+$65,998,267.59April 25, 2007
+$64,415,185.66June 25, 2003
+$65,487,331.62May 25, 2007
+$64,415,180.55July 25, 2003
+$65,077,019.17June 25, 2007
+$64,415,175.42August 25, 2003
+$64,766,123.09July 25, 2007
+$64,415,170.27September 25, 2003
+$64,553,269.89August 25, 2007
+$64,415,165.09October 25, 2003
+$64,436,921.54September 25, 2007
+$64,415,159.90November 25, 2003
+$64,415,377.81October 25, 2007
+$64,415,154.68December 25, 2003
+$64,415,373.51November 25, 2007
+$64,415,149.45January 25, 2004
+$64,415,369.18December 25, 2007
+$64,415,144.19February 25, 2004
+$64,415,364.84January 25, 2008
+$64,415,138.91March 25, 2004
+$64,415,360.48February 25, 2008
+$64,415,133.60April 25, 2004
+$64,415,356.10March 25, 2008
+$64,415,128.28May 25, 2004
+$64,415,351.70April 25, 2008
+$64,415,122.93June 25, 2004
+$64,415,347.28May 25, 2008
+$64,264,014.61July 25, 2004
+$64,415,342.85June 25, 2008
+$64,014,702.12August 25, 2004
+$64,415,338.39July 25, 2008
+$63,751,622.15September 25, 2004
+$64,415,333.92August 25, 2008
+$63,475,490.47October 25, 2004
+$64,415,329.43September 25, 2008
+$63,186,995.15November 25, 2004
+$64,415,324.92October 25, 2008
+$62,886,797.53December 25, 2004
+$64,415,320.39November 25, 2008
+$62,575,533.24January 25, 2005
+$64,415,315.85December 25, 2008
+$62,253,813.11February 25, 2005
+$64,415,311.28January 25, 2009
+$61,922,224.10March 25, 2005
+$64,415,306.70February 25, 2009
+$61,581,330.13April 25, 2005
+$64,415,302.09March 25, 2009
+$61,231,672.98May 25, 2005
+$64,415,297.47April 25, 2009
+$60,860,538.62June 25, 2005
+$64,415,292.83May 25, 2009
+$60,356,901.20July 25, 2005
+$64,415,288.17June 25, 2009
+$59,661,420.30August 25, 2005
+$64,415,283.48July 25, 2009
+$58,972,501.39September 25, 2005
+$64,415,278.78August 25, 2009
+$58,290,085.58October 25, 2005
+$64,415,274.06September 25, 2009
+$57,614,114.54November 25, 2005
+$64,415,269.32October 25, 2009
+$56,944,530.43December 25, 2005
+$64,415,264.56November 25, 2009
+$56,281,275.94January 25, 2006
+$64,415,259.78December 25, 2009
+$55,624,294.25February 25, 2006
+$64,415,254.99January 25, 2010
+$54,973,529.05March 25, 2006
+$64,415,250.17February 25, 2010
+$54,328,924.53April 25, 2006
+$64,415,245.33March 25, 2010
+$53,690,425.37May 25, 2006
+$64,415,240.47April 25, 2010
+$53,067,340.80June 25, 2006
+$64,415,235.59May 25, 2010
+$52,450,143.44July 25, 2006
+$64,415,230.69June 25, 2010
+$51,838,780.10August 25, 2006
+$64,415,225.77July 25, 2010
+$51,233,198.08September 25, 2006
+$64,415,220.82August 25, 2010
+$50,633,345.13October 25, 2006
+$64,415,215.86September 25, 2010
+$50,039,169.45November 25, 2006
+$64,415,210.88October 25, 2010
+$49,450,619.75December 25, 2006
+$64,415,205.88November 25, 2010
+$48,867,645.13January 25, 2007
+$64,415,200.85December 25, 2010
+$48,290,195.20
+$47,718,219.98April 25, 2015
+$25,019,876.56February 25, 2011
+$47,151,669.94May 25, 2015
+$24,673,160.41March 25, 2011
+$46,590,496.01June 25, 2015
+$24,329,740.13April 25, 2011
+$46,043,282.92July 25, 2015
+$23,989,586.00May 25, 2011
+$45,501,216.30August 25, 2015
+$23,652,668.58June 25, 2011
+$44,964,249.64September 25, 2015
+$23,318,958.68July 25, 2011
+$44,432,336.79October 25, 2015
+$22,988,427.35August 25, 2011
+$43,905,432.07November 25, 2015
+$22,661,045.93September 25, 2011
+$43,383,490.17December 25, 2015
+$22,336,785.99October 25, 2011
+$42,866,466.18January 25, 2016
+$22,015,619.35November 25, 2011
+$42,354,315.62February 25, 2016
+$21,697,518.09December 25, 2011
+$41,846,994.37March 25, 2016
+$21,382,454.55January 25, 2012
+$41,344,458.73April 25, 2016
+$21,070,401.27February 25, 2012
+$40,846,665.39May 25, 2016
+$20,761,331.09March 25, 2012
+$40,353,571.39June 25, 2016
+$20,455,217.05April 25, 2012
+$39,872,915.34July 25, 2016
+$20,152,032.43May 25, 2012
+$39,396,724.95August 25, 2016
+$19,851,750.78June 25, 2012
+$38,924,960.29September 25, 2016
+$19,554,345.85July 25, 2012
+$38,457,581.77October 25, 2016
+$19,259,791.63August 25, 2012
+$37,994,550.15November 25, 2016
+$18,968,062.35September 25, 2012
+$37,535,826.56December 25, 2016
+$18,679,132.46October 25, 2012
+$37,081,372.45January 25, 2017
+$18,392,976.64November 25, 2012
+$36,631,149.60February 25, 2017
+$18,109,569.80December 25, 2012
+$36,185,120.17March 25, 2017
+$17,828,887.05January 25, 2013
+$35,743,246.60April 25, 2017
+$17,550,903.75February 25, 2013
+$35,295,282.23May 25, 2017
+$17,275,595.46March 25, 2013
+$34,851,524.42June 25, 2017
+$17,002,937.96April 25, 2013
+$34,411,935.41July 25, 2017
+$16,732,907.24May 25, 2013
+$33,976,477.76August 25, 2017
+$16,465,479.51June 25, 2013
+$33,545,114.38September 25, 2017
+$16,200,631.19July 25, 2013
+$33,117,808.50October 25, 2017
+$15,938,338.92August 25, 2013
+$32,694,523.66November 25, 2017
+$15,678,579.51September 25, 2013
+$32,275,223.74December 25, 2017
+$15,421,330.02October 25, 2013
+$31,859,872.94January 25, 2018
+$15,166,567.68November 25, 2013
+$31,448,435.76February 25, 2018
+$14,914,269.95December 25, 2013
+$31,040,877.04March 25, 2018
+$14,664,414.46January 25, 2014
+$30,637,161.90April 25, 2018
+$14,416,979.07February 25, 2014
+$30,237,255.79May 25, 2018
+$14,171,941.80March 25, 2014
+$29,841,124.45June 25, 2018
+$13,929,280.90April 25, 2014
+$29,448,733.95July 25, 2018
+$13,688,974.79May 25, 2014
+$29,060,050.61August 25, 2018
+$13,451,002.09June 25, 2014
+$28,675,041.11September 25, 2018
+$13,215,341.61July 25, 2014
+$28,293,672.37October 25, 2018
+$12,981,972.35August 25, 2014
+$27,915,911.64November 25, 2018
+$12,750,873.49September 25, 2014
+$27,541,726.44December 25, 2018
+$12,522,024.39October 25, 2014
+$27,171,084.58January 25, 2019
+$12,295,404.60November 25, 2014
+$26,803,954.15February 25, 2019
+$12,070,993.87December 25, 2014
+$26,440,303.54March 25, 2019
+$11,848,772.10January 25, 2015
+$26,080,101.40April 25, 2019
+$11,628,719.37February 25, 2015
+$25,723,316.68May 25, 2019
+$11,410,815.96March 25, 2015
+$25,369,918.57June 25, 2019
+$11,195,042.31
+$10,981,379.04August 25, 2022
+$4,397,053.03August 25, 2019
+$10,769,806.92September 25, 2022
+$4,250,790.02September 25, 2019
+$10,560,306.92October 25, 2022
+$4,106,001.77October 25, 2019
+$10,352,860.17November 25, 2022
+$3,962,674.75November 25, 2019
+$10,147,447.96December 25, 2022
+$3,820,795.50December 25, 2019
+$  9,944,051.76January 25, 2023
+$3,680,350.70January 25, 2020
+$  9,742,653.17February 25, 2023
+$3,541,327.16February 25, 2020
+$  9,543,234.01March 25, 2023
+$3,403,711.79March 25, 2020
+$  9,345,776.21April 25, 2023
+$3,267,491.62April 25, 2020
+$  9,150,261.89May 25, 2023
+$3,132,653.80May 25, 2020
+$  8,956,673.31June 25, 2023
+$2,999,185.60June 25, 2020
+$  8,764,992.90July 25, 2023
+$2,867,074.38July 25, 2020
+$  8,575,203.25August 25, 2023
+$2,736,307.64August 25, 2020
+$  8,387,287.10September 25, 2023
+$2,606,872.99September 25, 2020
+$  8,201,227.33October 25, 2023
+$2,478,758.12October 25, 2020
+$  8,017,006.99November 25, 2023
+$2,351,950.86November 25, 2020
+$  7,834,609.27December 25, 2023
+$2,226,439.14December 25, 2020
+$  7,654,017.52January 25, 2024
+$2,102,211.00January 25, 2021
+$  7,475,215.23February 25, 2024
+$1,979,254.57February 25, 2021
+$  7,298,186.04March 25, 2024
+$1,857,558.12March 25, 2021
+$  7,122,913.72April 25, 2024
+$1,737,110.00April 25, 2021
+$  6,949,382.22May 25, 2024
+$1,617,898.65May 25, 2021
+$  6,777,575.59June 25, 2024
+$1,499,912.65June 25, 2021
+$  6,607,478.06July 25, 2024
+$1,383,140.66July 25, 2021
+$  6,439,073.97August 25, 2024
+$1,267,571.44August 25, 2021
+$  6,272,347.81September 25, 2024
+$1,153,193.86September 25, 2021
+$  6,107,284.23October 25, 2024
+$1,039,996.88October 25, 2021
+$  5,943,867.98November 25, 2024
+$   927,969.56November 25, 2021
+$  5,782,083.97December 25, 2024
+$   817,101.07December 25, 2021
+$  5,621,917.23January 25, 2025
+$   707,380.67January 25, 2022
+$  5,463,352.94February 25, 2025
+$   598,797.71February 25, 2022
+$  5,306,376.39March 25, 2025
+$   491,341.63March 25, 2022
+$  5,150,973.02April 25, 2025
+$   385,001.98April 25, 2022
+$  4,997,128.40May 25, 2025
+$   279,768.39May 25, 2022
+$  4,844,828.20June 25, 2025
+$   175,630.60June 25, 2022
+$  4,694,058.26July 25, 2025
+$     72,578.43July 25, 2022
+$  4,544,804.51Thereafter
+$              0.00

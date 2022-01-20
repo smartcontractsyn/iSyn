@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "UnderWritingAgeement",
+    "SellerName": [
+        "Transocean Inc."
+    ],
+    "BuyerName": [
+        "underwriters named in Schedule I(a) "
+    ],
+    "EffectiveTime": [
+        "September 10, 2012"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "underwriters named in Schedule I(a) "
+            ],
+            "To": [
+                "Transocean Inc."
+            ],
+            "PurchasePrice": "750000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

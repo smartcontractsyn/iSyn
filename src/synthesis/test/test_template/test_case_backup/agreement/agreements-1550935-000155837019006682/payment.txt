@@ -1,0 +1,18 @@
+1,700
+(3)         Amount payable in exchange of the Share Options
+No payment is required in exchange of the Share Options
+79,300yen for one (1) Share Option
+Value of assets contributed in exercising one (1) Share Option shall be obtained by multiplying the amount paid per share for the shares delivered upon exercise of the Share Option (hereinafter referred to as the “Exercise Price”) by the Number of Granted Shares.
+The Exercise Price shall be 793yen
+Exercise Price after adjustment＝Exercise Price before adjustment
+(ii)   If the Company issues new shares or dispose of the treasury stock at a price below the market price, the Exercise Price shall be adjusted in accordance with the formula stated below and fractional yen resulting from the adjustment shall be rounded up to the nearest yen.
+    number of
+issued shares+number of
+newly issued
+shares×amount paid
+per share  Exercise Price
+after
+adjustment    ＝  Exercise
+Price before
+adjustment    ×   market price per share  number of issued shares + number of newly issued In the above formula, the “number of issued shares” means the total number of shares issued by the Company less the number of treasury stock in the possession of the Company.
+3  The Company shall issue the shares (including issuing new shares or transferring or assigning existing shares) to the Subscriber for its exercise of option in accordance with the requirements for offering of the Share Options.

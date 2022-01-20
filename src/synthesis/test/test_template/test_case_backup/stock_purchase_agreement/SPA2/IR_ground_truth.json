@@ -1,0 +1,38 @@
+{
+    "SellerName": [
+        "Don Marcos Trading Co."
+    ],
+    "BuyerName": [
+        "Mark E. Tupper"
+    ],
+    "EffectiveTime": [
+        "July 14, 2009"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Mark E. Tupper"
+            ],
+            "To": [
+                "Don Marcos Trading Co."
+            ],
+            "PurchasePrice": "5000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

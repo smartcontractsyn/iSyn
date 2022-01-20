@@ -1,0 +1,410 @@
+Exhibit 99.B(g)(1)
+1.
+Definitions.
+“Authorized Person” means the Fund’s President, Vice-President, Treasurer and any other person, whether or not that person is an officer or employee of the Fund, duly authorized by the Directors or Trustees of the Fund to give Proper Instructions on behalf of the Fund and listed on Attachment B hereto, which may be amended from time to time in writing.
+“Board” means the board of trustees or board of directors, as applicable, of the Fund.
+“Book-Entry System” shall mean the Federal Reserve/Treasury book-entry system for United States and federal agency securities, its successor or successors and its nominee or nominees.
+“Business Day” shall mean any day on which Wachovia, the Book-Entry System, and relevant Depositories are open for business.
+“Country Risks” means the systemic risks arising from holding Foreign Assets in a particular country, including those arising from a country’s financial infrastructure, prevailing custody and settlement practices; expropriation, nationalization or other governmental actions; and laws applicable to the safekeeping and recovery of assets held in custody in such country.
+“Depository” shall include the Book-Entry System, the Depository Trust Company, any other domestic securities depository, book-entry system or clearing agency registered with the SEC or its successor or successors and its nominee or nominees, and any other entity permitted to hold Securities under 1940 Act Rule 17f-4.
+“Eligible Foreign Custodian” means an Eligible Foreign Custodian as defined in Rule 17f-5(a)(1) under the 1940 Act or any other entity that the SEC qualifies as such by exemptive order, no-action relief, rule or other appropriate SEC action.
+“Eligible Securities Depository” means an Eligible Securities Depository as defined in section (b)(1) of Rule 17f-7 under the 1940 Act or that has otherwise been made exempt pursuant to an SEC exemptive order.
+“Foreign Assets” means the Fund’s investments (including foreign currencies) for which the primary market is outside the United States and such cash and cash equivalents as are reasonably necessary to effect the Fund’s transactions in such investments.
+“Foreign Custody Manager” means a Foreign Custody Manager as defined in Rule 17f-5(a)(3) under the 1940 Act.
+1
+“Foreign Market” means each market so identified in Exhibit C hereto.
+“Portfolio” means each separate series of shares offered by the Fund representing interests in a separate portfolio of securities and other assets which is listed on Attachment C hereto or which is added pursuant to Paragraph 35 hereto.
+“Proper Instructions” which may include standing instructions, shall mean any notices, instructions or other instruments in writing Wachovia receives from an Authorized Person or from a person Wachovia reasonably believes to be an Authorized Person by letter, telex, facsimile transmission, Wachovia’s on-line communication system, or any other method whereby Wachovia is able to verify with a reasonable degree of certainty the identity of the sender of the communications or the sender is required to provide a password or other identification code.
+Oral instructions will be considered Proper Instructions if Wachovia reasonably believes that an Authorized Person has given the oral instructions.
+“Property” shall mean any and all Securities, cash, and other property of the Fund which the Fund may from time to time deposit, or cause to be deposited, with Wachovia or which Wachovia may from time to time hold for the Fund; all income of any Securities or other property; all proceeds of the sales of any Securities or other property; and all proceeds of the sale of securities issued by the Fund, which Wachovia receives from time to time from or on behalf of the Fund.
+“Rule 17f-5” means §270.17(f)-5 under the 1940 Act, as amended from time to time.
+“Rule 17f-7” means §270.17(f)-7 under the 1940 Act, as amended from time to time.
+“SEC” means the U.S. Securities and Exchange Commission.
+“Securities” shall include, without limitation, any common stock and other equity securities; bonds, debentures and other debt securities; forwards, swaps, futures, derivatives, mortgages or other obligations; and any instruments representing rights to receive, purchase, or subscribe for the same, or representing any other rights or interests therein (whether represented by a certificate or held in a Depository, Eligible Foreign Custodian, or Eligible Securities Depository).
+“U.S.
+Bank” means a U.S. bank as defined in Rule 17f-5(a)(7) under the 1940 Act.
+“Wachovia “ shall include any office, branch or subsidiary of Wachovia Bank, National Association, and shall include any banking or trust institution that acquires substantially all of the assets of Wachovia Bank, National Association or into which Wachovia Bank, National Association is merged or consolidated, in each case having an aggregate capital, surplus, and undivided profits of not less than U.S. $ [50] million, provided that “Wachovia” shall not include any entity that is (i) not qualified to act as the Fund’s custodian pursuant to Section 17(f)(1) of the 1940 Act or (ii) not a U.S. Bank.
+“1940 Act” means the Investment Company Act of 1940, as amended.
+2
+2.
+Appointment.
+a.
+Appointment as Custodian.
+The Fund is registered as an open-end management investment company under the 1940 Act, and the Fund desires to retain Wachovia to serve as the Fund’s custodian and Wachovia is willing to furnish these services.
+The Fund hereby appoints Wachovia to act as custodian of its Securities, cash and other Property on the terms set forth in this Agreement.
+Wachovia accepts this appointment and agrees to furnish the services set forth below for the compensation as provided in Paragraph 27 of this Agreement.
+b.
+Appointment as Foreign Custody Manager.
+The Fund hereby appoints Wachovia as a Foreign Custody Manager to perform the responsibilities set forth in Paragraph 8 with respect to Foreign Assets, and Wachovia hereby accepts such appointment as a Foreign Custody Manager of the Fund.
+3.
+These documents may include but are not limited to the following:
+a.
+Resolutions of the Fund’s Trustees authorizing the appointment of Wachovia as custodian of the Property of the Fund and approving this Agreement;
+c.             The Fund’s most recent prospectus including all amendments and supplements thereto (the “Prospectus”).
+The Fund also will furnish Wachovia with a copy of the opinion of counsel for the Fund on the validity of the shares of common stock or units of beneficial interest (the “Shares”) of the Fund and the status of the Shares under the 1933 Act, and under any other applicable federal law or regulation.
+d.             To help the government fight the funding of terrorism and money laundering activities, Federal law requires all financial institutions to obtain, verify and record information that identifies each client who opens an account.
+4.
+Wachovia shall identify on its books and records the Securities and cash belonging to the Fund, whether held directly or indirectly through depositories or subcustodians.
+3
+5.
+Voting and Other Rights.
+a.
+The Fund shall have the right to exercise voting and other rights and powers for all Securities, however registered.
+Wachovia reserves the right to provide any documents received, or parts thereof, in the language received.
+The Fund acknowledges that in certain countries Wachovia may be unable to vote individual proxies but be able only to vote proxies on a net basis.
+Wachovia will use reasonable care in facilitating the exercise of voting and other shareholder rights by the Fund, subject always to the laws, regulations and practical constraints that may exist in the country where such securities are issued.
+The Fund acknowledges that local conditions, including lack of regulation, onerous procedural obligations, lack of notice and other factors may have the effect of severely limiting the ability of the Fund to exercise shareholder rights.
+Wachovia shall vote or cause proxies to be voted only as expressly directed in writing pursuant to Proper Instructions of the Fund’s Authorized Person.
+In the absence of Proper Instructions, neither Wachovia nor any subcustodian shall vote or cause proxies to be voted, and they shall expire without liability to Wachovia.
+Wachovia will not advise the Fund or act for the Fund in any legal proceedings, including bankruptcies, involving Securities the Fund holds or previously held or the issuers of these Securities, except as the Fund and Wachovia expressly agree upon in writing.
+Absent Wachovia’s failure to promptly transmit such written information that it has received to the Fund, or absent Wachovia’s timely receipt of Proper Instructions, Wachovia shall not be liable for failure to take any action relating to or to exercise any rights the Securities confer.
+4
+of the date or dates by when the rights must be exercised or action must be taken provided that Wachovia has received, from the issuer, from persons making a tender or exchange offer, or from an Eligible Foreign Custodian or Eligible Securities Depository, or otherwise, timely notice of rights, discretionary corporate action, or dates.
+Absent actual receipt of this notice, Wachovia shall have no liability for failing to so notify the Fund.
+d.             Unless otherwise requested by the Fund, Wachovia shall not be required to notify the Fund of any tender offer with respect to Securities if the offer is for less than 5% of the outstanding shares of such issue and if the price offered is less than 99% of the then current market value.
+6.
+a.             Wachovia shall open and maintain a custody account for the Fund (the “Account”) subject only to draft or order by Wachovia acting pursuant to the terms of this Agreement, and shall hold in the Account, subject to the provisions in this Paragraph 6, all cash it receives by or for the Fund, other than cash the Fund maintains in a bank account established and used in accordance with Rule 17f-3 under the 1940 Act.
+5
+7.
+Receipt and Delivery of Securities.
+a.
+Except for Property held by a subcustodian or depository pursuant to the terms of this Agreement, Wachovia shall hold on behalf of the Fund and segregate (physically, where Securities are held in certificate form) all Securities and non-cash Property it receives for the Fund.
+Wachovia will hold or dispose of all Securities and non-cash Property for the Fund pursuant to the terms of this Agreement.
+In the absence of Proper Instructions accompanied by a certified resolution of the Fund’s Board authorizing the specific transaction, Wachovia shall have no power or authority to withdraw, deliver, assign, hypothecate, pledge or otherwise dispose of any Securities and other Property, except in accordance with this Agreement.
+In no case may any director, trustee, officer, employee or agent of the Fund withdraw any Securities.
+Wachovia may, upon receipt of Proper Instructions, but only in accordance with an applicable vote of the Board of the Fund, at its own expense, employ subcustodians for the receipt of certain non-Foreign Assets Wachovia is to hold for the account of the Fund pursuant to this Agreement; provided that each subcustodian is a U.S. Bank and has an aggregate capital, surplus and undivided profits, as shown by its last published report, of not less than twenty million dollars ($20,000,000) and that such subcustodian agrees with Wachovia to comply with all relevant provisions of the 1940 Act and applicable rules and regulations thereunder.
+Wachovia will be liable for acts or omissions of any subcustodian to the same extent that Wachovia is liable to the Fund under this Agreement.
+Where Securities are transferred to the account of the Fund established at a Depository, Wachovia shall also by book-entry or otherwise identify as belonging to the Fund (and a Portfolio) the quantity of Securities in a fungible bulk of Securities registered in the name of Wachovia (or its nominee) or shown in Wachovia’s account on the books of such Depository .
+8.
+Scope of Responsibilities as Foreign Custody Manager.
+a.
+Authorization.
+Subject to the terms and conditions herein, Wachovia is hereby authorized to: (i) place and maintain Foreign Assets on behalf of the Fund with Eligible Foreign Custodians pursuant to a written contract determined appropriate by Wachovia in accordance with the terms and conditions herein and (ii) withdraw Foreign Assets from Eligible Foreign Custodians in accordance with the terms and conditions herein.
+b.
+Selection.
+Wachovia shall place and maintain Foreign Assets in the care of one or more Eligible Foreign Custodians.
+In performing its responsibilities to place and maintain Foreign Assets with an Eligible Foreign Custodian, Wachovia shall determine that the Eligible Foreign Custodian will hold Foreign Assets in the exercise of reasonable care, based on the standards applicable to custodians in the jurisdiction or market in which the Foreign Assets will be held by that Eligible Foreign Custodian, after considering all factors relevant to the safekeeping of such assets, including, without limitation:
+6
+(i)                                     the Eligible Foreign Custodian’s practices, procedures, and internal controls, including, but not limited to, the physical protections available for certificated securities (if applicable), its methods of keeping custodial records, its security and data protection practices, and its settlement practices;
+(ii)                                  whether the Eligible Foreign Custodian has the financial strength to provide reasonable care for Foreign Assets and to protect Foreign Assets against the Eligible Foreign Custodian’s insolvency;
+(iii)                               the Eligible Foreign Custodian’s general reputation and standing; and
+(iv)                              whether the Fund will have jurisdiction over, and be able to enforce judgments against, the Eligible Foreign Custodian in the United States.
+c.             Contracts.
+Wachovia shall ensure that the Fund’s foreign custody arrangements with each Eligible Foreign Custodian are governed by a written contract with such Eligible Foreign Custodian.
+Wachovia shall determine that the written contract governing the foreign custody arrangements with each Eligible Foreign Custodian that Wachovia selects will provide reasonable care for Foreign Assets held by that Eligible Foreign Custodian.
+Each written contract will include terms that provide:
+(i)                                     for indemnification and/or insurance arrangements that will adequately protect the Fund against the risk of loss of the Foreign Assets held in accordance with such contract;
+(ii)                                  that the Foreign Assets will not be subject to any right, charge, security interest, lien or claim of any kind in favor of the Eligible Foreign Custodian or its creditors, except a claim for the Eligible Foreign Custodian’s services under the contract or, in the case of cash deposits, liens or rights in favor of creditors of such Eligible Foreign Custodian arising under bankruptcy, insolvency or similar laws;
+(iii)                               that beneficial ownership of the Foreign Assets will be freely transferable without the payment of money or value, other than payments for the Eligible Foreign Custodian’s services under the contract;
+(iv)                              that the Eligible Foreign Custodian will maintain adequate records identifying the Foreign Assets held under the contract as belonging to the Fund or as being held by a third party for the benefit of the Fund;
+(v)                                 that the Fund’s independent public accountants will be given access to those records or confirmation of the contents of those records;
+(vi)                              that the Fund will receive periodic reports with respect to the safekeeping of the Foreign Assets, including, but not limited to, notification of any transfer of the Foreign Assets to or from the account of the Fund or a third
+7
+party account containing the Foreign Assets held for the benefit of the Fund; and
+(vii)                           that the Eligible Foreign Custodian will indemnify and hold harmless Wachovia (or its agent) or the Fund from and against any loss, expense, liability or claim incurred by Wachovia (or its agent) or the Fund to the extent such loss, expense, liability or claim arises from the Eligible Foreign Custodian’s negligence or willful misconduct.
+or, in lieu of any or all of the terms set forth in (i) through (vi) above, such other terms that Wachovia determines will provide, in their entirety, the same or greater level of care and protection for the Foreign Assets as the provisions set forth in (i) through (vi) above in their entirety.
+d.             Monitoring.
+Wachovia will establish and maintain a system to monitor: (i) the appropriateness of maintaining Foreign Assets with each Eligible Foreign Custodian; (ii) Material Changes to the Fund’s foreign custody arrangements, as defined in paragraph (f) below; and (iii) the performance of the contracts described in subparagraph c. above (the “Monitoring System”).
+e.             Withdrawing Fund Assets.
+In the event that a foreign custody arrangement no longer meets the terms and conditions set forth in Rule 17f-5, Wachovia will promptly notify the Fund and will then act in accordance with the Fund’s Proper Instructions with respect to the disposition of the affected Foreign Assets.
+f.              Reporting Requirements.
+Material Changes” include, but are not limited to:  a decision to remove all Foreign Assets from a particular subcustodian; any event that may adversely and materially affect an Eligible Foreign Custodian’s financial or operational strength; Wachovia’s inability to perform its duties in accordance with the standard of care under this Paragraph 8; a change in control of an Eligible Foreign Custodian; the failure of an Eligible Foreign Custodian to comply with the terms of Rule 17f-5, or its contract governing the Fund’s foreign custody arrangements; any material change in any contract governing the Fund’s foreign custody arrangements; the failure of Wachovia or a foreign custody arrangement to meet the standards in Rule 17f-5; any event that may adversely affect Wachovia’s ability to comply with Rule 17f-5; and a material change in any information provided to the Board regarding Wachovia’s expertise in foreign custody issues and risks, Wachovia’s use of third party experts to perform its foreign custody responsibilities, the Board’s ability to monitor Wachovia’s performance, Wachovia’s financial strength or its ability to indemnify the Fund.
+8
+g.             Provision of Information.
+The Fund hereby acknowledges that such information is solely designed to inform the Fund of market conditions and procedures, but is not intended to influence the Fund’s investment decisions (or those of its investment adviser(s)).
+Wachovia will use reasonable care in gathering such information.
+Wachovia agrees to promptly notify the Fund (or its investment adviser(s)) at the time that Wachovia becomes aware of a material change to the information provided or if Wachovia learns that any information previously provided is incomplete or inaccurate.
+With respect to each Eligible Foreign Custodian employed by the Fund under Paragraph 8.i below, Wachovia agrees to provide to the Fund (or its investment adviser(s)) any information it possesses regarding Country Risk or the risks associated with placing or maintaining Foreign Assets with the Eligible Foreign Custodian.
+h.             Standard of Care as Foreign Custody Manager.
+In performing its delegated responsibilities as the Fund’s Foreign Custody Manager, Wachovia agrees to exercise reasonable care, prudence and diligence such as a person having responsibility for the safekeeping of the Fund’s Foreign Assets under the 1940 Act would exercise.
+In particular, regardless of whether assets are maintained in the custody of an Eligible Foreign Custodian or an Eligible Securities Depository, Wachovia shall be liable to the Fund for the acts or omissions of an Eligible Foreign Custodian or Eligible Securities Depository where that Eligible Foreign Custodian or Eligible Securities Depository has not acted with reasonable care.
+i.
+Direction of Eligible Foreign Custodians.
+The Fund may direct Wachovia to place and maintain Foreign Assets with a particular Eligible Foreign Custodian that is not otherwise part of Wachovia’s foreign custody network.
+In such event, Wachovia will have no duties under this Paragraph 8 with respect to such arrangement, except those included under Paragraph 8.g and those that it may undertake specifically in writing.
+j.
+Best Customer.
+If at any time Wachovia is or becomes a party to an agreement to serve as Foreign Custody Manager to an investment company that provides for either:  (i) a standard of care with respect to the selection of Eligible Foreign Custodians in any jurisdiction higher than that set forth in Paragraph 8.b., or (ii) a standard of care with respect to exercise of Wachovia’s duties other than that set forth in Paragraph 8.h., Wachovia agrees to notify the Fund of this fact and to raise the applicable standard of care hereunder to the standard specified in such other agreement.
+k.             Condition Precedent.
+9
+l.              Limitations.
+Wachovia shall have only such duties as are expressly set forth herein.
+In no event shall Wachovia be liable for any Country Risks associated with investments in a particular country.
+m.            Representations with respect to Rule 17f-5.
+Wachovia represents to the Fund that it is a U.S. Bank.
+9.
+Eligible Securities Depositories; Compliance with Rule 17f-7.
+Wachovia shall provide an analysis of the custody risks associated with maintaining the Fund’s Foreign Assets with each Eligible Securities Depository prior to the initial placement of the Fund’s Foreign Assets at such Depository and at which any Foreign Assets of the Fund are held or are expected to be held.
+Wachovia shall monitor the custody risks associated with maintaining the Fund’s Foreign Assets at each such Eligible Securities Depository on a continuing basis and shall promptly notify the Fund and its advisers of any material changes in such risks.
+Wachovia shall exercise reasonable care, prudence and diligence in performing the requirements set forth in this Paragraph.
+Based on the information available to it in the exercise of the foregoing standard of care, Wachovia shall determine the eligibility under Rule 17f-7 of each Depository before including it on Exhibit B hereto and shall promptly advise the Fund (and its investment adviser(s)) if any Eligible Securities Depository ceases to be eligible and will withdraw the Fund’s foreign assets from the depository as soon as reasonably practical.
+For purposes of this Paragraph 9, the Fund (and its investment adviser(s)) shall be deemed to have considered the Country Risk as is incurred by placing and maintaining Foreign Assets in each country in which each such Eligible Securities Depository operates.
+Wachovia’s responsibilities under this Paragraph 9 shall not include, or be deemed to include, any evaluation of Country Risks associated with investment in a particular country.
+10.
+Foreign Market Transactions.
+The Fund agrees that all settlements of Foreign Assets transactions shall be against delivery of the Securities for cash, unless such settlement is inconsistent with customary practices in the local market and reasonably impracticable to otherwise achieve.
+11.
+Pledge or Encumbrance of Securities or Cash.
+Except as provided in this Agreement, Wachovia may not pledge, assign, hypothecate or otherwise encumber Securities or cash in any Account without the Fund’s prior written consent.
+12.
+Segregated Account.
+Wachovia shall upon receipt of Proper Instructions establish and maintain a segregated account or accounts for and on behalf of the Fund, into which account or accounts may be transferred cash and/or Securities (i) in accordance with the provisions of any agreement among the Fund, Wachovia and a broker-dealer registered under the Securities Exchange Act of 1934 (the “Exchange Act”) and a member of the NASD (or any futures commission merchant registered under the Commodity Exchange Act) relating to compliance with the rules of the Options Clearing Corporation and of any registered national securities exchange (or the Commodity Futures Trading Commission or any registered contract market), or of any similar organization or organizations, regarding escrow or other arrangements in connection with Fund transactions, (ii) for purposes of segregating cash or government securities in connection with options the Fund purchases, sells or writes or commodity futures contracts or
+10
+options thereon that the Fund purchases or sells, (iii) for the purposes of the Fund’s compliance with the procedures set out in 1940 Act Release No.
+10666, or any subsequent release, interpretation or policy of the SEC relating to registered investment companies’ maintenance of segregated accounts; and (iv) for other proper corporate purposes, but only, in the case of clause (iv), upon receipt of, in addition to Proper Instructions, a certified copy of a resolution of the Board or of the Executive Committee signed by an officer of the Fund and certified by the Secretary or an Assistant Secretary, setting forth the purpose or purposes of the segregated account and declaring the purposes to be proper corporate purposes.
+13.
+Foreign Exchange.
+a.
+For the purpose of settling Securities and foreign exchange transactions, the Fund shall provide Wachovia with sufficient immediately available funds for all transactions by such time and date as conditions in the relevant market dictate.
+As used herein, “sufficient immediately available funds” shall mean either (i) sufficient cash denominated in the currency of the Fund’s home jurisdiction to purchase the necessary foreign currency, or (ii) sufficient applicable foreign currency to settle the transaction.
+Wachovia shall provide the Fund with immediately available funds, which result from the actual settlement of all sale transactions each day, based upon advices Wachovia receives from the Fund’s Eligible Foreign Custodians and Eligible Securities Depositories.
+Such funds shall be in the currency of the Fund’s home jurisdiction or such other currency as the Fund may specify to Wachovia.
+b.
+Any foreign exchange transaction Wachovia effects in connection with this Agreement pursuant to Proper Instructions may be entered with Wachovia acting as principal or otherwise through customary banking channels.
+The Fund may issue standing Proper Instructions with respect to foreign exchange transactions but Wachovia may establish rules or limitations concerning any foreign exchange facility made available to the Fund by Wachovia.
+The Fund shall bear all currency risks resulting from investing in Securities denominated in a foreign currency or holding cash denominated in a foreign currency.
+In particular (and except to the extent that this paragraph is inconsistent with paragraphs 8 or 9), the Fund shall bear the risks that (i) a transfer to, by or for the account of the Fund of Securities or cash held outside the Fund’s jurisdiction or denominated in a currency other than its home jurisdiction, or (ii) the conversion of cash from one currency into another, may be prohibited, limited, or be subject to burdens or costs, because of (w) Eligible Securities Depository rules or procedures, (x) exchange controls, (y) asset freezes, or (z) other laws, rules, regulations or orders.
+Wachovia shall not be obligated to substitute another currency for a currency (including a currency that is a component of a composite currency unit such as the Euro) whose transferability, convertibility or availability has been affected by such law, regulation, rule or procedure.
+Except as set forth in Paragraphs 8 and 9, Wachovia shall not be liable to the Fund of any loss resulting from any of the foregoing events.
+14.
+Lending of Securities.
+a.
+11
+Wachovia shall not lend Securities except as the Fund or its agent instructs.
+b.
+Securities returned to Wachovia for the account of the Fund shall be held as they were before the loan.
+15.
+Overdrafts or Indebtedness.
+If Wachovia in its sole discretion advances funds in any currency hereunder or if there shall arise for whatever reason an overdraft in a Fund’s Account (including, without limitation, overdrafts incurred in connection with the settlement of securities transactions, funds transfers or foreign exchange transactions) or if the Fund is for any other reason indebted to Wachovia in connection with Wachovia’s obligations under this Agreement (“Indebtedness”), the Fund agrees to repay Wachovia on demand the amount of the Indebtedness plus accrued interest at a rate Wachovia ordinarily charges to its institutional custody customers in the relevant currency.
+To secure repayment of the Fund’s obligations to Wachovia hereunder, the Fund hereby pledges and grants to Wachovia a continuing lien and security interest in, and right of set off against, all of the Fund’s right, title and interest in and to (a) all accounts in the Fund’s name and the securities, money and other property now or hereafter held in such accounts (including the proceeds thereof), (b) each account in respect of which, or for whose benefit the advance, overdraft or indebtedness relates and the securities, money and other property now or hereafter held in such account (including the proceeds thereof), and (c) any other property at any time Wachovia holds for the account of the Fund, but in each case only to the extent of such Indebtedness.
+In this regard, Wachovia shall be entitled to all the rights and remedies of a pledgee and secured creditor under applicable laws, rules or regulations then in effect.
+16.
+Use of Domestic Depository.
+12
+Securities, and deliveries and returns of securities collateral in connection with borrowings.
+Without limiting the generality of this use, it is agreed that the following provisions shall apply thereto:
+b.
+Securities and any cash of the Fund deposited in a Depository will at all times (1) be represented in an account of Wachovia in the Depository and (2) be segregated from any assets and cash Wachovia controls in other than a fiduciary or custodian capacity but may be commingled with other assets held in these capacities.
+Securities and cash Wachovia deposits in a Depository will be held subject to the rules, terms and conditions of the Depository.
+d.
+[Reserved.]
+e.             All books and records Wachovia maintains that relate to the Fund’s participation in a Depository will at all times during Wachovia’s regular business hours be open to the inspection of the Fund’s duly authorized employees or agents, and the Fund will be furnished with all information in respect of the services rendered to it as it may require.
+f.              Wachovia shall exercise due care in accordance with reasonable commercial standards in discharging its duties as a securities intermediary with respect to the Fund’s assets, to obtain and thereafter maintain such assets.
+If Wachovia holds any of the Fund’s assets in a Depository through a subcustodian, Wachovia shall require that such subcustodian, at a minimum, shall exercise due care in accordance with reasonable commercial standards in discharging its duty as a securities intermediary to obtain and thereafter maintain financial assets corresponding to the security entitlements of its entitlement holders, such terms “securities intermediary,” “security entitlements” and “entitlement holders” to have the meaning set forth in the Uniform Commercial Code as in effect in the Commonwealth of Pennsylvania.
+At the election of the Fund on a case by case basis , it shall be entitled to be subrogated to the rights of Wachovia for any claim against the Depository or any other person that Wachovia may have as a consequence of any loss or damage if and to the extent that the Fund has not been made whole for any loss or damage.
+13
+17.
+Instructions Consistent With The Declaration, etc.
+a.
+Unless otherwise provided in this Agreement, Wachovia shall act only upon Proper Instructions.
+Wachovia may assume that any Proper Instructions received hereunder are not in any way inconsistent with any provision of the Declaration or By-Laws of the Fund or any vote or resolution of the Fund’s Trustees, or any committee thereof.
+Wachovia shall be entitled to rely upon any Proper Instructions it actually receives pursuant to this Agreement and which it reasonably believes an Authorized Person has given.
+The Fund agrees that Wachovia shall incur no liability in acting in good faith upon Proper Instructions that Wachovia reasonably believes an Authorized Person has given to Wachovia, provided such Proper Instructions are otherwise in accordance with this Agreement.
+However, the Fund agrees that where Wachovia does not receive confirming Proper Instructions or receives contrary Proper Instructions, the validity or enforceability of transactions the oral instructions authorize and which Wachovia carries out prior to receipt of contrary instructions shall not be affected, and the only obligation that Wachovia shall have with respect to receipt of conflicting Proper Instructions is to promptly notify the Fund of such receipt.
+b.
+[Reserved.]
+c.             The Fund agrees that test arrangements, authentication methods or other security devices to be used for Proper Instructions which the Fund may give by telephone, telex, TWX, facsimile transmission, bank wire or through an electronic instruction system, shall be processed in accordance with terms and conditions for the use of the arrangements, methods or devices as Wachovia may put into effect and modify from time to time.
+The Fund shall safeguard any test keys, identification codes or other security devices which Wachovia makes available to the Fund and agrees that the Fund shall be responsible for any loss, liability or damage Wachovia or the Fund incurs as a result of Wachovia’s acting in accordance with instructions from any unauthorized person using the proper security device because of the failure of the Fund to properly safeguard such security device.
+Wachovia may, but is not obligated to, electronically record any instructions given by telephone and any other telephone discussions about the Account.
+18.
+Transactions Not Requiring Instructions.
+Wachovia is authorized to take the following action without Instructions:
+a.
+Collection of Income and Other Payments.
+Wachovia shall:
+Income due the Fund on Securities
+14
+loaned pursuant to the provisions of Paragraph 14 shall be the responsibility of the Fund.
+Wachovia will have no duty or responsibility in connection therewith, other than to provide the Fund with information or data as may be necessary to assist the Fund in arranging for the timely delivery to Wachovia of the income to which the Fund is properly entitled.
+From time to time, Wachovia may elect, but shall not be so obligated, to credit the Account with interest, dividends or principal payments on payable or contractual settlement date, in anticipation of receiving the same from a payor, central depository, broker or other agent the Fund or Wachovia employs.
+Any such crediting and posting shall be at the Fund’s sole risk, and Wachovia shall be authorized to reverse any advance posting in the event Wachovia does not receive good funds from any payor, central depository, broker or agent of the Fund;
+ii.
+iii.
+receive and hold for the account of the Fund all Securities the Fund receives as a result of a stock dividend, share split-up or reorganization, recapitalization, readjustment or other rearrangement or distribution of rights or similar securities issued with respect to any Securities of the Fund Wachovia holds hereunder;
+iv.
+v.             take any action which may be necessary and proper in connection with the collection and receipt of the income and other payments and the endorsement for collection of checks, drafts and other negotiable instruments;
+vi.
+effect an exchange of the shares where the par value of stock is changed, and to surrender Securities at maturity or when advised of an earlier call for redemption or when Securities otherwise become available, against payment therefore in accordance with accepted industry practice.
+The Fund understands that Wachovia subscribes to one or more nationally recognized services that provide information on calls for redemption of bonds or other corporate actions.
+Wachovia shall have no duty to notify the Fund of any rights, duties, limitations, conditions or other information set forth in any Security (including mandatory or optional put, call and similar provisions), but Wachovia shall forward to the Fund any notices or other documents subsequently received in regard to any security.
+If the Fund owns Property that is registered in the name of a nominee of Wachovia and the issuer of any such Property calls the Property for partial redemption, Wachovia is authorized to allot the called portion to the beneficial holders of the Property in a manner it deems fair and equitable in its sole discretion;
+vii.
+15
+it may receive from an issuer of Securities which, in the opinion of Wachovia , are intended for the Fund as the beneficial owner of Securities; and
+viii.
+execute, as Wachovia , any certificates of ownership, affidavits, declarations or other certificates for all foreign governments, federal and state tax purposes in connection with the collection or receipt of income, bond and note coupons, or other payments from Securities or in connection with transfers of Securities.
+b.             Miscellaneous Transactions.
+ii.
+for the exchange of interim receipts or temporary Securities for definitive securities; and
+iii.
+for transfer of Securities into the name of the Fund or Wachovia or a nominee of either, or to the issuer thereof for exchange of Securities for a different number of bonds, certificates, or other evidence, representing the same aggregate face amount or number of units bearing the same interest rate, maturity date and call provisions, if any; provided that, in any case, the new Securities are to be delivered to Wachovia .
+19.
+In addition to the actions requiring Proper Instructions set forth in this Agreement, upon receipt of Proper Instructions and not otherwise, Wachovia, directly or through the use of a Depository, shall:
+a.
+[Reserved.]
+b.
+Deliver any Securities held for the Fund against receipt of other Securities or cash issued or paid in connection with the liquidation, reorganization, refinancing, merger, consolidation or recapitalization of any corporation, or the exercise of any conversion privilege;
+c.             Deliver any Securities held for the Fund to any protective committee, reorganization committee or other person in connection with the reorganization, refinancing, merger, consolidation, recapitalization or sale of assets of any corporation, against receipt of certificates of deposit, interim receipts or other instruments or documents as may be issued to it to evidence delivery;
+d.             Make transfers or exchanges of the assets of the Fund and take such other steps as shall be stated in the instructions to effectuate any duly authorized plan of liquidation, reorganization, merger, consolidation or recapitalization of the Fund;
+e.             Release Securities belonging to the Fund to any bank or trust company for the purpose of pledge or hypothecation to secure any loan the Fund incurs; provided, however, that securities shall be released only upon payment to Wachovia for the account of the Fund of the
+16
+monies borrowed, except that in cases where additional collateral is required to secure a borrowing already made, subject to proper prior authorization, further securities may be released for that purpose; and pay the loan upon redelivery to it of the securities pledged or hypothecated therefore and upon surrender of the note or notes evidencing the loan;
+f.              Deliver Securities or cash in accordance with the provisions of any agreement among the Fund, Wachovia and a broker-dealer registered under the Exchange Act and a member of the NASD relating to compliance with the rules of The Options Clearing Corporation and of any registered national securities exchange, or of any similar organization or organizations, regarding escrow or other arrangements in connection with Fund transactions;
+g.             Deliver Securities or cash in accordance with the provisions of any agreement among the Fund, Wachovia and a Futures Commission Merchant registered under the Commodity Exchange Act, relating to compliance with the rules of the Commodity Futures Trading Commission and/or any Contract Market, or any similar organization or organizations, regarding account deposits in connection with Fund transactions;
+i.
+j.
+20.
+Purchase and Sale of Securities.
+a.
+b.
+17
+Subject to the foregoing, Wachovia may accept payment for the account of the Fund in any form as shall be satisfactory to it, and may deliver Securities and arrange for payment in accordance with the customs prevailing among dealers in Securities.
+c.
+[Reserved.]
+d.             Wachovia shall not be liable for the acts or omissions of any broker or agent (except an affiliate of Wachovia).
+Upon the Fund’s Proper Instructions (which may include standing instructions), Wachovia shall also invest cash balances in certificates of deposit, savings accounts or other similar instruments Wachovia issues or in money market or other mutual funds for which Wachovia or an affiliate may serve as investment adviser, administrator, custodian, shareholder servicing agent, or other capacity notwithstanding that Wachovia or its affiliate collects fees from these mutual funds for providing the services.
+e.             Except as otherwise provided by law, and as limited by Paragraph 12 hereof, any account holding cash for the benefit of the Fund (including subdivisions of accounts maintained in different currencies) shall constitute one single and indivisible Account.
+Consequently, Wachovia has the right, among others, to transfer the balance of any subaccount held for the benefit of the Fund to any other subaccount held for the benefit of the Fund at any time and without prior notice.
+f. (i)         Unless another agreement requires it to do so, Wachovia shall be under no obligation or duty to see that the Fund has deposited or is maintaining adequate margin, if required, with any broker in connection with any option, nor shall Wachovia be under any obligation or duty to present the option to the broker for exercise unless it receives Proper Instructions from the Fund.
+Wachovia shall have no responsibility for the legality of any put or call option sold on the Fund’s behalf, the propriety of any purchase or sale, or the adequacy of any collateral delivered to a broker in connection with an option or deposited to or withdrawn from any account.
+Wachovia specifically, but not by way of limitation, unless another agreement requires that it do so, shall not be under any obligation or duty to: (x) periodically check with or notify the Fund that the amount of collateral a broker holds is sufficient to protect the broker or the Fund against any loss; (y) effect the return of any collateral delivered to a broker; or (z) advise the Fund that any option it holds has expired or is about to expire, subject to the requirement of Paragraph 5to promptly transmit notices.
+These obligations and duties shall be the Fund’s sole responsibility.
+(ii)           Wachovia’s responsibility as to futures, puts, and calls traded on commodities exchanges, any futures commission merchant account, and any account of the Fund shall be limited as set forth in subparagraph (f)(i) of this Paragraph 20 as if the subparagraph referred to futures commission merchants rather than brokers, and futures and puts and calls thereon instead of options.
+18
+21.
+Records.
+The books and records pertaining to the Fund that are in the possession of Wachovia shall be the property of the Fund.
+Wachovia shall prepare and maintain these books and records as the 1940 Act and other applicable federal securities laws and rules and regulations require.
+The Fund or the Fund’s authorized representatives shall have access to Wachovia’s books and records pertaining to the Fund at all times during Wachovia’s normal business hours, and Wachovia shall surrender these books and records to the Fund promptly upon request.
+22.
+Cooperation with Accountants.
+Wachovia shall cooperate with the Fund’s independent public accountants and shall take all reasonable action in the performance of its obligations under this Agreement to assure that the necessary information is made available to the accountants for the expression of their unqualified opinion, including but not limited to the opinion included in the Fund’s Form N-1A, Form N-SAR, and other reports to the SEC and for any other requirement of the SEC.
+23.
+Reports to Fund by Independent Public Accountants.
+Wachovia shall provide the Fund, at such times as the Fund may reasonably require, with reports from Wachovia’s independent public accountants on the accounting system, internal accounting controls and procedures for safeguarding Securities, futures contracts and options on futures contracts, including Securities deposited and/or maintained in a Depository, relating to the services Wachovia provides under this Agreement.
+These reports shall be of sufficient scope and in sufficient detail as the Fund may reasonably require to provide reasonable assurance that the examination would disclose any material inadequacies and, if there are no material inadequacies, the reports shall so state.
+24.
+Confidentiality.
+Wachovia agrees on behalf of itself and its employees to treat confidentially and as the proprietary information of the Fund all records and other information related to the Fund and its prior, present or potential Shareholders, and to the investment adviser and its prior, present or potential customers, and not to use these records and information for any purpose other than performance of its responsibilities and duties hereunder, except after prior notification to the Fund and the Fund’s written approval.
+The Fund shall not unreasonably withhold this approval, and may not withhold its approval where Wachovia may be exposed to civil or criminal contempt proceedings for failure to comply, when duly constituted authorities request Wachovia to divulge this information, or when the Fund so requests.
+Nothing contained herein, however, shall prohibit Wachovia from advertising or soliciting the public generally for other products or services, regardless of whether the advertisement or solicitation may include prior, present or potential shareholders of the Fund.
+25.
+Equipment.
+19
+b.
+In the event of equipment failures beyond Wachovia’s control, Wachovia shall, at no additional expense to the Fund, take reasonable steps to minimize service interruptions.
+Wachovia shall make reasonable provision for back-up emergency use of electronic data processing equipment.
+Wachovia, its agents and subcustodians shall maintain and update from time to time business continuity procedures and disaster recovery facilities with respect to its or their custody business, both domestic and foreign, as would be maintained by a professional custodian.
+26.
+a.
+If Wachovia shall be in doubt as to any action it may take or omit to take, it may request, and shall receive, from the Fund clarification or advice.
+If Wachovia shall be in doubt as to any question of law involved in any action it may take or omit to take, it may request advice at its own cost from counsel of its own choosing (who may be counsel for the Fund or Wachovia, at the option of Wachovia).
+If Wachovia receives conflicting advice from the Fund and from counsel of its choosing, provided that Wachovia has so notified the Fund, Wachovia shall be entitled to rely on and follow the advice of its counsel, and shall be fully protected for anything it does or omits to do in good faith in conformity with this advice.
+b.             Wachovia shall be protected in any action or inaction which it takes or omits to take consistent with the terms of this Agreement in reliance on any directions or advice received pursuant to subparagraph (a) of this Paragraph 26 which Wachovia, after receipt of any directions or advice, in good faith believes to be consistent with these directions or advice.
+However, nothing in this Paragraph shall be construed as imposing upon Wachovia any obligation (i) to seek directions or advice, or (ii) to act in accordance with directions or advice when received, unless, under the terms or another provision of this Agreement, the same is a condition to Wachovia’s properly taking or omitting to take action.
+Nothing in this subparagraph shall excuse Wachovia when an action or omission on the part of Wachovia constitutes willful misfeasance, bad faith, negligence or reckless disregard of its duties under this Agreement.
+27.
+Compensation.
+As compensation for the services described in this Agreement that Wachovia shall provide during the term of this Agreement, the Fund will pay to Wachovia (a)  monthly fees as outlined in Attachment A, and (b) out-of-pocket expenses as may be agreed upon by Wachovia and the Fund from time to time, including but not limited to, reimbursement of any taxes or other charges which may be imposed upon the Fund or its income and fees, or on Wachovia in connection with any acquisition, holding, sale, transfer, delivery, or receipt of Securities or cash under this Custody Agreement (other than income or other taxes imposed upon Wachovia in connection with its provision of the custodial services contemplated hereunder).
+If the Fund invests in shares of registered investment companies to which Wachovia or Wachovia’s affiliates provide investment advisory or other services for compensation (as described in a prospectus you will receive before any investment), Wachovia or Wachovia’s affiliates will retain this compensation in addition to all fees you pay under this Agreement.
+20
+28.
+Representations.
+a.
+The Fund hereby represents to Wachovia that (i) this Agreement has been duly authorized, executed and delivered by the Fund, constitutes a valid and legally binding obligation of the Fund enforceable in accordance with its terms, and no statute, regulation, rule, order, judgment or contract binding on the Fund prohibits the Fund’s execution or performance under this Agreement.
+Wachovia hereby represents to the Fund that (i) it is a U.S. bank with the full power to carry on its businesses as now conducted, and to enter into this Agreement and to perform its obligations hereunder; and (ii) this Agreement has been duly authorized, executed and delivered by Wachovia, constitutes a valid and legally binding obligation of Wachovia enforceable in accordance with its terms, and no statute, regulation, rule, order, judgment or contract binding on Wachovia prohibits Wachovia’s execution or performance of this Agreement.
+b.             Wachovia hereby represents and warrants that each and every commercial and noncommercial hardware, software, firmware, mechanical, or electrical product (“Products”) used, created, assembled, manufactured, developed, or modified in connection with any goods or services offered or provided under this Agreement shall, at no additional costs to the Fund, be able to store and process accurately any data reflected in the currency unit of the European Monetary Union, the Euro, and related to the Euro (including, but not limited to, calculating, comparing, storing, processing, recording, valuing, recognizing, validating, presenting and sequencing) and be able to store and process accurately any and all date and date-related data (including, but not limited to processing leap year calculations and processing any other dates with unique digit arrangements such as, by way of example, 9/9/99).
+The Fund may, at no additional cost, require Wachovia to demonstrate compliance and/or compliance techniques and test procedures it intends to follow or evidence of compliance by Wachovia and relevant third party vendors, consistent with the Euro related representations, warranties and obligations contained herein.
+These representations and warranties shall be in effect so long as the service(s) or Product(s) provided under this Agreement are used by Wachovia or provided by Wachovia for the benefit of the Fund.
+29.
+Performance of Duties and Standard of Care.
+a.
+Except as stated in Paragraphs 8 and 9 of this Agreement, in the performance of its duties hereunder, Wachovia shall be obligated to exercise due care and diligence in accordance with reasonable commercial standards and to act in good faith to ensure the accuracy and completeness of all services performed under this Agreement.
+b.             Wachovia shall be under no duty to take any action on behalf of the Fund except as specifically set forth herein or as Wachovia may specifically agree to in writing.
+c.             Wachovia may enter into subcontracts, agreements and understandings with affiliates, whenever and on any terms and conditions, as it deems necessary or appropriate to perform its services under this Agreement, consistent with the 1940 Act and other applicable law.
+No subcontract, agreement or understanding shall discharge Wachovia from its obligations under this Agreement.
+21
+d.             Wachovia shall not be obligated to execute any of the Fund’s Proper Instructions if Wachovia believes that to do so will or may contravene any law or regulation, any relevant market practice, or the terms of this Agreement.
+The Fund hereby agrees to hold Wachovia harmless from loss, claims, liability or expense asserted against Wachovia as a result of any contravention undertaken pursuant to Proper Instructions in accordance with the terms of this Agreement.
+e.             Except as stated in Paragraphs 8 and 9 of this Agreement, Wachovia shall be responsible for its own negligent failure or that of any subcustodian it shall appoint to perform its duties under this Agreement but to the extent that duties, obligations and responsibilities are not expressly set forth in this Agreement, Wachovia shall not be liable for any act or commission that does not constitute willful misfeasance, bad faith, or negligence on the part of Wachovia or any subcustodian it appoints or reckless disregard of such duties, obligations and responsibilities.
+Without limiting the generality of the foregoing or of any other provision of this Agreement, Wachovia in connection with its duties under this Agreement, so long as and to the extent it is in the exercise of reasonable care, shall not be under any duty or obligation to inquire into and shall not be liable for or in respect of (i) the validity or invalidity or authority or lack thereof of any advice, direction, notice or other instrument which conforms to the applicable requirements of this Agreement, if any, and which Wachovia reasonably believes to be genuine, (ii) the validity of the issue of any Securities the Fund purchases or sells, the legality of the purchase or sale thereof or the propriety of the amount paid or received therefore, (iii) the legality of the issue or sale of any Shares, or the sufficiency of the amount to be received therefore, (iv) the legality of the redemption of any Shares, or the propriety of the amount to be paid therefore, (v) the legality of the declaration or payment of any dividend or distribution on Shares, or (vi) delays or errors or loss of data occurring by reason of circumstances beyond Wachovia’s control, including acts of civil or military authority, acts of terrorism, national emergencies, labor difficulties, fire, mechanical breakdown (except as provided in Paragraph 25), flood or catastrophe, acts of God, insurrection, war, riots, or failure of the mail, transportation systems, communication systems or power supply.
+f.              The Fund assumes full responsibility for insuring that the contents of each Registration Statement of the Fund complies with all applicable requirements of the 1933 Act, the 1940 Act, and any laws, rules and regulations of governmental authorities having jurisdiction.
+30.
+Indemnification.
+The Fund, as sole owner of the Property, agrees to indemnify and hold harmless Wachovia and its nominees from all taxes, charges, assessments, claims, and liabilities (including, without limitation, liabilities arising under the 1933 Act, the 1934 Act, the 1940 Act, and any state and foreign securities and blue sky laws, all as or to be amended from time to time) and expenses, including (without limitation) attorney’s fees and disbursements, arising directly or indirectly from any action or thing which Wachovia takes or does or omits to take or do (i) at the request or on the direction of or in reliance on the advice of the Fund given in accordance with the terms of this Agreement, or (ii) upon Proper Instructions provided any such action or omission is in accordance with the terms of this Agreement; provided, however, that neither Wachovia nor any of its nominees or subcustodian shall be indemnified against any liability to the Fund or to its Shareholders (or any expenses incident to this liability) arising out of (x) Wachovia’s or its nominee’s or subcustodian’s own willful misfeasance, bad faith, negligence or reckless disregard of its duties under this Agreement or any agreement between Wachovia and
+22
+any nominee or subcustodian or (y) Wachovia’s own negligent failure to perform its duties under this Agreement.
+Wachovia similarly agrees to indemnify and hold harmless the Fund from all liabilities and expenses arising directly or indirectly from Wachovia’s or its nominee’s or sub-custodian’s willful misfeasance, bad faith, negligence or reckless disregard in performing its duties under this agreement.
+31.
+This Agreement shall become effective as of its execution and shall continue in full force and effect until terminated as hereinafter provided.
+The parties may mutually agree to amend this Agreement at any time.
+32.
+Successor Custodian.
+Thereafter, that bank or trust company shall be the successor of Wachovia under this Agreement.
+If Property of the Fund remains in the possession of Wachovia after the date of termination of this Agreement owing to the Fund’s failure to procure the certified copy of the vote referred to or of the Board to appoint a successor custodian, Wachovia shall be entitled to fair compensation for its services during the period Wachovia retains possession of the Property and the provisions of this Agreement relating to the duties and obligations of Wachovia shall remain in full force and effect.
+23
+33.
+34.
+Further Actions.
+Each party agrees to perform further acts and execute further documents as are necessary to effectuate the purposes of this Agreement.
+35.
+Portfolios.
+If a Fund has more than one Portfolio, then the term ‘Fund’, as used in this Agreement, shall be deemed to refer to each such Portfolio, unless the context otherwise requires, and Wachovia will hold assets of each Portfolio in an account for such Portfolio containing only the assets of such Portfolio, and any obligation or liability of such Portfolio under the terms of this Agreement shall be binding only with respect to such Portfolio, and shall be discharged only out of the assets of such Portfolio.
+36.
+Miscellaneous.
+This Agreement embodies the entire Agreement and understanding between the parties hereto, and supersedes all prior agreements and understandings relating to the parties hereto.
+The captions in this Agreement are included for convenience of reference only and in no way define or delimit any of the provisions hereof or otherwise affect their construction or effect.
+This Agreement may be executed in any number of counterparts, each of which shall be deemed to be an original, but such counterparts shall together, constitute only one instrument.
+This Agreement shall be deemed to be a contract made in Pennsylvania and governed by Pennsylvania law.
+If a court decision, statute, rule or otherwise holds or invalidates any provision of this Agreement, the remainder of this Agreement shall not be affected.
+This Agreement shall be binding upon and shall inure to the benefit of the parties and their respective successors.
+The Fund’s Articles of Incorporation or Declaration of Trust is on file with the Secretary of the Commonwealth of Massachusetts.
+The Fund’s officers have executed this Agreement on behalf of the Fund as officers and not individually and the obligations this Agreement imposes upon the Fund are not binding upon any of the Fund’s Directors or Trustees, officers or shareholders individually but are binding only upon the assets and Property of the
+24
+Fund.
+IN WITNESS WHEREOF, the parties hereto have caused their officers designated below to execute this Agreement as of the day and year first above written.
+Attest:/s/
+By:
+/s/ Sofia A. Rosala
+Name: Sofia A. Rosala
+Title: Vice President
+Attest:/s/
+By:
+/s/ Paul Rucci
+Name: Paul Rucci
+Title: Vice President
+25
+ATTACHMENT A
+Fee Schedule
+SEI Institutional Investments Trust
+The breakpoints in this fee schedule are applied to the cumulative market value of all the SEI Trusts for which Wachovia acts as custodian, rather than on a trust by trust basis.
+Custody Administrative Fees:
+Security Lending Transaction Fees:
+$
+$
+$
+SEI Institutional Investments Trust
+By:
+ /s/ Paul Rucci
+By:
+/s/ Sofia A Rosala
+     Paul Rucci
+Title:
+Vice President
+Title:
+Vice President
+26
+ATTACHMENT C
+Portfolios of the Fund
+Large Cap Fund
+Small Cap Fund
+Core Fixed Income Fund
+Large Cap INDEX Fund
+Small/Mid Cap Equity Fund
+Large Cap Disciplined Equity Fund
+Long Duration Bond Fund
+Extended Duration Bond Fund
+Large Cap Growth INDEX Fund
+Large Cap Value INDEX Fund
+High Yield Bond Fund
+27

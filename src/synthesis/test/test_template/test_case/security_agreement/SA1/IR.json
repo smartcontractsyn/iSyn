@@ -1,0 +1,38 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "INTELLIGENT LIVING INC."
+    ],
+    "BuyerName": [
+        "HOYTS HOLLOW MANAGEMENT LLC"
+    ],
+    "EffectiveTime": [
+        "April 25, 2014,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "HOYTS HOLLOW MANAGEMENT LLC"
+            ],
+            "To": [
+                "INTELLIGENT LIVING INC."
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 300000,
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": false,
+        "OtherTermination": true
+    }
+}

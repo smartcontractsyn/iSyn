@@ -1,0 +1,42 @@
+ContractCategory: SecurityPurchaseAgreement;
+
+Entity: {
+    SellerNames: ['GOOD HEMP INC.'];
+    BuyerNames: ['METROSPACES'];
+};
+
+EffectiveTime: May 4, 2021,;
+CloseTime: "";
+ExpiryTime: ;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: true;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: ['METROSPACES'];
+         To: ['GOOD HEMP INC.'];
+         Price: {
+             Amount: 50000.0,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: false;
+    OtherConstraint: false;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};

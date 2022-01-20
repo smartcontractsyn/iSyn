@@ -1,0 +1,38 @@
+{
+    "SellerName": [
+        "Location Based Technologies, Inc."
+    ],
+    "BuyerName": [
+        "Allen Simon"
+    ],
+    "EffectiveTime": [
+        "November 2, 2009"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Allen Simon"
+            ],
+            "To": [
+                "Location Based Technologies, Inc."
+            ],
+            "PurchasePrice": "60000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

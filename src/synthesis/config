@@ -1,0 +1,7 @@
+[ContractDownload]
+contract_addresses_source: /home/pxf109/smartfix/contracts/addresses
+target_folder: /home/pxf109/smartfix/contracts/all
+
+[ContractProcess]
+sol_target_folder: /home/pxf109/smartfix/contracts/all_sol
+json_compile_folder: /home/pxf109/smartfix/contracts/most_recent_json

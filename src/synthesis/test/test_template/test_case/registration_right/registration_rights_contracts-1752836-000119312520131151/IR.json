@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "COVETRUS"
+    ],
+    "BuyerName": [
+        "CD&R VFC Holdings"
+    ],
+    "EffectiveTime": [
+        "2020"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "July 31, 2020"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "CD&R VFC Holdings"
+            ],
+            "To": [
+                "COVETRUS"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 250000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

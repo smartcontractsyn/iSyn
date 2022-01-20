@@ -1,0 +1,132 @@
+A.
+B.
+I.
+1.3 Term of Employment.
+The term of this Agreement shall commence on the Effective Date and shall continue until 11:59 p.m. Eastern Time on July 1, 2014 (the “Initial Term”) unless sooner terminated or extended as provided hereunder.
+This Agreement shall automatically renew for additional one-year periods on July 1, 2014 and on each and every July 1 thereafter (each such extension, the “Renewal Term”) unless either party gives the other party written notice of its or his election not to extend such employment at least ninety (90) days prior to the next July 1 renewal date.
+Further, if a Change of Control occurs during the Initial Term or during any Renewal Term, this Agreement shall automatically be extended for two years only from the Change of Control Date and thereafter shall terminate on the second anniversary of the Change of Control Date in accordance with its terms.
+The Initial Term, together with any Renewal Term or extension as a result of a Change of Control, are collectively referred to herein as the “Term.” In the event the Executive continues to be employed by the Company (or any other member of the Parent Group) after the Term, unless otherwise agreed by the parties in writing, such continued employment shall be on an at-will, month-to-month basis upon terms agreed upon at such time without regard to the terms and conditions of this Agreement (except as expressly provided herein) and this Agreement shall be deemed terminated at the end of the Term, regardless of whether such employment continues at-will, other than Articles VI and VII, which shall survive the termination or expiration of this Agreement for any reason.
+II.
+2.1 General.
+2
+III.
+3.1 General.
+3.4 Vacation.
+IV.
+4.1 Termination by Mutual Agreement.
+The Executive’s employment may be terminated at any time during the Term by mutual written agreement of the Company and the Executive.
+4.2 Death.
+The Executive’s employment hereunder shall terminate upon his death.
+4.3 Disability.
+In the event the Executive incurs a Disability for a continuous period exceeding 90 days or for a total of 180 days during any period of 12 consecutive months, the Company may, at its election, terminate the Executive’s employment during the Term by delivering a Notice of Termination (as defined in Section 4.8) to the Executive 30 days in advance of the date of termination.
+4.4 Good Reason.
+The Executive may terminate his employment at any time during the Term for Good Reason by delivering a Notice of Termination to the Company 30 days in advance of the date of termination; provided, however, that the Executive agrees not to terminate his employment for Good Reason until the Executive has given the Company at least 30 days’ in which to cure the circumstances set forth in the Notice of Termination constituting Good Reason and if such circumstances are not cured by the 30th day, the Executive’s employment shall terminate on such date.
+If the circumstances constituting Good Reason are remedied within the cure period to the reasonable satisfaction of the Executive, such event shall no longer constitute Good Reason for purposes of this Agreement and the Executive shall thereafter have no further right hereunder to terminate his employment for Good Reason as a result of such event.
+4.5 Termination without Cause.
+The Company may terminate the Executive’s employment at any time during the Term without Cause by delivering to the Executive a Notice of Termination 30 days in advance of the date of termination; provided that as part of such notice the Company may request that the Executive immediately tender the resignations contemplated by Section 4.9 and otherwise cease performing his duties hereunder.
+The Notice of Termination need not state any reason for termination and such termination can be for any reason or no reason.
+The date of termination shall be the date set forth in the Notice of Termination.
+3
+4.6 Cause.
+The Company may terminate the Executive’s employment at any time during the Term for Cause by delivering a Notice of Termination to the Executive.
+4.7 Voluntary Termination.
+The Executive may voluntarily terminate his employment at any time during the Term by delivering to the Company a Notice of Termination 30 days in advance of the date of termination (a “Voluntary Termination”).
+For purposes of this Agreement, a Voluntary Termination shall not include a termination of the Executive’s employment by reason of death or for Good Reason, but shall include voluntary termination upon retirement in accordance with the Company’s retirement policies.
+A Voluntary Termination shall not be considered a breach or other violation of this Agreement.
+4.8 Notice of Termination.
+A Notice of Termination must indicate the specific termination provision of this Agreement relied upon and the date of termination.
+If the Executive fails to include a date of termination in any Notice of Termination he delivers, the Company may establish such date in its sole discretion.
+No Notice of Termination under Section 4.4 shall be effective until the applicable cure period, if any, shall have expired without the Company or the Executive, respectively, having corrected the event or events subject to cure to the reasonable satisfaction of the other party.
+The terms “termination” and “termination of employment,” as used herein are intended to mean a termination of employment which constitutes a “separation from service” under Section 409A.
+4.9 Resignations.
+Upon ceasing to be an employee of the Company for any reason, or earlier upon request by the Company pursuant to Section 4.5, the Executive agrees to immediately tender written resignations to the Company with respect to all officer and director positions he may hold at that time with any member of the Parent Group.
+5.1 Death; Disability; Resignation for Good Reason; Termination without Cause.
+If at any time during the Term the Executive’s employment with the Company is terminated due to his death, Disability, resignation for Good Reason or termination by the Company without Cause, the Executive shall be entitled to the payment and benefits set forth below only:
+(a) Any unpaid base salary and accrued unpaid vacation then owing through the date of termination, which amounts shall be paid to the Executive within 30 days of the date of termination.
+(b) If, for the calendar year prior to the Executive’s termination, Executive has satisfied a sufficient portion of the Goals to be eligible for a bonus under the Bonus Plan, and such bonus has not yet been paid as of the date of Executive’s termination, Executive shall be paid a bonus under the Bonus Plan for such prior calendar year, which bonus shall be paid at the same time as payments are made to other participants in the Bonus Plan.
+(c) A pro rata amount of any Bonus Plan Incentive Compensation for the fiscal year of his termination of employment (based on the number of business days he was actually employed by the Company during the fiscal year in which the termination of employment occurs) based on the achievement of the Goals for the calendar year of his termination of employment.
+Nothing in the foregoing sentence is intended to give the Executive greater rights to such Incentive Compensation than a pro rata portion of what he would ordinarily be entitled to under the Bonus Plan Incentive Compensation that would have been applicable to him had his employment not been terminated, it being understood that Executive’s termination of employment shall not be used to disqualify Executive from or make him ineligible for a pro rata portion of the Bonus Plan Incentive Compensation to which he would otherwise have been entitled.
+(d) A one-time lump sum severance payment in an amount equal to 100% of the Executive’s Base Amount plus, for a termination by the Executive for Good Reason or a termination by the Company without Cause only, $12,500 to be used by the Executive for outplacement services.
+The lump sum severance payment shall be paid on the 60th day following the Executive’s termination of employment, provided that prior to such time the Executive has signed the release described in Section 5.4 and the applicable revocation period for such release has expired, subject, in the case of termination other than as a result of the Executive’s death, to Section 7.16.
+4
+(e) The post-termination exercise period for any options which are vested as of Executive’s termination of employment shall be as set forth in the applicable award agreement, provided, however, that any provisions in such an award agreement purporting to give the Executive greater post-termination exercise rights because he is a party to an employment agreement shall not be given effect.
+(f) Provided the Executive elects COBRA in a timely manner, for the lesser of 12 months after termination or until the Executive secures coverage from new employment, Executive shall receive a monthly cash payment equal to the cost of continuation coverage under the Company’s medical and dental benefit plans in which the Executive was participating at the time of his termination of employment at the level at which the Executive was participating at the time of his termination of coverage (e.g.
+In the event the Executive’s termination is pursuant to Section 4.2, payment shall be made to the Executive’s heirs, beneficiaries, or personal representatives, as applicable.
+Further, any payments by the Company under Section 5.1(d) above pursuant to a termination under Section 4.2 or 4.3 shall be reduced by any payments received by the Executive pursuant to any of the Company’s employee welfare benefit plans providing for payments in the event of death or Disability.
+5.2 Termination for Cause; Voluntary Termination.
+If at any time during the Term the Executive’s employment with the Company is terminated by the Company for Cause or due to a Voluntary Termination, the Executive shall be entitled to only the following:
+(a) any unpaid base salary and accrued unpaid vacation then owing through the date of termination, which amounts shall be paid to the Executive within 30 days of the date of termination.
+(b) whatever rights, if any, that are available to the Executive upon such a termination pursuant to the Plans or any award documents related to any stock-based compensation such as stock options, stock appreciation rights or restricted stock grants.
+5.3 Termination following Change of Control.
+The Executive shall have no specific right to terminate this Agreement or right to any severance payments or other benefits solely as a result of a Change of Control or Potential Change of Control.
+However, if during a Change of Control Period during the Term, (a) the Executive terminates his employment with the Company for Good Reason, or (b) the Company terminates the Executive’s employment without Cause, the lump sum severance payment under Section 5.1(d) shall be increased from 100% of the Base Amount to 150% of the Base Amount and the period of monthly payment of COBRA continuation coverage for medical and dental benefits under Section 5.1(f) shall be increased to 18 months from 12 months.
+No other rights result from termination during a Change of Control Period; provided, however, that nothing in this Section 5.3 is intended to limit or impair the rights of the Executive under the Plans or any documents evidencing any stock-based compensation awards in the event of a Change of Control if such Plans or award documents grant greater rights than are set forth herein.
+The Company’s obligation to pay or provide any benefits to the Executive following termination (other than in the event of death pursuant to Section 4.2) is expressly subject to the requirement that (i) the Executive execute the release in the form attached hereto as Exhibit B (the “Release”) prior to the 60th day following Executive’s termination of employment, and (ii) any revocation period for the Release shall have expired prior to the 60th day following Executive’s termination of employment without Executive having breached or revoked the Release.
+In the event that the Executive does not sign the Release, or signs and later revokes the Release, all of the Company’s obligations to make payments and provide benefits under this Agreement will terminate in full, and the Executive understands and agrees that he will not be entitled to any severance benefits in connection with his termination of employment.
+5.5 Other Benefits.
+5
+In the event of any termination under this Article V, the Executive hereby expressly waives any rights to any other amounts, benefits or other rights, including without limitation whether arising under current or future compensation or severance or similar plans, agreements or arrangements of any member of the Parent Group (including as a result of changes in (or of) control or similar transactions), unless Executive’s entitlement to participate or receive benefits thereunder has been expressly approved by the Board.
+6
+VI.
+(a) request, induce or attempt to influence (i) any customer of any member of the Parent Group to limit, curtail, cancel or terminate any business it transacts with, or products or services it receives from or sells to, or (ii) any Person employed by (or otherwise engaged in providing services for or on behalf of) any member of the Parent Group to limit, curtail, cancel or terminate any employment, consulting or other service arrangement, with any member of the Parent Group.
+(d) request, induce or attempt to influence any supplier, distributor or other Person with which any member of the Parent Group has a business relationship or to limit, curtail, cancel or terminate any business it transacts with any member of the Parent Group.
+(e) otherwise interfere with the relationship of any member of the Parent Group with any Person which is, or within one-year prior to the Executive’s date of termination was, doing business with, employed by or otherwise engaged in performing services for, any member of the Parent Group.
+The twelve-month post-termination employment period described herein and in Section 6.1 shall be extended to eighteen months in the event of a termination described in Section 5.3.
+7
+6.4 Inventions.
+6.7 Extension; Survival.
+The parties further agree that this Article VI shall survive the termination or expiration of this Agreement for any reason.
+VII.
+If to the Company:
+If to the Executive:
+7.3 Severability.
+7.4 Entire Agreement.
+9
+7.6 Withholding.
+7.9 Successors.
+10
+7.13 Construction.
+7.15 Effectiveness.
+(b) If the Executive is deemed on the date of “separation from service” to be a “specified employee” within the meaning of that term under Section 409A(a)(2)(B), then, with regard to any payment or the provision of any benefit that is specified as subject to this Section, such payment or benefit shall, if required to avoid the imposition of additional tax or interest under Section 409A, be made or provided at the date which is the earlier of (A) the expiration of the six (6)-month period measured from the date of such “separation from service” of the Executive, and (B) the date of the Executive’s death (the “Delay Period”).
+7.17 Survival.
+As provided in Section 1.3 with respect to expiration of the Term, Articles VI and VII shall survive the termination or expiration of this Agreement for any reason.
+11
+ORTHOFIX INC.
+EXECUTIVE
+Bradley R. Mason
+Chief Executive Officer
+Bradley R. Mason
+12
+(ii) the lower of (i) the Executive’s target bonus under Section 2.3 in effect during the fiscal year in which termination of employment occurs, or (ii) the average of the Incentive Compensation (as defined in Section 2.3) actually earned by the Executive (A) with respect to the two consecutive annual Incentive Compensation periods ending immediately prior to the year in which termination of the Executive’s employment with the Company occurs (which for purposes of the 2011 and 2012 calendar years, shal1 be deemed under this (ii)(A) to be the amount of the Executive’s target incentive bonus for 2013, and which for purposes of 2013, shall be deemed under this (ii)(A) to be the Executive’s actually earned 2013 incentive plan bonus as if such bonus were not pro­rated to reflect his employment for a period of less than 365 days during the 2013 calendar year) or, (B) if greater, with respect to the two consecutive annual Incentive Compensation periods ending immediately prior to the Change of Control Date or the Potential Change of Control Date.
+Any obligation of the Board other than termination for Cause under this Agreement may be delegated to an appropriate committee of the Board, including its compensation committee, and references to the Board herein shall be references to any such committee, as appropriate.
+“Cause” shall mean termination of the Executive’s employment because of the Executive’s: (i) involvement in fraud, misappropriation or embezzlement related to the business or property of the Company; (ii) conviction for, or guilty plea to, or plea of nolo contendere to, a felony or crime of similar gravity in the jurisdiction in which such conviction or guilty plea occurs; (iii) intentional wrongful disclosure of Confidential Information or other intentional wrongful violation of Article VI; (iv) willful and continued failure by the Executive to fol1ow the reasonable instructions of the Board or Chief Executive Officer; (v) willful commission by the Executive of acts that are dishonest and demonstrably and materially injurious to a member of the Parent Group, monetarily or otherwise; (vi) willful or material violation of, or willful or material noncompliance with, any securities law, rule or regulation or stock exchange listing rule adversely affecting the Parent Group including without limitation (a) if the Executive has undertaken to provide any certification or related back-up material required for the chief and principal executive and financial officers to provide a certification required under the Sarbanes-Oxley Act of 2002, including the rules and regulations promulgated thereunder (the “Sarbanes-Oxley Act”), and he willfully or materially fails to take reasonable and appropriate steps to determine whether or not the certificate or related back-up material was accurate or otherwise in compliance with the requirements of the Sarbanes-Oxley Act or (b) the Executive’s willful or material failure to establish and administer effective systems and controls applicable to his area of responsibility necessary for the Parent to timely and accurately tile reports pursuant to Section 13 or 15(d) of the Exchange Act.
+(i) the acquisition by any individual, entity or group (within the meaning of Section 13(d)(3) or 14(d)(2) of the Exchange Act) of beneficial ownership (within the meaning of Rule 13d-3 promulgated under the Exchange Act), in any individual transaction or series of related transactions, of 50% or more of either (A) the then outstanding shares of common stock of Parent (the “Outstanding Common Stock”) or (B) the combined voting power of the then outstanding voting securities of Parent entitled to vote generally in the election of directors (the “Outstanding Voting Securities”); excluding, however, the following: (1) any acquisition directly from Parent, other than an acquisition by virtue of the exercise of a conversion privilege unless the security being so converted was itself acquired directly from Parent; (2) any acquisition by Parent; (3) any acquisition by any employee benefit plan (or related trust) sponsored or maintained by Parent or any entity controlled by Parent; or (4) any acquisition pursuant to a transaction which complies with clauses (A), (B) and (C) of subsection (iii) of this definition of Change of Control;
+(ii) a change in the composition of the Board such that the individuals who as of the Effective Date constitute the Board (the “Incumbent Board”) cease for any reason to constitute at least a majority of the Board; provided, however, for purposes of this paragraph, that any individual who becomes a member of the Board subsequent to the Effective Date, whose appointment, election, or nomination for election by Parent’s shareholders was approved by a vote of at least a majority of those individuals
+13
+(iii) consummation of a reorganization, merger, consolidation or other business combination or the sale or other disposition of all or substantially all of the assets of Parent (including assets that are shares held by Parent in its subsidiaries) (any such transaction, a “Business Combination”); expressly excluding, however, any such Business Combination pursuant to which all of the following conditions are met: (A) all or substantially all of the Person(s) who are the beneficial owners of the Outstanding Common Stock and Outstanding Voting Securities, respectively, immediately prior to such Business Combination will beneficially own, directly or indirectly, more than 50% of, respectively, the outstanding shares of common stock, and the combined voting power of the outstanding voting securities entitled to vote generally in the election of directors, as the case may be, of the entity resulting from such Business Combination (including, without limitation, an entity which as a result of such transaction owns Parent or all or substantially all of Parent’s assets either directly or through one or more subsidiaries) in substantially the same proportions as their ownership, immediately prior to such Business Combination, of the Outstanding Common Stock and Outstanding Voting Securities, as the case may be, (B) no Person (other than Parent, any employee benefit plan (or related trust) of Parent or such entity resulting from such Business Combination) will beneficially own, directly or indirectly, 50% or more of, respectively, the outstanding shares of common stock of the entity resulting from such Business Combination or the combined voting power of the outstanding voting securities of such entity entitled to vote generally in the election of directors except to the extent that such ownership existed prior to the Business Combination, and (C) individuals who were members of the Incumbent Board will constitute at least a majority of the members of the board of directors of the entity resulting from such Business Combination;
+(iv) the approval by the shareholders of Parent of a complete liquidation or dissolution of Parent;
+(vii) any other transaction or series of related transactions occur that have substantially the effect of the transactions specified in any of the preceding clauses in this definition.
+“Change of Control Period” shall mean the 24 month period commencing on the Change of Control Date; provided, however, if the Company terminates the Executive’s employment with the Company prior to the Change of Control Date but on or after a Potential Change of Control Date, and it is reasonably demonstrated that the Executive’s (i) employment was terminated at the request of an unaffiliated third party who has taken steps reasonably calculated to effect a Change of Control or (ii) termination of employment otherwise arose in connection with or in anticipation of the Change of Control, then the “Change of Control Period” shall mean the 24 month period beginning on the date immediately prior to the date of the Executive’s termination of employment with the Company.
+“Disability” as used in this Agreement shall have the meaning given that term by any disability insurance the Company carries at the time of termination that would apply to the Executive.
+“Good Reason” shall mean the occurrence of any of the following without the written consent of the Executive: (1) the assignment to the Executive of any duties materially inconsistent in any respect with the Executive’s position (including status, offices, titles and reporting requirements), authority, duties or responsibilities as contemplated by Section 1 of this Agreement, or any other action by the Company which results in a material diminution in such position, authority, duties or responsibilities, excluding for this purpose an isolated, insubstantial and inadvertent action not taken in bad faith and which is remedied by the Company promptly after receipt of notice thereof given by the Executive; (2) the Company’s material reduction of the Executive’s Base Salary or bonus opportunity, each as in effect on the date hereof or as the same may be increased from time to time; (3) the relocation of the Company’s offices at which the Executive is principally employed (the “Principal Location”) to a location more than thirty (30) miles from such location, or the Company’s requiring the Executive to be based at a location more than thirty (30) miles from the Principal Location, except for required travel on the Company’s business to an extent substantially consistent with the Executive’s present business travel obligations; (4) the Company’s failure to obtain a satisfactory agreement from any successor entity to assume and agree to perform this Agreement; or (5) any material breach of this Agreement or any other material agreement with the Executive by the Company or any successor entity.
+15
+“Potential Change of Control” shall mean the earliest to occur of: (i) the date on which Parent executes an agreement or letter of intent, the consummation of the transactions described in which would result in the occurrence of a Change of Control or (ii) the date on which the Board approves a transaction or series of transactions, the consummation of which would result in a Change of Control, and ending when, in the opinion of the Board, the Parent (or the Company) or the respective third party has abandoned or terminated any Potential Change of Control.
+“Potential Change of Control Date” shall mean the date on which a Potential Change of Control occurs; provided, however, such date shall become null and void when, in the opinion of the Board, the Parent (or the Company) or the respective third party has abandoned or terminated any Potential Change of Control.
+EXHIBIT B
+1.
+This Release shall be effective on the eighth calendar day after it is executed by me (“Effective Date”) provided it has not been previously revoked as provided herein.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+1 To be determined at time of termination in accordance with relevant provisions of Age Discrimination in Employment Act.
+Date:
+ORTHOFIX INC.
+Date:
+7/19/13

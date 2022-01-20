@@ -1,0 +1,1324 @@
+Exhibit 4.1
+EXECUTION COPY
+the Company
+and
+The Guarantors set forth in Annex A attached hereto
+the Guarantors
+INDENTURE
+as Trustee
+TABLE OF CONTENTS
+Page
+Article I Definitions and Incorporation by Reference
+1
+Definitions
+1
+Incorporation by Reference of Trust Indenture Act
+15
+Rules of Construction
+16
+Article II The Notes
+16
+Designation; Amount and Issuance of Notes
+16
+Form, Dating and Denomination; Execution and Authentication
+17
+19
+19
+20
+Holder Lists
+20
+21
+Replacement Notes
+24
+Outstanding Notes
+25
+Temporary Notes
+25
+Cancellation
+25
+Defaulted Interest
+26
+CUSIP Numbers and ISINs
+26
+Section 2.14
+Automatic Exchange from Restricted OI Inc. Common Stock to Unrestricted OI Inc. Common Stock
+26
+Article III Purchases Upon a Fundamental Change
+27
+Section 3.01
+27
+Article IV Covenants
+30
+30
+Commission Reports
+30
+Compliance Certificate
+31
+Notice of Defaults
+31
+Registration Default Additional Interest
+31
+Article V Successor Company or Successor Guarantor
+32
+When the Company, OI Group or OI Inc. May Merge or Transfer Assets
+32
+Assignment of Obligations
+33
+i
+Article VI Defaults and Remedies
+34
+Events of Default
+34
+Acceleration
+36
+Other Remedies
+36
+Waiver of Past Defaults
+36
+Control by Majority
+37
+Limitation on Suits
+37
+Rights of Holders to Receive Payment
+38
+38
+38
+Priorities
+38
+Undertaking for Costs
+39
+Waiver of Stay or Extension Laws
+39
+Failure to Comply with Reporting Covenant
+39
+Article VII Trustee
+40
+Duties of Trustee
+40
+Rights of Trustee
+41
+Individual Rights of Trustee
+43
+Trustee’s Disclaimer
+43
+Notice of Defaults
+43
+Compensation and Indemnity
+43
+Replacement of Trustee
+44
+Successor Trustee by Merger
+45
+Eligibility; Disqualification
+45
+Article VIII Discharge of Indenture
+46
+Discharge of Liability on Notes
+46
+Application of Trust Money
+46
+Repayment to Company
+46
+Reinstatement
+47
+Article IX Amendments and Waivers
+47
+Without Consent of Holders
+47
+With Consent of Holders
+48
+Revocation and Effect of Consents and Waivers
+49
+Notation on or Exchange of Notes
+49
+49
+Article X Guarantees
+50
+Guarantees
+50
+Limitation on Liability
+52
+Execution and Delivery of Guarantees
+52
+ii
+Successors and Assigns
+52
+52
+Right of Contribution
+52
+No Subrogation
+52
+Additional Guarantors; Reinstatement of Guarantees
+53
+Modification
+53
+53
+Article XI Exchange of Notes
+54
+Exchange Rights
+54
+Exchange Procedures; Settlement Upon Exchange; Fractional Shares
+56
+Adjustment to Exchange Rate Upon Exchange Upon a Make-Whole Fundamental Change
+59
+Adjustment of Exchange Rate
+61
+Recapitalizations, Reclassifications and Changes of OI Inc. Common Stock
+69
+Certain Covenants
+70
+Notice to Holders Prior to Certain Actions
+70
+Shareholder Rights Plans
+71
+Responsibility of Trustee
+71
+Certain Other Adjustments
+72
+Article XII Miscellaneous
+72
+Indenture Subject to Trust Indenture Act
+72
+Notices
+72
+Communication by Holders with Other Holders
+74
+Certificate and Opinion as to Conditions Precedent
+74
+Statements Required in Certificate or Opinion
+74
+When Notes Disregarded
+74
+Rules by Trustee, Paying Agent and Registrar
+74
+GOVERNING LAW
+75
+No Recourse Against Others
+75
+Successors
+75
+Multiple Originals
+75
+Effect of Headings, Table of Contents, Etc
+75
+Indenture Controls
+75
+Calculations
+75
+Severability
+75
+Annex A
+-
+Guarantors
+Exhibit A
+-
+iii
+Exhibit B
+-
+Form of Restricted Legend for OI Inc. Common Stock Issued Upon Exchange (including form of Assignment and Form of Certificate to be Delivered Upon Exchange or Registration of Shares of Restricted OI Inc. Common Stock)
+iv
+Each party agrees as follows for the benefit of the other parties and for the equal and ratable benefit of the Holders of the Company’s 3.00% Exchangeable Senior Notes due 2015 issued on the date hereof (the “Original Notes”) and any Additional Notes (as defined herein) that may be issued after the date hereof (all such Notes being referred to collectively as the “Notes”).
+Subject to the conditions and compliance with the covenants set forth herein, the Company may issue an unlimited aggregate principal amount of Additional Notes.
+Article I
+Definitions and Incorporation by Reference
+Section 1.01           Definitions.
+The terms defined in this Section 1.01 (except as herein otherwise expressly provided or unless the context otherwise requires) for all purposes of this Indenture and of any indenture supplemental hereto shall have the respective meanings specified in this Section 1.01.
+“Additional Notes” means Notes issued under the terms of this Indenture subsequent to the Issue Date.
+“Additional Shares” has the meaning specified in Section 11.03(a).
+“Affiliate” of any specified Person means any other Person, directly or indirectly, controlling or controlled by or under direct or indirect common control with such specified Person.
+For the purposes of this definition, “control” (including, with correlative meanings, the terms “controlling,” “controlled by” and “under common control with”), as used with respect to any Person, means the possession, directly or indirectly, of the power to direct or cause the direction of the management or policies of such Person, whether through the ownership of voting securities, by agreement or otherwise.
+“Agent Members” has the meaning specified in Section 2.07(b)(vi).
+“Automatic Exchange” has the meaning specified in Section 2.14.
+“Automatic Exchange Notice” has the meaning specified in Section 2.14.
+“Bankruptcy Law” has the meaning specified in Section 6.01.
+“Bid Solicitation Agent” means the agent appointed by the Company to determine the Trading Price of the Notes.
+1
+provided, however, that the Company may appoint another Person (including, without limitation, the Trustee, if it so agrees) as the Bid Solicitation Agent without prior notice to the Holders.
+“Board of Directors” means as to any Person, the board of directors of such Person (or, if such Person is a partnership, the board of directors or other governing body of the general partner of such Person) or any duly authorized committee thereof.
+“Business Day” means each Monday, Tuesday, Wednesday, Thursday and Friday which is not a day on which banking institutions in New York City, New York are authorized or obligated by law or executive order to close or be closed.
+“Capital Lease Obligation” means, at the time any determination thereof is to be made, the amount of the liability in respect of a capital lease that would at that time be required to be capitalized on a balance sheet in accordance with GAAP.
+“Capital Stock” means:
+(a) in the case of a corporation, corporate stock;
+(b) in the case of an association or business entity, any and all shares, interests, participations, rights or other equivalents (however designated) of corporate stock;
+(c) in the case of a partnership or limited liability company, partnership or membership interests (whether general or limited); and
+(d) any other interest or participation that confers on a Person the right to receive a share of the profits and losses of, or distributions of assets of, the issuing Person.
+“Cash Settlement Averaging Period” with respect to any Note means:
+(a)           with respect to Exchange Notices received during the period beginning on, and including, March 1, 2015, the 20 consecutive Trading Day period beginning on, and including, the 22nd Scheduled Trading Day prior to the Maturity Date; and
+(b)           in all other cases, the 20 consecutive Trading Day period beginning on, and including, the third Trading Day immediately following the related Exchange Date.
+“Cash Settlement Averaging Period Market Disruption Event” means:
+(a)           a failure by the primary exchange or quotation system on which OI Inc. Common Stock trades or is quoted to open for trading during its regular trading session; or
+(b)           the occurrence or existence prior to 1:00 p.m. on any Trading Day for OI Inc. Common Stock, of an aggregate one half-hour period of any suspension or limitation imposed on trading (by reason of movements in price exceeding limits permitted by the stock exchange or otherwise) in OI Inc. Common Stock or in any options, contracts or future contracts relating to OI Inc. Common Stock.
+2
+“Code” means the Internal Revenue Code of 1986, as amended.
+“Company” means the party named as such in the Preamble to this Indenture until a successor replaces it and, thereafter, means the successor and, for purposes of any provision contained herein, each other obligor on the Notes.
+“Corporate Trust Office” means the principal office of the Trustee at which at any time its corporate trust business shall be administered, which office at the date hereof is located at 60 Livingston Avenue, EP-MN-WS3C St. Paul, MN 55107-1419, Attn:  Corporate Trust Administration, or such other address as the Trustee may designate from time to time by notice to the Holders and the Company, or the principal corporate trust office of any successor Trustee (or such other address as such successor Trustee may designate from time to time by notice to the Holders and the Company).
+“Custodian” has the meaning specified in Section 6.01.
+(a)           the applicable Exchange Rate on such Trading Day; and
+(b)           the daily VWAP of OI Inc. Common Stock on such Trading Day.
+“Daily Settlement Amount” for each of the 20 consecutive Trading Days during the Cash Settlement Averaging Period shall consist of:
+3
+the market value of one share of OI Inc. Common Stock on such Trading Day as determined by a U.S. nationally recognized independent investment banking firm retained for this purpose by the Company).
+Daily VWAP will be determined without regard to after-hours trading or any other trading outside of the regular trading session.
+“Default” means any event which is, or after notice or passage of time or both would be, an Event of Default.
+“Depositary” means the clearing agency registered under the Exchange Act that is designated to act as the Depositary for the Global Notes.
+DTC shall be the initial Depositary, until a successor shall have been appointed and become such pursuant to the applicable provisions of this Indenture, and thereafter, “Depositary” shall mean or include such successor.
+“Disqualified Stock” has the meaning specified in any Senior Note Indenture, and to the extent that none of the Senior Note Indentures remains in effect, has the meaning specified in the last of the Senior Note Indentures that ceases to be in effect as of the last day that such Senior Note Indenture was in effect.
+“Domestic Subsidiary” means any Restricted Subsidiary of OI Group other than a Foreign Subsidiary.
+“DTC” means The Depository Trust Company.
+“Effective Date” means the date on which a Make-Whole Fundamental Change occurs or becomes effective.
+“Effective Default” has the meaning specified in the Registration Rights Agreement.
+“Equity Interests” means Capital Stock and all warrants, options or other rights to acquire Capital Stock (but excluding any debt security that is convertible into, or exchangeable for, Capital Stock).
+“Event of Default” has the meaning specified in Section 6.01.
+“Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulations of the SEC promulgated thereunder.
+“Exchange Agent” means the agent appointed by the Company to which Notes may be presented for exchange.
+The Exchange Agent appointed by the Company shall initially be U.S. Bank National Association.
+“Exchange Consideration” has the meaning specified in Section 11.02(b).
+“Exchange Date” has the meaning specified in Section 11.02(a).
+“Exchange Notice” has the meaning specified in Section 11.02(a).
+4
+“Exchange Obligation” has the meaning specified in Section 11.01.
+“Exchange Rate” has the meaning specified in Section 11.01.
+“Ex-Dividend Date” is the first date on which the shares of OI Inc. Common Stock trade on the applicable exchange or in the applicable market, regular way, without the right to receive the issuance, dividend or distribution in question.
+“Expiration Date” has the meaning specified in Section 11.04(e).
+“Expiration Time” has the meaning specified in Section 11.04(e).
+“Fair Market Value” means, with respect to any asset or property, the price which could be negotiated in an arm’s-length transaction, for cash, between a willing seller and a willing and able buyer, neither of whom is under pressure or compulsion to complete the transaction.
+“Foreign Subsidiary” means any Restricted Subsidiary of OI Group which is organized under the laws of a jurisdiction other than the United States of America or any State thereof.
+“Fundamental Change” will be deemed to have occurred at the time after the Issue Date when any of the following occurs:
+(1)           OI Inc. or OI Group becomes aware of (by way of a report or any other filing pursuant to Section 13(d) of the Exchange Act, proxy, vote, written notice or otherwise) the acquisition by any “person” or “group” (within the meaning of Section 13(d) or Section 14(d)(2) of the Exchange Act, or any successor provision), including any group acting for the purpose of acquiring, holding or disposing of securities (within the meaning of Rule 13d-5(b)(1) under the Exchange Act), in a single transaction or a related series of transactions, by way of the purchase of beneficial ownership (within the meaning of Rule 13d-3 under the Exchange Act, or any successor provision) of more than 50% of the total voting power of the Voting Stock of OI Inc.;
+(2)           consummation of (a) any recapitalization, reclassification or change of OI Inc. Common Stock (other than changes resulting from a subdivision or combination) or any binding share exchange, consolidation or merger of OI Inc. pursuant to which OI Inc. Common Stock will be exchanged into cash, securities or other property or (b) any sale, lease or other transfer in one transaction or a series of transactions of all or substantially all of the consolidated assets of OI Inc. and its Subsidiaries, taken as a whole, to any person other than one or more of the Subsidiaries of OI Inc. (any such exchange, offer, consolidation, merger, transaction or series of transactions being referred to herein as an “Event”); provided, however, that any such Event where the Holders of more than 50% of the voting power of OI Inc. Common Stock immediately prior to such Event, own, directly or indirectly, more than 50% of the voting power of all classes of common equity
+5
+of the continuing or surviving person or transferee or the parent thereof immediately after such event shall not be a Fundamental Change;
+(3)           the consolidation or merger of the Company with or into any person, other than OI Inc. or one or more Subsidiaries of OI Inc., in any such event pursuant to a transaction in which any of the outstanding Voting Stock of the Company is converted into or exchanged for cash, securities or other property, other than any such transaction where (a) the Voting Stock of the Company outstanding immediately prior to such transaction is converted into or exchanged for Voting Stock (other than Disqualified Stock) of the surviving or transferee person constituting a majority of the outstanding shares of such Voting Stock of such surviving or transferee person (immediately after giving effect to such issuance) and (b) immediately after such transaction, no “person” or “group” (as such terms are used in Section 13(d) and 14(d) of the Exchange Act), becomes, directly or indirectly, the beneficial owner (as defined in clause (1)) of 50% or more of the voting power of all classes of Voting Stock of the Company;
+(4)           the stockholders of OI Inc. approve any plan or proposal for the liquidation or dissolution of OI Inc.;
+(5)           the OI Inc. Common Stock (or other common stock into which the notes are then exchangeable) ceases to be listed on at least one U.S. national securities exchange; or
+(6)           the first day on which OI Inc. fails to own 100% of the issued and outstanding Equity Interests of OI Group.
+provided, however, no transaction or event described in clause (2) above will constitute a Fundamental Change, if at least 90% of the consideration, excluding cash payments for fractional shares or made pursuant to dissenters’ appraisal rights,  in the transaction or event that would otherwise have constituted a Fundamental Change consists of shares of Publicly Traded Securities and as a result of this transaction or event the Notes become exchangeable into such Publicly Traded Securities pursuant to Section 11.05, excluding cash payments for fractional shares, subject to the provisions set forth under Section 11.02.
+Any transaction that is a Fundamental Change under clauses (1) and (2) of the definition thereof shall be a Fundamental Change only under clause (2) of this definition of Fundamental Change.
+After any transaction in which OI Inc. Common Stock is replaced by securities of another entity, should one occur, following completion of any related Make-Whole Fundamental Change Period and any related Fundamental Change Purchase Date, references to OI Inc. in the definition of Fundamental Change shall apply to such other entity instead.
+“Fundamental Change Notice” has the meaning specified in Section 3.01(b).
+“Fundamental Change Purchase Date” has the meaning specified in Section 3.01(a).
+6
+“Fundamental Change Purchase Notice” has the meaning specified in Section 3.01(c).
+“GAAP” means generally accepted accounting principles set forth in the opinions and pronouncements of the Accounting Principles Board of the American Institute of Certified Public Accountants and statements and pronouncements of the Financial Accounting Standards Board or in such other statements by such other entity as have been approved by a significant segment of the accounting profession, which are in effect as of January 24, 2002.
+“Global Notes” has the meaning specified in Section 2.02(b).
+“Global Notes Legend” means the legend set forth under that caption in Exhibit A to the Indenture.
+“Guarantee” has the meaning specified in Section 10.01.
+“guarantee” means a guarantee other than by endorsement of negotiable instruments for collection in the ordinary course of business, direct or indirect, in any manner including, without limitation, through letters of credit and reimbursement agreements in respect thereof, of all or any part of any Indebtedness.
+(a)           OI Group;
+(b)           each direct or indirect Domestic Subsidiary of OI Group (other than the Company) that guarantees the Credit Agreement as of Issue Date; and
+(c)           each future direct or indirect Domestic Subsidiary of OI Group that guarantees the Credit Agreement and executes a Guarantee of the Notes in accordance with the provisions of this Indenture, and their respective successors and assigns.
+“Hedging Obligations” means, with respect to any specified Person, the obligations of such Person under:
+(a)           interest rate swap agreements, interest rate cap agreements, interest rate collar agreements and other agreements or arrangements designed to protect such Person against fluctuations in interest rates;
+(b)           currency exchange swap agreements, currency exchange cap agreements, currency exchange collar agreements and other agreements or arrangements designed to protect such Person against fluctuations in currency values; and
+7
+(c)           commodity swap agreements; commodity cap agreements, commodity collar agreements and other agreements or arrangements designed to protect such Person against fluctuations in commodity prices.
+“Holder” means the Person in whose name a Note is registered on the Registrar’s books.
+“incur” means issue, assume, guarantee, incur or otherwise become liable for.
+“Indebtedness” means, with respect to any specified Person, any indebtedness of such Person, whether or not contingent, in respect of:
+(a)           borrowed money;
+(b)           evidenced by bonds, notes, debentures or similar instruments or letters of credit (or reimbursement agreements in respect thereof);
+(c)           banker’s acceptances;
+(d)           representing Capital Lease Obligations;
+(e)           the balance deferred and unpaid of the purchase price of any property, except any such balance that constitutes an accrued liability or trade payable; or
+(f)            representing any Hedging Obligations,
+if and to the extent any of the preceding items (other than letters of credit and Hedging Obligations) would appear as a liability upon a balance sheet of the specified Person prepared in accordance with GAAP.
+In addition, the term “Indebtedness” includes the lesser of the Fair Market Value on the date of incurrence of any asset of the specified Person subject to a Lien securing the Indebtedness of others and the amount of such Indebtedness secured and, to the extent not otherwise included, the Guarantee by the specified Person of any indebtedness of any other Person.
+The amount of any Indebtedness outstanding as of any date shall be:
+(1)           the accreted value thereof, in the case of any Indebtedness issued with original issue discount; and
+(2)           the principal amount thereof, in the case of any other Indebtedness.
+“Indenture” means this Indenture as amended or supplemented from time to time.
+8
+(b)           if OI Inc. Common Stock is not listed for trading on a U.S. securities exchange on the relevant date, the last quoted bid price for OI Inc. Common Stock in the over-the-counter market on the relevant date as reported by Pink OTC Markets Inc. or a similar organization; or
+(c)           if OI Inc. Common Stock is not so quoted, as determined by a U.S. nationally recognized independent investment banking firm selected by the Company for this purpose.
+The Last Reported Sale Price of OI Inc. Common Stock will be determined without reference to after-hours or extended market trading.
+“Lien” means, with respect to any asset, any mortgage, lien, pledge, charge, security interest or encumbrance of any kind in respect of such asset, whether or not filed, recorded or otherwise perfected under applicable law, including any conditional sale or other title retention agreement, any lease in the nature thereof, any agreement to give a security interest in and any filing of or agreement to give any financing statement under the Uniform Commercial Code (or equivalent statutes) of any jurisdiction.
+“Make-Whole Fundamental Change” means any transaction or event described under clause (1), (2), (4) or (5) under the definition of “Fundamental Change” (except in the case of a Fundamental Change described in clause (2) of the definition thereof, determined without regard to the proviso in such definition, but subject to the paragraphs immediately following clause (6) of the definition thereof)
+“Make-Whole Fundamental Change Period” means the period from, and including, the Effective Date of a Make-Whole Fundamental Change to, and including:
+(a)           if such Make-Whole Fundamental Change also constitutes a Fundamental Change, the Business Day immediately preceding the related Fundamental Change Purchase Date; or
+(b)           if such Make-Whole Fundamental Changes does not also constitute a Fundamental Change, the 20th Business Day immediately following the Effective Date of such Make-Whole Fundamental Change.
+“Market Disruption Event,” means, if OI Inc. Common Stock is listed for trading on the New York Stock Exchange or another U.S. national or regional securities exchange, the
+9
+occurrence or existence during the one-half hour period ending on the scheduled close of trading on any Trading Day of any material suspension or limitation imposed on trading (by reason of movements in price exceeding limits permitted by the stock exchange or otherwise) in OI Inc. Common Stock or in any options, contracts or future contracts relating to OI Inc. Common Stock on the primary market for the trading of such options, contracts or future contracts.
+“Note” or “Notes” means the Company’s 3.00% Exchangeable Senior Notes due 2015.
+“Notes Custodian” means the custodian with respect to a Global Note (as appointed by the Depositary) or any successor person thereto, who shall initially be the Trustee.
+“Notice of Default” has the meaning specified in Section 4.04.
+“Obligations” has the meaning specified in Section 10.01.
+“Offering Memorandum” means the final offering memorandum dated May 3, 2010 with respect to the offering and sale of the Notes.
+“Officer” means the Chairman of the Board, the Chief Executive Officer, the President, the Chief Operating Officer, the Chief Financial Officer, any Executive or Senior Vice President, any Vice-President, the Treasurer, the Controller, the Secretary, any Assistant Treasurer or any Assistant Secretary of the Company or OI Inc., as the case may be.
+“Officers’ Certificate” means a certificate signed on behalf of the Company by two Officers of the Company or OI Inc., as the case may be.
+One of the officers executing an Officers’ Certificate must be the Chief Executive Officer, the President, the Chief Financial Officer, the Treasurer or the principal accounting officer of the Company or OI Inc., as the case may be.
+“OI Inc. Common Stock” means the shares of common stock, par value $0.01 per share, of OI Inc. as such stock may be constituted from time to time.
+Subject to the provisions of Section 11.05, shares issuable on exchange of Notes shall include only shares of OI Inc. Common Stock or shares of any class or classes of common stock resulting from any reclassification or reclassifications thereof; provided, however, that if at any time there shall be more than one such resulting class, the shares so issuable on exchange of Notes shall include shares of all such classes, and the shares of each such class then so issuable shall be substantially in the proportion which the total number of shares of such class resulting from all such reclassifications bears to the total number of shares of all such classes resulting from all such reclassifications.
+10
+“Opinion of Counsel” means a written opinion from legal counsel who is reasonably acceptable to the Trustee.
+The counsel may be an employee of or counsel to the Company.
+“Original Notes” has the meaning specified in the Preamble to this Indenture.
+“Paying Agent” has the meaning specified in Section 2.04(a).
+“Person” means any individual, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust, unincorporated organization, government or any agency or political subdivision thereof or any other entity.
+“protected purchaser” has the meaning specified in Section 2.08.
+“Publicly Traded Security” means common stock that is traded or equivalent common equity listed on a U.S. national securities exchange or that will be so traded when issued or exchanged in connection with the relevant transaction or event.
+“QIB” means a “qualified institutional buyer” as defined in Rule 144A.
+“Reference Property” has the meaning specified in Section 11.05.
+“Register” has the meaning specified in Section 2.04(a).
+“Registrar” has the meaning specified in Section 2.04(a).
+“Registration Default” has the meaning specified in the Registration Rights Agreement.
+“Registration Default Additional Interest” has the meaning specified in the Registration Rights Agreement.
+“Registration Rights Agreement” means (a) the Registration Rights Agreement dated as of May 7, 2010, among the Company, OI Inc. and the Initial Purchasers, pursuant to which OI Inc. will file or have on file with the Commission a shelf registration statement pursuant to Rule 415 under the covering the resale of the OI Inc. Common Stock, subject to the terms and conditions therein specified.
+11
+“Reorganization Event” has the meaning specified in Section 11.05.
+“Reporting Default Additional Interest” means all amounts, if any, payable pursuant to Section 6.13.
+“Restricted Global Note” has the meaning specified in Section 2.07(c).
+“Restricted Legend” means the legend set forth in Exhibit A, in the case of Notes or Exhibit B, in the case of OI Inc. Common Stock.
+“Restricted OI Inc. Common Stock” has the meaning specified in Section 2.07(c).
+“Restricted Securities” has the meaning specified in Section 2.07(c).
+“Restricted Subsidiary” means any Subsidiary of OI Group that is not an Unrestricted Subsidiary.
+“Rule 144” means Rule 144 promulgated under the Securities Act.
+“Rule 144A” means Rule 144A promulgated under the Securities Act.
+“Schedule TO” means a Tender Offer Statement under Section 14(d)(1) or 13(e)(1) of the Exchange Act.
+“Scheduled Trading Day” means any day that is scheduled to be a Trading Day on the primary U.S. securities exchange or market on which OI Inc. Common Stock is listed or admitted for trading.
+If OI Inc. Common Stock is not so listed or admitted for trading, “Scheduled Trading Day” means a Business Day.
+“SEC” means the Securities and Exchange Commission.
+“Securities Act” means the Securities Act of 1933, as amended, and the rules and regulations of the SEC promulgated thereunder.
+“Senior Note Indenture” means any of the following:
+(a)           the indenture, dated May 6, 2003, among the Company, the guarantors named therein and U.S. Bank National Association, as trustee, pursuant to which the 8.25% senior notes due 2013 of the Company were issued;
+12
+(c)           the indenture, dated May 12, 2009, among the Company, the guarantors named therein and U.S. Bank National Association, as trustee, pursuant to which the 7.375% senior notes due 2016 of the Company were issued.
+“Significant Subsidiary” of a Person means a Subsidiary of such Person that would be a “significant subsidiary” of such Person within the meaning of Rule 1-02(w) under Regulation S-X of the Securities Act, as such Regulation is in effect on the Issue Date.
+“Spin-Off” has the meaning specified in Section 11.04(c).
+“Stated Maturity” means, with respect to any installment of interest or principal on any series of Indebtedness, the date on which such payment of interest or principal was scheduled to be paid in the original documentation governing such Indebtedness, and shall not include any contingent obligations to repay, redeem or repurchase any such interest or principal prior to the date originally scheduled for the payment thereof.
+“Subsidiary” means, with respect to any specified Person:
+(a)           any corporation, association or other business entity of which more than 50% of the total voting power of shares of Capital Stock entitled (without regard to the occurrence of any contingency) to vote in the election of directors, managers or trustees thereof is at the time owned or controlled, directly or indirectly, by such Person or one or more of the other Subsidiaries of that Person (or a combination thereof); and
+(b)           any partnership (i) the sole general partner or the managing general partner of which is such Person or a Subsidiary of such Person or (ii) the only general partners of which are such Person or one or more Subsidiaries of such Person (or any combination thereof).
+“Successor Company” has the meaning specified in Section 5.01(a)(i).
+“Successor Guarantor” has the meaning specified in Section 5.01(b)(i).
+“TIA” means the Trust Indenture Act of 1939 (15 U.S.C.
+§§ 77aaa-77bbbb) as in effect on the Issue Date.
+13
+“Trading Day,” except for purposes of determining the Daily Settlement Amounts and the Daily Exchange Values, means a day on which:
+(a)           trading in OI Inc. Common Stock generally occurs on the New York Stock Exchange or, if OI Inc. Common Stock is not then listed on the New York Stock Exchange, on the principal other U.S. national or regional securities exchange on which OI Inc. Common Stock is then listed or, if OI Inc. Common Stock is not then listed on a U.S. national or regional securities exchange, on the principal other market on which OI Inc. Common Stock is then traded; and
+If OI Inc. Common Stock (or other security for which a Last Reported Sale Price must be determined) is not so listed or traded, “Trading Day” means a Business Day.
+“Trading Day,” solely for the purposes of determining the Daily Settlement Amounts and the Daily Exchange Value, means:
+(a)           a day during which trading in OI Inc. Common Stock generally occurs on the primary exchange or quotation system on which OI Inc. Common Stock then trades or is quoted; and
+(b)           there is no Cash Settlement Averaging Period Market Disruption Event.
+If the OI Inc. Common Stock (or other Security for which Daily VWAP must be determined) is not so listed or traded, a Business Day.
+If, upon presentation of reasonable evidence by the Holder, the Company does not instruct the Bid Solicitation Agent to make such determination, the Trading Price per $1,000 principal amount of the Notes will be deemed to be less than 98% of the product of the Last Reported Sale Price of OI Inc. Common Stock and the applicable Exchange Rate on each day the Company fails to do so.
+“Trading Price Measurement Period” has the meaning specified in Section 11.01(b).
+14
+“Trustee” means the party named as such in this Indenture until a successor replaces it and, thereafter, means the successor.
+“Trust Officer” means, with respect to the Trustee:
+(a)           any officer within the Corporate Trust Office of the Trustee, including any vice president, managing director, trust officer or any other officer of the Trustee who customarily performs functions similar to those performed by the Persons who at the time shall be such officers, respectively, or to whom any corporate trust matter is referred because of such person’s knowledge of and familiarity with the particular subject, and
+(b)           who shall have direct responsibility for the administration of this Indenture.
+“Uniform Commercial Code” means the New York Uniform Commercial Code as in effect from time to time.
+“Unrestricted OI Inc. Common Stock” has the meaning specified in Section 2.14.
+“Unrestricted Subsidiary” means any Subsidiary of OI Group (other than the Company) that is designated by the Board of Directors of OI Group as an ‘‘Unrestricted Subsidiary’’ in accordance with the terms of any of the Senior Note Indentures, and to the extent that all of the Senior Note Indentures cease to remain in effect, means any Subsidiary of OI Group (other than the Company) that is designated by the Board of Directors of OI Group as an ‘‘Unrestricted Subsidiary’’ in accordance with the terms of the last of the Senior Note Indentures that ceases to be in effect as of the last day that such Senior Note Indentures was in effect.
+“Valuation Period” has the meaning specified in Section 11.04(c).
+“Voting Stock” of any Person as of any date means the Capital Stock of such Person that is at the time entitled to vote in the election of the Board of Directors of such Person
+“Wholly Owned Subsidiary” is a Subsidiary of the Company, all the capital stock of which (other than directors’ qualifying shares) is owned by the Company or another Wholly Owned Subsidiary.
+Section 1.02           Incorporation by Reference of Trust Indenture Act.
+This Indenture incorporates by reference certain provisions of the TIA.
+The following TIA terms have the following meanings:
+“Commission” means the SEC.
+“indenture securities” means the Notes and the Guarantee.
+“indenture security holder” means a Holder.
+“indenture trustee” or “institutional trustee” means the Trustee.
+15
+“obligor” on the indenture securities means the Company, and OI Inc. and any other obligor on the Notes.
+Section 1.03           Rules of Construction.
+Unless the context otherwise requires:
+(a)           a term has the meaning assigned to it;
+(b)           an accounting term not otherwise defined has the meaning assigned to it in accordance with GAAP;
+(c)           “or” is not exclusive;
+(d)           “including” means including without limitation;
+(e)           words in the singular include the plural and words in the plural include the singular;
+(f)            provisions apply to successive events and transactions; and
+(g)           all references to “interest” shall include Registration Default Additional Interest, if any, payable pursuant to Section 4.05 and Reporting Default Additional Interest, if any,  payable pursuant to Section 6.13.
+Article II
+The Notes
+Section 2.01           Designation; Amount and Issuance of Notes.
+An unlimited aggregate principal amount of Additional Notes may be issued from time to time in accordance with Section 2.01(b).
+(b)           The Company shall be entitled, without notice to or the consent of the Holders, to issue Additional Notes in an unlimited aggregate principal amount under this Indenture with the same terms and with the same CUSIP numbers as the Notes issued on the Issue Date, other than with respect to the date of issuance and issue price; provided, however, that no Additional Notes may be issued unless they will be fungible for U.S. Federal income tax and securities law purposes with any other Notes issued under this Indenture.
+The Original Notes issued on the Issue Date and any Additional Notes shall rank equally and ratably and shall be treated as a single class for all purposes under this Indenture.
+With respect to any Additional Notes issued after the Issue Date (except for Notes authenticated and delivered upon registration of transfer of, or in exchange for, or in lieu of, other Notes pursuant to Section 2.07, 2.08, 2.09, 2.10, 3.01(g), or 11.02(e)), there shall be
+16
+(a) established in or pursuant to a resolution of the Board of Directors of the Company and (b) (i) set forth or determined in the manner provided in an Officers’ Certificate or (ii) established in one or more indentures supplemental hereto, prior to the issuance of such Additional Notes:
+(2)           the issue price and issuance date of such Additional Notes, including the date from which interest on such Additional Notes shall accrue; and
+(3)           if applicable, that such Additional Notes shall be issuable in whole or in part in the form of one or more Global Notes and, in such case, the respective depositaries for such Global Notes, the form of any legend or legends which shall be borne by such Global Notes in addition to or in lieu of those set forth in Exhibit A hereto and any circumstances in which any such Global Note may be exchanged in whole or in part for Additional Notes registered, or any transfer of such Global Note in whole or in part may be registered, in the name or names of Persons other than the depositary for such Global Note or a nominee thereof.
+Section 2.02           Form, Dating and Denomination; Execution and Authentication.
+(a) The Notes and the Trustee’s certificate of authentication shall each be substantially in the form of Exhibit A hereto, which is hereby incorporated in and expressly made a part of this Indenture.
+The Notes may have notations, legends or endorsements required by law, stock exchange rule, agreements to which the Company or the Guarantors are subject, if any, or usage (provided that any such notation, legend or endorsement is in a form acceptable to the Company).
+So long as the Notes are eligible for book-entry settlement with the Depositary, or unless otherwise required by law, or otherwise contemplated by Section 2.08(b), all of the Notes will be represented by one or more Notes in global form registered in the name of the Depositary or the nominee of the Depositary (the “Global Notes”).
+The transfer and exchange of beneficial interests in any such Global Notes shall be effected through the Depositary in accordance with this Indenture and the applicable procedures of the Depositary.
+Except as provided in Section 2.07(b), beneficial owners of a Global Note shall not be entitled to have certificates registered in their names, will not receive or be entitled to receive physical delivery of certificates in definitive form and will not be considered Holders of such Global Note.
+17
+Any Global Notes shall represent such of the outstanding Notes as shall be specified therein and shall provide that it shall represent the aggregate amount of outstanding Notes from time to time endorsed thereon and that the aggregate amount of outstanding Notes represented thereby may from time to time be increased or reduced to reflect purchases, exchanges, transfers or exchanges permitted hereby.
+Any endorsement of a Global Note to reflect the amount of any increase or decrease in the amount of outstanding Notes represented thereby shall be made by the Trustee or the custodian for the Global Note, at the direction of the Trustee, in such manner and upon instructions given by the Holder of such Notes in accordance with this Indenture.
+If an Officer whose signature is on a Note no longer holds that office at the time the Trustee authenticates the Note, the Note shall be valid nevertheless.
+A Note shall not be valid until an authorized signatory of the Trustee manually signs the certificate of authentication on the Note.
+The signature shall be conclusive evidence that the Note has been authenticated under this Indenture.
+Such order shall specify the amount of the Notes to be authenticated and the date on which the original issue of Notes is to be authenticated.
+The Notes will be resold only to QIBs in reliance on Rule 144A.
+Notes shall be resold pursuant to Rule 144A and shall be issued initially in the form of Restricted Global Notes, without interest coupons and with the Global Notes Legend and the applicable Restricted Legend set forth in Exhibit A hereto, which shall be deposited on behalf of the purchasers of the Notes represented thereby with the Notes Custodian and registered in the name of the Depositary or a nominee of the Depositary, duly executed by the Company and authenticated by the Trustee as provided in this Indenture.
+The Trustee may appoint an authenticating agent reasonably acceptable to the Company to authenticate the Notes.
+Unless limited by the terms of such appointment, an authenticating agent may authenticate Notes whenever the Trustee may do so.
+Each reference in this Indenture to authentication by the Trustee includes authentication by such agent.
+An authenticating agent has the same rights as any Registrar, Paying Agent or agent for service of notices and demands.
+18
+(a)           Payment at Maturity.
+With respect to Global Notes, principal and interest will be paid to the Depositary or its nominee in immediately available funds.
+Section 2.04           Registrar and Paying Agent.
+The Company may have one or more co-registrars and one or more additional paying
+19
+agents.
+The term “Paying Agent” includes any additional paying agent, and the term “Registrar” includes any co-registrars.
+The Company initially appoints U.S. Bank National Association as (i) Registrar, Paying Agent and Exchange Agent in connection with the Notes and (ii) the Notes Custodian with respect to the Global Notes.
+(b)           The agreement shall implement the provisions of this Indenture that relate to such agent.
+If the Company fails to maintain a Registrar, Paying Agent or Exchange Agent, the Trustee shall act as such as an agent and shall be entitled to appropriate compensation therefor pursuant to Section 7.06.
+The Company or any of its Wholly Owned Subsidiaries may act as Paying Agent, Registrar or Exchange Agent.
+Section 2.05           Paying Agent to Hold Money in Trust.
+If the Company or a Wholly Owned Subsidiary of the Company acts as Paying Agent, it shall segregate the money held by it as Paying Agent and hold it as a separate trust fund.
+The Company at any time may require the Paying Agent to pay all money held by it to the Trustee and to account for any funds disbursed by the Paying Agent.
+Upon complying with this Section 2.05, the Paying Agent shall have no further liability for the money delivered to the Trustee.
+Section 2.06           Holder Lists.
+The Trustee shall preserve in as current a form as is reasonably practicable the most recent list available to it of the names and addresses of Holders.
+20
+Section 2.07           Exchange and Registration of Transfer of Notes; Restrictions on Transfer.
+(a)         The Company shall cause to be kept at the Corporate Trust Office the Register in which, subject to such reasonable regulations as it may prescribe, the Company shall provide for the registration of Notes and of transfers of Notes.
+Notes may be exchanged for other Notes of any authorized denominations and of a like aggregate principal amount, upon surrender of the Notes to be exchanged at any such office or agency maintained by the Company.
+All Notes issued upon any registration of transfer or exchange of Notes shall be the valid obligations of the Company, evidencing the same debt, and entitled to the same benefits under this Indenture, as the Notes surrendered upon such registration of transfer or exchange.
+All Notes presented or surrendered for registration of transfer or for exchange, repurchase or exchange pursuant to Article XI shall (if so required by the Company or the Registrar) be duly endorsed, or be accompanied by a written instrument or instruments of transfer in form satisfactory to the Company, and the Notes shall be duly executed by the Holder thereof or his attorney duly authorized in writing.
+No service charge shall be made to any Holder for any registration of transfer or exchange of Notes, but the Company or the Trustee may require payment by the Holder of a sum sufficient to cover any tax, assessment or other governmental charge required by law or permitted by this Indenture that may be imposed in connection with any registration of transfer or exchange of Notes in the event a Holder requests any shares to be issued in a name other than such Holder’s name.
+Neither the Company nor the Trustee nor any Registrar shall be required to exchange, issue or register a transfer or exchange of (a) any Note or portions thereof surrendered for exchange pursuant to Article XI or (b) any Note or portions thereof tendered for repurchase (and not withdrawn) pursuant to Article III.
+(b)           The following provisions shall apply only to Global Notes:
+21
+Any Global Note exchanged pursuant to this Section 2.07(b)(ii) shall be so exchanged in whole and not in part.
+(iii)          In addition, certificated Notes will be issued in exchange for beneficial interests in a Global Note upon request by or on behalf of the Depositary in accordance with customary procedures following the request of a beneficial owner seeking to enforce its rights under the Notes or this Indenture, including its rights following the occurrence of an Event of Default.
+(iv)          Notes issued in exchange for a Global Note or any portion thereof pursuant to clause (ii) or (iii) above shall be issued in definitive, fully registered form, without interest coupons, shall have an aggregate principal amount equal to that of such Global Notes or portion thereof to be so exchanged, shall be registered in such names and be in such authorized denominations as the Depositary shall designate and shall bear any legends required hereunder.
+(vi)          Neither any members of, or participants in, the Depositary (the “Agent Members”) nor any other Persons on whose behalf Agent Members may act shall have any rights under this Indenture with respect to any Global Notes registered in the name of the Depositary or any nominee thereof, and the Depositary or such nominee, as the case may be, may be treated by the Company, the Trustee and any agent of the Company or the Trustee as the absolute owner and Holder of such Global Notes for all purposes whatsoever.
+Notwithstanding the foregoing, nothing herein shall prevent the Company, the Trustee or any agent of the Company or the Trustee from giving effect to any written
+22
+certification, proxy or other authorization furnished by the Depositary or such nominee, as the case may be, or impair, as between the Depositary, its Agent Members and any other Person on whose behalf an Agent Member may act, the operation of customary practices of such Persons governing the exercise of the rights of a Holder of any Notes.
+(c)           Every Note (and all securities issued in exchange therefor or in substitution thereof) is required under this Section 2.07(c) to bear the Restricted Legend (a “Restricted Global Note”) and shall be subject to the restrictions on transfer set forth in this Section 2.07(c) and in the Restricted Legend set forth in Exhibit A, and the holder of each such Restricted Global Note, by such Holder’s acceptance thereof, agrees to be bound by all such restrictions on transfer.
+Every share of OI Inc. Common Stock (and all securities issued in exchange therefore or in substitution thereof) issued upon exchange of a Note in accordance with Article XI is required under this Section 2.07(c) to bear the Restricted Legend (the “Restricted OI Inc. Common Stock,” and together with the Restricted Global Note, the “Restricted Securities”) and shall be subject to the restrictions on transfer set forth in this Section 2.07(c) and in the Restricted Legend set forth in Exhibit B, which is hereby incorporated in and expressly made a part of this Indenture, and the holder of each such share of Restricted OI Inc. Common Stock, by such holder’s acceptance thereof, agrees to be bound by all such restrictions on transfer.
+Each Holder which exchanges Notes for OI Inc. Common Stock will be deemed to have represented to the Company and OI Inc. that it is a QIB.
+As used in this Section 2.07(c), the term “transfer” means any sale, pledge, loan, transfer or other disposition whatsoever of any Restricted Security or any interest therein.
+(d)           Until the date (the “Resale Restriction Termination Date”) that is the later of (1) the date that is one year after the last date of issuance of shares of OI Inc. Common Stock upon exchange and (2) such later date, if any, as may be required by applicable laws, any certificate evidencing Restricted OI Inc. Common Stock shall bear the Restricted Legend set forth in Exhibit B, unless such Restricted OI Inc. Common Stock has been sold pursuant to a registration statement that has been declared effective under the Securities Act (and which continues to be effective at the time of such transfer) or sold pursuant to Rule 144 under the Securities Act or any similar provision then in force, or unless otherwise agreed by the Company in writing following receipt of legal advice supporting the permissibility of the waiver of such transfer restrictions, with written notice thereof to the Trustee.
+23
+(g)           The Trustee shall have no responsibility or obligation to any Agent Members or any other Person with respect to the accuracy of the books or records, or the acts or omissions, of the Depositary or its nominee or of any participant or member thereof, with respect to any ownership interest in the Notes or with respect to the delivery to any Agent Member or other Person (other than the Depositary) of any notice or the payment of any amount, under or with respect to such Notes.
+The rights of beneficial owners in any Global Notes shall be exercised only through the Depositary subject to the customary procedures of the Depositary.
+The Trustee may rely and shall be fully protected in relying upon information furnished by the Depositary with respect to its Agent Members.
+(h)           The Trustee shall have no obligation or duty to monitor, determine or inquire as to compliance with any restrictions on transfer imposed under this Indenture or under applicable law with respect to any transfer of any interest in any Notes (including any transfers between or among Agent Members) other than to require delivery of such certificates and other documentation or evidence as are expressly required by, and to do so if and when expressly required by, the terms of this Indenture, and to examine the same to determine substantial compliance as to form with the express requirements hereof.
+Section 2.08           Replacement Notes.
+24
+Commercial Code (a “protected purchaser”) and (c) satisfies any other reasonable requirements of the Company or the Trustee.
+If required by the Trustee or the Company, such Holder shall furnish an indemnity bond sufficient in the judgment of the Trustee and the Company to protect the Company, the Trustee, the Paying Agent and the Registrar from any loss that any of them may suffer if a Note is replaced.
+The Company and the Trustee may charge the Holder for their expenses in replacing a Note.
+In the event any such mutilated, lost, destroyed or wrongfully taken Note has become or is about to become due and payable, the Company in its discretion may pay such Note instead of issuing a new Note in replacement thereof.
+Every replacement Note is an additional obligation of the Company and the Guarantors.
+The provisions of this Section 2.08 are exclusive and shall preclude (to the extent lawful) all other rights and remedies with respect to the replacement or payment of mutilated, lost, destroyed or wrongfully taken Notes.
+Section 2.09           Outstanding Notes.
+Notes outstanding at any time are all Notes authenticated by the Trustee except for those canceled by it, those delivered to it for cancellation and those described in this Section 2.09 as not outstanding.
+Subject to Section 12.05, a Note does not cease to be outstanding because the Company or an Affiliate of the Company holds the Note.
+If a Note is replaced pursuant to Section 2.08, it ceases to be outstanding unless the Trustee and the Company receive proof satisfactory to them that the replaced Note is held by a protected purchaser.
+Section 2.10           Temporary Notes.
+In the event that certificated Notes are to be issued under the terms of this Indenture, until such certificated Notes are ready for delivery, the Company may prepare and the Trustee shall authenticate temporary Notes.
+Temporary Notes shall be substantially in the form of certificated Notes but may have variations that the Company considers appropriate for temporary Notes.
+25
+The Trustee shall not authenticate Notes in place of canceled Notes other than pursuant to the terms of this Indenture.
+Section 2.12           Defaulted Interest.
+Section 2.13           CUSIP Numbers and ISINs.
+The Company in issuing the Notes may use CUSIP numbers and ISINs (if then generally in use) and, if so, the Trustee shall use CUSIP numbers and ISINs in notices of repurchase as a convenience to Holders; provided, however, that any such notice may state that no representation is made as to the correctness of such numbers either as printed on the Notes or as contained in any notice of a repurchase and that reliance may be placed only on the other identification numbers printed on the Notes, and any such repurchase shall not be affected by any defect in or omission of such numbers.
+The Company shall advise the Trustee of any change in the CUSIP numbers or ISINs.
+Section 2.14           Automatic Exchange from Restricted OI Inc. Common Stock to Unrestricted OI Inc. Common Stock.
+To the extent there are any shares of Restricted OI Inc. Common Stock outstanding on the Resale Restriction Termination Date, Restricted OI Inc. Common Stock, shall be automatically exchanged on the Resale Restriction Termination Date into an unrestricted stock certificate representing OI Inc. Common Stock that is no longer subject to the restrictions set out in Section 2.07(c) (including removal of the Restricted Legend) (the “Unrestricted OI Inc. Common Stock”), without any action required by or on behalf of the holder (the “Automatic Exchange”).
+The Automatic Exchange Notice shall identify the OI Inc. Common Stock subject to the Automatic Exchange and shall state: (1) the date of the Automatic Exchange; (2) the section of this Indenture pursuant to which the Automatic Exchange shall occur; (3) the “CUSIP” number the Restricted OI Inc. Common Stock from which such holders’ beneficial interests shall be transferred and (4) the “CUSIP” number of the Unrestricted OI Inc. Common Stock  into which such holders’ beneficial interests shall be transferred.
+26
+Article III
+Purchases Upon a Fundamental Change
+Section 3.01           Purchase at Option of Holder Upon a Fundamental Change.
+(b)           Notice of Fundamental Change.
+(i)            the events causing a Fundamental Change;
+(ii)           the effective date of the Fundamental Change, and whether the Fundamental Change is a Make-Whole Fundamental Change, in which case the Effective Date of the Make-Whole Fundamental Change;
+(vi)          the name and address of the Paying Agent and the Exchange Agent;
+(vii)         the applicable Exchange Rate and any adjustments to the applicable Exchange Rate;
+27
+(viii)        that the Notes with respect to which a Fundamental Change Purchase Notice has been delivered by a Holder may be exchanged only if the Holder withdraws the Fundamental Change Purchase Notice in accordance with the terms of this Indenture or to the extent that portions of such Notes are not subject to such Fundamental Change Purchase Notice; and
+(ix)           the procedures that Holders must follow to require the Company to purchase their Notes.
+No failure of the Company to give the foregoing notices and no defect therein shall limit the purchase rights of the Holders of Notes or affect the validity of the proceedings for the purchase of the Notes pursuant to this Section 3.01.
+The Fundamental Change Purchase Notice must state:
+(iii)          that the Notes are to be purchased by the Company pursuant to the applicable provisions of the Notes and this Indenture.
+(i)            the principal amount of the withdrawn Notes;
+(ii)           if certificated Notes have been issued, the certificate numbers of the withdrawn Notes; and
+28
+(iii)          the principal amount, if any, which remains subject to the Fundamental Change Purchase Notice.
+(e)           Effect of Fundamental Change Purchase Notice.
+29
+(h)           Covenant to Comply With Applicable Laws Upon Purchase of Notes.
+In connection with any offer to purchase Notes under this Section 3.01, the Company shall, in each case if required, (i) comply with Rule 13e-4, Rule 14e-1 and any other tender offer rules under the Exchange Act that may then be applicable, (ii) file a Schedule TO or any successor or similar schedule if required under the Exchange Act and (iii) otherwise comply with all federal and state securities laws in connection with any offer by us to purchase the Notes so as to permit the rights and obligations under this Section 3.01 to be exercised in the time and in the manner specified in this Section 3.01.
+(j)            The Company shall not be required to make an offer to purchase the Notes upon a Fundamental Change if a third party makes such offer to purchase the Notes upon a  Fundamental Change in the manner, at the times and otherwise in compliance with the requirements set forth in this Article III and purchases all Notes validly and not withdrawn under such offer to purchase the Notes.
+Article IV
+Covenants
+Section 4.01           Payment of Notes.
+Principal and interest shall be considered paid on the date due if on such date the Trustee or the Paying Agent holds in accordance with this Indenture money in immediately available funds sufficient to pay all principal and interest then due and the Trustee or the Paying Agent, as the case may be, is not prohibited from paying such money to the Holders on that date pursuant to the terms of this Indenture.
+Section 4.02           Commission Reports.
+Any documents or reports that (i) OI Group is required to file with the SEC or furnish to the holders of notes governed by any Senior Note Indenture pursuant to any Senior Note Indenture, or (ii) OI Inc. is required to file with the SEC pursuant to Section 13 or 15(d) of
+30
+the Exchange Act, shall be furnished by OI Group or OI Inc., as applicable, to the trustee and Holders, at their request, within 15 calendar days after the same are required (pursuant to the Senior Note Indentures or the Exchange Act, as the case may be) to be filed with the SEC (in each case, giving effect to any grace period provided by Rule 12b-25 under the Exchange Act).
+Documents filed by OI Group or OI Inc., as applicable, with the SEC via the EDGAR system will be deemed furnished to the trustee and the Holders as of the time such documents are filed via EDGAR.
+If at any time OI Group or OI Inc. is not subject to the reporting requirements of the Exchange Act, OI Group or OI Inc., as applicable, shall promptly furnish to the Holders, beneficial owners and prospective purchasers of the Notes, upon their request, the information required to be delivered pursuant to Rule 144A(d)(4) under the Securities Act to facilitate the resale of those Notes pursuant to Rule 144A for so long as the Notes are outstanding.
+(a)           The subsequent filing with the Trustee and, if applicable, the SEC of any report required by Section 4.02(a) shall be deemed to automatically cure any Default or Event of Default resulting from the failure to file such report within the time period required by Section 4.02(a).
+(b)           Delivery of such reports, information and documents to the Trustee is for informational purposes only and the Trustee’s receipt of such shall not constitute constructive notice of any information contained therein or determinable from information contained therein, including the Company’s compliance with any of its covenants hereunder (as to which the Trustee is entitled to rely exclusively (subject to Article VII) on Officers’ Certificates).
+Section 4.03      Compliance Certificate.
+If they do, the certificate shall describe the Default, its status and what action the Company is taking or proposes to take with respect thereto.
+Section 4.04      Notice of Defaults.
+The Trustee may withhold from Holders, notices of any continuing Default or Event of Default (except a Default or Event of Default relating to the payment of principal or interest, including a default arising from the Company’s failure to purchase any Notes when required upon a Fundamental Change, or the failure to deliver, upon exchange, cash and shares of OI Inc. Common Stock, if any), if it determines that withholding notice in their interest.
+31
+Section 4.05      Registration Default Additional Interest.
+For the avoidance of doubt, no Registration Default Additional Interest shall accrue following the expiration of the time period during which OI Inc. is required to use commercially reasonable efforts to keep a registration statement effective under the Registration Rights Agreement.
+(c)           If a Holder exchanges all or a portion of its Notes when there exists a Registration Default or Effective Default with respect to the OI Inc. Common Stock and any shares of OI Inc. Common Stock are due upon such exchange, the Holder will not be entitled to receive Registration Default Additional Interest, but the Exchange Rate will be increased by 3.00%.
+If a Registration Default with respect to the OI Inc. Common Stock occurs after a Holder has exchanged its Notes and received OI Inc. Common Stock, such Holder will not be entitled to any compensation with respect to such OI Inc. Common Stock.
+Article V
+Successor Company or Successor Guarantor
+Section 5.01      When the Company, OI Group or OI Inc. May Merge or Transfer Assets.
+None of the Company, OI Inc. or OI Group shall, in any transaction or series of transactions, merge or consolidate with or into, or, directly or indirectly, sell, assign, convey, transfer, lease or otherwise dispose of all or substantially all of its properties and assets to, any Person or Persons, unless:
+(i)            either (a) the Company, OI Group or OI Inc., as applicable, is the resulting, surviving or transferee Person; or (b) if the Company, OI Group, or OI Inc., as applicable, is not the resulting, surviving or transferee Person, the resulting, surviving or transferee Person (the “Successor Company”) is a corporation organized and existing under the laws of the United States, any state thereof or the District of Columbia and such corporation assumes all the obligations of the Company, OI Group or OI Inc., as applicable, under the Notes and the Indenture pursuant to a supplemental indenture and under the Registration Rights Agreement pursuant to a supplemental agreement;
+32
+If the Company, OI Group or OI Inc., as applicable, is not the resulting or surviving Person, upon any such consolidation, merger or sale, assignment, conveyance, or transfer (other than in the case of a lease), the Successor Company shall succeed to, and may exercise every right and power of the Company, OI Group or OI Inc., as applicable, under this Indenture.
+(i)            (a) either (1) such Guarantor is the resulting or surviving Person; or (2) if such Guarantor is not the resulting or surviving person, the resulting, surviving or transferee person (“Successor Guarantor”) is a corporation or limited liability company organized and existing under the laws of the United States, any state thereof or the District of Columbia and such corporation or limited liability company assumes all the obligations of such Guarantor under the Notes, the Guarantee and this Indenture pursuant to a supplemental indenture; (b) immediately after giving effect to such transaction, no Default or Event of Default has occurred and is continuing; and (c) the Company shall have delivered or caused to be delivered to the Trustee an Officers’ Certificate and an Opinion of Counsel, each stating that such transactions described above and such supplemental indenture (if any) comply with this Indenture; or
+(ii)           the transaction is made in compliance with the Credit Agreement and the Senior Note Indentures.
+If such Guarantor is not the resulting or surviving Person, upon any such consolidation, merger or sale, assignment, conveyance, or transfer, the Successor Guarantor shall succeed to, and may exercise every right and power of, such Guarantor under this Indenture, and the Guarantee of such Guarantor shall be automatically released under this Indenture.
+(c)           This Article V shall not apply to a merger or consolidation of the Company, OI Group, or any of the Guarantors with or into any other of the Company, OI Group, or any of the Guarantors or the sale, assignment, conveyance, transfer, lease or other disposition of assets between or among the Company, OI Group and any of the Guarantors.
+Section 5.02      Assignment of Obligations On and after May 7, 2011, the Company may assign its obligations under the Notes and this Indenture to OI Inc., and the Company and each Guarantor, in its capacity as a Guarantor, would thereafter be released from its obligations under the Notes, the Guarantees of the Notes and this Indenture, provided that (a) OI Inc. assumes all of the obligations under the Notes and this Indenture and (b) the obligations of each
+33
+domestic borrower under the Credit Agreement have been or will be concurrently assumed by OI Inc.
+In the event of any such assignment, OI Inc. shall succeed to, and be substituted for, and may exercise every right and power of, the Company under the Indenture with the same effect as if OI Inc. had been named the Company herein, and restrictions imposed on and obligations of OI Group in this Indenture shall become restrictions imposed on and obligations of OI Inc., unless the context otherwise requires.
+Article VI
+Defaults and Remedies
+Section 6.01      Events of Default An “Event of Default” occurs if:
+(d)           the Company fails to give a Fundamental Change Notice pursuant to Section 3.01(b), a notice of a Make-Whole Fundamental Change pursuant to Section 11.03(g) or notice of a specified corporate transaction as under Sections 11.01(c) or (d), in each case when due;
+(e)           the Company fails to comply with the provisions described under Article III;
+(f)            the Company, OI Inc., OI Group or any of the other Guarantors fails to comply with the provisions described under Article V;
+(g)           the Company, OI Inc., OI Group or any of the other Guarantors fails for 60 days after notice to comply with any of the agreements in this Indenture (other than an agreement or Default in whose performance or whose breach is specifically dealt with in another clause), the Notes and the Guarantees of the Notes (with respect to any Guarantor);
+(h)           the Company defaults under any mortgage, indenture or instrument under which there may be issued or by which there may be secured or evidenced any Indebtedness for money borrowed by OI Group or any of its Restricted Subsidiaries (or the payment of which is
+34
+guaranteed by OI Group or any of its Restricted Subsidiaries) whether such Indebtedness or guarantee now exists, or is created after the Issue Date, if that Default:
+(i)        is caused by a failure to pay principal of, or interest or premium, if any, on such Indebtedness prior to the expiration of the grace period provided in such Indebtedness on the date of such Default (a ‘‘Payment Default’’); or
+(ii)       results in the acceleration of such Indebtedness prior to its express maturity; provided, that an Event of Default will not be deemed to occur with respect to any such accelerated Indebtedness which is repaid or prepaid within 20 Business Days after such declaration;
+and, in any individual case, the principal amount of any such Indebtedness is equal to or in excess of $50.0 million, or such Indebtedness together with the principal amount of any other such Indebtedness under which there has been a Payment Default or the maturity of which has been so accelerated, aggregates $100.0 million or more;
+(i)            any final judgment or order for payment of money in excess of $50.0 million in any individual case and $100.0 million in the aggregate at any time shall be rendered against OI Group or any of its Restricted Subsidiaries and such judgment shall not have been paid, discharged or stayed for a period of 60 days;
+(j)            except as permitted by the Indenture, any Guarantee of the Notes shall be held in any judicial proceeding to be unenforceable or invalid or shall cease for any reason to be in full force and effect or any Guarantor, or any person acting on behalf of any Guarantor, shall deny or disaffirm its obligations under its Guarantee of the Notes;
+(k)           the Company, OI Inc., OI Group or any Significant Subsidiary of OI Group pursuant to or within the meaning of any Bankruptcy Law:
+(i)        commences a voluntary case;
+(ii)       consents to the entry of an order for relief against it in an involuntary case;
+(iii)      consents to the appointment of a Custodian of it or for all or substantially all of its property;
+(iv)      makes a general assignment for the benefit of its creditors; or
+(l)      a court of competent jurisdiction enters an order or decree under any Bankruptcy Law that:
+(i)        is for relief against the Company, OI Inc., OI Group or any Significant Subsidiary of OI Group in an involuntary case;
+(ii)       appoints a Custodian of the Company, OI Inc., OI Group or any Significant Subsidiary of OI Group or for all or substantially all of
+35
+such entity’s property; or orders the liquidation of the Company, OI Inc., OI Group or any Significant Subsidiary of OI Group;
+and the order or decree remains unstayed and in effect for 60 days.
+The foregoing shall constitute Events of Default whatever the reason for any such Event of Default and whether it is voluntary or involuntary or is effected by operation of law or pursuant to any judgment, decree or order of any court or any order, rule or regulation of any administrative or governmental body.
+The term “Bankruptcy Law” means Title 11, United States Code, or any similar Federal or state law for the relief of debtors.
+The term “Custodian” means any receiver, trustee, assignee, liquidator, custodian or similar official under any Bankruptcy Law.
+Upon such a declaration, such principal and interest shall be due and payable immediately.
+If an Event of Default specified in Section 6.01(k) or (l) with respect to the Company, OI Group, OI Inc. or a Significant Subsidiary of OI Group occurs, 100% of the principal of and interest on all the Notes shall ipso facto become and be immediately due and payable without any declaration, other act or notice on the part of the Trustee or any Holders.
+Section 6.03      Other Remedies.If an Event of Default occurs and is continuing, the Trustee may pursue any available remedy to collect the payment of principal of or interest on the Notes or to enforce the performance of any provision of the Notes or this Indenture.
+The Trustee may maintain a proceeding even if it does not possess any of the Notes or does not produce any of them in the proceeding.
+A delay or omission by the Trustee or any Holder in exercising any right or remedy accruing upon an Event of Default shall not impair the right or remedy or constitute a waiver of or acquiescence in the Event of Default.
+No remedy is exclusive of any other remedy.
+All available remedies are cumulative.
+36
+respect to the Notes and its consequences, including any related payment default that resulted from such acceleration, if:
+(a)           rescission would not conflict with any judgment or decree of a court of competent jurisdiction; and
+(b)           all existing Events of Default, other than the nonpayment of the principal or/and interest on the Notes that have become due solely by such declaration of acceleration have been cured and waived.
+Section 6.05      Control by Majority.The Holders of a majority in principal amount of the then outstanding Notes may direct the time, method and place of conducting any proceeding for any remedy available to the Trustee or of exercising any trust or power conferred on the Trustee.
+However, the Trustee may refuse to follow any direction that conflicts with law or this Indenture or, subject to Section 7.01, that the Trustee determines is unduly prejudicial to the rights of any other Holder or that would involve the Trustee in personal liability; provided, however, that the Trustee may take any other action deemed proper by the Trustee that is not inconsistent with such direction.
+Prior to taking any action under this Indenture, the Trustee shall be entitled to indemnification satisfactory to it in its sole discretion against all losses and expenses caused by taking or not taking such action.
+Section 6.06      Limitation on Suits.
+(a) Except to enforce the right to receive payment of principal or interest when due, or the right to receive payment or delivery of the consideration due upon exchange, no Holder may pursue any remedy with respect to this Indenture or the Notes or any Guarantee unless:
+(iii)          such Holder or Holders have offered to the Trustee indemnity satisfactory to it against any loss, liability or expense;
+(v)           the Holders of a majority in principal amount of the Notes have not given the Trustee a direction that, in the opinion of the Trustee, is inconsistent with the request during such 60-day period.
+(b)           A Holder may not use this Indenture to prejudice the rights of another Holder or to obtain a preference or priority over another Holder.
+37
+Section 6.07      Rights of Holders to Receive Payment.
+(a) Notwithstanding any other provision of this Indenture, the right of any Holder to receive payment of principal of and interest on the Notes held by such Holder on or after the respective due dates expressed or provided for in the Notes, or to bring suit for the enforcement of any such payment on or after such respective dates, shall not be impaired or affected without the consent of such Holder.
+In addition, notwithstanding any other provision of this Indenture, the right of any Holder to enforce its rights of exchange in accordance with the provisions of Article XI, on or after the applicable date for settlement of the Exchange Obligation of the Company and OI Inc., shall not be impaired or affected without the consent of such Holder.
+(b)  Notwithstanding any other provision of this Indenture, OI Inc.’s only obligation in connection with a Holder’s exercise of its exchange rights under this Indenture is to deliver the portion of the Exchange Consideration that consists of shares of OI Inc. Common Stock.
+As a result, in the case of any failure to deliver the Exchange Consideration to an exchanging Holder upon such Holder’s exercise of its exchange rights under this Indenture, such Holder’s only claim with respect to OI Inc. would be for the portion of the Exchange Consideration that consists of shares of OI Inc. Common Stock (or cash in lieu of a fractional share of OI Inc. Common Stock), and such Holder’s only claim with respect to the Company would be for the portion of the Exchange Consideration that consists of cash (other than any portion that corresponds to a fractional share of OI Inc. Common Stock).
+Section 6.08      Collection Suit by Trustee.
+If an Event of Default specified in Section 6.01(a) or (b) occurs and is continuing, the Trustee may recover judgment in its own name and as trustee of an express trust against the Company or any other obligor on the Notes for the whole amount then due and owing (together with interest on overdue principal and (to the extent lawful) on any unpaid interest at the rate provided for in the Notes) and the amounts provided for in Section 7.06.
+The Trustee may file such proofs of claim and other papers or documents as may be necessary or advisable in order to have the claims of the Trustee and the Holders allowed in any judicial proceedings relative to the Company or the Guarantor, their creditors or their property and, unless prohibited by law or applicable regulations, may vote on behalf of the Holders in any election of a trustee in bankruptcy or other Person performing similar functions, and any Custodian in any such judicial proceeding is hereby authorized by each Holder to make payments to the Trustee and, in the event that the Trustee shall consent to the making of such payments directly to the Holders, to pay to the Trustee any amount due it for the reasonable compensation, expenses, disbursements and advances of the Trustee, its agents and its counsel, and any other amounts due the Trustee under Section 7.06.
+Section 6.10      Priorities.
+38
+SECOND:  to Holders for amounts due and unpaid on the Notes for principal and interest, ratably, without preference or priority of any kind, according to the amounts due and payable on the Notes for principal and interest, respectively; and
+Section 6.11      Undertaking for Costs.
+In any suit for the enforcement of any right or remedy under this Indenture or in any suit against the Trustee for any action taken or omitted by it as Trustee, a court in its discretion may require the filing by any party litigant in the suit of an undertaking to pay the costs of the suit, and the court in its discretion may assess reasonable costs, including reasonable attorneys’ fees and expenses, against any party litigant in the suit, having due regard to the merits and good faith of the claims or defenses made by the party litigant.
+This Section 6.11 does not apply to a suit by the Trustee, a suit by a Holder pursuant to Section 6.07 or a suit by Holders of more than 10% in principal amount of the Notes.
+Section 6.12      Waiver of Stay or Extension Laws.
+Neither the Company nor the Guarantor (to the extent it may lawfully do so) shall at any time insist upon, or plead, or in any manner whatsoever claim or take the benefit or advantage of, any stay or extension law wherever enacted, now or at any time hereafter in force, which may affect the covenants or the performance of this Indenture; and the Company and the Guarantor (to the extent that it may lawfully do so) hereby expressly waives all benefit or advantage of any such law, and shall not hinder, delay or impede the execution of any power herein granted to the Trustee, but shall suffer and permit the execution of every such power as though no such law had been enacted.
+Section 6.13      Failure to Comply with Reporting Covenant.
+39
+Reporting Default Additional Interest will cease to accrue and the Notes will be subject to acceleration as provided in Section 6.02.
+The provisions of this Section 6.13 will not affect the rights of Holders in the event of the occurrence of any other Event of Default.
+For the avoidance of doubt, in the event Registration Default Additional Interest is also triggered pursuant to Section 4.05, the interest rate applicable to the Notes under such Section 4.05 shall also apply to the Notes.
+Article VII
+Trustee
+Section 7.01      Duties of Trustee.
+(a)  If an Event of Default has occurred and is continuing, the Trustee shall exercise the rights and powers vested in it by this Indenture and use the same degree of care and skill in their exercise as a prudent person would exercise or use under the circumstances in the conduct of such person’s own affairs.
+(b)           Except during the continuance of an Event of Default:
+(i)            the Trustee undertakes to perform such duties and only such duties as are specifically set forth in this Indenture and no implied covenants or obligations shall be read into this Indenture against the Trustee; and
+(ii)           in the absence of bad faith on its part, the Trustee may conclusively rely, as to the truth of the statements and the correctness of the opinions expressed therein, upon certificates or opinions furnished to the Trustee and conforming to the requirements of this Indenture.
+However, in the case of certificates or opinions required by any provision hereof to be provided to it, the Trustee shall examine the certificates and opinions to determine whether or not they conform to the requirements of this Indenture (but need not confirm or investigate the accuracy of mathematical calculations or other facts stated therein).
+(c)           The Trustee may not be relieved from liability for its own grossly negligent action, its own grossly negligent failure to act or its own willful misconduct, except that:
+(i)            this paragraph does not limit the effect of paragraph (b) of this Section;
+40
+(ii)           the Trustee shall not be liable for any error of judgment made in good faith by a Trust Officer unless it is proved that the Trustee was grossly negligent in ascertaining the pertinent facts;
+(iii)          the Trustee shall not be liable with respect to any action it takes or omits to take in good faith in accordance with a direction received by it pursuant to Section 6.05; and
+(iv)          no provision of this Indenture shall require the Trustee to expend or risk its own funds or otherwise incur financial liability in the performance of any of its duties hereunder or in the exercise of any of its rights or powers.
+(d)           Every provision of this Indenture that in any way relates to the Trustee is subject to paragraphs (a), (b) and (c) of this Section.
+(e)           The Trustee shall not be liable for interest on any money received by it except as the Trustee may agree in writing with the Company.
+(f)            Money held in trust by the Trustee need not be segregated from other funds except to the extent required by law.
+(g)           Every provision of this Indenture relating to the conduct or affecting the liability of or affording protection to the Trustee shall be subject to the provisions of this Section 7.01.
+Section 7.02      Rights of Trustee.
+(a)  The Trustee may conclusively rely on any document believed by it to be genuine and to have been signed or presented by the proper person.
+The Trustee need not investigate any fact or matter stated in the document.
+(b)           Before the Trustee acts or refrains from acting, it may require an Officers’ Certificate or an Opinion of Counsel.
+The Trustee shall not be liable for any action it takes or omits to take in good faith in reliance on the Officers’ Certificate or Opinion of Counsel.
+(c)           The Trustee may act through agents or a co-Trustee and shall not be responsible for the misconduct or negligence of any agent appointed with due care.
+(d)           The Trustee shall not be liable for any action it takes or omits to take in good faith which it believes to be authorized or within its rights or powers.
+(e)           The Trustee may consult with counsel of its own selection and the advice or opinion of counsel with respect to legal matters relating to this Indenture and the Notes shall be full and complete authorization and protection from liability in respect of any action taken, omitted or suffered by it hereunder in good faith and in accordance with the advice or opinion of such counsel.
+(f)            The Trustee shall not be bound to make any investigation into the facts or matters stated in any resolution, certificate, statement, instrument, opinion, report, notice, request, consent, order, approval, bond, debenture, note or other paper or document unless
+41
+requested in writing to do so by the Holders of not less than a majority in principal amount of the Notes at the time outstanding and indemnified in connection therewith, but the Trustee, in its discretion, may make such further inquiry or investigation into such facts or matters as it may see fit, and, if the Trustee shall determine to make such further inquiry or investigation, it shall be entitled to examine the books, records and premises of the Company, personally or by agent or attorney, at the expense of the Company and shall incur no liability of any kind by reason of such inquiry or investigation.
+(g)           The Trustee shall be under no obligation to exercise any of the rights or powers vested in it by this Indenture at the request or direction of any of the Holders pursuant to this Indenture, unless such Holders shall have offered to the Trustee indemnity satisfactory to the Trustee against the costs, expenses and liabilities which might be incurred by it in compliance with such request or direction.
+(h)           The rights, privileges, protections, immunities and benefits given to the Trustee, including its right to be indemnified, are extended to, and shall be enforceable by, the Trustee in each of its capacities hereunder, and each agent, custodian and other Person employed to act hereunder.
+(i)            The recitals contained herein are made by the Company and not by the Trustee and neither the Trustee nor the Exchange Agent or Paying Agent assumes any responsibility for the correctness thereof.
+The Trustee makes no representation as to the validity or sufficiency of this Indenture or the OI Inc. Common Stock, the Daily VWAP, the Guarantee, the Notes, any Stock Price, any Trading Price, or any calculations performed by the Company.
+(j)            In no event shall the Trustee, the Exchange Agent or the Paying Agent be responsible or liable for any failure or delay in the performance of its obligations hereunder arising out of or caused by, directly or indirectly, forces beyond its control, including, without limitation, strikes, work stoppages, accidents, acts of war or terrorism, civil or military disturbances, nuclear or natural catastrophes or acts of God, and interruptions, loss or malfunctions of utilities, communications or computer (software and hardware) services; it being understood that the Trustee, the Exchange Agent or the Paying Agent shall use reasonable efforts which are consistent with accepted practices in the banking industry to resume performance as soon as practicable under the circumstances.
+(k)           In no event shall the Trustee be responsible or liable for special, indirect, or consequential loss or damage of any kind whatsoever (including, but not limited to, loss of profit) irrespective of whether the Trustee has been advised of the likelihood of such loss or damage and regardless of the form of action.
+(l)            Any request or direction of the Company mentioned herein shall be sufficiently evidenced by a written order of the Company and any resolution of the Board of Directors may be sufficiently evidenced by a resolution of the Board of Directors.
+(m)          The rights, privileges, protections, immunities and benefits given to the Trustee, including, without limitation, its right to be indemnified, are extended to, and shall be enforceable by, U.S. Bank National Association in each of its capacities hereunder, and each
+42
+agent, custodian and other Person employed to act hereunder, except that under no circumstances shall the Exchange Agent or the Paying Agent be deemed to owe any fiduciary duty to the Company, the Guarantor, or the Holders.
+Section 7.03      Individual Rights of Trustee.
+The Trustee in its individual or any other capacity may become the owner or pledgee of Notes and may otherwise deal with the Company or its Affiliates with the same rights it would have if it were not Trustee.
+Any Paying Agent or Registrar may do the same with like rights.
+However, the Trustee must comply with Section 7.09.
+Section 7.04      Trustee’s Disclaimer.
+The Trustee shall not be responsible for and makes no representation as to the validity or adequacy of this Indenture, any Guarantee or the Notes, shall not be accountable for the Company’s use of the proceeds from the Notes, and it shall not be responsible for any statement of the Company or the Guarantor in this Indenture or in any document issued in connection with the sale of the Notes or in the Notes other than the Trustee’s certificate of authentication.
+Section 7.05      Notice of Defaults.
+Except in the case of a Default in the payment of principal of, premium (if any) or interest on any Note or a default in the payment or delivery of the consideration due upon exchange, the Trustee may withhold the notice if and so long as a committee of its Trust Officers in good faith determines that withholding the notice is in the interests of the Holders.
+Section 7.06      Compensation and Indemnity.
+The Trustee’s compensation shall not be limited by any law on compensation of a trustee of an express trust.
+The Company shall reimburse the Trustee upon request for all reasonable out-of-pocket expenses incurred or made by it, including costs of collection, in addition to the compensation for its services.
+Such expenses shall include the reasonable compensation and expenses, disbursements and advances of the Trustee’s agents, counsel, accountants and experts.
+The Company and the Guarantor, jointly and severally, shall indemnify the Trustee (which, for the purposes of this Section 7.06, shall include its directors, officers, employees and agents) against any and all loss, liability, claim, damage or expense (including reasonable attorneys’ fees and expenses) incurred by or in connection with the administration of this trust and the performance of its duties hereunder.
+The
+43
+Trustee shall notify the Company of any claim for which it may seek indemnity promptly upon obtaining actual knowledge thereof; provided, however, that any failure so to notify the Company shall not relieve the Company or the Guarantor of its indemnity obligations hereunder.
+The Company shall defend the claim and the indemnified party shall provide reasonable cooperation at the Company’s expense in the defense.
+Such indemnified parties may have separate counsel and the Company and the Guarantor, as applicable, shall pay the fees and expenses of such counsel; provided, however, that the Company shall not be required to pay such fees and expenses if it assumes such indemnified parties’ defense and, in such indemnified parties’ reasonable judgment, there is no conflict of interest between the Company and the Guarantor, as applicable, and such parties in connection with such defense.
+The Company need not reimburse any expense or indemnify against any loss, liability or expense incurred by an indemnified party solely attributable to such party’s own willful misconduct, gross negligence or bad faith.
+To secure the Company’s payment obligations in this Section 7.06, the Trustee shall have a lien prior to the Notes on all money or property held or collected by the Trustee other than money or property held in trust to pay principal of and interest on particular Notes or to pay or deliver the consideration due upon exchange.
+The Company’s payment and indemnity obligations pursuant to this Section 7.06 shall also extend to the Registrar, Paying Agent and Exchange Agent hereunder, and survive the satisfaction or discharge of this Indenture, any rejection or termination of this Indenture under any bankruptcy law or the resignation or removal of the Trustee.
+Without prejudice to any other rights available to the Trustee under applicable law, when the Trustee incurs expenses after the occurrence of a Default specified in Section 6.01(h) or (i) with respect to the Company, the expenses are intended to constitute expenses of administration under the Bankruptcy Law.
+Section 7.07      Replacement of Trustee.
+The Holders of a majority in principal amount of the Notes may remove the Trustee by so notifying the Trustee and may appoint a successor Trustee.
+(iii)          a receiver or other public officer takes charge of the Trustee or its property; or
+44
+(f)            Notwithstanding the replacement of the Trustee pursuant to this Section 7.07, the Company’s obligations under Section 7.06 shall continue for the benefit of the retiring Trustee.
+Section 7.08      Successor Trustee by Merger.
+If the Trustee consolidates with, merges or converts into, or transfers all or substantially all of its corporate trust business or assets to, another corporation or banking association, the resulting, surviving or transferee corporation without any further act shall be the successor Trustee.
+Section 7.09      Eligibility; Disqualification.
+The Trustee shall at all times satisfy the requirements of Section 310(a) of the TIA.
+The Trustee shall comply with Section 310(b) of the TIA, subject to its right to apply for a stay of its duty to resign under the penultimate paragraph of Section 310(b) of the TIA; provided, however, that there shall be excluded from the operation of Section 310(b)(1) of the TIA any indenture or indentures under which other Notes or certificates of interest or participation in other Notes of the Company are outstanding if the requirements for such exclusion set forth in Section 310(b)(1) of the TIA are met.
+45
+Article VIII
+Discharge of Indenture
+Section 8.01      Discharge of Liability on Notes.
+The Trustee shall acknowledge satisfaction and discharge of this Indenture on demand of the Company accompanied by an Officers’ Certificate and an Opinion of Counsel and at the cost and expense of the Company.
+Upon satisfaction of the conditions set forth herein and upon request of the Company, the Trustee shall acknowledge in writing the discharge of those obligations that the Company terminates.
+Thereafter, the Company’s obligations in Sections 7.06, 8.05 and 8.06 shall survive such satisfaction and discharge.
+Section 8.02      Application of Trust Money.
+The Trustee shall hold in trust money or any shares of OI Inc. Common Stock due in respect of exchanged Notes deposited with it pursuant to this Article VIII.
+It shall apply the deposited money through the Paying Agent and in accordance with this Indenture to the payment of principal of and interest on the Notes or, in the case of any shares of OI Inc. Common Stock in respect of exchanged Notes, in accordance with this Indenture in relation to the exchange of Notes pursuant to the terms hereof
+Section 8.03      Repayment to Company.
+46
+must look to the Company for payment as general creditors, and the Trustee and the Paying Agent shall have no further liability with respect to such monies or shares of OI Inc. Common Stock due in respect of exchanged Notes.
+Section 8.04      Reinstatement.
+If the Trustee or Paying Agent is unable to apply any money or any shares of OI Inc. Common Stock or other property due in respect of exchanged Notes in accordance with this Article VIII by reason of any legal proceeding or by reason of any order or judgment of any court or governmental authority enjoining, restraining or otherwise prohibiting such application, the Company’s and Guarantor’s obligations under this Indenture, and OI Inc.’s obligations under this Indenture with respect to delivering the portion of the Exchange Consideration that consists of shares of OI Inc. Common Stock and the Notes shall be revived and reinstated as though no deposit had occurred pursuant to this Article VIII until such time as the Trustee or Paying Agent is permitted to apply all such money or any shares of OI Inc. Common Stock or other property due in respect of exchanged Notes in accordance with this Article VIII; provided, however, that, if the Company has made any payment of principal of or interest on any Notes because of the reinstatement of its obligations, the Company shall be subrogated to the rights of the Holders of such Notes to receive such payment from the money held by the Trustee or Paying Agent.
+Article IX
+Amendments and Waivers
+Section 9.01      Without Consent of Holders.
+The Company, the Guarantors and the Trustee may amend this Indenture or the Notes without notice to or consent of any Holder:
+(i)            cure any ambiguity, omission, defect or inconsistency in this Indenture or the Notes in a manner that does not adversely affect the rights of any Holder;
+(ii)           provide for the assumption by a Successor Company or Successor Guarantor, as the case may be, of the obligations of the Company, OI Inc., OI Group or the other Guarantors under Article V;
+(iii)          provide for the assumption of the obligations of the Company and the Guarantors to Holders of the Notes by OI Inc. in accordance with Article V and Section 11.05;
+(iv)          add additional Guarantees with respect to the Notes;
+(v)           secure the Notes;
+(vi)          add to the covenants of the Company, the Guarantors or OI Inc. or the benefit of the Holders or surrender any right or power conferred upon the Company, the Guarantors or OI Inc.;
+(vii)         make any change that does not adversely affect the rights of any Holder;
+(viii)        appoint a successor Trustee with respect to the Notes;
+47
+(ix)           comply with any requirement of the SEC in connection with the qualification of this Indenture under the Trust Indenture Act; or
+(x)            conform the provisions of this Indenture to the “Description of Notes” section in the Offering Memorandum, as supplemented by the pricing term sheet.
+The failure to give such notice to all Holders, or any defect therein, shall not impair or affect the validity of an amendment under this Section 9.01.
+Section 9.02      With Consent of Holders.
+The Company, the Guarantors and the Trustee may amend this Indenture or the Notes without notice to any Holder but with the written consent of the Holders of at least a majority in aggregate principal amount of the Notes then outstanding (including, without limitation, consents obtained in connection with a purchase of, or tender offer or exchange offer for, the Notes).
+However, without the consent of each Holder affected, an amendment may not:
+(i)            reduce the percentage in aggregate principal amount of Notes whose Holders must consent to an amendment of this Indenture or to waive any past Default;
+(iii)          reduce the principal amount, or extend the Maturity Date, of any Note;
+(iv)          make any change that impairs or otherwise adversely affects the exchange rights of any Notes;
+(v)           reduce the Fundamental Change Purchase Price of any Note or amend or modify in any manner adverse to the Holders of Notes the Company’s obligation to make such payments, whether through an amendment or waiver of provisions in the covenants, definitions or otherwise;
+(vii)         other than in accordance with the provisions of this Indenture release any Guarantor from any of its obligations under its Guarantee of the Notes;
+(viii)        impair the right of any Holder to receive payment of principal of and interest on such Holder’s Notes on or after the due dates therefor, the right to receive payment or delivery of the Exchange Consideration due upon exchange, or to institute suit for the enforcement of any payment on or with respect to such Holder’s Notes; or
+(ix)           make any change in the amendment or waiver provisions of the Indenture.
+48
+It shall not be necessary for the consent of the Holders under this Section 9.02 to approve the particular form of any proposed amendment, but it shall be sufficient if such consent approves the substance thereof.
+The failure to give such notice to all Holders, or any defect therein, shall not impair or affect the validity of an amendment under this Section 9.02.
+Section 9.03      Revocation and Effect of Consents and Waivers.
+(a)  A consent to an amendment or a waiver by a Holder of a Note shall bind the Holder and every subsequent Holder of that Note or portion of the Note that evidences the same debt as the consenting Holder’s Note, even if notation of the consent or waiver is not made on the Note.
+After an amendment or waiver becomes effective, it shall bind every applicable Holder.
+An amendment or waiver becomes effective upon the receipt by the Company or the Trustee of the requisite percentage of consents.
+(b)           The Company may, but shall not be obligated to, fix a record date for the purpose of determining the Holders entitled to give their consent or take any other action described above or required or permitted to be taken pursuant to this Indenture.
+If a record date is fixed, then notwithstanding the immediately preceding paragraph, those Persons who were Holders at such record date (or their duly designated proxies), and only those Persons, shall be entitled to give such consent or to revoke any consent previously given or to take any such action, whether or not such Persons continue to be Holders after such record date.
+Section 9.04      Notation on or Exchange of Notes.
+Failure to make the appropriate notation or to issue a new Note shall not affect the validity of such amendment.
+Section 9.05      Trustee to Sign Amendments.
+The Trustee shall sign any amendment authorized pursuant to this Article IX if the amendment does not adversely affect the rights, duties, liabilities or immunities of the Trustee.
+In signing such amendment the Trustee shall be entitled to receive indemnity reasonably satisfactory to it and shall be provided with, and (subject to Section 7.01) shall be fully protected in relying upon, an Officers’ Certificate and an Opinion of Counsel stating that such amendment is authorized or permitted by this Indenture and that such amendment is the legal, valid and binding obligation of the Company and the Guarantor enforceable against them in accordance with its terms, subject to customary exceptions, and complies with the provisions hereof.
+49
+Article X
+Guarantees
+Section 10.01    Guarantees.
+Subject to the provisions of this Article X, the Guarantors hereby, jointly and severally, fully and unconditionally, guarantee (the “Guarantee”) to each Holder and to the Trustee and its successors and assigns (x) the due and punctual payment of principal of and interest on the Notes whether at Stated Maturity, by acceleration or otherwise, and all other monetary obligations of the Company under this Indenture (including obligations to the Trustee) with respect to the Notes on a senior unsecured basis and (y) the due and punctual performance within applicable grace periods of all other obligations of the Company under this Indenture with respect to the Notes (all the foregoing being hereinafter collectively called the “Obligations”).
+The Guarantors further agree that the Obligations may be extended or renewed, in whole or in part, without notice or further assent from the Guarantors, and that the Guarantors will remain bound under this Article X notwithstanding any extension or renewal of any Obligation.
+The Guarantors waive presentation to, demand of, payment from and protest to the Company of any of the Obligations and also waive notice of protest for nonpayment.
+The Guarantors waive notice of any default under the Notes to which this Article X is applicable or the Obligations with respect thereto.
+The obligations of the Guarantors under this Section 10.01 shall not be affected by:
+(a) the failure of any Holder or the Trustee to assert any claim or demand or to enforce any right or remedy against the Company or any other Person under this Indenture, the Notes or any other agreement or otherwise;
+(b) any extension or renewal of any Obligation;
+(c) any rescission, waiver, amendment, modification or supplement of any of the terms or provisions of this Indenture (other than this Article X), the Notes or any other agreement, unless such rescission, waiver, amendment, modification or supplement expressly affects the obligations of any Guarantor under this Section 10.01;
+(d) the release of any security held by any Holder or the Trustee for the Obligations or any of them;
+(e) the failure of any Holder or Trustee to exercise any right or remedy against any other guarantor of the Obligations; or
+(f) any change in the ownership of the Company.
+The Guarantors further agree that their Guarantees herein constitute a guarantee of payment, performance and compliance when due (and not a guarantee of collection) and waive any right to require that any resort be had by any Holder or the Trustee to any security held for payment of the Obligations.
+50
+Except as set forth in this Indenture, the obligations of the Guarantors hereunder shall not be subject to any reduction, limitation, impairment or termination for any reason, including any claim of waiver, release, surrender, alteration or compromise, and shall not be subject to any defense, setoff, counterclaim, recoupment or termination whatsoever or by reason of the invalidity, illegality or unenforceability of the Obligations or otherwise.
+Without limiting the generality of the foregoing, except as set forth in this Indenture, the obligations of the Guarantors herein shall not be discharged or impaired or otherwise affected by the failure of any Holder or the Trustee to assert any claim or demand or to enforce any remedy under this Indenture, the Notes or any other agreement, by any waiver or modification of any thereof, by any default, failure or delay, willful or otherwise, in the performance of the Obligations with respect to the Notes, or by any other act or thing or omission or delay to do any other act or thing which may or might in any manner or to any extent vary the risk of the Guarantors or would otherwise operate as a discharge of the Guarantors as a matter of law or equity.
+The Guarantors further agree that their Guarantees herein shall continue to be effective or be reinstated, as the case may be, if at any time payment, or any part thereof, of any Obligation with respect to the Notes is rescinded or must otherwise be restored by any Holder or the Trustee upon the bankruptcy or reorganization of the Company or otherwise, unless such Guarantee has been released in accordance with Section 10.10.
+In furtherance of the foregoing and not in limitation of any other right which any Holder or the Trustee has or may have at law or in equity against the Guarantors by virtue hereof, upon the failure of the Company to pay any Obligation with respect to the Notes when and as the same shall become due, whether at Stated Maturity, by acceleration or otherwise, or to perform or comply with any other Obligation with respect to the Notes, the Guarantors hereby promise to and will, upon receipt of written demand by the Trustee, forthwith pay, or cause to be paid, in cash, to the Holders or the Trustee an amount equal to the sum of:
+(i) the unpaid Principal amount of such Obligations;
+(ii) accrued and unpaid interest on such Obligations (but only to the extent not prohibited by law); and
+(iii) all other monetary Obligations of the Company to the Holders of the Notes and the Trustee.
+The Guarantors agree that, as between the Guarantors, on the one hand, and the Holders and the Trustee, on the other hand, (w) the maturity of the Obligations guaranteed hereby may be accelerated as provided in Article VI for the purposes of the Guarantee herein, notwithstanding any stay, injunction or other prohibition preventing such acceleration in respect of the Obligations guaranteed hereby and (x) in the event of any declaration of acceleration of such Obligations as provided in Article VI, such Obligations (whether or not due and payable) shall forthwith become due and payable by the Guarantors for the purposes of this Section.
+The Guarantors also agree to pay any and all costs and expenses (including reasonable attorneys’ fees and expenses) incurred by the Trustee or any Holder in enforcing any rights under this Section.
+51
+Section 10.02         Limitation on Liability.Any term or provision of this Indenture to the contrary notwithstanding, the obligations of each Guarantor are limited to the maximum amount as will result in the Obligations of such Guarantor under the Guarantee not constituting a fraudulent conveyance or fraudulent transfer under federal or state law.
+Section 10.03         Execution and Delivery of Guarantees.
+To evidence its Guarantee set forth in Section 10.01, each Guarantor hereby agrees that this Indenture shall be executed on behalf of such Guarantor by its President, any Executive or Senior Vice President, Treasurer, Assistant Treasurer or one of its Vice Presidents.
+Further, the Company shall cause all future Guarantors to execute a supplemental indenture.
+Each Guarantor hereby agrees that its Guarantee set forth in Section 10.01 shall remain in full force and effect notwithstanding the absence of the endorsement or any notation of such Guarantee on the Notes.
+If an Officer whose signature is on this Indenture no longer holds that office at the time the Trustee authenticates the Notes, the Guarantee shall be valid nevertheless.
+The delivery of any Note to which this Article X is applicable by the Trustee, after the authentication thereof hereunder, shall constitute due delivery of the Guarantee set forth in this Indenture on behalf of the Guarantors.
+Section 10.04         Successors and Assigns.This Article X shall inure to the benefit of the successors and assigns of the Trustee and the Holders and, in the event of any transfer or assignment of rights by any Holder or the Trustee, the rights and privileges conferred upon that party in this Indenture and in the Notes shall automatically extend to and be vested in such transferee or assignee, all subject to the terms and conditions of this Indenture.
+Section 10.05         No Waiver.Neither a failure nor a delay on the part of either the Trustee or the Holders in exercising any right, power or privilege under this Article X shall operate as a waiver thereof, nor shall a single or partial exercise thereof preclude any other or further exercise of any right, power or privilege.
+The rights, remedies and benefits of the Trustee and the Holders herein expressly specified are cumulative and not exclusive of any other rights, remedies or benefits which either may have under this Article X at law, in equity, by statute or otherwise.
+Section 10.06         Right of Contribution.Each Guarantor hereby agrees that to the extent that a Guarantor shall have paid more than its proportionate share of any payment made hereunder, such Guarantor shall be entitled to seek and receive contribution from and against any other Guarantor hereunder who has not paid its proportionate share of such payment.
+Each Guarantor’s right of contribution shall be subject to the terms and conditions of Section 10.06.
+The provisions of this Section shall in no respect limit the obligations and liabilities of any Guarantor to the Trustee and the Holders and each Guarantor shall remain liable to the Trustee and the Holders for the full amount guaranteed by such Guarantor hereunder.
+Section 10.07         No Subrogation.Notwithstanding any payment or payments made by any of the Guarantors hereunder, no Guarantor shall be entitled to be subrogated to any of the
+52
+rights of the Trustee or any Holder against the Company or any other Guarantor or any collateral security or guarantee or right of offset held by the Trustee or any Holder for the payment of the Obligations, nor shall any Guarantor seek or be entitled to seek any contribution or reimbursement from the Company or any other Guarantor in respect of payments made by such Guarantor hereunder, until all amounts owing to the Trustee and the Holders by the Company on account of the Obligations are paid in full.
+Domestic Subsidiaries that are Guarantors on the date any such supplement is executed by an additional Domestic Subsidiary shall not be required to become parties to such supplement and hereby agree to the execution and delivery by any additional Domestic Subsidiary of any such supplement.
+Section 10.09         Modification.No modification, amendment or waiver of any provision of this Article X, nor the consent to any departure by the Guarantors therefrom, shall in any event be effective unless the same shall be in writing and signed by the Trustee, and then such waiver or consent shall be effective only in the specific instance and for the purpose for which given, it being understood that the release of the Guarantees of Guarantors pursuant to Section 10.10 shall not be an amendment or waiver of any provision of this Article X and shall not require any action on the part of the Trustee.
+No notice to or demand on the Guarantors in any case shall entitle the Guarantors to any other or further notice or demand in the same, similar or other circumstances.
+Section 10.10         Release of Guarantor.
+If any such Domestic Subsidiary thereafter guarantees obligations under the Credit Agreement (or any released Guarantee under the Credit Agreement is reinstated or renewed), then such Domestic Subsidiary will guarantee the Notes in accordance with this Article X.
+53
+(b)           A Guarantor shall be released from its Obligations under this Indenture and Guarantee if such Guarantor sells or otherwise disposes of all or substantially all of its assets to, or consolidates with or merges with or into another Person or upon any sale of all of the Capital Stock of a Guarantor to another person, other than the Company or another Guarantor and the consolidation, merger or sale, assignment, conveyance, transfer or other disposition is effected in accordance with Section 5.01(b)(ii).
+(c)           A Guarantor shall be released from its obligations under this Indenture in accordance with an assignment of obligations to OI Inc. pursuant to Section 5.02 or in connection with the merger or consolidation of the Company or any of the Guarantors with or into any other of the Company, OI Group or any of the Guarantors or the sale, assignment conveyance, transfer, lease or other disposition of assets between or among the Company, OI Group and any of the Guarantors, so long as such transaction complies with Section 5.01(b)(ii).
+Article XI
+Exchange of Notes
+(a)           Exchange Upon Satisfaction of Sale Price Condition.
+(b)           Exchange Upon Satisfaction of Trading Price Condition.
+54
+The Bid Solicitation Agent shall have no obligation to determine the Trading Price of the Notes on a date of determination unless the Company has requested that the Bid Solicitation Agent make such determination.
+(c)           Exchange Upon Certain Distributions.
+55
+Inc.’s announcement that such distribution will not take place.
+A Holder may not exchange any of its Notes based on this exchange contingency if such Holder will otherwise participate in the distribution without exchange (based upon the Exchange Rate and upon the same terms as holders of OI Inc. Common Stock) as a result of holding the Notes.
+(d)           Exchange Upon Certain Corporate Events.
+Section 11.02         Exchange Procedures; Settlement Upon Exchange; Fractional Shares.
+(a) In order to exercise the exchange right with respect to any Notes in certificated form, a Holder must:
+56
+(iii)          to the extent any shares of OI Inc. Common Stock issuable by OI Inc. upon exchange are to be issued in a name other than the Holder’s, furnish endorsements and transfer documents as may be required by the Exchange Agent;
+In order to exercise the exchange right with respect to any beneficial interest in a Global Note, a Holder must:
+(A)          comply with the Depositary’s procedures for exchanging a beneficial interest in a Global Note;
+(B)           to the extent any shares of OI Inc. Common Stock issuable by OI Inc. upon exchange are to be issued in a name other than the Holder’s, furnish endorsements and transfer documents as may be required by the Exchange Agent;
+(C)           if required pursuant to Section 11.02(g), pay all transfer or similar taxes or duties; and
+The date that the Holder satisfies the foregoing requirements with respect to a Note is the “Exchange Date”.
+A Holder is not entitled to any rights of a holder of OI Inc. Common Stock until such Holder has exchanged its Notes into shares of OI Inc. Common Stock, and only to the extent such Notes are deemed to have been exchanged to OI Inc. Common Stock under this Article XI.
+Each Holder which exchanges Notes for OI Inc. Common Stock will be deemed to have represented to the Company and OI Inc. that it is a QIB.
+(b)           Upon exchange of any Note, the Exchange Obligation shall be satisfied by the Company’s paying cash and OI Inc.’s delivering shares of OI Inc. Common Stock, if any, together with cash in lieu of fractional shares (the “Exchange Consideration”).
+57
+shares of OI Inc. Common Stock issuable upon exchange as determined in accordance with Section 11.02(i).
+(c)           OI Inc.’s only obligation in connection with a Holder’s exercise of its exchange rights under this Indenture is to deliver the portion of the Exchange Consideration that consists of shares of OI Inc. Common Stock.
+As a result, in the case of any failure to deliver the Exchange Consideration to an exchanging Holder upon such Holder’s exercise of its exchange rights under this Indenture, such Holder’s only claim with respect to OI Inc. would be for the portion of the Exchange Consideration that consists of shares of OI Inc. Common Stock (or cash in lieu of a fractional share of OI Inc. Common Stock), and such Holder’s only claim with respect to the Company would be for the portion of the Exchange Consideration that consists of cash (other than any portion that corresponds to a fractional share of OI Inc. Common Stock).
+(d)           If more than one Note shall be surrendered for exchange at one time by the same Holder, the Exchange Obligation with respect to such Notes, if any, that shall be payable upon exchange shall be computed on the basis of the aggregate principal amount of the Notes (or specified portions thereof to the extent permitted thereby) so surrendered.
+(f)            Upon the exchange of an interest in a Global Note, the Trustee and the Depositary shall reduce the principal amount of such Global Note in their records.
+(g)           The issue of stock certificates on exchanges of Notes shall be made without charge to the exchanging Holder for any documentary, stamp or similar issue or transfer tax in respect of the issue thereof.
+The Company shall not, however, be required to pay any such tax which may be payable in respect of any transfer involved in the issue and delivery of stock in any name other than that of the Holder of any Notes exchanged, and OI Inc. shall not be required to issue or deliver any such stock certificate unless and until the Person or Persons requesting the
+58
+issue thereof shall have paid to the Company the amount of such tax or shall have established to the satisfaction of the Company that such tax has been paid.
+The Company’s delivery to an exchanging Holder of the cash portion of the Exchange Obligation and OI Inc.’s delivery to such exchanging Holder of the portion of the Exchange Consideration consisting of shares of OI Inc. Common Stock, if any, together with any cash payment for any fractional share issuable upon exchange, will be deemed to satisfy in full the Company’s obligation to pay the principal amount of the Notes so exchanged and accrued and unpaid interest to, but not including, the Exchange Date.
+As a result, upon exchange, accrued and unpaid interest to, but not including, the Exchange Date will be deemed to be paid in full rather than cancelled, extinguished or forfeited.
+(C)           to the extent of any overdue interest, if any overdue interest exists at the time of exchange with respect to such Notes.
+(i)            No fractional shares of OI Inc. Common Stock shall be issued by OI Inc. upon exchange of any Note or Notes.
+Section 11.03         Adjustment to Exchange Rate Upon Exchange Upon a Make-Whole Fundamental Change.
+59
+(b)           The number of Additional Shares by which the Exchange Rate shall be increased for exchanges that occur during the Make-Whole Fundamental Change Period will be determined by reference to the table below, based on the applicable Effective Date and applicable Stock Price paid or deemed paid per share of OI Inc. Common Stock in the Make-Whole Fundamental Change.
+(c)           The Stock Prices set forth in the first row of the table below (i.e., column headings) shall be adjusted as of any date on which the applicable Exchange Rate is otherwise adjusted.
+The adjusted Stock Prices will equal the Stock Prices applicable immediately prior to such adjustment, multiplied by a fraction, the numerator of which is the applicable Exchange Rate immediately prior to the adjustment giving rise to the Stock Price adjustment and the denominator of which is the applicable Exchange Rate as so adjusted.
+The number of Additional Shares set forth in such table shall be adjusted in the same manner as the Exchange Rate pursuant to Section 11.04.
+(d)           The following table sets forth the number of Additional Shares by which the Exchange Rate shall be increased based on the Stock Price and Effective Date:
+Effective
+Date
+May 7, 2010
+8.4256
+8.4256
+8.4256
+0.9787
+8.4256
+8.4256
+0.3179
+8.4256
+3.9358
+—
+—
+—
+—
+—
+—
+—
+—
+The exact Stock Prices and Effective Dates may not be set forth in the table above, in which case:
+(i)            if the Stock Price is between two Stock Prices in the table or the Effective Date is between two Effective Dates in the table, the number of Additional Shares will be determined by a straight-line interpolation between the number of Additional Shares set forth for the higher and lower Stock Prices and the earlier and later Effective Dates, as applicable, based on a 365-day year;
+(ii)           if the Stock Price is greater than $120.00 per share (subject to adjustment in the same manner as the Stock Prices set forth in the column headings of the table above pursuant to Section 11.03(c)), the Exchange Rate will not be increased;
+60
+Section 11.04         Adjustment of Exchange Rate.
+The Exchange Rate shall be adjusted as described below, except that the Company will not make any adjustments to the Exchange Rate if Holders participate, as a result of holding Notes and at the same time and upon the same terms as holders of OI Inc. Common Stock participate, in any of the transactions described in Section 11.04(a), Section 11.04(b), Section 11.04(c), and Section 11.04(d), without having to exchange their Notes as if such Holders held a number of shares of OI Inc. Common Stock equal to the applicable Exchange Rate immediately prior to the Ex-Dividend Date for such event multiplied by the principal amount (expressed in thousands) of Notes held by such Holders, without having to exchange such Notes.
+If any dividend, distribution or issuance described below is declared but not so paid or made, the Exchange Rate shall again be adjusted, effective as of the date OI Inc.’s Board of Directors publicly announces its decision not to make such dividend, distribution or issuance, to the Exchange Rate that would have been in effect if such dividend, distribution or issuance had not been declared.
+(a)           If the OI Inc. issues to all or substantially all of the holders of OI Inc. Common Stock solely shares of OI Inc. Common Stock as a dividend or distribution on all or substantially all of the shares of OI Inc. Common Stock, or if OI Inc. effects a share split or share
+61
+combination of OI Inc. Common Stock, the Exchange Rate will be adjusted based on the following formula:
+ER = ER0
+x
+OS
+OS0
+where,
+OS0           =        the number of shares of OI Inc. Common Stock outstanding immediately prior to such dividend, distribution, share split or share combination, as the case may be; and
+OS                          =        the number of shares of OI Inc. Common Stock outstanding immediately after such dividend, distribution, share split or share combination, as the case may be.
+Any adjustment made pursuant to this Section 11.04(a)  shall become effective immediately after 9:00 a.m., New York City time, on the Ex-Dividend Date for such dividend or distribution or effective date of such share split or share combination, as the case may be.
+ER = ER0
+x
+OS0 + X
+OS0 + Y
+where,
+62
+X                                 =        the total number of shares of OI Inc. Common Stock issuable pursuant to such rights, options or warrants; and
+To the extent that such rights, options or warrants are not exercised prior to their expiration or shares of OI Inc. Common Stock are otherwise not delivered pursuant to such rights, options or warrants upon the exercise of such rights, options or warrants, the Exchange Rate shall be readjusted to the Exchange Rate that would then be in effect had the adjustment made upon the issuance of such rights, options or warrants been made on the basis of the delivery of only the number of shares of OI Inc. Common Stock actually delivered.
+For purposes of this Section 11.04(b), in determining whether any rights, options or warrants entitle the Holders to subscribe for or purchase OI Inc. Common Stock at a price per share less than the average of the Last Reported Sale Prices of OI Inc. Common Stock for each Trading Day in the applicable ten consecutive Trading Day period, there shall be taken into account any consideration received for such rights, options or warrants and any amount payable on exercise thereof, with the value of such consideration, if other than cash, to be determined by OI Inc.’s Board of Directors.
+(c)           If OI Inc. distributes shares of its Capital Stock, evidences of its indebtedness, rights, options, warrants to acquire its Capital Stock or other securities or other assets or property of OI Inc. to all or substantially all holders of its OI Inc. Common Stock, excluding:
+(i)            dividends or distributions (including share splits) described in Section 11.04(a) or (b) above;
+(ii)           dividends or distributions paid described in Section 11.04(d) below; and
+(iii)          Spin-Offs to which the provisions set forth below in this Section 11.04(c) shall apply; and
+(iv)          any dividends or distributions in connection with a Reorganization Event; then the applicable Exchange Rate will be adjusted based on the following formula:
+63
+ER = ER0
+x
+SP0
+SP0 – FMV
+where,
+FMV               =        the fair market value (as determined by OI Inc.’s Board of Directors) of the shares of capital stock, evidences of indebtedness, rights, options, warrants to acquire its Capital Stock or other securities or other assets or property distributed with respect to each outstanding share of OI Inc. Common Stock on the Ex-Dividend Date for such distribution.
+With respect to an adjustment pursuant to this Section 11.04(c) where there has been a payment of a dividend or other distribution on OI Inc. Common Stock of shares of Capital Stock of any class or series, or similar equity interest, of or relating to a subsidiary, affiliate or other business unit of OI Inc. that will be listed or quoted (or will be listed or quoted upon consummation of the payment) on a national securities exchange or reasonably comparable non-U.S. equivalent (a “Spin-Off”), the applicable Exchange Rate will be increased based on the following formula:
+64
+ER = ER0
+x
+FMV + MP0
+MP0
+where,
+For purposes of determining the applicable Exchange Rate in respect of any exchange during the ten Trading Days commencing on the effective date for any Spin-Off, the reference within this portion of the Section 11.04(c) related to “Spin-Offs” to ten Trading Days shall be deemed replaced with such lesser number of Trading Days as have elapsed from, but not including, the effective date for such Spin-Off to, but excluding, the relevant Exchange Date.
+(d)           If OI Inc. makes or pays any cash dividend or distribution to all or substantially all holders of OI Inc. Common Stock, the applicable Exchange Rate will be increased based on the following formula:
+ER = ER0
+x
+SP0
+SP0 – C
+where,
+65
+ER = ER0
+x
+AC + (SP x OS)
+SP x OS0
+where,
+ER0           =        the applicable Exchange Rate in effect immediately prior to 9:00 a.m., New York City time, on the Trading Day next succeeding the Expiration Date;
+66
+ER                           =        the applicable Exchange Rate in effect immediately after 9:00 a.m., New York City time, on the Trading Day next succeeding the Expiration Date;
+AC                        =        the aggregate value of all cash and any other consideration (as determined by OI Inc.’s Board of Directors) paid or payable for shares purchased in such tender or exchange offer;
+SP                            =        the average of the Last Reported Sale Prices of OI Inc. Common Stock over the ten consecutive Trading Day period commencing on, and including, the Trading Day next succeeding the Expiration Date.
+Any adjustment to the applicable Exchange Rate made pursuant to this Section 11.04(e) shall become effective at 9:00 a.m., New York City time, on the Trading Day next succeeding the Expiration Date.
+For purposes of determining the applicable Exchange Rate, in respect of any exchange during the 10 Trading Days commencing on the Trading Day next succeeding the Trading Day next succeeding the Expiration Date, references within this Section 11.04(e) to ten Trading Days shall be deemed replaced with such lesser number of Trading Days as have elapsed from, but not including, the Trading Day next succeeding the Expiration Date to, but excluding, the relevant Exchange Date.
+(f)            Notwithstanding the foregoing, if any adjustment to the Exchange Rate described in Section 11.04 (a) through (e), above, becomes effective and a Holder that has exchanged its Notes:
+(ii)           is a record holder of such shares of OI Inc. Common Stock on the record date for the dividend, distribution or other event giving rise to the adjustment or otherwise participates in such dividend, distribution or other event giving rise to the adjustment as a result of holding such shares of OI Inc. Common Stock,
+67
+If a Holder exchanges a Note, and on any Trading Day within the Cash Settlement Averaging Period applicable to such Note any distribution or transaction described in Section 11.04(a) through (e) above has not yet resulted in an adjustment to the applicable Exchange Rate on the Trading Day in question, then the Company shall adjust the amount of cash that the Company Pays and/or the number of shares of OI Inc. Common Stock that OI Inc. delivers, if applicable, to such Holder in respect of such Trading Day to reflect the relevant distribution or transaction.
+(g)           To the extent permitted by law and any applicable stock exchange rules, the Company may increase the applicable Exchange Rate by any amount for a period of at least 20 Business Days.
+The Company may also (but shall not required to), in addition to any adjustment required pursuant to Section 11.04(a), (b), (c), (d) or (e), increase the applicable Exchange Rate to avoid or diminish income tax to holders of OI Inc. Common Stock or rights to purchase shares of OI Inc. Common Stock in connection with a dividend or distribution of shares (or rights to acquire shares) or similar event.
+Unless and until a Responsible Officer of the Trustee shall have received such Officers’ Certificate, the Trustee shall not be deemed to have knowledge of any adjustment of the Exchange Rate and may assume without inquiry that the last Exchange Rate of which it has knowledge is still in effect.
+(i)            For purposes of this Section 11.04, the number of shares of OI Inc. Common Stock at any time outstanding shall not include shares held in the treasury of OI Inc. or by its Subsidiaries so long as OI Inc. does not pay any dividend or make any distribution on shares of OI Inc. Common Stock held in the treasury of OI Inc. or its Subsidiaries, but shall include shares issuable in respect of scrip certificates issued in lieu of fractions of shares of OI Inc. Common Stock.
+(j)            The Company shall not take any action that would result in adjustment of the Exchange Rate, pursuant to the provisions described above, in such a manner as to result in the reduction of the Exchange Price to less than the par value per share of OI Inc. Common Stock.
+The Company shall not be required to make an adjustment in the Exchange Rate unless the adjustment would require a change of at least 1% in the Exchange Rate.
+However, the Company shall carry forward any adjustments that are less than 1% of the Exchange Rate and make such carried forward adjustment, regardless of whether the aggregate
+68
+adjustment is less than 1%, (i) upon any Exchange of Notes, and (ii) on each Trading Day of any Cash Settlement Averaging Period.
+Section 11.05         Recapitalizations, Reclassifications and Changes of OI Inc. Common Stock.
+In the case of:
+(i)            any recapitalization, reclassification or change of OI Inc. Common Stock (other than changes resulting from a subdivision, combination or change in par value);
+(ii)           any consolidation, merger, combination or binding share exchange involving OI Inc.; or
+(iii)          any sale or conveyance to another person of all or substantially all of the property and assets of OI Inc. and its Subsidiaries substantially as an entirety,
+If the Reorganization Event causes OI Inc. Common Stock to be converted into, or exchanged for, the right to receive more than a single type of consideration (determined based in part upon any form of stockholder election), the Reference Property based on which the Notes will be exchangeable will be deemed to be the weighted average of the types and amounts of consideration received by the holders of OI Inc. Common Stock that affirmatively make such an
+69
+Any supplemental indenture entered into pursuant to this Section 11.05 shall provide for adjustments which shall be as nearly equivalent as may be practicable to the adjustments provided for in this Article XI in the judgment of the Company’s Board of Directors or the Board of Directors of the Successor Company.
+If, in the case of any such Reorganization Event, the Reference Property receivable thereupon by a holder of OI Inc. Common Stock includes shares of stock, securities or other property or assets (including cash or any combination thereof) of a Person other than the Successor Company, as the case may be, in such Reorganization Event, then such supplemental indenture shall also be executed by such other Person.
+Failure to deliver such notice shall not affect the legality or validity of such supplemental indenture.
+The above provisions of this Section 11.05 shall similarly apply to successive Reorganization Events.
+If this Section 11.05 applies to any Reorganization Event, Section 11.04 shall not apply.
+Section 11.06         Certain Covenants.
+OI Inc. shall, prior to the Company’s issuance of any Notes hereunder, and from time to time as may be necessary, reserve out of OI Inc.’s authorized but unissued OI Inc. Common Stock or shares of OI Inc. Common Stock held in treasury, a sufficient number of shares of OI Inc. Common Stock, free of preemptive rights, to permit the issuance of the maximum number of shares of OI Inc. Common Stock issuable at such time upon exchange of the Notes and without assuming any adjustments to the conversion rate pursuant to Section 11.04.
+(a)           OI Inc. covenants that all shares of OI Inc. Common Stock issued upon exchange of Notes will be duly and validly issued and fully paid and non-assessable and free from all taxes, liens and charges with respect to the issue thereof.
+(b)           OI Inc. shall endeavor promptly to comply with all federal and state securities laws regulating the issuance and delivery of shares of OI Inc. Common Stock upon the exchange of Notes, if any, and shall cause to have listed or quoted and shall keep listed or quoted all such shares of OI Inc. Common Stock on each U.S. national securities exchange or automatic quotation system or over-the-counter or other domestic market on which the OI Inc. Common Stock is then listed or quoted.
+Section 11.07         Notice to Holders Prior to Certain Actions    Except where notice is required pursuant to Section 11.01, in case:
+(a)           OI Inc. shall declare a dividend (or any other distribution) on its OI Inc. Common Stock that would require an adjustment in the Exchange Rate pursuant to Section 11.04; or
+70
+(b)           OI Inc. shall authorize the granting to all or substantially all of the holders of its OI Inc. Common Stock of rights, options or warrants to subscribe for or purchase any share of any class or any other rights, options or warrants that would require an adjustment in the Exchange Rate pursuant to Section 11.04; or
+(c)           of any reclassification of the OI Inc. Common Stock (other than a share split or share combination of its outstanding OI Inc. Common Stock, or a change in par value), or of any share exchange, consolidation or merger to which OI Inc. is a party and for which approval of any shareholders of OI Inc. is required, or of the conveyance, transfer, sale, lease or other disposition of all or substantially all of the consolidated assets of OI Inc.; or
+Failure to give such notice, or any defect therein, shall not affect the legality or validity of such dividend, distribution, reclassification, consolidation, merger, sale, transfer, dissolution, liquidation or winding up.
+Section 11.08         Shareholder Rights Plans.
+If the rights provided for in any rights plan adopted by OI Inc. and in effect upon exchange of the Notes have not separated from the shares of OI Inc. Common Stock in accordance with the provisions of the applicable shareholder rights agreement, upon exchange of Notes, the exchanging Holder will receive, in addition to shares of OI Inc. Common Stock, if any, the rights under the applicable shareholder rights agreement.
+If such rights have separated from the OI Inc. Common Stock, the applicable Exchange Rate will be adjusted as provided in Section 11.04(c), subject to readjustment in the event of the expiration, termination or redemption of such rights.
+Section 11.09         Responsibility of Trustee.
+The Trustee and any other Exchange Agent shall not at any time be under any duty or responsibility to any Holder of Notes to determine the Exchange Rate or whether any facts exist that may require any adjustment (including any increase) of the Exchange Rate, or with respect to the nature or extent or calculation of any such adjustment when made, or with respect to the method employed, or herein or in any supplemental indenture provided to be employed, in making the same.
+The Trustee and any other Exchange Agent shall not be accountable with respect to the validity or
+71
+value (or the kind or amount) of any shares of OI Inc. Common Stock, or of any securities, property or cash that may at any time be issued or delivered upon the exchange of any Note; and the Trustee and any other Exchange Agent make no representations with respect thereto.
+Neither the Trustee nor any Exchange Agent shall be responsible for any failure of OI Inc. to issue, transfer or deliver any shares of OI Inc. Common Stock or stock certificates upon the surrender of any Note for the purpose of exchange or to comply with any of the duties, responsibilities or covenants of OI Inc. contained in this Article XI.
+Without limiting the generality of the foregoing, neither the Trustee nor any Exchange Agent shall be under any responsibility to determine the correctness of any provisions contained in any supplemental indenture entered into pursuant to Section 11.05 relating either to the kind or amount of shares of stock or securities or property (including cash) receivable by Holders of the Notes upon the exchange of their Notes after any event referred to in such Section 11.05 or to any adjustment to be made with respect thereto, but, subject to the provisions of Section 9.02, may accept as conclusive evidence of the correctness of any such provisions, and shall be protected in relying upon, the Officers’ Certificate (which the Company shall be obligated to file with the Trustee prior to the execution of any such supplemental indenture) with respect thereto.
+Section 11.10         Certain Other Adjustments.Whenever a provision of this Indenture requires the calculation of Last Reported Sale Prices, Daily VWAP or functions thereof over a span of multiple days, the Company will make appropriate adjustments to account for any adjustment to the Exchange Rate that becomes effective, or any event requiring an adjustment to the Exchange Rate where the Ex-Dividend Date, effective date or Expiration Date, as the case may be, of the event occurs, at any time during or before the period from which such prices are to be calculated.
+The Trustee and Exchange Agent shall not be requested to confirm any such calculations and shall be entitled to rely on such calculations and be held harmless with respect thereto.
+Article XII
+Miscellaneous
+Section 12.01         Indenture Subject to Trust Indenture Act.
+This Indenture is subject to the provisions of the TIA that are required to be part of this Indenture, and shall, to the extent applicable, be governed by such provisions.
+Section 12.02         Notices.
+72
+Owens-Brockway Glass Container, Inc.
+Notices will be deemed to have been given on the date of such mailing.
+73
+Section 12.03         Communication by Holders with Other Holders.
+Holders may communicate pursuant to TIA Section 312(b) with other Holders with respect to their rights under this Indenture or the Notes.
+The Company, OI Inc., the Guarantors, the Trustee, the Registrar and anyone else shall have the protection of TIA Section 312(c).
+Section 12.04         Certificate and Opinion as to Conditions Precedent.
+Upon any request or application by the Company to the Trustee to take any action under this Indenture, the Company shall furnish to the Trustee:
+(b)           an Opinion of Counsel stating that, in the opinion of such counsel, all such conditions precedent have been complied with.
+Section 12.05         Statements Required in Certificate or Opinion.
+Each certificate or opinion with respect to compliance with a condition or covenant provided for in this Indenture (other than the certificate provided for in Section 4.05) shall include:
+(a)           a statement that the Person making such certificate or opinion has read such covenant or condition;
+(b)           a brief statement as to the nature and scope of the examination or investigation upon which the statements or opinions contained in such certificate or opinion are based;
+(c)           a statement that, in the opinion of such Person, he or she has made such examination or investigation as is necessary to enable him or her to express an informed opinion as to whether or not such covenant or condition has been complied with; and
+(d)           a statement as to whether or not, in the opinion of such Person, such condition or covenant has been complied with; provided, however, that with respect to matters of fact an Opinion of Counsel may rely on an officer’s certificate or certificates of public officials.
+Section 12.06         When Notes Disregarded.
+In determining whether the Holders of the required principal amount of Notes have concurred in any direction, waiver or consent, Notes owned by the Company, OI Inc., any of the Guarantors or by any Person directly or indirectly controlling or controlled by or under direct or indirect common control with the Company, OI Inc. or any of the Guarantors shall be disregarded and deemed not to be outstanding, except that, for the purpose of determining whether the Trustee shall be protected in relying on any such direction, waiver or consent, only Notes which the Trustee knows are so owned shall be so disregarded.
+Subject to the foregoing, only Notes outstanding at the time shall be considered in any such determination.
+Section 12.07         Rules by Trustee, Paying Agent and Registrar.
+The Trustee as to Notes may make reasonable rules for action by or at a meeting of Holders of Notes.
+The
+74
+Registrar and any Paying Agent or Authenticating Agent may make reasonable rules and set reasonable requirements for their functions.
+Section 12.08         GOVERNING LAW.
+Section 12.09         No Recourse Against Others.
+A past, present or future director, officer, employee, incorporator or stockholder, as such, of the Company, OI Inc. or any Guarantor, if any, or any successor corporation shall not have any liability for any obligations of the Company, OI Inc.  or any Guarantor, if any, under the Notes, this Indenture or the Guarantees of the Notes, if any, or for any claim based on, in respect of, or by reason of such obligations or their creation.
+Each Holder by accepting a Note waives and releases all such liability.
+The waiver and release are part of the consideration of issuance of the Notes.
+Section 12.10         Successors.
+All covenants and agreements of the Company in this Indenture and the Notes shall bind its successors and assigns.
+All agreements of the Trustee in this Indenture shall bind its successor.
+Section 12.11         Multiple Originals.
+This Indenture may be executed by the parties hereto in separate counterparts, each of which when so executed shall be deemed to be an original and all of which taken together shall constitute one and the same agreement.
+Section 12.12         Effect of Headings, Table of Contents, Etc.
+The Article and Section headings herein and the table of contents are for convenience only and shall not affect the construction hereof.
+Section 12.13         Indenture Controls..
+This Indenture may not be used to interpret another indenture, loan or debt agreement of the Company or any Subsidiary.
+Any such indenture, loan or debt agreement may not be used to interpret this Indenture.
+Section 12.14         Calculations.
+Except as otherwise provided in this Indenture, the Company will be responsible for making all calculations called for under this Indenture and the Notes.
+These calculations include, but are not limited to, determinations of the Last Reported Sale Prices of OI Inc. Common Stock, accrued interest payable on the Notes and the applicable Exchange Rate.
+The Company shall make all these calculations in good faith and, absent manifest error, the Company’s calculations will be final and binding on Holders.
+The Company will provide a schedule of its calculations to each of the Trustee and the Exchange Agent, and each of the Trustee and Exchange Agent shall be entitled to rely conclusively upon the accuracy of our calculations without independent verification.
+Section 12.15         Severability.
+In case any provision in this Indenture or in the Notes shall be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby.
+75
+IN WITNESS WHEREOF, the parties have caused this Indenture to be duly executed as of the date first written above.
+Very truly yours,
+By
+Name:
+Title:
+By
+Name:
+Title:
+By
+Name:
+Title: Vice President, Director of Finance and Secretary
+On behalf of each entity named on the attached Annex A, in the capacity set forth for such entity on such Annex A.
+By
+Name:
+Title:
+76
+By
+Name:
+Title:
+77
+ANNEX A
+GUARANTORS
+Name of Entity
+Title of Officer Executing on
+Behalf of Such Entity
+Vice President and Secretary
+Brockway Realty Corporation
+Vice President and Secretary
+NHW Auburn, LLC
+Senior Vice President and Secretary of its sole member
+OI Auburn Inc.
+Vice President and Secretary
+OI Australia Inc.
+Vice President and Secretary
+OI California Containers Inc.
+Vice President and Secretary
+OI Castalia STS Inc.
+Vice President and Secretary
+OI General Finance Inc.
+Vice President and Secretary
+OI General FTS Inc.
+Vice President and Secretary
+O-I Holding LLC
+Vice President and Secretary of its sole member
+OI International Holdings Inc.
+Vice President and Secretary
+OI Levis Park STS Inc.
+Vice President and Secretary
+OI Puerto Rico STS Inc.
+Vice President and Secretary
+Vice President and Secretary
+Vice President and Secretary
+Owens-Illinois General Inc.
+Vice President and Secretary
+Vice President, Director of Finance and Secretary
+SeaGate, Inc.
+Vice President and Secretary
+SeaGate II, Inc.
+Vice President and Secretary
+A-1
+Vice President and Secretary
+Universal Materials, Inc.
+Vice President and Secretary
+A-2
+EXHIBIT A
+[FORM OF FACE OF NOTE]
+[Global Notes Legend]
+[Restricted Legend]
+THIS SECURITY HAS NOT BEEN REGISTERED UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), AND ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT AS SET FORTH IN THE FOLLOWING SENTENCE.
+A-1
+A-2
+No.
+$
+CUSIP No.
+69073TAQ6
+ISIN No.
+US69073TAQ67
+Any such interest not so punctually paid or duly provided for will forthwith cease to be payable to the Holder on such Regular Record Date and will be payable to Holders on a subsequent special record date.
+Additional provisions of this Note are set forth on the other side of this Note.
+A-3
+IN WITNESS WHEREOF, the parties have caused this instrument to be duly executed.
+By:
+Name:
+Title:
+Dated:
+AUTHENTICATION
+as Trustee, certifies that this
+is one of the Notes
+referred to in the Indenture.
+By:
+Authorized Signatory
+* If the Note is to be issued in global form, add the Global Notes Legend
+A-4
+[FORM OF REVERSE SIDE OF NOTE]
+The terms of the Notes include those stated in the Indenture.
+Terms defined in the Indenture and not defined herein have the meanings ascribed thereto in the Indenture.
+The Notes are subject to all terms and provisions of the Indenture, and Holders are referred to the Indenture for a statement of such terms and provisions.
+1.
+Interest
+Interest on the Notes shall accrue from the most recent date to which interest has been paid or duly provided for or, if no interest has been paid or duly provided for, from May 7, 2010, until the principal hereof is due.
+All references herein to “interest” shall include any Registration Default Additional Interest, if any, and Reporting Default Additional Interest, if any.
+2.
+A-5
+3.
+The Company or any of its Wholly Owned Domestic Subsidiaries may act as Paying Agent or Registrar.
+4.
+Ranking
+The Notes are senior unsecured obligations of the Company.
+This Note is one of the Notes referred to in the Indenture.
+The Notes are treated as a single class of Notes under the Indenture.
+The Guarantors will fully and unconditionally guarantee, jointly and severally, the Obligations on a senior basis pursuant to the terms of the Indenture.
+5.
+Merger Covenant
+The Indenture imposes limitations on the ability of the Company, OI Group, OI Inc., and the Guarantors to consolidate or merge with or into any other Person or convey, transfer or lease all or substantially all its property.
+6.
+Sinking Fund
+The Notes are not subject to any sinking fund.
+7.
+8.
+Exchange Rights
+Subject to the provisions of the Indenture, the Holder hereof has the right, at its option, during certain periods and upon the occurrence of certain conditions specified in the Indenture and prior to 5:00 p.m., New York City time, on the second Scheduled Trading Day
+A-6
+Upon exchange, the Exchange Obligation shall be satisfied by delivery of cash by the Company and the delivery of shares of OI Inc. Common Stock, if any, by OI Inc.
+No fractional shares of OI Inc. Common Stock will be issued upon any exchange, but an adjustment in cash will be paid to the Holder by OI Inc., as provided in the Indenture, in respect of any fraction of a share that would otherwise be issuable by OI Inc. upon the surrender of any Note or Notes for exchange.
+No adjustment shall be made for dividends or any shares issued upon exchange of such Notes except as provided in the Indenture.
+OI Inc.’s only obligation in connection with a Holder’s exercise of its exchange rights under the Indenture is to deliver the portion of the Exchange Consideration that consists of shares of OI Inc. Common Stock.
+As a result, in the case of any failure to deliver the Exchange Consideration to an exchanging Holder upon such Holder’s exercise of its exchange rights under the Indenture, such Holder’s only claim with respect to OI Inc. would be for the portion of the Exchange Consideration that consists of shares of OI Inc. Common Stock (or cash in lieu of a fractional share of OI Inc. Common Stock), and such Holder’s only claim with respect to the Company would be for the portion of the Exchange Consideration that consists of cash (other than any portion that corresponds to a fractional share of OI Inc. Common Stock).
+9.
+Denominations; Transfer; Exchange
+The Registrar need not register transfers or exchanges of Notes or portions thereof surrendered for exchange pursuant to Article XI or any Notes tendered for purchase upon a Fundamental Change pursuant to Article III.
+The Notes will be resold only to “qualified institutional buyers” under Rule 144A of the Securities Act of 1933, as amended (“QIBs”), in reliance on Rule 144A.
+Notes shall be resold pursuant to Rule 144A and shall be issued initially in the form of Restricted Global Notes, without interest coupons and with the Global Notes Legend and the applicable Restricted Legend as provided in the Indenture, which shall be deposited on behalf of the purchasers of the Notes represented thereby with the Notes Custodian and registered in the name of the Depositary or a nominee of the Depositary, duly executed by the Company and authenticated by the Trustee as provided in the Indenture.
+A-7
+Each Holder which exchanges Notes for OI Inc. Common Stock will be deemed to have represented to the Company and OI Inc. that it is a QIB.
+10.
+Persons Deemed Owners
+The registered Holder of this Note may be treated as the owner of it for all purposes.
+11.
+Unclaimed Money
+After any such payment, Holders entitled to the money or any shares of OI Inc. Common Stock or other property due in respect of exchanged Notes must look to the Company or OI Inc., as the case may be, for payment as general creditors and the Trustee and the Paying Agent shall have no further liability with respect to such monies.
+12.
+Discharge
+Subject to certain conditions, the Company and OI Inc. may satisfy and discharge its respective obligations under the Notes and the Indenture if the Company deposits with the Trustee, after the Notes have become due and payable, whether at Stated Maturity or on a Fundamental Change Purchase Date or upon exchange or otherwise, money for the payment of principal and interest, if any, on the Notes prior to repurchase or maturity, as the case may be, and OI Inc. deposits with the Trustee shares of OI Inc. Common Stock, if any, for delivery upon exchange.
+13.
+Amendment, Waiver
+Subject to certain exceptions set forth in the Indenture, (a) the Indenture or the Notes may be amended without prior notice to any Holder but with the written consent of the Holders of at least a majority in aggregate principal amount of the outstanding Notes and (b) any default may be waived with the written consent of the Holders of at least a majority in principal amount of the outstanding Notes.
+Without the consent of any Holder, the Company and the Trustee may amend the Indenture or the Notes as set forth in the Indenture.
+14.
+Defaults and Remedies
+If an Event of Default occurs (other than an Event of Default relating to certain events of bankruptcy, insolvency or reorganization of the Company, OI Inc., OI Group or any Significant Subsidiary of OI Group) and is continuing, the Trustee or the Holders of at least 25% in principal amount of the outstanding Notes may declare the principal of and accrued but unpaid interest on all the Notes to be due and payable.
+If an Event of Default relating to certain events of bankruptcy, insolvency or reorganization of the Company, OI Inc., OI Group or any Significant Subsidiary of OI Group occurs, the principal of and interest on all the Notes shall
+A-8
+become immediately due and payable without any declaration or other act on the part of the Trustee or any Holders.
+Under certain circumstances, the Holders of a majority in principal amount of the outstanding Notes may rescind any such acceleration with respect to the Notes and its consequences.
+If an Event of Default occurs and is continuing, the Trustee shall be under no obligation to exercise any of the rights or powers under the Indenture at the request or direction of any of the Holders unless such Holders have offered to the Trustee reasonable indemnity or security against any loss, liability or expense and certain other conditions are complied with.
+Subject to certain restrictions, the Holders of a majority in principal amount of the outstanding Notes are given the right to direct the time, method and place of conducting any proceeding for any remedy available to the Trustee or of exercising any trust or power conferred on the Trustee.
+The Trustee, however, may refuse to follow any direction that conflicts with law or the Indenture or that the Trustee determines is unduly prejudicial to the rights of any other Holder or that would involve the Trustee in personal liability.
+Prior to taking any action under the Indenture, the Trustee shall be entitled to indemnification satisfactory to it in its sole discretion against all losses and expenses caused by taking or not taking such action.
+15.
+Trustee Dealings with the Company
+The Trustee under the Indenture, in its individual or any other capacity, may become the owner or pledgee of Notes and may otherwise deal with and collect obligations owed to it by the Company or its Affiliates and may otherwise deal with the Company or its Affiliates with the same rights it would have if it were not Trustee.
+16.
+No Recourse Against Others
+A director, officer, employee or stockholder, as such, of the Company or the Guarantor shall not have any liability for any obligations of the Company under the Notes or the Indenture or for any claim based on, in respect of or by reason of such obligations or their creation.
+By accepting a Note, each Holder waives and releases all such liability.
+The waiver and release are part of the consideration for the issue of the Notes.
+A-9
+17.
+Authentication
+This Note shall not be valid until an authorized signatory of the Trustee (or an authenticating agent) manually signs the certificate of authentication on the other side of this Note.
+18.
+Abbreviations
+Customary abbreviations may be used in the name of a Holder or an assignee, such as TEN COM (=tenants in common), TEN ENT (=tenants by the entireties), JT TEN (=joint tenants with rights of survivorship and not as tenants in common), CUST (=custodian), and U/G/M/A (=Uniform Gift to Minors Act).
+19.
+Governing Law
+20.
+CUSIP Numbers and ISINs
+The Company has caused CUSIP numbers and ISINs to be printed on the Notes and has directed the Trustee to use CUSIP numbers and ISINs in notices of as a convenience to Holders.
+No representation is made as to the accuracy of such numbers either as printed on the Notes or as contained in any notice and reliance may be placed only on the other identification numbers placed thereon.
+A-10
+EXCHANGE NOTICE
+Capitalized terms used herein but not defined shall have the meanings ascribed to such terms in the Indenture.
+If shares or any portion of this Note not exchanged are to be issued in the name of a person other than the undersigned, the undersigned will provide the appropriate information below and pay all transfer taxes payable with respect thereto.
+Any amount required to be paid by the undersigned on account of interest accompanies this Note.
+Dated:
+Signature(s)
+Signature(s) must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Registrar in addition to, or in substitution for, STAMP, all in accordance with the Securities Exchange Act of 1934, as amended.
+A-11
+Fill in the registration of shares of OI Inc. Common Stock, if any, to be issued by OI Inc., and Notes if to be delivered, and the person to whom cash delivered by the Company, and payment for fractional shares is to be made, if to be made by OI Inc., other than to and in the name of the registered holder:
+(Name)
+(City, State and Zip Code)
+Principal amount to be exchanged
+$
+Social Security or Other Taxpayer Identification Number:
+NOTICE: The signature on this Exchange Notice must correspond with the name as written upon the face of the Notes in every particular without alteration or enlargement or any change whatsoever.
+A-12
+FUNDAMENTAL CHANGE PURCHASE NOTICE
+Capitalized terms used herein but not defined shall have the meanings ascribed to such terms in the Indenture.
+Dated:
+Signature(s):
+NOTICE: The above signatures of the holder(s) hereof must correspond with the name as written upon the face of the Notes in every particular without alteration or enlargement or any change whatsoever.
+Notes Certificate Number (if applicable):
+Social Security or Other Taxpayer Identification Number:
+A-13
+ASSIGNMENT FORM
+(Insert assignee’s soc.
+sec.
+or tax I.D.
+No.)
+and irrevocably appoint                           agent to transfer this Note on the books of the Company.
+The agent may substitute another to act for him.
+Your Signature:
+A-14
+The undersigned (check one box below):
+The undersigned confirms that such Notes are being transferred in accordance with its terms:
+CHECK ONE BOX BELOW
+(2)                                  o                                    to a person you reasonably believe is a “qualified institutional buyer” (as defined in Rule 144A under the Securities Act of 1933) that is purchasing for its own account or for the account of another “qualified institutional buyer” and to whom notice is given that such transfer is being made in reliance on Rule 144A, in each case pursuant to and in compliance with Rule 144A under the Securities Act of 1933.
+Unless one of the boxes is checked, the Trustee will refuse to register any of the Notes evidenced by this certificate in the name of any Person other than the registered Holder thereof.
+Your Signature
+Signature Guarantee:
+Signature must be guaranteed by a participant in a recognized signature guaranty medallion program or other signature guarantor acceptable to the Trustee
+Signature of Signature Guarantee
+A-15
+The undersigned represents and warrants that it is purchasing this Note for its own account or an account with respect to which it exercises sole investment discretion and that it and any such account is a “qualified institutional buyer” within the meaning of Rule 144A under the Securities Act of 1933, and is aware that the sale to it is being made in reliance on Rule 144A and acknowledges that it has received such information regarding the Company as the undersigned has requested pursuant to Rule 144A or has determined not to request such information and that it is aware that the transferor is relying upon the undersigned’s foregoing representations in order to claim the exemption from registration provided by Rule 144A.
+Dated:
+NOTICE: To be executed by an executive officer
+A-16
+EXHIBIT B
+THIS SECURITY HAS NOT BEEN REGISTERED UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED (THE ‘‘SECURITIES ACT’’), AND ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT AS SET FORTH IN THE FOLLOWING SENTENCE.
+SUCH CERTIFICATIONS, LEGAL OPINIONS OR OTHER INFORMATION AS MAY BE REQUIRED TO CONFIRM THAT SUCH TRANSFER IS BEING MADE IN ACCORDANCE WITH THE SECURITIES ACT AND APPLICABLE STATE SECURITIES LAWS.
+B-1
+ASSIGNMENT FORM
+(Insert assignee’s soc.
+sec.
+or tax I.D.
+No.)
+and irrevocably appoint                           agent to transfer this Security on the books of the Company.
+The agent may substitute another to act for him.
+Your Signature:
+B-2
+The undersigned (check one box below):
+The undersigned confirms that such Securities are being transferred in accordance with its terms:
+CHECK ONE BOX BELOW
+(2)                                  o                                    pursuant to an effective registration statement under the Securities Act of 1933;
+(3)                                  o                                    to a person you reasonably believe is a “qualified institutional buyer” (as defined in Rule 144A under the Securities Act of 1933) that is purchasing for its own account or for the account of another “qualified institutional buyer” and to whom notice is given that such transfer is being made in reliance on Rule 144A, in each case pursuant to and in compliance with Rule 144A under the Securities Act of 1933; or
+(4)                                  o                                    pursuant to another available exemption from the registration requirements under the Securities Act.
+Unless one of the boxes is checked, the Transfer Agent will refuse to register any of the Securities evidenced by this certificate in the name of any Person other than the registered Holder thereof; provided, however, that if box (4) is checked, the transfer agent may require, prior to registering any such transfer of the shares of OI Inc. Common Stock, such legal opinions, certifications and other information OI Inc. has reasonably requested to confirm that such transfer is being made pursuant to an exemption from, or in a transaction not subject to, the registration requirements of the Securities Act of 1933.
+Your Signature
+B-3
+Signature Guarantee:
+Signature must be guaranteed by a participant in a recognized signature guaranty medallion program or other signature guarantor acceptable to the Transfer Agent
+Signature of Signature Guarantee
+The undersigned represents and warrants that it is purchasing the Securities for its own account or an account with respect to which it exercises sole investment discretion and that it and any such account is a “qualified institutional buyer” within the meaning of Rule 144A under the Securities Act of 1933, and is aware that the sale to it is being made in reliance on Rule 144A and acknowledges that it has received such information regarding OI Inc. as the undersigned has requested pursuant to Rule 144A or has determined not to request such information and that it is aware that the transferor is relying upon the undersigned’s foregoing representations in order to claim the exemption from registration provided by Rule 144A.
+Dated:
+B-4

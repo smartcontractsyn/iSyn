@@ -1,0 +1,1371 @@
+Exhibit 4.1
+INDENTURE
+as Guarantors
+TABLE OF CONTENTS
+Page
+ARTICLE 1 DEFINITIONS AND INCORPORATION BY REFERENCE
+1
+Section 1.01.
+Definitions
+1
+Section 1.02.
+Other Definitions
+9
+Section 1.03.
+Rules of Construction
+10
+ARTICLE 2 THE SECURITIES
+11
+Section 2.01.
+Title and Terms
+11
+Section 2.02.
+Denominations
+13
+Section 2.03.
+Form and Dating
+13
+Section 2.04.
+Execution and Authentication
+15
+Section 2.05.
+Registrar, Paying Agent and Exchange Agent
+16
+Section 2.06.
+Intentionally Omitted
+16
+Section 2.07.
+Lists of Holders of Securities
+16
+Section 2.08.
+16
+Section 2.09.
+Replacement Securities
+17
+Section 2.10.
+Outstanding Securities
+18
+Section 2.11.
+Treasury Securities
+19
+Section 2.12.
+Temporary Securities
+19
+Section 2.13.
+Cancellation
+19
+Section 2.14.
+Legend; Additional Transfer and Exchange Requirements
+20
+Section 2.15.
+CUSIP Numbers
+22
+Section 2.16.
+22
+ARTICLE 3 REPURCHASE
+23
+Section 3.01.
+23
+i
+Section 3.02.
+26
+Section 3.03.
+Repayment to the Issuer
+27
+Section 3.04.
+Securities Purchased in Part
+27
+Section 3.05.
+Repurchase of Securities by Third Parties
+27
+Section 3.06.
+Purchase of Securities in Open Market
+28
+ARTICLE 4 EXCHANGE
+28
+Section 4.01.
+Right to Exchange
+28
+Section 4.02.
+Exercise of Exchange Right; No Adjustment for Interest or Dividends
+28
+Section 4.03.
+Exchange Rate Adjustment After Certain Change in Control
+31
+Section 4.04.
+Adjustment of Exchange Rate
+34
+Section 4.05.
+40
+Section 4.06.
+40
+Section 4.07.
+Taxes on Shares Issued
+41
+Section 4.08.
+Reservation of Shares, Shares to be Fully Paid; Compliance with Governmental Requirements; Listing of Common Stock
+41
+Section 4.09.
+Responsibility of Trustee
+41
+Section 4.10.
+Notice to Holders Prior to Certain Actions
+42
+Section 4.11.
+42
+Section 4.12.
+Ownership Limit
+44
+Section 4.13.
+Calculation in Respect of Securities
+44
+ARTICLE 5 COVENANTS
+44
+Section 5.01.
+44
+Section 5.02.
+45
+Section 5.03.
+Reports
+46
+ii
+Section 5.04.
+Compliance Certificates
+46
+Section 5.05.
+Further Instruments and Acts
+47
+Section 5.06.
+Maintenance of Existence as a Limited Partnership
+47
+Section 5.07.
+Stay, Extension and Usury Laws
+47
+Section 5.08.
+Calculation of Original Issue Discount
+47
+Section 5.09.
+Maintenance of Office or Agency
+47
+Section 5.10.
+Registration Rights
+48
+48
+Section 6.01.
+Issuer and Guarantors May Consolidate, Etc., Only on Certain Terms
+48
+Section 6.02.
+Successor Substituted
+49
+ARTICLE 7 DEFAULT AND REMEDIES
+50
+Section 7.01.
+Events of Default
+50
+Section 7.02.
+Acceleration
+52
+Section 7.03.
+Other Remedies
+54
+Section 7.04.
+Waiver of Defaults and Events of Default
+54
+Section 7.05.
+Limitations on Suits
+54
+Section 7.06.
+Rights of Holders to Receive Payment and to Exchange
+55
+Section 7.07.
+55
+Section 7.08.
+55
+Section 7.09.
+Priorities
+56
+Section 7.10.
+Undertaking for Costs
+56
+ARTICLE 8 TRUSTEE
+56
+Section 8.01.
+Obligations of Trustee
+56
+Section 8.02.
+Rights of Trustee
+58
+Section 8.03.
+Individual Rights of Trustee
+59
+iii
+Section 8.04.
+Trustee’s Disclaimer
+59
+Section 8.05.
+Notice of Default or Events of Default
+59
+Section 8.06.
+60
+Section 8.07.
+Compensation and Indemnity
+60
+Section 8.08.
+Replacement of Trustee
+61
+Section 8.09.
+Successor Trustee by Merger, Etc.
+62
+Section 8.10.
+Eligibility of Trustee
+62
+Section 8.11.
+Conflicting Interests of Trustee
+62
+Section 8.12.
+Preferential Collection of Claims Against Issuer
+62
+ARTICLE 9 SATISFACTION AND DISCHARGE OF INDENTURE
+62
+Section 9.01.
+Discharge of Indenture
+62
+Section 9.02.
+63
+Section 9.03.
+63
+Section 9.04.
+Return of Unclaimed Monies
+64
+Section 9.05.
+Reinstatement
+64
+ARTICLE 10 AMENDMENTS; SUPPLEMENTS AND WAIVERS
+64
+Section 10.01.
+Without Consent of Holders
+64
+Section 10.02.
+With Consent of Holders
+65
+Section 10.03.
+Revocation and Effect of Consents
+66
+Section 10.04.
+Notation on or Exchange of Securities
+66
+Section 10.05.
+67
+Section 10.06.
+Effect of Supplemental Indentures
+67
+ARTICLE 11 REDEMPTION
+67
+Section 11.01.
+Redemption
+67
+Section 11.02.
+Sinking Fund
+69
+iv
+ARTICLE 12 MISCELLANEOUS
+69
+Section 12.01.
+Notices
+69
+Section 12.02.
+70
+Section 12.03.
+Certificate and Opinion as to Conditions Precedent
+70
+Section 12.04.
+Record Date for Consent of Holders of Securities
+71
+Section 12.05.
+Rules by Trustee, Paying Agent, Registrar and Exchange Agent
+71
+Section 12.06.
+Legal Holidays
+71
+Section 12.07.
+Governing Law
+72
+Section 12.08.
+No Adverse Interpretation of Other Agreements
+72
+Section 12.09.
+No Recourse Against Others
+72
+Section 12.10.
+No Security Interest Created
+72
+Section 12.11.
+Successors
+72
+Section 12.12.
+Multiple Counterparts
+72
+Section 12.13.
+Separability
+72
+Section 12.14.
+Table of Contents, Headings, Etc.
+72
+ARTICLE 13 GUARANTEE
+73
+Section 13.01.
+Guarantee
+73
+Exhibit A-1: Form of Face of Security
+A-1-1
+Exhibit A-2: Form of Reverse of Security
+A-2-1
+Exhibit B: Form of Guarantee
+B-1
+v
+RECITALS
+The Issuer has duly authorized the creation of an issue of its 5.375% Exchangeable Senior Notes due 2033 of substantially the tenor and amount hereinafter set forth, and to provide therefor the Issuer has duly authorized the execution and delivery of this Indenture.
+Each Guarantor has duly authorized the creation of an irrevocable and unconditional guarantee of the Securities of substantially the tenor and amount hereinafter set forth, and to provide therefor each Guarantor has duly authorized the execution and delivery of this Indenture and of the Guarantee provided for herein.
+All things necessary to make the Securities, when duly executed by the Issuer and authenticated and delivered hereunder, and the Guarantee (as defined herein), when duly executed by each Guarantor, and delivered hereunder, and the Securities and the Guarantee duly issued by the Issuer and each Guarantor, the obligations of the Issuer and each Guarantor, and to make this Indenture a valid agreement of the Issuer and each Guarantor, in accordance with its terms, have been done.
+NOW, THEREFORE, THIS INDENTURE WITNESSETH:
+For and in consideration of the premises and the purchase of the Securities by the Holders thereof, it is mutually covenanted and agreed, for the equal and proportionate benefit of all Holders of the Securities, as follows:
+ARTICLE 1
+DEFINITIONS AND INCORPORATION BY REFERENCE
+Section 1.01.
+Definitions.
+“Affiliate” means, with respect to any specified person, any other person directly or indirectly controlling or controlled by or under direct or indirect common control with such specified person.
+For the purposes of this definition, “control” when used with respect to any person means the power to direct the management and policies of such person, directly or indirectly, whether through the ownership of voting securities, by contract or otherwise; and the terms “controlling” and “controlled” have meanings correlative to the foregoing.
+“Agent” means any Registrar, Paying Agent or Exchange Agent.
+1
+“Applicable Exchange Measurement Period” means (i) for Securities that are exchanged on or after the 23rd Scheduled Trading Day prior to the Final Maturity Date, the 20 consecutive Trading Day period beginning on the third Trading Day following the 23rd Scheduled Trading Day prior to the Final Maturity Date, and (ii) in all other cases, the 20 consecutive Trading Day period commencing on the third Trading Day following the Exchange Date.
+“Applicable Exchange Rate” means, as of any Trading Day, the Exchange Rate in effect on such date, after giving effect to any adjustment provided under Sections 4.03 and 4.04.
+“Applicable Procedures” means, with respect to any transfer or exchange of beneficial ownership interests in a Global Security, the rules and procedures of the Depositary, to the extent applicable to such transfer or exchange.
+“Board of Directors” means the board of directors of the Parent Guarantor or a committee of such board duly authorized to act on its behalf hereunder; provided, that in the definition of the term “Change in Control”, Board of Directors means the Board of Directors of the Parent Guarantor.
+“Business Day” means, with respect to any Security, each Monday, Tuesday, Wednesday, Thursday and Friday, other than a day on which banking institutions in The City of New York are authorized or obligated by law or executive order to close.
+“Capital Stock” of any Person means any and all shares, interests, rights to purchase, warrants, options, participations or other equivalents of or interests in (however designated) equity of such Person, but excluding any debt securities convertible into such equity.
+“cash” means such coin or currency of the United States as at any time of payment is legal tender for the payment of public and private debts.
+“CDO Subsidiary” means any Subsidiary of the Issuer, the Parent Guarantor or the Subsidiary Guarantor which is an issuer of collateralized debt obligations.
+“Certificated Security” means a Security that is in substantially the form attached as Exhibit A but that does not include the information or the schedule called for by footnote 1 thereof.
+“Change in Control” means the occurrence at any time of any of the following events:
+(1)                                 consummation of any transaction or event (whether by means of a liquidation, share exchange, tender offer, consolidation, recapitalization, reclassification, combination, merger of the Issuer or any sale, lease or other transfer of all or substantially all of the consolidated assets of the Parent Guarantor and its consolidated subsidiaries) or a series of related transactions or events pursuant to which the Common Stock is exchanged for, converted into or constitutes solely the right to receive cash, securities or other property more than 10% of which consists of cash, securities or other property that are not, or upon issuance will not be, traded on a national securities exchange;
+2
+(2)                                 any “person” or “group” (as such terms are used for purposes of Sections 13(d) and 14(d) of the Exchange Act, whether or not applicable), other than the Issuer, any Guarantor or any majority-owned subsidiary of the Issuer or of any Guarantor, is or becomes the “beneficial owner” (as such term is defined for purposes of Section 13(d)(3) under the Exchange Act), directly or indirectly, of more than 50% of the total voting power in the aggregate of all classes of the capital stock of the Parent Guarantor then outstanding entitled to vote generally in elections of directors;
+(3)                                 during any period of 12 consecutive months after the date of this Indenture persons who at the beginning of such 12-month period constituted the Board of Directors (together with any new persons whose election was approved by a vote of a majority of the persons then still comprising the Board of Directors who were either members of the Board of Directors at the beginning of such period or whose election, designation or nomination for election was previously so approved) cease for any reason to constitute a majority of the Board of Directors, then in office;
+(4)                                 the Common Stock (or other Capital Stock or securities into which the Securities are then exchangeable) ceases to be listed on a U.S. national securities exchange for 30 consecutive days;
+(5)                                 the Parent Guarantor (or any successor thereto permitted pursuant to the terms of this Indenture) ceases to directly or indirectly control the Issuer; or
+(6)                                 the shareholders of the Parent Guarantor approve any plan or proposal for the liquidation of the Issuer or any Guarantor.
+Notwithstanding the foregoing, even if any of the events specified in the preceding clauses (1) through (6) have occurred, a Change in Control will not be deemed to have occurred and the Issuer shall not be required to deliver a notice incidental thereto if either:
+(B)                               at least 90% of the consideration (excluding cash payments for fractional shares and cash payments made pursuant to dissenters’ appraisal rights) in a merger, consolidation or other transaction otherwise constituting a Change in Control consists of shares of common stock, depositary receipts or other certificates representing common equity interests traded on a national securities exchange or quoted on an established automated over-the-counter trading market in the United States (or will be so traded or
+3
+quoted immediately following such merger, consolidation or other transaction) and as a result of the merger, consolidation or other transaction the Securities become exchangeable for such shares of common stock, depositary receipts or other certificates representing common equity interests.
+For the purposes of this definition, “person” includes any syndicate or group that would be deemed to be a “person” under Section 13(d)(3) of the Exchange Act.
+“Change in Control Purchase Date” has the meaning provided in Section 3.01(b).
+“Change in Control Purchase Notice” has the meaning provided in Section 3.01(c).
+“Closing Sale Price” of the Common Stock or other Capital Stock or similar equity interests or other publicly traded securities on any date means the closing sale price per share (or, if no closing sale price is reported, the average of the closing bid and ask prices or, if more than one in either case, the average of the average closing bid and the average closing ask prices) on such date as reported on the principal U.S. securities exchange on which the Common Stock or such other Capital Stock or similar equity interests or other publicly traded securities are listed or, if the Common Stock or such other Capital Stock or similar equity interests or other publicly traded securities are not listed on a U.S. securities exchange, by OTC Markets Group Inc. or another established over-the-counter trading market in the United States.
+The Closing Sale Price shall be determined without regard to after-hours trading or extended market making.
+In the absence of the foregoing, the Issuer shall determine the Closing Sale Price on such basis as it considers appropriate.
+“Common Stock” means, subject to Section 4.11, the common stock, par value $0.01 per share of the Parent Guarantor, at the date of this Indenture and any shares of any class or classes of Capital Stock of the Parent Guarantor resulting from any reclassification or reclassifications thereof, or, in the event of a merger, consolidation or other similar transaction involving the Parent Guarantor that is otherwise permitted hereunder in which the Parent Guarantor is not the surviving corporation, the common stock, common equity interests, ordinary shares or depositary shares or other certificates representing common equity interests of such surviving corporation or its direct or indirect parent corporation, and which have no preference in respect of dividends or of amounts payable in the event of any voluntary or involuntary liquidation, dissolution or winding-up of the Parent Guarantor and which are not subject to redemption by the Parent Guarantor; provided, however, that if at any time there shall be more than one such resulting class, the shares of each such class then so issuable on exchange of the Securities shall be substantially in the proportion which the total number of shares of such class resulting from all such reclassifications bears to the total number of shares of all such classes resulting from all such reclassifications.
+“Comparable Treasury Issue(s)” means either (i) the United States Treasury security selected by an Independent Investment Banker as having an actual maturity, or (ii) two such
+4
+securities selected by an Independent Investment Banker to be used to interpolate a maturity, in each case comparable to the period from the Redemption Date for the Securities to be redeemed to June 15, 2023 and that would be used, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of a maturity comparable to the period from such Redemption Date to June 15, 2023.
+“Comparable Treasury Price” of a Comparable Treasury Issue means, with respect to any Redemption Date, (A) the average of the Reference Treasury Dealer Quotations for such Comparable Treasury Issue for such Redemption Date, after excluding the highest and lowest such Reference Treasury Dealer Quotations, or (B) if the Independent Investment Banker obtains fewer than four such Reference Treasury Dealer Quotations, the average of all such quotations.
+“Default” means, when used with respect to the Securities, any event that is or, after notice or passage of time, or both, would be, an Event of Default.
+“Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.
+“GAAP” means generally accepted accounting principles in the United States of America as in effect from time to time.
+“Global Security” means a Security in global form that is in substantially the form attached as Exhibit A and that includes the information and schedule called for in footnote 1 thereof and which is deposited with the Depositary or its custodian and registered in the name of the Depositary or its nominee.
+“Guarantee” shall mean the unconditional guarantee of the payment of the principal of, or any premium or interest on, the Securities by each of the Guarantors, as more fully set forth in Article 13.
+5
+“Guarantor” shall mean each Person named as a “Guarantor” in the first paragraph of this Indenture until a successor Person shall have become such pursuant to the applicable provisions of this Indenture, and thereafter “Guarantor” shall mean such successor Person.
+“Holder” means the person in whose name a Security is registered on the Registrar’s books.
+“Indenture” means this Indenture, as amended or supplemented from time to time pursuant to the terms hereof.
+“Independent Investment Banker” means one of the Reference Treasury Dealers appointed by the Company.
+“Initial Purchasers” means the several initial purchasers listed in Schedule I to the Purchase Agreement.
+“Issue Date” of any Security means the date on which the Security was originally issued or deemed issued as set forth on the face of the Security.
+“Liquidated Damages” has the meaning provided in the Form of Note attached as Exhibit A hereto.
+“Market Disruption Event” means the occurrence or existence for more than a one-half hour period in the aggregate on a Scheduled Trading Day for the Common Stock of any suspension or limitation imposed on trading (by reason of movements in price exceeding limits permitted by the stock exchange or otherwise) in the Common Stock or in any options, contracts or futures contracts relating to the Common Stock, and such suspension or limitation occurs or exists at any time before 1:00 p.m. (New York City time) on such day.
+“NYSE” means the New York Stock Exchange.
+“Officer” means any person holding any of the following positions:  the Chairman of the Board, the Chief Executive Officer, any President, any Vice President, the Chief Financial Officer, the Chief Operating Officer, the General Counsel, the Secretary or any Assistant Secretary.
+6
+“Officer’s Certificate”, when used with respect to the Issuer or a Guarantor, as the case may be, means a certificate signed by an Officer of the applicable Person (or, if applicable, of the general partner of such Person in its capacity as such) and delivered to the Trustee.
+“Opinion of Counsel” means a written opinion from legal counsel reasonably acceptable to the Trustee.
+The counsel may be an employee of or counsel to the Issuer, a Guarantor or the Trustee.
+“Parent Guarantor” has the meaning given in the first paragraph of this Indenture.
+“Person” or “person” means any individual, corporation, partnership, limited liability company, joint venture, association, joint-stock company, trust, unincorporated organization, government or any agency or political subdivision thereof or any syndicate or group that would be deemed to be a “person” under Section 13(d)(3) of the Exchange Act or any other entity.
+“Primary Treasury Dealer” means any primary U.S. Government securities dealer in The City of New York.
+“Redemption Date” means, with respect to any Security or portion thereof to be redeemed in accordance with the provisions of Section 11.01, the date fixed for such redemption in accordance with the provisions of Section 11.01.
+“Reference Treasury Dealer” means each of Deutsche Bank Securities Inc., Citigroup Global Markets Inc., UBS Securities LLC, Barclays Capital Inc. and J.P. Morgan Securities LLC or their affiliates which are Primary Treasury Dealers, and their respective successors; provided, however, that if any of the foregoing or their affiliates shall cease to be a Primary Treasury Dealer, the Issuer shall substitute therefor another Primary Treasury Dealer.
+“Registration Rights Agreement” means the Registration Rights Agreement, dated as of the date hereof, between the Parent Guarantor and the Representative, as representative of the Initial Purchasers, as amended from time to time in accordance with its terms.
+“Representative” means Deutsche Bank Securities Inc.
+7
+“Responsible Officer” means, when used with respect to the Trustee, any officer within the corporate capital markets division of the Trustee with direct responsibility for the administration of this Indenture and also means, with respect to a particular corporate trust matter, any other officer to whom such matter is referred because of such person’s knowledge of and familiarity with the particular subject.
+“Restricted Common Stock” means Common Stock issued upon exchange of any Security that is required to bear a restrictive legend pursuant to Section 2.14(e).
+“Restricted Global Security” means a Global Security that is a Restricted Security.
+“Restricted Security” means a Security required to bear the restrictive legend set forth in the form of Security annexed as Exhibit A.
+“Rule 144” means Rule 144 under the Securities Act or any successor to such Rule.
+“Rule 144A” means Rule 144A under the Securities Act or any successor to such Rule.
+“Scheduled Trading Day” means a day that is scheduled to be a Trading Day on the principal United States securities exchange or market on which the Common Stock is listed or admitted for trading or, if the Common Stock is not listed or admitted for trading on any exchange or market, a Business Day.
+“SEC” means the Securities and Exchange Commission.
+“Securities Act” means the Securities Act of 1933, as amended and the rules and regulations promulgated thereunder.
+“Securities Custodian” means the Trustee, as custodian with respect to the Global Securities, or any successor thereto.
+“Significant Subsidiary” means any Subsidiary of the Issuer or any Guarantor which is a significant subsidiary (as defined in Regulation S-X as promulgated under the Securities Act as in effect as of the date hereof).
+“Subsidiary” means, in respect of any Person, any corporation, association, partnership or other business entity of which more than 50% of the total voting power of shares of Capital Stock entitled (without regard to the occurrence of any contingency within the control of such Person to satisfy) to vote in the election of directors, managers, general partners or trustees thereof is at the time owned or controlled, directly or indirectly, by (i) such Person, (ii) such Person and one or more Subsidiaries of such Person or (iii) one or more Subsidiaries of such Person.
+8
+“Subsidiary Guarantor” has the meaning given in the first paragraph of this Indenture.
+“Trading Day” means a day during which (i) trading in securities generally occurs on the NYSE or, if the subject securities are not then listed on the NYSE, on the principal other national or regional securities exchange on which such securities are then listed or, if such securities are not then listed on a national or regional securities exchange, on the principal other market on which the subject securities are then traded, (ii) there is no Market Disruption Event and (iii) a Closing Sale Price for the Common Stock is available for such day.
+“Trustee” means the party named as such in the first paragraph of this Indenture until a successor replaces it in accordance with the provisions of this Indenture, and thereafter means the successor.
+“Trust Officer” means, with respect to the Trustee, any officer assigned to the Corporate Trust Office, and also, with respect to a particular matter, any other officer to whom such matter is referred because of such officer’s knowledge of and familiarity with the particular subject.
+“Vice President,” when used with respect to the Parent Guarantor or the Trustee, means any vice president, whether or not designated by a number or a word or words added before or after the title “vice president,” including any executive vice president or senior vice president.
+Section 1.02.
+Other Definitions.
+Term
+Defined in Section
+Additional Securities
+2.01
+Additional Shares Change in Control
+Additional Shares Redemption Notice
+Agent Members
+Change in Control Event Shares
+Consolidated Net Assets
+Defaulted Interest
+2.16
+DTC
+Effective Date
+9
+Term
+Defined in Section
+Event of Default
+Exchange Date
+4.02
+Exchange Notice
+4.02
+Exchange Obligation
+4.11(a)
+4.05
+Expiration Time
+Issuer Notice
+Legal Holiday
+12.06
+Make Whole Cap
+Outstanding
+2.10(a)
+Partial Cash Amount
+Primary Registrar
+2.01
+QIB
+Redemption Notice Event Shares
+Redemption Notice
+REIT
+Reference Event
+Registrable Security
+5.10
+Registrar
+Restrictive Legend
+2.16
+Spin-Off
+TIA
+Section 1.03.
+Rules of Construction.
+Unless the context otherwise requires:
+(1)                                 a term has the meaning assigned to it;
+(2)                                 an accounting term not otherwise defined has the meaning assigned to it in accordance with GAAP;
+(3)                                 words in the singular include the plural, and words in the plural include the singular;
+(4)                                 provisions apply to successive events and transactions;
+10
+(5)                                 the term “merger” includes a statutory share exchange and the term “merged” has a correlative meaning;
+(6)                                 the masculine gender includes the feminine and the neuter;
+(7)                                 references to agreements and other instruments include subsequent amendments thereto; and
+(8)                                 all “Article”, “Exhibit” and “Section” references are to Articles, Exhibits and Sections, respectively, of or to this Indenture unless otherwise specified herein, and the terms “herein”, “hereof” and other words of similar import refer to this Indenture as a whole and not to any particular Article, Section or other subdivision.
+ARTICLE 2
+THE SECURITIES
+Section 2.01.
+Title and Terms.
+Any additional Securities would rank equally and ratably in right of payment with the Securities issued under this Indenture on the initial Issue Date for the Securities of this series and would be treated as a single series of debt securities for all purposes under this Indenture.
+11
+The Securities shall constitute direct, unsecured, irrevocable and unconditional obligations of the Issuer and will rank pari passu among themselves and with all other present and future unsecured and unsubordinated indebtedness of the Issuer.
+The principal of, premium, if any, and interest on the Securities shall be payable as provided in the form of Securities set forth in Section 2.03.
+The Securities shall be redeemable at the option of the Issuer, as provided in Article 11 and shall be issued in the form of Securities set forth in Section 2.03.
+The Registrable Securities are entitled to the benefits of the Registration Rights Agreement as provided by Section 5.10 and in the form of Security set forth in Section 2.03.
+The Securities are entitled to the payment of Liquidated Damages as provided by Section 5.10.
+The Securities shall be guaranteed by each Guarantor as provided in Article 13 and shall have endorsed thereon the Guarantee substantially in the form set forth in Section 2.03, executed by each Guarantor.
+The Securities shall not have the benefit of any sinking fund obligations.
+The Securities shall be exchangeable as provided in Article 4.
+12
+Section 2.02.
+Denominations.
+Section 2.03.
+Form and Dating.
+(a)                                 The Securities and the Trustee’s certificate of authentication shall be substantially in the respective forms set forth in Exhibit A, which Exhibit is incorporated in and made part of this Indenture.
+The Securities may have notations, legends or endorsements required by law, stock exchange or automated quotation system rule or regulation or usage, in each case as the Issuer shall determine as evidenced by the Issuer’s execution of Securities bearing the same.
+(b)                                 There shall be endorsed on the Securities a guarantee in substantially the form attached hereto as Exhibit B, or in such other form as shall be established by or pursuant to a resolution of the Board of Directors or in one or more indentures supplemental hereto, in each case with such appropriate insertions, omissions, substitutions and other variations as are required or permitted by this Indenture.
+(c)                                  Restricted Global Securities.
+All of the Securities are initially being offered and sold through the Initial Purchasers to qualified institutional buyers as defined in Rule 144A (collectively, “QIBs” or individually, each a “QIB”) in reliance on Rule 144A and shall be issued initially in the form of one or more Restricted Global Securities, which shall be deposited on behalf of the purchasers of the securities represented thereby with the Securities Custodian, as custodian for the depositary, The Depository Trust Company (“DTC”, and such depositary, or any successor thereto, being hereinafter referred to as the “Depositary”), and registered in the name of its nominee, Cede & Co. (or any successor thereto), for the accounts of participants in the Depositary, duly executed by the Issuer and authenticated by the Trustee as hereinafter provided.
+Any adjustment of the aggregate principal amount of a Restricted Global Security to reflect the amount of any increase or decrease in the amount of outstanding Restricted Securities represented thereby shall be made by the Trustee in accordance with instructions given by the Holder thereof as required by Section 2.14 or otherwise in accordance with the customary procedures of the Depositary and shall be made on the records of the Trustee and the Depositary.
+(d)                                 Global Securities In General.
+The Securities issued in global form shall be substantially in the form of Exhibit A attached hereto (including the Global Security legend thereon and the “Schedule of Exchanges of Securities” attached thereto).
+The Securities issued in definitive form shall be substantially in the form of Exhibit A attached hereto (but without the Global Security legend thereon and without the “Schedule of Exchanges of Securities” attached thereto).
+Each Global Security shall represent such of the Securities then Outstanding as shall be specified therein and each shall provide that it shall represent the aggregate amount of Securities then Outstanding from time to time endorsed thereon and that the aggregate amount of Securities then Outstanding represented thereby may from time to time be reduced or increased, as appropriate, to reflect replacements, exchanges, purchases or redemptions of such Securities.
+Any adjustment of the aggregate principal amount of a Global Security to reflect the amount of
+13
+any increase or decrease in the amount of Securities then Outstanding represented thereby shall be made by the Trustee in accordance with instructions given by the Holder thereof as required by Section 2.14 or otherwise in accordance with the customary procedures of the Depositary and shall be made on the records of the Trustee and the Depositary.
+Members of, or participants in, the Depositary (“Agent Members”) shall have no rights under this Indenture with respect to any Global Security held on their behalf by the Depositary or under the Global Security, and the Depositary (including, for this purpose, its nominee) may be treated by the Issuer, the Guarantors, the Trustee and any agent of the Issuer, the Guarantors or the Trustee as the absolute owner and Holder of such Global Security for all purposes whatsoever.
+Notwithstanding the foregoing, nothing herein shall (1) prevent the Issuer, the Guarantors, the Trustee or any agent of the Issuer, the Guarantors or the Trustee from giving effect to any written certification, proxy or other authorization furnished by the Depositary or (2) impair, as between the Depositary and its Agent Members, the operation of customary practices governing the exercise of the rights of a Holder of any Security.
+(e)                                  Book Entry Provisions.
+14
+THE DEPOSITARY OR ANY SUCH NOMINEE TO A SUCCESSOR DEPOSITARY OR A NOMINEE OF SUCH SUCCESSOR DEPOSITARY.”
+Section 2.04.
+Execution and Authentication.
+(a)                                 The aggregate principal amount of Securities which may be authenticated and delivered under this Indenture is limited as provided in Section 2.01.
+Typographic and other minor errors or defects in any such facsimile signature shall not affect the validity or enforceability of any Security that has been authenticated and delivered by the Trustee.
+(c)                                  If an Officer whose signature is on a Security or Guarantee no longer holds that office at the time the Trustee authenticates the Security, the Security and Guarantee shall be valid nevertheless.
+(d)                                 Each Security shall be dated the date of its authentication.
+No Security or Guarantee thereon shall be entitled to any benefit under this Indenture or be valid or obligatory for any purpose unless there appears on such Security a certificate of authentication substantially in the form provided for herein executed by the Trustee by manual signature of an authorized officer, and such certificate upon any Security shall be conclusive evidence, and the only evidence, that such Security has been duly authenticated and delivered hereunder and is entitled to the benefits of this Indenture.
+Notwithstanding the foregoing, if any Security shall have been authenticated and delivered hereunder but never issued and sold by the Issuer, and the Issuer shall deliver such Security to the Trustee for cancellation as provided in Section 2.13, for all purposes of this Indenture such Security shall be deemed never to have been authenticated and delivered thereunder and shall never be entitled to the benefits of this Indenture.
+The Issuer Order shall specify the amount of Securities to be authenticated and to whom such Securities shall be delivered, shall provide that all such Securities will be initially represented by a Restricted Global Security and the date on which each original issue of Securities is to be authenticated.
+(f)                                   The Trustee shall act as the initial authenticating agent.
+Thereafter, the Trustee may appoint an authenticating agent acceptable to the Issuer to authenticate Securities.
+An authenticating agent may authenticate Securities whenever the Trustee may do so.
+Each reference in this Indenture to authentication by the Trustee includes authentication by such agent.
+An authenticating agent shall have the same rights as an Agent to deal with the Issuer or an Affiliate of the Issuer.
+15
+Section 2.05.
+Registrar, Paying Agent and Exchange Agent.
+The Issuer will at all times maintain a Paying Agent, Exchange Agent, Registrar and an office or agency where notices and demands to or upon the Issuer in respect of the Securities and this Indenture may be served in the United States.
+(b)                                 The Issuer shall enter into an appropriate agency agreement with any Agent not a party to this Indenture, provided that the Agent may be an Affiliate of the Trustee.
+The agreement shall implement the provisions of this Indenture that relate to such Agent.
+The Issuer or any Affiliate of the Issuer may act as Paying Agent (except for the purposes of Section 5.01 and Article 9).
+(c)                                  The Issuer hereby initially designates the Trustee as Paying Agent, Primary Registrar, Securities Custodian and Exchange Agent, and initially designates the Corporate Trust Office of the Trustee as an office or agency where notices and demands to or upon the Issuer in respect of the Securities and this Indenture shall be served.
+Section 2.06.
+Intentionally Omitted.
+Section 2.07.
+Lists of Holders of Securities.
+The Trustee shall preserve in as current a form as is reasonably practicable the most recent list available to it of the names and addresses of Holders of Securities.
+Section 2.08.
+16
+To permit registration of transfers and exchanges, upon surrender of any Security for registration of transfer or exchange at an office or agency maintained pursuant to Section 2.05, the Issuer shall execute and the Trustee shall authenticate Securities of a like aggregate principal amount at the Registrar’s request.
+Any exchange or transfer shall be without charge, except (i) as provided in Section 2.09(c) and (ii) that the Issuer or the Registrar may require payment of a sum sufficient to cover any tax or other governmental charge that may be imposed in relation thereto; provided that clause (ii) of this sentence shall not apply to any exchange pursuant to Section 2.12, 2.14(a), 3.04 or 4.04.
+(c)                                  All Securities issued upon any transfer or exchange of Securities shall be valid obligations of the Issuer and each Guarantor evidencing the same debt and entitled to the same benefits under this Indenture, as the Securities surrendered upon such transfer or exchange.
+(d)                                 Any Registrar appointed pursuant to Section 2.05 shall provide to the Trustee such information as the Trustee may reasonably require in connection with the delivery by such Registrar of Securities upon transfer or exchange of Securities.
+(e)                                  Each Holder of a Security, by its acceptance thereof, agrees to indemnify the Issuer, each Guarantor and the Trustee against any liability that may result from the transfer, exchange or assignment of such Holder’s Security in violation of any provision of this Indenture and/or applicable United States federal or state securities law.
+(f)                                   The Trustee shall have no obligation or duty to monitor, determine or inquire as to compliance with any restrictions on transfer imposed under this Indenture or under applicable law with respect to any transfer of any interest in any Security (including any transfers between or among Agent Members or other beneficial owners of interests in any Global Security) other than to require delivery of such certificates and other documentation or evidence as are expressly required by, and to do so if and when expressly required by the terms of, this Indenture, and to examine the same to determine substantial compliance as to form with the express requirements hereof; provided that the Trustee shall have no such duty to require delivery of certificates or examine the same concerning transfers between or among Agent Members or other beneficial owners of interests in any Global Security.
+Section 2.09.
+Replacement Securities.
+17
+(b)                                 If any such mutilated, destroyed, lost or stolen Security has become or is about to become due and payable, or is about to be purchased by the Issuer pursuant to Article 3, or exchanged pursuant to Article 4, the Issuer in its discretion may, instead of issuing a new Security, pay, purchase or exchange such Security, as the case may be.
+(c)                                  Upon the issuance of any new Securities under this Section 2.09, the Issuer may require the payment of a sum sufficient to cover any tax or other governmental charge that may be imposed in relation thereto as a result of any Securities, at the request of any Holder, being issued to a Person other than such Holder and any other reasonable expenses (including the reasonable fees and expenses of the Trustee or the Registrar) in connection therewith.
+(d)                                 Every new Security issued pursuant to this Section 2.09 in lieu of any mutilated, destroyed, lost or stolen Security shall constitute an original additional contractual obligation of the Issuer and each Guarantor whether or not the mutilated, destroyed, lost or stolen Security shall be at any time enforceable by anyone, and shall be entitled to all benefits of this Indenture equally and proportionately with any and all other Securities duly issued hereunder.
+(e)                                  The provisions of this Section 2.09 are (to the extent lawful) exclusive and shall preclude (to the extent lawful) all other rights and remedies with respect to the replacement or payment of mutilated, destroyed, lost or stolen Securities.
+Section 2.10.
+Outstanding Securities.
+(a)                                 Securities outstanding (“Outstanding”) at any time are all Securities authenticated by the Trustee, except for those canceled by it, those purchased pursuant to Article 3, those exchanged pursuant to Article 4, those redeemed by the Issuer pursuant to Article 11, those delivered to the Trustee for cancellation or surrendered for transfer or exchange and those described in this Section 2.10 as not outstanding.
+(b)                                 If a Security is replaced pursuant to Section 2.09, it ceases to be Outstanding unless the Issuer receives proof satisfactory to it that the replaced Security is held by a protected purchaser.
+18
+(d)                                 Subject to the restrictions contained in Section 2.11, a Security does not cease to be Outstanding because the Issuer, a Guarantor or an Affiliate of the Issuer or any Guarantor holds the Security.
+Section 2.11.
+Treasury Securities.
+In determining whether the Holders of the required principal amount of Securities have concurred in any notice, direction, waiver or consent, securities owned by the Issuer or any other obligor on the Securities or by any Affiliate of the Issuer or of such other obligor shall be disregarded, except that, for purposes of determining whether the Trustee shall be protected in relying on any such notice, direction, waiver or consent, only Securities which a Responsible Officer of the Trustee actually knows are so owned shall be so disregarded.
+Securities so owned which have been pledged in good faith shall not be disregarded if the pledgee establishes to the satisfaction of the Trustee the pledgee’s right so to act with respect to the Securities and that the pledgee is not the Issuer or any other obligor on the Securities or any Affiliate of the Issuer or of such other obligor.
+Section 2.12.
+Temporary Securities.
+Temporary Securities shall be substantially in the form of definitive securities and have endorsed thereon the Guarantee duly executed by each Guarantor, but may have variations that the Issuer considers appropriate for temporary Securities.
+Until so exchanged, Holders of temporary Securities shall be entitled to all of the benefits of this Indenture.
+Section 2.13.
+19
+Section 2.14.
+Legend; Additional Transfer and Exchange Requirements.
+(a)                                 If Securities are issued upon the transfer, exchange or replacement of Securities such Securities shall bear the legends set forth on the forms of Securities attached as Exhibit A relating to restrictions on transfer of the Securities (collectively, the “Restrictive Legend”).
+(b)                                 A Global Security may not be transferred, in whole or in part, to any Person other than the Depositary or a nominee or any successor thereof, and no such transfer to any such other Person may be registered; provided that the foregoing shall not prohibit any transfer of a Security that is issued in exchange for a Global Security but is not itself a Global Security.
+No transfer of a Security to any Person shall be effective under this Indenture or the Securities unless and until such Security has been registered in the name of such Person.
+Notwithstanding any other provisions of this Indenture or the Securities, transfers of a Global Security, in whole or in part, shall be made only in accordance with this Section 2.14.
+(c)                                  Subject to Section 2.14(b), every Security shall be subject to the restrictions on transfer provided in the Restrictive Legend.
+The Registrar shall not be required to accept for such registration of transfer or exchange any Security not so accompanied by a properly completed certificate.
+As used in this Section 2.14(c), the term “transfer” encompasses any sale, pledge, transfer, hypothecation or other disposition of any Security.
+(d)                                 The provisions below shall apply only to Global Securities:
+Any Global Security exchanged pursuant to subclause (A) above shall be so exchanged in whole and not in part, and any Global Security exchanged pursuant to subclause
+20
+Any Security issued in exchange for a Global Security or any portion thereof shall be a Global Security; provided, further, that any such Security so issued that is registered in the name of a Person other than the Depositary or a nominee thereof shall not be a Global Security.
+(3)                                 Securities issued in exchange for a Global Security or any portion thereof shall be issued in definitive, fully registered form, shall have an aggregate principal amount equal to that of such Global Security or portion thereof to be so exchanged, shall be registered in such names and be in such authorized denominations as the Depositary shall designate and shall bear the applicable legends provided for herein.
+With regard to any Global Security to be exchanged in part, either such Global Security shall be so surrendered for exchange or, if the Trustee is acting as custodian for the Depositary or its nominee with respect to such Global Security, the principal amount thereof shall be reduced, by an amount equal to the portion thereof to be so exchanged, by means of an appropriate adjustment made on the records of the Trustee.
+(4)                                 Subject to clause (6) of this Section 2.14 (d), the registered Holder may grant proxies and otherwise authorize any Person, including Agent Members and Persons that may hold interests through Agent Members, to take any action which a Holder is entitled to take under this Indenture or the Securities.
+(6)                                 Neither Agent Members nor any other Persons on whose behalf Agent Members may act shall have any rights under this Indenture with respect to any Global Security registered in the name of the Depositary or any nominee thereof, or under any such Global Security, and the Depositary or such nominee, as the case may be, may be treated by the Issuer, the Trustee and any agent of the Issuer or the Trustee as the absolute owner and Holder of such Global Security for all purposes whatsoever.
+Notwithstanding the foregoing, nothing herein shall prevent the Issuer, the Trustee or any agent of the Issuer or the Trustee from giving effect to any written certification, proxy or other authorization furnished by the Depositary or such nominee, as the case may be, or impair, as between the Depositary, its Agent Members and any other Person on whose behalf an Agent Member may act, the operation of customary practices of such Persons governing the exercise of the rights of a Holder of any Security.
+(7)                                 At such time as all interests in a Global Security have been converted, canceled or exchanged for Securities in certificated form, such Global Security shall,
+21
+upon receipt thereof, be canceled by the Trustee in accordance with standing procedures and instructions existing between the Depositary and the Securities Custodian, subject to Section 2.13 of this Indenture.
+At any time prior to such cancellation, if any interest in a Global Security is converted, canceled or exchanged for Securities in certificated form, the principal amount of such Global Security shall, in accordance with the standing procedures and instructions existing between the Depositary and the Securities Custodian, be appropriately reduced, and an endorsement shall be made on such Global Security, by the Trustee or the Securities Custodian, at the direction of the Trustee, to reflect such reduction.
+(e)                                  Until the time at which such Security may be sold pursuant to Rule 144 under the Securities Act (or any successor provision thereto), any stock certificate representing Common Stock issued upon exchange of any Security shall bear the restrictive legend required to be included with a Restricted Security, until such time as the Common Stock has been sold pursuant to a registration statement that has been declared effective under the Securities Act (and which continues to be effective at the time of such transfer) or transferred in compliance with Rule 144 (or any successor provision thereto), or unless otherwise agreed by the Issuer in writing with written notice thereof to the transfer agent.
+Any such Common Stock as to which such restrictions on transfer shall have expired in accordance with their terms or as to which the conditions for removal of the restrictive legend set forth therein have been satisfied may, upon surrender of the certificates representing such Common Stock for exchange in accordance with the procedures of the transfer agent for the Common Stock, be exchanged for a new certificate or certificates for a like number of Common Stock, which shall not bear the restrictive legend required by this section.
+Section 2.15.
+CUSIP Numbers.
+The Issuer in issuing the Securities may use one or more “CUSIP” numbers (if then generally in use), and, if so, the Trustee shall use “CUSIP” numbers in notices of purchase or redemption as a convenience to Holders; provided that any such notice may state that no representation is made as to the correctness of such numbers either as printed on the Securities or as contained in any notice of a purchase or redemption and that reliance may be placed only on the other identification numbers printed on the Securities, and any such purchase or redemption shall not be affected by any defect in or omission of such numbers.
+Section 2.16.
+Any interest on any Security which is payable, but is not punctually paid or duly provided for, on any Interest Payment Date (herein called “Defaulted Interest”) shall forthwith cease to be payable to the Holder on the relevant Regular Record Date by virtue of having been such Holder, and such Defaulted Interest may be paid by the Issuer, at its election in each case, as provided in Clause (1) or (2) below:
+22
+Notice of the proposed payment of such Defaulted Interest and the Special Record Date therefor having been so mailed, such Defaulted Interest shall be paid to the Persons in whose names the Securities (or their respective predecessor Securities) are registered at the close of business on such Special Record Date and shall no longer be payable pursuant to the following clause (2).
+(2)                                 The Issuer may make payment of any Defaulted Interest on the Securities in any other lawful manner not inconsistent with the requirements of any securities exchange on which such Securities may be listed, and upon such notice as may be required by such exchange, if, after notice given by the Issuer to the Trustee of the proposed payment pursuant to this clause, such manner of payment shall be deemed practicable by the Trustee.
+Subject to the foregoing provisions of this Section, each Security delivered under this Indenture upon registration of transfer of or in exchange for or in lieu of any other Security shall carry the rights to interest accrued and unpaid, and to accrue, which were carried by such other Security.
+ARTICLE 3
+REPURCHASE
+Section 3.01.
+23
+(1)                                 the date of such Change in Control and the clause in the definition of “Change in Control” herein under which such Change in Control falls;
+(5)                                 the name and address of the Trustee, the Paying Agent and the Exchange Agent;
+(6)                                 that Securities in respect of which a Change in Control Purchase Notice is provided by a Holder shall not be exchangeable;
+(10)                          the CUSIP number of the Securities.
+24
+(3)                                 that such Security shall be repurchased pursuant to the applicable provisions hereof and of the Securities.
+(f)                                   Notwithstanding the foregoing, no Securities may be repurchased by the Issuer in accordance with the provisions of this Section 3.01 if there has occurred and is continuing an Event of Default with respect to the Securities and the principal amount of the Securities has been accelerated and such acceleration has not been rescinded on or prior to such dates.
+25
+Section 3.02.
+(3)                                 that such Security shall be repurchased pursuant to the applicable provisions hereof and of the Securities.
+(2)                                 if such Securities are in certificated form, the certificate number(s) of the Securities being withdrawn; and
+26
+If the Securities subject to the notice of withdrawal are Global Securities, the above notices must also comply with the Applicable Procedures.
+Section 3.03.
+Repayment to the Issuer.
+Section 3.04.
+Securities Purchased in Part.
+Any Global Security that is to be purchased only in part shall be adjusted to reflect the amount of any decrease in the amount of Securities then Outstanding represented thereby by the Trustee in accordance with instructions given by an Issuer Order and shall be made on the records of the Trustee and the Depositary.
+Section 3.05.
+Repurchase of Securities by Third Parties.
+If a third party purchases any Securities under these circumstances, then interest will continue to accrue on those Securities and those Securities will continue to be Outstanding after the Repurchase Date.
+The third party
+27
+Section 3.06.
+Purchase of Securities in Open Market.
+Any Security that the Issuer purchases or a third party purchases may, to the extent permitted by applicable law and subject to restrictions contained in the Purchase Agreement, be reissued or resold or may, at the Issuer’s or such third party’s option, be surrendered to the Trustee for cancellation.
+ARTICLE 4
+EXCHANGE
+Section 4.01.
+Right to Exchange.
+A Security in respect of which a Holder has delivered a Change in Control Purchase Notice exercising such Holder’s right to require the Issuer to repurchase such Security pursuant to Section 3.01 may not be exchanged pursuant to this Article 4.
+A Holder of Securities is not entitled to any rights of a Holder of Common Stock until such Holder has exchanged its Securities and received upon exchange thereof Common Stock.
+Section 4.02.
+Exercise of Exchange Right; No Adjustment for Interest or Dividends.
+Such notice shall also state the name or names (with address or addresses) in which the certificate or certificates for Common Stock that shall be issuable on such exchange shall be issued, and shall be accompanied by transfer or similar taxes, if required pursuant to Section 4.07.
+28
+To exchange a beneficial interest in a Global Security, a Holder must comply with subclause (d) of the immediately preceding sentence and comply with the Applicable Procedures of the Depositary for exchanging a beneficial interest in a Global Security or a Security that is not held in global form.
+The first date on which all of the requirements set forth in the first sentence of this paragraph (in the case of a Security held in certificated form) or the second sentence of this paragraph (in the case of a beneficial interest in a Global Security or a Security that is not held in global form) have been satisfied shall be deemed to be the date on which the applicable Securities shall have been tendered for exchange (the “Exchange Date”).
+Whether the Securities to be exchanged are Global Securities or held in certificated form, the Applicable Procedures or Exchange Notice will require the Holder to certify that it or the Person on whose behalf the Securities are being exchanged is a qualified institutional buyer within the meaning of Rule 144A.
+The Person in whose name any certificate or certificates for Common Stock shall be issuable upon such exchange shall be deemed to have become on said date the holder of record
+29
+of the shares represented thereby, to the extent permitted by applicable law; provided that any such surrender on any date when the stock transfer books of the Parent Guarantor shall be closed shall constitute the Person in whose name the certificates are to be issued as the record holder thereof for all purposes on the next succeeding day on which such stock transfer books are open, but such exchange shall be at the Exchange Rate in effect on the Exchange Date.
+Except as otherwise provided above in this paragraph, no payment or other adjustment shall be made for interest accrued on any Security exchanged or for dividends on any shares issued upon the exchange of such Security as provided in this Section 4.02.
+Upon the exchange of an interest in a Global Security, the Trustee (or other Exchange Agent appointed by the Issuer), or the Securities Custodian at the direction of the Trustee (or other Exchange Agent appointed by the Issuer), shall make a notation on such Global Security as to the reduction in the principal amount represented thereby.
+The Issuer’s delivery to the Holder of cash, shares of Common Stock or a combination of cash and shares of Common Stock, as applicable, will be deemed to satisfy the Issuer’s obligation with respect to such Security.
+Accordingly, the accrued but unpaid interest attributable to the period from the Issue Date of the Security, or from the most recent date on which interest has been duly paid or provided for, if later, to the Exchange Date, with respect to the exchanged Security, shall not be deemed canceled, extinguished or forfeited, but rather shall be deemed to be paid in full to the Holder thereof through delivery of cash and, if applicable, Common Stock (together with the cash payment, if any in lieu of fractional shares) in exchange for the Security being exchanged pursuant to the provisions hereof.
+30
+Holder, a new Security or Securities in authorized denominations in an aggregate principal amount equal to the unexchanged portion of the surrendered Security.
+Section 4.03.
+Exchange Rate Adjustment After Certain Change in Control or Certain Notices of Redemption.
+(a)                                 Subject to the provisions hereof, if
+An exchange of Securities will be deemed for these purposes to be “in connection with” such Additional Shares Change in Control if the notice of exchange of the Securities is received by the Exchange Agent on or after the date which is 15 days prior to the anticipated effective date of the Additional Shares Change in Control and, on or prior to the fifteenth Business Day following the effective date of the Additional Shares Change in Control (or if earlier and to the extent applicable, the close of business on the second Trading Day immediately preceding the day on which the Issuer is required to repurchase Securities pursuant to Section 3.01); or
+An exchange of Securities will be deemed for these purposes to be “in connection with” such an Additional Shares Redemption Notice if the notice of exchange of the Securities is received by the Exchange Agent from and including the date of such Additional Shares Redemption Notice until the close of business on the third Business Day preceding the Redemption Date contemplated by the Additional Shares Redemption Notice.
+(b)
+31
+Trading Days up to but excluding the date on which Additional Shares Change in Control becomes effective.
+(ii)                                  The number of Redemption Notice Event Shares shall be determined by reference to the table in paragraph (e) below and shall be based on the Redemption Date set forth in the Additional Shares Redemption Notice, and the Stock Price shall equal the average of the Closing Sale Prices of the Common Stock on the ten consecutive Trading Days up to but excluding such Redemption Date contemplated by the Additional Shares Redemption Notice.
+The “Effective Date” is the date on which the Additional Shares Change in Control becomes effective or the Redemption Date on which the redemption of the Securities contemplated by the Additional Shares Redemption Notice occurs, as the case may be.
+(c)                                  Notwithstanding anything herein to the contrary, in no event shall the total number of shares of Common Stock issuable upon exchange exceed 112.9943 shares per $1,000 principal amount of Securities, subject to adjustment in the same manner as the Exchange Rate as set forth in Section 4.04.
+(d)                                 The Stock Prices set forth in the first row of the table below shall be adjusted as of any date on which the Exchange Rate of the Securities is adjusted pursuant to Section 4.04.
+The adjusted Stock Prices will equal the Stock Prices applicable immediately prior to such adjustment, multiplied by a fraction, (i) the numerator of which is the Exchange Rate immediately prior to the adjustment giving rise to the Stock Price adjustment and (ii) the denominator of which is the Exchange Rate as so adjusted.
+In addition, the number of additional shares of Common Stock will be subject to adjustment in the same manner as the Exchange Rate set forth under Section 4.04.
+32
+Effective
+Date
+1.9181
+1.0407
+9.8377
+4.8281
+2.2168
+7.4117
+1.1946
+6.9667
+The exact Stock Price and Effective Date may not be set forth in the table, in which case:
+(1)                                 if the Stock Price is between two Stock Price amounts in the table or the Effective Date is between two Effective Dates in the table, the number of Change in Control Event Shares or Redemption Notice Event Shares will be determined by a straight-line interpolation between the number of Change in Control Event Shares or Redemption Notice Event Shares set forth for the higher and lower Stock Prices and the earlier and later Effective Dates, as applicable, based on a 365-day year;
+33
+The Make Whole Cap and Make Whole Floor shall be adjusted as of any date on which the Exchange Rate of the Securities is adjusted pursuant to Section 4.04.
+(f)                                   If a Holder exchanges its Securities at any time following the effective date of a transaction that constitutes an Additional Shares Change in Control, the consideration for such exchange shall be paid based on the kind and amount of cash, securities or other property into which Common Stock is converted pursuant to such Additional Shares Change in Control.
+Section 4.04.
+Adjustment of Exchange Rate.
+The Exchange Rate shall be adjusted from time to time by the Issuer as follows:
+ER1 = ER0 × OS1/OS0
+where
+ER0 = the Exchange Rate in effect immediately prior to the Ex-Dividend Date for such dividend or distribution or the effective date of such share split or share combination, as applicable;
+ER1 = the Exchange Rate in effect on and immediately after the Ex-Dividend Date for such dividend or distribution or the effective date of such share split or share combination, as applicable;
+OS0 = the number of shares of Common Stock outstanding on the Ex-Dividend Date for such dividend or distribution, or the effective date of such share split or share combination, as applicable; and
+OS1 = the number of shares of Common Stock outstanding on the Ex-Dividend Date for such dividend or distribution or the effective date of such share split or share combination, as applicable, as if such dividend, distribution, split or combination occurred at that time.
+If any dividend or distribution described in this paragraph (a) is declared but not so paid or made, the Exchange Rate shall be readjusted to the Exchange Rate that would then be in effect if such dividend or distribution had not been declared.
+34
+Exchange Rate will be readjusted to the extent that such rights, warrants, options, or other securities or convertible securities are not exercised or converted prior to the expiration of the exercisability or convertibility thereof):
+where
+ER1 = the Exchange Rate in effect on and immediately after the Ex-Dividend Date for such issuance;
+X = the number of shares of Common Stock issuable pursuant to such rights, warrants, options, other securities or convertible securities; and
+For purposes of this paragraph (b), in determining whether any rights, warrants, options, other securities or convertible securities entitle the holders to subscribe for or purchase or exercise a conversion right for Common Stock at less than the average Closing Sale Price of the Common Stock, and in determining the aggregate exercise or conversion price payable for such Common Stock, there shall be taken into account any consideration received by the Parent Guarantor for such rights, warrants, options, other securities or convertible securities and any amount payable on exercise or conversion thereof, with the value of such consideration, if other than cash, to be determined by the Board of Directors.
+If any right, warrant, option, other security or convertible security described in paragraph (b) is not exercised or converted prior to the expiration of the exercisability or convertibility thereof, the new Exchange Rate shall be readjusted to the Exchange Rate that would then be in effect if such right, warrant, option, other security or convertible security had not been so issued.
+(c)                                  If the Parent Guarantor distributes shares of its capital stock, evidences of indebtedness or other assets or property of the Parent Guarantor to all holders of Common Stock, excluding:
+(1)                                 dividends, distributions and rights, warrants, options, other securities or convertible securities referred to in paragraph (a) or (b) above;
+35
+(2)                                 dividends or distributions paid exclusively in cash; and
+(3)                                 Spin-Offs described below in this paragraph (c),
+then the Exchange Rate will be adjusted based on the following formula:
+where
+FMV = the fair market value (as determined in good faith by the Board of Directors) of the shares of capital stock, evidences of indebtedness, assets or property distributed with respect to each outstanding share of Common Stock on the Ex-Dividend Date for such distribution.
+With respect to an adjustment pursuant to this paragraph (c), where there has been a payment of a dividend or other distribution on Common Stock or shares of capital stock of any class or series, or similar equity interest, of or relating to a subsidiary or other business unit of the Parent Guarantor (a “Spin-Off”), the Exchange Rate in effect immediately before the close of business on the record date fixed for determination of holders of Common Stock entitled to receive the distribution will be increased based on the following formula:
+where
+ER0 = the Exchange Rate in effect immediately prior to the effective date of the Spin-Off;
+ER1 = the Exchange Rate in effect on and immediately after the effective date of the Spin-Off;
+36
+If any such dividend or distribution described in this paragraph (c) is declared but not paid or made, the Exchange Rate shall be readjusted to be the Exchange Rate that would then be in effect if such dividend or distribution had not been declared.
+where
+If any dividend or distribution described in this paragraph (d) is declared but not so paid or made, the Exchange Rate shall be readjusted to the Exchange Rate that would then be in effect if such dividend or distribution had not been declared.
+The Reference Dividend amount is subject to adjustment in a manner inversely proportional to adjustments to the Exchange Rate; provided that no adjustment will be made to the Reference Dividend for any adjustment to the Exchange Rate under this paragraph (d).
+37
+where
+ER0 = the Exchange Rate in effect on the date such tender offer or exchange offer expires;
+ER1 = the Exchange Rate in effect on the day next succeeding the date such tender offer or exchange offer expires;
+AC = the aggregate value of all cash and any other consideration (as determined by the Board of Directors) paid or payable for the shares of Common Stock purchased in such tender or exchange offer;
+OS0 = the number of shares of Common Stock outstanding immediately prior to the date such tender offer or exchange offer expires;
+OS1 = the number of shares of Common Stock outstanding immediately after such tender or exchange offer expires (after giving effect to the purchase or exchange of shares of Common Stock pursuant to such tender offer or exchange offer); and
+If the application of the foregoing formula would result in a decrease in the Exchange Rate, no adjustment to the Exchange Rate will be made.
+If the Parent Guarantor or one of its subsidiaries is obligated to purchase Common Stock pursuant to any such tender offer or exchange offer, but it or such subsidiary is permanently prevented by applicable law from effecting any such purchases or all such purchases are rescinded, the Exchange Rate shall be readjusted to be the Exchange Rate that would be in effect if such tender offer or exchange offer had not been made.
+(f)                                   If the Parent Guarantor adopts a shareholder rights plan while any Securities remain Outstanding, Holders of Securities will receive, upon an exchange of their Securities for shares of Common Stock, in addition to Common Stock, rights under such shareholder rights plan unless, prior to exchange, the rights have expired, terminated or been redeemed or unless the rights have separated from the Common Stock.
+If the rights provided for in the rights plan adopted by the Parent Guarantor have separated from the Common Stock in accordance with the provisions of the applicable shareholder rights agreement so that Holders of Securities would not be entitled to receive any rights in respect of Common Stock issuable upon exchange of the Securities, the Exchange Rate will be adjusted at the time of separation as if the Parent Guarantor had distributed, to all holders of Common Stock, shares of capital stock, evidences of indebtedness or other assets or property pursuant to Section 4.04(c), subject to readjustment upon the subsequent expiration, termination or redemption of the rights.
+In lieu of any such adjustment, the Parent Guarantor may amend such applicable shareholder rights agreement to provide that upon exchange of Securities, the Holders will receive, in addition to Common Stock issuable upon such exchange, the rights which would have attached to such Common Stock if the rights had not become separated from the Common Stock under such shareholder rights plan.
+38
+(g)                                  In addition to the adjustments pursuant to paragraphs (a) through (f) above, the Issuer may increase the Exchange Rate in order to avoid or diminish any income tax to holders of the capital stock of the Parent Guarantor resulting from any dividend or distribution of capital stock (or rights to acquire shares of Common Stock) or from any event treated as such for income tax purposes.
+The Issuer may also, from time to time, to the extent permitted by applicable law increase the Exchange Rate by any amount for any period if the Issuer has determined that such increase would be in the best interest of the Issuer or any Guarantor.
+The Issuer shall not make any adjustment to the Exchange Rate if Holders are permitted to participate in the dividend, distribution or transaction, on an as-exchanged basis, in the transactions in this Section 4.04.
+(h)                                 Notwithstanding anything to the contrary contained herein, the applicable Exchange Price and Exchange Rate will not be adjusted upon certain events, including but not limited to:
+(1)                                 the issuance of any shares of Common Stock pursuant to any present or future plan providing for the reinvestment of dividends or interest payable on securities of the Issuer or those of the Parent Guarantor and the investment of additional optional amounts in shares of Common Stock under any plan;
+(2)                                 the issuance of any shares of Common Stock or partnership units of the Issuer or options or rights to purchase those shares or units pursuant to any present or future employee, director, trustee or consultant benefit plan, employee agreement or arrangement or program of the Issuer or the Parent Guarantor;
+(3)                                 the issuance of any shares of Common Stock pursuant to any option, warrant, right, or exercisable, exchangeable or convertible security outstanding as of the date the Securities were first issued;
+(4)                                 a change in the par value of the Common Stock;
+(5)                                 accumulated and unpaid dividends or distributions;
+(7)                                 for the avoidance of doubt, the issuance of limited partnership units by the Issuer, Common Stock or common stock of the Subsidiary Guarantor, or, in any case, the payment of cash upon redemption thereof.
+(i)                                     No adjustment in the applicable Exchange Price will be required unless the adjustment would require an increase or decrease of at least 1% of the applicable Exchange Price.
+If the adjustment is not made because the adjustment does not change the Exchange Price
+39
+by at least 1%, then the adjustment that is not made will be carried forward and taken into account in any future adjustment.
+Notwithstanding the foregoing, upon exchange of the Securities, upon required repurchases of the Securities in connection with a Change in Control pursuant to Section 3.01, upon redemption of the Securities pursuant to Section 11.01 and five Business Days prior to the Final Maturity Date, all adjustments not previously made shall be made.
+Except as specifically described above, the applicable Exchange Price shall not be subject to adjustment in the case of the issuance of any shares of Common Stock or the Parent Guarantor’s preferred shares, or securities exchangeable for or convertible into Common Stock or the Parent Guarantor’s preferred shares.
+Failure to deliver such notice shall not affect the legality or validity of any such adjustment.
+(k)                                 For purposes of this Section 4.04, the number of shares of Common Stock at any time outstanding shall not include shares held in the treasury of the Parent Guarantor but shall include shares issuable in respect of scrip certificates issued in lieu of fractions of Common Stock.
+(l)                                     For purposes of this Section 4.04, “record date” shall mean, with respect to any dividend, distribution or other transaction or event in which the Holders of Common Stock have the right to receive any cash, securities or other property or into which the Common Stock (or other applicable security) is exchanged or converted into any combination of cash, securities or other property, the date fixed for determination of shareholders entitled to receive such cash, security or other property (whether or not such date is fixed by the Board of Directors or by statute, contract or otherwise).
+Section 4.05.
+Exchange Rate.
+Section 4.06.
+No fractional shares of Common Stock or scrip certificates representing fractional shares shall be issued upon exchange of Securities.
+If more than one Security shall be surrendered for exchange at one time by the same Holder, the number of full shares of Common Stock that shall be issuable upon exchange shall be computed on the basis of the aggregate principal amount of the Securities (or specified portions thereof to the extent permitted hereby) so surrendered.
+40
+Section 4.07.
+Taxes on Shares Issued.
+If a Holder exchanges Securities, the Issuer will pay any documentary stamp or similar issue or transfer tax due on the delivery of Common Stock upon the exchange, if any, unless the tax is due because the Holder requests the shares to be delivered to a person other than the Holder, in which case the Holder will pay the tax.
+Section 4.08.
+Reservation of Shares, Shares to be Fully Paid; Compliance with Governmental Requirements; Listing of Common Stock.
+The Parent Guarantor shall provide, free from preemptive rights, out of its authorized but unissued shares or shares held in treasury, sufficient Common Stock to provide for the exchange of the Securities as required by this Indenture from time to time as such Securities are presented for exchange to the extent the Issuer has elected to settle the exchange of the Securities in Common Stock.
+The Issuer covenants that all Common Stock issued upon exchange of Securities will upon issue be fully paid and non-assessable by the Parent Guarantor and free from all taxes, liens and charges with respect to the issue thereof, provided that if certain of the possible adjustments to the exchange price are made, a Holder shall be deemed to have a received a distribution from the Issuer even though such Holder has not received any cash or property as a result of such adjustments, the Issuer intends to withhold Federal income tax (in the case of Foreign Note Holders) on any deemed distribution from the Issuer from cash payments of interest otherwise payable on the Securities and payments upon a redemption or exchange of the Securities.
+The Issuer covenants that, if any Common Stock to be provided for the purpose of exchange of Securities hereunder require registration with or approval of any governmental authority under any federal or state law before such shares may be validly issued upon exchange, the Parent Guarantor shall, as expeditiously as practicable, secure such registration or approval, as the case may be, provided, however, that Common Stock provided for exchange hereunder need not be registered under the U.S. Federal securities laws and each recipient of such Common Stock shall have the rights set forth in the Registration Rights Agreement.
+Section 4.09.
+Responsibility of Trustee.
+The Trustee and any other Exchange Agent shall not at any time be under any duty or responsibility to any Holder to determine the Exchange Rate or Exchange Price or whether any facts exist which may require any adjustment of the Exchange Rate, or with respect to the nature or extent or calculation of any such adjustment when made, or with respect to the method employed, or herein or in any supplemental indenture provided to be employed, in making the same.
+The Trustee and any other Exchange Agent shall not be accountable with respect to the validity or value (or the kind or amount) of any Common Stock, or of any capital stock, other securities or other assets or property, which may at any time be issued or delivered upon the exchange of any Security; and the Trustee and any other Exchange Agent make no representations with respect thereto.
+Neither the Trustee nor any Exchange Agent shall be responsible for any failure of the Issuer to issue, transfer or deliver any Common Stock or stock certificates or other securities or property or cash
+41
+upon the surrender of any Security for the purpose of exchange or to comply with any of the duties, responsibilities or covenants of the Issuer contained in this Article 4.
+Without limiting the generality of the foregoing, neither the Trustee nor any Exchange Agent shall be under any responsibility to determine the correctness of any provisions contained in any supplemental indenture entered into pursuant to Section 4.03 relating either to the kind or amount of shares of capital stock or other securities or other assets or property (including cash) receivable by Holders upon the exchange of their Securities after any event referred to in such Section 4.03 or to any adjustment to be made with respect thereto, but, subject to the provisions of Section 8.01(f), may accept as conclusive evidence of the correctness of any such provisions, and shall be protected in relying upon, the Officer’s Certificate (which the Issuer shall be obligated to file with the Trustee prior to the execution of any such supplemental indenture) with respect thereto.
+Section 4.10.
+Notice to Holders Prior to Certain Actions.
+In case:
+(a)                                 the Parent Guarantor shall declare a dividend (or any other distribution) on the Common Stock that would require an adjustment in the Exchange Rate pursuant to Section 4.04; or
+(b)                                 the Parent Guarantor shall authorize the granting to the holders of all or substantially all of the Common Stock of rights or warrants to subscribe for or purchase any share of any class or any other rights or warrants; or
+(c)                                  of any reclassification or reorganization of the Common Stock (other than a subdivision or combination of its outstanding Common Stock, or a change in par value, or from par value to no par value, or from no par value to par value), or of any consolidation, combination, merger or share exchange to which the Issuer or the Parent Guarantor is a party and for which approval of any stockholders of the Parent Guarantor is required, or of the sale or transfer of all or substantially all of the assets of the Parent Guarantor; or
+Failure to give such notice, or any defect therein, shall not affect the legality or validity of such dividend, distribution, reclassification, consolidation, merger, sale, transfer, dissolution, liquidation or winding up.
+Section 4.11.
+(a)  Upon valid tender of the Securities for exchange under this Article 4, subject to Sections 4.01, 4.02 and this Section 4.11, the Issuer shall satisfy its obligation upon exchange (the “Exchange Obligation”) by delivery on
+42
+(1)                                 Share Settlement.
+(2)                                 Cash Settlement.
+(3)                                 Combined Settlement.
+(b)                                 The Issuer shall initially elect the Partial Cash Amount to be the principal amount of the Securities and shall deliver any amount of the aggregate Daily Exchange Value in excess of the principal amount of the Securities, if any, in Common Stock; provided that such election is revocable and the Issuer may make any future election revocably or irrevocably.
+No change in election on or after the Exchange Date shall affect the exchanging Holder with respect to Securities submitted for exchange by such Holder.
+43
+Section 4.12.
+Ownership Limit.
+Notwithstanding any other provision of the Securities, no Holders of Securities shall be entitled to receive shares of Common Stock upon an exchange of Securities to the extent that receipt of such shares of Common Stock would cause such Holder (together with such Holder’s Affiliates) to exceed the ownership limit contained in the Parent Guarantor’s charter.
+Any attempted exchange of Securities in excess of such ownership limit, in the absence of such a waiver, shall be void to the extent of such excess, and the related Securities or portions thereof shall be returned by the Issuer to the Holder as promptly as practicable.
+The Issuer shall have no further obligation to the Holder with respect to such voided exchange and such Securities will be treated as if they had not been submitted for exchange.
+A Holder of returned Securities may resubmit such Securities for exchange at a later date subject to compliance with the terms hereof and the ownership limitations described in this Section 4.12.
+Notwithstanding the foregoing provisions of this Section 4.12, in the event a Holder attempts to exchange Securities but is prevented from doing so as a result of the ownership limitation, the Issuer may, at its option, pay cash to such Holder upon such exchange as provided herein.
+Section 4.13.
+Calculation in Respect of Securities.
+Except as otherwise specifically stated herein or in the Securities, all calculations to be made in respect of the Securities shall be the obligation of the Issuer.
+These calculations include, but are not limited to, determinations of the Closing Sale Price of the Common Stock, any accrued interest payable on the Securities, redemption prices, the Exchange Price and the Exchange Rate of the Securities.
+All calculations made by the Issuer or its agent as contemplated pursuant to the terms hereof and of the Securities shall be made in good faith and be final and binding on the Securities and the Holders absent manifest error.
+The Issuer shall provide a schedule of calculations to the Trustee, and the Trustee shall be entitled to rely upon the accuracy of the calculations by the Issuer without independent verification.
+ARTICLE 5
+COVENANTS
+Section 5.01.
+Subject to Section 4.02, accrued and unpaid interest on any Security that is payable, and is punctually paid or duly provided for, on any Interest Payment Date shall be paid to the Person in whose name that Security is registered at the close of business on the Regular Record Date for such interest at the office or agency of the Issuer maintained for such purpose.
+44
+Any wire transfer instructions received by the Trustee will remain in effect until revoked by the Holder.
+(c)                                  The Issuer shall comply with any requirement to withhold any taxes with respect to (i) payments made pursuant to the terms of this Indenture (including without limitation, interest and original issue discount), (ii) redemption payments, (iii) any exchange of the Securities and (iv) any deemed payment or distribution made with respect to the Securities as a result of an adjustment to the Exchange Rate.
+To the extent the Issuer determines in its sole discretion that the Issuer is required to withhold any taxes with respect to a deemed payment or distribution with respect to a Security on account of an adjustment to the Exchange Rate, the Issuer shall withhold such amount from payments otherwise due hereunder to the holder of such Security and report such withholding to the Holders affected if and as required by law.
+Any amount withheld by the Issuer pursuant to this Section 5.01(c) with respect to a Security shall be treated for all purposes of this Indenture as if it had been paid directly to the holder of such Security.
+Section 5.02.
+If the Issuer, any Guarantor or any of their Affiliates shall at any time act as its own Paying Agent with respect to the Securities, the Issuer or any Guarantor, as the case may be, will, on or before each due date of principal of, and accrued and unpaid interest on, the Securities, set aside and hold in trust for the benefit of the Persons entitled thereto a sum sufficient to pay the principal and any interest so becoming due until such sums shall be paid to such Persons or otherwise disposed of as herein provided and will promptly notify the Trustee of its action or failure to so act.
+45
+(d)                                 Subject to any applicable abandoned property law, any money deposited with the Trustee or the Paying Agent, or then held by the Issuer or any Guarantor in trust for the payment of the principal of or any interest on any Security of any series and remaining unclaimed for two years after such principal or interest has become due or payable shall be paid to the Issuer or any Guarantor or (if then held by the Issuer or any Guarantor, as applicable) shall be discharged from such trust; and the Holder of such Security shall thereafter, as an unsecured general creditor, look only to the Issuer or the Guarantors for payment thereof, and all liability of the Trustee or such Paying Agent with respect to such trust money, and all liability of the Issuer and the Guarantors, as trustee thereof, shall thereupon cease; provided that the Trustee or such Paying Agent, before being required to make any such repayment, may at the expense of the Issuer cause to be published once, in a newspaper published in the English language, customarily published on each Business Day and of general circulation in The City of New York, notice that such money remains unclaimed and that, after a date specified therein, which shall not be less than 30 days from the date of such publication, any unclaimed balance of such money then remaining will be repaid to the Issuer.
+Section 5.03.
+Reports.
+(a)                                 So long as the Issuer is not subject to the information requirements of Section 13 or 15(d) of the Exchange Act, the Issuer shall furnish to Holders of Securities and beneficial owners and prospective purchasers thereof the information with respect to the Issuer required to be delivered pursuant to Rule 144A(d)(4) under the Securities Act in order to permit compliance with Rule 144A in connection with resales of such Securities.
+To the extent that the Parent Guarantor has filed such information with the SEC through the SEC’s EDGAR system, or any successor system employed by the SEC, the Issuer shall be deemed to have complied with the requirement of this Section 5.03(b).
+Section 5.04.
+Compliance Certificates.
+46
+knowledge of the Issuer’s compliance with all terms, conditions and covenants on its part contained in this Indenture and stating whether or not the signer knows of any Default or Event of Default.
+If such signer knows of such a Default or Event of Default, the Officer’s Certificate shall describe the Default or Event of Default and the efforts to remedy the same.
+For the purposes of this Section 5.04, compliance shall be determined without regard to any grace period or requirement of notice provided pursuant to the terms of this Indenture.
+Section 5.05.
+Further Instruments and Acts.
+Section 5.06.
+Maintenance of Existence as a Limited Partnership.
+Subject to Article 6, the Issuer and the Guarantors will do or cause to be done all things necessary to preserve and keep in full force and effect the Issuer’s existence as a limited partnership or corporation, respectively.
+Section 5.07.
+Stay, Extension and Usury Laws.
+Each of the Issuer and the Guarantors covenants (to the extent that it may lawfully do so) that it shall not at any time insist upon, plead, or in any manner whatsoever claim or take the benefit or advantage of, any stay, extension or usury law or other law which would prohibit or forgive the Issuer from paying all or any portion of the principal of or accrued but unpaid interest, if any, on the Securities as contemplated herein, wherever enacted, now or at any time hereafter in force, or which may affect the covenants or the performance of this Indenture, and the Issuer and the Guarantors (to the extent they may lawfully do so) hereby expressly waive all benefit or advantage of any such law and covenants that it will not, by resort to any such law, hinder, delay or impede the execution of any power herein granted to the Trustee, but will suffer and permit the execution of every such power as though no such law had been enacted.
+Section 5.08.
+Calculation of Original Issue Discount.
+Section 5.09.
+Maintenance of Office or Agency.
+The Issuer will maintain an office or agency of the Trustee, Registrar and Paying Agent where securities may be presented or surrendered for payment, where Securities may be surrendered for registration of transfer, purchase or redemption and where notices and demands to or upon the Issuer in respect of the Securities and this Indenture may be served.
+The Corporate Trust Office shall initially be one such office or agency for all of the aforesaid purposes.
+If at any time the Issuer shall fail to maintain any such required office or agency or shall fail to furnish the Trustee with the address thereof, such presentations, surrenders, notices and demands may be made or served at the address of the Trustee set forth in Section 12.01.
+The Issuer may also from time to time designate one or more other offices or agencies where the Securities may be presented or surrendered for any or all such purposes and may from time to time rescind such designations;
+47
+provided, however, that no such designation or rescission shall in any manner relieve the Issuer of its obligation to maintain an office or agency.
+Section 5.10.
+Registration Rights.
+The Issuer agrees that the Holders from time to time of Registrable Securities (as defined below) are entitled to the benefits of the Registration Rights Agreement.
+Whenever in this Indenture there is mentioned, in any context, the payment of the principal of, premium, if any, or interest on, or in respect of, any Security, such mention shall be deemed to include mention of the payment of Liquidated Damages provided for in the Securities to the extent that, in such context, Liquidated Damages are, were or would be payable in respect thereof pursuant to the provisions of the Securities and express mention of the payment of Liquidated Damages (if applicable) in any provisions hereof or thereof shall not be construed as excluding Liquidated Damages in those provisions hereof or thereof where such express mention is not made.
+For the purposes of this Indenture and the Registration Rights Agreement, “Registrable Securities” means all or any portion of the shares of Common Stock issued or issuable upon exchange of such Securities; provided, however, that a security ceases to be a Registrable Security when it is no longer Restricted Common Stock.
+If the shares of Common Stock issued or issuable upon exchange of a Security, are Registrable Securities, and if the Holder thereof elects to sell such Registrable Securities pursuant to a registration statement filed pursuant to the Registration Rights Agreement then, by its acceptance thereof, the Holder of such Registrable Securities will have agreed to be bound by the terms of the Registration Rights Agreement relating to the Registrable Securities which are the subject of such election.
+For the purposes of the Registration Rights Agreement, the term “Holder” means any Person that is a Holder of Securities or a holder of record of Registrable Securities.
+Section 6.01.
+Issuer and Guarantors May Consolidate, Etc., Only on Certain Terms.
+Each of the Issuer, the Parent Guarantor and the Subsidiary Guarantor shall not (a) consolidate with or merge with or into any other Person or sell, convey, lease or transfer the
+48
+Issuer’s, the Parent Guarantor’s or the Subsidiary Guarantor’s, as applicable, properties and assets substantially as an entirety to any other Person in any one transaction or series of related transactions, or (b) permit any Person to consolidate with or merge into the Issuer, the Parent Guarantor or the Subsidiary Guarantor, as applicable, unless:
+(1)                                 in the case of a merger or consolidation, the Issuer, the Parent Guarantor or the Subsidiary Guarantor, as applicable, is the surviving person or if the Issuer, the Parent Guarantor or the Subsidiary Guarantor, as applicable, is not the surviving person, the surviving person formed by such consolidation or into which the Issuer, the Parent Guarantor or the Subsidiary Guarantor, as applicable, is merged or the person to which the Issuer’s, the Parent Guarantor’s or the Subsidiary Guarantor’s, as applicable, properties and assets are so transferred shall be an entity organized and existing under the laws of the United States of America, any state thereof or the District of Columbia and shall execute and deliver to the Trustee a supplemental indenture expressly assuming, in the case of a transaction involving the Issuer, the payment when due of the principal of and interest on the Securities and the performance of the Issuer’s other covenants under this Indenture; or
+(2)                                 if the successor person is the successor entity to the Parent Guarantor or the Subsidiary Guarantor, the successor person shall expressly assume, by supplemental indenture executed by the successor person and delivered to the Trustee, the observance of all of the covenants and conditions contained in the Guarantee and in this Indenture to be performed or observed by the Parent Guarantor or the Subsidiary Guarantor, as applicable; and
+In the event that the Issuer, the Parent Guarantor or the Subsidiary Guarantor, as the case may be, is not the continuing entity, then, for purposes of above, the references to the Issuer, the Parent Guarantor or the Subsidiary Guarantor shall be deemed to refer to the successor entity.
+Section 6.02.
+Successor Substituted.
+Upon any consolidation of the Issuer, the Parent Guarantor or the Subsidiary Guarantor with, or merger of the Issuer, the Parent Guarantor or the Subsidiary Guarantor into, any other Person or any sale, conveyance, lease or transfer of the Issuer’s, the Parent Guarantor’s or the Subsidiary Guarantor’s properties and assets substantially as an entirety to any other Person, in each case in accordance with Section 6.01, the successor Person formed by such consolidation or into which the Issuer, the Parent Guarantor or the Subsidiary Guarantor is merged or to which such sale, conveyance, lease or transfer is made shall succeed to, and be substituted for, and may exercise every right and power of, the Issuer, the Parent Guarantor or the Subsidiary Guarantor under this Indenture with the same effect as if such successor Person had been named as the Issuer, the Parent Guarantor or the Subsidiary Guarantor herein, and thereafter, except for obligations the predecessor Person may have under the supplemental indenture that evidences the assignment of rights and obligations under this Indenture upon such merger, consolidation, sale, conveyance, lease or transfer, the predecessor
+49
+Person shall be relieved of all obligations and covenants under this Indenture, the Securities and the Guarantee, as applicable.
+ARTICLE 7
+DEFAULT AND REMEDIES
+Section 7.01.
+Events of Default.
+“Event of Default,” wherever used herein with respect to the Securities, means any one of the following events (whatever the reason for such Event of Default and whether it shall be voluntary or involuntary or be effected by operation of law or pursuant to any judgment, decree or order of any court or any order, rule, regulation of any administrative or governmental body):
+(1)                                 default by the Issuer in the payment of any interest upon any Security when it becomes due and payable, and continuance of such default for a period of 30 days; or
+(2)                                 default by the Issuer in the payment of principal of or any premium, if any, on any Securities when it becomes due and payable; or
+(5)                                 failure by the Issuer to provide notice of the occurrence of a Change in Control as required by Section 3.01; or
+(6)                                 default by the Issuer or a Guarantor, as the case may be, under any bond, debenture, note or other evidence of indebtedness for money borrowed by the Issuer or a Guarantor, as the case may be, having an aggregate principal amount outstanding of at least $25,000,000, or under any mortgage, indenture or instrument (including this Indenture) under which there may be issued or by which there may be secured or evidenced any indebtedness for money borrowed by the Issuer having an aggregate principal amount outstanding of at least $25,000,000, whether such indebtedness now exists or shall hereafter be created, which default (A) shall constitute a failure to pay any portion of the principal of such indebtedness when due and payable after the expiration of any applicable grace period with respect thereto or (B) shall have resulted in such indebtedness becoming or being declared due and payable prior to the date on which it would otherwise have become due and payable, without, in the case of Clause (A), such indebtedness having been discharged or without, in the case of Clause (B), such
+50
+(8)                                 the entry by a court having jurisdiction in the premises of (A) a decree or order for relief in respect of the Issuer or a Guarantor in an involuntary case or proceeding under any applicable Federal or State bankruptcy, insolvency, reorganization or other similar law or (B) a decree or order adjudging the Issuer or a Guarantor a bankrupt or insolvent, or approving as properly filed a petition seeking reorganization, arrangement, adjustment or composition of or in respect of the Issuer or a Guarantor under any applicable Federal or State law, or appointing a custodian, receiver, liquidator, assignee, trustee, sequestrator or other similar official of the Issuer or a Guarantor of any substantial part of its property, or ordering the winding up or liquidation of its affairs, and the continuance of any such decree or order for relief or any such other decree or order unstayed and in effect for a period of 60 consecutive days;
+(9)                                 the commencement by the Issuer or a Guarantor of a voluntary case or proceeding under any applicable Federal or State bankruptcy, insolvency, reorganization or other similar law or of any other case or proceeding to be adjudicated a bankrupt or insolvent, or the consent by it to the entry of a decree or order for relief in respect of the Issuer, a Guarantor, or any of the Parent Guarantors’ Significant Subsidiaries that are not CDO Subsidiaries in an involuntary case or proceeding under any applicable Federal or State bankruptcy, insolvency, reorganization or other similar law or to the commencement of any bankruptcy or insolvency case or proceeding against it, or the filing by it of a petition or answer or consent seeking reorganization or relief under any applicable Federal or State law, or the consent by it to the filing of such petition or to the appointment of or taking possession by a custodian, receiver, liquidator, assignee, trustee, sequestrator or other similar official of the Issuer, a Guarantor or any of such Significant Subsidiaries that are not CDO Subsidiaries or of any substantial part of its property, or the making by it of an assignment for the benefit of creditors, or the admission by it in writing of its inability to pay its debts generally as they become due, or the taking of
+51
+corporate action by the Issuer, a Guarantor or any of such Significant Subsidiaries that are not CDO Subsidiaries in furtherance of any such action; or
+(10)                          either (A) the entry by a court having jurisdiction in the premises of (1) a decree or order for relief in respect of a CDO Subsidiary in an involuntary case or proceeding under any applicable Federal or State bankruptcy, insolvency, reorganization or other similar law or (2) a decree or order adjudging a CDO Subsidiary a bankrupt or insolvent, or approving as properly filed a petition seeking reorganization, arrangement, adjustment or composition of or in respect of a CDO Subsidiary under any applicable Federal or State law, or appointing a custodian, receiver, liquidator, assignee, trustee, sequestrator or other similar official of a CDO Subsidiary of any substantial part of its property, or ordering the winding up or liquidation of its affairs, and the continuance of any such decree or order for relief or any such other decree or order unstayed and in effect for a period of 60 consecutive days, or (B) the commencement by a CDO Subsidiary of a voluntary case or proceeding under any applicable Federal or State bankruptcy, insolvency, reorganization or other similar law or of any other case or proceeding to be adjudicated a bankrupt or insolvent, or the consent by it to the entry of a decree or order for relief in respect of a CDO Subsidiary, in an involuntary case or proceeding under any applicable Federal or State bankruptcy, insolvency, reorganization or other similar law or to the commencement of any bankruptcy or insolvency case or proceeding against it, or the filing by it of a petition or answer or consent seeking reorganization or relief under any applicable Federal or State law, or the consent by it to the filing of such petition or to the appointment of or taking possession by a custodian, receiver, liquidator, assignee, trustee, sequestrator or other similar official of the CDO Subsidiary or of any substantial part of its property, or the making by it of an assignment for the benefit of creditors, or the admission by it in writing of its inability to pay its debts generally as they become due, or the taking of corporate action by the CDO Subsidiary in furtherance of any such action (any such filing or event described in the foregoing, a “Reference Event”); provided, however, in each case, that it shall be an Event of Default under this Section 7.01(10) only if the potential loss in the case of a complete loss of the Parent Guarantor’s capital at risk in such CDO Subsidiary, together with such potential losses from any other CDO Subsidiaries that have filed for bankruptcy or commenced such other events described in this Section 7.01(10) within a period of 90 days prior to a Reference Event, exceeds 10% of the Consolidated Net Assets of the Parent Guarantor as of the fiscal quarter immediately prior to the date of the Reference Event.
+For purposes of this Section 7.01(10), “Consolidated Net Assets” means the excess of consolidated assets over consolidated liabilities.
+Section 7.02.
+Acceleration.
+Upon such a declaration, such principal amount and such accrued and unpaid interest thereon, if any, shall be due and payable immediately.
+52
+principal amount of the Securities shall automatically, become immediately due and payable without any declaration or other act on the part of the Trustee or any Holders of Securities.
+(B)                               all overdue installments of interest on all Securities then Outstanding,
+(C)                               the principal of any Securities which are Outstanding and have become due otherwise than by such declaration of acceleration and interest thereon at the rate or rates borne by or provided for in the Securities,
+(D)                               to the extent that payment of such interest is lawful, interest upon overdue installments of interest at the rate or rates borne by or provided for in the Securities, and
+(E)                                all sums paid or advanced by the Trustee hereunder and the reasonable compensation, expenses, disbursements and advances of the Trustee, its agents and counsel; and
+(2)                                 all Events of Default with respect to the Securities, other than the nonpayment of the principal of (or specified portion thereof) or interest on the Securities which have become due solely by such declaration of acceleration, have been cured or waived as provided in Section 7.04.
+No such rescission shall affect any subsequent default or impair any right consequent thereon.
+The additional interest will accrue on all Securities then Outstanding from and including the date on which such Event of Default first occurs to but not including the 60th day thereafter (or such earlier date on which such Event of Default shall have been cured or waived).
+The provisions of this paragraph will not affect the rights of Holders in the event of the occurrence of any other Event of Default.
+53
+Section 7.03.
+Other Remedies.
+(a)                                 If an Event of Default occurs and is continuing, the Trustee may, but shall not be obligated to, pursue any available remedy by proceeding at law or in equity to collect payment of the principal amount and accrued and unpaid interest, if any, on the Securities or to enforce the performance of any provision of the Securities or this Indenture.
+(b)                                 The Trustee may maintain a proceeding even if it does not possess any of the Securities or does not produce any of them in the proceeding.
+A delay or omission by the Trustee or any Holder in exercising any right or remedy accruing upon an Event of Default shall not impair the right or remedy or constitute a waiver of or acquiescence in the Event of Default.
+No remedy is exclusive of any other remedy.
+All available remedies are cumulative to the extent permitted by applicable law.
+Section 7.04.
+Waiver of Defaults and Events of Default.
+Subject to Sections 7.06 and 10.02, the Holders of no less than a majority in aggregate principal amount of the Securities then Outstanding by written notice to the Trustee may waive any past Default or Event of Default and its consequences, except an uncured Default or Event of Default in the payment of the principal of or any accrued but unpaid interest on any Security, or any Default or Event of Default in respect of any provision of this Indenture which, under Section 10.02, cannot be modified or amended without the consent of the Holder of each Security then Outstanding affected.
+Section 7.05.
+Limitations on Suits.
+(a)                                 A Holder may not pursue any remedy with respect to this Indenture or the Securities (except actions for payment of overdue principal or interest or for the exchange of the Securities pursuant to Article 4) unless:
+(3)                                 such Holder or Holders offer to the Trustee satisfactory security or indemnity to the Trustee against any loss, liability or expense;
+54
+(5)                                 no direction inconsistent with such written request has been given to the Trustee during such 60-day period by the Holders of a majority in aggregate principal amount of the Securities then Outstanding.
+(b)                                 No Holder of a Security shall have any right under any provision of this Indenture or the Securities to affect, disturb, or prejudice the rights of another Holder of a Security or to obtain a preference or priority over another Holder of a Security.
+Section 7.06.
+Notwithstanding any other provision of this Indenture, the right of any Holder of a Security to receive payment of the principal or interest in respect of the Securities held by such Holder, on or after the respective due dates expressed in the Securities and this Indenture (whether upon repurchase or otherwise), and to exchange such Security in accordance with Article 4, and to bring suit for the enforcement of any such payment on or after such respective due dates or for the right to exchange in accordance with Article 4, is absolute and unconditional and shall not be impaired or affected without the consent of the Holder.
+Section 7.07.
+Collection Suit by Trustee.
+If an Event of Default described in clause (1) or (2) of Section 7.01 occurs and is continuing, the Trustee may recover judgment in its own name and as trustee of an express trust against the Issuer or another obligor on the Securities for the whole amount owing with respect to the Securities and such further amount as shall be sufficient to cover the costs and expenses of collection, including the reasonable compensation, expenses, disbursements and advances of the Trustee, its agents and counsel.
+Section 7.08.
+The Trustee may file such proofs of claim and other papers or documents as may be necessary or advisable in order to have the claims of the Trustee (including any claim for the reasonable compensation, expenses, disbursements and advances of the Trustee, its agents and counsel) and the Holders allowed in any judicial proceedings relative to the Issuer or the Guarantors (or any other obligor on the Securities), its creditors or its property and shall be entitled and empowered to collect and receive any money or other property payable or deliverable on any such claims and to distribute the same, and any receiver in any such judicial proceeding is hereby authorized by each Holder to make such payments to the Trustee and, in the event that the Trustee shall consent to the making of such payments directly to the Holders, to pay to the Trustee any amount due to it for the reasonable compensation, expenses, disbursements and advances of the Trustee, its agents and counsel, and any other amounts due to the Trustee under Section 8.07, and to the extent that such payment of the reasonable compensation, expenses, disbursements and advances in any such proceedings shall be denied for any reason, payment of the same shall be secured by a lien on, and shall be paid out of, any and all distributions, dividends, money, securities and other property which the Holders may be entitled to receive in such proceedings, whether in liquidation or under any plan of reorganization or arrangement or otherwise.
+Nothing herein contained shall be deemed to authorize the Trustee to authorize or consent to, or, on behalf of any Holder, to authorize, accept or adopt any plan of reorganization, arrangement, adjustment or composition affecting the Securities or the rights of any Holder thereof, or to authorize the Trustee to vote in respect of the claim of any Holder in any such proceeding.
+55
+Section 7.09.
+Priorities.
+(1)                                 First, to the Trustee for amounts due under Section 8.07, including, without limitations, payment of all compensation, expenses and liabilities incurred, and all advances made, by the Trustee and the costs and expenses of collection;
+(2)                                 Second, to Holders for amounts due and unpaid on the Securities for the principal and interest, as applicable, ratably, without preference or priority of any kind, according to such respective amounts due and payable on the Holders’ Securities; and
+(3)                                 Third, the balance, if any, to the Issuer.
+Section 7.10.
+Undertaking for Costs.
+In any suit for the enforcement of any right or remedy under this Indenture or in any suit against the Trustee for any action taken or omitted by it as Trustee, a court in its discretion may require the filing by any party litigant in the suit of an undertaking to pay the costs of the suit, and the court in its discretion may assess reasonable costs, including reasonable attorneys’ fees and expenses, against any party litigant in the suit, having due regard to the merits and good faith of the claims or defenses made by the party litigant.
+This Section 7.10 does not apply to a suit made by the Trustee, a suit by a Holder pursuant to Section 7.06, or a suit by Holders of more than 25% in aggregate principal amount of the Securities then Outstanding.
+ARTICLE 8
+TRUSTEE
+Section 8.01.
+Obligations of Trustee.
+(a)                                 If an Event of Default of which a Responsible Officer of the Trustee shall have actual knowledge has occurred and is continuing, the Trustee shall exercise such of the rights and powers vested in it by this Indenture and use the same degree of care and skill in its exercise as a prudent person would exercise or use under the circumstances in the conduct of his or her own affairs.
+(b)                                 Except during the continuance of an Event of Default of which a Responsible Officer of the Trustee shall have actual knowledge:
+(1)                                 the Trustee need perform only those duties as are specifically set forth in this Indenture and no others and no implied covenants or obligations shall be read into this Indenture against the Trustee; and
+56
+(2)                                 in the absence of bad faith on its part, the Trustee may conclusively rely, as to the truth of the statements and the correctness of the opinions expressed therein, upon certificates or opinions furnished to the Trustee.
+The Trustee, however, shall examine any certificates and opinions which by any provision hereof are specifically required to be delivered to the Trustee to determine whether or not they conform to the requirements of this Indenture, but need not confirm or investigate the accuracy of mathematical calculations or other facts stated therein.
+(c)                                  The Trustee may not be relieved from liability for its own grossly negligent action, its own grossly negligent failure to act, or its own willful misconduct, except that:
+(1)                                 this paragraph does not limit the effect of Section 8.01(b);
+(2)                                 the Trustee shall not be liable in its individual capacity for any error of judgment made in good faith by a Responsible Officer, unless it is proved that the Trustee was negligent in ascertaining the pertinent facts; and
+(3)                                 the Trustee shall not be liable in its individual capacity with respect to any action it takes or omits to take in good faith in accordance with any direction from the Issuer, a Guarantor or the Holders permitted or required under this Indenture.
+(d)                                 The Trustee shall be under no obligation to exercise any of its rights or powers under the Indenture at the request or direction of any Holders then outstanding hereunder, unless the Holders shall have offered to the Trustee security or indemnity satisfactory to the Trustee against the costs, expenses (including reasonable attorneys’ fees and expenses) and liabilities that might be incurred by it in compliance with such request or direction.
+The Holder of not less than a majority in principal amount of the Securities then Outstanding (or of all Securities then Outstanding, as the case may be) shall have the right to direct the time, method and place of conducting any proceeding for any remedy available to the Trustee, or of exercising any trust or power conferred upon the Trustee; provided that the Trustee may refuse to follow any direction which is in conflict with applicable law or this Indenture, or which may be unduly prejudicial to the Holders not joining therein.
+(e)                                  Every provision of this Indenture that in any way relates to the Trustee is subject to subsections (a), (b), (c), (d), (f), (g) and (h) of this Section 8.01.
+(f)                                   The Trustee shall not be liable for interest on any money received by it except as the Trustee may agree in writing with the Issuer.
+Money held in trust by the Trustee need not be segregated from other funds except to the extent required by law.
+(g)                                  Notwithstanding the foregoing, no provision of this Indenture shall require the Trustee to expend or risk its own funds or otherwise incur any financial liability in the performance of any of its duties hereunder or in the exercise of any of its rights or powers, if it shall have reasonable grounds to believe that repayment of such funds or adequate indemnity against such risk or liability is not reasonably assured to it.
+(h)                                 The provisions of this Indenture, to the extent that they restrict the duties and liabilities of the Trustee otherwise existing at law or in equity, are agreed to by the Issuer and the
+57
+Holders to replace such other duties and liabilities of the Trustee to the extent permitted by applicable law.
+Section 8.02.
+Rights of Trustee.
+(a)                                 Subject to Section 8.01:
+(1)                                 the Trustee may rely and shall be protected in acting or refraining from acting upon any resolution, certificate, statement, instrument, opinion, report, notice, request, direction, consent, order, bond, debenture, note, other evidence of indebtedness or other paper or document believed by it to be genuine and to have been signed or presented by the proper party or parties.
+(2)                                 any request or direction of the Issuer or any Guarantor mentioned herein shall be sufficiently evidenced by an Issuer Request or Issuer Order or Guarantor Request or Guarantor Order, as the case may be, and any action of the Board of Directors shall be sufficiently evidenced by a resolution or other evidence of action of the Parent Guarantor.
+(3)                                 whenever in the administration of this Indenture the Trustee shall deem it desirable that a matter be proved or established prior to taking, suffering or omitting any action hereunder, the Trustee (unless other evidence be herein specifically prescribed) may, in the absence of bad faith on its part, rely upon an Officer’s Certificate.
+(4)                                 the Trustee may consult with counsel of its selection and the advice of such counsel (to be confirmed in writing) or any Opinion of Counsel shall be full and complete authorization and protection in respect of any action taken, suffered or omitted by it hereunder in good faith and in reliance thereon.
+(5)                                 the Trustee shall be under no obligation to exercise any of the rights or powers vested in it by this Indenture at the request or direction of any of the Holders pursuant to this Indenture, unless such Holders shall have offered to the Trustee reasonable security or indemnity reasonably satisfactory to the Trustee against the costs, expenses and liabilities which might be incurred by it in compliance with such request or direction.
+(6)                                 the Trustee shall not be bound to make any investigation into the facts or matters stated in any resolution, certificate, statement, instrument, opinion, report, notice, request, direction, consent, order, bond, debenture, note, other evidence of indebtedness or other paper or document, but the Trustee, in its discretion, may make such further inquiry or investigation into such facts or matters as it may see fit, and, if the Trustee shall determine to make such further inquiry or investigation, it shall be entitled to examine the books, records and premises of the Issuer and the Guarantors, personally or by agent or attorney.
+(7)                                 the Trustee may execute any of the trusts or powers hereunder or perform any duties hereunder either directly or by or through agents or attorneys and the Trustee shall not be responsible for any misconduct or negligence on the part of any agent or attorney appointed with due care by it hereunder.
+58
+(8)                                 the Trustee shall not be liable for any action taken, suffered, or omitted to be taken by it in good faith and reasonably believed by it to be authorized or within the discretion or rights or powers conferred upon it by this Indenture.
+(9)                                 the Trustee shall not be deemed to have notice of any Default or Event of Default unless a Responsible Officer of the Trustee has actual knowledge thereof or unless written notice of any event which is in fact such a default is received by the Trustee at the Corporate Trust Office of the Trustee, and such notice references the Securities and this Indenture.
+(10)                          the rights, privileges, protections, immunities and benefits given to the Trustee, including, without limitation, its right to be indemnified, are extended to, and shall be enforceable by, the Trustee in each of its capacities hereunder, including, without limitation, as Paying Agent, Registrar, Securities Custodian and Exchange Agent.
+Section 8.03.
+Individual Rights of Trustee.
+The Trustee in its individual or any other capacity may become the owner or pledgee of Securities and may otherwise deal with the Issuer or an Affiliate of the Issuer with the same rights it would have if it were not Trustee.
+Any Agent may do the same with like rights.
+However, the Trustee is subject to Sections 8.10 and 8.11.
+Section 8.04.
+Trustee’s Disclaimer.
+The Trustee makes no representation as to the validity or adequacy of this Indenture or the Securities and the Trustee assumes no responsibility for their correctness.
+It shall not be accountable for the Issuer’s use of the proceeds from the Securities and it shall not be responsible for any statement in the Securities other than its certificate of authentication.
+Section 8.05.
+Notice of Default or Events of Default.
+However, the Trustee may withhold the notice if and for so long as a committee of its Trust Officers in good faith determines that withholding notice is in the interests of Holders of Securities, except in the case of a Default or an Event of Default in payment of the principal of or interest on any Security when due or in the payment of any redemption or purchase obligation, or the Issuer’s failure to exchange Securities when obligated to exchange them.
+59
+Section 8.06.
+If required by TIA Section 313 were this Indenture qualified thereunder, the Trustee also shall comply with TIA Sections 313(b)(2) and (c).
+Section 8.07.
+Compensation and Indemnity.
+The Issuer shall reimburse the Trustee upon request for all reasonable disbursements, expenses and advances incurred or made by it.
+Such expenses may include the reasonable compensation, disbursements and expenses of the Trustee’s agents and counsel.
+(b)                                 The Issuer shall indemnify the Trustee or any predecessor Trustee (which for purposes of this Section 8.07 shall include its officers, directors, employees and agents) for, and hold it harmless against, any and all loss, liability or expense including taxes (other than franchise taxes and taxes based upon, measured by or determined by the income of the Trustee), incurred by it, arising out of or in connection with the acceptance or administration of its duties under this Indenture or any action or failure to act as authorized or within the discretion or rights or powers conferred upon the Trustee hereunder including the reasonable costs and expenses of the Trustee (including reasonable legal fees and expenses) in defending itself against any claim or liability in connection with the exercise or performance of any of its powers or duties hereunder.
+Anything in this Indenture to the contrary notwithstanding, in no event shall the Trustee be liable for special, indirect or consequential loss or damage of any kind whatsoever (including but not limited to lost profits), even if the Trustee has been advised of the likelihood of such loss or damage and regardless of the form of action.
+(c)                                  The Issuer need not reimburse the Trustee for any expense or indemnify it against any loss or liability incurred by it resulting from its gross negligence, willful misconduct or bad faith.
+60
+(d)                                 Without prejudice to any other rights available to the Trustee under applicable law, when the Trustee incurs expenses or renders services after an Event of Default specified in clause (8), (9) or (10) of Section 7.01 occurs, the expenses and the compensation for the services are intended to constitute expenses of administration under any bankruptcy law.
+The provisions of this Section shall survive the termination of this Indenture.
+(e)                                  The provisions of this Section 8.07 shall survive the satisfaction and discharge of this Indenture or the resignation or removal of the Trustee.
+Section 8.08.
+Replacement of Trustee.
+The Holders of a majority in aggregate principal amount of the Securities then Outstanding may remove the Trustee by so notifying the Trustee, the Issuer, and the Guarantors and may, with the Issuer’s written consent, appoint a successor Trustee.
+If the Issuer fails to promptly appoint a successor Trustee, the Trustee shall have the right to choose a qualified Trustee as successor, and the Issuer shall appoint such successor as Trustee.
+(d)                                 If the Trustee fails to comply with Section 8.10, any Holder may petition any court of competent jurisdiction for the removal of the Trustee and the appointment of a successor Trustee.
+Immediately after that, the retiring Trustee shall transfer all property held by it as Trustee to the successor Trustee and be released from its obligations (exclusive of any liabilities that the retiring Trustee may have incurred while acting as Trustee) hereunder, the resignation or removal of the retiring Trustee shall become effective, and the successor Trustee shall have all the rights, powers and duties of the Trustee under this Indenture.
+61
+(f)                                   A retiring Trustee shall not be liable for the acts or omissions of any successor Trustee after its succession.
+(g)                                  Notwithstanding replacement of the Trustee pursuant to this Section 8.08, the Issuer’s obligations under Section 8.07 shall continue for the benefit of the retiring Trustee.
+Section 8.09.
+Successor Trustee by Merger, Etc.
+If the Trustee consolidates with, merges or converts into, or transfers all or substantially all of its corporate trust business (including the administration of this Indenture) to, another corporation, the resulting, surviving or transferee corporation, without any further act, shall be the successor Trustee; provided that such transferee corporation shall qualify and be eligible under Section 8.10.
+Section 8.10.
+Eligibility of Trustee.
+There shall at all times be a Trustee hereunder which shall be a Person that is eligible pursuant to the Trust Indenture Act to act as such and has a combined capital and surplus of at least $50,000,000 (or if such Person is a member of a bank holding company system, its bank holding company shall have a combined capital and surplus of at least $50,000,000).
+If such Person publishes reports of condition at least annually, pursuant to law or to the requirements of any supervising or examining authority, then for the purposes of this Section the combined capital and surplus of such Person shall be deemed to be its combined capital and surplus as set forth in its most recent report of condition so published.
+If at any time the Trustee shall cease to be eligible in accordance with the provisions of this Section 8.10, it shall resign immediately in the manner and with the effect hereinafter specified in this Article.
+Section 8.11.
+Conflicting Interests of Trustee.
+If the Trustee has or shall acquire a conflicting interest within the meaning of the Trust Indenture Act, the Trustee shall either eliminate such interest or resign, to the extent and in manner provided by, and subject to the provisions of, the Trust Indenture Act and this Indenture.
+Section 8.12.
+Preferential Collection of Claims Against Issuer.
+If and when the Trustee shall be or become a creditor of the Issuer (or any other obligor upon the Securities), the Trustee shall be subject to the provisions of the Trust Indenture Act regarding the collection of the claims against the Issuer (or any such obligor).
+ARTICLE 9
+SATISFACTION AND DISCHARGE OF INDENTURE
+Section 9.01.
+Discharge of Indenture.
+This Indenture shall cease to be of further effect (except as to any surviving rights of exchange, registration of transfer or exchange of Securities herein expressly provided for and except as further provided below), and the Trustee, on demand of and at the expense of the Issuer, shall execute proper instruments acknowledging satisfaction and discharge of this Indenture, when (a) either: (1) all Securities theretofore authenticated and delivered (other than (i) Securities which have been destroyed, lost or stolen and which have been replaced or paid as
+62
+Notwithstanding the satisfaction and discharge of this Indenture, the obligations of the Issuer to the Trustee under Section 8.07 shall survive and, if monies shall have been deposited with the Trustee pursuant to subclause (2) of clause (a) of this Section, the provisions of Sections 2.05, 2.08, 2.09, 3.05, 3.06, 5.01, 5.02 and this Article 9 shall survive until the Securities have been paid in full.
+Section 9.02.
+Subject to Section 9.04, all monies deposited with the Trustee pursuant to Section 9.01 shall be held in trust for the sole benefit of the Holders, and such monies shall be applied by the Trustee to the payment, either directly or through any Paying Agent (including the Issuer or any Guarantor if acting as its own Paying Agent), to the Holders of the particular Securities for the payment or redemption of which such monies have been deposited with the Trustee, of all sums due and to become due thereon for principal and interest.
+The Trustee is not responsible to anyone for interest on any deposited funds except as agreed in writing.
+Section 9.03.
+Subject to the provisions of Section 9.04, the Trustee or a Paying Agent shall hold in trust, for the benefit of the holders, all monies deposited with it pursuant to Sections 3.01, 3.03 and 11.01 and shall apply the deposited monies in accordance with this Indenture and the Securities to the payment of the principal of and interest on the Securities.
+63
+Section 9.04.
+Return of Unclaimed Monies.
+After payment to the Issuer, Holders entitled to monies must look to the Issuer for payment as general creditors unless an applicable abandoned property law designates another person, and the Trustee and each Paying Agent shall be relieved of all liability with respect to such monies.
+Section 9.05.
+Reinstatement.
+If the Trustee or the Paying Agent is unable to apply any monies in accordance with Section 9.02 by reason of any order or judgment of any court or governmental authority enjoining, restraining or otherwise prohibiting such application, the Issuer’s obligations under this Indenture and the Securities shall be revived and reinstated as though no deposit had occurred pursuant to Section 9.01 until such time as the Trustee or the Paying Agent is permitted to apply all such monies in accordance with Section 9.02; provided that if the Issuer makes any payment of principal of or interest on any Security following the reinstatement of its obligations, the Issuer shall be subrogated to the rights of the Holders of such Securities to receive such payment from the monies held by the Trustee or Paying Agent.
+ARTICLE 10
+AMENDMENTS; SUPPLEMENTS AND WAIVERS
+Section 10.01.
+Without Consent of Holders.
+Without the consent of any Holders, the Issuer, the Guarantors and the Trustee may enter into an indenture to indentures supplemental hereto for any of the following purposes:
+(a)                                 to evidence a successor to the Issuer or any Guarantor under this Indenture;
+(b)                                 to add to the covenants of the Issuer or any Guarantor for the benefit of the Holders or to surrender any right or power conferred upon the Issuer or any Guarantor in this Indenture;
+(c)                                  to add any additional Events of Default for the benefit of the Holders of all the Securities;
+(d)                                 to amend or supplement any provisions of this Indenture; provided that no amendment or supplement shall adversely affect the interests of the Holders of any Securities then Outstanding in any material respect;
+(e)                                  to permit or facilitate the issuance of the Securities in uncertificated form, provided that such action shall not adversely affect the interests of the Holders in any material respect;
+64
+(f)                                   to secure the Securities or the Guarantee;
+(g)                                  to evidence and provide for the acceptance of appointment by a successor Trustee and to add to or change any of the provisions of this Indenture as is necessary to provide for or facilitate the administration of the trusts under this Indenture by more than one Trustee;
+(h)                                 to provide for rights of Holders if any reclassification or change of Common Stock or any consolidation, merger or sale of all or substantially all of the property or assets of the Issuer or any Guarantor occurs;
+(i)                                     to cure any ambiguity, defect or inconsistency in, or supplement, this Indenture provided that such action shall not adversely affect the interests of Holders in any material respect;
+(j)                                    to supplement any of the provisions of this Indenture to the extent necessary to defease and/or discharge the Securities under this Indenture, provided that the action shall not adversely affect the interests of the Holders in any material respect;
+(k)                                 to modify the Indenture and the Securities to increase the Exchange Rate or reduce the Exchange Price; provided that the increase or reduction, as the case may be, is in accordance with the terms of the Securities or will not adversely affect the interests of the Holders; or
+(l)                                     to conform the text of this Indenture or the Securities to any corresponding provision of the “Description of Notes” section of the Offering Circular dated June 13, 2013 pursuant to which the Securities were offered and sold.
+Section 10.02.
+With Consent of Holders.
+(a)                                 The Issuer and the Trustee may amend or supplement this Indenture or the Securities with the written consent of the Holders of not less than a majority in aggregate principal amount of the Securities then Outstanding and affected by such amendment or supplement (voting together as a single class).
+However, subject to Section 10.01, without the written consent of each Holder affected, an amendment, supplement or waiver may not:
+(i)                                     change the stated maturity of the principal of, or any installment of principal of, or interest on, the Securities;
+(ii)                                  reduce the principal amount of, the rate of interest or the premium payable upon the redemption of the Securities;
+(iii)                               change the timing for, or reduce any amount (including accrued interest and premium, if any) payable upon, the repurchase or redemption of the Securities;
+(iv)                              change the currency of any payment of the Securities;
+(v)                                 change the place of payment on the Securities;
+65
+(vi)                              impair a holder’s right to sue for the enforcement of any payment on or with respect to the Securities or the delivery of the exchange value as required by this Indenture upon an exchange of Securities;
+(vii)                           reduce the percentage of principal amount of Securities then Outstanding necessary to modify or amend this Indenture, to waive compliance with certain provisions hereof or certain defaults and consequences hereunder;
+(viii)                        modify any of the foregoing provisions or any of the provisions relating to the waiver of certain past defaults or certain covenants, except to increase the required percentage to effect the action or to provide that certain other provisions may not be modified or waived without the consent of the Holders;
+(ix)                              modify the provisions with respect to the rights of the Holders upon a Change in Control in a manner adverse to the Holders, including the Issuer’s obligation to repurchase the Securities following a Change in Control; or
+(x)                                 adversely affect the rights of Holders to receive payment of shares of Common Stock or cash contained in Article 3 or 4.
+Any failure of the Issuer to send such notice, or any defect therein, shall not, however, in any way impair or affect the validity of any such amendment, supplement or waiver.
+(c)                                  For purposes of this Indenture, Securities will be deemed Outstanding if they have been authenticated and delivered under this Indenture unless, among other things, the Securities have matured or been cancelled, exchanged, redeemed or repurchased.
+Section 10.03.
+Revocation and Effect of Consents.
+(a)                                 Until an amendment, supplement or waiver becomes effective, a consent to it by a Holder is a continuing consent by the Holder and every subsequent Holder of a Security or portion of a Security that evidences the same debt as the consenting Holder’s Security, even if notation of the consent is not made on any Security.
+(b)                                 After an amendment, supplement or waiver becomes effective, it shall bind every Holder of a Security.
+Section 10.04.
+Notation on or Exchange of Securities.
+Alternatively, if the Issuer or the Trustee so determines, the Issuer in exchange for the Security shall issue and the Trustee shall authenticate a new Security that reflects the changed terms.
+66
+Section 10.05.
+The Trustee shall sign any amendment or supplemental indenture authorized pursuant to this Article 10 if the amendment or supplemental indenture does not adversely affect the rights, duties, liabilities or immunities of the Trustee.
+If it does, the Trustee may, in its sole discretion, but need not sign it.
+In signing or refusing to sign such amendment or supplemental indenture, the Trustee shall be entitled to receive and, subject to Section 8.01, shall be fully protected in relying upon, an Opinion of Counsel stating that such amendment or supplemental indenture is authorized or permitted by this Indenture.
+The Issuer and the Guarantors may not sign an amendment or supplemental indenture until the Board of Directors approves it.
+Section 10.06.
+Effect of Supplemental Indentures.
+Upon the execution of any supplemental indenture under this Article 10, this Indenture shall be modified in accordance therewith, and such supplemental indenture shall form a part of this Indenture for all purposes; and every Holder of Securities theretofore or thereafter authenticated and delivered hereunder shall be bound thereby.
+ARTICLE 11
+REDEMPTION
+Section 11.01.
+Redemption.
+67
+(d)                                 In the event that the Issuer shall redeem fewer than all Securities then Outstanding, the Trustee will select the Securities to be redeemed on a pro rata basis, by lot, or by such other method as the Trustee considers fair and appropriate or is required by the Depositary for the Securities.
+If the Trustee selects a portion of a Security for partial redemption and a Holder exchanges a portion of the same Security in accordance with the provisions of Article 4 before termination of the exchange right with respect to the portion of the Security so selected, the exchanged portion of such Security shall be deemed to be from the portion selected for redemption.
+Securities that have been exchanged during a selection of Securities to be redeemed shall be treated by the Trustee as Outstanding for the purpose of such selection.
+(1)                                 the name and address of the Paying Agent and Exchange Agent;
+(2)                                 the then current Exchange Rate;
+68
+(4)                                 that Holders who wish to exchange Securities must comply with the procedures relating thereto specified in Section 4.02.
+(i)                                     such Securities will cease to be Outstanding;
+(ii)                                  interest on such Securities will cease to accrue; and
+Upon redemption, interests in Global Securities shall be reduced in accordance with the Applicable Procedures.
+Section 11.02.
+Sinking Fund.
+No sinking fund is provided for the Securities.
+ARTICLE 12
+MISCELLANEOUS
+Section 12.01.
+69
+(c)                                  Failure to send a notice or communication to a Holder of a Security or any defect in it shall not affect its sufficiency with respect to other Holders of Securities.
+Section 12.02.
+Holders of Securities may communicate with other Holders of Securities with respect to their rights under this Indenture or the Securities.
+The Issuer, the Trustee, the Registrar and any other person shall have the protection of TIA Section 312(c).
+Section 12.03.
+Certificate and Opinion as to Conditions Precedent.
+(a)                                 Upon any request or application by the Issuer to the Trustee to take any action under this Indenture, the Trustee may request:
+(1)                                 an Officer’s Certificate stating that, in the opinion of the signer, all conditions precedent (including any covenants, compliance with which constitutes a
+70
+condition precedent), if any, provided for in this Indenture relating to the proposed action have been complied with; and
+(2)                                 an Opinion of Counsel stating that, in the opinion of such counsel, all such conditions precedent (including any covenants, compliance with which constitutes a condition precedent) have been complied with.
+(b)                                 Each Officer’s Certificate with respect to compliance with a condition or covenant provided for in this Indenture shall include:
+(1)                                 a statement that the person making such certificate or opinion has read such covenant or condition;
+(2)                                 a brief statement as to the nature and scope of the examination or investigation upon which the statements or opinions contained in such certificate or opinion are based;
+(3)                                 a statement that, in the opinion of such person, he or she has made such examination or investigation as is necessary to enable him or her to express an informed opinion as to whether or not such covenant or condition has been complied with; and
+(4)                                 a statement as to whether or not, in the opinion of such person, such condition or covenant has been complied with.
+Section 12.04.
+Record Date for Consent of Holders of Securities.
+The Issuer (or, in the event deposits have been made pursuant to Section 9.01, the Trustee) may set a record date for purposes of determining the identity of Holders entitled to consent to any action by consent authorized or permitted under this Indenture, which record date shall not be more than 30 days prior to the date of the commencement of solicitation of such action.
+Notwithstanding the provisions of Section 10.03, if a record date is fixed, those persons who were Holders of Securities at the close of business on such record date (or their duly designated proxies), and only those persons, shall be entitled to take such action by vote or consent or to revoke any vote or consent previously given, whether or not such persons continue to be Holders after such record date.
+Section 12.05.
+Rules by Trustee, Paying Agent, Registrar and Exchange Agent.
+The Trustee may make reasonable rules (not inconsistent with the terms of this Indenture) for action by or at a meeting of Holders.
+Any Registrar, Paying Agent or Exchange Agent may make reasonable rules for its functions.
+Section 12.06.
+Legal Holidays.
+A “Legal Holiday” is a Saturday, Sunday or a day on which federally chartered banking institutions in The City of New York or a place of payment are authorized or obligated to close.
+If a Regular Record Date is a Legal Holiday, the record date shall not be affected.
+71
+Section 12.07.
+Governing Law.
+Section 12.08.
+No Adverse Interpretation of Other Agreements.
+This Indenture may not be used to interpret another indenture, loan or debt agreement of the Issuer or a Subsidiary of the Issuer.
+Any such indenture, loan or debt agreement may not be used to interpret this Indenture.
+Section 12.09.
+No Recourse Against Others.
+Neither any limited partner of the Issuer, nor any principal, stockholder, officer, director, or employee of any Guarantor, of any limited or general partner of the Issuer or of any successor of any limited or general partner of the Issuer has any obligation for payment of the Issuer’s obligations under the Securities or any Guarantor’s obligations under the Guarantee or for any of the Issuer’s or any Guarantor’s obligations, covenants or agreements contained in this Indenture, the Securities or the Guarantee.
+The Parent Guarantor and its successors as general partner of the Issuer will only have obligations as specified under this Indenture and the Guarantee, and not by reason of its or their capacity as general partner of the Issuer.
+By accepting the Securities and the Guarantee, each Holder waives and releases all liability of this kind.
+The waiver and release are part of the consideration for the issuance of the Guarantee.
+Section 12.10.
+No Security Interest Created.
+Nothing in this Indenture or in the Securities, express or implied, shall be construed to constitute a security interest under the Uniform Commercial Code or similar legislation, now in effect or hereafter enacted and made effective, in any jurisdiction.
+Section 12.11.
+Successors.
+All agreements of the Issuer and the Guarantors in this Indenture and the Securities shall bind each of their respective successors.
+All agreements of the Trustee in this Indenture shall bind its successor.
+Section 12.12.
+Multiple Counterparts.
+The parties may sign multiple counterparts of this Indenture.
+Each signed counterpart shall be deemed an original, but all of them together represent the same agreement.
+Section 12.13.
+Separability.
+If any provisions in this Indenture or in the Securities shall be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby.
+Section 12.14.
+Table of Contents, Headings, Etc.
+The table of contents, cross-reference sheet and headings of the Articles and Sections of this Indenture have been inserted for convenience of reference only, are not to be considered a part hereof, and shall in no way modify or restrict any of the terms or provisions hereof.
+72
+ARTICLE 13
+GUARANTEE
+Section 13.01.
+Guarantee.
+In case of the failure of the Issuer punctually to pay any such principal, premium, interest or any additional amounts, each Guarantor hereby agrees to cause any such payment to be made (without duplication) punctually when and as the same shall become due and payable, whether at stated maturity, upon acceleration, redemption, repayment or otherwise, and as if such payment were made by the Issuer.
+The Guarantee shall be unsecured and unsubordinated indebtedness of each Guarantor and rank equally with other unsecured and unsubordinated indebtedness of each Guarantor that is currently outstanding or that it may issue in the future.
+(b)                                 Each Guarantor hereby agrees that its obligations hereunder shall be as principal and not merely as surety, and shall be absolute, irrevocable and unconditional, irrespective of, and shall be unaffected by, any invalidity, irregularity or unenforceability of any Security or this Indenture, any failure to enforce the provisions of any Security or this Indenture, or any waiver, modification, consent or indulgence granted with respect thereto by the Holder of such Security or the Trustee, the recovery of any judgment against the Issuer or any action to enforce the same, or any other circumstances which may otherwise constitute a legal or equitable discharge of a surety or guarantor; provided, however, that, notwithstanding the foregoing, no such waiver, modification or indulgence shall, without the consent of each Guarantor, increase the principal amount of such Security or the interest rate thereon or impose or increase any premium payable upon redemption thereof.
+Each Guarantor hereby waives diligence, presentment, demand of payment, filing of claims with a court in the event of merger, insolvency or bankruptcy of the Issuer, any right to require a proceeding first against the Issuer, protest or notice with respect to any such Security or the indebtedness evidenced thereby and all demands whatsoever, and covenants that the Guarantee will not be discharged except by payment in full of the principal of, any premium and interest on, and any additional amounts required with respect to, the Securities and the complete performance of all other payment obligations contained in the Securities.
+(d)                                 Each Guarantor shall be subrogated to all rights of the Holder of any Security against the Issuer in respect of any amounts paid to such Holder by such Guarantor pursuant to the provisions of the Guarantee; provided, however, that each Guarantor shall not be entitled to enforce, or to receive any payments arising out of or based upon, such right of subrogation until the principal of, any premium and interest on, and any additional amounts required with respect to, all Securities shall have been paid in full.
+73
+[SIGNATURE PAGE FOLLOWS]
+74
+IN WITNESS WHEREOF, the parties hereto have hereunto set their hands as of the date and year first above written.
+By:
+NorthStar Realty Finance Corp., in its capacity as general partner
+By:
+/s/ Ronald J. Lieberman
+Name:
+Ronald J. Lieberman
+Title:
+Executive Vice President, General Counsel & Secretary
+By
+/s/ Ronald J. Lieberman
+Name:
+Ronald J. Lieberman
+Title:
+Executive Vice President, General Counsel & Secretary
+By:
+/s/ Ronald J. Lieberman
+Name:
+Ronald J. Lieberman
+Title:
+Executive Vice President, General Counsel & Secretary
+By:
+/s/ Jane Schweiger
+Name:
+Jane Schweiger
+Title:
+Vice President
+EXHIBIT A-1
+[FORM OF FACE OF SECURITY]
+FACE OF SECURITY
+THIS SECURITY HAS NOT BEEN REGISTERED UNDER THE U.S. SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”), AND ACCORDINGLY, MAY NOT BE OFFERED OR SOLD EXCEPT AS SET FORTH IN THE FOLLOWING SENTENCE.
+FULLY AND UNCONDITIONALLY GUARANTEED BY
+No.
+1
+A-1-1
+Any wire transfer instructions received by the Trustee will remain in effect until revoked by the Holder.
+Notwithstanding the foregoing, the aggregate principal amount of Securities that may be authenticated and delivered under the Indenture shall not be limited to $             aggregate principal amount if the Issuer determines, without the consent of the Holders, to reopen the Securities and issue additional Securities with the same terms and with the same CUSIP number as this Security; provided that no such additional Securities may be issued unless fungible with this Security issued on June 19, 2013 for U.S. Federal income tax purposes.
+Any additional Securities would rank equally and ratably in right of payment with the Security issued on June 19, 2013 and would be treated as a single series of debt securities for all purposes under the Indenture.
+Unless the certificate of authentication hereon has been executed by the Trustee referred to on the reverse hereof by the manual signature of one of its authorized signatories, this Security shall not be entitled to any benefit under the Indenture or be valid or obligatory for any purpose.
+This Security is exchangeable as specified on the reverse hereof.
+As provided in the Indenture, the obligations of the Issuer under the Indenture and this Security are fully and unconditionally guaranteed pursuant to the Guarantee endorsed hereon as provided in the Indenture.
+Each Holder, by holding this Security, agrees to all of the terms and provisions of said Guarantee and the Indenture.
+Reference is hereby made to the further provisions of this Security set forth on the reverse hereof, which further provisions shall for all purposes have the same effect as if set forth at this place.
+[SIGNATURE PAGE FOLLOWS]
+A-1-2
+IN WITNESS WHEREOF, the Issuer has caused this instrument to be duly executed.
+its General Partner
+By:
+Name:
+Title:
+Trustee’s Certificate of Authentication:  This is one of the Securities referred to in the within-mentioned Indenture.
+By:
+Authorized Signatory
+A-1-3
+EXHIBIT A-2
+[FORM OF REVERSE OF SECURITY]
+A-2-1
+REVERSE SIDE OF SECURITY
+As provided in the Indenture and subject to certain limitations therein set forth, Securities are exchangeable for a like aggregate principal amount of Securities of any authorized denominations as requested by the Holder surrendering the same upon surrender of the Security or Securities to be exchanged, at the Corporate Trust Office of the Trustee.
+Terms used herein without definition and which are defined in the Indenture have the meanings assigned to them in the Indenture.
+1.
+Initially, the Trustee shall act as Paying Agent, Exchange Agent and Registrar of the Securities.
+The Issuer hereby initially designates the Corporate Trust Office of the Trustee in Minneapolis, Minnesota as the office to be maintained by it where this Security may be presented for payment, registration of transfer or exchange, where notices or demands to or upon the Issuer in respect of this Security or the Indenture may be served and where the Securities may be surrendered for exchange in accordance with the provisions of paragraph 6 hereof and the Indenture.
+A-2-2
+2.
+REDEMPTION BY THE ISSUER
+3.
+A-2-3
+4.
+EXCHANGE OF SECURITY FOR COMMON STOCK
+The Securities shall be exchangeable into the consideration specified in the Indenture at such times, upon the terms set forth in the Indenture.
+To exchange a beneficial interest in a Global Security or a Security that is not held in global form, a Holder must comply with subclause (d) as set forth in the immediately preceding sentence and comply with the Applicable Procedures of the Depositary for exchanging a beneficial interest in a Global Security or a Security that is not held in global form.
+A-2-4
+5.
+RANKING
+The Securities are senior unsecured obligations of the Issuer and shall rank equally in right of payment with all other senior unsecured indebtedness of the Issuer from time to time outstanding.
+6.
+This Security may be exchanged for a like aggregate principal amount of Securities of other authorized denominations at the Corporate Trust Office of the Trustee or in the manner and subject to the limitations provided herein and in the Indenture, but without the payment of any charge except for any tax or other governmental charge imposed in connection therewith.
+In the event of a deposit or withdrawal of an interest in this Security, including an exchange, transfer, redemption, or repurchase of this Security in part only, the Trustee, as custodian of the Depositary, shall make an adjustment on its records to reflect such deposit or withdrawal in accordance with the Applicable Procedures.
+Each Holder of this Security, by its acceptance thereof, agrees to indemnify the Issuer, each Guarantor and the Trustee against any liability that may result from the transfer, exchange or assignment of such Holder’s Security in violation of any provision of the Indenture and/or applicable United States federal or state securities law.
+7.
+PERSONS DEEMED OWNERS
+The Holder of this Security may be treated as the owner of this Security for all purposes, and none of the Issuer, any Guarantor or the Trustee nor any authorized agent of the Issuer, any
+A-2-5
+Guarantor or the Trustee shall be affected by any notice to the contrary, except as required by law.
+8.
+ADDITIONAL RIGHTS OF HOLDERS
+In addition to the rights provided to Holders of Securities under the Indenture and the Guarantee endorsed hereon, the Holder of this Security is entitled to the benefits of a Registration Rights Agreement, dated as of June 19, 2013 (the “Registration Rights Agreement”), by and between the Parent Guarantor and the Representative, as representative of the Initial Purchasers, with respect to resales of the shares of Common Stock, if any, issuable upon exchange of the Securities.
+If a Security ceases to be Outstanding during any period for which additional interest is accruing, the Issuer will prorate the Liquidated Damages to be paid with respect to that Security.
+Whenever in this Security there is a reference, in any context, to the payment of the principal of, premium, if any, or interest on, or in respect of, any Security, such mention shall be deemed to include mention of the payment of Liquidated Damages payable as described in the preceding paragraph to the extent that, in such context, Liquidated Damages are, were or would be payable in respect of such Security and express mention of the payment of Liquidated Damages (if applicable) in any provisions of this Security shall not be construed as excluding Liquidated Damages in those provisions of this Security where such express mention is not made.
+9.
+MODIFICATION AND AMENDMENT; WAIVER
+The Indenture permits, with certain exceptions as therein provided, the amendment thereof and the modification of the rights and obligations of the Issuer and the Guarantors and the rights of the Holders of the Securities under the Indenture at any time by the Issuer, the Guarantors and the Trustee with the consent of the Holders of a majority in the aggregate
+A-2-6
+principal amount of all Securities then Outstanding affected thereby (voting together as a single class).
+The Indenture also provides that certain amendments or modifications may not be made without the consent of each Holder to be affected thereby.
+Furthermore, provisions in the Indenture permit the Holders of a majority in the aggregate principal amount of the Securities then Outstanding of any series, in certain instances, to waive, on behalf of all of the Holders of Securities of such series, certain past defaults under the Indenture and their consequences.
+Any such waiver by the Holder of this Security shall be conclusive and binding upon such Holder and upon all future Holders of this Security and other Securities issued upon the registration of transfer hereof or in exchange hereof, or in lieu hereof, whether or not notation of such consent or waiver is made upon this Security.
+10.
+DEFAULTS AND REMEDIES
+(a)                                 The Indenture sets forth events that constitute an Event of Default under the Indenture.
+If an Event of Default shall occur and be continuing, there may be declared due and payable the principal amount (together with accrued and unpaid interest) on the Securities in the manner and with the effect provided in the Indenture.
+If certain bankruptcy or insolvency events occur and continue with respect to the Issuer or any Guarantor or certain Subsidiaries of the Issuer or a Guarantor, the Securities shall automatically become due and payable in accordance with the terms of the Indenture.
+The additional interest will accrue on all Securities then Outstanding from and including the date on which such Event of Default first occurs to but not including the 60th day thereafter (or such earlier date on which such Event of Default shall have been cured or waived).
+11.
+WITHHOLDING
+To the extent the Issuer determines in its sole discretion that the Issuer is required to withhold any taxes with respect to a deemed payment or distribution with respect to this Security
+A-2-7
+on account of an adjustment to the Exchange Rate, the Issuer shall withhold such amount from payments otherwise due hereunder to the Holder of such Security and report such withholding to the Holder if and as required by law.
+Any amount withheld by the Issuer pursuant to Section 5.01(c) of the Indenture with respect to this Security shall be treated for all purposes of the Indenture and this Security as if it had been paid directly to the Holder hereof.
+12.
+The Trustee in its individual or any other capacity may become the owner or pledgee of Securities and may otherwise deal with the Issuer, any Guarantor or an Affiliate of the Issuer or a Guarantor with the same rights it would have if it were not Trustee.
+Any Agent may do the same with like rights.
+13.
+CALCULATIONS IN RESPECT OF THE SECURITIES
+Except as otherwise specifically stated herein or in the Indenture, all calculations to be made in respect of the Securities shall be the obligation of the Issuer.
+All calculations made by the Issuer or its agent as contemplated pursuant to the terms hereof and of the Securities shall be made in good faith and be final and binding on the Securities and the Holders of the Securities absent manifest error.
+The Issuer shall provide a schedule of calculations to the Trustee, and the Trustee shall be entitled to rely upon the accuracy of the calculations by the Issuer without independent verification.
+14.
+GOVERNING LAW
+A-2-8
+ASSIGNMENT FORM
+(Insert assignee’s soc.
+sec.
+or tax I.D.
+no.)
+and irrevocably appoint
+The agent may substitute another to act for him or her.
+Your Signature
+* Signature guaranteed by:
+By:
+*                 The signature must be guaranteed by an institution which is a member of one of the following recognized signature guaranty programs:  (i) the Securities Transfer Agent Medallion Program (STAMP); (ii) the New York Stock Exchange Medallion Program (MSP); (iii) the Stock Exchange Medallion Program (SEMP); or (iv) such other guaranty program acceptable to the Trustee.
+A-2-9
+(1)                                 Pursuant to Article 3 of the Indenture, the undersigned hereby elects to have this Security repurchased by the Issuer.
+Dated:
+Signature(s)
+Signature(s) must be guaranteed by an Eligible Guarantor Institution with membership in an approved signature guarantee program pursuant to Rule 17Ad-15 under the Securities Exchange Act of 1934.
+NOTICE: The signature to the foregoing Election must correspond to the Name as written upon the face of this Security in every particular, without alteration or any change whatsoever.
+A-2-10
+EXCHANGE NOTICE
+If shares of Common Stock or Securities are to be registered in the name of a Person other than the undersigned, the undersigned will pay all transfer taxes payable with respect thereto.
+(Insert assignee’s soc.
+sec.
+or tax I.D.
+no.)
+Your Signature
+* Signature guaranteed by:
+By:
+*                 The signature must be guaranteed by an institution which is a member of one of the following recognized signature guaranty programs:  (i) the Securities Transfer Agent Medallion Program (STAMP); (ii) the New York Stock Exchange Medallion Program (MSP); (iii) the Stock Exchange Medallion Program (SEMP); or (iv) such other guaranty program acceptable to the Trustee.
+A-2-11
+SCHEDULE OF EXCHANGES OF SECURITIES
+The following exchanges, redemptions or purchases of a part of this Global Security have been made:
+Principal Amount of this
+Global Security
+Following Such Decrease
+Date of Exchange (or
+Increase)
+Authorized Signatory of
+Securities Custodian
+Amount of Decrease in
+Principal Amount of this
+Global Security
+Amount of Increase in
+Principal Amount of this
+Global Security
+A-2-12
+o                                                                                    Such Security is being acquired for the Transferor’s own account, without transfer.
+o                                                                                    Such Security is being transferred to a person the Transferor reasonably believes is a “qualified institutional buyer” (as defined in Rule 144A or any successor provision thereto (“Rule 144A”) under the Securities Act) that is purchasing for its own account or for the account of a “qualified institutional buyer”, in each case to whom notice has been given that the transfer is being made in reliance on such Rule 144A, and in each case in reliance on Rule 144A.
+The Transferor acknowledges and agrees that, if the transferee will hold any such Securities in the form of beneficial interests in a Global Security, then such transfer can only be made pursuant to Rule 144A under the Securities Act and such transferee must be a “qualified institutional buyer” (as defined in Rule 144A).
+The Transferor hereby acknowledges and agrees that its obligation to indemnify the Issuer, each Guarantor and the Trustee under the Indenture against any liability that may result from the transfer described herein being in violation of the Indenture and/or applicable United States federal or state securities laws shall survive the transfer described herein.
+(Insert Name of Transferor)
+A-2-13
+EXHIBIT B
+GUARANTEE
+For value received, each of NorthStar Realty Finance Corp. and NRFC Sub-REIT Corp. (each, a “Guarantor” and together the “Guarantors”) hereby fully and unconditionally, without duplication, guarantees the cash payments in United States dollars of principal of and interest on the Security on which this Guarantee is endorsed in the amounts and at the time when due and interest on the overdue principal and interest, if any, on this Security, if lawful, and the payment of all other obligations of the NorthStar Realty Finance Limited Partnership (the “Issuer”) under the Indenture or the Security, to the Holder of this Security and the Trustee, all in accordance with and subject to the terms and limitations of this Security, Article 13 of the Indenture and this Guarantee.
+This Guarantee will become effective in accordance with Article 13 of the Indenture and its terms shall be evidenced therein.
+Capitalized terms used but not defined herein shall have the meanings ascribed to them in the Indenture, dated as of June 19, 2013 (the “Indenture”), by and among the Issuer, each of the undersigned, as Guarantors, and Wilmington Trust, National Association, as Trustee, as amended or supplemented.
+The obligations of each of the undersigned to the Holder of this Security and to the Trustee pursuant to the Guarantee and the Indenture are expressly set forth in Article 13 of the Indenture and reference is hereby made to the Indenture for the precise terms and limitations of the Guarantee and all of the other provisions of the Indenture to which this Guarantee relates.
+Each Holder of the Security to which this Guarantee is endorsed, by accepting such Security, agrees to and shall be bound by such provisions.
+This Guarantee shall be an unsecured and unsubordinated obligation of each Guarantor and rank equally with other unsecured and unsubordinated indebtedness of each Guarantor that is currently outstanding or that it may issue in the future.
+This Guarantee shall not be valid or obligatory for any purpose until the certificate of authentication on the Security upon which this Guarantee is endorsed shall have been executed by the Trustee under the Indenture by manual signature.
+This Guarantee is subject to release upon the terms set forth in the Indenture.
+2
+IN WITNESS WHEREOF, each of the undersigned Guarantors has caused this Guarantee to be duly executed.
+By:
+Name:
+Title:
+NRFC SUB-REIT CORP.
+By:
+Name:
+Title:
+B-1

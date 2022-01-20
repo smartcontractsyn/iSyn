@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "UnderWritingAgeement",
+    "SellerName": [
+        "Transocean Inc."
+    ],
+    "BuyerName": [
+        ""
+    ],
+    "EffectiveTime": [
+        "1000"
+    ],
+    "CloseTime": [
+        "1000"
+    ],
+    "OutSideClosingDate": [
+        "1000"
+    ],
+    "Payments": [
+        {
+            "From": [
+                ""
+            ],
+            "To": [
+                "Transocean Inc."
+            ],
+            "PurchasePrice": "750000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

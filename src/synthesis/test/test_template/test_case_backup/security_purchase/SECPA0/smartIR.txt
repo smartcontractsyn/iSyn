@@ -1,0 +1,42 @@
+ContractCategory: SecurityPurchaseAgreement;
+
+Entity: {
+    SellerNames: ['FUTURIS COMPANY'];
+    BuyerNames: ['AJB CAPITAL INVESTMENTS'];
+};
+
+EffectiveTime: April __, 2021,;
+CloseTime: "";
+ExpiryTime: ;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: true;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: ['AJB CAPITAL INVESTMENTS'];
+         To: ['FUTURIS COMPANY'];
+         Price: {
+             Amount: 420000,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: false;
+    OtherConstraint: false;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};

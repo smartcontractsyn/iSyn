@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "ALLIANCE APPAREL GROUP, INC.", "EMINENT, INC", "ADVANCE DEVELOPMENT, INC."
+    ],
+    "BuyerName": [
+        ""
+    ],
+    "EffectiveTime": [
+        "March 23, 2021"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                ""
+            ],
+            "To": [
+                "ALLIANCE APPAREL GROUP, INC."
+            ],
+            "PurchasePrice": "25000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

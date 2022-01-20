@@ -1,0 +1,98 @@
+CREDIT AGREEMENT
+AMERICAN APPAREL (USA), LLC,
+as a Borrower and as Borrower Representative,
+AMERICAN APPAREL RETAIL, INC.,
+AMERICAN APPAREL DYEING & FINISHING, INC.,
+KCL KNITTING, LLC,
+as the other Borrowers Party Hereto,
+CAPITAL ONE LEVERAGE FINANCE CORP. and the other Lenders Party Hereto,
+CAPITAL ONE LEVERAGE FINANCE CORP.,
+as Administrative Agent,
+CAPITAL ONE LEVERAGE FINANCE CORP.,
+as Swing Line Lender
+CAPITAL ONE, N.A.,
+as L/C Issuer
+CAPITAL ONE LEVERAGE FINANCE CORP.,
+as Sole Lead Arranger and Sole Bookrunner
+ADMINISTRATIVE AGENT
+ENTIRE AGREEMENT
+CREDIT AGREEMENT
+This CREDIT AGREEMENT (this “Agreement”) is entered into as of April 4, 2013, among:
+(a)                                 AMERICAN APPAREL (USA), LLC, a California limited liability company (“AA USA”), as a Borrower (as defined below) and as the Borrower Representative (as defined in Section 2.19) for the other Borrowers party hereto;
+(b)                                 AMERICAN APPAREL RETAIL, INC., a California corporation (“AA Retail”), AMERICAN APPAREL DYEING & FINISHING, INC., a California corporation (“AA Dyeing & Finishing”), and KCL KNITTING, LLC, a California limited liability company (“KCL Knitting” and together with AA USA, AA Retail and AA Dyeing & Finishing, each individually, a “Borrower” and collectively, the “Borrowers”);
+(d)                                 CAPITAL ONE LEVERAGE FINANCE CORP. and each other Lender from time to time party hereto;
+(e)                                  CAPITAL ONE LEVERAGE FINANCE CORP., as Administrative Agent;
+(f)                                   CAPITAL ONE LEVERAGE FINANCE CORP., as Swing Line Lender; and
+(g)                                  CAPITAL ONE, N.A., as L/C Issuer.
+“AA Canada Wholesale” means American Apparel Canada Wholesale, Inc., a company organized under the federal laws of Canada.
+“AA UK Subsidiaries” means, collectively, American Apparel (Carnaby) Limited, a company organized under the laws of England and Wales, and American Apparel (UK) Limited, a company organized under the laws of England and Wales and any other direct or indirect Subsidiary of Holdings formed or acquired after the Closing Date and organized under the laws of England and Wales.
+“Administrative Agent’s Commitment Letter” means the Administrative Agent’s Commitment Letter dated as of March 12, 2013, by and between Holdings and the Administrative Agent.
+“Canadian Dollars” and “Cdn.
+“Canadian Intercreditor Agreement” means (i) the Intercreditor Agreement dated April 4, 2013, among the lender under the Canadian Documents, the Senior Notes Trustee and the Administrative Agent and (ii) each other intercreditor agreement reasonably satisfactory to the Administrative Agent in connection with a replacement or refinancing of the Canadian Documents (it being agreed that an intercreditor agreement in substantially the form of the Canadian Intercreditor Agreement referred to in clause (i) of the definition hereof shall be satisfactory).
+“Capital One” means Capital One, N.A., a national banking association, and its successors and assigns.
+“Credit Parties” means the Borrowers, Holdings, Fresh Air and the other Guarantors.
+“Fresh Air” means Fresh Air Freight, Inc., a California corporation.
+“Holdings” means American Apparel, Inc., a Delaware corporation.
+“Lion Warrant” means, collectively, Warrants to Purchase Shares of Common Stock of American Apparel, Inc. dated March 13, 2009, issued to Lion Capital (Guernsey) II Limited, Warrant to Purchase Shares of Common Stock of American Apparel, Inc. dated March 24, 2011, issued to Lion/Hollywood L.L.C., Warrant to Purchase Shares of Common Stock of American Apparel, Inc. dated April 26, 2011, issued to Lion/Hollywood L.L.C., Warrant to Purchase Shares of Common Stock of American Apparel, Inc. dated July 7, 2011, issued to Lion/Hollywood L.L.C., and Warrant to Purchase Shares of Common Stock of American Apparel, Inc. dated July 12, 2011, issued to Lion/Hollywood L.L.C., in each case as amended or adjusted as of the date hereof.
+under that certain Credit Agreement dated as of July 2, 2007, among the Borrowers, the other Credit Parties party thereto, Bank of America, N.A., as administrative agent, and the lenders party thereto, and set forth on Schedule 1.01(a), and (b) cash collateral in favor of Bank of America, N.A.
+and Bank of America, N.A.
+“Senior Notes Indenture” means the Indenture dated April 4, 2013, by and among Holdings, the guarantors party thereto and the Senior Notes Trustee, as trustee and collateral agent.
+“Senior Notes Intercreditor Agreement” means the Intercreditor Agreement of even date herewith, between U.S. Bank National Association, as collateral agent for the holders of the Senior Notes, and the Administrative Agent, and acknowledged by each Credit Party.
+“UCP” means, with respect to any Letter of Credit, the Uniform Customs and Practice for Documentary Credits, International Chamber of Commerce (“ICC”) Publication No.
+THIS AGREEMENT AND THE OTHER LOAN DOCUMENTS AND ANY CLAIMS, CONTROVERSY, DISPUTE OR CAUSE OF ACTION (WHETHER IN CONTRACT OR TORT OR OTHERWISE) BASED UPON, ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT (EXCEPT, AS TO ANY OTHER LOAN DOCUMENT, AS EXPRESSLY SET FORTH THEREIN) AND THE TRANSACTIONS CONTEMPLATED HEREBY AND THEREBY SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK (EXCLUDING THE LAWS APPLICABLE TO CONFLICTS OR CHOICE OF LAW (OTHER THAN THE NEW YORK GENERAL OBLIGATIONS LAW §§ 5-1401 and 5-1402)).
+EACH PARTY HERETO EACH IRREVOCABLY AND UNCONDITIONALLY SUBMITS, FOR ITSELF AND ITS PROPERTY, TO THE NONEXCLUSIVE JURISDICTION OF THE COURTS OF THE STATE OF NEW YORK SITTING IN NEW YORK COUNTY AND OF THE UNITED STATES DISTRICT COURT OF THE SOUTHERN DISTRICT OF NEW YORK, AND ANY APPELLATE COURT FROM ANY THEREOF, IN ANY ACTION OR PROCEEDING ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT, OR FOR RECOGNITION OR ENFORCEMENT OF ANY JUDGMENT, AND EACH OF THE PARTIES HERETO IRREVOCABLY AND UNCONDITIONALLY AGREES THAT ALL CLAIMS IN RESPECT OF ANY SUCH ACTION OR PROCEEDING MAY BE HEARD AND DETERMINED IN SUCH NEW YORK STATE COURT OR, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IN SUCH FEDERAL COURT.
+NOTHING IN THIS AGREEMENT OR IN ANY OTHER LOAN DOCUMENT SHALL AFFECT ANY RIGHT THAT THE ADMINISTRATIVE AGENT, ANY LENDER OR THE L/C ISSUER MAY OTHERWISE HAVE TO BRING ANY ACTION OR PROCEEDING RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT AGAINST THE BORROWER, THE OTHER CREDIT PARTIES SIGNATORY HERETO OR THEIR RESPECTIVE PROPERTIES IN THE COURTS OF ANY JURISDICTION.
+EACH OF THE PARTIES HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, THE DEFENSE OF AN INCONVENIENT FORUM TO THE MAINTENANCE OF SUCH ACTION OR PROCEEDING IN ANY SUCH COURT.
+EACH PARTY HERETO IRREVOCABLY CONSENTS TO SERVICE OF PROCESS IN THE MANNER PROVIDED FOR NOTICES IN SECTION 10.02.
+EACH PARTY HERETO HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY RIGHT IT MAY HAVE TO A TRIAL BY JURY IN ANY LEGAL PROCEEDING DIRECTLY OR INDIRECTLY ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY (WHETHER BASED ON CONTRACT, TORT OR ANY OTHER THEORY).
+EACH PARTY HERETO (A) CERTIFIES THAT NO REPRESENTATIVE, AGENT OR ATTORNEY OF ANY OTHER PERSON HAS REPRESENTED, EXPRESSLY OR OTHERWISE, THAT SUCH OTHER PERSON WOULD NOT, IN THE EVENT OF LITIGATION, SEEK TO ENFORCE THE FOREGOING WAIVER AND (B) ACKNOWLEDGES THAT IT AND THE OTHER PARTIES HERETO HAVE BEEN INDUCED TO ENTER INTO THIS AGREEMENT AND THE OTHER LOAN DOCUMENTS BY, AMONG OTHER THINGS, THE MUTUAL WAIVERS AND CERTIFICATIONS IN THIS SECTION.
+10.16                 ENTIRE AGREEMENT.
+THIS AGREEMENT AND THE OTHER LOAN DOCUMENTS REPRESENT THE FINAL AGREEMENT AMONG THE PARTIES AND MAY NOT BE CONTRADICTED BY EVIDENCE OF PRIOR, CONTEMPORANEOUS, OR SUBSEQUENT ORAL AGREEMENTS OF THE PARTIES.
+THERE ARE NO UNWRITTEN ORAL AGREEMENTS AMONG THE PARTIES.
+AMERICAN APPAREL (USA), LLC
+AMERICAN APPAREL RETAIL, INC.
+AMERICAN APPAREL DYEING & FINISHING, INC.
+CREDIT AGREEMENT
+AMERICAN APPAREL, INC.
+CREDIT AGREEMENT
+CAPITAL ONE LEVERAGE FINANCE CORP., as Administrative Agent
+CAPITAL ONE LEVERAGE FINANCE CORP., as a Revolving Credit Lender and Swing Line Lender
+CREDIT AGREEMENT
+(a)         Issuer:  Bank of America, N.A.
+(b)         Issuer:  Citibank, N.A.
+American Express Travel Related Services Company, Inc.
+In December 2005, the American Apparel, Inc. and its subsidiaries (collectively, the “Company”) entered into an operating lease, which commenced on November 15, 2006, for its knitting facility with a related company (“American Central Plaza, LLC”), which is partially owned by the CEO and the Chief Manufacturing Officer (“CMO”) of the Company.
+Morris Charney, (“Mr.
+M. Charney”), is the father of the American Apparel, Inc.’s CEO and serves as a director of American Apparel Canada Wholesale Inc. and a director of American Apparel Canada Retail Inc.  Day to day operations of these two Canadian subsidiaries are handled by management and other employees of these subsidiaries, none of whom performs any policy making functions for the Company.
+Management of American Apparel, Inc. and its subsidiaries (collectively, the “Company”) sets the policies for the Company.
+To:          Capital One Leverage Finance Corp., as Administrative Agent
+Reference is made to that certain Credit Agreement, dated as of April 4, 2013 (as amended, amended and restated, extended, supplemented or otherwise modified in writing from time to time, the “Credit Agreement;” the terms used herein but not defined herein having the meaning as therein defined), among (a) AMERICAN APPAREL (USA), LLC, a California limited liability company (“AA USA”), as a Borrower and as the Borrower Representative for itself and the other Borrowers party thereto, (b) AMERICAN APPAREL RETAIL, INC., a California corporation (“AA Retail”), AMERICAN APPAREL DYEING & FINISHING, INC., a California corporation (“AA Dyeing & Finishing”), and KCL KNITTING, LLC, a California limited liability company (“KCL Knitting” and together with AA USA, AA Retail and AA Dyeing & Finishing, each individually, a “Borrower” and collectively, the “Borrowers”), (c) the other Credit Parties party thereto, (d) CAPITAL ONE LEVERAGE FINANCE CORP.  (“COLF”) and each other Lender from time to time party thereto, (e) COLF, as Administrative Agent, (f) COLF, as Swing Line Lender, and (g) Capital One, N.A., as L/C Issuer.
+AMERICAN APPAREL (USA), LLC, as Borrower Representative
+FOR VALUE RECEIVED, the undersigned (each individually, a “Borrower” and, collectively, the “Borrowers”), hereby jointly and severally promise to pay to                                    or its registered assigns (the “Lender”), in accordance with the provisions of the Credit Agreement (as hereinafter defined), the principal amount of each Revolving Credit Loan from time to time made by the Lender to the Borrowers under that certain Credit Agreement dated as of April 4, 2013 (as amended, amended and restated, extended, supplemented or otherwise modified in writing from time to time, the “Credit Agreement;” the terms used herein but not defined herein having the meaning as therein defined), among the Borrowers, the other Credit Parties party thereto, Capital One Leverage Finance Corp. (“COLF”) and each other Lender from time to time party thereto, Capital One, N.A., as L/C Issuer, and COLF, as Administrative Agent and Swing Line Lender.
+AMERICAN APPAREL (USA), LLC, as a Borrower
+AMERICAN APPAREL RETAIL, INC., as a Borrower
+AMERICAN APPAREL DYEING & FINISHING, INC., as a Borrower
+KCL KNITTING, LLC, as a Borrower
+To:                             Capital One Leverage Finance Corp., as Administrative Agent
+Reference is made to that certain Credit Agreement, dated as of April 4, 2013 (as amended, amended and restated, extended, supplemented or otherwise modified in writing from time to time, the “Credit Agreement;” the terms used herein but not defined herein having the meaning as therein defined), among (a) AMERICAN APPAREL (USA), LLC, a California limited liability company (“AA USA”), as a Borrower and as the Borrower Representative for itself and the other Borrowers party thereto, (b) AMERICAN APPAREL RETAIL, INC., a California corporation (“AA Retail”), AMERICAN APPAREL DYEING & FINISHING, INC., a California corporation (“AA Dyeing & Finishing”), and KCL KNITTING, LLC, a California limited liability company (“KCL Knitting” and together with AA USA, AA Retail and AA Dyeing & Finishing, each individually, a “Borrower” and collectively, the “Borrowers”), (c) the other Credit Parties party thereto, (d) CAPITAL ONE LEVERAGE FINANCE CORP.  (“COLF”) and each other Lender from time to time party thereto, (e) COLF, as Administrative Agent, (f) COLF, as Swing Line Lender, and (g) Capital One, N.A., as L/C Issuer.
+IN WITNESS WHEREOF, the undersigned has executed this Certificate as of                             ,       20       .
+AMERICAN APPAREL, INC.
+For the Fiscal Month/Year ended                                          (“Statement Date”)
+For the Fiscal Month/Fiscal Year ended                        (“Statement Date”)
+For the Fiscal Month/Fiscal Year ended                              (“Statement Date”)
+This Assignment and Assumption (this “Assignment and Assumption”) is dated as of the Effective Date set forth below and is entered into by and between [the][each](1) Assignor identified in item 1 below ([the][each, an] “Assignor”) and [the][each](2) Assignee identified in item 2 below ([the][each, an] “Assignee”).
+[for each Assignee, indicate [Assignee Group][Affiliate][Approved Fund] of [identify Lender(s)]]
+Borrowers:                                     American Apparel (USA), LLC, a California limited liability company, American Apparel Retail, Inc., a California corporation, American Apparel Dyeing & Finishing, Inc., a California corporation, and KCL Knitting, LLC, a California limited liability company.
+5.                                      Credit Agreement:                                             Credit Agreement, dated as April 4, 2013, among the Borrowers, the other Credit Parties party thereto, Capital One Leverage Finance Corp. and each other Lender from time to time party thereto, Capital One, N.A., as L/C Issuer, and Capital One Leverage Finance Corp., as Administrative Agent and Swing Line Lender.
+Effective Date:                          , 20      [TO BE INSERTED BY ADMINISTRATIVE AGENT AND WHICH SHALL BE THE EFFECTIVE DATE OF RECORDATION OF TRANSFER IN THE REGISTER THEREFOR.]
+CAPITAL ONE LEVERAGE FINANCE CORP., as Administrative Agent
+AMERICAN APPAREL (USA), LLC, as Borrower Representative
+ANNEX 1 TO ASSIGNMENT AND ASSUMPTION
+Reference is made to that certain Credit Agreement, dated as of April 4, 2013 (as amended, amended and restated, extended, supplemented or otherwise modified in writing from time to time, the “Credit Agreement”), among (a) AMERICAN APPAREL (USA), LLC, a California limited liability company (“AA USA”), as a Borrower and as the Borrower Representative for itself and the other Borrowers party thereto, (b) AMERICAN APPAREL RETAIL, INC., a California corporation (“AA Retail”), AMERICAN APPAREL DYEING & FINISHING, INC., a California corporation (“AA Dyeing & Finishing”), and KCL KNITTING, LLC, a California limited liability company (“KCL Knitting” and together with AA USA, AA Retail and AA Dyeing & Finishing, each individually, a “Borrower” and collectively, the “Borrowers”), (c) the other Credit Parties party thereto, (d) CAPITAL ONE LEVERAGE FINANCE CORP. (“COLF”) and each other Lender from time to time party thereto, (e) COLF, as Administrative Agent, (f) COLF, as Swing Line Lender, and (g) Capital One, N.A., as L/C Issuer.
+Dated:                , 20[      ]
+Reference is made to that certain Credit Agreement, dated as of April 4, 2013 (as amended, amended and restated, extended, supplemented or otherwise modified in writing from time to time, the “Credit Agreement”), among (a) AMERICAN APPAREL (USA), LLC, a California limited liability company (“AA USA”), as a Borrower and as the Borrower Representative for itself and the other Borrowers party thereto, (b) AMERICAN APPAREL RETAIL, INC., a California corporation (“AA Retail”), AMERICAN APPAREL DYEING & FINISHING, INC., a California corporation (“AA Dyeing & Finishing”), and KCL KNITTING, LLC, a California limited liability company (“KCL Knitting” and together with AA USA, AA Retail and AA Dyeing & Finishing, each individually, a “Borrower” and collectively, the “Borrowers”), (c) the other Credit Parties party thereto, (d) CAPITAL ONE LEVERAGE FINANCE CORP. (“COLF”) and each other Lender from time to time party thereto, (e) COLF, as Administrative Agent, (f) COLF, as Swing Line Lender, and (g) Capital One, N.A., as L/C Issuer.
+Dated:                , 20[      ]
+Reference is made to that certain Credit Agreement, dated as of April 4, 2013 (as amended, amended and restated, extended, supplemented or otherwise modified in writing from time to time, the “Credit Agreement”), among (a) AMERICAN APPAREL (USA), LLC, a California limited liability company (“AA USA”), as a Borrower and as the Borrower Representative for itself and the other Borrowers party thereto, (b) AMERICAN APPAREL RETAIL, INC., a California corporation (“AA Retail”), AMERICAN APPAREL DYEING & FINISHING, INC., a California corporation (“AA Dyeing & Finishing”), and KCL KNITTING, LLC, a California limited liability company (“KCL Knitting” and together with AA USA, AA Retail and AA Dyeing & Finishing, each individually, a “Borrower” and collectively, the “Borrowers”), (c) the other Credit Parties party thereto, (d) CAPITAL ONE LEVERAGE FINANCE CORP. (“COLF”) and each other Lender from time to time party thereto, (e) COLF, as Administrative Agent, (f) COLF, as Swing Line Lender, and (g) Capital One, N.A., as L/C Issuer.
+Dated:                , 20[      ]
+Reference is made to that certain Credit Agreement, dated as of April 4, 2013 (as amended, amended and restated, extended, supplemented or otherwise modified in writing from time to time, the “Credit Agreement”), among (a) AMERICAN APPAREL (USA), LLC, a California limited liability company (“AA USA”), as a Borrower and as the Borrower Representative for itself and the other Borrowers party thereto, (b) AMERICAN APPAREL RETAIL, INC., a California corporation (“AA Retail”), AMERICAN APPAREL DYEING & FINISHING, INC., a California corporation (“AA Dyeing & Finishing”), and KCL KNITTING, LLC, a California limited liability company (“KCL Knitting” and together with AA USA, AA Retail and AA Dyeing & Finishing, each individually, a “Borrower” and collectively, the “Borrowers”), (c) the other Credit Parties party thereto, (d) CAPITAL ONE LEVERAGE FINANCE CORP. (“COLF”) and each other Lender from time to time party thereto, (e) COLF, as Administrative Agent, (f) COLF, as Swing Line Lender and (g) Capital One, N.A., as L/C Issuer.
+Dated:                , 20[      ]

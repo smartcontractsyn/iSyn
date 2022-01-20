@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "TABERNA PREFERRED FUNDING IV, LTD."
+    ],
+    "BuyerName": [
+        "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION"
+    ],
+    "EffectiveTime": [
+        "December 23, 2005"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "JPMORGAN CHASE BANK, NATIONAL ASSOCIATION"
+            ],
+            "To": [
+                "TABERNA PREFERRED FUNDING IV, LTD."
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "credit agreement",
+    "SellerName": [
+        "CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK"
+    ],
+    "BuyerName": [
+        "EMERY SHIPPING CORPORATION","MANDORA SHIPPING LTD","RONDINE MANAGEMENT CORP","SOLANGE SHIPPING LTD"
+    ],
+    "EffectiveTime": [
+        "23 March 2021"
+    ],
+    "CloseTime": [
+        "15 May 2021"
+    ],
+    "OutSideClosingDate": ["30 June 2021"],
+    "Payments": [
+        {
+            "From": [ "EMERY SHIPPING CORPORATION","MANDORA SHIPPING LTD","RONDINE MANAGEMENT CORP","SOLANGE SHIPPING LTD"
+                
+            ],
+            "To": [
+                "CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK"
+            ],
+            "PurchasePrice": "58000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "MACROSHARES HOUSING DEPOSITOR, LLC"
+    ],
+    "BuyerName": [
+        "STATE STREET BANK AND TRUST COMPANY, N.A."
+    ],
+    "EffectiveTime": [
+        "June 29, 2009"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": ["November 25, 2014"],
+    "Payments": [
+        {
+            "From": [
+                "STATE STREET BANK AND TRUST COMPANY, N.A."
+            ],
+            "To": [
+                "MACROSHARES HOUSING DEPOSITOR, LLC"
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

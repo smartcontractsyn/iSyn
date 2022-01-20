@@ -1,0 +1,113 @@
+Closing; Delivery
+8
+8
+8
+Property
+Financial Statements
+Tax Returns and Payments.
+14
+14
+14
+Corporate Documents
+16
+Data Privacy
+16
+16
+16
+17
+17
+17
+17
+17
+18
+18
+18
+18
+18
+Public Reports; Financial Statements
+Tax Returns and Payments
+28
+28
+Performance
+28
+Compliance Certificate
+28
+28
+28
+28
+28
+28
+28
+28
+Secretary’s Certificate
+MoviePass Audited Financial Statements
+Performance
+Compliance Certificate
+Secretary’s Certificate
+Notices
+Specific Performance
+Delays or Omissions
+MoviePass shall deliver the MoviePass Note to Helios upon receipt in full of the Initial Cash Payment (as hereinafter defined) and at Closing shall be deemed satisfied in full by its terms pursuant to the issuance of the Shares (it being understood that if this Agreement is terminated prior to Closing, such MoviePass Note shall remain outstanding in accordance with its terms).
+(B)     a promissory note in the principal amount of $10,000,000, in the form of Exhibit C attached to this Agreement, to be delivered by Helios to MoviePass at the Closing (the “Helios Note”); and
+The Helios Milestone Shares shall be issued within five (5) business days following the date on which MoviePass provides notice to Helios in accordance with Subsection 1.1(d) of its achievement of the conditions in Subsection 1.1(c)(ii)(C).
+(d)     MoviePass shall notify Helios promptly of the achievement of or failure to achieve each of the events identified as a milestone in Subsection 1.1(c)(i) or Subsection 1.1(c)(ii)(C).
+With respect to a milestone related to the number of subscribers of MoviePass’ MoviePass product, MoviePass shall provide Helios with a certificate duly executed by the Chief Executive Officer and Chief Financial Officer of MoviePass, certifying that such milestone has or has not been achieved (as applicable), together with evidence of the same reasonably acceptable to Helios (it being agreed upon that evidence depicting the number of registered accounts on MoviePass’ server, together with copies of all written notices from registered accounts that have notified MoviePass of their desire to cancel use of the MoviePass Product, shall be satisfactory).
+1.2          Closing; Delivery.
+(a)     The purchase and sale of the Shares shall take place remotely via the exchange of documents and signatures, at 10:00 a.m. Pacific Time, on the third business day following the date when all of the conditions to closing set forth in Sections 5 and 6 hereof are satisfied in full or otherwise waived in writing by the party or parties to be charged, or at such other time and place as MoviePass and Helios mutually agree upon, orally or in writing (which time and place are designated as the “Closing”).
+(b)     At the Closing, MoviePass shall deliver to Helios a certificate representing the Shares against receipt by MoviePass of the Helios Closing Shares, the Initial Cash Payment (which shall have been delivered as of the date of this Agreement) and the Helios Note.
+MoviePass has furnished to Helios complete and accurate copies of the Stock Plan and forms of agreements used thereunder.
+On or prior to the date hereof, the Majority MoviePass Holders shall have executed and delivered to Helios all notices and written consents required to convert all outstanding Preferred Stock and convertible notes of MoviePass into Common Stock, as applicable, effective at or prior to the Closing, consistent with MoviePass’ representations and warranties in Subsection 2.2(b).
+MoviePass has delivered to Helios its unaudited financial statements as of December 31, 2016 and for the fiscal years ended December 31, 2016 and 2015 and its unaudited financial statements (including balance sheet, income statement and statement of cash flows) as of June 30, 2017 and for the three-month periods ended June 30, 2017 and 2016 (collectively, the “Financial Statements”).
+(l)     receipt of notice that there has been a loss of, or material order cancellation by, any major customer of MoviePass; or
+2.17     Tax Returns and Payments.
+2.21     Corporate Documents.
+The copy of the minute books of MoviePass provided to Helios contains minutes of all meetings of directors and stockholders and all actions by written consent without a meeting by the directors and stockholders since the date of incorporation and accurately reflects in all material respects all actions by the directors (and any committee of directors) and stockholders with respect to all transactions referred to in such minutes.
+MoviePass has made available to Helios true and complete copies of all material environmental records, reports, notifications, certificates of need, permits, pending permit applications, correspondence, engineering studies and environmental studies or assessments.
+3.10     Public Reports; Financial Statements.
+(i)     any declaration, setting aside or payment or other distribution in respect of any of equity securities of a Helios Company, or any direct or indirect redemption, purchase, or other acquisition of any of such equity securities by a Helios Company;
+3.14     Sarbanes-Oxley; Internal Accounting Controls.
+From the Closing until the first anniversary of the Closing, if MoviePass issues and/or sells any shares of Common Stock, including upon exercise or conversion of any Common Stock Equivalents, MoviePass shall promptly notify Helios of such issuance in writing and simultaneously issue to Helios a certificate or certificates evidencing such number of duly authorized, fully paid and nonassessable additional shares of Common Stock as is necessary for Helios to maintain its ownership percentage of fifty one percent (51%) of the then outstanding shares of Common Stock (for the avoidance of doubt, not on a fully-diluted basis, and excluding any unexercised options, warrants or convertible debt) (the “Anti-Dilution Percentage”) without the payment of additional consideration by Helios; provided, that in the event that Helios sells or otherwise transfers any of the Shares during the period from the Closing until the first anniversary of the Closing (including in the case of a transfer of all or a portion of the Shares pursuant to the Helios Note in satisfaction of Helios’ obligations thereunder or pursuant to the pledge made thereunder), the above Anti-Dilution Percentage will be appropriately reduced to reflect the Shares so transferred.
+4.3     Listing of Helios Shares.
+As promptly as practicable after the date hereof, and in consultation with MoviePass, Helios shall prepare and file with the SEC a proxy statement (as amended or supplemented from time to time, the “Proxy Statement”) calling a special meeting of Helios’ stockholders (the “Stockholder Meeting”) in accordance with its certificate of incorporation and bylaws seeking the approval of the Helios’ stockholders for the transactions contemplated by this Agreement and the other Transaction Agreement, and MoviePass shall use its commercially reasonable efforts to obtain and furnish to Helios any financial and other information about MoviePass required by the Exchange Act to be included in the Proxy Statement all in accordance with and as required by Helios’ certificate of incorporation and bylaws, applicable law and any applicable rules and regulations of the SEC and Nasdaq.
+Helios shall provide copies of the proposed forms of the Proxy Documents (including, in each case, any amendments or supplements thereto) to MoviePass such that MoviePass and its Representatives are afforded a reasonable amount of time prior to the dissemination or filing thereof to review such material and comment thereon prior to such dissemination or filing, and Helios shall reasonably consider in good faith any comments of MoviePass and its Representatives.
+Helios shall provide MoviePass and its Representatives with copies of any written comments, and shall inform them of any material oral comments, that Helios or any of its Representatives receive from the SEC or its staff with respect to the Proxy Documents promptly after the receipt of such comments and shall give MoviePass a reasonable opportunity under the circumstances to review and comment on any proposed written or material oral responses to such comments.
+5.3     Compliance Certificate.
+The Chief Executive Officer of MoviePass shall deliver to Helios at the Closing a certificate certifying that the conditions specified in Subsections 5.1 and 5.2 have been fulfilled.
+Helios shall have received from counsel for MoviePass an opinion, dated as of the Closing, in such form to be agreed upon by the parties.
+MoviePass shall have executed and delivered the Indemnification Agreements.
+MoviePass, Helios and such other stockholders of MoviePass named as parties to the Investors’ Rights Agreement shall have executed and delivered the Investors’ Rights Agreement.
+MoviePass, Helios and such other stockholders of MoviePass named as parties to the Voting Agreement shall have executed and delivered the Voting Agreement.
+5.11     Secretary’s Certificate.
+The Secretary of MoviePass shall have delivered to Helios at the Closing a certificate certifying (i) the Bylaws of MoviePass as of the Closing, (ii) resolutions of the Board of Directors of MoviePass approving the Transaction Agreements and the transactions contemplated under the Transaction Agreements, and (iii) resolutions of the stockholders of MoviePass approving the Restated Certificate.
+5.15     MoviePass Audited Financial Statements.
+MoviePass shall have delivered to Helios financial statements audited by a PCAOB independent registered accounting firm for the fiscal years ended December 31, 2015 and 2016 and interim unaudited (reviewed) financial statements for the six months ended June 30, 2017 (or, if the date of the Closing is on or after November 1, 2017, interim unaudited (reviewed) financial statements for the nine months ended September 30, 2017).
+MoviePass shall have delivered to Helios an executed copy of the lock-up agreement, with respect to the Helios Shares, by and between MoviePass and Helios, in substantially the form attached hereto as Exhibit J-1 (the “Lock-Up Agreement”).
+MoviePass shall have delivered to Helios an executed voting proxy agreement in favor of the current Chief Executive Officer of Helios, individually, with respect to the Helios Shares, in substantially the form attached hereto as Exhibit K-1.
+The requisite vote of the stockholders of MoviePass to approve the transactions contemplated by the Transaction Agreements pursuant to written consents of the Majority MoviePass Stockholders in accordance with the DGCL, the Current Certificate and the bylaws of MoviePass (the “MoviePass Stockholder Approval”) shall have been received no later than 5:00 pm Eastern Time on the business day following the date of this Agreement.
+6.3     Compliance Certificate.
+The Chief Executive Officer of Helios shall deliver to MoviePass at the Closing a certificate certifying that the conditions specified in Subsections 6.1 and 6.2 have been fulfilled.
+Helios and such other stockholders of MoviePass named as parties to the Investors’ Rights Agreement shall have executed and delivered the Investors’ Rights Agreement.
+Helios and such other stockholders of MoviePass named as parties to the Voting Agreement shall have executed and delivered the Voting Agreement.
+6.8     Secretary’s Certificate.
+The Secretary of Helios shall have delivered to MoviePass at the Closing a certificate certifying (i) the certificate of incorporation, as amended, and bylaws, as amended, of Helios as of the Closing, (ii) resolutions of the Board of Directors of Helios approving the Transaction Agreements and the transactions contemplated under the Transaction Agreements, and (iii) evidence that the stockholders of Helios have approved the transactions contemplated by this Agreement and the other Transaction Agreements to the extent required by Helios’ certificate of incorporation and bylaws, applicable law and any applicable rules and regulations of the SEC and Nasdaq.
+Helios shall have delivered to MoviePass an executed copy of the lock-up agreement, with respect to the Shares, by and between MoviePass and Helios, in substantially the form attached hereto as Exhibit J-2 (the “Helios Lock-Up Agreement”).]
+Helios shall have delivered to MoviePass an executed voting proxy agreement in favor of the current Chief Executive Officer of MoviePass, individually, with respect to the Shares, in substantially the form attached hereto as Exhibit K-2.
+6.19     Opinion of Helios Counsel MoviePass shall have received from counsel for Helios an opinion, dated as of the Closing, in such form to be agreed upon by the parties.
+Counterparts may be delivered via facsimile, electronic mail (including pdf or any electronic signature complying with the U.S. federal ESIGN Act of 2000, e.g., www.docusign.com) or other transmission method and any counterpart so delivered shall be deemed to have been duly and validly delivered and be valid and effective for all purposes.
+7.6     Notices.
+All notices and other communications given or made pursuant to this Agreement shall be in writing and shall be deemed effectively given upon the earlier of actual receipt, or (a) personal delivery to the party to be notified, (b) when sent and affirmatively confirmed as received, if sent by electronic mail or facsimile during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient’s next business day, (c) five (5) days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one (1) business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt.
+All communications shall be sent to the respective parties at their address as set forth on the signature page, or to such e-mail address, facsimile number or address as subsequently modified by written notice given in accordance with this Subsection 7.6.
+If notice is given to MoviePass, a copy shall also be sent to Ellenoff Grossman & Schole LLP, 1345 Avenue of the Americas, New York, NY 10105, attention: Barry I. Grossman, Esq., telephone: (212) 370-1300, e-mail: bigrossman@egsllp.com and if notice is given to Helios, a copy shall also be given to Mitchell Silberberg & Knupp LLP, 11377 W. Olympic Blvd., Los Angeles, CA 90064, attention: Kevin Friedmann, Esq., telephone: (310) 312-3106, e-mail: kxf@msk.com.
+MoviePass shall engage a transfer agent reasonably acceptable to Helios prior to the Closing, provided that Computershare shall be deemed acceptable to Helios.
+Helios must, in the first instance, provide written notice of the Dispute to MoviePass, which notice must provide a reasonably detailed description of the reason for the Dispute.
+The arbitrator’s award shall be in writing and shall include a reasonable explanation of the arbitrator’s reason(s) for selecting one or the other proposal.
+(vii)     by written notice by MoviePass if MoviePass does not receive the unpaid balance of the Initial Cash Payment within one business day following its delivery to Helios of the MoviePass Stockholder Approval.
+By:
+/s/ Mitch Lowe
+Address: 175 Varick Street
+                 Suite 604
+[Helios Signature Page to Securities Purchase Agreement]
+By:
+/s/ Theodore Farnsworth
+Address: Empire State Building, 350 5th Avenue,
+[MoviePass Signature Page to Securities Purchase Agreement]

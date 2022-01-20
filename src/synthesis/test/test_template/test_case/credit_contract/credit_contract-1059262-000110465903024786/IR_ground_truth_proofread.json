@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "Credit Agreement",
+    "SellerName": [
+        "STANDARD PARKING CORPORATION"
+    ],
+    "BuyerName": [
+        "the lenders party hereto from time to time"
+    ],
+    "EffectiveTime": [
+        "August 28, 2003"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": ["June 30, 2006"],
+    "Payments": [
+        {
+            "From": [
+                "the lenders party hereto from time to time"
+            ],
+            "To": [
+                "STANDARD PARKING CORPORATION"
+            ],
+            "PurchasePrice": "40,000,000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

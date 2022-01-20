@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "Gogoro Inc."
+    ],
+    "BuyerName": [
+        "Starship Merger Sub I Limited"
+    ],
+    "EffectiveTime": [
+        "September 16, 2021"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": ["March 31, 2022"],
+    "Payments": [
+        {
+            "From": [
+                "Starship Merger Sub I Limited"
+            ],
+            "To": [
+                "Gogoro Inc."
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

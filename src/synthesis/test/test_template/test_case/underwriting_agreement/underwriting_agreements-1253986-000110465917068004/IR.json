@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Company"
+    ],
+    "BuyerName": [
+        "J.P. Morgan Securities LLC"
+    ],
+    "EffectiveTime": [
+        "November 13, 2017"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "November 15"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "J.P. Morgan Securities LLC"
+            ],
+            "To": [
+                "Company"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 143750000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

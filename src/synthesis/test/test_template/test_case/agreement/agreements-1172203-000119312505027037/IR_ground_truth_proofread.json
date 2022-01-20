@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "Employ agreement",
+    "SellerName": [
+        "Raymond L. Lawless"
+    ],
+    "BuyerName": [
+        "Syniverse Holdings, Inc.；Syniverse Technologies, Inc."
+    ],
+    "EffectiveTime": [
+        "February 14, 2002"
+    ],
+    "CloseTime": [
+        "August 14, 2002"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Syniverse Holdings, Inc.；Syniverse Technologies, Inc."
+            ],
+            "To": [
+                "Raymond L. Lawless"
+            ],
+            "PurchasePrice": "275000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

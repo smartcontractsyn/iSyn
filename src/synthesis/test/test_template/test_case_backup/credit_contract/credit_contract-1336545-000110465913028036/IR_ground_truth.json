@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "AMERICAN APPAREL (USA), LLC"
+    ],
+    "BuyerName": [
+        "CAPITAL ONE LEVERAGE FINANCE CORP."
+    ],
+    "EffectiveTime": [
+        "April 4, 2013"
+    ],
+    "CloseTime": [
+        "April 4, 2013"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "CAPITAL ONE LEVERAGE FINANCE CORP."
+            ],
+            "To": [
+                "AMERICAN APPAREL (USA), LLC"
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

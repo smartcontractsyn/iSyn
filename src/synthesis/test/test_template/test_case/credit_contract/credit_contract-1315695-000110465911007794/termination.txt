@@ -1,0 +1,120 @@
+Mandatory Termination of Commitments
+8.15
+9.15
+10.10
+12.10
+13.15
+13.16
+WHEREAS, the Borrower intends to (i) terminate the Existing Credit Agreement and repay the outstanding obligations and terminate outstanding commitments thereunder, including with the proceeds of credit facilities comprised of (a) an $850,000,000 term loan facility and (b) a $180,000,000 revolving credit facility, and (ii) release and discharge all guarantees, liens and security interests associated therewith, in each case, as described in this Agreement (collectively, the “Refinancing”);
+“Final Date” shall mean the date on which the Revolving Credit Commitments shall have terminated, no Revolving Credit Loans shall be outstanding and the applicable Letter of Credit Outstandings shall have been reduced to zero.
+Revolving Credit Commitment and the Total Term Loan Commitment have been terminated or for the purposes of acceleration pursuant to Section 11, the holders (excluding Defaulting Lenders) of a majority of the Dollar Equivalent of the outstanding principal amount of the Loans and Letter of Credit Exposures (excluding the Loans and Letter of Credit Exposures of Defaulting Lenders) in the aggregate at such date.
+If upon the expiration of any Interest Period in respect of Eurodollar Term Loans or Eurodollar Revolving Credit Loans, the Borrower has failed to elect a new Interest Period to be applicable thereto as provided in paragraph (a) above, (i) the Borrower shall be deemed to have elected to convert such Dollar Borrowing of Term Loans or Eurodollar Revolving Credit Loans, as the case may be, into a Borrowing of ABR Loans effective as of the expiration date of such current Interest Period and (ii) the Borrower shall be deemed to have elected to convert such Foreign Currency Borrowing of Eurodollar Revolving Credit Loans into a Borrowing of Eurodollar Loans with an Interest Period of one month effective as of the expiration date of such then-current Interest Period.
+(c)           if any Interest Period would otherwise expire on a day that is not a Business Day, such Interest Period shall expire on the next succeeding Business Day; provided, that if any Interest Period in respect of a Eurodollar Term Loan or Eurodollar Revolving Credit Loan would otherwise expire on a day that is not a Business Day but is a day of the month after which no further Business Day occurs in such month, such Interest Period shall expire on the next preceding Business Day; and
+Thereafter (x) in the case of clause (i) above, Eurodollar Term Loans or Eurodollar Revolving Credit Loans shall no longer be available until such time as the Administrative Agent notifies the Borrower and the Lenders that the circumstances giving rise to such notice by the Administrative Agent no longer exist (which notice the Administrative Agent agrees to give at such time when such circumstances no longer exist), and any Notice of Borrowing or Notice of Conversion given by the Borrower with respect to Eurodollar Term Loans or Eurodollar Revolving Credit Loans that have not yet been incurred shall be deemed rescinded by the Borrower, (y) in the case of clause (ii) above, the Borrower shall pay to such Lender, promptly after receipt of written demand therefor such additional amounts (in the form of an increased rate of, or a different method of calculating, interest or otherwise as such Lender in its reasonable discretion shall determine) as shall be required to compensate such Lender for such increased costs
+If (a) any payment of principal of any Eurodollar Term Loan or Eurodollar Revolving Credit Loan is made by the Borrower to or for the account of a Lender other than on the last day of the Interest Period for such Eurodollar Loan as a result of a payment or conversion pursuant to Section 2.5, 2.6, 2.10, 5.1, 5.2 or 13.7, as a result of acceleration of the maturity of the Loans pursuant to Section 11 or for any other reason, (b) any Borrowing of Eurodollar Term Loans or Eurodollar Revolving Credit Loans is not made as a result of a withdrawn Notice of Borrowing, (c) any ABR Loan is not converted into a Eurodollar Term Loan or Eurodollar Revolving Credit Loan as a result of a withdrawn Notice of Conversion or Continuation, (d) any Eurodollar Loan is not continued as a Eurodollar Term Loan or Eurodollar Revolving Credit Loan as a result of a withdrawn Notice of Conversion or Continuation or (e) any prepayment of principal of any Eurodollar Term Loan or Eurodollar Revolving Credit Loan is not made as a result of a withdrawn notice of prepayment pursuant to Section 5.1 or 5.2, the Borrower shall, after receipt of a written request by such Lender (which request shall set forth in reasonable detail the basis for requesting such amount), pay to the Administrative Agent for the account of such Lender any amounts required to compensate such Lender for any additional losses, costs or expenses that such Lender may reasonably incur as a result of such payment, failure to convert, failure to continue or failure to prepay, including any loss, cost or expense (excluding loss of anticipated profits) actually incurred by reason of the liquidation or reemployment of deposits or other funds acquired by any Lender to fund or maintain such Eurodollar Loan.
+Such New Loan Commitments shall become effective, as of such Increased Amount Date; provided, that (1) no Default or Event of Default shall exist on such Increased Amount Date before or after giving effect to such New Loan Commitments, as applicable; (2) both before and
+The Letter of Credit Issuer may resign as Letter of Credit Issuer upon 60 days’ prior written notice to the Administrative Agent, the Lenders and the Borrower.
+the Administrative Agent shall promptly transmit to each of the Lenders), the Borrower shall have the right, without premium or penalty, on any day, permanently to terminate or reduce the Revolving Credit Commitments in whole or in part; provided, that (a) any such reduction shall apply proportionately and permanently to reduce the Revolving Credit Commitment of each of the Lenders, (b) any partial reduction pursuant to this Section 4.2 shall be in the amount of at least the Dollar Equivalent of $1,000,000 and in integral multiples of the Dollar Equivalent of $100,000 and (c) after giving effect to such termination or reduction and to any prepayments of the Loans made on the date thereof in accordance with this Agreement, the aggregate amount of the Lenders’ Revolving Credit Exposures shall not exceed the Total Revolving Credit Commitment.
+4.3                                 Mandatory Termination of Commitments.
+(a)  All of the Term Loan Commitments shall terminate at 5:00 p.m. (New York time) on the Closing Date.
+(b)                                 The Total Revolving Credit Commitment, including the Total Foreign Currency Revolving Commitment, shall terminate at 5:00 p.m. (New York time) on the Revolving Credit Maturity Date.
+(c)                                  The Swingline Commitment shall terminate at 5:00 p.m. (New York time) on the Swingline Maturity Date.
+8.3                                 No Violation.
+Multiemployer Plan pursuant to Section 515, 4201 or 4204 of ERISA or has been notified in writing that it will incur any liability under any of the foregoing Sections with respect to any Multiemployer Plan; (g) no proceedings have been instituted (or are reasonably likely to be instituted) to terminate any Plan or to appoint a trustee to administer any Plan, and no written notice of any such proceedings or of the institution of any proceedings to terminate a Multiemployer Plan has been given to any of Holdings, the Borrower, any Subsidiary or any ERISA Affiliate; (h) and no lien imposed under the Code or ERISA with respect to any Plan or Multiemployer Plan on the assets of any of Holdings, the Borrower or any Subsidiary or any ERISA Affiliate exists nor has any of Holdings, the Borrower, any Subsidiary or any ERISA Affiliate been notified in writing that such a lien will be imposed on the assets of any of Holdings, the Borrower, any Subsidiary or any ERISA Affiliate; except to the extent that a breach of any of the representations, warranties or agreements in clauses (a)-(h) above in this Section 8.11 would not be reasonably likely to result, individually or in the aggregate, in an amount of liability that would be reasonably likely to have a Material Adverse Effect or relates to any matter disclosed in the financial statements of the Borrower dated September 30, 2010.
+8.15                           Properties.
+proceedings will be or have been instituted to terminate a Plan having an Unfunded Current Liability (including the giving of written notice thereof); that a proceeding has been instituted against the Borrower, a Subsidiary or an ERISA Affiliate pursuant to Section 515 of ERISA to collect a delinquent contribution to a Multiemployer Plan; that the PBGC has notified the Borrower, any Subsidiary or any ERISA Affiliate of its intention to appoint a trustee to administer any Plan; that the Borrower, any Subsidiary or any ERISA Affiliate has failed to make a required installment or other payment pursuant to Section 430(j) of the Code or Section 303(j) of ERISA with respect to a Plan; that the Borrower, any Subsidiary or any ERISA Affiliate has incurred or has received written notice that it will incur any liability (including any contingent or secondary liability) to or on account of a Multiemployer Plan pursuant to Section 515, 4201 or 4204 of ERISA; or that the Borrower, any Subsidiary or any ERISA Affiliate has incurred or will incur any liability (including any contingent or secondary liability) to or on account of a Plan pursuant to Section 409, 502(i), 502(l), 4062, 4063, 4064 or 4069 of ERISA or Section 4971 or 4975 of the Code..
+9.15                           Further Assurances.
+(g)                                 Indebtedness outstanding on the Closing Date and listed on Schedule 10.1, and any refinancing, refunding, renewal or extension thereof; provided, that (i) the principal amount thereof is not increased above the principal amount thereof outstanding immediately prior to such refinancing, refunding, renewal or extension, except to the extent otherwise permitted hereunder and (ii) the direct and contingent obligors with respect to such Indebtedness are not changed;
+(e)           any Restricted Subsidiary may liquidate or dissolve if (x) the Borrower determines in good faith that such liquidation or dissolution is in the best
+The Borrower shall (a) default in the payment when due of any principal of the Loans or (b) default, and such default shall continue for five or more days, in the payment when due of any interest on the Loans or any Fees or any Unpaid Drawings or of any other amounts owing hereunder or under any other Credit Document; or
+Any Credit Party shall (a) default in the due performance or observance by it of any term, covenant or agreement contained in Section 9.1(e), Section 9.16 or Section 10 or (b) default in the due performance or observance by it of any term, covenant or agreement (other than those referred to in Section 11.1 or 11.2 or clause (a) of this Section 11.3) contained in this Agreement, or any Security Document and such default shall continue unremedied for a period of at least 30 days after receipt of written notice by the Borrower from the Administrative Agent or the Required Lenders; or
+11.5         Bankruptcy, etc.
+(a) Any Plan shall fail to satisfy the minimum funding standard required for any plan year or part thereof or a waiver of such standard or extension of any amortization period is sought or granted under Section 412 or 430 of the Code or Section 302 or 303 of ERISA; any Plan or Multiemployer Plan is or shall have been terminated or is the subject of termination proceedings under ERISA (including the giving of written notice thereof); an event shall have occurred or a condition shall exist in either case entitling the PBGC to terminate any Plan or to appoint a trustee to administer any Plan (including the giving of written notice thereof); any of Holdings, the Borrower or any Subsidiary or any ERISA Affiliate has incurred or is likely to incur a liability to or on account of a Plan under Section 409, 502(i), 502(l), 4062, 4063, 4064, or 4069 of ERISA or Section 4971 or 4975 of the Code (including the giving of written notice thereof); any of Holdings, the Borrower or any Subsidiary or any ERISA Affiliate has
+11.10       Mortgages.
+decrees shall not have been satisfied, vacated, discharged or stayed or bonded pending appeal within 60 days from the entry thereof; or
+then, and in any such event, and at any time thereafter, if any Event of Default shall then be continuing, the Administrative Agent shall, upon the written request of the Required Lenders, by written notice to the Borrower, take any or all of the following actions, without prejudice to the rights of the Administrative Agent or any Lender to enforce its claims against the Borrower, except as otherwise specifically provided for in this Agreement (provided, that, if an Event of Default specified in Section 11.5 shall occur with respect to the Borrower or any Specified Subsidiary, the result that would occur upon the giving of written notice by the Administrative Agent as specified in clauses (i), (ii) and (iv) below shall occur automatically without the giving of any such notice):  (i) declare the Total Term Loan Commitment and the Total Revolving Credit Commitment terminated, whereupon the Commitments and Swingline Commitment, if any, of each Lender or the Swingline Lender, as the case may be, shall forthwith terminate immediately and any Fees theretofore accrued shall forthwith become due and payable without any other notice of any kind; (ii) declare the principal of and any accrued interest in respect of all Loans and all Obligations owing hereunder and thereunder to be, whereupon the same shall become, forthwith due and payable without presentment, demand, protest or other notice of any kind, all of which are hereby waived by the Borrower; (iii) terminate any Letter of Credit that may be terminated in accordance with its terms; and/or (iv) direct the Borrower to pay (and the Borrower agrees that upon receipt of such notice, or upon the occurrence of an Event of Default specified in Section 11.5 with respect to the Borrower or any Specified Subsidiary, it will pay) to the Administrative Agent at the Administrative Agent’s Office such additional amounts of cash, to be held as security for the Borrower’s respective reimbursement obligations for Drawings that may subsequently occur thereunder, equal to the aggregate Stated Amount of all Letters of Credit issued and then outstanding.
+12.1         Appointment.
+12.5         Notice of Default.
+12.7         Indemnification.
+13.2        Notices.
+13.8        Adjustments; Set-off.
+13.11      Integration.
+13.12      GOVERNING LAW.
+13.15      WAIVERS OF JURY TRIAL.
+09/09/2011
+09/10/2011
+31.12.2012
+31.03.2011
+15.06.2014
+28.02.2016
+30.10.2024
+31.07.2025
+31.03.2013
+31.03.2013
+30.03.2016
+30.03.2016
+13.09.2011
+16.09.2015
+30.09.2020
+17.06.2013
+09/09/2011
+09/10/2011
+04/31/2011
+17.06.2013
+(1)           This investment was written off in Q2 2010.
+(2)           This investment was written off in March 2008.
+(b)           As used herein, the term “Closing Time” means 12:00 p.m. EST on the Closing Date.
+No Subrogation.
+SUPPLEMENT NO.
+If Mortgagor retains possession of such property or any part thereof subsequent to such sale, Mortgagor will be considered a tenant at sufferance of the purchaser, and will, if Mortgagor remains in possession after demand to remove, be subject to eviction and removal, forcible or otherwise, with or without process of law.
+Upon the occurrence and during the continuance of an Event of Default, whether or not legal proceedings have commenced, and without regard to waste, adequacy of security for the Obligations or solvency of Mortgagor, the license herein granted shall automatically expire and terminate, without notice by Mortgagee (any such notice being hereby expressly waived by Mortgagor).
+(b)           As used herein, the term “Closing Time” means 12:00 p.m. EST on the Closing Date.
+(a) So long as no Event of Default shall have occurred and be continuing:
+The Administrative Agent may adjourn any public or private sale from time to time by announcement at the time and place fixed therefor, and such sale may, without further notice, be made at the time and place to which it was so adjourned.
+This Pledge Agreement and the security interest granted hereby shall terminate on the first date on which all the Obligations under the Credit Documents shall have been satisfied by payment in full, the Commitments shall be terminated and no Letters of Credit shall be outstanding.
+SUPPLEMENT NO.
+(6)
+dated as of [            ], 20[·]
+1.06                 No Interference; Payment Over.
+If, at any time the Controlling Collateral Agent forecloses upon or otherwise exercises remedies against any Shared Collateral resulting in a sale or disposition thereof, then (whether or not any Insolvency or Liquidation Proceeding is pending at the time) the Liens in favor of the other Collateral Agent for the benefit of each Series of First-Lien Secured Parties upon such Shared Collateral will automatically be released and discharged as and when, but only to the extent, such Liens of the Controlling Collateral Agent on such Shared Collateral are released and discharged; provided that any proceeds of any Shared Collateral realized therefrom shall be applied pursuant to Section 2.01.
+1.09      Reinstatement.
+3.01      Authority.
+4.01      Notices.
+4.15      Integration.
+(7)
+dated as of [            ], 20[·]
+(a)                                  Each Second Priority Representative, for itself and on behalf of each Second Priority Debt Party under its Second Priority Debt Facility, agrees that, in the event of a sale, transfer or other disposition of any specified item of Shared Collateral (including all or substantially all of the equity interests of any subsidiary of the Company) (i) in connection with the exercise of remedies in respect of Collateral or (ii) if not in connection with the exercise of remedies in respect of the Collateral, so long as an Event of Default (as defined in and under any Second Lien Debt Document) has not occurred and is continuing, the Liens granted to the Second Priority Representatives and the Second Priority Debt Parties upon such Shared Collateral to secure Second Priority Debt Obligations shall terminate and be released, automatically and without any further action, concurrently with the termination and release of all Liens granted upon such Shared Collateral to secure Senior Obligations.
+the purposes of Section 5.01(a), including any termination statements, endorsements or other instruments of transfer or release.
+5.06                           When Discharge of Senior Obligations Deemed To Not Have Occurred.
+If this Agreement shall have been terminated prior to such Recovery, this Agreement shall be reinstated in full force and effect, and such prior termination shall not diminish, release, discharge, impair or otherwise affect the obligations of the parties hereto.
+8.05                           Subrogation.
+8.10                           Notices.
+8.20         Relative Rights.
+8.21         Survival of Agreement.
+SUPPLEMENT NO.
+“Closing Time” shall mean 12:00 p.m. EST on the Closing Date.
+(b)           The Administrative Agent hereby authorizes each Grantor to collect such Grantor’s Accounts and the Administrative Agent may curtail or terminate said authority at any time after the occurrence and during the continuance of an Event of Default.
+The Administrative Agent may adjourn any public or private sale from time to time by announcement at the time and place fixed therefor, and such sale may, without further notice, be made at the time and place to which it was so adjourned.
+This Security Agreement and the security interest granted hereby shall terminate on the first date on which all the Obligations under the Credit Documents shall have been satisfied by payment in full, the Commitments shall be terminated and no Letters of Credit shall be outstanding.
+8.3  No Waiver by Course of Conduct; Cumulative Remedies.
+SUPPLEMENT NO.
+TO SUPPLEMENT NO.
+TO SUPPLEMENT NO.
+TO SUPPLEMENT NO.
+TO SUPPLEMENT NO.
+TO SUPPLEMENT NO.
+TO SUPPLEMENT NO.
+TO SUPPLEMENT NO.
+SUPPLEMENT NO.
+TO SUPPLEMENT NO.
+TO SUPPLEMENT NO.
+TO SUPPLEMENT NO.
+TO SUPPLEMENT NO.
+TO SUPPLEMENT NO.
+TO SUPPLEMENT NO.
+(8)
+(10)         Date of Issuance.
+(15)         Insert last date upon which drafts may be presented.
+[     ], 20[ ]
+[     ], 20[ ]
+·      Subject:

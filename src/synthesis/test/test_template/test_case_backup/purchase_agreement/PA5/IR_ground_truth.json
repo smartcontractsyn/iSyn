@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "PurchaseAgreement",
+    "SellerName": [
+        ""
+    ],
+    "BuyerName": [
+        "VANGUARD PERMIAN LLC"
+    ],
+    "EffectiveTime": [
+        "26th  February 2013,"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        "June 1, 2013,"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "VANGUARD PERMIAN LLC"
+            ],
+            "To": [
+                ""
+            ],
+            "PurchasePrice": "275000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

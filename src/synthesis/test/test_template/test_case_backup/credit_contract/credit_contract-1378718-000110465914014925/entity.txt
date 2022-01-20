@@ -1,0 +1,189 @@
+FIRST AMENDMENT TO CREDIT AGREEMENT
+FIRST AMENDMENT TO CREDIT AGREEMENT, dated as of February 12, 2014 (this “Amendment”), among WESCO AIRCRAFT HOLDINGS, INC., a Delaware corporation (“Holdings”), WESCO AIRCRAFT HARDWARE CORP., a California corporation (the “Borrower”), the Subsidiary Guarantors (as defined below), the Administrative Agent (as defined below), the Collateral Agent (as defined below), and the Lenders party hereto.
+WHEREAS, Holdings, the Borrower, the Lenders from time to time party thereto, BARCLAYS BANK PLC, as Administrative Agent (in such capacity, the “Administrative Agent”), Collateral Agent (in such capacity, the “Collateral Agent”, and collectively with the Administrative Agent, in such capacities, the “Agent”), Issuing Lender and Swingline Lender, are parties to a Credit Agreement, dated as of December 7, 2012 (as heretofore amended, the “Existing Credit Agreement”);
+WHEREAS, Holdings, the Borrower and certain of the Borrower’s subsidiaries (collectively, the “Subsidiary Guarantors” and, together with Holdings, the “Existing Guarantors”, and together with the Borrower, the “Existing Loan Parties”), and the Collateral Agent are parties to that certain Guarantee and Collateral Agreement, dated as of December 7, 2012 (the “Guarantee and Collateral Agreement”);
+WHEREAS, Bank of America, N.A., Barclays Bank PLC, RBC Capital Markets, a marketing name for the capital markets activities of Royal Bank of Canada and its affiliates, and Morgan Stanley Senior Funding Inc. (collectively, the “First Amendment Lead Arrangers”), are the joint lead arrangers and joint bookrunners for this Amendment;
+SECTION ONE — DEFINED TERMS.
+SECTION FOUR — GUARANTEE AND COLLATERAL AGREEMENT AMENDMENTS.
+SECTION THIRTEEN — FIRST AMENDMENT LEAD ARRANGERS.
+WESCO AIRCRAFT HARDWARE CORP.
+WESCO AIRCRAFT HOLDINGS, INC.
+INTERFAST USA HOLDINGS INCORPORATED
+INTERFAST USA INCORPORATED
+WESCO AIRCRAFT AH, LLC
+BARCLAYS BANK PLC, as Administrative Agent, Collateral Agent
+BANK OF AMERICA, N.A.,
+CONSENT OF REVOLVING LENDERS AND TERM LENDERS
+Bank of America, N.A.
+PURSUANT TO FIRST AMENDMENT
+DELETED TEXT SHOWN STRIKETHROUGH
+CREDIT AGREEMENT
+WESCO AIRCRAFT HOLDINGS, INC.,
+WESCO AIRCRAFT HARDWARE CORP.,
+as Borrower,
+BARCLAYS BANK PLC,
+as Administrative Agent, Collateral Agent, Issuing Lender and Swingline Lender,
+MERRILL LYNCH, PIERCE, FENNER &
+SMITH INCORPORATED,
+BANK OF AMERICA, N.A.,
+and
+BARCLAYS BANK PLC,
+as Joint Lead Arrangers,
+MERRILL LYNCH, PIERCE, FENNER & SMITH
+INCORPORATED,
+BANK OF AMERICA, N.A.,
+BARCLAYS BANK PLC,
+J.P. MORGAN SECURITIES LLC,
+MORGAN STANLEY SENIOR FUNDING, INC.,
+RBC CAPITAL MARKETS,
+KEYBANK NATIONAL ASSOCIATION,
+SUMITOMO MITSUI BANKING CORPORATION,
+and
+UNION BANK, N.A.
+as Joint Bookrunners,
+BANK OF AMERICA, N.A.,
+J.P. MORGAN SECURITIES LLC,
+MORGAN STANLEY SENIOR FUNDING, INC.,
+RBC CAPITAL MARKETS,
+KEYBANK NATIONAL ASSOCIATION,
+SUMITOMO MITSUI BANKING CORPORATION,
+UNION BANK, N.A.
+BARCLAYS BANK PLC,
+BBVA COMPASS BANK
+PNC BANK, NATIONAL ASSOCIATION
+and
+RAYMOND JAMES BANK, N.A.
+SCHEDULES:
+CREDIT AGREEMENT, dated as of December 7, 2012, among WESCO AIRCRAFT HOLDINGS, INC., a Delaware corporation (“Holdings”), WESCO AIRCRAFT HARDWARE CORP., a California corporation (the “Borrower”), the several banks and other financial institutions or entities from time to time parties to this Agreement (the “Lenders”), BARCLAYS BANK PLC, as Administrative Agent, Collateral Agent, Issuing Lender and Swingline Lender, MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATEDBANK OF AMERICA, N.A.
+and BARCLAYS BANK PLC, as joint lead arrangers, MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATEDBANK OF AMERICA, N.A., BARCLAYS BANK PLC, J.P. MORGAN SECURITIES LLC, KEYBANK NATIONAL ASSOCIATION, MORGAN STANLEY SENIOR FUNDING, INC., RBC CAPITAL MARKETS, SUMITOMO MITSUI BANKING CORPORATION and UNION BANK, N.A.
+as joint bookrunners, BANK OF AMERICA, N.A., J.P. MORGAN SECURITIES LLC, KEYBANK NATIONAL ASSOCIATION, MORGAN STANLEY SENIOR FUNDING, INC., RBC CAPITAL MARKETS, SUMITOMO MITSUI BANKING CORPORATION and UNION BANK, N.A., as co-syndication agents (the “Syndication Agents”), and BARCLAYS BANK PLC, BBVA COMPASS BANK, PNC BANK, NATIONAL ASSOCIATION and RAYMOND JAMES BANK, N.A.
+as co-documentation agents (the “Documentation Agents”).
+“Administrative Agent”:  Barclays Bank PLC, as the administrative agent for the Lenders under this Agreement and the other Loan Documents, together with any of its successors and permitted assigns.
+“Affiliate Lenders”:  collectively, Holdings and its Subsidiaries and Other Affiliates.
+“Board”:  the Board of Governors of the Federal Reserve System of the United States (or any successor).
+“Dollar Letter of Credit”:  Letters of Credit that utilize the Dollar Revolving Commitments.
+“Existing Credit Agreement”:  the Credit Agreement dated as of AprilDecember 7, 20112012, among Holdings, the Borrower, the lenders party thereto, Barclays Bank PLC, as Administrative Agent and the other agents and financial institutions party thereto, as amended.
+“Facility”:  each of (a) the Tranche A Term Loan Commitments and the Tranche A Term Loans (the “Tranche A Term Facility”), (b)  the Tranche B Term Loan Commitments and the Tranche B Term Loans (the “Tranche B Term Facility”), (c) the Dollar Revolving Commitments and the extensions of credit made thereunder (the “Dollar Revolving Facility”), (cd) the Multicurrency Revolving Commitments and the extensions of credit made thereunder (the “Multicurrency Revolving Facility” and, together with the Dollar Revolving Facility, the “Revolving Facility”) and (de) each Tranche of New Term Loans and the related New Term Loan Commitments (each, a “New Term Loan Facility”).
+“First Amendment”: the First Amendment dated as of February 28, 2014, among Holdings, the Borrower, the Subsidiary Guarantors, Barclays Bank PLC as Administrative Agent and Collateral Agent, and the Lenders party thereto.
+“Flintbrook”:  Flintbrook Limited, a limited holding company incorporated under the laws of England and Wales.
+“Guarantee and Collateral Agreement”:  the Guarantee and Collateral Agreement to be executed and delivered by Holdings, the Borrower and each Subsidiary Guarantor, substantially in the form of Exhibit A, as the same may be amended, supplemented or otherwise modified from time to time.
+“Haas Merger Agreement”: that certain Agreement and Plan of Merger among Haas Group Inc., Wesco Aircraft Holdings, Inc. and Flyer Acquisition Corp. dated as of January 30, 2014, together with all exhibits, annexes, schedules and other disclosure letters thereto, as amended through the First Amendment Effective Date and pursuant to which upon the consummation of the merger provided for thereunder, Flyer Acquisition Corp shall merge with and into Haas Group Inc., with Haas Group Inc. surviving such merger and immediately thereafter becoming a wholly owned Subsidiary of Holdings and a Subsidiary Guarantor.
+“Joinder Agreement”:  an agreement substantially in the form of Exhibit H.
+“Joint Bookrunners”:  the collective reference to Merrill Lynch, Pierce, Fenner & Smith IncorporatedBank of America, N.A.,  Barclays Bank PLC, J.P. Morgan Securities LLC, Morgan Stanley Senior Funding, Inc., Sumitomo Mitsui Banking Corporation, KeyBank National Association, Union Bank, N.A.
+“Joint Lead Arrangers”:  the collective reference to Merrill Lynch, Pierce, Fenner & Smith Incorporated andBank of America, N.A., Barclays Bank PLC, Morgan Stanley Senior Funding, Inc. and Royal Bank of Canada.
+“Loan Parties”:  Holdings, the Borrower and each Subsidiary Guarantor.
+“Management Agreement”:  the Management Agreement, by and between Holdings and TC Group, L.L.C., a Delaware limited liability company, as in effect on the Closing Date and as modified from time to time with the consent of the Administrative Agent.
+“Management Rights Agreement”:  the Management Rights Agreement, by and between Carlyle Partners IV, L.P., a Delaware limited partnership, CP IV Coinvestment L.P., a Delaware limited partnership, Falcon Aerospace Holdings, LLC, a Delaware limited liability company, Holdings, Randy Snyder, an Individual, Susan Snyder, an Individual and the Wesco Entities, as in effect on the Closing Date and as modified from time to time with the consent of the Administrative Agent.
+“Moody’s”:  Moody’s Investors Service, Inc. or any successor to the rating agency business thereof.
+“Multicurrency Letter of Credit”:  Letters of Credit that utilize the Multicurrency Revolving Commitments.
+“Revolving Lender”:  each Dollar Revolving Lender and Multicurrency Revolving Lender.
+“S&P”:  Standard & Poor’s Ratings Services, Standard & Poor’s Financial Services LLC business, or any successor to the rating agency business thereof.
+“Specified Hedge Agreement”:  any Hedge Agreement (a) entered into by (i) the Borrower or any of its SubsidiariesSubsidiary Guarantor and (ii) any Lender or any affiliate thereof at the time such Hedge Agreement was entered into, as counterparty, and (b) that has been designated by such Lender and the Borrower, by notice to the Administrative Agent, as a Specified Hedge Agreement.
+“Subsidiary Guarantors”:  each wholly ownedwholly-owned Domestic Subsidiary (other than the Borrower or any Excluded Subsidiary).
+“Swingline Lender”:  (a) with respect to each Class of Swingline Loans, Barclays Bank PLC, in its capacity as the lender of Swingline Loans or (b) upon the resignation of Barclays Bank PLC, any Revolving Lender of the applicable Class of Swingline Loans from time to time designated by the Borrower as the Swingline Lender with respect to such Class of Swingline Loans (with the consent of such other Revolving Lender (in its sole discretion)).
+“Swingline Loans”:  collectively, the Dollar Swingline Loans and the Multicurrency Swingline Loans.
+“Term Lender”:  each Tranche A Term Lender, Tranche B Term Lender and New Term Lender (if any).
+“Wesco Entities”:  Borrower; Flintbrook; S.A.S.
+Wesco Aircraft France, a company organized under the laws of France; Wesco Aircraft Germany GmbH, a company organized under the laws of Germany; Wesco Aircraft Israel Ltd., a company organized under the laws of Israel; and each Subsidiary of the foregoing (if any).
+Valencia, California 91355
+Attention: General Counsel
+Telecopy:  (661) 621-6339
+Washington, D.C.  20004
+Valencia, California 91355
+Attention: General Counsel
+Telecopy:  (661) 621-6339
+Washington, D.C.  20004
+Barclays Bank PLC
+New York, NY 10019
+Barclays Bank PLC
+New York, NY 10019
+THE PLATFORM IS PROVIDED “AS IS” AND “AS AVAILABLE.”  NEITHER THE AGENTS, NOR THEIR RESPECTIVE AFFILIATES, NOR THE PARTNERS, DIRECTORS, OFFICERS, EMPLOYEES, AGENTS, ATTORNEYS-IN-FACT, TRUSTEES, ADMINISTRATORS, MANAGERS, ADVISORS AND REPRESENTATIVES OF THE AGENTS OR THEIR RESPECTIVE AFFILIATES AND SUCH PERSON’S AFFILIATES (collectively, the “Agent-Related Parties”) WARRANT THE ACCURACY OF THE BORROWER MATERIALS OR THE ADEQUACY OF THE PLATFORM AND EXPRESSLY DISCLAIM LIABILITY FOR ERRORS OR OMISSIONS IN THE BORROWER MATERIALS.
+Holdings, the Borrower, the
+THIS AGREEMENT AND THE RIGHTS AND OBLIGATIONS OF THE PARTIES UNDER THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED AND INTERPRETED IN ACCORDANCE WITH, THE LAW OF THE STATE OF NEW YORK.
+10.18      WAIVERS OF JURY TRIAL.
+EACH OF HOLDINGS, THE BORROWER, THE AGENTS AND THE LENDERS HEREBY IRREVOCABLY AND UNCONDITIONALLY WAIVE TRIAL BY JURY IN ANY LEGAL ACTION OR PROCEEDING RELATING TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT AND FOR ANY COUNTERCLAIM THEREIN.
+WESCO AIRCRAFT HARDWARE CORP.
+WESCO AIRCRAFT HOLDINGS, INC.
+BARCLAYS BANK PLC, as Joint Lead Arranger, Joint Bookrunner, Administrative Agent, Collateral Agent, Issuing Lender, Swingline Lender and as a Lender
+MERRILL LYNCH, PIERCE, FENNER & SMITH INCORPORATED, as Joint Lead Arranger and Joint Bookrunner
+BANK OF AMERICA, N.A., as a Lender
+J.P. MORGAN SECURITIES LLC, as a Joint Bookrunner
+JPMORGAN CHASE BANK, N.A., as a Lender
+MORGAN STANLEY SENIOR FUNDING, INC., as a Joint Bookrunner
+MORGAN STANLEY BANK, N.A.., as a Lender
+ROYAL BANK OF CANADA, as a Joint Bookrunner and a Lender
+SUMITOMO MITSUI BANKING CORPORATION, as a Joint Bookrunner and a Lender
+KEYBANK NATIONAL ASSOCIATION, as a Joint Bookrunner and a Lender
+UNION BANK, N.A., as a Joint Bookrunner and a Lender
+COMPASS BANK, as a Lender
+PNC BANK, NATIONAL ASSOCIATION, as a Lender
+RAYMOND JAMES BANK, N.A., as a Lender
+BANK OF THE WEST, as a Lender
+HSBC BANK, USA, as a Lender
+FIRST COMMERCIAL BANK, NEW YORK BRANCH, as a Lender
+ONE WEST BANK, as a Lender
+INDUSTRIAL AND COMMERCIAL BANK OF CHINA, NEW YORK BRANCH, as a Lender
+COMERICA BANK, as a Lender
+BRANCH BANKING AND TRUST COMPANY, as a Lender
+CITY NATIONAL BANK, as a Lender
+CATHAY BANK, as a Lender
+CHANG HWA COMMERCIAL BANK, LTD., NEW YORK BRANCH, as a Lender
+LAND BANK OF TAIWAN, NEW YORK BRANCH, as a Lender
+STIFEL BANK & TRUST, as a Lender
+TAIWAN COOPERATIVE BANK LOS ANGELES BRANCH, as a Lender
+HUA NAN COMMERCIAL BANK LTD., LOS ANGELES BRANCH, as a Lender
+MANUFACTURERS BANK, as a Lender
+THE BANK OF EAST ASIA, LIMITED, LOS ANGELES BRANCH, as a Lender
+CITIZENS BANK & TRUST COMPANY, as a Lender
+E. SUN COMMERCIAL BANK, LTD., LOS ANGELES BRANCH, as a Lender
+BANK OF AMERICA, N.A.
+BARCLAYS BANK PLC
+JPMORGAN CHASE BANK N.A.
+MORGAN STANLEY BANK, N.A.
+SUMITOMO MITSUI BANKING CORPORATION
+KEYBANK NATIONAL ASSOCIATION
+ROYAL BANK OF CANADA
+UNION BANK N.A.
+PNC BANK, NATIONAL ASSOCIATION
+RAYMOND JAMES BANK, N.A.
+HSBC BANK, USA
+FIRST COMMERCIAL BANK, NEW YORK BRANCH
+INDUSTRIAL AND COMMERCIAL BANK OF CHINA, NEW YORK BRANCH
+BRANCH BANKING AND TRUST COMPANY
+CITY NATIONAL BANK
+CHANG HWA COMMERCIAL BANK, LTD., NEW YORK BRANCH
+LAND BANK OF TAIWAN, NEW YORK BRANCH
+STIFEL BANK & TRUST
+TAIWAN COOPERATIVE BANK LOS ANGELES BRANCH
+HUA NAN COMMERCIAL BANK LTD., LOS ANGELES BRANCH
+MANUFACTURERS BANK
+THE BANK OF EAST ASIA, LIMITED, LOS ANGELES BRANCH
+CITIZENS BANK & TRUST COMPANY
+E. SUN COMMERCIAL BANK, LTD., LOS ANGELES BRANCH
+TRANCHE A TERM LOAN COMMITMENTS
+BANK OF AMERICA, N.A.
+BARCLAYS BANK PLC
+JPMORGAN CHASE BANK N.A.
+MORGAN STANLEY BANK, N.A.
+SUMITOMO MITSUI BANKING CORPORATION
+KEYBANK NATIONAL ASSOCIATION
+ROYAL BANK OF CANADA
+UNION BANK N.A.
+PNC BANK, NATIONAL ASSOCIATION
+RAYMOND JAMES BANK, N.A.
+HSBC BANK, USA
+FIRST COMMERCIAL BANK, NEW YORK BRANCH
+INDUSTRIAL AND COMMERCIAL BANK OF CHINA, NEW YORK BRANCH
+BRANCH BANKING AND TRUST COMPANY
+CITY NATIONAL BANK
+CHANG HWA COMMERCIAL BANK, LTD., NEW YORK BRANCH
+LAND BANK OF TAIWAN, NEW YORK BRANCH
+STIFEL BANK & TRUST
+TAIWAN COOPERATIVE BANK LOS ANGELES BRANCH
+HUA NAN COMMERCIAL BANK LTD., LOS ANGELES BRANCH
+MANUFACTURERS BANK
+THE BANK OF EAST ASIA, LIMITED, LOS ANGELES BRANCH
+CITIZENS BANK & TRUST COMPANY
+E. SUN COMMERCIAL BANK, LTD., LOS ANGELES BRANCH
+TRANCHE B TERM LOAN COMMITMENTS
+BANK OF AMERICA, N.A.

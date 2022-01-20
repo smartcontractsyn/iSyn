@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Allegiance Funding Corp."
+    ],
+    "BuyerName": [
+        "Allegiance Funding Corp."
+    ],
+    "EffectiveTime": [
+        "August 1, 1998,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "Sunday"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Allegiance Funding Corp."
+            ],
+            "To": [
+                "Allegiance Funding Corp."
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 100000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

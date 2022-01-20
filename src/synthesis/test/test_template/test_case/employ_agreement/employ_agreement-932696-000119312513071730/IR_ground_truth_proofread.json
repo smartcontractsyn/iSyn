@@ -1,0 +1,41 @@
+{
+"Contract category":"EMPLOYMENT AGREEMENT",   
+"SellerName": [
+        "Dana A. Leighty"
+    ],
+    "BuyerName": [
+        "Insight Enterprises, Inc."
+    ],
+    "EffectiveTime": [
+        "March 2, 2012"
+    ],
+    "CloseTime": [
+        "March 2, 2013"
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Insight Enterprises, Inc."
+            ],
+            "To": [
+                "Dana A. Leighty"
+            ],
+            "PurchasePrice": "213000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

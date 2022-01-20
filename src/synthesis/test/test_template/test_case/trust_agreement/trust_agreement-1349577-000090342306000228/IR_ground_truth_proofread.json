@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "TrustAgreement",
+    "SellerName": [
+        "MS Structured Asset Corp."
+    ],
+    "BuyerName": [
+        "LaSalle Bank National Association"
+    ],
+    "EffectiveTime": [
+        ""
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "LaSalle Bank National Association"
+            ],
+            "To": [
+                "MS Structured Asset Corp."
+            ],
+            "PurchasePrice": "20000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

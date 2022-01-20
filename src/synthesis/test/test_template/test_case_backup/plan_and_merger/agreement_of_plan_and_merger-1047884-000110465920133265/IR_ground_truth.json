@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "Anworth Mortgage Asset Corporation"
+    ],
+    "BuyerName": [
+        "RC Merger Subsidiary, LLC"
+    ],
+    "EffectiveTime": [
+        "December 6, 2020"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": ["September 30, 2021"],
+    "Payments": [
+        {
+            "From": [
+                "RC Merger Subsidiary, LLC"
+            ],
+            "To": [
+                "Anworth Mortgage Asset Corporation"
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

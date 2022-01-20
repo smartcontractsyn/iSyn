@@ -1,0 +1,218 @@
+2.00% Convertible Senior Notes due 2026
+2.5
+6.2; 15.2; 15.5
+15.5
+9.5,15.2
+Paying Agent to Hold Assets in Trust
+Payment of Securities
+Rights of Holders to Receive Payment or to Convert
+Payment Upon Conversion
+Payment of Contingent Interest
+“Closing Sale Price” means the closing sale price per share of Common Stock (or, if no closing sale price is reported, the average of the bid and asked prices or, if there is more than one bid or ask price, the average of the average bid and the average asked prices) on such date as reported by the New York Stock Exchange or, if the Company’s Common Stock is not reported by the New York Stock Exchange, in composite transactions for the principal U.S. national securities exchange on which the Company’s Common Stock is traded, or if the Company’s Common Stock is not listed on a U.S. national securities exchange, as reported by the Nasdaq National Market.
+“Conversion Price” means, at any time, $1,000 divided by the Conversion Rate in effect at such time, rounded to two decimal places (rounded up if the third decimal place thereof is 5 or more and otherwise rounded down).
+“Conversion Rate” means the number of shares of Common Stock issuable upon conversion of each $1,000 of the principal amount of the Securities, which is initially 16.7504 shares, subject to adjustments as set forth in this Indenture.
+“Stock Price” means the price paid per share of Common Stock in a transaction to which Section 12.2(e) applies.
+If holders of Common Stock receive only cash in such Fundamental Change transaction, the Stock Price shall be the cash amount paid per share.
+Otherwise, the Stock Price shall be the average of the Closing Sale Prices of the Common Stock on the ten (10) consecutive Trading Days prior to but not including the Effective Date of such Fundamental Change transaction.
+$5,000,000 principal amount of Securities at approximately 3:30 p.m., Eastern Standard time, on such determination date from two independent nationally-recognized securities dealers selected by the Company, but if only one such bid can reasonably be obtained by the Bid Solicitation Agent, one bid shall be used.
+If the Bid Solicitation Agent cannot reasonably obtain at least one bid for $5,000,000 principal amount of the Securities from a nationally-recognized securities dealer or if, in the Company’s reasonable judgment, the bid quotations are not indicative of the secondary market value of the Securities, then the market price of a Security will be determined by the Board of Directors based on a good faith estimate of fair value of the Securities.
+“Treasury Yield” means the yield to maturity at the time of computation of United States Treasury securities with a constant maturity (as compiled and published in the most recent Federal Reserve Statistical Release H.15 (519) that has become publicly available at least two (2) Business Days prior to the redemption date (or, if such Statistical Release is no longer published, any publicly available source for similar market data) most nearly equal to the then remaining term to February 4, 2011; provided, however, that if the then remaining term to February 4, 2011 is not equal to the constant maturity of a United States Treasury security for which a weekly average yield is given, the Treasury Yield shall be obtained by linear interpolation (calculated to the nearest one-twelfth of a year) from the weekly average yields of United States Treasury securities for which such yield are given, except that if the then remaining term to February 4, 2011 is less than one year, the weekly average yield on actually traded United States Treasury securities adjusted to a constant maturity of one year shall be used..
+(a)           The Securities shall be designated as the “2.00% Convertible Senior Notes due 2026” of the Company.
+The aggregate principal amount of Securities initially issued is $300,000,000 (or $345,000,000 if the Initial Purchasers’ option to purchase additional Securities set forth in the Purchase Agreement is exercised in full) except as provided in Section 2.7.
+The Securities shall be issued only in registered form without coupons and only in denominations of $1,000 of principal amount and any integral multiple thereof.
+such Paying Agent to forthwith pay to the Trustee all cash so held in trust.
+(a)           On or after February 1, 2009 and prior to February 4, 2011, subject to the terms and conditions of this ARTICLE III, the Company may, at its option, redeem for cash all or a portion of the Securities at any time, if the Closing Sale Price of Common Stock has exceeded 130% of the Conversion Price for at least twenty (20) Trading Days in any consecutive 30-day trading period ending on the Trading Day prior to the mailing of the notice of redemption, at a Redemption Price equal to 100% of the principal amount of the Securities to be redeemed plus accrued and unpaid interest (including Additional Interest, if any) up to but not including the Redemption Date.
+(b)           On or after February 4, 2011, subject to the terms and conditions of this ARTICLE III, the Company may, at its option, redeem for cash all or a portion of the Securities at any time at a Redemption Price equal to 100% of the principal amount of the Securities to be redeemed, plus any accrued and unpaid interest (including Contingent Interest and Additional Interest, if any) to but not including the Redemption Date.
+(c)           If the Company redeems the Securities as described in clause (a) above, the Company will pay a “make-whole” premium in cash equal to the present value of all remaining scheduled payments of interest on the Securities to be redeemed through and including February 4, 2011.
+The present value of the remaining interest payments will be computed using a discount rate equal to the Treasury Yield.
+(d)           In the event that the Company elects to redeem Securities on a date that is after any Record Date but on or before the corresponding Interest Payment Date, the Company shall be required to pay any accrued and unpaid interest (including, (A) in the case of clause (a) above, Additional Interest, if any, and (B) in the case of clause (b) above, Contingent Interest and Additional Interest, if any), on such Interest Payment Date to the record Holder on the relevant Record Date.
+Securities and portions of Securities that the Trustee selects shall be in principal amounts of $1,000 or an integral multiple thereof.
+Upon surrender to the Paying Agent, such Securities shall be paid at the Redemption Price.
+(a)           Subject to the provisions of this ARTICLE IV, each Holder shall have the right, at the Holder’s option, to require the Company to purchase, and upon the exercise of such right, the Company shall purchase, all of such Holder’s Securities, or any portion of the principal amount thereof that is equal to $1,000 or an integral multiple thereof, as directed by such Holder pursuant to this Section 4.1, on each of February 1, 2011, February 1, 2016 and February 1, 2021 (each a “Purchase Date”).
+The Company shall be required to purchase such Securities at a purchase price in cash equal to 100% of the principal amount plus accrued and unpaid interest (including Additional Interest, if any) to, but excluding, the Purchase Date (the “Purchase Price”).
+In the event that a Purchase Date is a date that is after any Record Date but on or before the corresponding Interest Payment Date, the Company shall be required to pay accrued and unpaid interest and Additional Interest, if any, to the holder of the repurchased Security and not the Holder on the Record Date.
+(iii)          the Purchase Price;
+(xii)          that, unless the Company defaults in making payment of such Purchase Price, interest (including Contingent Interest or Additional Interest, if any), on Securities surrendered for purchase by the Company shall cease to accrue on and after the Purchase Date; and
+The Company shall purchase from the Holder thereof, pursuant to this Section 4.1, a portion of a Security if the principal amount of such portion is $1,000 or an integral multiple thereof.
+Prior to 10:00 a.m., Eastern Standard time, on the Business Day following the applicable Purchase Date, the Company shall irrevocably deposit with the Paying Agent an amount of cash (in immediately available funds if deposited on such Business Day) sufficient to pay the aggregate Purchase Price of all the Securities or portions thereof which are to be purchased as of such Purchase Date.
+amount thereof that is equal to $1,000 or an integral multiple thereof, as directed by such Holder pursuant to this Section 5.1, on the date designated by the Company (the “Fundamental Change Purchase Date”) that is a Business Day no later than 35 Business Days after the date of notice pursuant to Section 5.1(b) of the occurrence of a Fundamental Change (subject to extension to comply with applicable law).
+The Company shall be required to purchase such Securities at a purchase price in cash equal to 100% of the principal amount plus any accrued and unpaid interest (including Contingent Interest and Additional Interest, if any) to, but excluding, the Fundamental Change Purchase Date (the “Fundamental Change Purchase Price”).
+In the event that a Fundamental Change Purchase Date is a date that is after any Record Date but on or before the corresponding Interest Payment Date, the Company shall be required to pay accrued and unpaid interest and Additional Interest, if any, to the holder of the repurchased Security and not the Holder on the Record Date.
+(iv)          the Fundamental Change Purchase Price;
+(xiii)         that, unless the Company defaults in making payment of such Fundamental Change Purchase Price, interest (including Contingent Interest and Additional Interest, if any) on Securities surrendered for purchase by the Company shall cease to accrue on and after the Fundamental Change Purchase Date; and
+The Company shall purchase from the Holder thereof, pursuant to this Section 5.1, a portion of a Security if the principal amount of such portion is $1,000 or an integral multiple thereof.
+Such Fundamental Change Purchase Price shall be paid to such Holder, subject to receipt of cash by
+Prior to 10:00 a.m., Eastern Standard time, on the applicable Fundamental Change Purchase Date, the Company shall irrevocably deposit with the Paying Agent an amount of cash (in immediately available funds if deposited on such Business Day) sufficient to pay the aggregate Fundamental Change Purchase Price of all the Securities or portions thereof which are to be purchased as of such Fundamental Change Purchase Date.
+To the extent that the aggregate amount of cash deposited by the Company pursuant to Section 5.3 exceeds the aggregate Fundamental Change Purchase Price of the Securities or portions thereof which the Company is obligated to purchase as of the Fundamental Change Purchase Date then, promptly after the Fundamental Change Purchase Date, the Paying Agent shall return any such excess to the Company together with interest, if any, thereon.
+The Company shall pay interest (including Contingent Interest, if any) on the Securities as provided in the Securities.
+Principal, Redemption Price, Purchase Price and Fundamental Change Purchase Price and accrued and unpaid interest (including Contingent Interest, if any) shall be considered paid on the applicable date due if by 10:00 a.m., Eastern Standard time, on such date the Paying Agent holds, in accordance with this Indenture, cash sufficient to pay all such amounts then due.
+The Company shall, to the fullest extent permitted by law, pay interest on overdue principal and overdue installments of interest (including Contingent Interest, if any) at the rate borne by the Securities per annum.
+Payment of the principal of and interest (including Contingent Interest, if any) on the Securities shall be in such coin or currency of the United States of America as at the time of payment is legal tender for payment of public and private debts.
+Subject to Section 4.1 and Section 5.1, the Company shall pay interest (including Contingent Interest, if any) on the Securities to the Person in whose name the Securities are registered at the close of business on the Record Date next preceding the corresponding Interest Payment Date.
+Payment of cash interest (including Contingent Interest, if any) on Certificated Securities in the aggregate principal amount of $5,000,000 or less shall be made by check mailed to the address of the Person entitled thereto as such address appears in the Register, and payment of cash interest (including Contingent Interest, if any) on Certificated Securities in aggregate principal amount in excess of $5,000,000 shall be made by wire transfer in immediately available funds at the election of such Holder if requested in writing at least 10 Business Days prior to the relevant Interest Payment Date and otherwise by check mailed as aforesaid.
+The Company shall promptly make all payments of Additional Interest in respect of the Securities on the dates and in the manner provided in the Securities or pursuant to this Indenture.
+Additional Interest, if any, shall be considered paid on the applicable date due if either (a) by 11:00 a.m., Eastern Standard time, on such date the Paying Agent holds, in accordance with this Indenture, cash sufficient to pay all such amounts then due or (b) on such date, any Holder to whom Additional Interest is owed has received a check in an amount sufficient to pay all such amounts then due.
+The Company shall, to the fullest extent permitted by law, pay interest on overdue Additional Interest, if any, at the rate borne by the Securities per annum.
+Payment of Additional Interest, if any, on the Securities shall be in such coin or currency of the United States of America as at the time of payment is legal tender for payment of public and private debts.
+Subject to Section 4.1 and Section 5.1, the Company shall pay Additional Interest, if any, quarterly in arrears on February 1, May 1, August 1 and November 1 of each year, or if any such day is not a Business Day, on the next succeeding Business Day (each, an “Additional Interest Payment Date”) solely to Holders to whom such Additional Interest is owed pursuant to the Registration Rights Agreement.
+Payment of Additional Interest, if any, will be made, at the Company’s option, either (a) by check mailed to the Holders at their addresses set forth on the Election and Notice (as defined in the Registration Rights Agreement) delivered to the Company in accordance with the provisions of the Registration Rights Agreement or (b)
+(b)           the failure by the Company to pay any accrued and unpaid interest or Additional Interest, if any, on any Security, in each case, when due and payable, and such default shall continue for a period of 30 days;
+caused by a failure to pay principal of or interest or premium, if any, on such Indebtedness prior to the expiration of the grace period provided in such Indebtedness on the date of such Default (a “Payment Default”) or (ii) results in the acceleration of such Indebtedness prior to the stated maturity thereof (without such acceleration being rescinded or annulled), and, in each case, the principal amount of any such Indebtedness, together with the principal amount of any other such Indebtedness under which there has bee a Payment Default or the stated maturity of which has been so accelerated, aggregates $35,000,000 or more;
+(i)            there shall be a failure by the Company or any of its Subsidiaries to pay final judgments aggregating in excess of $25,000,000 (to the extent not covered by independent third-party insurance as to which the insurer does not dispute coverage), which judgments are not paid, waived, satisfied, discharged or stayed for a period of 60 days;
+If the Trustee collects any money pursuant to this ARTICLE VIII, it shall pay out the money in the following order:
+The Trustee may fix a Record Date and payment date for any payment to Holders pursuant to this Section 8.10.
+(a)  The Company will pay to the Trustee from time to time reasonable compensation for its acceptance of this Indenture and services hereunder.
+(a)                                  Subject to and upon compliance with the provisions of this Indenture, prior to 5:00 p.m., Eastern Standard time, on the Business Day immediately preceding the Stated Maturity, a Holder of a Security shall have the right, at such Holder’s option, to convert all or any portion (if the portion to be converted is $1,000 of the principal amount or an integral multiple thereof) of such Security into cash and a number of shares of Common Stock, if any, at the Conversion Rate in effect at such time under the circumstances described in this Section 12.1 and in the manner provided in Section 12.2.
+(A)                              during the five consecutive Business Day period following any five consecutive Trading Day period (the “Measurement Period”) in which the Trading Price per $1,000 principal amount of Securities (as determined following
+a request by a Holder in accordance with the procedures described below) for each Trading Day of such Measurement Period was less than 103% of the Conversion Value on such day;
+(A)                              during any calendar quarter of the Company (and only during such calendar quarter) commencing after December 31, 2009, if the Closing Sale Price of the Common Stock for at least 20 Trading Days during the period of 30 consecutive Trading Days ending on the last Trading Day of the preceding calendar quarter is greater than or equal to 110% of the Conversion Price in effect on such last Trading Day of such preceding calendar quarter;
+(C)                                during the Measurement Period in which the Trading Price per $1,000 principal amount of Securities (as determined following a request by a Holder in accordance with the procedures described below) for each Trading Day of such Measurement Period was less than 98% of the Conversion Value on such day;
+shall be as determined in the definition thereof, except that if the Trustee cannot reasonably obtain at least one bid for $2,000,000 principal amount of the Securities from a nationally recognized securities dealer, then the Trading Price per $1,000 principal amount of the Securities will be deemed to be less than 103% (or 98% after February 1, 2010) of the Conversion Value on such determination date.
+(A)                              the Company distributes to all or substantially all holders of the Common Stock rights or warrants entitling them to purchase, for a period expiring within 60 days of the Record Date for such distribution, Common Stock at a price per share of Common Stock less than the Closing Sale Price of the Common Stock on the Trading Day immediately preceding the announcement date of such distribution; or
+(B)                                the Company distributes to all or substantially all holders of its Common Stock, assets (including cash), debt securities or rights or warrants to purchase its securities, which distribution has a Fair Market Value, as determined by the Board of Directors, per share of Common Stock exceeding 15% of the Closing Sale Price of the Common Stock on the Trading Day immediately preceding the announcement date of such distribution,
+(a)                                  Subject to Section 12.13, each Security shall be convertible at the office of the Conversion Agent into fully paid and nonassessable shares of Common Stock (calculated to the nearest 1/10,000th of a share).
+for the higher and lower Stock Price amounts and the two Effective Date, as applicable, based on a 365-day year.
+If holders of the Common Stock receive only cash in such Fundamental Change transaction, the Stock Price shall be the cash amount paid per share.
+Otherwise, the Stock Price shall be the average of the Closing Sale Price of the Common Stock on the 10 consecutive Trading Days prior to but not including the Effective Date of such Fundamental Change transaction.
+Notwithstanding the foregoing, in no event will the total number of shares of Common Stock issuable upon conversion exceed 20.1005 per $1,000 principal amount of Securities, subject to adjustment in the same manner and for the same events as the Conversion Rate as set forth in Section 12.3.
+(b)                                 If the Company issues to all or substantially all of the holders of shares of Common Stock, other than affiliates of the Company, any rights, warrants, options or other convertible securities entitling them for a period of not more than 60 days after the date of issuance thereof to subscribe for or purchase shares of Common Stock, or securities convertible into shares of Common Stock, at a price per share or a conversion price per share less than the Closing Sale Price of the Common Stock on the Trading Day immediately preceding the date of announcement of such issuance, the Conversion Rate will be adjusted based on the following formula:
+the average of the Closing Sale Prices of the Common Stock over the 10 consecutive Trading Day-period ending on the Trading Day immediately preceding the Ex-Dividend Date for such distribution
+the average of the Closing Sale Prices of the capital stock or similar Equity Interest distributed to holders of shares of Common Stock applicable to one share of Common Stock over the first 10 consecutive Trading Day-period after the effective date of the spin-off
+the average of the Closing Sale Prices of the Common Stock over the first 10 consecutive Trading Day-period after the effective date of the spin-off
+(d)                                 If any cash dividend or distribution made to all or substantially all of the holders of Common Stock during any of the Company’s quarterly fiscal periods in an aggregate amount that, together with other cash dividends or distributions (other than those paid in connection with the Company’s liquidation, dissolution or winding up) made during such quarterly fiscal period (the “Current Dividend Rate”), exceeds $0.03 per share (appropriately adjusted from time to time for any share dividends on, or subdivisions of, the Common Stock) (the “Initial Dividend Rate”), the Conversion Rate will be adjusted based on the following formula:
+the amount in cash per share the Company distributes to holders of shares of Common Stock in excess of $0.03 (appropriately adjusted from time to time for any share dividends on, or subdivisions of, the Common Stock) (the “Dividend Threshold Amount”)
+(e)                                  If the Company or any of its Subsidiaries makes a payment in respect of a tender offer or exchange offer for its Common Stock, to the extent that the consideration paid per share of Common Stock in such offer exceeds the average of the Closing Sale Price of the Common Stock over the 10 consecutive Trading Day period commencing on the Trading Day next succeeding the date of the expiration (the “Expiration Time”) of such tender or exchange offer, the Conversion Rate will be increased based on the following formula:
+the average of the Closing Sale Prices of the Common Stock for the 10 consecutive Trading Day period commencing on the Trading Day next succeeding the date such tender offer or exchange offer expires
+(k)                                  All calculations under this Section 12.3 shall be made to the nearest cent or one-hundredth of a share, with one-half cent and 0.005 of a share, respectively, being rounded upward.
+the foregoing, if the Company elects to redeem Securities and a Holder of Securities being redeemed chooses to convert those Securities on a date that is after a Record Date but prior to the corresponding Interest Payment Date, the Holder will not be required to pay the Company, at the time that Holder surrenders those Securities for conversion, the amount of interest (including Additional Interest, if any) it will receive on the Interest Payment Date.
+(a)                                  In the event of a Public Acquirer Change of Control, the Company may, in lieu of issuing the Additional Shares pursuant to Section 12.2(e), elect to adjust the Conversion Rate and the related Conversion Obligation such that from and after the effective time of such Public Acquirer Change of Control, Holders of the Securities will be entitled to convert their Securities (subject to the provisions of Section 12.1(a) hereof), in accordance with Section 12.2 hereof, into a number of shares of Public Acquirer Common Stock by multiplying the Applicable Conversion Rate in effect immediately before the effective time of the Public Acquirer Change of Control by a fraction:
+(i)                                     cash in an amount (the “Base Amount”) equal to the lesser of (a) the principal amount of Securities surrendered for conversion and (b) the Conversion Value; and
+(ii)                                  if the Conversion Value of the Securities surrendered for conversion is greater than the principal amount of the Securities, an amount of whole share of Common Stock (the “Excess Value”) equal to the sum of the Daily Share Amounts (calculated as described below) for each Trading Day during the Applicable Conversion Period, provided that in no event shall the Excess Value exceed the greater of (a) the Total Conversion Shares at Issuance (as defined below), and (b) the then existing number of shares of Common Stock authorized for issuance and available to be allocated as Excess Value.
+The “Total Conversion Shares at Issuance” is equal to (a) the total number of $1,000 principal amount of Securities issued, multiplied by (b) the initial Conversion Rate (as adjusted for any splits or combinations).
+The “Daily Share Amount,” for each $1,000 principal amount of Securities and each Trading Day in the Applicable Conversion Period, is equal to a number of shares of Common Stock determined by the following formula:
+Closing Sale Price on such Trading Day x the applicable Conversion Rate - $1,000
+Closing Sale Price on such Trading Day x 20
+(b)                                 The Company will not issue fractional shares of Applicable Stock upon conversion of the Securities but instead will pay the cash value of such fractional shares based upon the Closing Sale Price of the Applicable Stock on the Trading Day immediately preceding the Conversion Date.
+Upon conversion of a Security, a Holder will not receive any separate cash payment of interest (including Additional Interest, if any) unless such conversion occurs between a Record Date and the Interest Payment Date to which that Record Date relates.
+Subject to the accrual and Record Date provisions described herein, the Company will pay additional interest (“Contingent Interest”) to the Holders of Securities during any six-month period from February 1 to July 31 and from August 1 to January 31, commencing with the six-month period beginning on February 1, 2011, if the Trading Price of a Security for each of the five Trading Day period ending on the third Trading Day immediately preceding the first day of the relevant six-month period equals 120% or more of the principal amount of the Security.
+The amount of Contingent Interest payable per Security with respect to any six-month period will equal 0.50% per annum of the average market price of such Security for the five Trading Day period referred to above.
+The Company will pay Contingent Interest, if any, in the same manner as it will pay interest as described in Section 6.1.
+FOR PURPOSES OF SECTIONS 1272, 1273 AND 1275 OF THE INTERNAL REVENUE CODE, THE ISSUE PRICE OF EACH SECURITY IS $1,000 PER $1,000 OF PRINCIPAL AMOUNT, THE ISSUE DATE IS JANUARY 31, 2006 AND THE COMPARABLE YIELD IS 7.375% PER ANNUM.
+2.00% Convertible Senior Notes due 2026
+DRS TECHNOLOGIES, INC., a Delaware corporation (the “Company”, which term shall include any successor Person under the Indenture referred to on the reverse hereof), for value received, promises to pay to CEDE & CO., or registered assigns, on February 1, 2026, the principal amount of [                             ] DOLLARS[, or such lesser or greater principal amount at Stated Maturity as is indicated on the Schedule attached hereto].
+In addition, for value received, the Company hereby promises to pay to the Holder of this Note, or registered assigns, from January 31, 2006, or from the most recent Interest Payment Date to which interest has been paid or provided for, to, but not including, February 1, 2026, interest at an annual rate of 2.00% of the principal amount of this Note, except that interest will never be less than zero.
+Interest on this Note is payable semi-annually in arrears on February 1 and August 1 in each year (each, an “Interest Payment Date”), with the first Interest Payment Date being August 1, 2006.
+Each payment of cash interest on this Note will include interest accrued through the day before the applicable Interest Payment Date.
+From and after any six-month period from February 1 to July 31 and from August 1 to January 31, commencing with the six-month period beginning on February 1, 2011, the Company shall pay Contingent Interest on this Note under the circumstances and in the amounts described in Article XIV of the Indenture.
+Such Contingent Interest, if any, shall be payable semi-annually in arrears on each Interest Payment Date to the Holder of this Note as of the close of business on the Record Date relating to such Interest Payment Date.
+The amount of Contingent Interest payable per $1,000 principal amount of Notes in respect of any Contingent Interest Period shall equal 0.50% per annum of the average trading
+2.00% Convertible Senior Notes due 2026
+Interest on the Notes shall be computed on the basis of a 360-day year comprised of twelve 30-day months.
+If the Stated Maturity date or Redemption Date of this Note would fall on a day that is not a Business Day, the required payment of interest, if any, and principal will be made on the next succeeding Business Day and no interest on such payment will accrue for the period from and after the Stated Maturity date or Redemption Date to such next succeeding Business Day.
+If the Holder elects to require the Company to purchase this Note pursuant to Section 6 of this Note on a date that is after the Record Date and on or before the corresponding Interest Payment Date, interest (including Contingent Interest and Additional Interest, if any) accrued and unpaid hereon to, but excluding, the applicable Purchase Date or Fundamental Change Purchase Date shall be paid to the same Holder to whom the Company pays the principal of this Note.
+Interest (including Contingent Interest, if any) on Notes converted after the close of business on a Record Date but prior to the opening of business on the corresponding Interest Payment Date shall be paid to the Holder of the Notes on the Record Date but, upon conversion, the Holder must pay the Company an amount equal to the interest (including Contingent Interest,
+if any) which has accrued and shall be paid on such Interest Payment Date.
+No such payment need be made with respect to (1) Notes converted after a Record Date and prior to the corresponding Interest Payment Date after being called for redemption or (2) any overdue interest existing at the time of conversion with respect to the Notes converted, but only to the extent of the amount of such overdue interest.
+If a Holder of Notes converts after the Record Date for an interest payment, but prior to the corresponding Interest Payment Date, the Holder on the Record Date will receive on that Interest Payment Date accrued interest on those Notes, despite the conversion of those Notes prior to that Interest Payment Date, because that Holder will have been the holder of record on the corresponding Record Date.
+However, at the time that such Holder (or transferee thereof) surrenders Notes for conversion, the Holder (or such transferee, as applicable) must pay to the Company an amount equal to the interest (including Contingent Interest, if any) that has accrued and that will be paid on the related Interest Payment Date.
+Accordingly, under the circumstances described in clause (1), if the Company elects to redeem Notes and a Holder of Notes chooses to convert those Notes on a date that is after a Record Date, but prior to the corresponding Interest Payment Date, the Holder will not be required to pay the Company, at the time such Holder surrenders those Notes for conversion, the amount of interest it will receive on the Interest Payment Date.
+The Company will pay Additional Interest, if any, quarterly in arrears on each Additional Interest Payment Date.
+The first quarterly payment shall be due on the first Additional Interest Payment Date following the date on which such Additional Interest begins to accrue, and will accrue on the Notes at a rate per annum equal to 0.25% for the first 90-day period.
+The amount of Additional Interest will increase by an additional per annum rate of 0.25% with respect to each subsequent 90-day period until the satisfaction of certain conditions as set forth in the Registration Rights Agreement.
+The Company will pay Additional Interest (including post-petition interest in any proceeding under any Bankruptcy Law) on overdue installments of Additional Interest, if any, (without regard to any applicable grace periods) from time to time on demand at a rate that is 1% per annum in excess of the rate then in effect.
+Interest will be computed on the basis of a 360-day year comprised of twelve 30-day months.
+The Company will pay Additional Interest, if any, on the Notes to Holders of Notes as required by the Registration Rights Agreement on the next Additional Interest Payment Date, even if such Notes are canceled on or before such Additional Interest Payment Date,
+Payment of Additional Interest, if any, will be made, at the Company’s option, either (a) by check mailed to the Holders at their addresses set forth on the Election and Notice (as defined in the Registration Rights Agreement) delivered to the Company in accordance with the provisions of the Registration Rights Agreement, (b) pursuant to the applicable procedures of DTC or (c) as otherwise set forth in the Indenture.
+The Company will not pay any Additional Interest on any Note after it has been converted into cash, and, if applicable, shares of the Company’s common stock
+Payment of the principal of and interest on the Notes (including Contingent Interest and Additional Interest, if any) shall be in such coin or currency of the United States of America as at the time of payment is legal tender for payment of public and private debts.
+Payment of interest (including Contingent Interest and Additional Interest, if any) on Certificated Securities in the aggregate principal amount of $5,000,000 or less shall be made by check mailed to the address of the Person entitled thereto as such address appears in the Register, and payment of interest on Certificated Securities in aggregate principal amount in excess of $5,000,000 shall be made by wire transfer in immediately available funds if requested in writing by the Holder of Notes at least 10 Business Days prior to the relevant Interest Payment Date and otherwise by check mailed to the Holder.
+The Notes are general senior obligations of the Company initially issued in an aggregate principal amount of $300,000,000 (or $345,000,000 if the Initial Purchasers’ option to purchase additional Notes set forth in the Purchase Agreement is exercised in full).
+Subject to the terms and conditions of the Indenture, the Company may, at its option, redeem for cash all or a portion of the Notes at any time on or after February 1, 2009 and
+prior to February 4, 2011, if the Closing Sale Price of the Company’s Common Stock has exceeded 130% of the Conversion Price for at least twenty (20) Trading Days in any consecutive 30-day trading period ending on the Trading Day prior to the mailing of the notice of redemption, at a Redemption Price equal to 100% of the principal amount of the Notes to be redeemed, plus any accrued and unpaid interest (including Contingent Interest and Additional Interest, if any) up to but not including the Redemption Date.
+If the Company redeems the Notes as described above after February 1, 2009 and prior to February 4, 2011, the Company shall pay the “make-whole” premium in cash equal to the present value of all remaining scheduled payments of interest on the notes to be redeemed through and including February 4, 2011.
+The present value of the remaining interest payments will be computed using a discount rate equal to the Treasury Yield.
+“Treasury Yield” means the yield to maturity at the time of computation of United States Treasury securities with a constant maturity (as compiled and published in the most recent Federal Reserve Statistical Release H.15 (519) that has become publicly available at least two (2) Business Days prior to the Redemption Date (or, if such Statistical Release is no longer published, any publicly available source for similar market data)) most nearly equal to the then remaining term to February 4, 2011; provided, however, that if the then remaining term to February 4, 2011 is not equal to the constant maturity of a United States Treasury security for which a weekly average yield is given, the Treasury Yield shall be obtained by linear interpolation (calculated to the nearest one-twelfth of a year) from the weekly average yields of United States Treasury securities for which such yield are given, except that if the then remaining term to February 4, 2011 is less than one year, the weekly average yield on actually traded United States Treasury securities adjusted to a constant maturity of one year shall be used.
+If the Redemption Date occurs after a Record Date and on or prior to an Interest Payment Date, accrued and unpaid interest (including Contingent Interest, if any) shall be paid on such Interest Payment Date to the record Holder on the relevant Record Date.
+Subject to the terms and conditions of the Indenture, the Company may, at its option, redeem for cash all or a portion of the Notes at any time on or after February 4, 2011 at a redemption price equal to 100% of the principal amount of the Notes to be redeemed plus accrued and unpaid interest (including Contingent Interest and Additional Interest, if any) to, but not including, the Redemption Date.
+Upon surrender to the Paying Agent, such Notes shall be paid at the Redemption Price.
+Each Holder shall have the right, at the Holder’s option, but subject to the provisions of the Indenture, to require the Company to purchase all of such Holder’s Notes, or any portion of the principal amount thereof that is equal to $1,000 or an integral multiple thereof, on each of February 1, 2011, February 1, 2016 and February 1, 2021.
+The Company shall be required to purchase such Notes at a purchase price in cash equal to 100% of the principal amount plus accrued and unpaid interest (including Contingent Interest and Additional Interest, if any) to, but excluding, the Purchase Date.
+In the event that a Fundamental Change shall occur at any time prior to the Stated Maturity, each Holder shall have the right, at the Holder’s option, but subject to the provisions of the Indenture, to require the Company to purchase all of such Holder’s Notes, or any portion of the principal amount thereof that is equal to $1,000 or an integral multiple thereof.
+The Company shall be required to purchase such Notes at a Fundamental Change Purchase Price in cash equal to 100% of the principal amount plus any accrued and unpaid interest (including Contingent Interest and Additional Interest, if any) to, but excluding, the Fundamental Change Purchase Date.
+The conversion rate per $1,000 of principal amount of Notes is initially 16.7504 shares of Common Stock, and is subject to adjustment in certain events as set forth in the Indenture.
+If and only to the extent a Holder elects to convert Notes in connection with certain types of Fundamental Changes to the extent set forth in the Indenture that occur on or prior to February 1, 2011 pursuant to which certain of the consideration for the Common Stock (other than cash payments for fractional shares and cash payments made in respect of dissenters’ appraisal rights) in such Fundamental Change transaction consists of cash or securities (or other property) that are not traded or scheduled to be traded immediately following such transaction on a U.S. national securities exchange or the Nasdaq National Market, such Holder will be entitled to receive, in addition to a number of shares of Common Stock equal to the Conversion Rate per $1,000 principal amount of Notes, an additional number of shares of Common Stock as described in the Indenture, subject to a right of the Company to elect not to issue such additional shares but in lieu thereof to provide for the convertibility of the Notes into publicly-traded securities of the acquiring entity, all as set forth in the Indenture.
+The Notes shall be issued in fully registered form, without coupons, in denominations of $1,000 of the principal amount and integral multiples thereof.
+If you wish to have a portion of this Note purchased by the Company pursuant to ARTICLE IV or ARTICLE V of the Indenture, as applicable, state the amount (in principal amount):  $              .
+To convert this Note into cash or a combination of Common Stock and cash, check the box o.
+To convert only part of this Note, state the principal amount to be converted (which must be $1,000 or an integral multiple thereof):                      .
+Re:    2.00% Convertible Senior Notes due 2026 (the “Notes”)
+of DRS Technologies, Inc. (the “Company”)
+This certificate relates to $           principal amount of Notes owned in (check applicable box)
+In connection with the undersigned’s proposed purchase of $                    aggregate principal amount of 2.00% Convertible Senior Notes due 2026 (the “Notes”) of DRS Technologies, Inc. (the “Company”) or                         shares of Common Stock of the Company issued upon conversion of the Notes, par value $1.00 per share (the “Common Stock,” and together with the Notes, the “Securities”), the undersigned confirms, represents and warrants that:
+The following table sets forth the Stock Prices and number of Additional Shares to be issuable per $1,000 principal amount of Securities:
+Stock Price
+$49.75
+$55.00
+$60.00
+$65.00
+$70.00
+$80.00
+$90.00
+$100.00
+$110.00
+$120.00
+$135.00
+$150.00
+2.043
+1.378
+0.787
+0.645
+0.545
+0.470
+0.388
+0.326
+0.680
+0.560
+0.479
+0.420
+0.353
+0.304
+3.260
+1.725
+0.710
+0.551
+0.463
+0.406
+0.363
+0.314
+0.276
+1.035
+0.764
+0.484
+0.415
+0.373
+0.339
+0.311
+0.277
+0.249
+3.096
+1.849
+0.674
+0.436
+0.244
+0.209
+0.188
+0.171
+0.157
+0.140
+0.126
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000
+0.000

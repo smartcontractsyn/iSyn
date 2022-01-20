@@ -1,0 +1,454 @@
+Exhibit 4.1
+TO
+Trustee
+Seventeenth Supplemental Indenture
+Dated as of August 10, 2017
+TABLE OF CONTENTS(1)
+ARTICLE I
+2.40% SENIOR NOTES DUE 2022
+Section 1.01.
+Establishment
+2
+Section 1.02.
+Definitions
+3
+Section 1.03.
+3
+Section 1.04.
+Denominations
+4
+Section 1.05.
+Global Securities
+4
+Section 1.06.
+Redemption
+4
+Section 1.07.
+6
+ARTICLE II
+Section 2.01.
+Establishment
+6
+Section 2.02.
+Definitions
+6
+Section 2.03.
+7
+Section 2.04.
+Denominations
+7
+Section 2.05.
+Global Securities
+7
+Section 2.06.
+Redemption
+8
+Section 2.07.
+9
+ARTICLE III
+Section 3.01.
+Establishment
+9
+Section 3.02.
+Definitions
+10
+Section 3.03.
+10
+Section 3.04.
+Denominations
+11
+Section 3.05.
+Global Securities
+11
+Section 3.06.
+Redemption
+11
+Section 3.07.
+13
+ARTICLE IV
+MISCELLANEOUS PROVISIONS
+Section 4.01.
+Recitals by the Corporation
+13
+Section 4.02.
+Ratification and Incorporation of Original Indenture
+13
+Section 4.03.
+Executed in Counterparts
+13
+Exhibit B — Certificate of Authentication
+Exhibit D — Certificate of Authentication
+Exhibit F — Certificate of Authentication
+(1)  This Table of Contents does not constitute part of the Indenture or have any bearing upon the interpretation of any of its terms and provisions.
+WITNESSETH:
+WHEREAS, the Original Indenture is incorporated herein by this reference and the Original Indenture, as it may be amended and supplemented to the date hereof, including by this Seventeenth Supplemental Indenture, is herein called the “Indenture”;
+WHEREAS, under the Indenture, a new series of Securities may at any time be established in accordance with the provisions of the Indenture and the terms of such series may be described by a supplemental indenture executed by the Corporation and the Trustee;
+WHEREAS, the Corporation hereby proposes to create under the Indenture three additional series of Securities;
+WHEREAS, additional Securities of other series hereafter established, except as may be limited in the Indenture as at the time supplemented and modified, may be issued from time to time pursuant to the Indenture as at the time supplemented and modified; and
+WHEREAS, all conditions necessary to authorize the execution and delivery of this Seventeenth Supplemental Indenture and to make it a valid and binding obligation of the Corporation have been done or performed.
+NOW, THEREFORE, in consideration of the agreements and obligations set forth herein and for other good and valuable consideration, the sufficiency of which is hereby acknowledged, the parties hereto hereby agree as follows:
+ARTICLE I
+Section 1.01.
+Establishment.
+The 2022 Notes shall be in substantially the form set out in Exhibit A hereto, and the form of the Trustee’s Certificate of Authentication for the 2022 Notes shall be in substantially the form set forth in Exhibit B hereto.
+2
+Each 2022 Note shall be dated the date of authentication thereof and shall bear interest from the date of original issuance thereof or from the most recent Interest Payment Date to which interest has been paid or duly provided for.
+Section 1.02.
+Definitions.
+The following defined terms used in this Article I shall, unless the context otherwise requires, have the meanings specified below for purposes of the 2022 Notes.
+Capitalized terms used herein for which no definition is provided herein shall have the meanings set forth in the Original Indenture.
+“Business Day” means any day other than a Saturday or Sunday that is neither a Legal Holiday nor a day on which banking institutions in New York, New York are authorized or required by law, regulation or executive order to close, or a day on which the Corporate Trust Office is closed for business.
+“Legal Holiday” means any day that is a legal holiday in New York, New York.
+Section 1.03.
+3
+Section 1.04.
+Denominations.
+Section 1.05.
+Global Securities.
+The 2022 Notes shall initially be issued in the form of one or more Global Securities registered in the name of the Depositary (which initially shall be The Depository Trust Company) or its nominee.
+Except under the limited circumstances described below, 2022 Notes represented by such Global Security or Global Securities shall not be exchangeable for, and shall not otherwise be issuable as, 2022 Notes in definitive form.
+The Global Securities described in this Article I may not be transferred except by the Depositary to a nominee of the Depositary or by a nominee of the Depositary to the Depositary or another nominee of the Depositary or to a successor Depositary or its nominee.
+Any Global Security that is exchangeable pursuant to the preceding sentence shall be exchangeable for 2022 Notes registered in such names as the Depositary shall direct.
+Section 1.06.
+Redemption.
+4
+For purposes of the first paragraph of this Section 1.06, the following terms have the following meanings:
+“Comparable Treasury Issue” means the United States Treasury security selected by the Quotation Agent as having an actual or interpolated maturity comparable to the remaining term of the 2022 Notes to be redeemed (assuming, for this purpose, that the 2022 Notes matured on the 2022 Par Call Date), that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such 2022 Notes.
+“Comparable Treasury Price” means, with respect to any Redemption Date for the 2022 Notes, (1) the average of the Reference Treasury Dealer Quotations for such Redemption Date, after excluding the highest and lowest of such Reference Treasury Dealer Quotations, or (2) if fewer than four of such Reference Treasury Dealer Quotations are obtained, the average of all such Reference Treasury Dealer Quotations as determined by the Corporation.
+“Quotation Agent” means a Reference Treasury Dealer appointed by the Corporation.
+The Trustee shall not be responsible for calculating said redemption price.
+If less than all of the 2022 Notes are to be redeemed, the Trustee shall select the 2022 Notes or portions of 2022 Notes to be redeemed by such method as the Trustee shall deem fair and appropriate.
+5
+As long as the 2022 Notes are represented by Global Securities, beneficial interests in such Notes shall be selected for redemption by the Depositary in accordance with its standard procedures therefor.
+The 2022 Notes shall not have a sinking fund.
+Section 1.07.
+The Trustee shall initially serve as Paying Agent with respect to the 2022 Notes, with the Place of Payment initially being the Corporate Trust Office.
+ARTICLE II
+Section 2.01.
+Establishment.
+The 2027 Notes shall be in substantially the form set out in Exhibit C hereto, and the form of the Trustee’s Certificate of Authentication for the 2027 Notes shall be in substantially the form set forth in Exhibit D hereto.
+Each 2027 Note shall be dated the date of authentication thereof and shall bear interest from the date of original issuance thereof or from the most recent Interest Payment Date to which interest has been paid or duly provided for.
+Section 2.02.
+Definitions.
+The following defined terms used in this Article II shall, unless the context otherwise requires, have the meanings specified below for purposes of the 2027 Notes.
+Capitalized terms used herein for which no definition is provided herein shall have the meanings set forth in the Original Indenture.
+“Business Day” means any day other than a Saturday or Sunday that is neither a Legal Holiday nor a day on which banking institutions in New York, New York are authorized or required by law, regulation or executive order to close, or a day on which the Corporate Trust Office is closed for business.
+“Legal Holiday” means any day that is a legal holiday in New York, New York.
+6
+Section 2.03.
+Section 2.04.
+Denominations.
+Section 2.05.
+Global Securities.
+The 2027 Notes shall initially be issued in the form of one or more Global Securities registered in the name of the Depositary (which initially shall be The Depository Trust Company) or its nominee.
+Except under the limited circumstances described below, 2027 Notes represented by such Global Security or Global Securities shall not be exchangeable for, and shall not otherwise be issuable as, 2027 Notes in definitive form.
+The Global Securities described in this Article II may not be transferred except by the Depositary to a nominee of the Depositary or by a nominee of the Depositary to the Depositary or another nominee of the Depositary or to a successor Depositary or its nominee.
+7
+Section 2.06.
+Redemption.
+For purposes of the first paragraph of this Section 2.06, the following terms have the following meanings:
+“Comparable Treasury Issue” means the United States Treasury security selected by the Quotation Agent as having an actual or interpolated maturity comparable to the remaining term of the 2027 Notes to be redeemed (assuming, for this purpose, that the 2027 Notes matured on the 2027 Par Call Date), that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such 2027 Notes.
+“Comparable Treasury Price” means, with respect to any Redemption Date for the 2027 Notes, (1) the average of the Reference Treasury Dealer Quotations for such Redemption Date, after excluding the highest and lowest of such Reference Treasury Dealer Quotations, or (2) if fewer than four of such Reference Treasury Dealer Quotations are obtained, the average of all such Reference Treasury Dealer Quotations as determined by the Corporation.
+“Quotation Agent” means a Reference Treasury Dealer appointed by the Corporation.
+8
+affiliates or successors, each of which is a primary U.S. Government securities dealer in the United States (a “Primary Treasury Dealer”); provided, however, that if any of the foregoing or their affiliates or successors shall cease to be a Primary Treasury Dealer, the Corporation will substitute therefor another Primary Treasury Dealer.
+The Trustee shall not be responsible for calculating said redemption price.
+If less than all of the 2027 Notes are to be redeemed, the Trustee shall select the 2027 Notes or portions of 2027 Notes to be redeemed by such method as the Trustee shall deem fair and appropriate.
+As long as the 2027 Notes are represented by Global Securities, beneficial interests in such Notes shall be selected for redemption by the Depositary in accordance with its standard procedures therefor.
+The 2027 Notes shall not have a sinking fund.
+Section 2.07.
+The Trustee shall initially serve as Paying Agent with respect to the 2027 Notes, with the Place of Payment initially being the Corporate Trust Office.
+ARTICLE III
+Section 3.01.
+Establishment.
+The 2047 Notes shall be in substantially the form set out in Exhibit E hereto, and the form of the Trustee’s Certificate of Authentication for the 2047 Notes shall be in substantially the form set forth in Exhibit F hereto.
+9
+Each 2047 Note shall be dated the date of authentication thereof and shall bear interest from the date of original issuance thereof or from the most recent Interest Payment Date to which interest has been paid or duly provided for.
+Section 3.02.
+Definitions.
+The following defined terms used in this Article III shall, unless the context otherwise requires, have the meanings specified below for purposes of the 2047 Notes.
+Capitalized terms used herein for which no definition is provided herein shall have the meanings set forth in the Original Indenture.
+“Business Day” means any day other than a Saturday or Sunday that is neither a Legal Holiday nor a day on which banking institutions in New York, New York are authorized or required by law, regulation or executive order to close, or a day on which the Corporate Trust Office is closed for business.
+“Legal Holiday” means any day that is a legal holiday in New York, New York.
+“Stated Maturity” means August 15, 2047.
+Section 3.03.
+10
+Section 3.04.
+Denominations.
+Section 3.05.
+Global Securities.
+The 2047 Notes shall initially be issued in the form of one or more Global Securities registered in the name of the Depositary (which initially shall be The Depository Trust Company) or its nominee.
+Except under the limited circumstances described below, 2047 Notes represented by such Global Security or Global Securities shall not be exchangeable for, and shall not otherwise be issuable as, 2047 Notes in definitive form.
+The Global Securities described in this Article III may not be transferred except by the Depositary to a nominee of the Depositary or by a nominee of the Depositary to the Depositary or another nominee of the Depositary or to a successor Depositary or its nominee.
+Section 3.06.
+Redemption.
+11
+For purposes of the first paragraph of this Section 3.06, the following terms have the following meanings:
+“Comparable Treasury Issue” means the United States Treasury security selected by the Quotation Agent as having an actual or interpolated maturity comparable to the remaining term of the 2047 Notes to be redeemed (assuming, for this purpose, that the 2047 Notes matured on the 2047 Par Call Date), that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such 2047 Notes.
+“Comparable Treasury Price” means, with respect to any Redemption Date for the 2047 Notes, (1) the average of the Reference Treasury Dealer Quotations for such Redemption Date, after excluding the highest and lowest of such Reference Treasury Dealer Quotations, or (2) if fewer than four of such Reference Treasury Dealer Quotations are obtained, the average of all such Reference Treasury Dealer Quotations as determined by the Corporation.
+“Quotation Agent” means a Reference Treasury Dealer appointed by the Corporation.
+The Trustee shall not be responsible for calculating said redemption price.
+If less than all of the 2047 Notes are to be redeemed, the Trustee shall select the 2047 Notes or portions of 2047 Notes to be redeemed by such method as the Trustee shall deem fair and appropriate.
+12
+As long as the 2047 Notes are represented by Global Securities, beneficial interests in such Notes shall be selected for redemption by the Depositary in accordance with its standard procedures therefor.
+The 2047 Notes shall not have a sinking fund.
+Section 3.07.
+The Trustee shall initially serve as Paying Agent with respect to the 2047 Notes, with the Place of Payment initially being the Corporate Trust Office.
+ARTICLE IV
+MISCELLANEOUS PROVISIONS
+Section 4.01.
+Recitals by the Corporation.
+The recitals in this Seventeenth Supplemental Indenture are made by the Corporation only and not by the Trustee, and all of the provisions contained in the Original Indenture in respect of the rights, privileges, immunities, powers and duties of the Trustee shall be applicable in respect of the 2022 Notes, the 2027 Notes, the 2047 Notes and this Seventeenth Supplemental Indenture as fully and with like effect as if set forth herein in full.
+Section 4.02.
+Ratification and Incorporation of Original Indenture.
+As supplemented hereby, the Original Indenture is in all respects ratified and confirmed, and the Original Indenture and this Seventeenth Supplemental Indenture shall be read, taken and construed as one and the same instrument.
+Section 4.03.
+Executed in Counterparts.
+This Seventeenth Supplemental Indenture may be executed in several counterparts, each of which shall be deemed to be an original, and such counterparts shall together constitute but one and the same instrument.
+13
+IN WITNESS WHEREOF, each party hereto has caused this instrument to be signed in its name and behalf by its duly authorized officer, all as of the day and year first above written.
+Duke Energy Corporation
+By:
+/s/ John L. Sullivan
+Name:
+John L. Sullivan, III
+Title:
+Assistant Treasurer
+By:
+/s/ Karen Yu
+Name:
+Karen Yu
+Title:
+Vice President
+EXHIBIT A
+FORM OF
+No.
+CUSIP No.
+26441C AW5
+Stated Maturity: August 15, 2022
+A-1
+“Business Day” means any day other than a Saturday or Sunday that is neither a Legal Holiday nor a day on which banking institutions in New York, New York are authorized or required by law, regulation or executive order to close, or a day on which the Corporate Trust Office is closed for business.
+“Legal Holiday” means any day that is a legal holiday in New York, New York.
+For purposes of the second preceding paragraph, the following terms have the following meanings:
+“Comparable Treasury Issue” means the United States Treasury security selected by the Quotation Agent as having an actual or interpolated maturity comparable to the remaining term of the Securities of this series to be redeemed (assuming, for this purpose, that this Security matured on the Par Call Date), that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such Securities of this series.
+A-2
+“Comparable Treasury Price” means, with respect to any Redemption Date for the Securities of this series, (1) the average of the Reference Treasury Dealer Quotations for such Redemption Date, after excluding the highest and lowest of such Reference Treasury Dealer Quotations, or (2) if fewer than four of such Reference Treasury Dealer Quotations are obtained, the average of all such Reference Treasury Dealer Quotations as determined by the Corporation.
+“Quotation Agent” means a Reference Treasury Dealer appointed by the Corporation.
+The Trustee shall not be responsible for calculating said redemption price.
+If less than all the Securities of this series are to be redeemed at the option of the Corporation, the Trustee shall select, in such manner as it shall deem fair and appropriate, the Securities of this series to be redeemed in whole or in part.
+As long as the Securities of this series are represented by Global Securities, beneficial interests in such Securities shall be selected for redemption by the Depositary in accordance with its standard procedures therefor.
+In the event of redemption of this Security in part only, a new Security or Securities of this series and of like tenor for the unredeemed portion hereof will be issued in the name of the Holder hereof upon the surrender hereof.
+A-3
+The Securities of this series shall not have a sinking fund.
+The Securities of this series shall constitute the direct unsecured and unsubordinated debt obligations of the Corporation and shall rank equally in priority with the Corporation’s existing and future unsecured and unsubordinated indebtedness.
+Unless the certificate of authentication hereon has been executed by the Trustee by manual signature, this Security shall not be entitled to any benefit under the Indenture or be valid or obligatory for any purpose.
+A-4
+IN WITNESS WHEREOF, the Corporation has caused this instrument to be duly executed.
+Duke Energy Corporation
+By:
+Name:
+Title:
+A-5
+CERTIFICATE OF AUTHENTICATION
+This is one of the Securities of the series designated therein referred to in the within-mentioned Indenture.
+Dated:
+By:
+Authorized Signatory
+A-6
+(Reverse Side of Security)
+), as Trustee (the “Trustee,” which term includes any successor trustee under the Indenture), to which Indenture and all indentures supplemental thereto reference is hereby made for a statement of the respective rights, limitation of rights, duties and immunities thereunder of the Corporation, the Trustee and the Holders of the Securities issued thereunder and of the terms upon which said Securities are, and are to be, authenticated and delivered.
+Capitalized terms used herein for which no definition is provided herein shall have the meanings set forth in the Indenture.
+If an Event of Default with respect to the Securities of this series shall occur and be continuing, the principal of the Securities of this series may be declared due and payable in the manner, with the effect and subject to the conditions provided in the Indenture.
+The Indenture permits, with certain exceptions as therein provided, the amendment thereof and the modification of the rights and obligations of the Corporation and the rights of the Holders of the Securities of all series affected under the Indenture at any time by the Corporation and the Trustee with the consent of the Holders of not less than a majority in principal amount of the Outstanding Securities of all series affected thereby (voting as one class).
+The Indenture contains provisions permitting the Holders of not less than a majority in principal amount of the Outstanding Securities of all series with respect to which a default under the Indenture shall have occurred and be continuing (voting as one class), on behalf of the Holders of the Securities of all such series, to waive, with certain exceptions, such default under the Indenture and its consequences.
+The Indenture also permits the Holders of not less than a majority in principal amount of the Securities of each series at the time Outstanding, on behalf of the Holders of all Securities of such series, to waive compliance by the Corporation with certain provisions of the Indenture affecting such series.
+Any such consent or waiver by the Holder of this Security shall be conclusive and binding upon such Holder and upon all future Holders of this Security and of any Security issued upon the registration of transfer hereof or in exchange hereof or in lieu hereof, whether or not notation of such consent or waiver is made upon this Security.
+No reference herein to the Indenture and no provision of this Security or of the Indenture shall alter or impair the obligation of the Corporation, which is absolute and unconditional, to pay the principal of and interest on this Security at the times, place and rate, and in the coin or currency, herein prescribed.
+No service charge shall be made for any such registration of transfer or exchange, but the Corporation may require payment of a sum sufficient to cover any tax or other governmental charge payable in connection therewith.
+A-7
+The Indenture contains provisions for defeasance at any time of the entire indebtedness of the Securities of this series and for covenant defeasance at any time of certain covenants in the Indenture upon compliance with certain conditions set forth in the Indenture.
+Prior to due presentment of this Security for registration of transfer, the Corporation, the Trustee and any agent of the Corporation or the Trustee may treat the Person in whose name this Security is registered as the owner hereof for all purposes, whether or not this Security be overdue, and neither the Corporation, the Trustee nor any such agent shall be affected by notice to the contrary.
+As provided in the Indenture and subject to the limitations therein set forth, Securities of this series are exchangeable for a like aggregate principal amount of Securities of this series of a different authorized denomination, as requested by the Holder surrendering the same upon surrender of the Security or Securities to be exchanged at the office or agency of the Corporation.
+This Security shall be governed by, and construed in accordance with, the laws of the State of New York.
+A-8
+ABBREVIATIONS
+The following abbreviations, when used in the inscription on the face of this instrument, shall be construed as though they were written out in full according to applicable laws or regulations:
+TEN COM — as tenants in common
+UNIF GIFT MIN ACT -
+Custodian
+(Cust)
+(Minor)
+TEN ENT — as tenants by the entireties
+JT TEN — as joint tenants with rights of survivorship and not as tenants in common
+under Uniform Gifts to Minors Act
+(State)
+Additional abbreviations may also be used though not on the above list.
+the within Security and all rights thereunder, hereby irrevocably constituting and appointing                      agent to transfer said Security on the books of the Corporation, with full power of substitution in the premises.
+Dated:
+NOTICE: The signature to this assignment must correspond with the name as written upon the face of the within instrument in every particular without alteration or enlargement, or any change whatever.
+Signature Guarantee:
+A-9
+SIGNATURE GUARANTEE
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Security Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Security Registrar in addition to, or in substitution for, STAMP, all in accordance with the Securities Exchange Act of 1934, as amended.
+A-10
+EXHIBIT B
+CERTIFICATE OF AUTHENTICATION
+This is one of the Securities of the series designated therein referred to in the within-mentioned Indenture.
+Dated:
+By:
+Authorized Signatory
+B-1
+EXHIBIT C
+FORM OF
+No.
+CUSIP No.
+Stated Maturity: August 15, 2027
+C-1
+“Business Day” means any day other than a Saturday or Sunday that is neither a Legal Holiday nor a day on which banking institutions in New York, New York are authorized or required by law, regulation or executive order to close, or a day on which the Corporate Trust Office is closed for business.
+“Legal Holiday” means any day that is a legal holiday in New York, New York.
+For purposes of the second preceding paragraph, the following terms have the following meanings:
+“Comparable Treasury Issue” means the United States Treasury security selected by the Quotation Agent as having an actual or interpolated maturity comparable to the remaining term of the Securities of this series to be redeemed (assuming, for this purpose, that this Security matured on the Par Call Date), that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such Securities of this series.
+C-2
+“Comparable Treasury Price” means, with respect to any Redemption Date for the Securities of this series, (1) the average of the Reference Treasury Dealer Quotations for such Redemption Date, after excluding the highest and lowest of such Reference Treasury Dealer Quotations, or (2) if fewer than four of such Reference Treasury Dealer Quotations are obtained, the average of all such Reference Treasury Dealer Quotations as determined by the Corporation.
+“Quotation Agent” means a Reference Treasury Dealer appointed by the Corporation.
+The Trustee shall not be responsible for calculating said redemption price.
+If less than all the Securities of this series are to be redeemed at the option of the Corporation, the Trustee shall select, in such manner as it shall deem fair and appropriate, the Securities of this series to be redeemed in whole or in part.
+As long as the Securities of this series are represented by Global Securities, beneficial interests in such Securities shall be selected for redemption by the Depositary in accordance with its standard procedures therefor.
+In the event of redemption of this Security in part only, a new Security or Securities of this series and of like tenor for the unredeemed portion hereof will be issued in the name of the Holder hereof upon the surrender hereof.
+C-3
+The Securities of this series shall not have a sinking fund.
+The Securities of this series shall constitute the direct unsecured and unsubordinated debt obligations of the Corporation and shall rank equally in priority with the Corporation’s existing and future unsecured and unsubordinated indebtedness.
+Unless the certificate of authentication hereon has been executed by the Trustee by manual signature, this Security shall not be entitled to any benefit under the Indenture or be valid or obligatory for any purpose.
+C-4
+IN WITNESS WHEREOF, the Corporation has caused this instrument to be duly executed.
+Duke Energy Corporation
+By:
+Name:
+Title:
+C-5
+CERTIFICATE OF AUTHENTICATION
+This is one of the Securities of the series designated therein referred to in the within-mentioned Indenture.
+Dated:
+By:
+Authorized Signatory
+C-6
+(Reverse Side of Security)
+), as Trustee (the “Trustee,” which term includes any successor trustee under the Indenture), to which Indenture and all indentures supplemental thereto reference is hereby made for a statement of the respective rights, limitation of rights, duties and immunities thereunder of the Corporation, the Trustee and the Holders of the Securities issued thereunder and of the terms upon which said Securities are, and are to be, authenticated and delivered.
+Capitalized terms used herein for which no definition is provided herein shall have the meanings set forth in the Indenture.
+If an Event of Default with respect to the Securities of this series shall occur and be continuing, the principal of the Securities of this series may be declared due and payable in the manner, with the effect and subject to the conditions provided in the Indenture.
+The Indenture permits, with certain exceptions as therein provided, the amendment thereof and the modification of the rights and obligations of the Corporation and the rights of the Holders of the Securities of all series affected under the Indenture at any time by the Corporation and the Trustee with the consent of the Holders of not less than a majority in principal amount of the Outstanding Securities of all series affected thereby (voting as one class).
+The Indenture contains provisions permitting the Holders of not less than a majority in principal amount of the Outstanding Securities of all series with respect to which a default under the Indenture shall have occurred and be continuing (voting as one class), on behalf of the Holders of the Securities of all such series, to waive, with certain exceptions, such default under the Indenture and its consequences.
+The Indenture also permits the Holders of not less than a majority in principal amount of the Securities of each series at the time Outstanding, on behalf of the Holders of all Securities of such series, to waive compliance by the Corporation with certain provisions of the Indenture affecting such series.
+Any such consent or waiver by the Holder of this Security shall be conclusive and binding upon such Holder and upon all future Holders of this Security and of any Security issued upon the registration of transfer hereof or in exchange hereof or in lieu hereof, whether or not notation of such consent or waiver is made upon this Security.
+No reference herein to the Indenture and no provision of this Security or of the Indenture shall alter or impair the obligation of the Corporation, which is absolute and unconditional, to pay the principal of and interest on this Security at the times, place and rate, and in the coin or currency, herein prescribed.
+No service charge shall be made for any such registration of transfer or exchange, but the Corporation may require payment of a sum sufficient to cover any tax or other governmental charge payable in connection therewith.
+C-7
+The Indenture contains provisions for defeasance at any time of the entire indebtedness of the Securities of this series and for covenant defeasance at any time of certain covenants in the Indenture upon compliance with certain conditions set forth in the Indenture.
+Prior to due presentment of this Security for registration of transfer, the Corporation, the Trustee and any agent of the Corporation or the Trustee may treat the Person in whose name this Security is registered as the owner hereof for all purposes, whether or not this Security be overdue, and neither the Corporation, the Trustee nor any such agent shall be affected by notice to the contrary.
+As provided in the Indenture and subject to the limitations therein set forth, Securities of this series are exchangeable for a like aggregate principal amount of Securities of this series of a different authorized denomination, as requested by the Holder surrendering the same upon surrender of the Security or Securities to be exchanged at the office or agency of the Corporation.
+This Security shall be governed by, and construed in accordance with, the laws of the State of New York.
+C-8
+ABBREVIATIONS
+The following abbreviations, when used in the inscription on the face of this instrument, shall be construed as though they were written out in full according to applicable laws or regulations:
+TEN COM — as tenants in common
+UNIF GIFT MIN ACT -
+Custodian
+(Cust)
+(Minor)
+TEN ENT — as tenants by the entireties
+JT TEN — as joint tenants with rights of survivorship and not as tenants in common
+under Uniform Gifts to Minors Act
+(State)
+Additional abbreviations may also be used though not on the above list.
+the within Security and all rights thereunder, hereby irrevocably constituting and appointing                      agent to transfer said Security on the books of the Corporation, with full power of substitution in the premises.
+Dated:
+NOTICE: The signature to this assignment must correspond with the name as written upon the face of the within instrument in every particular without alteration or enlargement, or any change whatever.
+Signature Guarantee:
+C-9
+SIGNATURE GUARANTEE
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Security Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Security Registrar in addition to, or in substitution for, STAMP, all in accordance with the Securities Exchange Act of 1934, as amended.
+C-10
+EXHIBIT D
+CERTIFICATE OF AUTHENTICATION
+This is one of the Securities of the series designated therein referred to in the within-mentioned Indenture.
+Dated:
+By:
+Authorized Signatory
+D-1
+EXHIBIT E
+FORM OF
+No.
+CUSIP No.
+Stated Maturity: August 15, 2047
+E-1
+“Business Day” means any day other than a Saturday or Sunday that is neither a Legal Holiday nor a day on which banking institutions in New York, New York are authorized or required by law, regulation or executive order to close, or a day on which the Corporate Trust Office is closed for business.
+“Legal Holiday” means any day that is a legal holiday in New York, New York.
+For purposes of the second preceding paragraph, the following terms have the following meanings:
+“Comparable Treasury Issue” means the United States Treasury security selected by the Quotation Agent as having an actual or interpolated maturity comparable to the remaining term of the Securities of this series to be redeemed (assuming, for this purpose, that this Security matured on the Par Call Date), that would be utilized, at the time of selection and in accordance with customary financial practice, in pricing new issues of corporate debt securities of comparable maturity to the remaining term of such Securities of this series.
+E-2
+“Comparable Treasury Price” means, with respect to any Redemption Date for the Securities of this series, (1) the average of the Reference Treasury Dealer Quotations for such Redemption Date, after excluding the highest and lowest of such Reference Treasury Dealer Quotations, or (2) if fewer than four of such Reference Treasury Dealer Quotations are obtained, the average of all such Reference Treasury Dealer Quotations as determined by the Corporation.
+“Quotation Agent” means a Reference Treasury Dealer appointed by the Corporation.
+The Trustee shall not be responsible for calculating said redemption price.
+If less than all the Securities of this series are to be redeemed at the option of the Corporation, the Trustee shall select, in such manner as it shall deem fair and appropriate, the Securities of this series to be redeemed in whole or in part.
+As long as the Securities of this series are represented by Global Securities, beneficial interests in such Securities shall be selected for redemption by the Depositary in accordance with its standard procedures therefor.
+In the event of redemption of this Security in part only, a new Security or Securities of this series and of like tenor for the unredeemed portion hereof will be issued in the name of the Holder hereof upon the surrender hereof.
+E-3
+The Securities of this series shall not have a sinking fund.
+The Securities of this series shall constitute the direct unsecured and unsubordinated debt obligations of the Corporation and shall rank equally in priority with the Corporation’s existing and future unsecured and unsubordinated indebtedness.
+Unless the certificate of authentication hereon has been executed by the Trustee by manual signature, this Security shall not be entitled to any benefit under the Indenture or be valid or obligatory for any purpose.
+E-4
+IN WITNESS WHEREOF, the Corporation has caused this instrument to be duly executed.
+Duke Energy Corporation
+By:
+Name:
+Title:
+E-5
+CERTIFICATE OF AUTHENTICATION
+This is one of the Securities of the series designated therein referred to in the within-mentioned Indenture.
+Dated:
+By:
+Authorized Signatory
+E-6
+(Reverse Side of Security)
+), as Trustee (the “Trustee,” which term includes any successor trustee under the Indenture), to which Indenture and all indentures supplemental thereto reference is hereby made for a statement of the respective rights, limitation of rights, duties and immunities thereunder of the Corporation, the Trustee and the Holders of the Securities issued thereunder and of the terms upon which said Securities are, and are to be, authenticated and delivered.
+Capitalized terms used herein for which no definition is provided herein shall have the meanings set forth in the Indenture.
+If an Event of Default with respect to the Securities of this series shall occur and be continuing, the principal of the Securities of this series may be declared due and payable in the manner, with the effect and subject to the conditions provided in the Indenture.
+The Indenture permits, with certain exceptions as therein provided, the amendment thereof and the modification of the rights and obligations of the Corporation and the rights of the Holders of the Securities of all series affected under the Indenture at any time by the Corporation and the Trustee with the consent of the Holders of not less than a majority in principal amount of the Outstanding Securities of all series affected thereby (voting as one class).
+The Indenture contains provisions permitting the Holders of not less than a majority in principal amount of the Outstanding Securities of all series with respect to which a default under the Indenture shall have occurred and be continuing (voting as one class), on behalf of the Holders of the Securities of all such series, to waive, with certain exceptions, such default under the Indenture and its consequences.
+The Indenture also permits the Holders of not less than a majority in principal amount of the Securities of each series at the time Outstanding, on behalf of the Holders of all Securities of such series, to waive compliance by the Corporation with certain provisions of the Indenture affecting such series.
+Any such consent or waiver by the Holder of this Security shall be conclusive and binding upon such Holder and upon all future Holders of this Security and of any Security issued upon the registration of transfer hereof or in exchange hereof or in lieu hereof, whether or not notation of such consent or waiver is made upon this Security.
+No reference herein to the Indenture and no provision of this Security or of the Indenture shall alter or impair the obligation of the Corporation, which is absolute and unconditional, to pay the principal of and interest on this Security at the times, place and rate, and in the coin or currency, herein prescribed.
+No service charge shall be made for any such registration of transfer or exchange, but the Corporation may require payment of a sum sufficient to cover any tax or other governmental charge payable in connection therewith.
+E-7
+The Indenture contains provisions for defeasance at any time of the entire indebtedness of the Securities of this series and for covenant defeasance at any time of certain covenants in the Indenture upon compliance with certain conditions set forth in the Indenture.
+Prior to due presentment of this Security for registration of transfer, the Corporation, the Trustee and any agent of the Corporation or the Trustee may treat the Person in whose name this Security is registered as the owner hereof for all purposes, whether or not this Security be overdue, and neither the Corporation, the Trustee nor any such agent shall be affected by notice to the contrary.
+As provided in the Indenture and subject to the limitations therein set forth, Securities of this series are exchangeable for a like aggregate principal amount of Securities of this series of a different authorized denomination, as requested by the Holder surrendering the same upon surrender of the Security or Securities to be exchanged at the office or agency of the Corporation.
+This Security shall be governed by, and construed in accordance with, the laws of the State of New York.
+E-8
+ABBREVIATIONS
+The following abbreviations, when used in the inscription on the face of this instrument, shall be construed as though they were written out in full according to applicable laws or regulations:
+TEN COM — as tenants in common
+UNIF GIFT MIN ACT -
+Custodian
+(Cust)
+(Minor)
+TEN ENT — as tenants by the entireties
+JT TEN — as joint tenants with rights of survivorship and not as tenants in common
+under Uniform Gifts to Minors Act
+(State)
+Additional abbreviations may also be used though not on the above list.
+the within Security and all rights thereunder, hereby irrevocably constituting and appointing                      agent to transfer said Security on the books of the Corporation, with full power of substitution in the premises.
+Dated:
+NOTICE: The signature to this assignment must correspond with the name as written upon the face of the within instrument in every particular without alteration or enlargement, or any change whatever.
+Signature Guarantee:
+E-9
+SIGNATURE GUARANTEE
+Signatures must be guaranteed by an “eligible guarantor institution” meeting the requirements of the Security Registrar, which requirements include membership or participation in the Security Transfer Agent Medallion Program (“STAMP”) or such other “signature guarantee program” as may be determined by the Security Registrar in addition to, or in substitution for, STAMP, all in accordance with the Securities Exchange Act of 1934, as amended.
+E-10
+EXHIBIT F
+CERTIFICATE OF AUTHENTICATION
+This is one of the Securities of the series designated therein referred to in the within-mentioned Indenture.
+Dated:
+By:
+Authorized Signatory
+F-1

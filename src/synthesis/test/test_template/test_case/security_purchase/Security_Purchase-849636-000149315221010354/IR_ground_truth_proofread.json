@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "SellerName": [
+        "RESPIRERX PHARMACEUTICALS INC."
+    ],
+    "BuyerName": [
+        "LABRYS FUND"
+    ],
+    "EffectiveTime": [
+        "April 30, 2021"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "LABRYS FUND"
+            ],
+            "To": [
+                "RESPIRERX PHARMACEUTICALS INC."
+            ],
+            "PurchasePrice": "150000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

@@ -1,0 +1,190 @@
+NORD ANGLIA EDUCATION FINANCE LLC
+as the Issuer
+NORD ANGLIA EDUCATION, INC.
+CITICORP INTERNATIONAL LIMITED
+HSBC BANK USA, N.A.
+CITIBANK, N.A., LONDON BRANCH,
+CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG,
+DEFINITIONS AND INCORPORATION
+FORM OF NOTATION OF GUARANTEE
+INDENTURE, dated as of June 25, 2015, among Nord Anglia Education Finance LLC, a public limited company organized under the laws of the State of Delaware (the “Issuer”), Nord Anglia Education, Inc., an exempt company with limited liability organized under the laws of the Cayman Islands (the “Parent Guarantor”), the other Guarantors (as defined below), Citicorp International Limited, as trustee, HSBC Bank USA, N.A., as primary collateral agent (the “Primary Collateral Agent”), HSBC Bank plc, as Hungarian Collateral Agent (the “Hungarian Collateral Agent” and, together with the Primary Collateral Agent, the “Collateral Agents”), Citibank, N.A., London Branch, as paying agent and transfer agent, and Citigroup Global Markets Deutschland AG., as registrar.
+ARTICLE 1
+DEFINITIONS AND INCORPORATION
+BY REFERENCE
+“Board of Directors” means:
+(h)                                 demand or time deposit accounts, certificates of deposit, overnight or call deposits and money market deposits with Ahli United Bank, Standard Chartered Bank, Standard Chartered Bank Malaysia Berhad, Standard Chartered Bank (Vietnam) Ltd., UOB Bank, Australia and New Zealand Bank, National Bank of Abu Dhabi, Samba Financial Group, UBS AG, Fifth Third Bank, Bank of America, N.A., HSBC Bank USA, N.A.
+or its affiliates, Millennium Bank S.A., Budapest Bank, Commercial Bank, Cambodian Public Bank, ANZ Royal Bank, Vietnam Export Import Commercial Joint Stock Bank (Eximbank) or VID Public Bank;
+“Clearstream” means Clearstream Banking, a société anonyme, or any successor securities clearing agency.
+“Engagement Letter” means the Engagement Letter dated as of April 24, 2015 among the Issuer, Goldman Sachs Bank USA, Credit Suisse Securities (USA) LLC, Deutsche Bank Securities Inc. and HSBC Securities (USA) Inc.
+“Euroclear” means Euroclear Bank S.A./N.V.
+“Meritas Transaction Agreement” means the Transaction Agreement, dated as of April 24, 2015, by and among the Parent Guarantor, Viking Holdco, Inc., Viking Merger Subsidiary, LLC, NAE HK Holdings Limited, Meritas, LLC, Viking Holding Company, LLC, Sterling International Schools, Sterling International Schools C Corporation and the sellers listed on the schedule thereto (as amended, restated, amended and restated, supplemented or otherwise modified from time to time).
+“Permitted Holders” means (i) Baring Private Equity Asia GP III, L.P., Baring Private Equity Asia GP III Limited, Baring Private Equity Asia GP IV, L.P., Baring Private Equity Asia GP IV Limited and Baring Private Equity Asia Group Limited, (ii) any Related Person of any Person named in clause (i) of this definition and/or (iii) any successor to any Person described in clause (i) or (ii) of this definition.
+“Post-Closing Date Guarantors” means Viking Holdco, Inc., Sterling International Schools C Corporation, Viking Holding Company, LLC, Collegiate Prep Realty LLC, Meritas (Gibraltar) Holdings Limited, Village Real Estate LLC, North Broward Preparatory Schools, LLC, Meritas Luxembourg Holding S.à r.l., Meritas CH S.à.r.l., Collège du Léman, S.à.r.l., Meritas Malta Holdings Limited, Meritas MX, LLC, British International School LLC, Nord Anglia International School L.L.C., Sterling International Schools, Sterling Asian Schools Holdings Limited and Meritas México, S. de R.L.
+“S&P” means Standard and Poor’s Ratings Service, a division of The McGraw-Hill Companies, Inc. and its successors.
+“Authenticating Agent”
+“Change of Control Offer”
+“Paying Agent”
+“Polish Guarantor”
+“Register”
+“Registrar”
+“Successor Guarantor”
+“Swiss Guarantor”
+“Transfer Agent”
+(c)           a “disposal” (rozporządzenie) means a sale (sprzedaż), transfer (przewłaszczenie), assignment (przelew), grant (darowizna), lease (oddanie w najem lub dzierżawę), licence (udzielenie licencji), declaration of trust (ustanowienie stosunku powiernictwa) or other disposal, whether voluntary or involuntary;
+“THIS NOTE HAS NOT BEEN REGISTERED UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED (THE “SECURITIES ACT”) OR ANY STATE SECURITIES LAWS, AND ACCORDINGLY, NEITHER THIS NOTE NOR ANY INTEREST OR PARTICIPATION HEREIN MAY BE OFFERED, ASSIGNED, PLEDGED OR OTHERWISE TRANSFERRED OR SOLD WITHIN THE UNITED STATES IN THE ABSENCE OF SUCH REGISTRATION OR AN APPLICABLE EXEMPTION THEREFROM [IN THE CASE OF RULE 144A NOTES:  AS SET FORTH IN THE FOLLOWING SENTENCE.
+BY ITS ACQUISITION HEREOF, THE HOLDER (1) REPRESENTS THAT (A) IT IS A “QUALIFIED INSTITUTIONAL BUYER” (AS DEFINED IN RULE 144A UNDER THE SECURITIES ACT) OR (B) IT IS ACQUIRING THIS NOTE IN AN OFFSHORE TRANSACTION IN COMPLIANCE WITH REGULATION S UNDER THE SECURITIES ACT; (2) AGREES THAT IT WILL NOT WITHIN THE TIME PERIOD REFERRED TO IN RULE 144(d) UNDER THE SECURITIES ACT AS IN EFFECT WITH RESPECT TO SUCH TRANSFER, RESELL OR OTHERWISE TRANSFER THIS NOTE EXCEPT (I) TO NORD ANGLIA EDUCATION FINANCE LLC OR ANY SUBSIDIARY THEREOF; (II) INSIDE THE UNITED STATES
+TO A QUALIFIED INSTITUTIONAL BUYER IN COMPLIANCE WITH RULE 144A UNDER THE SECURITIES ACT; (III) OUTSIDE THE UNITED STATES IN AN OFFSHORE TRANSACTION IN COMPLIANCE WITH RULE 904 UNDER THE SECURITIES ACT; (IV) PURSUANT TO THE EXEMPTION FROM REGISTRATION PROVIDED BY RULE 144 UNDER THE SECURITIES ACT (IF AVAILABLE); (V) IN ACCORDANCE WITH ANOTHER EXEMPTION FROM THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT (PROVIDED THAT THE ISSUER OR THE TRUSTEE MAY, IN CIRCUMSTANCES THAT ANY OF THEM DEEMS APPROPRIATE, REQUIRE EVIDENCE AS TO COMPLIANCE WITH ANY SUCH EXEMPTION); OR (VI) PURSUANT TO AN EFFECTIVE REGISTRATION STATEMENT UNDER THE SECURITIES ACT; AND (3) AGREES THAT IT WILL DELIVER TO EACH PERSON TO WHOM THIS NOTE IS TRANSFERRED A NOTICE SUBSTANTIALLY TO THE EFFECT OF THIS LEGEND.
+IN CONNECTION WITH ANY TRANSFER OF THIS NOTE WITHIN THE TIME PERIOD REFERRED TO ABOVE, THE HOLDER MUST CHECK THE APPROPRIATE BOX SET FORTH ON THE REVERSE HEREOF RELATING TO THE MANNER OF SUCH TRANSFER AND SUBMIT SUCH CERTIFICATE TO THE TRUSTEE.
+EACH OWNER AND BENEFICIAL OWNER, BY ITS ACCEPTANCE OF THIS NOTE OR AN INTEREST IN THE NOTE EVIDENCED HEREBY, REPRESENTS THAT IT UNDERSTANDS AND AGREES TO THE FOREGOING RESTRICTIONS AND THAT NO REPRESENTATIONS CAN BE MADE AS TO THE AVAILABILITY OF THE EXEMPTION PROVIDED BY RULE 144 UNDER THE SECURITIES ACT FOR RESALES OF THIS NOTE.
+AS USED HEREIN, THE TERMS “OFFSHORE TRANSACTION” AND “UNITED STATES” HAVE THE MEANINGS GIVEN TO THEM BY REGULATION S UNDER THE SECURITIES ACT.
+THE INDENTURE CONTAINS A PROVISION REQUIRING THE TRUSTEE TO REFUSE TO REGISTER ANY TRANSFER OF THIS NOTE IN VIOLATION OF THE FOREGOING RESTRICTIONS].”
+“THIS GLOBAL NOTE IS HELD BY THE DEPOSITARY (AS DEFINED IN THE INDENTURE GOVERNING THIS NOTE) OR ITS NOMINEE IN CUSTODY FOR THE BENEFIT OF THE BENEFICIAL OWNERS HEREOF, AND IS NOT TRANSFERABLE TO ANY PERSON UNDER ANY CIRCUMSTANCES EXCEPT THAT (1) THE TRUSTEE MAY MAKE SUCH NOTATIONS HEREON AS MAY BE REQUIRED PURSUANT TO SECTION 2.06 OF THE INDENTURE, (2) THIS GLOBAL NOTE MAY BE TRANSFERRED OR EXCHANGED IN WHOLE BUT NOT IN PART PURSUANT TO SECTION 2.06(a) OF THE INDENTURE, AND (3) THIS GLOBAL NOTE MAY BE DELIVERED TO THE TRUSTEE FOR CANCELLATION PURSUANT TO SECTION 2.11 OF THE INDENTURE.”
+ARTICLE 8
+LEGAL DEFEASANCE AND COVENANT DEFEASANCE
+Nord Anglia Education Finance LLC
+c/o Nord Anglia Education, Inc.
+Level 12, St. George’s Building
+2 Ice House Street
+Central, Hong Kong
+ Attention: Chief Financial Officer
+:  +852 2912 2600
+Attention:  Eugene Lee, Esq.
+Citicorp International Limited
+39th Floor, Citibank Tower
+Citibank, N.A., London Branch
+c/o Citibank, N.A., Dublin Branch
+Citigroup Global Markets Deutschland AG
+Reuterweg 16
+60323 Frankfurt, Germany
+Facsimile No.
+:  +49 69 1366 1429
+Attention:  Germany Agency and Trust
+HSBC Bank USA, NA
+New York, NY 10018
+(the “Authorized Agent”).
+NORD ANGLIA EDUCATION FINANCE LLC, as the Issuer
+NORD ANGLIA EDUCATION, INC., as the Parent Guarantor
+For and on behalf of NORD ANGLIA EDUCATION (UK) HOLDINGS PLC, as Guarantor
+NAE HONG KONG LIMITED, as Guarantor
+For and on behalf of NORD ANGLIA EDUCATION LIMITED, as Guarantor
+For and on behalf of NA SCHOOLS LIMITED, as Guarantor
+For and on behalf of NA EDUCATIONAL SERVICES LIMITED, as Guarantor
+For and on behalf of NORD ANGLIA EDUCATION DEVELOPMENT SERVICES LIMITED, as Guarantor
+For and on behalf of NORD ANGLIA VOCATIONAL EDUCATION AND TRAINING SERVICES LTD, as Guarantor
+For and on behalf of NORD INTERNATIONAL SCHOOLS LIMITED, as Guarantor
+BRITISH INTERNATIONAL SCHOOL FOUNDATION, as Guarantor
+Z O.O., as Guarantor
+COLLÈGE ALPIN BEAU-SOLEIL SA, as Guarantor
+LA CÔTE INTERNATIONAL SCHOOL SA, as Guarantor
+COLLÈGE CHAMPITTET SA, as Guarantor
+EEE ENTERPRISE LIMITED, as Guarantor
+RICE EDUCATION HONG KONG LIMITED, as Guarantor
+For and on behalf of WCL HOLDCO LIMITED, as Guarantor
+For and on behalf of WCL GROUP LIMITED, as Guarantor
+For and on behalf of WCL INTERMEDIATE HOLDINGS LIMITED, as Guarantor
+For and on behalf of WCL SERVICES LIMITED, as Guarantor
+For and on behalf of WCL SCHOOL MANAGEMENT SERVICES LIMITED, as Guarantor
+For and on behalf of FIELDWORK EDUCATION LIMITED, as Guarantor
+BRITISH SCHOOLS OF AMERICA, LLC, as Guarantor
+BRITISH SCHOOL OF WASHINGTON, L.L.C., as Guarantor
+BRITISH SCHOOL OF BOSTON, L.L.C., as Guarantor
+BRITISH SCHOOL OF CHICAGO, L.L.C., as Guarantor
+BRITISH SCHOOL OF HOUSTON, L.P., as Guarantor
+By: British Schools of Texas, L.L.C., as General Partner
+BSA RESOURCE SOLUTIONS, LLC, as Guarantor
+BST HOLDING, L.L.C., as Guarantor
+BRITISH SCHOOLS OF TEXAS, L.L.C., as Guarantor
+BRITISH AMERICAN SCHOOL OF CHARLOTTE, L.L.C., as Guarantor
+WCL ACADEMY OF NEW YORK LLC, as Guarantor
+EDUCATION OVERSEAS QATAR L.L.C., as Guarantor
+WCL INTERMEDIATE HOLDINGS SPAIN, S.L.U., as Guarantor
+INTERNATIONAL COLLEGE 2, S.L.U., as Guarantor
+INTERNATIONAL COLLEGE SPAIN, S.A.U., as Guarantor
+B I S LTD., as Guarantor
+BSG LIMITED, as Guarantor
+OASIS DEVELOPMENT MANAGEMENT LIMITED, as Guarantor
+UMA EDUCATION HOLDINGS LIMITED, as Guarantor
+UMA EDUCATION HONG KONG LIMITED, as Guarantor
+DOVER COURT INTERNATIONAL SCHOOL (PTE.)
+LTD., as Guarantor
+NAE HK HOLDINGS LIMITED, as Guarantor
+HSBC BANK USA, N.A., as Primary Collateral Agent
+HSBC BANK PLC, as Hungarian Collateral Agent
+CITICORP INTERNATIONAL LIMITED, as Trustee
+CITIBANK, N.A., LONDON BRANCH, as Paying Agent and Transfer Agent
+CITIGROUP GLOBAL MARKETS DEUTSCHLAND AG, as Registrar
+/s/ Gabriele Fisch
+CZECH REPUBLIC SECURITY DOCUMENTS
+(the “Czech Company”) (by Nord International Schools Limited) (English and Czech version)
+2.1                               Share Charge dated 31 March 2014 over the shares of Nord Anglia Education (UK) Holdings PLC
+3.1                               Share Mortgage dated 31 March 2014 over the shares of NAE Hong Kong Limited, Rice Education Hong Kong Limited, BSG Limited, Uma Education Hong Kong Limited, EEE Enterprise Limited and Uma Education Holdings Limited
+3.2                               Debenture dated 31 March 2014 in respect of assets of NAE Hong Kong Limited, EEE Enterprise Limited, Rice Education Hong Kong Limited, BSG Limited, Uma Education Hong Kong Limited and Uma Education Holdings Limited
+3.3                               Share Mortgage dated 30 April 2015 over the shares of NAE HK Holdings Limited, B I S Ltd., Uma Education Holdings Limited, EEE Enterprise Limited and Oasis Development Management Limited
+6.5                               Second Confirmatory Share Mortgage dated a date within 5 Business Days of the date hereof over shares in Dover Court International School (Pte.)
+(by Nord Anglia Education Limited)
+(by NA Schools Limited)
+8.1                               Pledge over Participations of WCL Intermediate Holdings Spain, S.L.U.
+8.3                               Pledge over Shares of International College Spain, S.A.U.
+8.4                               First Extension, amendment and ratification dated 6 March 2015 of the pledge over WCL Intermediate Holdings Spain, S.L.U.
+8.5                               First Extension, amendment and ratification dated 6 March 2015 of the pledge over International College 2, S.L.U.
+8.6                               First Extension, amendment and ratification dated 6 March 2015 of the pledge over International College Spain, S.A.U.
+8.7                               Second Extension, amendment and ratification dated a date within 5 Business Days of the date hereof of the pledge over WCL Intermediate Holdings Spain, S.L.U.
+8.9                               Second Extension, amendment and ratification dated a date within 5 Business Days of the date hereof of the pledge over International College Spain, S.A.U.
+SWITZERLAND SECURITY DOCUMENTS
+9.1                               Share Pledge Agreement dated 31 March 2014 over shares in Collège Alpin Beau-Soleil SA
+9.4                               Insurance Claim Assignment Agreement dated 31 March 2014 (by Collège Alpin Beau-Soleil SA)
+9.5                               Insurance Claim Assignment Agreement dated 31 March 2014 (by La Côte International School SA)
+9.6                               Insurance Claim Assignment Agreement dated 31 March 2014 (by Collège Champittet SA)
+THAILAND SECURITY DOCUMENTS
+10.1                        Share Pledge Agreement dated 31 March 2014 over the shares of Regent Pattaya Campus Management Co., Ltd. (by Rice Education Hong Kong Limited and Nord Anglia Education Limited) (the RPCM Share Pledge Agreement)
+10.2                        Share Pledge Agreement dated 31 March 2014 over the shares of Saint Andrews International School Sukhumvit Campus Co., Ltd. (by UMA Education Hong Kong Limited and Nord Anglia Education Limited) (the Saint Andrews Share Pledge Agreement)
+10.3                        First Confirmation Deed dated 2 March 2015 in respect of the RPCM Share Pledge Agreement (by Rice Education Hong Kong Limited and Nord Anglia Education Limited)
+10.4                        First Confirmation Deed dated 2 March 2015 in respect of the Saint Andrews Share Pledge Agreement (by UMA Education Hong Kong Limited and Nord Anglia Education Limited)
+10.5                        Second Confirmation Deed dated a date within 5 Business Days of the date hereof in respect of the RPCM Share Pledge Agreement (by Rice Education Hong Kong Limited and Nord Anglia Education Limited)
+10.6                        Second Confirmation Deed dated a date within 5 Business Days of the date hereof in respect of the Saint Andrews Share Pledge Agreement (by UMA Education Hong Kong Limited and Nord Anglia Education Limited)
+Pledge and Security Agreement (by Borrower and certain U.S. Guarantors) dated as of  March 31, 2014
+Pledge Agreement dated as of the date hereof by Nord Anglia Education Limited in favor of the Primary Collateral Agent
+CAYMAN ISLANDS SECURITY DOCUMENTS
+between Meritas (Gibraltar) Holdings Limited as pledgor, the Primary Collateral Agent as collateral agent and in the presence of Meritas Luxembourg Holding S.à r.l.
+6.1                               Equity Pledge Agreement, to be dated a date within 60 days of the date hereof by and among Meritas Luxembourg Holding SARL (“Meritas Luxembourg”), as pledgor, the Collateral Agent, as pledgee, and Meritas Mexico, S. de R.L.
+de C.V. (“Meritas Mexico”), as the company, over all the equity owned by Meritas Luxembourg in Meritas Mexico
+6.2                               Equity Pledge Agreement to be dated a date within 60 days of the date hereof by and among Meritas Malta Holdings Limited (“Meritas Malta”), as pledgor, the Collateral Agent, as pledgee, and Meritas Mexico, as the company, over the equity owned by Meritas Malta in Meritas Mexico
+SWITZERLAND SECURITY DOCUMENTS
+8.4                               Insurance Claim Assignment Agreement to be dated a date within 60 days of the date hereof (by Collège du Léman S.à.r.l.)
+NORD ANGLIA EDUCATION FINANCE LLC
+GUARANTEED BY THE GUARANTORS (AS DEFINED IN THE INDENTURE)
+NORD ANGLIA EDUCATION FINANCE LLC
+By: Citicorp International Limited
+(3)           PAYING AGENT, REGISTRAR AND TRANSFER AGENT.
+The Issuer issued the Notes under an Indenture dated as of June 25, 2015 (the “Indenture”) among the Issuer, the Guarantors, Citicorp International Limited, as Trustee, HSBC Bank USA, N.A.
+as Primary Collateral Agent, HSBC Bank plc as Hungarian Collateral Agent Security Agent, Citibank, N.A., London Branch, as Paying Agent and Transfer Agent and Citigroup
+Global Markets Deutschland AG, as Registrar.
+(9)           REPURCHASE AT THE OPTION OF HOLDER.
+(11)         DENOMINATIONS, TRANSFER, EXCHANGE.
+(13)         AMENDMENT, SUPPLEMENT AND WAIVER.
+Nord Anglia Education Finance LLC
+c/o Nord Anglia Education, Inc.
+OPTION OF HOLDER TO ELECT PURCHASE*
+Nord Anglia Education Finance LLC
+c/o Nord Anglia Education, Inc.
+Citigroup Global Markets Deutschland AG
+Reference is hereby made to the Indenture, dated as of June 25, 2015 (the “Indenture”), among Nord Anglia Education Finance LLC, a limited liability company organized under the laws of the State of Delaware (the “Issuer”), the Guarantors party thereto, Citicorp International Limited, as Trustee, HSBC Bank USA, N.A.
+as Primary Collateral Agent, HSBC Bank plc as Hungarian Collateral Agent, Citibank N.A., London Branch, as Paying Agent and Transfer Agent, and Citigroup Global Markets Deutschland AG, as Registrar.
+ANNEX A TO CERTIFICATE OF TRANSFER
+Nord Anglia Education Finance LLC
+c/o Nord Anglia Education, Inc.
+Citigroup Global Markets Deutschland AG
+Reference is hereby made to the Indenture, dated as of June 18, 2015 (the “Indenture”), between Nord Anglia Education Finance LLC, a limited liability company organized under the laws of the State of Delaware (the “Issuer”), the Guarantors party thereto, Citicorp International Limited, as Trustee, HSBC Bank USA, N.A.
+as Primary Collateral Agent, HSBC Bank plc as Hungarian Collateral Agent, Citibank N.A., London Branch, as Paying Agent and Transfer Agent, and Citigroup Global Markets Deutschland AG, as Registrar.
+                                                , (the “Owner”) owns and proposes to exchange the Note[s] or interest in such Note[s] specified herein, in the principal amount of CHF                      in such Note[s] or interests (the “Exchange”).
+FORM OF NOTATION OF GUARANTEE
+For value received, effective this                            , each Guarantor (which term includes any successor Person under the Indenture) has, jointly and severally, unconditionally guaranteed, to the extent and subject to the terms and limitations set forth in the Indenture, including but not limited to Sections 13.06 (Agent for Service; Submission to Jurisdiction; Waiver of Immunities) and 13.08 (Governing Law), dated as of June 25, 2015 (the “Indenture”) among Nord Anglia Education Finance LLC (the “Issuer”), the Guarantors party thereto, Citicorp International Limited, as Trustee, HSBC Bank USA, N.A.
+FORM OF SUPPLEMENTAL INDENTURE
+TO BE DELIVERED BY SUBSEQUENT GUARANTORS
+SUPPLEMENTAL INDENTURE (this “Supplemental Indenture”), dated as of                        , among Nord Anglia Education Finance LLC (the “Issuer”),                       , a company organized and existing under the laws of                          (the “Subsequent Guarantor”) and Citicorp International Limited, as Trustee.
+CAPITALIZED TERMS.
+AGREEMENT TO GUARANTEE.
+NORD ANGLIA EDUCATION FINANCE LLC
+[SUBSEQUENT GUARANTOR]
+CITICORP INTERNATIONAL LIMITED, as
+This solvency certificate (this “Certificate”) is delivered by Nord Anglia Education Finance LLC (the “Issuer”) in connection with the Indenture dated as of June 25, 2015 (as amended, restated, supplemented or otherwise modified from time to time, the “Indenture”) (undefined capitalized terms used herein shall have the meanings set forth in the Indenture) among the Issuer, the Guarantors party thereto, Citicorp International Limited, as Trustee, HSBC Bank USA, N.A., as Primary Collateral Agent, HSBC Bank plc, as Hungarian Collateral Agent, Citibank N.A., London Branch, as Paying Agent and Transfer Agent, and Citigroup Global Markets Deutschland AG, as Registrar.

@@ -1,0 +1,210 @@
+Neiman Marcus Group LTD LLC
+The Neiman Marcus Group LLC
+Mariposa Borrower, INC.
+The NMG Subsidiary LLC
+as Issuers
+INDENTURE
+Dated as of June 7, 2019
+WILMINGTON TRUST, NATIONAL ASSOCIATION,
+as Trustee and
+WILMINGTON TRUST, NATIONAL ASSOCIATION,
+INDENTURE, dated as of June 7, 2019 as amended or supplemented from time to time (this “Indenture”), among NEIMAN MARCUS GROUP LTD LLC, a Delaware limited liability company (the “Issuer”), and THE NEIMAN MARCUS GROUP LLC, a Delaware limited liability company (the “LLC Co-Issuer”), MARIPOSA BORROWER, INC., a Delaware corporation (the “Corporate Co-Issuer”), and THE NMG SUBSIDIARY LLC, a Delaware limited liability company (the “New Co-Issuer Subsidiary” and, together with the Corporate Co-Issuer and the LLC Co-Issuer, the “Co-Issuers” and, together with the Issuer, the “Issuers”), the Subsidiary Guarantors party hereto, WILMINGTON TRUST, NATIONAL ASSOCIATION, as trustee (in such capacity, the “Trustee”) and WILMINGTON TRUST, NATIONAL ASSOCIATION, as collateral agent (in such capacity, the “Notes Collateral Agent”).
+“2028 Debentures Indenture” means the indenture dated as of May 27, 1998, by and between The Neiman Marcus Group LLC (f/k/a Neiman Marcus Group, Inc.) and Wilmington Savings Fund Society, FSB, as trustee, as supplemented and/or otherwise modified from time to time, including on or about the date hereof.
+“2028 Debentures Letter Agreement” means that certain Letter Agreement, dated as of April 10, 2019, by and among TNMG LLC and certain holders of the 2028 Debentures signatory thereto.
+“2028 Debentures Liens” means Liens on the 2028 Debentures Collateral, which Liens have the Required Collateral Lien Priority for Liens securing the 2028 Debentures Obligations.
+“ABL Intercreditor Agreement” means the ABL/Term Loan/Notes Intercreditor Agreement, dated as of the Issue Date, among the Notes Collateral Agent, on behalf of the holders of Third Lien Notes, the Extended Term Loan Agent, the ABL Agent and the Second Lien Notes Collateral Agent, on behalf of the holders of the Second Lien Notes, as such agreement may be amended, modified, supplemented or restated from time to time in accordance with its terms.
+“Ad Hoc Committee of Unsecured Noteholders” means that certain ad hoc committee of Consenting Pre-Transactions Unsecured Noteholders represented by Paul, Weiss, Rifkind, Wharton & Garrison LLP and Houlihan Lokey.
+“Agents” means Notes Collateral Agent, Paying Agent and Registrar.
+“Clearstream” means Clearstream Banking, Société Anonyme.
+“Company Parties” means, collectively, Neiman Marcus Group, Inc. and each of its Subsidiaries that has executed and delivered the Transaction Support Agreement.
+“Euroclear” means Euroclear Bank S.A./N.V., as operator of the Euroclear system.
+“Exchange Offering Memorandum” means the Offering Memorandum related to the offering of Third Lien Notes, dated April 29, 2019, as further supplemented by Supplement No.
+“Extended Term Loan PropCo” means NMG Term Loan PropCo LLC, a Delaware limited liability company that is a Subsidiary of the Issuer formed to hold the Extended Term Loan Priority PropCo Assets.
+“Intercreditor Agreements” means the ABL Intercreditor Agreement, the Junior Lien Intercreditor Agreement, any other Customary Intercreditor Agreement, the Extended Term Loan Subordination Agreement and the Notes PropCo Subordination Agreement.
+“Junior Lien Intercreditor Agreement” means the Junior Lien Intercreditor Agreement, dated as of the Issue Date, among the Notes Collateral Agent, on behalf of the holders of Third Lien Notes, and the collateral agents holding the First Liens and the Second Liens, among others, as such agreement may be amended, modified, supplemented or restated from time to time in accordance with its terms.
+“Management Agreements” means each of (i) that certain Management Services Agreement, dated as of October 25, 2013, by and among ACOF Operating Manager III, LLC, a Delaware limited liability company, The Neiman Marcus Group LLC and Neiman Marcus Group, Inc., (ii) that certain Management Services Agreement, dated as of October 25, 2013, by and among ACOF Operating Manager IV, LLC, a Delaware limited liability company, The Neiman Marcus Group LLC and Neiman Marcus Group, Inc., and (iii) that certain Management Services Agreement, dated as of October 25, 2013, by and among CPPIB Equity Investments Inc., a corporation incorporated under the Canada Business Corporations Act, The Neiman Marcus Group LLC and Neiman Marcus Group, Inc., in each case, as in effect on the Issue Date, as
+“Mariposa Intermediate” means Mariposa Intermediate Holdings LLC, a Delaware limited liability company, and its successors.
+“MYT Entities” means, collectively, (i) Mariposa Luxembourg I S.à r.l.
+(Luxembourg), (ii) Mariposa Luxembourg II S.à r.l.
+(Luxembourg), (iii) NMG Germany GmbH, (iv) mytheresa.com GmbH (Germany), (v) mytheresa.com Service GmbH (Germany), (vi) Theresa Warenvertrieb GmbH (Germany), (vii) New MYT Dutch HoldCo (Netherlands) and (viii) the Subsidiaries of any of the foregoing described in clauses (i) through (vii).
+“MYT Guarantee and Collateral Agreement” means the Guarantee and Collateral Agreement, dated the Issue Date, among MYT Parent, the MYT Guarantor Entities and Ankura Trust Company, LLC as trustee and Second Lien Notes Collateral Agent, as such agreement may be amended, modified, supplemented or restated from time to time in accordance with its terms.
+“MYT Guarantor Entities” means, collectively, and together with their respective successors, MYT Holdco, MYT Intermediate Holdco, Mariposa Luxembourg I S. à r.l., Mariposa Luxembourg II S. à r.l.
+“MYT Holdco” means MYT Holding Co., a direct Wholly Owned Subsidiary of MYT Parent, a newly formed Delaware corporation, together with its successors.
+“MYT Intermediate Holdco” means MYT Intermediate Holding Co., a direct Wholly Owned Subsidiary of MYT Holdco, a newly formed Delaware corporation, together with its successors.
+“MYT Limited Guarantee Collateral” means the “Collateral,” as defined in the MYT Guarantee and Collateral Agreement.
+“MYT Operating Entities” means (i) NMG Germany GmbH, (ii) mytheresa.com GmbH (Germany), (iii) mytheresa.com Service GmbH (Germany), (iv) Theresa Warenvertrieb GmbH (Germany) and (v) the Subsidiaries of any of the foregoing described in clauses (i) through (iv).
+“MYT Parent” means MYT Parent Co., a newly formed Delaware corporation, together with its successors.
+“MYT Third Lien Notes Pledge Agreement” means the Pledge Agreement dated as of the Issue Date among MYT Parent, MYT Holdco and Wilmington Trust, National Association, on behalf of the holders of the Third Lien Notes.
+“New MYT Dutch HoldCo” means a Dutch B.V. to be formed after the Issue Date, wholly-owned subsidiary of MYT Intermediate Holding Co. and direct parent of NMG Germany GmbH as a result of a merger by absorption of Mariposa Luxembourg II S.à r.l.
+into Mariposa Luxembourg I S.à r.l.
+“NM Group” means, collectively, Neiman Marcus Group, Inc. and its Subsidiaries.
+“Notes Priority Real Estate Collateral” consists of the assets known as (1) Tysons Galleria (Store 1023) located at 2255 International Drive, McLean, Virginia 22102, (2) Topanga Plaza (Store 1105) located at 6550 Topanga Canyon Boulevard, Woodland Hills, California 91303, (3) Walnut Creek (Store 1110) located at 1275 Broadway Plaza, Walnut Creek, California 94596, (4) Fort Lauderdale (Store 1018) located at 2442 East Sunrise Boulevard, Fort Lauderdale, Florida 33304, (5) Troy (Store 1033) located at 2705 West Big Beaver Road, Troy, Michigan 48084, (6) Coral Gables (Store 1034) located at 390 San Lorenzo Avenue, Coral Gables, Florida 33146, (7) Charlotte (Store 1102) located at 4400 Sharon Road, Charlotte, North Carolina 28211 and (8) Austin (Store 1101) located at 3400 Palm Way, Austin, Texas 78758, each of which is not collateral for the Pre-Transactions Term Loan Obligations as of the Issue Date.
+“Notes PropCo” means NMG Notes PropCo LLC, a Delaware limited liability company that is a Subsidiary of the Issuer formed to hold the Notes Priority PropCo Assets.
+“Parent” means Neiman Marcus Group, Inc., a corporation organized under the laws of the State of Delaware, and its successors.
+“Pre-Transactions Term Loan Agreement” means that certain term loan credit agreement, dated as of October 25, 2013, among Mariposa Intermediate Holdings LLC, the Issuer (as successor by merger to Mariposa Merger Sub LLC), the subsidiaries of the Issuer from time to time party thereto, Credit Suisse AG, Cayman Islands Branch, as Administrative Agent and Collateral Agent, and the lenders party thereto from time to time, as amended, amended and restated, supplemented or otherwise modified prior to (but not on or after) the Issue Date (and which Pre-Transactions Term Loan Agreement, for the avoidance of doubt, is not the Extended Term Loan Agreement).
+“Rating Agency” means:
+“Second Lien Notes Indenture” means the Indenture, dated as of the Issue Date, among the Issuers, the Subsidiary Guarantors and Ankura Trust Company, LLC, as trustee and collateral agent, governing the Second Lien Notes.
+“Transaction Support Agreement” means that certain transaction support agreement, dated March 25, 2019, by and among Neiman Marcus Group, Inc. and each of its Subsidiaries signed thereunder, the Sponsors, certain Pre-Transactions Term Loan Lenders signed thereunder (the “Consenting Pre-Transactions Term Loan Lenders”), nominees, investment managers, advisors or subadvisors to funds and/or accounts, or
+“Wholly Owned Restricted Subsidiary” is any Wholly Owned Subsidiary that is a Restricted Subsidiary.
+“Affiliate Transaction”
+“Agent Members”
+“Calling Lenders”
+“Change of Control Offer”
+“DTC”
+“Guarantor Legend”
+“OID Legend”
+“Paying Agent”
+“Payor”
+“Private Placement Legend”
+“Registrar”
+“Successor Company”
+“Successor Guarantor”
+UNLESS THIS CERTIFICATE IS PRESENTED BY AN AUTHORIZED REPRESENTATIVE OF THE DEPOSITORY TRUST COMPANY, A NEW YORK CORPORATION (“DTC”), TO THE ISSUERS OR THEIR AGENT FOR REGISTRATION OF TRANSFER, EXCHANGE OR PAYMENT, AND ANY CERTIFICATE ISSUED IS REGISTERED IN THE NAME OF CEDE & CO. OR IN SUCH OTHER NAME AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC (AND ANY PAYMENT IS MADE TO CEDE & CO. OR TO SUCH OTHER ENTITY AS IS REQUESTED BY AN AUTHORIZED REPRESENTATIVE OF DTC), ANY TRANSFER, PLEDGE OR OTHER USE HEREOF FOR VALUE OR OTHERWISE BY OR TO ANY PERSON IS WRONGFUL INASMUCH AS THE REGISTERED OWNER HEREOF, CEDE & CO., HAS AN INTEREST HEREIN.
+THIS NOTE IS A GLOBAL NOTE WITHIN THE MEANING OF THE INDENTURE AND IS REGISTERED IN THE NAME OF THE DEPOSITARY OR A NOMINEE OF THE DEPOSITARY OR A SUCCESSOR DEPOSITARY.
+THIS NOTE IS NOT EXCHANGEABLE FOR SECURITIES REGISTERED IN THE NAME OF A PERSON OTHER THAN THE DEPOSITARY OR ITS NOMINEE EXCEPT IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE INDENTURE, AND NO TRANSFER OF THIS NOTE (OTHER THAN A TRANSFER OF THIS NOTE AS A WHOLE BY THE DEPOSITARY TO A NOMINEE OF THE DEPOSITARY OR BY A NOMINEE OF THE DEPOSITARY TO THE DEPOSITARY OR ANOTHER NOMINEE OF THE DEPOSITARY OR BY THE DEPOSITARY OR ANY SUCH NOMINEE TO A SUCCESSOR DEPOSITARY OR A
+NOMINEE OF SUCH SUCCESSOR DEPOSITARY) MAY BE REGISTERED EXCEPT IN THE LIMITED CIRCUMSTANCES DESCRIBED IN THE INDENTURE.
+(A) THE GUARANTEE BY EXTENDED TERM LOAN PROPCO OF THE GUARANTEED OBLIGATIONS EVIDENCED HEREBY ARE SUBORDINATE IN THE MANNER AND TO THE EXTENT SET FORTH IN THAT CERTAIN SUBORDINATION AGREEMENT (AS AMENDED, SUPPLEMENTED OR OTHERWISE MODIFIED FROM TIME TO TIME, THE “EXTENDED TERM LOAN SUBORDINATION AGREEMENT”) DATED AS OF JUNE 7, 2019 AMONG THE COLLATERAL AGENT, EXTENDED TERM LOAN PROPCO AND THE OTHER PARTIES THERETO, TO THE SENIOR PRIORITY GUARANTEE OBLIGATIONS (AS DEFINED THEREIN); AND EACH HOLDER OF THIS INSTRUMENT, BY ITS ACCEPTANCE HEREOF, IRREVOCABLY AGREES TO BE BOUND BY THE PROVISIONS OF THE SUBORDINATION AGREEMENT; AND (B) THE GUARANTEE BY NOTES PROPCO OF THE GUARANTEED OBLIGATIONS EVIDENCED HEREBY ARE SUBORDINATE IN THE MANNER AND TO THE EXTENT SET FORTH IN THAT CERTAIN SUBORDINATION AGREEMENT (AS AMENDED, SUPPLEMENTED OR OTHERWISE MODIFIED FROM TIME TO TIME, THE “NOTES PROPCO SUBORDINATION AGREEMENT”) DATED AS OF JUNE 7, 2019 AMONG THE COLLATERAL AGENT, NOTES PROPCO AND THE OTHER PARTIES THERETO, TO THE SENIOR PRIORITY GUARANTEE OBLIGATIONS (AS DEFINED TEHREIN); AND EACH HOLDER OF THIS INSTRUMENT, BY ITS ACCEPTANCE HEREOF, IRREVOCABLY AGREES TO BE BOUND BY THE PROVISIONS OF THE NOTES PROPCO SUBORDINATION AGREEMENT.
+THE HOLDER OF THIS NOTE, BY ITS ACCEPTANCE HEREOF, AGREES
+ON ITS OWN BEHALF AND ON BEHALF OF ANY INVESTOR ACCOUNT FOR WHICH IT HAS PURCHASED NOTES, TO OFFER, SELL OR OTHERWISE TRANSFER SUCH NOTE, PRIOR TO THE DATE (THE “RESALE RESTRICTION TERMINATION DATE”) THAT IS ONE YEAR AFTER THE LATER OF THE ORIGINAL ISSUE DATE HEREOF, THE ORIGINAL ISSUE DATE OF THE ISSUANCE OF ANY ADDITIONAL NOTES AND THE LAST DATE ON WHICH AN ISSUER OR ANY AFFILIATE OF THE ISSUERS WAS THE OWNER OF THIS NOTE (OR ANY PREDECESSOR OF SUCH NOTE), ONLY (A) TO THE ISSUER OR ANY SUBSIDIARY THEREOF, (B) PURSUANT TO A REGISTRATION STATEMENT THAT HAS BEEN DECLARED EFFECTIVE UNDER THE SECURITIES ACT, (C) FOR SO LONG AS THE NOTES ARE ELIGIBLE FOR RESALE PURSUANT TO RULE 144A UNDER THE SECURITIES ACT (“RULE 144A”), TO A PERSON IT REASONABLY BELIEVES IS A “QUALIFIED INSTITUTIONAL BUYER” AS DEFINED IN RULE 144A THAT PURCHASES FOR ITS OWN ACCOUNT OR FOR THE ACCOUNT OF A QUALIFIED INSTITUTIONAL BUYER TO WHOM NOTICE IS GIVEN THAT THE TRANSFER IS BEING MADE IN RELIANCE ON RULE 144A, (D) PURSUANT TO OFFERS AND SALES TO NON-U.S.
+PERSONS THAT OCCUR OUTSIDE THE UNITED STATES WITHIN THE MEANING OF REGULATION S UNDER THE SECURITIES ACT, (E) TO AN INSTITUTIONAL “ACCREDITED INVESTOR” WITHIN THE MEANING OF RULE 501(a)(1), (2), (3) OR (7) UNDER THE SECURITIES ACT THAT IS NOT A QUALIFIED INSTITUTIONAL BUYER AND THAT IS PURCHASING FOR ITS OWN ACCOUNT OR FOR THE ACCOUNT OF ANOTHER INSTITUTIONAL ACCREDITED INVESTOR, IN EACH CASE IN A MINIMUM PRINCIPAL AMOUNT OF NOTES OR (F) PURSUANT TO ANOTHER AVAILABLE EXEMPTION FROM THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT, SUBJECT TO THE ISSUERS’ AND THE TRUSTEE’S RIGHT PRIOR TO ANY SUCH OFFER, SALE OR TRANSFER PURSUANT TO CLAUSES (D), (E) OR (F) TO REQUIRE THE DELIVERY OF AN OPINION OF COUNSEL, CERTIFICATION AND/ OR OTHER INFORMATION SATISFACTORY TO EACH OF THEM.
+BY ITS ACQUISITION OF THIS NOTE, THE HOLDER THEREOF WILL BE DEEMED TO HAVE REPRESENTED AND WARRANTED THAT EITHER (1) NO PORTION OF THE ASSETS USED BY SUCH HOLDER TO ACQUIRE OR HOLD THIS NOTE CONSTITUTES THE ASSETS OF AN EMPLOYEE BENEFIT PLAN THAT IS SUBJECT TO TITLE I OF THE U.S.
+EMPLOYEE RETIREMENT INCOME SECURITY ACT OF 1974, AS AMENDED (“ERISA”), A PLAN,
+INDIVIDUAL RETIREMENT ACCOUNT OR OTHER ARRANGEMENT THAT IS SUBJECT TO SECTION 4975 OF THE U.S. INTERNAL REVENUE CODE OF 1986, AS AMENDED (THE “CODE”) OR PROVISIONS UNDER ANY OTHER FEDERAL, STATE, LOCAL, NON-U.S. OR OTHER LAWS OR REGULATIONS THAT ARE SIMILAR TO SUCH PROVISIONS OF ERISA OR THE CODE (COLLECTIVELY, “SIMILAR LAWS”), OR OF AN ENTITY WHOSE UNDERLYING ASSETS ARE CONSIDERED TO INCLUDE “PLAN ASSETS” OF ANY SUCH PLAN, ACCOUNT OR ARRANGEMENT, WITHIN THE MEANING OF 29 C.F.R.
+THE HOLDER OF THIS NOTE, BY ITS ACCEPTANCE HEREOF, AGREES ON ITS OWN BEHALF AND ON BEHALF OF ANY INVESTOR ACCOUNT FOR WHICH IT HAS PURCHASED NOTES, TO OFFER, SELL OR OTHERWISE TRANSFER SUCH NOTE, PRIOR TO THE DATE (THE “RESALE RESTRICTION TERMINATION DATE”) THAT IS 40 DAYS AFTER THE LATER OF THE ORIGINAL ISSUE DATE HEREOF AND THE DATE ON WHICH THIS NOTE (OR ANY PREDECESSOR OF SUCH NOTE) WAS FIRST OFFERED TO PERSONS OTHER THAN DISTRIBUTORS (AS DEFINED IN RULE 902 OF REGULATION S) IN RELIANCE ON REGULATION S, (A) TO THE ISSUER OR ANY SUBSIDIARY THEREOF, (B) PURSUANT TO A REGISTRATION STATEMENT THAT HAS BEEN DECLARED EFFECTIVE UNDER THE SECURITIES ACT, (C) FOR SO LONG AS THE NOTES ARE ELIGIBLE FOR RESALE PURSUANT TO RULE 144A UNDER THE SECURITIES ACT (“RULE 144A”), TO A PERSON IT REASONABLY BELIEVES IS A “QUALIFIED INSTITUTIONAL BUYER” AS DEFINED IN RULE 144A THAT PURCHASES FOR ITS OWN ACCOUNT OR FOR THE
+ACCOUNT OF A QUALIFIED INSTITUTIONAL BUYER TO WHOM NOTICE IS GIVEN THAT THE TRANSFER IS BEING MADE IN RELIANCE ON RULE 144A, (D) PURSUANT TO OFFERS AND SALES TO NON-U.S.
+PERSONS THAT OCCUR OUTSIDE THE UNITED STATES WITHIN THE MEANING OF REGULATION S UNDER THE SECURITIES ACT, (E) TO AN INSTITUTIONAL “ACCREDITED INVESTOR” WITHIN THE MEANING OF RULE 501(a)(1), (2), (3) OR (7) UNDER THE SECURITIES ACT THAT IS NOT A QUALIFIED INSTITUTIONAL BUYER AND THAT IS PURCHASING FOR ITS OWN ACCOUNT OR FOR THE ACCOUNT OF ANOTHER INSTITUTIONAL ACCREDITED INVESTOR, IN EACH CASE IN A MINIMUM PRINCIPAL AMOUNT OF NOTES OR (F) PURSUANT TO ANOTHER AVAILABLE EXEMPTION FROM THE REGISTRATION REQUIREMENTS OF THE SECURITIES ACT, SUBJECT TO THE ISSUERS’ AND THE TRUSTEE’S RIGHT PRIOR TO ANY SUCH OFFER, SALE OR TRANSFER PURSUANT TO CLAUSES (D), (E) OR (F) TO REQUIRE THE DELIVERY OF AN OPINION OF COUNSEL, CERTIFICATION AND/ OR OTHER INFORMATION SATISFACTORY TO EACH OF THEM.
+BY ITS ACQUISITION HEREOF, THE HOLDER HEREOF REPRESENTS THAT IT IS NOT A U.S.
+PERSON AND IS ACQUIRING THIS NOTE IN AN OFFSHORE TRANSACTION IN ACCORDANCE WITH REGULATION S UNDER THE SECURITIES ACT.
+BY ITS ACQUISITION OF THIS NOTE, THE HOLDER THEREOF WILL BE DEEMED TO HAVE REPRESENTED AND WARRANTED THAT EITHER (1) NO PORTION OF THE ASSETS USED BY SUCH HOLDER TO ACQUIRE OR HOLD THIS NOTE CONSTITUTES THE ASSETS OF AN EMPLOYEE BENEFIT PLAN THAT IS SUBJECT TO TITLE I OF THE U.S.
+EMPLOYEE RETIREMENT INCOME SECURITY ACT OF 1974, AS AMENDED (“ERISA”), A PLAN, INDIVIDUAL RETIREMENT ACCOUNT OR OTHER ARRANGEMENT THAT IS SUBJECT TO SECTION 4975 OF THE U.S. INTERNAL REVENUE CODE OF 1986, AS AMENDED (THE “CODE”) OR PROVISIONS UNDER ANY OTHER FEDERAL, STATE, LOCAL, NON-U.S. OR OTHER LAWS OR REGULATIONS THAT ARE SIMILAR TO SUCH PROVISIONS OF ERISA OR THE CODE (COLLECTIVELY, “SIMILAR LAWS”), OR OF AN ENTITY WHOSE UNDERLYING ASSETS ARE CONSIDERED TO INCLUDE “PLAN ASSETS” OF ANY SUCH PLAN, ACCOUNT OR ARRANGEMENT, WITHIN THE MEANING OF 29 C.F.R.
+THIS NOTE IS ISSUED WITH ORIGINAL ISSUE DISCOUNT FOR PURPOSES OF SECTION 1271 ET SEQ.
+A HOLDER MAY OBTAIN THE ISSUE PRICE, AMOUNT OF ORIGINAL ISSUE DISCOUNT, ISSUE DATE AND YIELD TO MATURITY FOR SUCH NOTE BY SUBMITTING A REQUEST FOR SUCH INFORMAITON TO THE ISSUERS AT THE FOLLOWING ADDRESS: NEIMAN MARCUS GROUP LTD INC., ONE MARCUS SQUARE, 1618 MAIN STREET, DALLAS, TX 75201, ATTENTION: LEGAL DEPARTMENT.
+“Commitment Letter” means that certain Backstop Commitment Letter, dated March 25, 2019, by and among the Sponsors and the Ad Hoc Committee of Unsecured Noteholders.
+“Nancy Transaction” means, collectively, (a) the formation of Nancy Holdings LLC, a Delaware limited liability company, (b) all designations prior to the
+“Original Indenture” means the Indenture, dated as of October 21, 2013, as supplemented by the First Supplemental Indenture, dated October 25, 2013 (as amended, supplemented, waived or otherwise modified) governing the 8.750%/9.500% PIK Toggle Notes due 2021 among Mariposa Merger Sub LLC and Borrower, Inc. as issuers, and U.S. Bank National Association, as trustee.
+“Releasing Party” means collectively, (a) the Stakeholder Releasing Parties and (b) the Company Releasing Parties.
+Neiman Marcus Group LTD LLC
+The Neiman Marcus Group LLC
+Mariposa Borrower, Inc.
+The NMG Subsidiary LLC
+c/o Ares Management
+2000 Avenue of the Stars, 12th Floor
+Los Angeles, CA 90067
+Facsimile: (310) 201-4170
+Attention: Dennis Gies; Eric Waxman; Andrew Paik
+Email: gies@aresmgmt.com; ewaxman@aresmgmt.com; apaik@aresmgmt.com
+Neiman Marcus Group LTD LLC
+One Marcus Square
+1618 Main Street
+Dallas, TX 75201
+Facsimile: (214) 743-7611
+Attention: Tracy M. Preston
+Kirkland & Ellis
+2029 Century Park East
+Los Angeles, CA 90067
+Facsimile: (310) 552-5900
+Attention: Philippa Bond, P.C.
+Wilmington Trust, National Association
+1100 North Market Street
+Wilmington, DE  19890
+New York, NY 10018
+Wilmington Trust, National Association
+1100 North Market Street
+Wilmington, DE  19890
+New York, NY 10018
+EACH OF THE ISSUERS, THE SUBSIDIARY GUARANTORS AND THE TRUSTEE HEREBY IRREVOCABLY WAIVES, TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, ANY AND ALL RIGHT TO TRIAL BY JURY IN ANY LEGAL PROCEEDING ARISING OUT OF OR RELATING TO THIS INDENTURE, THE NOTES, THE NOTES DOCUMENTS OR THE TRANSACTIONS CONTEMPLATED HEREBY OR THEREBY.
+NEIMAN MARCUS GROUP LTD LLC,
+as the Issuer
+MARIPOSA BORROWER, INC.,
+as Corporate Co-Issuer
+ THE NMG SUBSIDIARY LLC, as New Co-Issuer Subsidiary
+ THE NEIMAN MARCUS GROUP LLC, as LLC Co-Issuer
+BERGDORF GRAPHICS, INC.
+NM BERMUDA, LLC
+NM FINANCIAL SERVICES, INC.
+WORTH AVENUE LEASING COMPANY
+NEMA BEVERAGE CORPORATION
+NEMA BEVERAGE HOLDING CORPORATION
+NEMA BEVERAGE PARENT CORPORATION
+NMG SALON HOLDINGS LLC
+NMG TERM LOAN PROPCO LLC
+NMG NOTES PROPCO LLC
+MYT HOLDING CO.
+MYT INTERMEDIATE HOLDING CO.
+WILMINGTON TRUST, NATIONAL ASSOCIATION, as Trustee
+/s/ Hallie E. Field
+WILMINGTON TRUST, NATIONAL ASSOCIATION, as Notes Collateral Agent
+/s/ Hallie E. Field
+Neiman Marcus Group LTD LLC
+The Neiman Marcus Group LLC
+Mariposa Borrower, INC.
+The NMG Subsidiary LLC
+THE NEIMAN MARCUS GROUP LTD LLC, as the Issuer
+MARIPOSA BORROWER, INC., as Corporate Co-Issuer
+THE NMG SUBSIDIARY LLC, as New Co-Issuer Subsidiary
+THE NEIMAN MARCUS GROUP LLC, as LLC Co-Issuer
+WILMINGTON TRUST, NATIONAL ASSOCIATION
+Neiman Marcus Group LTD LLC, a Delaware limited liability company (the “Issuer”), and The Neiman Marcus Group LLC, a Delaware limited liability company (the “LLC Co-Issuer”), Mariposa Borrower, Inc., a Delaware corporation (the “Corporate Co-Issuer”), and The NMG Subsidiary LLC, a Delaware limited liability company (the “New Co-Issuer Subsidiary” and, together with the Corporate Co-Issuer and the LLC Co-Issuer and their successors and assigns under the Indenture hereinafter referred to, the “Co-Issuers” and, together with the Issuer, the “Issuers”) promise to pay interest on the principal amount of this Note at the rate per annum shown above.
+Initially, Wilmington Trust, National Association, duly organized and existing under the laws of the United States of America and having a Corporate Trust Office at 1100 North Market Street, Wilmington, Delaware, 19890 (“Trustee”), will act as Paying Agent and Registrar.
+Neiman Marcus Group LTD LLC
+The Neiman Marcus Group LLC
+Mariposa Borrower, Inc.
+The NMG Subsidiary LLC
+One Marcus Square
+1618 Main Street
+Dallas, TX 75201
+Facsimile: (214)-743-7611
+Attention: Tracy M. Preston
+Wilmington, DE  19890
+Reference is hereby made to the Indenture, dated as of June 7, 2019, as amended or supplemented from time to time (this “Indenture”), among Neiman Marcus Group LTD LLC, a Delaware limited liability company (the “Issuer”), and The Neiman Marcus Group LLC, a Delaware limited liability company (the “LLC Co-Issuer”), Mariposa Borrower, Inc., a Delaware corporation (the “Corporate Co-Issuer”), and The NMG Subsidiary LLC, a Delaware limited liability company (the “New Co-Issuer Subsidiary” and, together with the Corporate Co-Issuer and the LLC Co-Issuer, the “Co-Issuers” and, together with the Issuer, the “Issuers”),  the Subsidiary Guarantors party thereto, WILMINGTON TRUST, NATIONAL ASSOCIATION, as trustee (in such capacity, the “Trustee”) and WILMINGTON TRUST, NATIONAL ASSOCIATION, as collateral agent (in such capacity, the “Notes Collateral Agent”).
+ANNEX A TO CERTIFICATE OF TRANSFER
+(i)                                     o                                    144A Global Note (CUSIP [             ]), or
+(ii)                                  o                                    Regulation S Global Note (CUSIP [          ]), or
+(iii)                               o                                    IAI Global Note (CUSIP [           ]), or
+(i)                                     o                                    144A Global Note (CUSIP [             ]), or
+(ii)                                  o                                    Regulation S Global Note (CUSIP [           ]), or
+(iii)                               o                                    Unrestricted Global Note (CUSIP [             ]), or
+(iv)                              o                                    IAI Global Note (CUSIP [             ]), or
+Neiman Marcus Group LTD LLC
+The Neiman Marcus Group LLC
+Mariposa Borrower, Inc.
+The NMG Subsidiary LLC
+One Marcus Square
+1618 Main Street
+Dallas, TX 75201
+Facsimile: (214)-743-7611
+Attention: Tracy M. Preston
+Wilmington, DE  19890
+Reference is hereby made to the Indenture, dated as of June 7, 2019, as amended or supplemented from time to time (this “Indenture”), among Neiman Marcus Group LTD LLC, a Delaware limited liability company (the “Issuer”), and The Neiman Marcus Group LLC, a Delaware limited liability company (the “LLC Co-Issuer”), Mariposa Borrower, Inc., a Delaware corporation (the “Corporate Co-Issuer”), and The NMG Subsidiary LLC, a Delaware limited liability company (the “New Co-Issuer Subsidiary” and, together with the Corporate Co-Issuer and the LLC Co-Issuer, the “Co-Issuers” and, together with the Issuer, the “Issuers”), the Subsidiary Guarantors party thereto, WILMINGTON TRUST, NATIONAL ASSOCIATION, as trustee (in such capacity, the “Trustee”) and WILMINGTON TRUST, NATIONAL ASSOCIATION, as collateral agent (in such capacity, the “Notes Collateral Agent”).
+THIS [·] SUPPLEMENTAL INDENTURE, dated as of [·], 20[·] (this “Supplemental Indenture”), is by and among Neiman Marcus Group LTD LLC, a Delaware limited liability company (the “Issuer”), and The Neiman Marcus Group LLC, a Delaware limited liability company (the “LLC Co-Issuer”), Mariposa Borrower, Inc., a Delaware corporation (the “Corporate Co-Issuer”), and The NMG Subsidiary LLC, a Delaware limited liability company (the “New Co-Issuer Subsidiary” and, together with the Corporate Co-Issuer and the LLC Co-Issuer, the “Co-Issuers” and, together with the Issuer, the “Issuers”), the Subsidiary Guarantors, WILMINGTON TRUST, NATIONAL ASSOCIATION, as trustee (in such capacity, the “Trustee”) and WILMINGTON TRUST, NATIONAL ASSOCIATION, as collateral agent (in such capacity, the “Notes Collateral Agent”).
+Neiman Marcus Group LTD LLC
+One Marcus Square
+1618 Main Street
+Dallas, TX 75201
+Facsimile: (214)-743-7611
+Attention: Tracy M. Preston
+THE NEIMAN MARCUS GROUP LTD LLC, as the Issuer
+MARIPOSA BORROWER, INC., as Corporate Co-Issuer
+THE NMG SUBSIDIARY LLC, as New Co-Issuer Subsidiary
+THE NEIMAN MARCUS GROUP LLC, as LLC Co-Issuer
+WILMINGTON TRUST, NATIONAL ASSOCIATION, as Trustee
+WILMINGTON TRUST, NATIONAL ASSOCIATION, as Notes Collateral Agent
+Neiman Marcus Group LTD LLC
+The Neiman Marcus Group LLC
+Mariposa Borrower, Inc.
+The NMG Subsidiary LLC
+One Marcus Square
+1618 Main Street
+Dallas, TX 75201
+Facsimile: (214)-743-7611
+Attention: Tracy M. Preston
+Wilmington, DE  19890
+2 to the Credit Agreement, dated as of June 7, 2019, and as further amended, amended and restated, supplemented, extended, renewed or otherwise modified from time to time, the “Amended Credit Agreement”), by and among Mariposa Intermediate Holdings LLC, Neiman Marcus Group LTD LLC, the Lenders party thereto from time to time, and Credit Suisse AG, Cayman Islands Branch, as Administrative Agent and Collateral Agent and (ii) that certain indenture, dated as of June 7, 2019, among Wilmington Trust National Association, the issuers party thereto and the guarantors party thereto from time to time (as amended, restated, supplemented or otherwise modified from time to time, the “Third Lien Notes Indenture”).
+The undersigned 2019 Extending Term Lenders (the “Calling Lenders”) hereby exercise the Call Right pursuant to Section 2.18 of the Amended Credit Agreement and in accordance with Section 5.9 of the Third Lien Notes Indenture, which Call Right shall be consummated on                   , 20   or such other date as the Calling Lenders and the Borrowers may agree, subject to the terms of the Amended Credit Agreement and the Third Lien Notes Indenture (the “Call Date”).
+[FORM OF PROPCO GRANT]
+THIS SUBLEASE (this “Sublease”) is made and entered into as of the      day of              , 2019, by and between [NMG NOTES PROPCO LLC](7)/[NMG TERM LOAN PROPCO LLC](8), a Delaware limited liability company (hereinafter called “Sublandlord”), and                       , a                       (hereinafter called “Subtenant”);
+WHEREAS, Subtenant was party as tenant to that certain [lease, sublease or sub-sublease], dated [   ] with                   , a                as landlord (“Landlord”), as more particularly described on Exhibit A annexed hereto and made a part hereof  (hereinafter called the “Prime Lease”);
+Attention: Tracy M. Preston, Esq.
+Attention: Tracy M. Preston, Esq.
+SUBTENANT:
+[NMG NOTES PROPCO LLC] /[NMG TERM LOAN PROPCO LLC]

@@ -1,0 +1,50 @@
+No Waiver
+“Resale Restriction Termination Date” has the meaning specified in Section 2.07(d).
+(b)           there is no Market Disruption Event.
+The Notes shall mature on June 1, 2015, unless earlier exchanged or repurchased in accordance with the provisions hereof.
+The Registrar, Paying Agent or Exchange Agent may resign at any time upon written notice to the Company and the Trustee;  provided, however, that the Trustee may resign as Paying Agent, Registrar or Exchange Agent only if the Trustee also resigns as Trustee in accordance with Section 7.07.
+(ii)           Notwithstanding any other provision in this Indenture, no Global Note may be exchanged in whole or in part for Notes registered, and no transfer of a Global Note in whole or in part may be registered, in the name of any Person other than the Depositary or a nominee thereof unless (A) the Depositary (x) has notified the Company that it is unwilling or unable to continue as Depositary for such Global Note and a successor depositary is not appointed within 90 calendar days or (y) has ceased to be a clearing agency registered under the Exchange Act, and a successor Depositary has not been appointed by the Company within 90 calendar days, or (B) an Event of Default in respect of the Notes has occurred and is continuing; or (C) the Company, at its option, notifies the Trustee in writing that it no longer wishes to have all the Notes represented by Global Notes.
+(vii)         At such time as all interests in a Global Note have been repurchased pursuant to Article III or exchanged pursuant to Article XI, cancelled or exchanged for Notes in certificated form, such Global Note shall, upon receipt thereof, be cancelled by the Trustee in accordance with standing procedures and instructions existing between the Depositary and the custodian for the Global Note.
+At any time prior to such cancellation, if any interest in a Global Note is repurchased pursuant to Article III or exchanged pursuant to Article XI, cancelled or exchanged for Notes in certificated form, the principal amount of such Global Note shall, in accordance with the standing procedures and instructions existing between the Depositary and the custodian for the Global Note, be appropriately reduced.
+Section 2.11           Cancellation.
+The Trustee and no one else shall cancel all Notes surrendered for registration of transfer, exchange,
+No Notes may be purchased at the option of Holders upon a Fundamental Change if the principal amount of the Notes has been accelerated, and such acceleration has not been rescinded, on or prior to such date.
+(d)           Withdrawal of Purchase Notice.
+If the Paying Agent holds (or, if the Company or a Wholly Owned Subsidiary of the Company is acting as the Paying Agent, has segregated and holds in trust) cash or securities sufficient to pay the Fundamental Change Purchase Price of the Notes for which a Fundamental Change Purchase Notice has been tendered and not withdrawn in accordance with this Indenture on the Fundamental Change Purchase Date, then as of such Fundamental Change Purchase Date, (i) such Notes will cease to be outstanding and interest will cease to accrue thereon (whether or not book-entry transfer of such Notes is made or such Notes have been delivered to the Paying Agent) and (ii) all other rights of the Holders in respect thereof will terminate (other than the right to receive the Fundamental Change Purchase Price and previously accrued and unpaid interest upon delivery or book-entry transfer of such Notes in the event that the Fundamental Change Purchase Date is after a Regular Record Date and on or prior to the Interest Payment Date to which it relates).
+(ii)           immediately after giving effect to such transaction, no Default or Event of Default shall have occurred and be continuing; and
+When a Default is waived, it is deemed cured, but no such waiver shall extend to any subsequent or other Default or impair any consequent right.
+(iv)          the Trustee has not complied with the request within 60 days after receipt of the request and the offer of security or indemnity; and
+On the 366th day after the occurrence of such Event of Default (if the Event of Default is not cured or waived prior to such 366th day), such
+(a)  The Trustee may resign at any time by so notifying the Company.
+The Company shall remove the Trustee if:
+(i)            the Trustee fails to comply with Section 7.09;
+(ii)           the Trustee is adjudged bankrupt or insolvent;
+(iv)          the Trustee otherwise becomes incapable of acting.
+(b)           If the Trustee resigns, is removed by the Company or by the Holders of a majority in principal amount of the Notes and such Holders do not reasonably promptly appoint a successor Trustee, or if a vacancy exists in the office of Trustee for any reason (the Trustee in such event being referred to herein as the retiring Trustee), the Company shall promptly appoint a successor Trustee.
+Thereupon the resignation or removal of the retiring Trustee shall become effective, and the successor Trustee shall have all the rights, powers and duties of the Trustee under this Indenture.
+(d)           If a successor Trustee does not take office within 60 days after the retiring Trustee resigns or is removed, the retiring Trustee or the Holders of 10% in principal amount of the Notes may petition at the expense of the Company any court of competent jurisdiction for the appointment of a successor Trustee.
+(e)           If the Trustee fails to comply with Section 7.09, unless the Trustee’s duty to resign is stayed as provided in Section 310(b) of the TIA, any Holder who has been a bona fide holder of a Note for at least six months may petition any court of competent jurisdiction for the removal of the Trustee and the appointment of a successor Trustee.
+(a)  When (i) all outstanding Notes (other than Notes replaced or paid pursuant to Section 2.08) have been canceled or delivered to the Trustee for cancellation or (ii) all outstanding Notes have become due and payable, whether at Stated Maturity or as a result of receipt of Fundamental Change Purchase Notices or upon exchange or otherwise in respect of all outstanding Notes and the Company irrevocably deposits with the Trustee funds in an amount sufficient to pay the principal of and interest on the outstanding Notes when due at Stated Maturity or upon any Fundamental Change Purchase Date, including interest thereon to the Maturity Date or Fundamental Change Purchase Date (other than Notes replaced or paid pursuant to Section 2.08), and/or the cash portion of the Exchange Consideration and OI Inc. has deposited the applicable number of shares of OI Inc. Common Stock, if any, and if in each case the Company pays all other sums payable hereunder by the Company, then this Indenture shall, subject to Section 8.01(b), cease to be of further effect.
+(b)           Notwithstanding clauses (a) above, the Company’s obligations in Sections 2.04, 2.05, 2.06, 2.07, 2.08, 2.09, 7.06, 7.07 and in this Article VIII shall survive until the Notes have been paid in full.
+However, any such Holder or subsequent Holder may revoke the consent or waiver as to such Holder’s Note or portion of the Note if the Trustee receives the notice of revocation before the date on which the Trustee receives an Officers’ Certificate from the Company certifying that the percentage of consents have been received.
+No such consent shall be valid or effective for more than 120 days after such record date.
+(e)           Exchange on or after March 1, 2015.
+5.9202
+1.3014
+June 1, 2011
+5.7277
+3.3470
+2.2123
+June 1, 2012
+June 1, 2013
+2.3980
+June 1, 2014
+4.4963
+June 1, 2015
+Any adjustment made pursuant to this Section 11.04(b) shall become effective immediately after 9:00 a.m., New York City time, on the Ex-Dividend Date of such distribution.
+Any adjustment made pursuant to the preceding paragraph of this Section 11.04(c) shall become effective immediately after 9:00 a.m., New York City time, on the Ex-Dividend Date for such distribution.
+If one or more Trading Days of the Cash Settlement Averaging Period for any Note occurs on or after the Ex-Dividend Date for a Spin-Off, but on or prior to the first Trading Day in the Valuation Period for such Spin-Off, such Cash Settlement Averaging Period will be suspended on the first such Trading Day and will resume immediately after the first Trading day of the Valuation Period for such Spin-Off and the reference in the above definition of “FMV” to “ten” shall be deemed replaced with a reference to “one.”
+Any adjustment made pursuant to this Section 11.04(d) shall become effective immediately after 9:00 a.m., New York City time, on the Ex-Dividend Date for such dividend or distribution.
+If one or more Trading Days of the Cash Settlement Averaging Period for any Note occurs after the Expiration Date for any Tender or Exchange Offer, but on or prior to the Trading Day next succeeding the Expiration Date for such tender or exchange offer, such Cash Settlement Averaging Period will be suspended on the first such Trading Day and will resume immediately after the first Trading Day next succeeding the Expiration Date for such tender or exchange offer and the reference in the above definition of “SP “ to “ten” shall be deemed replaced with a reference to “one.”
+(d)           of the voluntary or involuntary dissolution, liquidation or winding up of the Company or OI Inc.;
+(if less than all):

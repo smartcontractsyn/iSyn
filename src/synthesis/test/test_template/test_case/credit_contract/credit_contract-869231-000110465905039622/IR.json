@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "WILLIAMS SCOTSMAN"
+    ],
+    "BuyerName": [
+        "Lenders"
+    ],
+    "EffectiveTime": [
+        "June 28, 2005,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "December 31"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Lenders"
+            ],
+            "To": [
+                "WILLIAMS SCOTSMAN"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime-2",
+                "disabled": false
+            },
+            "PurchasePrice": 800000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

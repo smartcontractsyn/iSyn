@@ -1,0 +1,41 @@
+{
+"Contract category":"EMPLOYMENT AGREEMENT",    
+"SellerName": [
+        "Warren S. Orlando"
+    ],
+    "BuyerName": [
+        "1st United Bancorp, Inc."
+    ],
+    "EffectiveTime": [
+        " January 24, 2012"
+    ],
+    "CloseTime": [
+        " January 24, 2015"
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "1st United Bancorp, Inc."
+            ],
+            "To": [
+                "Warren S. Orlando"
+            ],
+            "PurchasePrice": "62500",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

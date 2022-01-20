@@ -1,0 +1,42 @@
+ContractCategory: SecurityPurchaseAgreement;
+
+Entity: {
+    SellerNames: ['TEGO CYBER INC.'];
+    BuyerNames: ['TEGO CYBER INC.'];
+};
+
+EffectiveTime: April 28, 2021,;
+CloseTime: "";
+ExpiryTime: ;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: true;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: ['TEGO CYBER INC.'];
+         To: ['TEGO CYBER INC.'];
+         Price: {
+             Amount: 33507.5,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: false;
+    OtherConstraint: true;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};

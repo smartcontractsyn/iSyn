@@ -1,0 +1,158 @@
+Dated as of August 13, 2018
+3.15
+3.20
+3.23
+3.24
+5.15
+5.3(a)
+(x)                                 minus the Escrow Amount.
+For the avoidance of doubt, in the event that the per-share exercise price under any Named Executive Cash-Settled Option is equal to or greater than the Per Share Amount, such Option shall be cancelled as of the Effective Time without payment therefor and shall have no further force or effect.
+(c)                                  No Further Rights.
+(b)                                 No Further Rights.
+(d)                                 If PubCo and the Stockholders’ Representative are unable to resolve the disputed items set forth in the Notice of Disagreement within thirty (30) days following PubCo’s receipt of such Notice of Disagreement (or such longer period as PubCo and the Stockholders’ Representative may mutually agree in writing), following notice of such dispute, such dispute shall be submitted to, and all issues having a bearing on such dispute shall be resolved by, (i) the dispute resolution group of Alvarez & Marsal Holdings, LLC, or (ii) in the event such professional services firm is (x) unable or unwilling to take such assignment or (y) not independent (due to such
+(d)                                 no Group Company has taken any action or omitted to take an action, which, if taken or omitted to be taken after the date of this Agreement, would require the consent of Parent in accordance with Section 5.1(b)(i) through Section 5.1(b)(v), Section 5.1(b)(ix) through Section 5.1(b)(xi), Section 5.1(b)(xiii), Section 5.1(b)(xvii) and Section 5.1(b)(xxii).
+(iii)                               any employment or consulting Contract with any current or former employee or individual service provider of any Group Company that (A) provides annual compensation in excess of $500,000 or (B) is not terminable at-will and without any liability to any Group Company (other than standard employee confidentiality or non-disclosure agreements) or that cannot be terminated without the payment of severance or similar separation payments (except to the extent required by applicable Law);
+(b)                                 The Company Material Contracts (except those that are canceled, rescinded or terminated after the date hereof in accordance with their terms) are in full force and effect in all
+None of the Group Companies has given notice of its intent to terminate, modify, amend or otherwise materially alter the terms and conditions of any Company Material Contract or has received any such written notice from any other party thereto, in each case, other than in the connection with the scheduled end or termination or other non-breach related expiration of such Contract.
+(vi)                              other than in the Ordinary Course, (A) amend in any adverse respect, (B) terminate or extend any Company Material Contract or (C) enter into a Contract which, had it been entered into prior to the date hereof, would have been a Company Material Contract;
+(viii)                        (A) grant or agree to grant to any employee or other independent contractor of the Company or any of the Company Subsidiaries, who has annual compensation in excess of $500,000, any increase in wages or bonus, severance, profit sharing, retirement, insurance or other compensation or benefits, or (B) adopt or establish any new compensation or employee benefit plans, programs, policies, agreements or arrangements, or amend, modify, terminate, or agree to amend, modify or terminate any existing Company Benefit Plans, or (C) accelerate the time of payment, vesting or funding of any compensation or benefits under any Company Benefit Plan (including any plan or arrangement that would be a Company Benefit Plan if it was in effect on the date hereof), or (D) make or agree to make any bonus or incentive payments to any individual outside of the currently effective bonus plan as has been made available to Parent, or (E) enter into
+the HSR Act and will take all other actions necessary to cause the expiration or termination of the applicable waiting periods as soon as practicable.
+Neither PubCo nor any of its Affiliates shall (i) amend any Tax Return with respect to any Tax period (or portion thereof) ending on or before the Closing Date, or (ii) amend, refile, revoke or otherwise modify any Tax election of any Group Company with respect to any Tax period (or portion thereof) ending on or before the Closing Date, in each case, without the prior written consent of the Stockholders’ Representative, which consent shall not be unreasonably withheld, conditioned or delayed.
+The agreements, covenants and obligations pursuant to Section 5.9(c) and (g) shall terminate upon the termination of the Tax Receivable Agreement.
+(a)                                 From the date of this Agreement until the earlier of (x) the Effective Time or (y) the date on which this Agreement is terminated, other than in connection with the
+At or prior to the Effective Time, the Company shall terminate all Contracts set forth on Schedule 5.15 without continuing liability to or obligations of the Parent Parties or the Group Companies.
+The Redemption Date shall be thirty (30) days following the Closing Date or, if such thirtieth (30th) day is not a Business Day, the next succeeding Business Day thereafter.
+The applicable waiting periods under the HSR Act shall have expired or been terminated;
+to be fulfilled at Closing, but subject to the satisfaction or waiver of such conditions); provided, that, if the Marketing Period has not ended at the time of the satisfaction or waiver of the conditions to the obligations of the Parties set forth in Article VI (other than those conditions that by their nature are to be fulfilled at Closing), the Closing shall occur no earlier than that date that is the earlier of (a) the last Business Day of the calendar month that is at least three (3) Business Days following the final day of the Marketing Period (subject to the satisfaction or waiver of all conditions set forth in Article VI as of the date determined by this Section 7.1 (other than those conditions that by their terms are to be satisfied by actions taken at the Closing, but subject to the satisfaction (or waiver in accordance with this Agreement by the party having the benefit of the applicable condition) of such conditions at the Closing)) and (b) a date during the Marketing Period to be specified by Parent or (ii) on such other date as the Parties may agree in writing; provided, further, that, if, pursuant to the foregoing clause (i), the Closing is scheduled to occur on or after the seventh (7th) day prior to the date on which financial statements for the immediately preceding quarter would be required to be included in the Closing Form 8-K (and the financial statements for such immediately preceding quarter were not included in the Registration Statement), in no event shall Closing occur prior to the fifth (5th) Business Day following delivery by the Company of financial statements for the most recently completed quarter and year-to-date period and the accompanying Management’s Discussion & Analysis of Financial Condition and Results of Operations, in each case in the form required by Form 10 under the Securities Act.
+This Agreement may be terminated at any time at or prior to the Closing:
+(b)                                 by the Parent Parties if there has been a breach of any representation, warranty, covenant or other agreement made by the Company in this Agreement, or any such representation and warranty shall have become untrue or inaccurate after the date of this Agreement, in each case which breach, untruth or inaccuracy (i) would reasonably be expected to result in Section 6.3(a) or Section 6.3(b) not being satisfied as of the Closing Date (a “Terminating Company Breach”), and (ii) shall not have been cured within twenty (20) days after written notice from the Parent Parties of such Terminating Company Breach is received by the Company (such notice to describe such Terminating Company Breach in reasonable detail), or which breach, untruth or inaccuracy, by its nature, cannot be cured prior to the Outside Date; provided, that no Parent Party is then in material breach of any of their respective representations, warranties, covenants or other obligations under this Agreement, which breach would give rise to a failure of a condition set forth in Section 6.2(a) or Section 6.2(b); provided, further, that the twenty (20) day
+cure period for the Company to cure a Terminating Company Breach set forth in subclause (ii) above shall not apply if such Terminating Company Breach is a result of a breach of Section 7.1;
+(c)                                  by the Company if there has been a breach of any representation, warranty, covenant or other agreement made by any Parent Party in this Agreement, or any such representation and warranty shall have become untrue or inaccurate after the date of this Agreement, in each case which breach, untruth or inaccuracy (i) would reasonably be expected to result in Section 6.2(a) or Section 6.2(b) not being satisfied as of the Closing Date (a “Terminating Parent Breach”), and (ii) shall not have been cured within twenty (20) days after written notice from the Company of such Terminating Parent Breach is received by the Parent Parties (such notice to describe such Terminating Parent Breach in reasonable detail), or which breach, untruth or inaccuracy, by its nature, cannot be cured prior to the Outside Date; provided, that the Company is not then in material breach of any of its representations, warranties, covenants or other obligations under this Agreement, which breach would give rise to a failure of a condition set forth in Section 6.3(a) or Section 6.3(b); provided, further, that the twenty (20) day cure period for the Parent Parties to cure a Terminating Parent Breach set forth in subclause (ii) above shall not apply if such Terminating Parent Breach is a result of a breach of Section 7.1;
+(d)                                 by written notice by any Party if the Closing has not occurred on or prior to December 31, 2018 (the “Outside Date”); provided, that, the right to terminate this Agreement pursuant to this Section 8.1(d) shall not be available to any Party (the “Breaching Party”) whose material breach of any of its representations, warranties, covenants or other obligations under this Agreement is the primary cause or resulted in the failure of the Closing to occur on or before the Outside Date (provided that from and after the Outside Date, the non-Breaching Party shall have 60 days to commence a legal proceeding for specific performance of this Agreement and (x) if such legal proceeding is not commenced by the end of such 60 day period or (y) there is a final and non-appealable judgment by a Governmental Authority of competent jurisdiction denying a claim for specific performance by the non-Breaching Party, the Breaching Party shall have the right to terminate this Agreement pursuant to the terms and conditions of this Section 8.1(d));
+(f)                                   by Parent or the Company if (x) the approval of the Transaction Proposals is not obtained at the Parent Common Stockholders Meeting (including any adjournments thereof), (y) the Parent Common Stockholders Meeting is not held, or (z) any of the conditions set forth in Section 6.1(d) through Section 6.1(g) fail to be satisfied, in each case of clauses (x) through (z), by one (1) Business Day prior to the Outside Date, provided that, with respect to the failure of the condition set forth in Section 6.1(d), if the Company’s breach of or failure to perform its covenants, undertakings or other obligations hereunder is the primary cause or resulted in the failure of such condition to be satisfied, the Company shall not be permitted to terminate this Agreement on account of such failure under this Section 8.1(f);
+(h)                                 by the Company if (i) all of the conditions set forth in Section 6.1 and Section 6.3 have been satisfied on the date that the Closing should have been consummated pursuant to Section 7.1 (other than the conditions set forth in Section 6.1(g) and those conditions that by their nature are to be fulfilled at Closing were the Closing Date to occur on the date specified in Section 7.1 and are capable of being satisfied on such date), (ii) the Company has confirmed in an irrevocable notice to Parent that all of the conditions set forth in Section 6.2 (other than those conditions that by their nature are to be fulfilled at Closing were the Closing Date to occur on the date specified in Section 7.1 and are capable of being satisfied on such date) have been satisfied or waived and the Company stands ready, willing and able to consummate the Closing on such date and (iii) within three (3) Business Days after the Company has delivered the written notice contemplated by clause (ii) to Parent, Parent has failed to consummate the Closing;
+(i)                                     by Parent if (i) all of the conditions set forth in Section 6.1 and Section 6.2  have been satisfied on the date that the Closing should have been consummated pursuant to  Section 7.1 (other than those conditions that by their nature are to be fulfilled at Closing were the Closing Date to occur on the date specified in Section 7.1 and are capable of being satisfied on such date), (ii) Parent has confirmed in an irrevocable notice to the Company that all of the conditions set forth in Section 6.3 (other than those conditions that by their nature are to be fulfilled at Closing were the Closing Date to occur on the date specified in Section 7.1 and are capable of being satisfied on such date) have been satisfied or waived and Parent stands ready, willing and able to consummate the Closing on such date and (iii) within three (3) Business Days after Parent has delivered the written notice contemplated by clause (ii) to the Company, the Company has failed to consummate the Closing; or
+In the event of the termination of this Agreement pursuant to Section 8.1 by the Parent Parties, on the one hand, or the Company, on the other hand, written notice thereof shall forthwith be given to the other parties hereto specifying the provision hereof pursuant to which such termination is made, and this Agreement shall be terminated and become void and have no effect, and there shall be no liability hereunder on the part of any of the Parent Parties or the Company, except that this Section 8.2, Section 5.6 (Public Announcements), Section 9.1 (Fees and Expenses), Section 9.2 (Notices), Section 9.3 (Severability), Section 9.7 (Consent to Jurisdiction, Etc.
+), Section 9.9 (Governing Law), Section 9.16 (No Recourse), and Section 9.19 (Trust Account Waiver) shall survive any termination of this Agreement.
+(b)                                 Notwithstanding Section 9.1(a), in the event that there is a valid termination of this Agreement (x) by the Company pursuant to Section 8.1(c), Section 8.1(e), Section 8.1(g) or Section 8.1(h), (y) by Parent or the Company pursuant to Section 8.1(f) or Section 8.1(g), or (z) by Parent pursuant to Section 8.1(d) if at the time of such termination the Company could have terminated this Agreement pursuant to Section 8.1(e), Section 8.1(f) or Section 8.1(g), then, Parent shall reimburse the Company for the Company’s and its Affiliates’ out-of-pocket fees, costs and expenses which are documented and actually incurred in connection with this Agreement and the transactions contemplated hereby prior to the date of such termination, up to a maximum amount of $1,500,000 (the “Company Expense Reimbursement”).
+(b)                                 Notwithstanding anything to the contrary in this Agreement (including Section 9.10(a) above), the Parties hereby acknowledge and agree that the Company shall be entitled to specific performance to cause Parent and PubCo to cause the Parent Parties to effect the Closing in accordance with Section 7.1, in each case, only if: (i) all conditions in Section 6.1 and Section 6.3 have been satisfied or waived (other than those conditions that by their nature are to be fulfilled at Closing, but subject to the satisfaction or waiver of such conditions) and Parent and/or PubCo fails to consummate the Closing by the date the Closing is required to have occurred pursuant to Section 7.1), (ii) the Debt Financing contemplated by the Debt Commitment Letter to be funded at Closing (if any) has been funded or will be funded at the Closing (and the Debt Financing to be funded after the Closing for the purpose of the Existing Notes Refinancing is not subject to any event of default or unsatisfied condition which would permit the Lenders not to fund all or any portion of the Debt Financing as contemplated by the Debt Commitment Letter), (iii) the condition in Section 6.1(g) has been or would be satisfied at the Closing, (iv) the Company has confirmed in an irrevocable written notice to Parent that, if specific performance is granted, the Closing will occur in accordance with this Agreement, and (v) Parent and PubCo have failed to consummate the Closing within three (3) Business Days following receipt of notice contemplated by clause (iv).
+For the avoidance of doubt, in no event shall the exercise of the Company’s or Stockholders’ right to seek specific performance pursuant to this Section 9.10, reduce, restrict or otherwise limit the Company’s right to terminate this Agreement and be paid the Company Expense Reimbursement as set forth in Section 9.1(b).
+The Group Companies and the Equity Holders further acknowledge that, if the transactions contemplated by this Agreement (or, upon termination of this Agreement, another Business Combination) are not consummated by July 24, 2019, Parent will be obligated to return to its stockholders the amounts being held in the Trust Account, unless such date is otherwise extended.
+This paragraph will survive the termination of this Agreement for any reason.
+Notwithstanding the foregoing, the Marketing Period will end on any earlier date on which the Debt Financing is obtained.
+2.12(d)
+5.14(a)
+6.2(d)
+9.13(a)
+2.3(a)(iii)
+5.20(c)
+5.20(c)
+8.1(d)
+2.12(b)
+2.12(b)
+2.1(a)(ii)
+2.1(a)(iii)
+2.12(b)
+2.12(b)
+6.3(c)
+9.1(b)
+3.12(a)
+5.20(a)
+6.2(d)
+2.1(a)(ii)
+2.2(a)(iii)
+2.1(a)(ii)
+2.1(a)(iii)
+2.1(a)(ii)
+2.3(b)
+3.5(b)
+4.6(a)
+3.6(a)
+3.24(b)(iv)
+3.16(b)(v)
+3.9(c)
+3.9(b)
+Lock-up Period
+6.2(d)
+2.2(a)
+2.12(a)
+2.7(b)(ii)
+2.7(a)(ii)
+2.12(c)
+2.7(a)(i)
+8.1(d)
+6.2(c)
+2.9(a)
+4.3(c)
+4.6(b)
+2.6(b)(i)
+9.20
+3.16(b)(v)
+2.12(b)
+5.20(d)(iii)
+4.6(a)
+5.20(a)
+5.3(a)
+Terminating Company Breach
+8.1(b)
+Terminating Parent Breach
+8.1(c)
+4.6(b)
+4.6(b)
+2.2(b)(ii)
+3.18(a)
+4.17(a)
+4.17(a)
+4.17(a)
+4.17(a)
+2.7(a)(ii)
+9.20
+5.1(b)(xiii)
+Please note that if the Merger is not consummated, your Certificates, if any, and this Letter of Transmittal will be returned to you, and this Letter of Transmittal will be void and of no force and effect.
+A surrender will not be deemed to have been made until all irregularities have been cured or waived.
+WHEREAS, the parties to the Existing Registration Rights Agreement wish to terminate such agreement and enter into this Agreement with respect to the Common Stock and Warrants to purchase Common Stock (“Warrants”);
+Notwithstanding the provisions of subsection 2.1.1 above or any other part of this Agreement, a Registration pursuant to a Demand Registration shall not count as a Registration (i) unless and until the Registration Statement filed with the Commission with respect to a Registration pursuant to a Demand Registration has been declared effective by the Commission and (ii) the Company has complied with all of its obligations under this Agreement with respect thereto; provided, further, that if, after such Registration Statement has been declared effective, an offering of Registrable Securities in a Registration pursuant to a Demand Registration is subsequently interfered with by any stop order or injunction of the Commission, federal or state court or any other governmental agency the Registration Statement with respect to such Registration shall be deemed not to have been declared effective, unless and until, (i) such stop order or injunction is removed, rescinded or otherwise terminated, and the Holders of a majority of the Registrable Securities participating in the Registration elect to continue with such Registration and accordingly notify the Company in writing, but in no event later than five (5) days of such removal, rescission or termination, of such election; provided, further, that the Company shall not be obligated or required to file another Registration Statement until the Registration Statement that has been previously filed with respect to a Registration pursuant to a Demand Registration becomes effective or is subsequently terminated.
+2.1.5                     Demand Registration Withdrawal.
+Demanding Holders and Requesting Holders shall have the right to withdraw all or a portion of their Registrable Securities from a Registration pursuant to a Demand Registration for any or no reason whatsoever upon written notification to the Company and the Underwriter or Underwriters (if any) of their intention to withdraw such Registrable Securities from such Registration (x) in the case of a Demand Registration not involving an Underwritten Offering, prior to the effectiveness of the applicable Registration Statement or (y) in the case of any Demand Registration involving an Underwritten Offering, prior to the pricing of such Underwritten Offering.
+Any Holder of Registrable Securities shall have the right to withdraw from a Piggyback Registration for any or no reason whatsoever
+Any Holder of Shelf Registrable Securities shall have the right to withdraw all or a portion of their Shelf Registrable Securities from a Shelf Offering for any or no reason whatsoever upon written notification to the Company and the Underwriter or Underwriters (if any) of his, her or its intention to withdraw such Shelf Registrable Securities from such Shelf Offering prior to (x) in the case of a Shelf Offering not involving an Underwritten Offering, the effectiveness of the applicable Registration Statement or (y) in the case of any Shelf Registration involving an Underwritten Offering, prior to the pricing of such Underwritten Offering.
+6.1                               Notices.
+Email:                                                            swolkon@thl.com
+Email:                                                            richard.campbell@kirkland.com
+6.2.5                     Any transfer or assignment made other than as provided in this Section 6.2 shall be null and void.
+This Agreement shall terminate on the date when no Registrable Securities are outstanding.
+(1)
+(2)
+(d)                                 If a Nominee is not appointed or elected to the Board because of such person’s death, disability, disqualification, withdrawal as a nominee or for other reason is unavailable or unable to serve on the Board or is otherwise not elected or appointed to the Board, the Shareholder shall be entitled to designate promptly another Nominee and the director position for which the original Nominee was nominated shall not be filled pending such designation.
+(e)                                  Upon any decrease in the number of directors that the Shareholder is entitled to designate for nomination to the Board pursuant to Section 1(b), the Shareholder shall take all actions within its power to cause the appropriate number of Nominees to offer to tender their resignations; provided that, notwithstanding the foregoing, no Nominee shall be required  to resign prior to the first annual meeting of stockholders of the Company following the date of this Agreement (the “First Annual Meeting”).
+(b)                                 Resignation; Removal; New Escrow Agent.
+If a Successor Escrow Agent has not been appointed and has not accepted such appointment by the end of the thirty (30) calendar day period commencing upon the receipt of the notice of resignation by PubCo and the Stockholders’ Representative, the Escrow Agent shall continue to act as the Escrow Agent until a Successor Escrow Agent is appointed and qualified to act as the Escrow Agent, provided that the Escrow Agent may
+This provision will survive the resignation or removal of the Escrow Agent, or the termination of this Agreement.
+This Agreement will terminate when all of the Escrow Fund has been distributed in accordance with this Agreement.
+(a)                                 Notices.
+Notwithstanding anything to the contrary set forth in this section, in accordance with the Merger Agreement, the Stockholders’ Representative may resign at any time and may be removed by the vote of the Majority Stockholders.
+Cancellation of Old Shares.
+Unless earlier terminated by the parties hereto, this Agreement shall terminate either (a) upon the exchange of all Old UHS Shares and all Old FSAC Shares and confirmation of payment of all cash entitlements pursuant to the Merger Agreement by the Company or (b) at the option of the Company or the Agent.
+Upon any such termination, you shall be relieved and discharged of any further responsibilities with respect to your duties hereunder.
+Sections 16, 17 and 20 hereof shall survive any termination of this Agreement.
+Fees.
+You further acknowledge that, if the Transactions (or, upon termination of the Merger Agreement, another Business Combination) are not consummated by July 24, 2019, FSAC will be obligated to return to its stockholders the amounts being held in the Trust Account, unless such date is otherwise extended.
+the liquidation or dissolution of PubCo.
+“Early Termination Date” means the date of an Early Termination Notice for purposes of determining the Early Termination Payment.
+If the parties, for any reason, are unable to successfully resolve the issues raised in the Objection Notice within thirty (30) calendar days after receipt by the Company of an Objection Notice, the Company and the
+This Agreement shall terminate on the date on which all required Tax Benefit Payments have been made under this Agreement.
+Early Termination and Breach of Agreement.
+(a)                                 With the written approval of a majority of the board of directors of PubCo, the Company may terminate this Agreement with respect to all amounts payable to the Sellers at any time by causing the Company to pay to the Sellers their Pro Rata Percentage (as defined in the Merger Agreement) of the Early Termination Payment; provided, however, that this Agreement shall terminate only upon the receipt of the entire Early Termination Payment by the Sellers.
+(c)                                  In the event that (x) the Company breaches any of its material obligations under this Agreement, whether as a result of failure of the Company to make any payment when due or failure to honor any other material obligation required hereunder or (y) a case is commenced under the Bankruptcy Code against PubCo, Parent or the Company and is not dismissed in sixty (60) days, then, in the case of clause (x) upon notice from the Company and in the case of clause (y) automatically, all obligations hereunder shall be accelerated and such obligations shall be calculated as if an Early Termination Notice had been delivered on the date of such event and shall
+Early Termination Notice.
+If the parties, for any reason, are unable to successfully resolve the issues raised in such notice within thirty (30) calendar days after receipt by the Company of the Material Objection Notice, the Stockholders’ Representative and the Company shall employ the Reconciliation Procedures.
+(h)                                 If JAMS is unable or unwilling to commence arbitration with regard to any such Dispute within thirty (30) calendar days after the parties have met the requirements for commencement as set forth in Rule 5 of the JAMS Comprehensive Arbitration Rules and Procedures, then the Dispute shall be resolved by binding arbitration in accordance with the Commercial Arbitration Rules of the American Arbitration Association (the “AAA”) then in effect.
+If the AAA is unable or unwilling to commence such arbitration within thirty (30) calendar days after the parties have met the requirements for such commencement set forth in the aforementioned rules, then either party may seek resolution of such Dispute through litigation in accordance with Section 6.4 hereof.
+(c)                                  Subject to Section 5.5 hereof, a director shall hold office until the annual meeting for the year in which his or her term expires and until his or her successor has been elected and qualified, subject, however, to such director’s earlier death, resignation, retirement, disqualification or removal.
+If a quorum shall not be present at any meeting, a majority of the directors present may adjourn the meeting from time to time, without notice other than announcement at the meeting, until a quorum is present.
+If a quorum is not present at a meeting of a committee, the members present may adjourn the meeting from time to time, without notice other than an announcement at the meeting, until a quorum is present.
+Any officer may be removed, with or without cause, at any time by the Board.
+(b)                                 If a certificate representing shares has been lost, apparently destroyed or wrongfully taken, and the owner fails to notify the Corporation of that fact within a reasonable time after the owner has notice of such loss, apparent destruction or wrongful taking and the Corporation registers a transfer of such shares before receiving notification, the owner shall be precluded from asserting against the Corporation any claim for registering such transfer or a claim to a new certificate representing such shares or such shares in uncertificated form.
+If the Corporation denies a written request for indemnification or advancement of expenses, in whole or in part, or if payment in full pursuant to such request is not made within 30 days, except in the case of a claim for an advancement of expenses, in which case the applicable period shall be 20 days, the Indemnitee may at any time thereafter bring suit against the Corporation to recover the unpaid amount of the claim.
+(d)                                 Notice to Stockholders Sharing Same Address.
+The resignation shall take effect at the time it is delivered unless the resignation specifies a later effective date or an effective date determined upon the happening of an event or events.

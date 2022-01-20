@@ -1,0 +1,23 @@
+Wachovia shall make payments of cash to, or for the account of, the Fund only upon receipt of Proper Instructions (i) for the purchase of Securities against delivery of such Securities except as provided in Paragraph 10; (ii) in the case of a purchase of Securities effected through a Depository, in accordance with the conditions set forth in Paragraph 16; (iii) in the case of repurchase agreements entered into between the Fund and Wachovia (acting as principal), or another bank, or a broker-dealer which is a member of The National Association of Securities Dealers, Inc. (“NASD”), either (a) against delivery of the Securities for the account of the Fund either in certificate form or through an entry crediting Wachovia’s account at the Federal Reserve Bank (which account shall be for the sole benefit of Wachovia’s customers) with the Securities or (b) with respect to a repurchase agreement entered into with Wachovia, as principal, against delivery of the receipt evidencing the Fund’s purchase of Securities from Wachovia along with written evidence of Wachovia’s agreement to repurchase the Securities from the Fund, provided that such Securities are held by Wachovia so as to provide the Fund with a perfected security interest in such Securities; (iv) for transfer to a time deposit account of the Fund in any bank, whether domestic or foreign; the transfer may be effected before receipt of a confirmation from a broker and/or the applicable bank pursuant to Proper Instructions from the Fund; (v) for the payment of dividends or other distributions on shares declared pursuant to the governing documents of the Fund, for payment to the transfer agent to fund share redemptions, or for the payment of interest, taxes, administration, distribution or advisory fees or expenses which the Fund is to bear under the terms of this Agreement, any Advisory Agreement, or any distribution or administration agreement; (vi) for payments in connection with the conversion, exchange or surrender of Securities the Fund owns or subscribes to and Wachovia holds on behalf of the Fund or is to deliver ; (vii) to a subcustodian or a depository pursuant to the terms hereof; (viii) for expenses the Fund incurs in the ordinary course of its business, including but not limited to printing and mailing expenses, legal fees, accountants’ fees, exchange fees; or (ix) for any other proper purpose, but only upon receipt of, in addition to Proper Instructions, a certified copy of a resolution of the Board or of the Executive Committee of the Fund signed by an officer of the Fund and certified by its Secretary or an Assistant Secretary, specifying the amount of the payment, setting forth the purpose for which the payment is to be made, declaring the purpose to be a proper purpose, and naming the person or
+present for payment and collect the amount payable upon all Securities which may mature or be called, redeemed or retired, or otherwise become payable on the date the Securities become payable;
+When fractional shares of stock of a declaring corporation are received as a stock distribution, unless specifically instructed to the contrary in writing, Wachovia is authorized to sell the fraction received and credit the Fund’s account.
+Wachovia shall upon receipt of Securities purchased by or for the Fund pay out of the monies held for the account of the Fund the total amount payable to the person from whom or the broker through whom the purchase was made, provided that the same conforms to the total amount payable as set forth in Proper Instructions.
+These fees and charges will be payable quarterly in arrears.
+Upon termination of the Agreement, the Fund shall pay to Wachovia all compensation as may be due as of the date of termination and shall likewise reimburse Wachovia for its costs, expenses and disbursements.
+.25  basis points in first $40 billion
+.20  basis points on the next $5 billion
+.15  basis points on the remainder
+Total Transactions per Month:
+0 – 5,000
+5,001 – 10,000
+10,001 and greater
+Transaction Fees:
+$3.50 per transaction through Depository Trust Company.
+$4.00 per transaction through Federal Reserve.
+$30.00 per transaction for GIC contracts / physical securities.
+$15.00 per option contract.
+$4.00 per paydown on mortgage backed securities.
+$3.50 per Fed wire charge on Repurchase Agreement collateral in / out.
+$3.50 per incoming / outgoing wire transfers.
+$5.50 per dividend reinvestment.
+$4.00 per futures contracts.

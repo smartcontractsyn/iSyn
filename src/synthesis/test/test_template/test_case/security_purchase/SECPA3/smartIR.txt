@@ -1,0 +1,42 @@
+ContractCategory: SecurityPurchaseAgreement;
+
+Entity: {
+    SellerNames: ['G Medical Innovations Holdings Ltd.'];
+    BuyerNames: [];
+};
+
+EffectiveTime: April 7, 2021,;
+CloseTime: "";
+ExpiryTime: ;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: true;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: [];
+         To: ['G Medical Innovations Holdings Ltd.'];
+         Price: {
+             Amount: 10000000,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: true;
+    OtherConstraint: true;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};

@@ -1,0 +1,38 @@
+{
+    "SellerName": [
+        "Griffin Ventures, Ltd."
+    ],
+    "BuyerName": [
+        "the investors listed on Schedule A hereto"
+    ],
+    "EffectiveTime": [
+        "July 29, 2011,"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "the investors listed on Schedule A hereto"
+            ],
+            "To": [
+                "Griffin Ventures, Ltd."
+            ],
+            "PurchasePrice": "37100",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

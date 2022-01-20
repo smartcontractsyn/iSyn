@@ -1,0 +1,42 @@
+ContractCategory: StockPurchaseAgreement;
+
+Entity: {
+    SellerNames: ['Don Marcos Trading Co.'];
+    BuyerNames: ['Mark E. Tupper'];
+};
+
+EffectiveTime: July 14, 2009;
+CloseTime: "";
+ExpiryTime: ;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: false;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: ['Mark E. Tupper'];
+         To: ['Don Marcos Trading Co.'];
+         Price: {
+             Amount: 5000,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: false;
+    OtherConstraint: false;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};

@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Brookfield Property Partners L.P."
+    ],
+    "BuyerName": [
+        "GGP"
+    ],
+    "EffectiveTime": [
+        "November 20, 2003,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "April 26"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "GGP"
+            ],
+            "To": [
+                "Brookfield Property Partners L.P."
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": true
+            },
+            "PurchasePrice": 9250000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

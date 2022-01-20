@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "RegistrationRightAgreement",
+    "SellerName": [
+        "Simplicity Esports and Gaming Company"
+    ],
+    "BuyerName": [
+        "Lucas Ventures, LLC"
+    ],
+    "EffectiveTime": [
+        "August 31, 2021"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Lucas Ventures, LLC"
+            ],
+            "To": [
+                "Simplicity Esports and Gaming Company"
+            ],
+            "PurchasePrice": "200000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

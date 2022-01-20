@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "FRESENIUS MEDICAL CARE US FINANCE II, INC."
+    ],
+    "BuyerName": [
+        "U.S. BANK NATIONAL ASSOCIATION"
+    ],
+    "EffectiveTime": [
+        "October 29, 2014"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "U.S. BANK NATIONAL ASSOCIATION"
+            ],
+            "To": [
+                "FRESENIUS MEDICAL CARE US FINANCE II, INC."
+            ],
+            "PurchasePrice": "500000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

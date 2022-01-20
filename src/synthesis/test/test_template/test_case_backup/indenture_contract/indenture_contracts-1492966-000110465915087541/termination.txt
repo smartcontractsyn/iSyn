@@ -1,0 +1,88 @@
+Delay or Omission Not Waiver
+“Attributable Debt” means, with respect to any Sale and Leaseback Transaction at the time of determination, the present value (discounted at the interest rate implicit in the lease determined in accordance with IFRS or, if not known, at the Parent Guarantor’s incremental borrowing rate) of the total obligations of the lessee of the property subject to such lease for rental payments during the remaining term of the lease included in such Sale and Leaseback Transaction, including any period for which such lease has been extended or may, at the option of the lessor, be extended, or until the earliest date on which the lessee may terminate such lease without penalty or upon payment of penalty (in which case the rental payments will include such penalty), after excluding from such rental payments all amounts required to be paid on account of maintenance and repairs, insurance, taxes, assessments, water, utilities and similar charges.
+“continuing” means, with respect to any Default or Event of Default, that such Default or Event of Default has not been cured or waived.
+(c)                                  any Lien permitted by clause (a), (e), (f), (g), (h), (i), (j), (l), (m), (n), (r), (s), (t), (u), (v), (z) or (aa) of the definition of “Permitted Liens”, by clause (o) of such definition, only to the extent the Lien being extended, renewed or replaced was a Permitted Collateral Lien, and by clause (p) of such definition, only to the extent the Debt being refinanced was secured by a Permitted Collateral Lien;
+(b)                                 such new Debt, determined as of the date of Incurrence of such new Debt, does not mature prior to the earlier of the final maturity date of the Notes and the Stated Maturity of the Debt to be refinanced, and the Average Life of the portion, if any, of such new Debt that is scheduled to mature on or prior to the final maturity date of the Notes is at least equal to the remaining Average Life of the portion of the Debt to be refinanced that is scheduled to mature on or prior to the final maturity date of the Notes;
+3.08
+6.01
+“Special Termination Date”
+3.08
+43, item 296); (iii) a winding up includes a declaration of bankruptcy; and (iv) reorganization includes postępowanie restrukturyzacyjne;
+(1)           if either Euroclear or Clearstream notifies the Issuer that it is unwilling or unable to continue to act as Depositary or that the Depositary with whom the Global Notes are deposited is unwilling or unable to continue to act as common depository and a successor Depositary is not appointed by the Issuer within 120 days;
+the Trustee will cancel the Restricted Definitive Note, increase or cause to be increased the aggregate principal amount of, in the case of clause (A) above, the appropriate Restricted Global Note, in the case of clause (B) above, the Rule 144A Global Note, and in the case of clause (C) above, the Regulation S Global Note.
+Upon receipt of a request for such an exchange or transfer, the Trustee will cancel the applicable Unrestricted Definitive Note and increase or cause to be increased the aggregate principal amount of one of the Unrestricted Global Notes.
+(g)           Cancellation and/or Adjustment of Global Notes.
+At such time as all Book-Entry Interests in a particular Global Note have been exchanged for Definitive Notes or a particular Global Note has been redeemed, repurchased or cancelled in whole and not in part, each such Global Note will be returned to or retained and cancelled by the Trustee in accordance with Section 2.11 hereof.
+Section 2.11          Cancellation.
+Notes called for redemption become due on the date fixed for redemption.
+On and after the redemption date, interest ceases to accrue on Notes or portions of Notes called for redemption.
+(1)     the redemption date and the record date;
+(7)     that, unless the Issuer defaults in making such redemption payment, or interest, if any, on Notes called for redemption cease to accrue on and after the redemption date;
+On and after a redemption date, unless the Issuer defaults in payment of the purchase or redemption price, interest will cease to accrue on such Notes or portion of them called for redemption.
+(b)           If the Issuer complies with the provisions of Section 3.05(a) hereof, on and after the redemption or purchase date, interest will cease to accrue on the Notes or the portions of Notes called for redemption or purchase.
+(2)     the redemption occurs within 90 days after the closing of such Equity Offering.
+(c)           Except pursuant to subsections (a) and (b) of this Section 3.07 and Section 3.08 hereof, the Notes will not be redeemable at the Issuer’s option prior to July 15, 2018.
+(d)           Unless the Issuer defaults in the payment of the redemption price, interest will cease to accrue on the Notes or portions thereof called for redemption on the applicable redemption date.
+In addition, if a redemption is subject to the satisfaction of one or more conditions precedent, the related notice shall describe each such condition, and if applicable, state that, in the Issuer’s discretion, the date of redemption may be delayed until such time as any or all such conditions shall be satisfied or waived (provided that in no event shall such date of redemption be delayed to a date later than 60 days after the date on which such notice was mailed), or such redemption may not occur and such notice may be rescinded in the event that any or all such conditions shall not have been satisfied or waived by the date of redemption, or by the date of redemption as so delayed.
+On and after the redemption date, interest ceases to accrue on Notes or portions of Notes called for redemption.
+(b)           Notwithstanding Section 3.08(a) hereof, no such notice of redemption will be given (a) earlier than 60 days prior to the earliest date on which the Issuer would be obliged to make such payment of Additional Amounts or withholding if a payment in respect of the Notes or Guarantees were then due and (b) unless at the time such notice is given, the obligation to pay Additional Amounts in accordance with the terms of this Indenture remains in effect.
+(a)           In the event that (i) the Acquisition is not consummated on or prior to July 31, 2015 (the “Acquisition Longstop Date”), (ii) in the reasonable judgment of the Issuer, the Acquisition will not be consummated by the Acquisition Longstop Date or (iii) the Acquisition Agreement terminates at any time prior to the Acquisition Longstop Date (the date of any such event referred to in clauses (i)-(iii) above being the “Special Termination Date”), the Issuer will redeem all of the Notes (the “Special Mandatory Redemption”) at a price (the “Special Mandatory Redemption Price”) equal to 100% of their principal amount, plus accrued and unpaid interest, if any, from the Issue Date to the Special Mandatory Redemption Date (as defined below) (subject to the right of holders of record on the relevant record date to receive interest due on the relevant interest payment date).
+(1)           no Default or Event of Default has occurred and is continuing;
+(c)           Notwithstanding Sections 4.07(a) and (b) hereof, the Parent Guarantor and any Restricted Subsidiary may take the following actions as long as (x) with respect to clauses (9) and (12) below no Default or Event of Default has occurred and is continuing and (y) with respect to clauses (11) and (14) below, no Event of Default has occurred and is continuing:
+(17)         [RESERVED]
+The closing date of any such Change of Control Offer made in advance of a Change of Control may be changed to conform to the actual closing date of the Change of Control, provided that such closing date is not earlier than 30 days nor later than 60 days from the date the Change of Control Offer notice is mailed as described in this Section 4.14(a).
+(a)           If on any date following the Issue Date, the Notes have achieved Investment Grade Status and no Default or Event of Default has occurred and is continuing (a “Suspension Event”), then, beginning on that day and continuing until the Reversion Date, the following provisions of this Indenture will not apply to such Notes: Section 4.07, Section 4.09, Section 4.08, Section 4.10, Section
+(3)           immediately after giving pro forma effect to such transaction, no Default or Event of Default exists and is continuing.
+(e)           failure to make or consummate a Change of Control Offer in accordance with Section 4.14 hereof;
+(f)            failure to comply with any covenant or agreement of the Parent Guarantor or any Restricted Subsidiary that is contained in this Indenture or any Guarantee (other than specified in clause (a), (b), (c), (d), (e) or (l) of this Section 6.01) and such failure continues for a period of 30
+(2)           is caused by the failure to pay principal of such Debt prior to the expiration of any applicable grace periods provided in such Debt on the date of such default;
+(j)            one or more final judgments, orders or decrees (not subject to appeal and not covered by insurance) shall be rendered against the Issuer, a Guarantor or any Significant Subsidiary either individually or in an aggregate amount, in each case in excess of US$25,000,000 (or the Dollar Equivalent thereof), and either a creditor shall have commenced an enforcement proceeding upon such judgment, order or decree or there shall have been a period of 60 consecutive days or more during which a stay of enforcement of such judgment, order or decree was not (by reason of pending appeal or otherwise) in effect;
+(3)           orders the liquidation of the Issuer, any Guarantor or any Significant Subsidiary, and the order or decree remains unstayed and in effect for 60 consecutive days; and
+(3)           all Events of Default, other than the non-payment of amounts of principal of, premium, if any, and interest accrued on the Notes that has become due solely by such declaration of acceleration, have been cured or waived.
+(d)           In the event of a declaration of acceleration of the Notes because of an Event of Default described in Section 6.01(g) hereof has occurred and is continuing, the declaration of acceleration of the Notes will be automatically annulled if the event of default or payment default triggering such Event of Default pursuant to Section 6.01(g) hereof is remedied or cured by the Parent Guarantor or a Restricted Subsidiary of the Parent Guarantor or waived by the Holder of the relevant Debt within 20 days after the declaration of acceleration with respect thereto, provided that:
+(2)           all existing Events of Default, except in the payment of principal of, premium, if any, or interest on any Notes that became due solely because of the acceleration of the Notes, have been cured or waived.
+(b)           the Trustee has failed to institute such proceeding within 30 days after receipt of such notice, and
+(c)           the Trustee within such 30-day period has not received directions inconsistent with such written request by Holders of a majority in aggregate principal amount of the outstanding Notes.
+Section 6.14          Delay or Omission Not Waiver.
+However, in the event that the Trustee acquires any conflicting interest it must eliminate such conflict within 90 days or resign.
+(a)           A resignation or removal of the Trustee and appointment of a successor Trustee will become effective only upon the successor Trustee’s acceptance of appointment as provided in this Section 7.07.
+(b)           The Trustee may resign in writing at any time and be discharged from the trust hereby created by so notifying the Issuer.
+The Issuer may remove the Trustee if:
+(1)           the Trustee fails to comply with Section 7.09 hereof;
+(4)           the Trustee becomes incapable of acting.
+(c)           If the Trustee resigns or is removed or if a vacancy exists in the office of Trustee for any reason, the Issuer will promptly appoint a successor Trustee.
+(d)           If a successor Trustee does not take office within 60 days after the retiring Trustee resigns or is removed, the retiring Trustee may (at the expense of the Issuer) appoint a successor Trustee, or the retiring Trustee (at the expense of the Issuer), the Issuer, or the Holders of at least 10% in aggregate principal amount of the then outstanding Notes may petition any court of competent jurisdiction for the appointment of a successor Trustee.
+(e)           If the Trustee, after written request by any Holder who has been a Holder for at least six months, fails to comply with Section 7.09 hereof, such Holder may petition any court of competent jurisdiction for the removal of the Trustee and the appointment of a successor Trustee.
+Thereupon, the resignation or removal of the retiring Trustee will become effective, and the successor Trustee will have all the rights, powers and duties of the Trustee under this Indenture.
+Section 7.09          Eligibility; Disqualification.
+(a)           Any Agent may resign and be discharged from its duties under this Indenture at any time by giving thirty (30) days’ prior written notice of such resignation to the Trustee and Issuer.
+(4)           this Section 8.02.
+However, any such Holder or subsequent Holder may revoke the consent as to its Note if the Trustee receives written notice of revocation before the date the amendment, supplement or waiver becomes effective.
+z o.o.)
+(a)           The Guarantee of the Parent Guarantor will be automatically and unconditionally released (and thereupon will terminate and be discharged and be of no further force and effect):
+(b)           A Guarantee (other than the Guarantee of the Parent Guarantor) will be automatically and unconditionally released (and thereupon will terminate and be discharged and be of no further force and effect):
+2.2                               Debenture dated 31 March 2014
+2.3                               Security Confirmation Deed dated 2 March 2015
+2.4                               Supplemental Share Charge dated a date within 5 Business Days of the date hereof
+4.2                               Charge Confirmation Agreement dated 2 March 2015
+4.3                               Charge Confirmation Agreement dated a date within 5 Business Days of the date hereof
+6.1                               Debenture dated 8 October 2014
+6.3                               First Confirmatory Debenture dated 30 April 2015
+dated 1 April 2014
+dated 1 April 2014
+dated 1 April 2014
+8.8                               Second Extension, amendment and ratification dated a date within 5 Business Days of the date hereof of the pledge over International College 2, S.L.U.
+9.7                               First Security Confirmation Agreement dated 2 March 2015
+9.8                               Second Security Confirmation Agreement dated a date within 5 Business Days of the date hereof
+7.1                               Second Confirmatory Debenture dated a date within 60 days of the date hereof
+8.1                               Quota Pledge Agreement to be dated a date within 60 days of the date hereof regarding quotas in Meritas CH S.à.r.l.
+8.2                               Insurance Claim Assignment Agreement to be dated a date within 60 days of the date hereof (by Meritas CH S.à.r.l.)
+Record Dates:  January 1 and July 1
+(ii)           the redemption occurs within 90 days after the closing of such Equity Offering.
+(c)           Except pursuant to subparagraphs (a) and (b) of this Paragraph 5 and pursuant to Paragraph 6, the Notes will not be redeemable at the Issuer’s option prior to July 15, 2018.
+(e)           Unless the Issuer defaults in the payment of the redemption price, interest will cease to accrue on the Notes or portions thereof called for redemption on the applicable redemption date.
+The Issuer will not give any such notice of redemption (a) earlier than 60 days prior to the earliest date on which the Issuer would be obliged to make such payment of Additional Amounts or withholding if a payment in respect of the Notes or Guarantees were then due and (b) unless at the time such notice is given, the obligation to pay Additional Amounts in accordance with the terms of the Indenture remains in effect.
+(a)           In the event that (i) the Acquisition is not consummated on or prior to the Acquisition Longstop Date, (ii) in the reasonable judgment of the Issuer, the Acquisition will not be consummated by the Acquisition Longstop Date or (iii) the Acquisition Agreement terminates at any time prior to the Acquisition Longstop Date (the date of any such event referred to in clauses (i)-(iii) above being the “Special Termination Date”), the Issuer will redeem all of the Notes (the “Special Mandatory Redemption”) at a price (the “Special Mandatory Redemption Price”) equal to 100% of the their principal amount, plus accrued but unpaid interest, if any, from the Issue Date to the Special Mandatory Redemption Date (as defined below) (subject to the right of holders of record on the relevant record date to receive interest due on the relevant interest payment date).
+(10)         NOTICE OF REDEMPTION.
+If a bankruptcy, concurso mercantil or insolvency default with respect to the Issuer, any Guarantor or any Significant Subsidiary occurs and is continuing, the Notes automatically become due and payable.
+o Section 4.10                                   o Section 4.14

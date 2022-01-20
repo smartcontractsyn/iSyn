@@ -1,0 +1,41 @@
+{
+"ContractCategory": "EMPLOYMENT AGREEMENT",   
+"SellerName": [
+        "GREG EDWARD BROOKS"
+    ],
+    "BuyerName": [
+        "LANDMARK APARTMENT TRUST, INC."
+    ],
+    "EffectiveTime": [
+        "May 18, 2015 "
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        "May 18, 2018"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "LANDMARK APARTMENT TRUST, INC."
+            ],
+            "To": [
+                "GREG EDWARD BROOKS"
+            ],
+            "PurchasePrice": "350000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

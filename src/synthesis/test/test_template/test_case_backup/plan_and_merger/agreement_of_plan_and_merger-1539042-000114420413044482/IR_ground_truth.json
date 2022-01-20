@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "Westinghouse Solar, Inc."
+    ],
+    "BuyerName": [
+        "CBD-WS Merger Sub, Inc."
+    ],
+    "EffectiveTime": [
+        "May 7, 2012"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": ["October 31, 2012"],
+    "Payments": [
+        {
+            "From": [
+                "CBD-WS Merger Sub, Inc."
+            ],
+            "To": [
+                "Westinghouse Solar, Inc."
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

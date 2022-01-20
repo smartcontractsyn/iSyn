@@ -1,0 +1,192 @@
+Exhibit 10.1
+E.      Contemporaneously with the execution and delivery of this Agreement, the parties hereto are executing and delivering an Investor Rights Agreement, substantially in the form attached hereto as Exhibit C (the “Investor Rights Agreement”), pursuant to which, among other things, the Company will agree to provide certain registration rights with respect to the Registrable Securities (as defined in the Investor Rights Agreement) under the Securities Act and the rules and regulations promulgated thereunder and applicable state securities laws and to provide certain additional rights.
+“Closing Date” means the Trading Day when all of the Transaction Documents have been executed and delivered by the applicable parties thereto, and all of the conditions set forth in Sections 2.1, 2.2, 5.1 and 5.2 hereof are satisfied, or such other date as the parties may agree.
+Unless otherwise agreed to by the Company and Purchaser, on the Closing Date, (1) the Company shall cause the Transfer Agent to issue the 5,111.86 Preferred Shares (or to deliver to Purchaser one or more stock certificates, evidencing such shares in accordance with Section 2.2(a)(ii) hereof), (2) the Company shall issue the Warrants and (3) Purchaser shall wire the Subscription Amount, in United States dollars and in immediately available funds, in accordance with the Company’s written wire transfer instructions.
+2.2     Closing Deliveries.
+(a)     On or prior to the Closing, the Company shall issue, deliver or cause to be delivered to Purchaser the following (the “Company Deliverables”):
+(i)     as the Company and Purchaser agree, the Company shall cause the Transfer Agent to issue, in book-entry form 5,111.86 Preferred Shares (or, if the Company and Purchaser shall have agreed, as indicated on Purchaser’s signature page hereto, that Purchaser will receive stock certificates for its Preferred Shares, then the Company shall instead instruct the Transfer Agent to issue such specified stock certificates registered in the name of Purchaser);
+(iii)     the Investor Rights Agreement, duly executed by the Company (which shall be delivered at the Closing);
+(iv)     a certificate of the Secretary of the Company, in the form attached hereto as Exhibit D, dated as of the Closing Date, (a) certifying the resolutions adopted by the Board of Directors of the Company or a duly authorized committee thereof approving the transactions contemplated by this Agreement and the other Transaction Documents, including the issuance of the Preferred Shares and the Warrants, and the reservation of the Conversion Shares, (b) certifying the current versions of the Articles of Incorporation and Bylaws, as amended and restated, of the Company and (c) certifying as to the signatures and authority of persons signing the Transaction Documents and related documents on behalf of the Company;
+(v)     a certificate of the Chief Executive Officer or Acting Chief Financial Officer of the Company, in the form attached hereto as Exhibit E, dated as of the Closing Date, certifying to the fulfillment of the conditions specified in Sections 5.1(a) and (b);
+(vi)     a true, correct and complete copy of the Certificate of Determination, as filed with and certified by the Secretary of State of the State of California; and
+(vii)     correct and complete copies of any and all documents specified in Section 3.1(d)(ii), (iii), (iv) and (v) and Section 5.1(g).
+(b)     Purchaser shall deliver or cause to be delivered to the Company the following (the “Purchaser Deliverables”) on or prior to the Closing Date:
+(d)     Filings, Consents and Approvals.
+(g)     SEC Reports.
+(h)     Financial Statements.
+(n)     Insurance.
+(p)     Private Placement.
+(r)     Title to Property.
+(d)     Purchaser Status.
+(g)     Access to Information.
+(h)     Brokers and Finders.
+(j)     ERISA.
+In connection with any transfer of the Securities other than (i) pursuant to an effective registration statement, (ii) to the Company, (iii) to an Affiliate of Purchaser, or (iv) pursuant to Rule 144 (provided, that the transferor provides the Company with reasonable assurances (in the form of seller and broker representation letters) that such securities may be sold pursuant to such rule), the Company may require the transferor thereof to provide to the Company and the Transfer Agent, at the transferor’s expense, an opinion of counsel selected by the transferor and reasonably acceptable to the Company and the Transfer Agent, the form and substance of which opinion shall be reasonably satisfactory to the Company and the Transfer Agent, to the effect that such transfer does not require registration of such transferred securities under the Securities Act.
+4.2     Furnishing of Information.
+(d)     Company Deliverables.
+The Company shall have delivered the Company Deliverables in accordance with Section 2.2(a).
+(d)     Purchaser Deliverables.
+Purchaser shall have delivered the Purchaser Deliverables in accordance with Section 2.2(b).
+6.3     Notices.
+Any and all notices or other communications or deliveries required or permitted to be provided hereunder shall be in writing and shall be deemed given and effective on the earliest of (a) the date of transmission, if such notice or communication is delivered via facsimile (provided the sender receives a machine-generated confirmation of successful transmission) at the facsimile number specified in this Section prior to 5:00 p.m., Pacific time, on a Trading Day, (b) the next Trading Day after the date of transmission, if such notice or communication is delivered via facsimile at the facsimile number specified in this Section on a day that is not a Trading Day or later than 5:00 p.m., Pacific time, on any Trading Day, (c) the Trading Day following the date of mailing, if sent by U.S. nationally recognized overnight courier service with next day delivery specified, or (d) upon actual receipt by the party to whom such notice is required to be given.
+The address for such notices and communications shall be as follows:
+  If to the Company:
+Giga-tronics Incorporated
+4650 Norris Canyon Road
+San Ramon, CA 94583
+Attn: John Regazzi
+Email: jregazzi@gigatronics.com
+    With a copy to:
+Bingham McCutchen LLP
+Three Embarcadero Center
+San Francisco, California 94111
+Attention: Thomas G. Reddy
+Telephone: (415) 393-2188
+Fax: (415) 393-2286
+Email: thomas.reddy@bingham.com
+    If to Purchaser
+To the address set forth under Purchaser’s name on the signature page hereof
+Attn: John Regazzi
+Email: jregazzi@gigatronics.com
+With a copy to:
+Telephone: (415) 393-2188
+Fax: (415) 393-2286
+Email: thomas.reddy@bingham.com
+To the address set forth under Purchaser’s name on the signature page hereof
+In the event that any signature is delivered by facsimile transmission, or by e-mail delivery of a “.pdf” format data file, such signature shall create a valid and binding obligation of the party executing (or on whose behalf such signature is executed) with the same force and effect as if such facsimile signature page were an original thereof.
+Address for Notice:
+Telephone No.
+: (610) 310-9419
+E-mail Address: dwallis@activevalueinvestors.com
+Attention: Darren C. Wallis, Managing Member
+Delivery Instructions:
+Telephone No.
+B:         Certificate of Determination
+D:         Form of Secretary’s Certificate
+E:         Form of Officer’s Certificate
+(A) = Market Price of the Common Stock on the last trading day preceding the date of exercise;
+(C)     To the extent permitted by applicable laws and regulations, the Company’s obligations to issue and deliver Shares in accordance with the terms hereof are absolute and unconditional, irrespective of any action or inaction by the Holder to enforce the same, any waiver or consent with respect to any provision hereof, the recovery of any judgment against any person or entity or any action to enforce the same, or any setoff, counterclaim, recoupment, limitation or termination, or any breach or alleged breach by the Holder or any other person or entity of any obligation to the Company or any violation or alleged violation of law by the Holder or any other person or entity, and irrespective of any other circumstance which might otherwise limit such obligation of the Company to the Holder in connection with the issuance of Shares.
+Nothing herein shall limit a Holder’s right to pursue any other remedies available to it hereunder, at law or in equity including, without limitation, a decree of specific performance and/or injunctive relief with respect to the Company’s failure to timely deliver certificates representing Shares upon exercise of this Warrant as required pursuant to the terms hereof.
+Certificates for Shares issued upon exercise of this Warrant will be issued in the name of Holder or and will be delivered to Holder or such named Person or Persons within a reasonable time after the date on which this Warrant has been duly exercised in accordance with the terms of this Warrant.
+The Company agrees that the Shares so issued will be deemed to have been issued to the Holder as of the close of business on the date on which this Warrant and payment of the Exercise Price are delivered to the Company in accordance with the terms of this Warrant, notwithstanding that the stock transfer books of the Company may then be closed or certificates representing such Shares may not be actually delivered on such date.
+Upon agreement of the Company and Holder, in lieu of issuing certificates evidencing Shares, the Company shall cause its transfer agent to issue such Shares in book-entry form.
+Issuance of certificates for Shares to the Holder upon the exercise of this Warrant shall be made without charge to the Holder for any issue or transfer tax or other incidental expense in respect of the issuance of such certificates, all of which taxes and expenses shall be paid by the Company.
+Transfer/Assignment.
+This Warrant and all rights hereunder are transferable, in whole or in part, upon the books of the Company by the registered holder hereof in person or by duly authorized attorney to any Affiliate of such registered holder, and a new warrant shall be made and delivered by the Company, of the same tenor and date as this Warrant but registered in the name of one or more transferees, upon surrender of this Warrant, duly endorsed, to the office or agency of the Company described in Section 3.
+Upon receipt by the Company of evidence reasonably satisfactory to it of the loss, theft, destruction or mutilation of this Warrant, and in the case of any such loss, theft or destruction, upon receipt of a bond, indemnity or security reasonably satisfactory to the Company, or, in the case of any such mutilation, upon surrender and cancellation of this Warrant, the Company shall make and deliver, in lieu of such lost, stolen, destroyed or mutilated Warrant, a new Warrant of like tenor and representing the right to purchase the same aggregate number of Shares as provided for in such lost, stolen, destroyed or mutilated Warrant.
+(B)      Certain Repurchases of Common Stock.
+In any case in which the provisions of this Section 12 shall require that an adjustment shall become effective immediately after a record date for an event, the Company may defer until the occurrence of such event (i) issuing to the Holder of this Warrant exercised after such record date and before the occurrence of such event the additional shares of Common Stock issuable upon such exercise by reason of the adjustment required by such event over and above the shares of Common Stock issuable upon such exercise before giving effect to such adjustment and (ii) paying to such Holder any amount of cash in lieu of a fractional share of Common Stock; provided, however, that the Company upon request shall deliver to such Holder a due bill or other appropriate instrument evidencing such Holder’s right to receive such additional shares, and such cash, upon the occurrence of the event requiring such adjustment.
+(G)     Statement Regarding Adjustments.
+Whenever the Exercise Price or the number of Shares into which this Warrant is exercisable shall be adjusted as provided in Section 12, the Company shall forthwith file at the principal office of the Company a statement showing in reasonable detail the facts requiring such adjustment and the Exercise Price that shall be in effect and the number of Shares into which this Warrant shall be exercisable after such adjustment, and the Company shall also cause a copy of such statement to be sent by mail, first class postage prepaid, to each Holder at the address appearing in the Company’s records.
+In the event that the Company shall propose to take any action of the type described in this Section 12 (but only if the action of the type described in this Section 12 would result in an adjustment in the Exercise Price or the number of Shares into which this Warrant is exercisable or a change in the type of securities or property to be delivered upon exercise of this Warrant), the Company shall give notice to the Holder, in the manner set forth in Section 12(G), which notice shall specify the record date, if any, with respect to any such action and the approximate date on which such action is to take place.
+Such notice shall also set forth the facts with respect thereto as shall be reasonably necessary to indicate the effect on the Exercise Price and the number, kind or class of shares or other securities or property which shall be deliverable upon exercise of this Warrant.
+In the case of any action which would require the fixing of a record date, such notice shall be given at least 10 days prior to the date so fixed, and in case of all other action, such notice shall be given at least 15 days prior to the taking of such proposed action.
+Amendments.
+Notices.
+All notices and other communications from the Company to the Holder, or vice versa, shall be deemed delivered and effective when given personally or mailed by first-class registered or certified mail, postage prepaid, (or on the first business day after transmission by facsimile) be, in writing by the Company or such Holder from time to time as follows:
+(b)  if to Holder, at the addressed indicated below Holder’s signature.
+or to such other representative or at such other address of a party as such party hereto may furnish to the other parties in writing in accordance with this Section 10.
+Holder’s Address for Notice:
+Parkview Tower
+1150 First Ave, Suite 600
+King of Prussia, PA 19406
+Holder:
+By:
+(A) = Market Price of the Common Stock on the last trading day preceding the date of exercise;
+(C)     To the extent permitted by applicable laws and regulations, the Company’s obligations to issue and deliver Shares in accordance with the terms hereof are absolute and unconditional, irrespective of any action or inaction by the Holder to enforce the same, any waiver or consent with respect to any provision hereof, the recovery of any judgment against any person or entity or any action to enforce the same, or any setoff, counterclaim, recoupment, limitation or termination, or any breach or alleged breach by the Holder or any other person or entity of any obligation to the Company or any violation or alleged violation of law by the Holder or any other person or entity, and irrespective of any other circumstance which might otherwise limit such obligation of the Company to the Holder in connection with the issuance of Shares.
+Nothing herein shall limit a Holder’s right to pursue any other remedies available to it hereunder, at law or in equity including, without limitation, a decree of specific performance and/or injunctive relief with respect to the Company’s failure to timely deliver certificates representing Shares upon exercise of this Warrant as required pursuant to the terms hereof.
+Certificates for Shares issued upon exercise of this Warrant will be issued in the name of Holder or and will be delivered to Holder or such named Person or Persons within a reasonable time after the date on which this Warrant has been duly exercised in accordance with the terms of this Warrant.
+The Company agrees that the Shares so issued will be deemed to have been issued to the Holder as of the close of business on the date on which this Warrant and payment of the Exercise Price are delivered to the Company in accordance with the terms of this Warrant, notwithstanding that the stock transfer books of the Company may then be closed or certificates representing such Shares may not be actually delivered on such date.
+Upon agreement of the Company and Holder, in lieu of issuing certificates evidencing Shares, the Company shall cause its transfer agent to issue such Shares in book-entry form.
+Issuance of certificates for Shares to the Holder upon the exercise of this Warrant shall be made without charge to the Holder for any issue or transfer tax or other incidental expense in respect of the issuance of such certificates, all of which taxes and expenses shall be paid by the Company.
+Transfer/Assignment.
+This Warrant and all rights hereunder are transferable, in whole or in part, upon the books of the Company by the registered holder hereof in person or by duly authorized attorney to any Affiliate of such registered holder, and a new warrant shall be made and delivered by the Company, of the same tenor and date as this Warrant but registered in the name of one or more transferees, upon surrender of this Warrant, duly endorsed, to the office or agency of the Company described in Section 3.
+Upon receipt by the Company of evidence reasonably satisfactory to it of the loss, theft, destruction or mutilation of this Warrant, and in the case of any such loss, theft or destruction, upon receipt of a bond, indemnity or security reasonably satisfactory to the Company, or, in the case of any such mutilation, upon surrender and cancellation of this Warrant, the Company shall make and deliver, in lieu of such lost, stolen, destroyed or mutilated Warrant, a new Warrant of like tenor and representing the right to purchase the same aggregate number of Shares as provided for in such lost, stolen, destroyed or mutilated Warrant.
+(B)      Certain Repurchases of Common Stock.
+In any case in which the provisions of this Section 12 shall require that an adjustment shall become effective immediately after a record date for an event, the Company may defer until the occurrence of such event (i) issuing to the Holder of this Warrant exercised after such record date and before the occurrence of such event the additional shares of Common Stock issuable upon such exercise by reason of the adjustment required by such event over and above the shares of Common Stock issuable upon such exercise before giving effect to such adjustment and (ii) paying to such Holder any amount of cash in lieu of a fractional share of Common Stock; provided, however, that the Company upon request shall deliver to such Holder a due bill or other appropriate instrument evidencing such Holder’s right to receive such additional shares, and such cash, upon the occurrence of the event requiring such adjustment.
+(G)     Statement Regarding Adjustments.
+Whenever the Exercise Price or the number of Shares into which this Warrant is exercisable shall be adjusted as provided in Section 12, the Company shall forthwith file at the principal office of the Company a statement showing in reasonable detail the facts requiring such adjustment and the Exercise Price that shall be in effect and the number of Shares into which this Warrant shall be exercisable after such adjustment, and the Company shall also cause a copy of such statement to be sent by mail, first class postage prepaid, to each Holder at the address appearing in the Company’s records.
+In the event that the Company shall propose to take any action of the type described in this Section 12 (but only if the action of the type described in this Section 12 would result in an adjustment in the Exercise Price or the number of Shares into which this Warrant is exercisable or a change in the type of securities or property to be delivered upon exercise of this Warrant), the Company shall give notice to the Holder, in the manner set forth in Section 12(G), which notice shall specify the record date, if any, with respect to any such action and the approximate date on which such action is to take place.
+Such notice shall also set forth the facts with respect thereto as shall be reasonably necessary to indicate the effect on the Exercise Price and the number, kind or class of shares or other securities or property which shall be deliverable upon exercise of this Warrant.
+In the case of any action which would require the fixing of a record date, such notice shall be given at least 10 days prior to the date so fixed, and in case of all other action, such notice shall be given at least 15 days prior to the taking of such proposed action.
+Amendments.
+Notices.
+All notices and other communications from the Company to the Holder, or vice versa, shall be deemed delivered and effective when given personally or mailed by first-class registered or certified mail, postage prepaid, (or on the first business day after transmission by facsimile) be, in writing by the Company or such Holder from time to time as follows:
+(b)  if to Holder, at the addressed indicated below Holder’s signature.
+or to such other representative or at such other address of a party as such party hereto may furnish to the other parties in writing in accordance with this Section 10.
+Holder’s Address for Notice:
+Parkview Tower
+1150 First Ave, Suite 600
+King of Prussia, PA 19406
+Holder:
+By:
+Certificate of Determination
+Ranking.
+(e)     “Certificate of Determination” means this Certificate of Determination of the Corporation.
+Liquidation.
+(a) Holder Optional Conversion.
+A Holder may exercise the conversion rights specified in Section 8(a) by (i) transmitting (by facsimile or otherwise) to the Corporation at its principal office (or at such other office or agency of the Corporation as the Corporation may designate by notice in writing to the Holders) a duly executed irrevocable conversion notice specifying the number of shares of the Series D Preferred Stock to be converted, (ii) if the shares of Series D Preferred Stock to be converted are certificated, surrendering to a common carrier for delivery to the Corporation as soon as practicable following such date the certificates representing the shares being converted (or an indemnification undertaking described in Section 15(a) with respect to such shares in the case of their loss, theft or destruction) and (iii) if required, paying any required stock transfer, documentary, stamp or similar taxes which are not payable by the Corporation pursuant to Section 16(b).
+In the event that a Holder shall not by written notice designate the name in which shares of Common Stock and/or cash, securities or other property (including payments of cash in lieu of fractional shares) to be issued or paid upon conversion of shares of Series D Preferred Stock should be registered or paid or the manner in which such shares should be delivered, the Corporation shall be entitled to register and deliver such shares, and make such payment, in the name of the Holder and in the manner shown on the records of the Corporation.
+(f) On the applicable Conversion Date with respect to any share of Series D Preferred Stock, certificates representing shares of Common Stock (and/or cash, securities or other property) shall be issued and delivered to the Holder thereof or such Holder’s designee (or, at the Corporation’s option, such shares shall be registered in book-entry form) upon presentation and surrender of the certificate evidencing the Series D Preferred Stock to the Corporation and, if required, the furnishing of appropriate endorsements and transfer documents and the payment of all transfer and similar taxes.
+(i) Stock Dividends and Distributions.
+OS0
+OS1
+Where,
+OS0
+OS1
+Where,
+(iii) Rights Plans.
+(iv) any statutory exchange of the outstanding shares of Common Stock for securities of another Person (other than in connection with a merger or acquisition);
+(d) The Corporation (or any successor) shall, within seven days of the consummation of any Reorganization Event, provide written notice to the Holders of such consummation of such event and of the kind and amount of the cash, securities or other property that constitutes the Exchange Property.
+Failure to deliver such notice shall not affect the operation of this Section 11.
+For purposes of this Section 14(a), the number of shares of Common Stock that shall be deliverable upon the conversion of all outstanding shares of Series D Preferred Stock shall be computed as if at the time of computation all such outstanding shares were held by a single Holder.
+(b) Notwithstanding the foregoing, the Corporation shall be entitled to deliver upon conversion of shares of Series D Preferred Stock, as herein provided, shares of Common Stock acquired by the Corporation (in lieu of the issuance of authorized and unissued shares of Common Stock), so long as any such acquired shares are free and clear of all liens, charges, security interests or encumbrances.
+Replacement Certificates.
+(a) The Corporation shall replace any mutilated certificate at the Holder’s expense upon surrender of that certificate to the Corporation.
+The Corporation shall replace certificates that become destroyed, stolen or lost at the Holder’s expense upon delivery to the Corporation of satisfactory evidence that the certificate has been destroyed, stolen or lost, together with any indemnity that may be required by the Corporation.
+(b) The Corporation shall not be required to issue any certificates representing the Series D Preferred Stock on or after the applicable Conversion Date.
+In place of the delivery of a replacement certificate following the applicable Conversion Date, the Corporation, upon delivery of the evidence and indemnity described in clause (a) above, shall deliver a certificate evidencing the shares of Common Stock into which the shares of Series D Preferred Stock formerly evidenced by the mutilated, destroyed, stolen or lost certificate have been converted.
+Miscellaneous.
+(a) All notices referred to herein shall be in writing, and, unless otherwise specified herein, all notices hereunder shall be deemed to have been given upon the earlier of receipt thereof or three Business Days after the mailing thereof if sent by registered or certified mail (unless first-class mail shall be specifically permitted for such notice under the terms of this Certificate of Determination) with postage prepaid, addressed: (i) if to the Corporation, to its office at 4650 Norris Canyon Road San Ramon, California 94583, Attention: President, or (ii) if to any Holder, to such Holder at the address of such Holder as listed in the stock record books of the Corporation, or (iii) to such other address as the Corporation or any such Holder, as the case may be, shall have designated by notice similarly given.
+(b) The Corporation shall pay any and all stock transfer and documentary stamp taxes that may be payable in respect of any issuance or delivery of shares of Series D Preferred Stock or shares of Common Stock or other securities issued on account of Series D Preferred Stock pursuant hereto or certificates representing such shares or securities.
+Executed at San Ramon, California, on this June 26, 2013.
+Registration.
+(iii)     In the case of an Underwritten Offering pursuant to Section 2.e(i), the Company shall cooperate with the selling holders of Registrable Securities and the managing underwriter, underwriters or agent, if any, to facilitate the timely preparation and delivery of certificates representing Registrable Securities to be sold and not bearing any restrictive legends.
+The Company shall (A) permit Legal Counsel to review and comment upon (i) a Registration Statement at least five (5) Business Days prior to its filing with the Commission and (ii) all amendments and supplements to all Registration Statements (except for Annual Reports on Form 10-K, and Reports on Form 10-Q and any similar or successor reports) within a reasonable number of days prior to their filing with the Commission, and (B) not file any Registration Statement or amendment or supplement thereto in a form to which Legal Counsel reasonably objects.
+The Company shall promptly furnish to Legal Counsel, without charge, (i) copies of any correspondence from the Commission or the staff of the Commission to the Company or its representatives relating to any Registration Statement, (ii) after the same is prepared and filed with the Commission, one copy of any Registration Statement and any amendment(s) thereto, including financial statements and schedules, all documents incorporated therein by reference, if requested by the Purchaser, and all exhibits and (iii) upon the effectiveness of any Registration Statement, one copy of the Prospectus included in such Registration Statement and all amendments and supplements thereto.
+d.     The Company shall promptly furnish to the Purchaser, without charge, (i) after the same is prepared and filed with the Commission, at least one copy of such Registration Statement and any amendment(s) thereto, including financial statements and schedules, all documents incorporated therein by reference, if requested by the Purchaser, all exhibits and each preliminary Prospectus, (ii) upon the effectiveness of any Registration Statement, ten (10) copies of the Prospectus included in such Registration Statement and all amendments and supplements thereto (or such other number of copies as the Purchaser may reasonably request) and (iii) such other documents, including copies of any preliminary or final Prospectus, as the Purchaser may reasonably request from time to time in order to facilitate the disposition of the Registrable Securities owned by the Purchaser.
+The Company shall promptly notify Legal Counsel and the Purchaser of the receipt by the Company of any notification with respect to the suspension of the registration or qualification of any of the Registrable Securities for sale under the securities or “blue sky” laws of any jurisdiction in the United States or its receipt of actual notice of the initiation or threatening of any proceeding for such purpose.
+f.     The Company shall notify Legal Counsel and the Purchaser in writing of the happening of any event, as promptly as practicable after becoming aware of such event, as a result of which the Prospectus included in a Registration Statement, as then in effect, includes an untrue statement of a material fact or omission to state a material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading (provided that in no event shall such notice contain any material, nonpublic information), and, subject to Section 3(l), promptly prepare a supplement or amendment to such Registration Statement to correct such untrue statement or omission, and deliver ten (10) copies of such supplement or amendment to Legal Counsel and the Purchaser (or such other number of copies as Legal Counsel or the Purchaser may reasonably request).
+The Company shall also promptly notify Legal Counsel and the Purchaser in writing (i) when a Prospectus or any Prospectus supplement or post-effective amendment has been filed, and when a Registration Statement or any post-effective amendment has become effective (notification of such effectiveness shall be delivered to Legal Counsel and the Purchaser by facsimile on the same day of such effectiveness and by overnight mail), (ii) of any request by the Commission for amendments or supplements to a Registration Statement or related Prospectus or related information, and (iii) of the Company’s reasonable determination that a post-effective amendment to a Registration Statement would be appropriate.
+Notwithstanding anything to the contrary, the Company shall cause its transfer agent to deliver unlegended shares of Common Stock to a transferee of the Purchaser in connection with any sale of Registrable Securities with respect to which such Purchaser has entered into a contract for sale, and delivered a copy of the Prospectus included as part of the applicable Registration Statement (unless an exemption from such prospectus delivery requirements exists), prior to the Purchaser’s receipt of the notice of a Grace Period and for which the Purchaser has not yet settled.
+At least ten Business Days prior to the first anticipated filing date of a Registration Statement, the Company shall notify the Purchaser in writing of the information the Company requires from the Purchaser to have any of the Purchaser’s Registrable Securities included in such Registration Statement.
+Notwithstanding anything to the contrary, the Company shall cause its transfer agent to deliver unlegended shares of Common Stock to a transferee of the Purchaser in accordance with the terms of the Purchase Agreement in connection with any sale of Registrable Securities with respect to which such Purchaser has entered into a contract for sale prior to such Purchaser’s receipt of a notice from the Company of the happening of any event of the kind described in Section 3(g) or the first sentence of Section 3(f) and for which the Purchaser has not yet settled.
+In any event, the Company shall not be entitled to deliver more than one Suspension Notice in any one year.
+c.     Promptly after receipt by a Purchaser Indemnified Party or Company Indemnified Party under this Section 6 of notice of the commencement of any action or proceeding (including any governmental action or proceeding) involving a Claim, such Purchaser Indemnified Party or Company Indemnified Party shall, if a Claim in respect thereof is to be made against any indemnifying party under this Section 6, deliver to the indemnifying party a written notice of the commencement thereof, and the indemnifying party shall have the right to participate in, and, to the extent the indemnifying party so desires, jointly with any other indemnifying party similarly noticed, to assume control of the defense thereof with counsel mutually satisfactory to the indemnifying party and the Purchaser Indemnified Party or the Company Indemnified Party, as the case may be; provided, however, that a Purchaser Indemnified Party or Company Indemnified Party shall have the right to retain its own counsel with the fees and expenses of not more than one counsel for such Purchaser Indemnified Party or Company Indemnified Party to be paid by the indemnifying party, if, in the reasonable opinion of counsel retained by the indemnifying party, the representation by such counsel of the Purchaser Indemnified Party or Company Indemnified Party and the indemnifying party would be inappropriate due to actual or potential differing interests between such Purchaser Indemnified Party or Company Indemnified Party and any other party represented by such counsel in such proceeding.
+The failure to deliver written notice to the indemnifying party within a reasonable time of the commencement of any such action shall not relieve such indemnifying party of any liability to the Purchaser Indemnified Party or Company Indemnified Party under this Section 6, except to the extent that the indemnifying party is prejudiced in its ability to defend such action.
+Miscellaneous.
+Any notices, consents, waivers or other communications required or permitted to be given under the terms of this Agreement must be in writing and will be deemed to have been delivered: (i) upon receipt, when delivered personally, (ii) upon receipt, when sent by facsimile (provided confirmation of transmission is mechanically or electronically generated and kept on file by the sending party), so long as such facsimile is followed by mail delivery of the same information contained in such facsimile, or (iii) one Business Day after deposit with a nationally recognized overnight delivery service, in each case properly addressed to the party to receive the same.
+The addresses for such communications shall be:
+4650 Norris Canyon Road
+San Ramon, California 94583
+Attn: John Regazzi
+Email: jregazzi@gigatronics.com
+Written confirmation of receipt (A) given by the recipient of such notice, consent, waiver or other communication, or (B) provided by a courier or overnight courier service shall be rebuttable evidence of personal service, or receipt from a nationally recognized overnight delivery service in accordance with clause (i) or (iii) above, respectively.
+This Agreement, once executed by a party, may be delivered to the other party hereto by facsimile transmission of a copy of this Agreement bearing the signature of the party so delivering this Agreement.
+Each party shall do and perform, or cause to be done and performed, all such further acts and things, and shall execute and deliver all such other agreements, certificates, instruments and documents, as any other party may reasonably request in order to carry out the intent and accomplish the purposes of this Agreement and the consummation of the transactions contemplated hereby.
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+[SIGNATURE PAGES OF PURCHASER TO FOLLOW]
+Address for Notice:
+Telephone No.
+: (610) 310-9419
+E-mail Address: dwallis@activevalueinvestors.com
+Attention: Darren C. Wallis, Managing Member
+Form of Secretary’s Certificate
+The undersigned hereby certifies that he is the duly elected, qualified Acting Secretary of Giga-tronics Incorporated, a corporation organized in the State of California (the “Company”), and that as such he is authorized to execute and deliver this certificate in the name and on behalf of the Company and in connection with the Securities Purchase Agreement, dated as of June 27, 2013, by and between the Company and the investor party thereto (the “Securities Purchase Agreement”), and further certifies in his official capacity, in the name and on behalf of the Company, the items set forth below.
+Signature
+John Regazzi
+Chief Financial Officer and Secretary
+Form of Officer’s Certificate
+IN WITNESS WHEREOF, the undersigned has executed this certificate this ___ day of July, 2013.
+Steve Lance
+Chief Financial Officer and Secretary

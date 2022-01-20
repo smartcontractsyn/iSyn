@@ -1,0 +1,170 @@
+2.5
+2.10
+Letter of Credit Reimbursement Payments
+Payment Method
+3.5
+Payment on Non-Business Day; Payment Computations
+3.10
+WHEREAS, pursuant to that certain Amended and Restated Credit Agreement dated as of January 11, 2002 (as amended, restated, modified and/or supplemented from time to time prior to the date hereof, the “Existing Credit Agreement”), by and among the Company, LaSalle, as agent, Bank One, NA, formerly known as The First National Bank of Chicago (“Bank One”), and various lenders party thereto from time to time, the Company restuctured a $40,000,000 credit facility, including letters of credit (the “Existing Credit Facility”), into a $15,000,000 term loan from Bank One, and a revolving credit facility of up to $25,000,000, which Existing Credit Facility has been further amended and increased to $43,000,000; and
+WHEREAS, the Company has requested that the credit facility be restructured and increased to (i) a $32,000,000 term loan, and (ii) a revolving credit facility of up to $33,000,000, including letters of credit, in order to provide funds and other financial accommodations for its corporate purposes; and
+“9 1/4% Notes” shall mean the 9 1/4% Senior Subordinated Notes issued by the Company in the original aggregate principal amount of $140,000,000 due 2008 issued pursuant to the Existing Indenture, as the same may be amended, restated, modified or supplemented and in effect from time to time, as permitted by the terms hereof.
+“14% Notes” shall mean the 14% Senior Subordinated Second Lien Notes issued by the Company in the original aggregate principal amount of $59,295,000 due 2006 issued pursuant to the 14% Note Indenture, as the same may be amended, restated, modified or supplemented and in effect from time to time as permitted by the terms hereof.
+4.50% (450 basis points)
+2.25% (225 basis points)
+“Borrowing Base” shall mean an amount equal to (i) eighty percent (80%) of the unpaid amount (net of such reserves and allowances as the Agent deems necessary in its reasonable discretion) of all Eligible Accounts Receivable then existing (other than Eligible Capital Improvement Receivables), plus (ii) fifty percent (50%) of all Eligible Capital Improvement Receivables then existing, plus (iii) forty percent (40%) of (A) the Net Book Value of Fixed Assets of the Company, minus (B) outstanding Capital Lease Indebtedness of the Company (determined on a consolidated basis), plus $8,000,000, provided, however, that such $8,000,000 additional availability shall be decreased by $500,000 on March 31, 2004, and on every March 31st and September 30th of each year thereafter.
+“Federal Funds Rate” shall mean, for any day, an interest rate per annum equal to the weighted average of the rates on overnight Federal funds transactions with members of the Federal Reserve System arranged by Federal funds brokers on such day, as published for such day (or, if such day is not a Business Day, for the immediately preceding Business Day) by the Federal Reserve Bank of New York, or, if such rate is not so published for any day which is a Business Day, the average of the quotations at approximately 10:00 a.m. (Chicago time) on such day on such transactions received by the Agent from three Federal funds brokers of recognized standing selected by the Agent in its discretion.
+“Fixed Charges” shall mean, for any period, the sum, without duplication, of (a) Net Interest Expense, plus (b) all payments of principal and other sums required to be paid in cash during such period by the Company or its Subsidiaries with respect to Indebtedness (excluding Off-Balance Sheet Liabilities, any payments of the principal amount of the Term Loan and any amounts used by the Company to redeem the 14% Notes as permitted by subsection 5.2(p)) of the Company or its Subsidiaries, plus (c) Net Capital Expenditures (minus the amount of any Ordinary Course Capital Leases used to finance such Net Capital Expenditures) during such period by the Company and its Subsidiaries, plus (d) all dividends, distributions and other similar obligations actually paid in cash with respect to Capital Stock (other than pursuant to subsections 5.2(l)(2), (4) and (5)), plus (e) all payments which are actually paid in cash during such period by the Company or its Subsidiaries pursuant to any Earnouts and any Adjusted Off-Balance Sheet Liabilities, unless such amount has been previously deducted from Adjusted EBITDA, plus (f) all accrued income taxes paid or payable in cash for such period for the Company or its Subsidiaries.
+“LIBOR Loan” shall mean any Revolving Credit Loan which bears interest at a rate equal to (i) the Applicable Margin, plus (ii) LIBOR, as determined for the relevant LIBOR Interest Period.
+“Overdue Rate” shall mean (a) in respect of principal of Adjusted Corporate Base Rate Loans, a rate per annum that is equal to the sum of two percent (2%) per annum plus the Adjusted Corporate Base Rate, (b) in respect of principal of LIBOR Loans, a rate per annum that is equal to the sum of two percent (2%) per annum plus the per annum rate in effect thereon until the end of the then current LIBOR Interest Period for such Revolving Credit Loan and, thereafter, a rate per annum that is equal to the sum of two percent (2%) per annum plus the Adjusted Corporate Base Rate, (c) in respect of the Term Loan Interest Rate (as defined in subsection 3.2(c)) on the Term Loan, a rate per annum that is equal to two percent (2%) per annum plus the Term Loan Interest Rate, and (d) in respect of other amounts payable by the Company hereunder (other than interest), a per annum rate that is equal to the sum of two percent (2%) per annum plus the Adjusted Corporate Base Rate.
+“Parent’s Senior Discount Notes” shall mean the 11 1/4% Senior Discount Notes due 2008 issued by the Parent in the original aggregate principal amount of $70,000,000, as the same may be amended, restated, modified or supplemented and in effect from time to time.
+“Required Lenders” shall mean both (i) Lenders, other than Defaulting Lenders, holding not less than 50.1% of the Revolving Commitments (or 50.1% of the aggregate outstanding amount of the Revolving Credit Advances if the Revolving Commitments have been terminated), and (ii) Lenders, other than Defaulting Lenders, holding not less than 50.1% of the Term Loan Commitments (or 50.1% of the aggregate outstanding amount of the Term Loan if the Term Loan Commitments have been terminated).
+The Term Loan Lenders agree, subject to the terms and conditions of this Agreement, to make a term loan in favor of the Company (“Term Loan”) on the Closing Date in aggregate principal amount of  $32,000,000.
+(a)           The Company agrees to pay to the Agent, for the pro rata benefit of the Revolving Lenders, a commitment fee on the daily average unused amount of the Revolving Commitments, for the period from the Effective Date to but excluding the Revolving Credit Termination Date, at a rate equal to 37.5 basis points per annum.
+Such accrued commitment fees shall be payable quarterly in arrears on the last Business Day of each March, June, September and December, commencing on September 30, 2003, and on the Revolving Credit Termination Date.
+(b)           The Company agrees to pay to the Agent, with respect to Letters of Credit, a per annum fee, computed at a rate equal to the Applicable Margin for LIBOR Loans, calculated on the maximum amount available to be drawn from time to time under a Letter of Credit, which fee shall be paid quarterly in arrears on the last Business Day of each March, June, September and December for the period from and including the date of issuance of such Letter of Credit, to and including the stated expiry date of such Letter of Credit, which fees shall be for the pro rata benefit of the Revolving Lenders, provided that a fee computed at the rate of 0.25% per annum calculated on the face amount of each Letter of Credit shall be retained from such fee solely for the account of the Agent at any time when two or more Lenders hold Revolving Commitments.
+(c)           The Company agrees to pay to the Agent, for the benefit of the Term Loan Lenders, the commitment fees in the amounts and at the times stated in that certain letter dated August 28, 2003, by and between the Company and the Agent.
+2.4           Disbursement of Revolving Credit Advances; Loans Evidenced by Notes.
+If and to the extent such Lender shall not have so made such pro rata portion available to the Agent, the Agent may (but shall not be obligated to) make such amount available to the Company, and such Lender and the Company severally agree to pay to the Agent forthwith on demand such amount together with interest thereon, for each day from the date such amount is made available to the Company by the Agent until the date such amount is repaid to the Agent, at a rate per annum equal to, in the case of the Company, the interest rate applicable to such Borrowing during such period and, in the case of any Revolving Lender, at the Federal Funds Rate for the first five days and at the interest rate applicable to such Borrowing thereafter.
+If such Lender shall pay such amount to the Agent together with interest, such amount so paid shall constitute a Revolving Credit Loan by such Lender as a part of such Borrowing for purposes of this Agreement.
+If and to the extent such Revolving Lender shall not have made any required pro rata portion available to the Agent, such Revolving Lender and the Company, unconditionally and irrevocably, severally agree to pay to the Agent forthwith on demand such amount together with interest thereon, for each day from the date such amount was paid by the Agent until such amount is so made available to the Agent for its own account at a per annum rate equal to the interest rate applicable during such period to the related Revolving Credit Loan disbursed under Section 3.3 in respect of the reimbursement obligation of the Company.
+If such Revolving Lender shall pay such amount to the Agent together with such interest, if any, accrued, such amount so paid shall constitute a Revolving Credit Loan by such Revolving Lender as part of the Revolving Credit Borrowing disbursed in respect of the reimbursement obligation of the Company under Section 3.3 for purposes of this Agreement.
+2.9           Minimum Amounts; Limitation on Number of Borrowings.
+Except for (a) Revolving Credit Advances and conversions thereof which exhaust the entire remaining amount of the Revolving Commitments, (b) prepayment of the Term Loan permitted by this Agreement, and (c) payments required pursuant to Section 3.8, each Borrowing and each continuation or conversion pursuant to Section 2.7 and each prepayment thereof shall be in a minimum amount of, in the case of LIBOR Borrowings, $2,000,000 and in integral multiples of $500,000, and in the case of Adjusted Corporate Base Rate Borrowings, $250,000 and in integral multiples of $50,000.
+or operations valued in excess of $100,000, all subject to certain other exclusions and the further terms and conditions of the Security Documents;
+(a)           Unless earlier payment is permitted or required under this Agreement, the Company shall pay to the Agent, for the benefit of the Lenders, (i) on the Revolving Credit Termination Date, the entire outstanding principal amount of the Revolving Credit Advances, and (ii) on the Term Loan Termination Date, the entire outstanding principal amount of the Term Loan.
+Any prepayment of the Revolving Credit Loans shall be made to the Agent for the benefit of and distribution to the Revolving Lenders.
+If any prepayment of the Term Loan is permitted by the Bank Subordination Agreement, a prepayment fee shall be charged to the
+Company and shall be payable to the Term Loan Lenders, pro rata, in the amount of (i) 2% of the amount being prepaid if prepayment occurs at any time from, and including, the Closing Date to, but excluding, the first anniversary of the Closing Date, and (ii) 1% of the amount being prepaid if prepayment occurs at any time from, and including, the first anniversary of the Closing Date, to but excluding, the second anniversary of the Closing Date.
+The Company shall pay interest to the Agent, on behalf of the Lenders, on the unpaid principal amount of each Loan, for the period commencing on the Closing Date (or if later, the date such Loan is made) until such Loan is paid in full, on each Interest Payment Date and at maturity (whether at stated maturity, by acceleration or otherwise), and thereafter on demand, at the following rates per annum:
+(c)           With respect to the Term Loan, interest shall accrue and be payable at the Corporate Base Rate plus 6 3/4% per annum (the “Term Loan Interest Rate”), payable in arrears on each Interest Payment Date; provided, that, the Company may, upon written notice to the Agent from time to time, elect to defer the cash payment of up to 3% per annum, as of each applicable Interest Payment Date, of the Term Loan Interest Rate (such amount, the “Deferred Interest Amount”).
+(a)           (i)            The Company agrees to pay to the Agent, not later than 1:00 p.m. Chicago time on the date on which the Agent shall honor a draft or other demand for payment presented or made under any Letter of Credit, an amount equal to the amount paid by the Agent in respect of such draft or other demand under any such Letter of Credit, and all reasonable expenses paid or incurred by the Agent relative thereto (the “Reimbursement Amount”).
+Unless the Company shall have made such payment to the Agent, on such day, upon each such payment by the Agent, the Company shall be deemed to have elected to satisfy its reimbursement obligation by an Adjusted Corporate Base Rate Borrowing in an amount equal to the amount so paid by the Agent in respect of such draft or other demand under such Letter of Credit, and the Agent shall be deemed to have disbursed to the Company, for the account of the Revolving Lenders, the Adjusted Corporate Base Rate Loans comprising such Adjusted Corporate Base Rate Borrowing, and each Lender holding a Revolving Commitment shall make its share of each such Adjusted Corporate Base Rate Borrowing available to the Agent for its own account in accordance with this Agreement.
+Each such Lender shall share on a pro rata basis in any interest which accrues thereon and in all repayments thereof.
+If and to the extent that any such Lender shall not have so made the amount of such participating interest available to the Agent, such Lender agrees to pay to the Agent for its own account forthwith on demand such amount together with interest thereon, for each day from the date of demand by the Agent until the date such amount is paid to the Agent, at the Federal Funds Rate for the first five days after such demand and at the Overdue Rate thereafter.
+3.4           Payment Method.
+(a)           All payments to be made by the Company hereunder will be made in Dollars and in immediately available funds to the Agent (subject to any rights the Term Loan Lender may have to receive payments directly from the Company, pursuant to the terms of the Bank Subordination Agreement) for the account of the Lenders at its address set forth on the signature pages not later than 1:00 p.m. Chicago time on the date on which such payment shall become due.
+Payments received after 1:00 p.m. Chicago time shall be deemed to be payments made prior to 1:00 p.m. Chicago time on the next succeeding Business Day.
+3.6           Payment on Non-Business Day; Payment Computations.
+Upon the execution of the respective Assignment and Acceptances, the payment of amounts referred to in clauses (x) and (y) above and, if so requested by the
+6.88 to 1.00
+6.73 to 1.00
+6.73 to 1.00
+6.73 to 1.00
+6.73 to 1.00
+6.27 to 1.00
+6.27 to 1.00
+6.27 to 1.00
+6.27 to 1.00
+5.71 to 1.00
+5.71 to 1.00
+5.71 to 1.00
+7.50 to 1.00
+7.34 to 1.00
+7.34 to 1.00
+7.34 to 1.00
+7.34 to 1.00
+6.84 to 1.00
+6.84 to 1.00
+6.84 to 1.00
+6.84 to 1.00
+6.23 to 1.00
+6.23 to 1.00
+6.23 to 1.00
+1.50 to 1.00
+1.56 to 1.00
+1.56 to 1.00
+1.56 to 1.00
+1.56 to 1.00
+1.66 to 1.00
+1.66 to 1.00
+1.66 to 1.00
+1.66 to 1.00
+1.72 to 1.00
+1.72 to 1.00
+1.72 to 1.00
+1.33 to 1.00
+1.39 to 1.00
+1.39 to 1.00
+1.39 to 1.00
+1.39 to 1.00
+1.47 to 1.00
+1.47 to 1.00
+1.47 to 1.00
+1.47 to 1.00
+1.53 to 1.00
+1.53 to 1.00
+1.53 to 1.00
+1.09 to 1.00
+1.12 to 1.00
+1.12 to 1.00
+1.12 to 1.00
+1.12 to 1.00
+1.13 to 1.00
+1.13 to 1.00
+1.13 to 1.00
+1.13 to 1.00
+1.19 to 1.00
+1.19 to 1.00
+1.19 to 1.00
+0.97 to 1.00
+1.00 to 1.00
+1.00 to 1.00
+1.00 to 1.00
+1.00 to 1.00
+1.00 to 1.00
+1.00 to 1.00
+1.00 to 1.00
+1.00 to 1.00
+1.05 to 1.00
+1.05 to 1.00
+1.05 to 1.00
+2.42 to 1.00
+2.41 to 1.00
+2.41 to 1.00
+2.41 to 1.00
+2.41 to 1.00
+2.25 to 1.00
+2.25 to 1.00
+2.25 to 1.00
+2.25 to 1.00
+2.15 to 1.00
+2.15 to 1.00
+2.15 to 1.00
+2.64 to 1.00
+2.63 to 1.00
+2.63 to 1.00
+2.63 to 1.00
+2.63 to 1.00
+2.45 to 1.00
+2.45 to 1.00
+2.45 to 1.00
+2.45 to 1.00
+2.35 to 1.00
+2.35 to 1.00
+2.35 to 1.00
+(ix)           any Lien created to secure payment of a portion of the purchase price of, or existing at the time of acquisition of, any tangible fixed asset (including Liens granted in connection with Ordinary Course Capital Leases) acquired by the Company or any of its Subsidiaries may be created or suffer to exist upon such tangible fixed asset if
+the outstanding principal amount of the Indebtedness secured by such Lien does not exceed the purchase price paid by the Company or such Subsidiary for such tangible fixed asset provided that (A) such Lien does not encumber any other asset at any time owned by the Company or such Subsidiary, (B) not more than one such Lien shall encumber such tangible fixed asset at any one time and (C) the aggregate amount of Indebtedness secured by all such Liens shall not exceed the amounts permitted by subsections 5.2(e)(ii) and (xi);
+(2)           the Company or any Subsidiary may pay or issue to Parent or Affiliates such amounts or dividends which in the aggregate do not exceed in any fiscal quarter an amount equal to the lesser of $750,000 or an amount equal to 50% of the amount of the Company’s Excess Cash Flow times one-fourth (collectively, the “Affiliate Amount”); provided, that (i) such payments do not violate any other terms or provisions of this Agreement, (ii) no Unmatured Event or Event of Default exists or would be caused by any such payment; and (iii) the payment of the Affiliate Amount shall begin for the fiscal quarter ending September 30, 2003, and any such payment may include payment of amounts of the Affiliate Amount that have accrued, and remain unpaid, since March 31, 2002;
+(4)           The Company may use proceeds of the Term Loan equal to a maximum of the lesser of (i) $2,425,000, or (ii) the actual purchase price of the Parent’s Senior Discount Notes (which price shall include accrued interest) (the “Maximum Term Loan Proceeds”) to redeem shares of Series C Preferred Stock owned by the Parent, of which such Maximum Term Loan Proceeds the Parent must use, or return to the Company, 100% within 180 days of the date of such Preferred Stock redemption to, directly or indirectly, repurchase and retire a portion of the Parent’s Senior Discount Notes; provided, however, that any amount of the proceeds of the Term Loan used pursuant to this subsection 5.2(l)(4) that is in excess of $1,000,000 shall reduce the amount of the proceeds of the Term Loan available to be used pursuant to subsection 5.2(l)(5) on a dollar-for-dollar basis;
+(11)         the Company may pay on behalf of, or make reimbursements to, the Parent not to exceed (i) $300,000 in the aggregate for the fiscal year of the Company ending December 31, 2003 (all of which have been made as of the Effective Date, and no more of which may be made in calendar year 2003 from and after the Effective Date), and (ii) $200,000 in the aggregate for any fiscal year of the Company ending thereafter, for expenses incurred in the ordinary course of business by the Parent for its own account or on behalf of the Company and/or the Company’s Subsidiaries (including, without limitation, expenses for audit fees, tax consulting, trustee fees, legal fees and bank fees);
+(o)           Subsidiary Dividends.
+Notwithstanding the foregoing, the Company may from time to time use the Term Loan proceeds to purchase a portion of its 14% Notes , in amounts, and upon terms and conditions, approved by the Required Lenders in writing.
+such Net Capital Expenditures, such resulting amount referred to in this section as “Adjusted Net Capital Expenditures”) that exceed in any fiscal year in the aggregate for the Company and its Subsidiaries 25% of the Adjusted EBITDA for such fiscal year, plus in each case, (i) the amount by which the allowed Adjusted Net Capital Expenditures for the most recently ended fiscal year exceeded the actual Adjusted Net Capital Expenditures for such fiscal year and (ii) an amount, not to exceed $2,000,000, of the allowed Adjusted Net Capital Expenditures for the following fiscal year (subject to the permitted Adjusted Net Capital Expenditures for such following year being reduced by the amount used and allowed under this clause (ii)).
+20,275,000
+21,154,000
+21,154,000
+21,154,000
+21,154,000
+23,044,000
+23,044,000
+23,044,000
+23,044,000
+25,035,000
+25,035,000
+25,035,000
+The Company or any of its Subsidiaries or any Guarantor (other than the Parent) shall fail to pay any part of the principal of, the premium, if any, or the interest on, or any other payment of money due under any of its Indebtedness (other than (i) Indebtedness hereunder, (ii) Indebtedness of APCOA-Atrium Parking Venture L.P., an Ohio limited partnership (“Atrium”), with respect to its obligations to the holders of its Ten-Year Debentures bearing interest at a rate of 12% per annum, issued in original principal amount of $1,775,000 pursuant to the terms of a Confidential Private Placement memorandum dated May 24, 1995, and (iii) other non-recourse Indebtedness of the Company or any of its Subsidiaries or any Guarantor as the Agent shall consent, such consent not to be unreasonably withheld), beyond any period of grace provided with respect thereto, which individually or together with other such Indebtedness as to which any such failure exists has an aggregate outstanding principal amount in excess of $750,000; or the Company or any of its Subsidiaries or any Guarantor (other than the Parent) shall fail to perform or observe any other term, covenant or agreement contained in any agreement, document or instrument evidencing or securing any such Indebtedness having such aggregate outstanding principal amount, or under which any such Indebtedness was issued or created, beyond any period of grace, if any, provided with respect thereto if the effect of such failure is either (i) to cause or permit the holders of such Indebtedness (or a trustee on behalf of such holders) to cause, any payment in respect of such Indebtedness to become due prior to its due date or (ii) to permit the holders of such Indebtedness (or a trustee on behalf of such holders) to elect a majority of the board of directors of the Company or the Parent; provided, however, that with respect to the Parent, the Parent shall fail to pay any part of the principal of, the premium, if any, or the interest on, or any other payment of money due under any of such Indebtedness, beyond any period of grace provided with respect thereto, if the effect of such failure is to cause the holders of such Indebtedness (or a trustee on behalf of such holders) to cause any payment in respect of such Indebtedness to become due prior to its due date;
+The Lenders further agree among themselves that, in the event that amounts received by the Lenders and the Agent hereunder are insufficient to pay all such obligations or insufficient to pay all such obligations when due, the fees and other amounts owing to the Agent in such capacity shall be paid therefrom before payment of obligations owing to the Lenders under this Agreement, except as otherwise expressly provided in this Agreement, if any Lender or Agent shall fail to remit to the Agent or any other Lender an amount payable by such Lender or Agent to the Agent or such other Lender pursuant to this Agreement on the date when such amount is due, such payments shall be made together with interest thereon for each date from the date such amount is due until the date such amount is paid to the Agent or such other Lender at a rate per annum equal to the rate at which borrowings are available to the payee in its overnight federal funds market.
+Revolving Commitment: $33,000,000
+Term Loan Commitment:  $0
+Revolving Commitment: $0
+Term Loan Commitment:  $32,000,000

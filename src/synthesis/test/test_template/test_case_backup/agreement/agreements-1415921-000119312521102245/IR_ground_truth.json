@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "EMERY SHIPPING CORPORATION"
+    ],
+    "BuyerName": [
+        "CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK"
+    ],
+    "EffectiveTime": [
+        "23 March 2021"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "CRÉDIT AGRICOLE CORPORATE AND INVESTMENT BANK"
+            ],
+            "To": [
+                "EMERY SHIPPING CORPORATION"
+            ],
+            "PurchasePrice": "58000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

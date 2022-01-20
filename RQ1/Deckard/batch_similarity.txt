@@ -1,0 +1,132 @@
+PA0
+
+Vec cosine 0.9960320231885408
+Difference 1-norm 497.0
+Difference 2-norm 153.11107079502776
+
+PA1
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+PA2
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+PA3
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+PA4
+
+Vec cosine 0.9960320231885408
+Difference 1-norm 497.0
+Difference 2-norm 153.11107079502776
+
+PA5
+
+Vec cosine 0.9999904928290128
+Difference 1-norm 6.0
+Difference 2-norm 2.449489742783178
+
+SPA0
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+SPA1
+
+Vec cosine 0.9997253922961399
+Difference 1-norm 204.0
+Difference 2-norm 56.444663166680336
+
+SPA2
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+SPA3
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+SPA4
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+SPA5
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+SPA6
+
+Vec cosine 0.9991066183739653
+Difference 1-norm 229.0
+Difference 2-norm 67.08949247087803
+
+SPA7
+
+Vec cosine 0.9999848043680769
+Difference 1-norm 6.0
+Difference 2-norm 2.449489742783178
+
+SPA8
+
+Vec cosine 0.9999633021603991
+Difference 1-norm 6.0
+Difference 2-norm 2.449489742783178
+
+SPA9
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+SECPA0
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+SECPA1
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+SECPA2
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+SECPA3
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+SA0
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+
+SA1
+
+Vec cosine 1.0
+Difference 1-norm 0.0
+Difference 2-norm 0.0
+

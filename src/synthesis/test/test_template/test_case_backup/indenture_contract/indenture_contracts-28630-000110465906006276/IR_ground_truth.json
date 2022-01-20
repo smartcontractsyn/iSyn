@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "DRS TECHNOLOGIES, INC."
+    ],
+    "BuyerName": [
+        "THE BANK OF NEW YORK."
+    ],
+    "EffectiveTime": [
+        "January 31, 2006"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "THE BANK OF NEW YORK."
+            ],
+            "To": [
+                "DRS TECHNOLOGIES, INC."
+            ],
+            "PurchasePrice": "300000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

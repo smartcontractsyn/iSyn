@@ -1,0 +1,125 @@
+2.20
+3.01
+3.07
+4.01
+Conditions to the Closing Date
+5.15
+5.20
+6.01
+6.02
+6.04
+6.05
+6.07
+6.08
+6.15
+6.20
+7.01
+7.02
+7.03
+7.04
+7.05
+7.07
+7.12
+7.14
+7.15
+7.18
+8.01
+9.01
+9.05
+Resignation of Administrative Agent
+9.07
+10.01
+10.04
+10.05
+10.10
+10.12
+10.16
+10.17
+10.18
+Schedule 4.01(c)                              Closing Date Lien Waivers
+upfront or termination payments and all prepayment premiums and similar redemption premiums relating to the repayment or redemption of indebtedness;
+“Balance Sheet Date” means December 31, 2012.
+“Closing Date” means April 4, 2013.
+“Defaulting Lender” means, subject to Section 2.16(b), any Lender that (a) has failed to (i) fund all or any portion of its Loans within two Business Days of the date such Loans were required to be funded hereunder unless such Lender notifies the Administrative Agent and the Borrowers in writing that such failure is the result of such Lender’s determination that one or more conditions precedent to funding (each of which conditions precedent, together with any applicable default, shall be specifically identified in such writing) has not been satisfied, or (ii) pay to the Administrative Agent, the L/C Issuer, the Swing Line Lender or any other Lender any other amount required to be paid by it hereunder (including in respect of its participation in Letters of Credit or Swing Line Loans) within two Business Days of the date when due, (b) has notified the Borrowers, the Administrative Agent, the L/C Issuer or the Swing Line Lender in writing that it does not intend to comply with its funding obligations hereunder, or has made a public statement to that effect (unless such writing or public statement relates to such Lender’s obligation to fund a Loan hereunder and states that such position is based on such Lender’s determination that a condition precedent to funding (which condition precedent, together with any applicable default, shall be specifically identified in such writing or public statement) cannot be satisfied), (c) has failed, within three Business Days after written request by the Administrative Agent, to confirm in writing to the Administrative Agent that it will comply with its prospective funding obligations hereunder (provided that such Lender shall cease to be a Defaulting Lender pursuant to this clause (c) upon receipt of such written confirmation by the Administrative Agent), or (d) has, or has a direct or indirect parent company that has, (i) become the subject of a proceeding under any Debtor Relief Law, or (ii) had appointed for it a receiver, custodian, conservator, trustee, administrator, assignee for the benefit of creditors or similar Person charged with reorganization or liquidation of its business or assets, including the Federal Deposit Insurance Corporation or any other state or federal or foreign regulatory authority acting in such a capacity; provided that a Lender shall not be a Defaulting Lender solely by virtue of the ownership or acquisition of any Capital Stock in that Lender or any direct or indirect parent company thereof by a Governmental Authority so long as such ownership interest does not result in or provide such Lender with immunity from the jurisdiction of courts within the United States or from the enforcement of judgments or writs of attachment on its assets or permit such Lender (or such Governmental Authority) to reject, repudiate, disavow or disaffirm any contracts or agreements made with such Lender.
+extent such reduction or termination occurs after the first anniversary of the Closing Date but on or before the second anniversary of the Closing Date, and (c) 0.00% to the extent such reduction or termination occurs after the second anniversary of the Closing Date.
+(a)                                 it is not in good and saleable condition;
+(c)                                  it is unpaid for more than sixty (60) days after the original due date or ninety (90) days past the original invoice date;
+“ERISA Event” means (a) a Reportable Event with respect to a Pension Plan; (b) the withdrawal of any Borrower or any ERISA Affiliate from a Pension Plan subject to Section 4063 of ERISA during a plan year in which such entity was a “substantial employer” as defined in Section 4001(a)(2) of ERISA or a cessation of operations that is treated as such a withdrawal under Section 4062(e) of ERISA; (c) a complete or partial withdrawal by any Borrower or any ERISA Affiliate from a Multiemployer Plan or notification that a Multiemployer Plan is in reorganization; (d) the filing of a notice of intent to terminate, the treatment of a Pension Plan amendment as a termination under Section 4041 or 4041A of ERISA; (e) the institution by the PBGC of proceedings to terminate a Pension Plan; (f) any event or condition which constitutes grounds under Section 4042 of ERISA for the termination of, or the appointment of a trustee to administer, any Pension Plan; (g) the determination that any Pension Plan is considered an at-risk plan or a plan in endangered or critical status within the meaning of Sections 430, 431 and 432 of the Code or Sections 303, 304 and 305 of ERISA; or (h) the imposition of any liability under Title IV of ERISA, other than for PBGC premiums due but not delinquent under Section 4007 of ERISA, upon any Borrower or any ERISA Affiliate.
+Any such automatic conversion to Base Rate Loans shall be effective on the last day of the Interest
+2.03                        Letters of Credit.
+(ii)                                  The L/C Issuer shall not issue nor cause to be issued any Letter of Credit, if:
+(A)                               subject to Section 2.03(b)(iii), the expiry date of such requested Letter of Credit would occur more than twelve months (or 180 days in the case of a documentary Letter of Credit) after the date of issuance or last extension, unless the Administrative Agent has approved such expiry date; or
+(B)                               the expiry date of such requested Letter of Credit would occur after the Letter of Credit Expiration Date, unless all the Revolving Credit Lenders have approved such expiry date.
+Once an Auto-Extension Letter of Credit has been issued, the Revolving Credit Lenders shall be deemed to have authorized (but may not require) the L/C Issuer to permit the extension of such Letter of Credit at any time to an expiry date not later than the Letter of Credit Expiration Date; provided, however, that the L/C Issuer shall not permit any such extension if it has received notice (which shall be in writing or in any Electronic Medium) on or before the day that is ten (10) days before the Non-Extension Notice Date from the Administrative Agent, any Revolving Credit Lender or the Borrower Representative that one or more of the applicable conditions specified in Section 4.02 is not then satisfied, and in each such case directing the L/C Issuer not to permit such extension.
+2.06                        Termination or Reduction of Commitments.
+The Borrower Representative may, upon notice to the Administrative Agent, terminate the Revolving Credit Facility in full or permanently reduce the Revolving Credit Facility in part; provided that (i) any such notice shall be received by the Administrative Agent not later than 2:00 p.m. Eastern time (11:00 am Pacific time) five (5) Business Days prior to the date of termination or reduction, (ii) any such partial reduction shall be in an aggregate amount of $1,000,000 or any whole multiple of $1,000,000 in excess thereof, provided that the Commitments shall not be reduced to less than $25,000,000 with respect to any partial reduction, (iii) the Borrower Representative shall not terminate or reduce the Revolving Credit Facility if, after giving effect thereto and to any concurrent prepayments hereunder, Overall Excess Availability would be less than $0, (iv) if, after giving effect to any reduction of the Revolving Credit Facility, the Letter of Credit Sublimit or the Swing Line Sublimit exceeds the amount of the Revolving Credit Facility, such Letter of Credit Sublimit and Swing Line Sublimit shall be automatically reduced by the amount of such excess, (v) the Borrowers shall pay each Revolving Credit Lender its Applicable Percentage of the Early Termination Fee on the amount terminated or reduced concurrently with such termination or reduction and (vi) any such notice may be revoked if it indicates that a termination of the Revolving Credit Facility is in connection with a refinancing of all Obligations and such refinancing is not consummated or is delayed.
+The Administrative Agent will promptly notify the Revolving Credit Lenders of any such notice of termination or reduction of the Revolving Credit Facility.
+All fees accrued until the effective date of any termination of the Revolving Credit Facility shall be paid on the effective date of such termination.
+(c)                                  Failure to Satisfy Conditions Precedent.
+Unless its authority has been revoked in writing by the Required Lenders, the Administrative Agent may require the Lenders to honor requests for Overadvance Loans and to forbear from requiring the Borrowers to cure an Overadvance, (a) when no other Event of Default is known to the Administrative Agent, as long as (i) the Overadvance does not continue for more than 30 consecutive days (and no Overadvance may exist for at least five consecutive days thereafter before further Overadvance Loans are required), and (ii) the Overadvance is not known by the Administrative Agent to exceed $3,000,000; and (b) regardless of whether an Event of Default exists, if the Administrative Agent discovers an Overadvance not previously known by it to exist, as long as from the date of such discovery the Overadvance (i) is not increased by more than $2,000,000, and (ii) does not continue for more than 30 consecutive days.
+Any Revolving Credit Lender not responding within such time period shall be deemed to have declined to increase its Commitment.
+(d)                                 Delay in Requests.
+4.01                        Conditions to the Closing Date.
+(k)                                 The Administrative Agent and the Arranger shall have received a satisfactory payoff letter evidencing that each Prior Credit Agreement has been or concurrently with the Closing Date is being terminated and all Liens securing obligations under each Prior Credit Agreement are being released, together with all intellectual property lien releases, UCC-3 financing statements, account control agreement terminations and all other termination statements and lien releases required by the Administrative Agent and the Arranger.
+(p)                                 Any fees required to be paid under the Loan Documents on or before the Closing Date shall have been paid.
+5.01                        Corporate Authority, Etc.
+(b)                                 Authorization; No Contravention.
+5.08                        No Default.
+Pension Funding Rules in respect of each Pension Plan, and no waiver of the minimum funding standards under the Pension Funding Rules has been applied for or obtained; (iii) as of the most recent valuation date for any Pension Plan, the funding target attainment percentage (as defined in Section 430(d)(2) of the Code) is 60% or higher and neither any Credit Party nor any ERISA Affiliate knows of any facts or circumstances that could reasonably be expected to cause the funding target attainment percentage for any such plan to drop below 60% as of the most recent valuation date; (iv) neither any Credit Party nor any ERISA Affiliate has incurred any liability to the PBGC other than for the payment of premiums, and there are no premium payments which have become due that are unpaid; (v) neither any Credit Party nor any ERISA Affiliate has engaged in a transaction that could be subject to Section 4069 or Section 4212(c) of ERISA; and (vi) no Pension Plan has been terminated by the plan administrator thereof nor by the PBGC, and no event or circumstance has occurred or exists that could reasonably be expected to cause the PBGC to institute proceedings under Title IV of ERISA to terminate any Pension Plan.
+6.01        Intentionally Omitted.
+6.05        Notices.
+(f)            Notification of Claim against Collateral.
+6.07        Insurance.
+6.08        Taxes.
+6.15        Further Assurances.
+6.18        Lien Waivers.
+6.19        Intentionally Omitted.
+6.20        Post Closing Obligations.
+7.01        Investments.
+(i)            Investments existing as of the Closing Date and set forth on Schedule 7.01;
+60 days after the Closing Date (or such longer period as the Administrative Agent may otherwise agree);
+(vii)         (a) Permitted Specified Sales and the termination or assignments of leases or subleases for retail stores closed as a result of a Permitted Specified Sale and (b) the termination or assignments of leases or subleases for retail stores not in connection with a Permitted Specified Sale not to exceed ten (10) leases (unless agreed by the Administrative Agent in its discretion) during the term of this Agreement so long as the disposal of Inventory at such retail stores is permitted by this Section 7.05(b);
+7.06        Sale and Leaseback.
+7.09        No Speculative Transactions.
+7.12        Margin Regulations.
+December 31, 2013
+December 31, 2014
+December 31, 2015
+July 1, 2015 and thereafter
+7.16        Sanctions.
+7.18        Consignments.
+8.01        Events of Default.
+(ii)           Any Credit Party shall fail to comply with any of its covenants contained in Section 6.04(a) - (k) (other than (d)), Section 6.05(e), (f), (g), (i) (k) and (m) or Section 6.20 and such failure continues for two (2) Business Days;
+Any Credit Party shall fail (or, to the extent applicable, fail to cause its Subsidiaries) to perform any term, covenant or agreement contained herein or in any of the other Loan Documents (other than those specified elsewhere in this Section 8.01) and such failure continues for thirty (30) days; or
+There shall remain in force for more than thirty (30) days, whether or not consecutive, any final judgment against any Credit Party (considered collectively) that exceeds in the aggregate $1,000,000 which are not covered by insurance policies unless such judgment has been discharged, satisfied, bonded or stayed pending appeal; or
+If any of the Loan Documents shall be cancelled, terminated, revoked, rescinded or otherwise ceases to be in full force and effect other than in accordance with their terms; or the Administrative Agent’s security interests, mortgages or Liens in all or a material portion of the Collateral shall cease to be perfected, or shall cease to have the priority contemplated by the Security Documents, the Senior Notes Intercreditor Agreement and the Canadian Intercreditor Agreement, in each case otherwise than in accordance with the terms thereof or with a consent or approval obtained in accordance with Section 10.01; or any action at law, suit or in equity or other legal proceeding to cancel, revoke, rescind or declare void any of the Loan Documents shall be commenced by or on behalf of any Credit Party, any Subsidiary or any of their respective equity holders; or any court or any other Governmental Authority shall make a determination that, or issue a judgment, order, decree or ruling to the effect that, any one or more of the Loan Documents is illegal, invalid or unenforceable in accordance with the terms thereof; or
+There shall occur the loss, suspension or revocation of, or failure to renew, any license or permit now held or hereafter acquired by any Credit Party if such loss, suspension, revocation or failure to renew would have a Material Adverse Effect; or
+(i) Any “event of default” under any Subordinated Debt Document shall occur, or (ii) the holders of all or any part of the Subordinated Debt shall accelerate the maturity of all or any part of the Subordinated Debt, or (iii) other than in accordance with the express terms of Section 7.04, the Subordinated Debt shall be prepaid, redeemed or repurchased in whole or in part or an offer to prepay, redeem or
+The chief financial officer of the Credit Parties in existence on the Closing Date shall resign, be terminated or otherwise cease to be the chief financial officer of the Borrowers and a successor chief financial officer satisfactory to the Administrative Agent is not appointed within a reasonable period of time required by the Administrative Agent.
+8.02        Remedies Upon Event of Default.
+(a)           Reduce or condition the availability of Loans, establish additional Reserves and /or declare the commitment of each Lender to make Loans and any obligation of the L/C Issuer to make L/C Credit Extensions to be terminated, whereupon such commitments and obligation shall be terminated;
+provided, however, that upon the occurrence of an Event of Default under Section 8.01(e), the obligation of each Lender to make Loans and any obligation of the L/C Issuer to make L/C Credit Extensions shall automatically terminate, the unpaid principal amount of all outstanding Loans and all interest and other amounts as aforesaid shall automatically become due and payable, and the obligation of the Borrowers to Cash Collateralize the L/C Obligations as aforesaid shall automatically become effective, in each case without further act of the Administrative Agent or any Lender.
+9.04        Reliance by Administrative Agent.
+9.06        Resignation of Administrative Agent.
+If no such successor shall have been so appointed by the Required Lenders and shall have accepted such appointment within thirty (30) days after the retiring Administrative Agent gives notice of its resignation (or such earlier day as shall be agreed by the Required Lenders), then the retiring Administrative Agent may on behalf of the Lenders and the L/C Issuer, appoint a successor meeting the qualifications set forth above; provided that if the Administrative Agent shall notify the Borrowers and the Lenders that no qualifying Person has accepted such appointment, then such resignation shall nonetheless become effective in accordance with such notice and (1) the retiring Administrative Agent shall be discharged from its duties and obligations hereunder and under the other Loan Documents (except that in the case of any collateral security held by the Administrative Agent on behalf of the Lenders or the L/C Issuer under any of the Loan Documents, the retiring Administrative Agent shall continue to hold such collateral security until such time as a successor Administrative Agent is appointed) and (2) all payments, communications and determinations provided to be made by, to or through the Administrative Agent shall instead be made by or to each Lender and the L/C Issuer directly, until such time as the Required Lenders appoint a successor as provided for above in this Section.
+(b)           Any resignation by the Administrative Agent pursuant to this Section shall also constitute its resignation as L/C Issuer and Swing Line Lender.
+10.01      Amendments, Etc.
+(b)           postpone any date fixed by this Agreement or any other Loan Document for any payment of principal, interest, fees or other amounts due to the Lenders (or any of them) hereunder or under any other Loan Document without the written consent of each Lender directly affected thereby; provided that for the avoidance of doubt, mandatory prepayments pursuant to Section 2.05 may be postponed, delayed, reduced, waived or modified with the consent of the Required Lenders;
+10.03      No Waiver; Cumulative Remedies.
+(b)           Indemnification by the Borrowers.
+10.05      Payments Set Aside.
+Notwithstanding anything to the contrary contained herein, (a) if at any time the COLF assigns all of its Commitment and Loans pursuant to subsection (b) above, COLF may, upon thirty (30) days’ notice to the Borrowers and the Lenders, resign as L/C Issuer and (b) if at any time COLF assigns all of its Commitment and Loans pursuant to subsection (b) above, upon thirty (30) days’ notice to the Borrowers, resign as Swing Line Lender.
+10.08      Right of Setoff.
+04/15/13
+04/30/13
+63660658
+63666885
+Date:           , 20
+D - 2
+December 31, 2013
+December 31, 2014
+December 31, 2015
+(1)
+        to 1.00
+        to 1.00
+July 1, 2015 and thereafter

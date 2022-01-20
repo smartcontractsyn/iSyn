@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Princeville Global HK Limited"
+    ],
+    "BuyerName": [
+        "Poema Global Holdings Corp."
+    ],
+    "EffectiveTime": [
+        "September 16, 2021"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "March 31, 2022"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Poema Global Holdings Corp."
+            ],
+            "To": [
+                "Princeville Global HK Limited"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": true
+            },
+            "PurchasePrice": 2011251500,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "GREG EDWARD BROOKS"
+    ],
+    "BuyerName": [
+        "LANDMARK APARTMENT TRUST"
+    ],
+    "EffectiveTime": [],
+    "CloseTime": [],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "LANDMARK APARTMENT TRUST"
+            ],
+            "To": [
+                "GREG EDWARD BROOKS"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 10000000,
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": false,
+        "OtherTermination": true
+    }
+}

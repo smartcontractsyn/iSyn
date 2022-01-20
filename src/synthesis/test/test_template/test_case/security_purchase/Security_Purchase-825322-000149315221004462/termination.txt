@@ -1,0 +1,50 @@
+A.
+B.
+1.
+a.
+b.
+2.
+b.
+g. Legends.
+h. Authorization; Enforcement.
+i. Residency.
+3.
+b.
+i.
+j.
+Bad Actor.
+k. Breach of Representations and Warranties by the Company.
+4.
+a.
+b.
+c. Corporate Existence.
+d. No Integration.
+e. Breach of Covenants.
+5.
+a.
+e. Severability.
+f. Entire Agreement; Amendments.
+i.
+j.
+Survival.
+2.
+3.
+4.
+(d) Upon (i) a transfer of all or substantially all of the assets of the Company to any person in a single transaction or series of related transactions, (ii) a reclassification, capital reorganization or other change or exchange of outstanding shares of the Common Stock, other than a forward or reverse stock split or stock dividend, or (iii) any consolidation or merger of the Company with or into another person or entity in which the Company is not the surviving entity (other than a merger which is effected solely to change the jurisdiction of incorporation of the Company and results in a reclassification, conversion or exchange of outstanding shares of Common Stock solely into shares of Common Stock) (each of items (i), (ii) and (iii) being referred to as a “Sale Event”), then, in each case, the Company shall, upon request of the Holder, redeem this Note in cash for 150% of the principal amount, plus accrued but unpaid interest through the date of redemption, or at the election of the Holder, such Holder may convert the unpaid principal amount of this Note (together with the amount of accrued but unpaid interest) into shares of Common Stock immediately prior to such Sale Event at the Conversion Price.
+(e) In case of any Sale Event (not to include a sale of all or substantially all of the Company’s assets) in connection with which this Note is not redeemed or converted, the Company shall cause effective provision to be made so that the Holder of this Note shall have the right thereafter, by converting this Note, to purchase or convert this Note into the kind and number of shares of stock or other securities or property (including cash) receivable upon such reclassification, capital reorganization or other change, consolidation or merger by a holder of the number of shares of Common Stock that could have been purchased upon exercise of the Note and at the same Conversion Price, as defined in this Note, immediately prior to such Sale Event.
+ 5.
+6.
+7.
+8.
+If one or more of the following described “Events of Default” shall occur: (a) The Company shall default in the payment of principal or interest on this Note or any other note issued to the Holder by the Company; or (b) Any of the representations or warranties made by the Company herein or in any certificate or financial or other written statements heretofore or hereafter furnished by or on behalf of the Company in connection with the execution and delivery of this Note, or the Securities Purchase Agreement under which this note was issued shall be false or misleading in any respect; or (c) The Company shall fail to perform or observe, in any respect, any covenant, term, provision, condition, agreement or obligation of the Company under this Note or any other note issued to the Holder; or (d) The Company shall (1) become insolvent; (2) admit in writing its inability to pay its debts generally as they mature; (3) make an assignment for the benefit of creditors or commence proceedings for its dissolution; (4) apply for or consent to the appointment of a trustee, liquidator or receiver for its or for a substantial part of its property or business; (5) file a petition for bankruptcy relief, consent to the filing of such petition or have filed against it an involuntary petition for bankruptcy relief, all under federal or state laws as applicable; or (e) A trustee, liquidator or receiver shall be appointed for the Company or for a substantial part of its property or business without its consent and shall not be discharged within sixty (60) days after such appointment; or (f) Any governmental agency or any court of competent jurisdiction at the instance of any governmental agency shall assume custody or control of the whole or any substantial portion of the properties or assets of the Company; or
+Initials   (g) One or more money judgments, writs or warrants of attachment, or similar process, in excess of fifty thousand dollars ($50,000) in the aggregate, shall be entered or filed against the Company or any of its properties or other assets and shall remain unpaid, unvacated, unbonded or unstayed for a period of fifteen (15) days or in any event later than five (5) days prior to the date of any proposed sale thereunder; or (h) The Company shall have defaulted on or breached any term of any other note of similar debt instrument into which the Company has entered and failed to cure such default within the appropriate grace period; or (i) The Company shall have its Common Stock delisted from an exchange (including the OTC Market exchange) or, if the Common Stock trades on an exchange, then trading in the Common Stock shall be suspended for more than 10 consecutive days or ceases to file its 1934 act reports with the SEC; (j) If a majority of the members of the Board of Directors of the Company on the date hereof are no longer serving as members of the Board; (k) The Company shall not deliver to the Holder the Common Stock pursuant to paragraph 4 herein without restrictive legend within 3 business days of its receipt of a Notice of Conversion; or (l) The Company shall not replenish the reserve set forth in Section 12, within 3 business days of the request of the Holder.
+9.
+10.
+Neither this Note nor any term hereof may be amended, waived, discharged or terminated other than by a written instrument signed by the Company and the Holder.
+11.
+Further.
+12.
+Upon full conversion of this Note, any shares remaining in the Share Reserve shall be cancelled.
+ 13.
+14.
+15.

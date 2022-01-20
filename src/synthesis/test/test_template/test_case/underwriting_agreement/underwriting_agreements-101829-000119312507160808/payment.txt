@@ -1,0 +1,44 @@
+United Technologies Corporation, a Delaware corporation (the “Company”), proposes to issue and sell from time to time (i) certain of its debt securities (“Debt Securities”) and/or (ii) warrants to purchase Debt Securities (“Debt Warrants” and the Debt Securities issuable upon exercise of Debt Warrants, “Warrant Securities”) and/or (iii) warrants to receive from the Company the cash value in U.S. dollars of the right to purchase or sell foreign currencies or units of two or more currencies (“Currency Warrants”) and/or (iv) warrants entitling the holders thereof to receive, upon exercise, an amount in cash determined by reference to increases or decreases in the level of a specified stock Index which may be based on U.S. or foreign stocks or combination thereof (“Stock-Index Warrants”), in each case registered under the registration statement or statements referred to in Section 1(a) (together, the “Securities”).
+(b) If, after giving effect to any arrangements for the purchase of the Designated Securities of a defaulting Underwriter or Underwriters by the Representatives or the Company, or both, as provided in subsection (a) above, the aggregate principal amount of such Designated Securities which remains unpurchased does not exceed one-eleventh of the aggregate principal amount of the Designated Securities, then the Company shall have the right to require each non-defaulting Underwriter to purchase the principal amount of Designated Securities which such Underwriter agreed to purchase under the Pricing Agreement relating to such Designated Securities and, in addition, to require each non-defaulting Underwriter to purchase its pro rata share (based on the principal amount of Designated Securities which such Underwriter agreed to purchase under such Pricing Agreement) of the Designated Securities of such defaulting Underwriter or Underwriters for which such arrangements have not been made; but nothing herein shall relieve a defaulting Underwriter from liability for its default.
+Subject to the terms and conditions set forth herein and in the Underwriting Agreement, the Company agrees to issue and sell to each of the Underwriters, and each of the Underwriters agrees, severally and not jointly, to purchase from the Company, at the time and place and at the purchase price to the Underwriters set forth in Schedule II hereto, the amount or principal amount, as applicable, of Designated Securities set forth opposite the name of such Underwriter in Schedule I hereto.
+The Underwriters will endeavor to make such arrangements and, as compensation therefor, the Company will pay to the Representatives, for the account of the Underwriters, at the Time of Delivery a commission in the amount set forth in Schedule II.
+Aggregate Principal Amount: [$].
+Price to Public: .
+.% of the principal amount of the Designated Securities, plus accrued interest from .
+to the Time of Delivery] Purchase Price by Underwriters: .
+.% of the principal amount of the Designated Securities, plus accrued interest from .
+Interest Rate: [ .
+]% [Zero Coupon] [See Floating Rate Provisions] [See Event Risk Provisions] Interest Payment Dates: [months and dates], commencing .
+at the following redemption prices (expressed in percentages of principal amount).
+and thereafter at 100% of their principal amount, together in each case with accrued interest to the redemption date.]
+[on any interest payment date falling on or after .
+., at the election of the Company, at a redemption price equal to the principal amount thereof, plus accrued interest to the date of redemption.]
+at 100% for their principal amount plus accrued interest] [, together with [cumulative] [noncumulative] redemptions at the option of the Company to retire an additional [$] .
+at 100% of their principal amount plus accrued interest.]
+[[insert date and years,] at the option of the holder, at their principal amount with accrued interest.
+Initial annual interest rate will be .
+.%, and thereafter annual interest rate will be adjusted on .
+to a rate not less than .
+.% of the effective annual interest rate on U.S. Treasury obligations with .
+.-year maturities as of the [insert date 15 days prior to maturity date] prior to such [insert maturity date].]
+[to an annual rate of .
+.% above the average rate for.
+[and the annual interest rate [thereafter] [from .
+will be the interest yield equivalent of the weekly average per annum market discount rate for .
+.-month Treasury bills plus .
+.% of Interest Differential (the excess, if any, of (i) then current weekly average per annum secondary market yield for .
+.-month certificates of deposit over (ii) then current interest yield equivalent of the weekly average per annum market discount rate for .
+.-month Treasury bills]; [from I-6
+and thereafter the rate will be the then current interest yield equivalent plus .
+Issuable in temporary global form: [Yes]     [No] Issuable in permanent global form: [Yes]     [No] Debt Warrants Number of Debt Warrants to be issued: Warrant Agreement: Form of Debt Warrants: [Registered] [Bearer] Issuable jointly with other Securities: [Yes]     [No] [Number of Debt Warranties issued with each......... amount or $......... principal amount of other Securities] [Detachable Date:] Date from which Debt Warrants are exercisable: Date on which Debt Warrants expire: Exercise price(s) of Debt Warrants: Public offering price: $.
+Purchase price: $.
+[Number of Currency Warrants issued with each amount of $......... principal amount of other Securities] [Detachable Date:] Date from which Currency Warrants are exercisable: Date on which Currency Warrants expire: Strike Price of Currency Warrants: Formula for Determining Cash Settlement Value: Automatic Exercise: Minimum Number of Currency Warrants which can be Exercised: Listing: Public offering price: $.
+Purchase price: $.
+Stock-Index Warrants Title of Stock-Index Warrants: [         Stock-Index [Call] [Put] Warrants         ] Number of Stock-Index Warrants to be issued: Stock Index: Warrant Agreement: Warrant Agent: Form of Stock-Index Warrants: [Registered] [Bearer] [Book-entry form, represented by single global Stock-Index Warrant Certificate] Issuable jointly with other Securities: [Yes]     [No] [Number of Stock-Index Warrants issued with each amount or $.......... principal amount of other Securities] [Detachable Date:] Date from which Stock-Index Warrants are exercisable: Date on which Stock-Index Warrants expire: Exercise Price of Stock-Index Warrants: Formula for Determining Stock-Index Cash Settlement Value: Automatic Exercise: Minimum/Maximum number of Stock-Index Warrants which can be Exercised: I-8
+Listing: Public offering price: $.
+Purchase price: $.
+Funds in which Underwriters to make payment: .
+[Minimum principal amount of each Delayed Delivery Contract: [$] .
+SCHEDULE III Delayed Delivery Contract United Technologies Corporationc/o: [Date] Attention: Dear Sirs: The undersigned hereby agrees to purchase from United Technologies Corporation (hereinafter called the “Company”), and the Company agrees to sell to the undersigned [[$] principal amount] [number] of the Company’s [Title of Designated Securities] (hereinafter called the “Designated Securities”), offered by the Company’s Prospectus dated             , 20     [as amended or supplemented], receipt of a copy of which is hereby acknowledged, at a purchase price of [    % of the principal amount thereof, plus accrued interest from the date from which interest accrues as set forth below] [            per Debt Warrant, Currency Warrant or Stock-Index Warrant], and on the further terms and conditions set forth in this contract.
+[The undersigned will purchase the Designated Securities from the Company on             , 20     (the “Delivery Date”) [and interest on the Designated Securities so purchased will accrue from             , 20    .]]
+EXHIBIT A Form of Fixed Rate Pricing Term Sheet Issuer:Size:$_________Title:__% Notes due 20__Maturity:_____________ __, 20__Coupon:____%Price to Public:____% of face amountYield to maturity:____%[Spread to Benchmark Treasury:____%][Benchmark Treasury:]_____][Benchmark Treasury Spot and Yield:______ _____%]Proceeds (Before Expenses) to Issuer$ ( %)Interest Payment Dates:_______ and _______, commencing ______, 20__Redemption Provisions:First call date and price:Any time at the greater of 100% and the treasury rate plus __ basis points.Trade Date:___________ __, 20__Settlement Date:_________ __, 20__ (T+3)CUSIP:Denominations$1,000 x $1,000[Ratings:]Underwriters: The issuer has filed a registration statement (including a prospectus) with the SEC for the offering to which this communication relates.

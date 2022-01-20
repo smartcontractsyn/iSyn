@@ -1,0 +1,271 @@
+5.375% EXCHANGEABLE SENIOR NOTES DUE 2033
+Payment of Interest; Interest Rights Preserved
+Repurchase of Securities at the Option of Holders
+Exchange Rate
+Cash Payments in Lieu of Fractional Shares
+Payment of Securities
+Money for Securities Payments to be Held in Trust
+(A)                               the Closing Sale Price per share of Common Stock for any five Trading Days (whether or not consecutive) within (i) the period of 10 consecutive Trading Days ending immediately after the later of the Change in Control or the public announcement of the Change in Control, in the case of a Change in Control relating to an acquisition of Capital Stock, or (ii) the period of 10 consecutive Trading Days ending immediately after the Change in Control, in the case of a Change in Control relating to a merger, consolidation or asset sale, equals or exceeds 105% of the Exchange Price in effect on each of those Trading Days; provided, however, that the exception to the definition of “Change in Control” specified in this clause (A) shall not apply in the context of a Change in Control for purposes of Section 4.03; or
+“Change in Control Purchase Price” of any Security, means 100% of the principal amount of the Security to be purchased plus accrued and unpaid interest (including any additional amounts), if any, to, but excluding, the Change in Control Purchase Date.
+“Daily Exchange Value” means, for each of the 20 consecutive Trading Days during the Applicable Exchange Measurement Period, one-twentieth (1/20) of the product of (1) the Applicable Exchange Rate and (2) the Closing Sales Price of the Common Stock on such day.
+“Exchange Price” per share of Common Stock as of any day means the result obtained by dividing (i) $1,000 by (ii) the then Applicable Exchange Rate, rounded to the nearest cent.
+“Ex-Dividend Date” means the first date upon which a sale of shares of Common Stock does not automatically transfer the right to receive the relevant distribution from the seller of such shares of Common Stock to the buyer.
+“Interest Payment Date” means June 15 and December 15 of each year, commencing December 15, 2013.
+“Repurchase Price” of any Security means 100% of the principal amount of the Security to be purchased plus accrued and unpaid interest, if any, to, but excluding, the Repurchase Date.
+“Securities” means the $300,000,000 aggregate principal amount of 5.375% Exchangeable Senior Notes due 2033, or any of them (each a “Security”), as amended or supplemented from time to time, that are issued under this Indenture on the initial Issue Date, together with any Additional Securities issued in accordance with Section 2.01.
+“Treasury Rate” means, with respect to any Redemption Date, the rate per annum equal to (i) the Treasury Yield to Maturity of the Comparable Treasury Issue or (ii) if there are two Comparable Treasury Issues, the rate determined by interpolation (on a day count basis) of the Treasury Yields to Maturity for the Comparable Treasury Issues for a maturity equal to the period from such Redemption Date to June 15, 2023.
+“Treasury Yield to Maturity” means, with respect to any Comparable Treasury Issue, the semi-annual equivalent yield to maturity of that Comparable Treasury Issue assuming a price for that Comparable Treasury Issue (expressed as a percentage of its principal amount) equal to the Comparable Treasury Price of such Comparable Treasury Issue for such Redemption Date.
+Daily Partial Cash Amount
+2.05(a)
+Exchange Rate
+Paying Agent
+2.05(a)
+2.05(a)
+Reference Dividend
+2.05(a)
+Repurchase Date
+Stock Price
+The aggregate principal amount of Securities which may be authenticated and delivered under this Indenture, except for Securities authenticated and delivered in exchange for, or in lieu of, other Securities pursuant to Section 2.08, 2.09, 2.12, 2.14, 3.04, 10.04 or 11.01, is limited to $300,000,000, as such amount may be increased, but not by an amount in excess of $45,000,000, solely as a result of the purchase of additional Securities (the “Additional Securities”) pursuant to the Initial Purchasers’ over-allotment option granted by the Issuer under the purchase agreement, dated June 13, 2013 (the “Purchase Agreement”), among the Issuer, the Guarantors and the Representative, as representative of the several Initial Purchasers; provided that the Issuer may, without the consent of the Holders, reopen the Securities and issue additional Securities under this Indenture with the same terms and with the same CUSIP number as the Securities issued under this Indenture on the initial Issue Date of the Securities of this series in an unlimited aggregate principal amount; provided, further, that no such additional Securities may be issued unless fungible with the Securities for U.S. federal income tax purposes as evidenced by an Opinion of Counsel.
+The Securities shall be known and designated as the “5.375% Exchangeable Senior Notes due 2033” of the Issuer.
+The Securities shall bear interest on their principal amount from June 19, 2013, or the most recent Interest Payment Date to which interest has been paid or duly provided for, as the case may be, payable semi-annually in arrears on June 15 and December 15 of each year, commencing December 15, 2013, at 5.375% per annum until the principal thereof is due and at the rate of 5.375% per annum on any overdue principal and, to the extent permitted by applicable law, on any overdue interest.
+Interest on the Securities will be based on a 360-day year consisting of twelve 30-day months.
+If any Interest Payment Date (other than an Interest Payment Date coinciding with the Final Maturity Date or Redemption Date or Repurchase Date) of a Security falls on a day that is not a Business Day, such Interest Payment Date will be postponed until the next succeeding Business Day pursuant to Section 12.06.
+If the Final Maturity Date, Redemption Date or Repurchase Date of a Security would fall on a day that is not a Business Day, the required payment of interest, if any, and principal will be made on the next succeeding Business Day and no interest on such payment will accrue for the period from and after the Final Maturity Date, Redemption Date or Repurchase Date to such next succeeding Business Day.
+The Securities will mature on the Final Maturity Date, and on the Final Maturity Date, each Holder of a then Outstanding Security will be entitled on such date to receive $1,000 in cash for each $1,000 in principal amount of then Outstanding Securities held, together with accrued and unpaid interest (and any additional amounts), if any, to, but excluding, the Final Maturity Date on such then Outstanding Securities.
+Upon receipt by the Trustee of an Officer’s Certificate stating that the Representative has elected to exercise the option for the Initial Purchasers to purchase from the Issuer a specified aggregate principal amount of Additional Securities not to exceed a total of $45,000,000 in accordance with this paragraph pursuant to the Purchase Agreement, the Trustee shall authenticate and make available for delivery such aggregate principal amount of such Additional Securities as specified in, and upon receipt of, an Issuer Request, and such specified aggregate principal amount of such Additional Securities shall be considered part of the original aggregate principal amount of the Securities for all purposes hereof.
+The Securities shall be subject to repurchase by the Issuer at the option of the Holders as provided in Article 3.
+The Securities shall be issuable only in registered form, without coupons, in denominations of $1,000 and integral multiples thereof.
+(c)                                  If a Paying Agent (other than the Issuer or an Affiliate of the Issuer) holds in respect of the Securities then Outstanding on a Change in Control Purchase Date, Redemption Date or the Final Maturity Date money sufficient to pay the principal of, accrued interest, if any, on Securities (or portions thereof) payable on that date, then on and after such Change in Control Purchase Date, Redemption Date or Final Maturity Date, as the case may be, such Securities (or portions thereof, as the case may be) shall cease to be Outstanding and interest on them shall cease to accrue.
+Payment of Interest; Interest Rights Preserved.
+(1)                                 The Issuer may elect to make payment of any Defaulted Interest to the Persons in whose names the Securities (or their respective predecessor Securities) are registered at the close of business on a date fixed by the Trustee for such purpose (the “Special Record Date”) for the payment of such Defaulted Interest, which shall be fixed in the following manner.
+$1,000 or an integral multiple thereof) in cash at the Change in Control Purchase Price, subject to satisfaction by or on behalf of the Holder of the requirements set forth below.
+(4)                                 the Change in Control Purchase Price;
+(8)                                 that the Change in Control Purchase Price for any Security as to which a Change in Control Purchase Notice has been duly given will be paid within five Business Days after the later of the Change in Control Purchase Date or the time at which such Securities are surrendered for repurchase;
+(2)                                 the portion of the principal amount of the Securities to be repurchased, in multiples of $1,000, provided that the remaining principal amount of Securities is in an authorized denomination; and
+Holders electing to require the Issuer to repurchase Securities must effect such transfer or delivery to the Paying Agent prior to the Change in Control Purchase Date to receive payment of the Change in Control Purchase Price.
+(e)                                  On or before 11:59 a.m. (New York City time) on the Change in Control Purchase Date, the Issuer shall deposit with the Paying Agent money sufficient to pay the aggregate Change in Control Purchase Price of the Securities to be purchased pursuant to this Section 3.01.
+Repurchase of Securities at the Option of Holders.
+(a)                                 A Holder of Securities has the right, at such Holder’s option, to require the Issuer to repurchase such Holder’s Securities, in whole or in part (in principal amounts of $1,000 or an integral multiple thereof) for cash equal to the Repurchase Price on June 15, 2023 and June 15, 2028 (each, a “Repurchase Date”).
+(2)                                 the portion of the principal amount of the Securities to be repurchased, in integral multiples of $1,000, provided that the remaining principal amount of Securities is in an authorized denomination; and
+(1)                                 the principal amount of Securities being withdrawn, in integral multiples of $1,000;
+(3)                                 the principal amount of Securities, if any, that remains subject to Repurchase Notice, which must be an integral multiple of $1,000.
+(e)                                  On or before 11:59 a.m. (New York City time) on the Repurchase Date, the Issuer shall deposit with the Paying Agent money sufficient to pay the aggregate Repurchase Price of the Securities to be purchased pursuant to this Section 3.02.
+To the extent that the aggregate amount of cash deposited by the Issuer pursuant to Section 3.01 or 3.02 exceeds the aggregate Change in Control Purchase Price or the Repurchase Price of the Securities or portions thereof that the Issuer is obligated to purchase, then promptly after the Change in Control Purchase Date or the Repurchase Date, as applicable, the Trustee or a Paying Agent, as the case may be, shall return any such excess cash to the Issuer.
+The Issuer may from time to time repurchase the Securities in open market purchases or negotiated transactions at varying prices without prior notice to Holders.
+Subject to the restrictions on transfer and ownership of Common Stock as set forth in Section 4.12 and the conditions set forth in this Article 4, a Holder of any Securities not previously redeemed or repurchased shall have the right, at such Holder’s option, to exchange each $1,000 principal amount of Securities, into cash, shares of Common Stock or a combination of cash and shares of Common Stock, at the Issuer’s option, by surrender of such Securities so to be exchanged in whole or in part, together with any required funds, under the circumstances and in the manner described in this Article 4, at any time prior to the close of business on the second Business Day immediately prior to the Final Maturity Date.
+Any Security or portion thereof surrendered for exchange during the period from 5:00 p.m., New York City time, on the Regular Record Date for any Interest Payment Date to 5:00 p.m., New York City time, on the applicable Interest Payment Date shall be accompanied by payment, in immediately available funds or other funds acceptable to the Issuer, of an amount equal to the interest otherwise payable on such Interest Payment Date on the principal amount being exchanged; provided that no such payment need be made (1) if a Holder exchanges its Securities in connection with a redemption and the Issuer has specified a Redemption Date that is after a Regular Record Date but prior to the corresponding Interest Payment Date, (2) if a Holder exchanges its Securities in connection with a Change in Control and the Issuer has specified a Change in Control Purchase Date that is after a Regular Record Date but prior to the corresponding Interest Payment Date, (3) on Securities that are exchanged after the last Regular Record Date for the payment of interest on the Securities, or (4) with respect to overdue interest if any overdue interest exists at the time of exchange with respect to such Securities.
+Upon the exchange of a Security, a Holder will not receive any cash payment of interest (unless such exchange occurs between a Regular Record Date and the Interest Payment Date to which it relates as described above) and the Issuer will not adjust the Exchange Rate to account for accrued and unpaid interest.
+(i)                                     The number of Change in Control Event Shares shall be determined by reference to the table in paragraph (e) below and shall be based on the date on which the Additional Shares Change in Control becomes effective and the price (the “Stock Price”) paid per share of Common Stock in such transaction.
+If the holders of Common Stock receive only cash in the relevant Change in Control transaction, the Stock Price will equal the cash amount paid per share of Common Stock.
+In all other cases, the Stock Price will equal the average of the Closing Sale Prices of the Common Stock on the ten consecutive
+(e)                                  Subject to paragraph (c) of this Section 4.03, the following table sets forth the Stock Price and number of Change in Control Event Shares issuable per $1,000 principal amount of Securities:
+Additional Shares Issued For Make-Whole per Bond (Par of $1,000)
+Stock Price
+$8.85
+$10.00
+$11.00
+$12.00
+$13.00
+$14.00
+$15.00
+$16.00
+$17.00
+$18.00
+$19.00
+$20.00
+$25.00
+$30.00
+5.2593
+3.7024
+2.6475
+1.4056
+0.7782
+0.5874
+0.4474
+0.3437
+0.0992
+0.0280
+5.7188
+2.0165
+1.0580
+0.7763
+0.5743
+0.4285
+0.3221
+0.0817
+0.0186
+6.2173
+3.0099
+1.5038
+1.0728
+0.7700
+0.5563
+0.4046
+0.2959
+0.0630
+0.0101
+6.6876
+1.5151
+1.0548
+0.7369
+0.5170
+0.3644
+0.2577
+0.0432
+0.0034
+1.4999
+1.0135
+0.6846
+0.4628
+0.3131
+0.2115
+0.0244
+0.0000
+0.9100
+0.5869
+0.3770
+0.2407
+0.1519
+0.0085
+0.0000
+1.9323
+0.7261
+0.4350
+0.2566
+0.1479
+0.0823
+0.0000
+0.0000
+2.5885
+1.5114
+0.8549
+0.4693
+0.2495
+0.1267
+0.0599
+0.0250
+0.0000
+0.0000
+9.8300
+5.7572
+1.7113
+0.8535
+0.3997
+0.1736
+0.0671
+0.0206
+0.0032
+0.0000
+0.0000
+0.0000
+3.5091
+1.4949
+0.5562
+0.1758
+0.0417
+0.0039
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+0.0000
+(2)                                 if the Stock Price is in excess of $30.00 per share of Common Stock, subject to adjustment (the “Make Whole Cap”), no Change in Control Event Shares or Redemption Notice Event Shares will be issued upon exchange; and
+(3)                                 if the Stock Price is less than $8.85 per share of Common Stock, subject to adjustment (the “Make Whole Floor”), no Change in Control Event Shares or Redemption Notice Event Shares will be issued upon exchange.
+(a)                                 If the Parent Guarantor issues shares of Common Stock as a dividend or distribution on the Common Stock to all holders of Common Stock, or if the Parent Guarantor effects a share split or share combination, the Exchange Rate will be adjusted based on the following formula:
+(b)                                 If the Parent Guarantor issues to all holders of Common Stock any rights, warrants, options or other securities entitling them for a period of not more than 45 days after the date of issuance thereof to subscribe for or purchase Common Stock or securities convertible into Common Stock within 45 days after the issuance thereof, in either case at an exercise price per share of Common Stock or a conversion price per share less than the Closing Sale Price of Common Stock on the Business Day immediately preceding the time of announcement of such issuance, the Exchange Rate will be adjusted based on the following formula (provided that the
+ER1 = ER0 × (OS0 + X)/(OS0 + Y)
+ER0 = the Exchange Rate in effect immediately prior to the Ex-Dividend Date for such issuance;
+OS0 = the number of shares of Common Stock outstanding immediately prior to the Ex-Dividend Date for such issuance;
+Y = the number of shares of Common Stock equal to the quotient of (A) the aggregate price payable to exercise such rights, warrants, options, other securities or convertible securities and (B) the average of the Closing Sale Prices of the Common Stock for the 10 consecutive Trading Days prior to the Business Day immediately preceding the date of announcement for the issuance of such rights, warrants, options, other securities or convertible securities.
+ER1 = ER0 × SP0/(SP0 – FMV)
+ER0 = the Exchange Rate in effect immediately prior to the Ex-Dividend Date for such distribution;
+ER1 = the Exchange Rate in effect on and immediately after the Ex-Dividend Date for such distribution;
+SP0 = the average of the Closing Sale Prices of the Common Stock for the ten consecutive Trading Days prior to the Business Day immediately preceding the Ex-Dividend Date for such distribution; and
+ER1 = ER0 × (FMV0 + MP0)/MP0
+FMV0 = the average of the Closing Sale Prices of the capital stock or similar equity interest distributed to holders of Common Stock applicable to one share of Common Stock over the first 10 consecutive Trading Days after the effective date of the Spin-Off; and
+MP0 = the average of the Closing Sale Prices of the Common Stock over the first 10 consecutive Trading Days after the effective date of the Spin-Off.
+(d)                                 If following the date of original issuance of the Securities, the Parent Guarantor makes any cash dividend or distribution to all holders of Common Stock in aggregate amount that, together with other cash dividends or distributions during such quarterly fiscal period, on a per share basis, exceeds $0.19 (the “Reference Dividend”) the Exchange Rate will be adjusted based on the following formula:
+ER1 = ER0 × SP0 /(SP0 – C)
+ER0 = the Exchange Rate in effect immediately prior to the Ex-Dividend Date for such distribution;
+ER1 = the Exchange Rate in effect on and immediately after the Ex-Dividend Date for such distribution;
+SP0 = the average of the Closing Sale Prices of the Common Stock over the period of the 10 consecutive Trading Days ending on the Business Day immediately preceding the Ex-Dividend Date for such distribution; and
+C = the amount in cash per share that the Parent Guarantor distributes to holders of Common Stock during such quarterly fiscal period in excess of the Reference Dividend.
+(e)                                  If the Parent Guarantor or any of its subsidiaries makes a payment in respect of a tender offer or exchange offer for shares of Common Stock to the extent that the cash and value of any other consideration included in the payment per share of Common Stock exceeds the Closing Sale Price of a share of Common Stock on the Trading Day next succeeding the last date on which tenders or exchanges may be made pursuant to such tender offer or exchange offer (the “Expiration Time”), the Exchange Rate will be adjusted based on the following formula:
+ER1 = ER0 × (AC + (SP1 × OS1))/(SP1 × OS0)
+SP1 = the average of the Closing Sale Prices of the Common Stock for the 10 consecutive Trading Days commencing on the Trading Day next succeeding the date such tender offer or exchange offer expires.
+(6)                                 as a result of a tender offer solely to holders of less than 100 shares of Common Stock; and
+All required calculations will be made to the nearest cent or 1/1000th of a share, as the case may be.
+The initial Exchange Rate for the Securities is 102.7221 shares of Common Stock per each $1,000 principal amount of the Securities, subject to adjustment as provided in Sections 4.03 and 4.04 (herein called the “Exchange Rate”).
+Cash Payments in Lieu of Fractional Shares.
+If any fractional share of Common Stock would be issuable upon the exchange of any Security or Securities, the Issuer shall make an adjustment and payment therefor in cash to the Holder of Securities at a price
+equal to the Closing Sale Price of the Common Stock on the last day of the Applicable Exchange Measurement Period.
+or prior to the third Trading Day immediately following the last day of the Applicable Exchange Measurement Period, at the Issuer’s option, of cash, shares of Common Stock or a combination of cash and shares of Common Stock for each $1,000 aggregate principal amount of Securities tendered for exchange in accordance with their terms, as follows:
+If the Issuer elects to satisfy a portion of the Exchange Obligation in cash (expressed either as a dollar amount or as a percentage of the Daily Exchange Value, each, the “Partial Cash Amount”) and a portion in shares of Common Stock, then the Issuer shall deliver, for each Trading Day in the Applicable Exchange Measurement Period, (A) the lesser of (x) such Partial Cash Amount divided by 20 or, if expressed as a percentage of the Exchange Obligation, such Partial Cash Amount will be calculated as a percentage of the Daily Exchange Value (the “Daily Partial Cash Amount”) and (y) the Daily Exchange Value, plus (B) a number of shares of Common Stock equal to (x) the excess, if any, of the Daily Exchange Value over such Daily Partial Cash Amount divided by (y) the Closing Sales Price of the Common Stock for such day.
+Payment of Securities.
+Any payment hereunder shall be considered paid on the applicable date due if on such date the Trustee or the Paying Agent holds, in accordance with this Indenture, money sufficient to pay all such amounts then due.
+The Issuer shall, to the fullest extent permitted by law, pay interest in immediately available funds on overdue principal amount and interest at the annual rate borne by the Securities compounded semiannually, which interest shall accrue from the date such overdue amount was originally due to the date payment of such amount, including interest thereon, has been made or duly provided for.
+All such overdue interest shall be payable on demand.
+Money for Securities Payments to be Held in Trust.
+(1)                                 the Issuer or any Guarantor has paid or deposited with the Trustee a sum sufficient to pay:
+Notwithstanding anything herein to the contrary, to the extent elected by the Issuer, the sole remedy for an Event of Default relating to the failure by the Issuer to comply with the obligation set forth in Section 5.03(b), will for the first 60 days after the occurrence of such an Event of Default, consist exclusively of the right for Holders to receive additional interest on the Securities equal to 0.25% per annum of the principal amount of the Securities.
+If the Issuer so elects, such additional interest will be payable in the same manner and on the same dates as the stated interest payable on the Securities.
+In the event the Issuer does not elect to pay the additional interest upon such Event of Default in accordance with this paragraph, the Securities will be subject to acceleration as provided above.
+In order to elect to pay the additional interest as the sole remedy during the first 60 days after the occurrence of an Event of Default relating to the failure by the Issuer to comply with the obligation set forth in Section 5.03(b) in accordance with the immediately preceding paragraph, the Issuer must notify all Holders, the Trustee and the Paying Agent of such election.
+(a)                                 If the Trustee collects any money or property pursuant to this Article 7, it shall pay out the money or property in the following order:
+(b)                                 The Trustee may fix a record date and payment date for any payment to Holders pursuant to this Section 7.09.
+(a)                                 The Issuer shall pay to the Trustee from time to time pursuant to an agreement between the Issuer and the Trustee such compensation (as agreed to from time to time by the Issuer and the Trustee in writing) for its services (which compensation shall not be limited by any provision of law in regard to the compensation of a trustee of an express trust).
+The Issuer need not pay for any settlement effected without its prior written consent.
+(f)                                   To secure the Issuer’s payment obligations in this Section 8.07, the Issuer hereby grants to the Trustee a lien prior to the Securities on all money or property held or collected by the Trustee, other than money or property held in trust to pay principal and interest on particular Securities.
+If, at any time, the Issuer determines it is necessary to redeem the Securities in order to preserve the Parent Guarantor’s qualification as a real estate investment trust under the Internal Revenue Code of 1986, as amended (“REIT”), the Issuer, upon not less than 30 nor more than 60 days’ prior written notice delivered to the Holders, may redeem all of the Securities then Outstanding at 100% principal amount of the Securities, plus accrued and unpaid interest, if any, to, but excluding, the Redemption Date.
+accrued to the Redemption Date), discounted to the Redemption Date on a semiannual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 50 basis points, plus in each case accrued interest thereon to the Redemption Date, provided that, if the Redemption Date falls after a Regular Record Date and on or prior to the corresponding Interest Payment Date, the Issuer will pay the full amount of accrued and unpaid interest, if any (plus additional interest, if any), on such Interest Payment Date to the holder of record at the close of business on the corresponding Regular Record Date.
+Securities and portions of the principal amount thereof selected for redemption shall be in integral multiples of $1,000.
+(g)                                  If the Paying Agent holds funds sufficient to pay the redemption price of the Securities on the redemption date, then on and after such date:
+If a payment date is a Legal Holiday, payment shall be made on the next succeeding day that is not a Legal Holiday, and no interest shall accrue for the intervening period.
+Dated:  June 19, 2013
+5.375% EXCHANGEABLE SENIOR NOTES DUE 2033
+NORTHSTAR REALTY FINANCE LIMITED PARTNERSHIP, a Delaware limited partnership (the “Issuer”, which term includes any successor Person under the Indenture referred to on the reverse hereof), for value received, promises to pay to Cede & Co., or registered assigns, the principal sum of United States Dollars (U.S.$             ) (which principal amount may from time to time be increased or decreased to such other principal amounts (which, taken together with the principal amounts of all other Securities then Outstanding, shall not exceed $             ) as such amount may be increased but not to an amount in excess of $              solely as a result of the issuance of Additional Securities pursuant to the terms of the Indenture and the Purchase Agreement) by adjustments made on the records of the Trustee hereinafter referred to in accordance with the Indenture) on June 15, 2033 and to pay interest thereon, from June 19, 2013, or from the most recent Interest Payment Date (as defined below) to which interest has been paid or duly provided for, semi-annually in arrears on June 15 and December 15 in each year (each, an “Interest Payment Date”), commencing December 15, 2013, at the rate of 5.375% per annum, until the principal hereof is due, and at the rate of 5.375% per annum on any overdue principal and, to the extent permitted by law, on any overdue interest.
+Payment of the principal of and interest, if any, on the Securities shall be made at the office or agency of the Issuer maintained for that purpose or at the Corporate Trust Office of the Trustee in such coin or currency of the United States of America as at the time of payment is legal tender for payment of public and private debts; provided, however, that at the option of the Issuer payment of interest may be made by check mailed to the address of the Person entitled thereto as such address appears in the Register; provided, further, that a Holder with an aggregate principal amount in excess of $5,000,000 will be paid by wire transfer in immediately available funds at the election of such Holder if such
+Interest on this Security will be based on a 360-day year consisting of twelve 30-day months.
+If any Interest Payment Date (other than an Interest Payment Date coinciding with the Final Maturity Date or Redemption Date or Repurchase Date) of this Security falls on a day that is not a Business Day, such Interest Payment Date will be postponed until the next succeeding Business Day pursuant to Section 12.06 of the Indenture.
+If the Final Maturity Date, Redemption Date or Repurchase Date of this Security would fall on a day that is not a Business Day, the required payment of interest, if any, and principal will be made on the next succeeding Business Day and no interest on such payment will accrue for the period from and after the Final Maturity Date, Redemption Date or Repurchase Date to such next succeeding Business Day.
+The Securities will mature on the Final Maturity Date, and on the Final Maturity Date, each Holder of a then Outstanding Security will be entitled on such date to receive $1,000 in cash for each $1,000 in principal amount of then Outstanding Securities held, together with accrued and unpaid interest (and any additional amounts), if any, to, but excluding, the Final Maturity Date on such then Outstanding Securities.
+Dated: June 19, 2013
+5.375% EXCHANGEABLE SENIOR NOTES DUE 2033
+This Security is one of a duly authorized issue of securities of the Issuer designated as its “5.375% Exchangeable Senior Notes due 2033” (herein called the “Securities”), limited in aggregate principal amount not to exceed U.S. $           , as such amount may be increased, but not to an amount in excess of $             , solely as a result of the issuance of Additional Securities pursuant to the terms of the Indenture and the Purchase Agreement, issued and to be issued under an Indenture, dated as of June 19, 2013 (herein called the “Indenture”), between the Issuer, NorthStar Realty Finance Corp. (the “Parent Guarantor”) and NRFC Sub-REIT Corp. (the “Subsidiary Guarantor”), as Guarantors (each of the Parent Guarantor and the Subsidiary Guarantor, a “Guarantor” and, together, the “Guarantors”), and Wilmington Trust, National Association, a national banking association, as Trustee (herein called the “Trustee,” which term includes any successor trustee under the Indenture), to which Indenture and all indentures supplemental thereto reference is hereby made for a statement of the respective rights, limitations of rights, duties and immunities thereunder of the Issuer, the Guarantors, the Trustee and the Holders of the Securities and of the terms upon which the Securities are, and are to be, authenticated and delivered.
+If, at any time, the Issuer determines it is necessary to redeem the Securities in order to preserve the qualification of the Parent Guarantor as a real estate investment trust under the Internal Revenue Code of 1986, as amended, the Issuer may redeem all of the Securities then Outstanding at 100% of the principal amount of the Securities, plus accrued and unpaid interest, if any, to but excluding the Redemption Date.
+On or after June 15, 2020 and prior to June 15, 2023, provided that the Closing Sale Price per share of Common Stock has been greater than or equal to 130% of the Exchange Price then in effect for such Securities for at least 20 Trading Days (whether or not consecutive) during any 30 consecutive Trading Day period ending within five Trading Days prior to the date on which the Issuer provides the Redemption Notice, the Issuer has the right, at any time or from time to time, to redeem the Securities, in whole or in part, at the greater of (i) 100% of the principal amount of the Securities to be redeemed and (ii) the sum of the present value at such Redemption Date of (a) 100% of the principal amount of the Securities to be redeemed (assuming, solely for purposes of this calculation, that the principal amount of the Securities to be redeemed was payable on June 15, 2023) plus (b) all required interest payments thereon through June 15, 2023 (exclusive of interest accrued to the Redemption Date), discounted to the Redemption Date on a semiannual basis (assuming a 360-day year consisting of twelve 30-day months) at the Treasury Rate plus 50 basis points, plus in each case accrued interest thereon to the Redemption Date.
+On or after June 15, 2023, the Issuer will have the right, at any time or from time to time, to redeem the Securities, in whole or in part, at 100% of the principal amount of the Securities, plus accrued and unpaid interest to but excluding the Redemption Date.
+Securities in denominations larger than $1,000 principal amount may be redeemed in part but only in integral multiples of $1,000 principal amount.
+(a)                                 If a Change in Control occurs at any time prior to June 15, 2033, a Holder shall have the right, at such Holder’s option and subject to the terms and conditions of the Indenture, to require the Issuer to repurchase all or any of such Holder’s Securities having a principal amount equal to $1,000 or an integral multiple thereof on the date (the “Change in Control Purchase Date”) specified by the Issuer in the Issuer Notice (which date shall be no earlier than 30 Business Days and no later than 60 Business Days after the date of such Issuer Notice) for cash equal to the 100% of the principal amount of the Securities to be repurchased plus unpaid interest accrued thereon to but excluding the Change in Control Purchase Date (the “Change in Control Purchase Price”) by delivering a Change in Control Purchase Notice to the Trustee or any Paying Agent no later than the close of business on the second Business Day prior to the Change in Control Purchase Date.
+(b)                                 On each of June 15, 2023 and June 15, 2028, Holders of the Notes shall have the right to require the Issuer to repurchase all or a portion of their Securities at 100% of the
+The initial Exchange Rate shall be 102.7221 shares of Common Stock per $1,000 principal amount of Securities, subject to adjustment in certain circumstances as specified in the Indenture.
+(a)                                 This Security is issuable only in fully registered in denominations of $1,000 and integral multiples thereof.
+If a Registration Default, as defined in the Registration Rights Agreement, occurs and is continuing during a period of time that the Securities are exchangeable for shares of Common Stock, liquidated damages consisting solely of additional interest (“Liquidated Damages”) will be paid to Holders entitled to interest payments on such dates semi-annually in arrears on each Interest Payment Date and will accrue from and including the day following such Registration Default to but excluding the day on which such Registration Default has been cured at a rate per annum equal to one-quarter of one percent (0.25%) of the principal amount of the Securities then Outstanding to and including the 90th day following such Registration Default and at a rate per annum equal to one-half of one percent (0.50%) of the principal amount thereof then Outstanding from and after the 91st day following such Registration Default.
+In no event will any additional interest on the Securities exceed the rate per annum of one-half of one percent (0.50%) of the principal amount thereof then Outstanding.
+The Issuer will not pay Liquidated Damages on any Security after it has been exchanged for the shares of Common Stock.
+(b)                                 Notwithstanding anything in paragraph (a) of this section, to the extent elected by the Issuer, the sole remedy for an Event of Default relating to the failure by the Issuer to comply with the obligation to provide certain reports as set forth in Section 5.03(b) of the Indenture, will for the first 60 days after the occurrence of such an Event of Default, consist exclusively of the right for Holders to receive additional interest on the Securities equal to 0.25% per annum of the principal amount of the Securities then Outstanding.
+If the Issuer so elects, such additional interest will be payable in the same manner and on the same dates as the stated interest payable on the Securities.
+In the event the Issuer does not elect to pay the additional interest upon such Event of Default in accordance with this paragraph, the Securities will be subject to acceleration as provided above.
+(c)                                  In order to elect to pay the additional interest in accordance with paragraph (b) of this section, the Issuer must notify all Holders, the Trustee and the Paying Agent of such election.
+(2)                                 The undersigned hereby directs the Trustee or the Issuer to pay it or                              an amount in cash equal to 100% of the principal amount to be repurchased (less any cash payments) (as set forth below) plus interest accrued to, but excluding, the Repurchase Date, as provided in the Indenture.
+Principal amount to be repurchased (at least U.S. $1,000 or an integral multiple of $1,000 in excess thereof):
+Remaining principal amount following such repurchase (not less than U.S. $1,000):
+To exchange only part of this Security, state the principal amount to be exchanged (must be $1,000 or an integral multiple of $1,000):  $              .
+The undersigned Holder of this Security hereby irrevocably exercises the option to exchange this Security, or any portion of the principal amount hereof (which is U.S. $1,000 or an integral multiple of U.S. $1,000 in excess thereof, provided that the unexchanged portion of such principal amount is U.S. $1,000 or any integral multiple of U.S. $1,000 in excess thereof) below designated, into cash, shares of Common Stock or a combination of cash and shares of Common Stock of the Parent Guarantor in accordance with the terms of the Indenture referred to in this Security, and directs that any such shares, together with a check in payment for any fractional share and any Securities representing any unexchanged principal amount hereof, be delivered to and be registered in the name of the undersigned unless a different name has been indicated below.
+Re:                             5.375% Exchangeable Senior Notes due 2033 (the “Securities”) of NorthStar Realty Finance Limited Partnership.
+This certificate relates to $         principal amount of Securities owned in (check applicable box) o book-entry or o definitive form by                            (the “Transferor”).
+Dated: June 19, 2013

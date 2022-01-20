@@ -1,0 +1,893 @@
+Exhibit 14
+WAIVER AND CONSENT
+R E C I T A L S
+WHEREAS, the Company also desires to enter into a registration rights agreement relating to the Ordinary Shares issuable upon conversion of the GM Notes (“GM RRA”) with Golden Meditech upon the issuance of the GM Notes; and
+WHEREAS, the Company desires to consummate the transactions contemplated by the GM Purchase Agreement, the GM Notes and the GM RRA (collectively, the “Contemplated Transaction Documents” and the transactions contemplated thereby, the “Contemplated Transactions”);
+NOW THEREFORE, for good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the parties hereto hereby agree as follows:
+1.
+Company Confirmation.
+The Company confirms to the Investor that the Contemplated Transactions are being entered into by the Company with Golden Meditech on an arm’s length basis.
+2.
+With respect to the issuance of the GM Notes by the Company, the Investor hereby irrevocably waives compliance by the Company with Section 8.15 (Preemptive Right) of the KKR Purchase Agreement.
+In connection with the Company entering into the Contemplated Transactions, the Investor hereby provides its consent under (a) Section 8.16 (No Related Party Transactions) and subsections (e) and (h) of Section 8.32 (Negative Covenants) of the KKR Purchase Agreement, and (b) Section 9.3 and Section 10.2 of the Registration Rights Agreement (provided that the Company’s obligations under Section 9.3 of the Registration Rights Agreement regarding Section 3 thereof shall not be waived or otherwise affected hereby).
+The parties agree that the Indebtedness represented by the GM
+Notes shall not be included in determining the outstanding Indebtedness of the Group as set forth in Section 8.32(h) of the KKR Purchase Agreement from and after the date of this Waiver.
+3.
+Notice and Acknowledgement.
+a.
+The Investor has been provided forms of each of the Contemplated Transaction Documents, which are attached hereto as Exhibit A, and hereby acknowledges receipt of notice of the terms and conditions of the Contemplated Transactions.
+b.
+The Company acknowledges that the Investor is providing its consent and waiver to the Contemplated Transactions (as per paragraph 2 above) in reliance (i) of the form of each of the Contemplated Transaction Documents attached hereto as Exhibit A and (ii) that no other documents or commitments in relation to the Contemplated Transactions have been entered into by the Company which have not been disclosed to the Investor.
+4.
+Representations and Warranties of the Investor and the Company.
+a.
+The Investor represents and warrants to the Company as of the date of this Waiver that:
+i.                  this Waiver has been duly authorized and validly executed and delivered by the Investor, and constitutes the valid and binding obligation of the Investor, enforceable against the Investor in accordance with its terms; and
+ii.
+the Investor currently holds directly all outstanding Notes and no Notes have been converted prior to its entering into this Waiver.
+b.
+The Company represents and warrants to the Investor as of the date of this Waiver that:
+i.                  this Waiver has been duly authorized and validly executed and delivered by the Company and constitutes the valid and binding obligation of the Company, enforceable against the Company in accordance with its terms.
+5.
+Effect on Transaction Documents.
+Except as set forth above, the Transaction Documents and any other documents related thereto shall remain in full force and effect and are hereby ratified and confirmed.
+6.
+Governing Law; Jurisdiction.
+This Waiver shall be governed by and construed in accordance with the laws of the State of New York applicable to contracts made and to be performed in the State of New York.
+Section 15.2 (Submission to Jurisdiction) and Section 15.3 (Service of Process) of the KKR Purchase Agreement are hereby incorporated into this Waiver by reference and shall apply mutatis mutandis to this Waiver
+7.
+Counterparts.
+8.
+Severability.
+If any provision of this Waiver shall be invalid or unenforceable in any jurisdiction, such invalidity or unenforceability shall not affect the validity or enforceability of the remainder of this Waiver or the validity or enforceability of this Waiver agreement in any other jurisdiction.
+IN WITNESS WHEREOF, the undersigned have executed this Waiver as of the date first written above.
+By:
+/s/ Ting Zheng
+Name:
+Ting Zheng
+Title:
+Chairperson and Chief Executive Officer
+By:
+/s/ William Janetschek
+Name:
+William Janetschek
+Title:
+Director
+EXHIBIT A
+Contemplated Transaction Documents
+among
+and
+TABLE OF CONTENTS
+Page
+SECTION 1 INTERPRETATION
+2
+SECTION 2 SALE AND PURCHASE OF THE NOTES
+9
+SECTION 3 CONDITIONS PRECEDENT TO COMPLETION
+9
+SECTION 4 COMPLETION ACTIONS
+13
+SECTION 5 OBLIGATIONS OF THE COMPANY BETWEEN EXECUTION AND COMPLETION
+14
+SECTION 6 REPRESENTATIONS AND WARRANTIES
+16
+16
+SECTION 8 COVENANTS
+17
+SECTION 9 FEES AND EXPENSES
+25
+SECTION 10 INDEMNIFICATION
+25
+SECTION 11 TERMINATION
+25
+SECTION 12 NOTICES
+26
+SECTION 13 MISCELLANEOUS
+27
+SECTION 14 GOVERNING LAW AND JURISDICTION
+28
+SCHEDULES
+SCHEDULE 1
+PART A — PARTICULARS OF THE COMPANY
+PART B — PARTICULARS OF OTHER OFFSHORE COMPANIES
+PART C — PARTICULARS OF THE OTHER ONSHORE COMPANIES
+SCHEDULE 2
+COMPANY WARRANTIES
+SCHEDULE 3
+INVESTOR WARRANTIES
+SCHEDULE 4
+LIST OF SENIOR MANAGERS
+EXHIBITS
+EXHIBIT A
+FORM OF THE NOTES
+EXHIBIT B
+EXHIBIT C
+EXHIBIT D
+HONG KONG LEGAL OPINION
+EXHIBIT E
+NEW YORK LEGAL OPINION
+EXHIBIT F
+EXECUTION VERSION
+AMONG:
+RECITALS:
+(A)                         The Company is listed on the New York Stock Exchange, Inc.
+(B)                           The Company owns all of the issued shares of China Cord Blood Services Corporation, a Cayman Islands exempted company (“CCBS”).
+CCBS owns all of the issued shares of China Stem Cells Holdings Limited, a Cayman Islands exempted company (“CSC Holdings”).
+FF HK owns one hundred percent (100%) equity interest in Jinan Baoman Science & Technology Development Company Limited, a wholly foreign-owned enterprise established in the PRC (as defined below), which in turn owns twenty-four percent (24%) equity interest in Shandong Qilu Stem Cells Engineering Company Limited, a PRC limited liability company.
+South BVI owns one hundred percent (100%) equity interest in Guangzhou Municipality Tianhe Nuoya Bio-engineering Company Limited, a wholly foreign-owned enterprise established in the PRC (“Nuoya”).
+The holding structure of the Group (as defined below) is set forth in the Structure Chart attached as Part D of Schedule 1.
+SECTION 1
+INTERPRETATION
+1.1                                 Definitions.
+In this Agreement, unless the context otherwise requires, the following words and expressions have the following meanings:
+“1933 Act” means the Securities Act of 1933 of the United States of America, as amended, and the rules and regulations promulgated thereunder.
+“1934 Act” means the Securities Exchange Act of 1934 of the United States of America, as amended, and the rules and regulations promulgated thereunder.
+“Affiliate” of a Person (the “Subject Person”) means (a) in the case of a Person other than a natural person, any other Person that directly or indirectly Controls, is Controlled by or is under common Control with the Subject Person and (b) in the case of a natural person, any other Person that is directly or indirectly Controlled by the Subject Person or is a Relative of the Subject Person.
+In the case of the Investor, the term “Affiliate” includes (v) any controlling shareholder of the Investor, (w) any of such shareholder’s general partners or limited partners, (x) the fund manager managing such shareholder (and general partners, limited partners and officers thereof) and (y) trusts controlled by or for the benefit of any such individuals referred to in (w) or (x).
+“Anti-Corruption Laws” means the FCPA, the UK Bribery Act 2010 (and, in relation to conduct prior to 1 July 2011, the Public Bodies Corrupt Practices Act 1889 and the Prevention of Corruption Act 1906 (together with the UK Bribery Act 2010, as amended, the “UK Corruption Laws”) and any other anti-bribery or anti-corruption laws applicable to the Company or any of its Affiliates (including such laws in the PRC).
+For these purposes, the offences created by the FCPA and the UK Corruption Laws shall be deemed to apply to the Affiliates of the Company in respect of acts or omissions by them which may directly or indirectly constitute a breach by the Company or the relevant Affiliates of such law, irrespective of the jurisdictional scope of those offences.
+“Board” means the board of directors of the Company.
+“Business Day” means any day other than a Saturday, Sunday or other day on which commercial banks in the PRC, Hong Kong or New York City are required or authorized by law or executive order to be closed.
+“China” or the “PRC” means the People’s Republic of China and for the purpose of this Agreement shall exclude Hong Kong, Taiwan and the Special Administrative Region of Macau.
+2
+“Code” means the United States Internal Revenue Code of 1986, as amended.
+“Company Charter Documents” means the Memorandum and Articles of Association of the Company.
+“Company Financial Statements” means, for any Financial Year, the consolidated balance sheet and the consolidated statements of income and cash flows of the Company for such Financial Year, prepared and audited by a Big 4 Accounting Firm in accordance with US GAAP.
+“Completion” means the completion and closing of the purchase of the Notes.
+“Completion Date” means the date and time at which Completion takes place.
+“Contingent Obligation” means, as to any Person, any direct or indirect liability, contingent or otherwise, of that Person with respect to any Indebtedness, lease, dividend or other obligation of another Person if the primary purpose or intent of the Person incurring such liability, or the primary effect thereof, is to provide assurance to the obligee of such liability that such liability shall be paid or discharged, or that any agreements relating thereto shall be complied with, or that the holders of such liability shall be protected (in whole or in part) against loss with respect thereto.
+“Control” of a Person means (a) ownership of more than fifty percent (50%) of the shares in issue or other equity interests or registered capital of such Person or (b) the power to direct the management or policies of such Person, whether through ownership or voting proxy of the voting power of such Person, through the power to appoint a majority of the members of the board of directors or similar governing body of such Person, through contractual arrangements or otherwise.
+“Conversion Shares” means Shares issued upon conversion of any Note.
+“Disclosed” means, in respect of any Company Warranty, fully and fairly disclosed in the (i) numbered and lettered section corresponding to such Company Warranty in the Disclosure Letter or (ii) the Company SEC Filings, if the disclosure is specific in detail (as opposed to general risk factor language, forward looking statements or other reservations that relate to a hypothetical or inchoate risks), to the extent that the application of such disclosure to a specific Company Warranty is reasonably clear on its face.
+“Disclosure Letter” means the disclosure letter delivered by the Company to the Investor on the date hereof.
+“Encumbrance” means (a) any mortgage, charge (whether fixed or floating), pledge, lien, hypothecation, assignment, deed of trust, title retention, security interest or other encumbrance of any kind securing, or conferring any priority of payment in respect of, any obligation of any Person, including any right granted by a transaction which, in legal terms, is not the granting of security interest or any other encumbrance but which has an economic or financial effect similar to the granting of security interest or any other encumbrance under applicable law, (b) any lease, sub-lease, occupancy
+3
+agreement, easement or covenant granting a right of use or occupancy to any Person, (c) any proxy, power of attorney, voting trust agreement, interest, option, right of first offer, negotiation or refusal or transfer restriction in favor of any Person and (d) any adverse claim as to title, possession or use.
+“Equity Securities” means, with respect to any Person, such Person’s shares, capital stock, membership interests, partnership interests, registered capital, joint venture or other ownership interests or any options, warrants or other securities that are directly or indirectly convertible into, or exercisable or exchangeable for, such shares, membership interests, partnership interests, registered capital or joint venture or other ownership interests (whether or not such derivative securities are issued by such Person).
+Unless the context otherwise requires, any reference to “Equity Securities” refers to the Equity Securities of the Company.
+“Exempted Issuance” means (a) any issuance of the Conversion Shares (b)any issuance of Shares or Equity Securities convertible into Shares pursuant to the KKR Notes or KKR Transaction Documents, and (c) the issuance of Shares or Equity Securities convertible into Shares for up to five percent (5%) of the issued share capital of the Company as of the date of this Agreement on a non-diluted basis under the Existing Share Incentive Scheme.
+“Existing Financial Statements” means the Company Financial Statements for the Financial Year ended March 31, 2012 prepared in accordance with US GAAP.
+“Existing Share Incentive Scheme” means the restricted share unit scheme approved by the shareholders at the annual general meeting on February 18, 2011, which has a mandate limit of granting rights to receive ordinary shares, not exceeding 10.0% of issued and outstanding share capital from time to time, to directors, officers, employees and or consultants of the Company and the other Group Members.
+“FCPA” means the U.S. Foreign Corrupt Practices Act, as amended.
+“Financial Year” means the financial year of the Company, which ends on March 31 of each calendar year.
+“Governmental Authority” means any government or political subdivision thereof; any department, agency or instrumentality of any government or political subdivision thereof; any court or arbitral tribunal; and the governing body of any securities exchange or other self-regulatory body, whether domestic or foreign, in each case having competent jurisdiction.
+“Group” means the Company and its direct and indirect Subsidiaries, and “Group Member” means any of them.
+4
+“Group Representative” means any director, officer, agent, employee, consultant, professional advisor or other Person acting for or on behalf of any Group Member or Affiliate of any Group Member.
+“Hong Kong” means the Hong Kong Special Administrative Region of the PRC.
+“Indebtedness” of any Person means, without duplication (i) all indebtedness for borrowed money, (ii) all obligations issued, undertaken or assumed as the deferred purchase price of property or services, including (without limitation) “capital leases” in accordance with generally accepted accounting principles (other than trade payables entered into in the ordinary course of business), (iii) all reimbursement or payment obligations with respect to letters of credit, surety bonds and other similar instruments, (iv) all obligations evidenced by notes, bonds, debentures or similar instruments, including obligations so evidenced incurred in connection with the acquisition of property, assets or businesses, (v) all indebtedness created or arising under any conditional sale or other title retention agreement, or incurred as financing, in either case with respect to any property or assets acquired with the proceeds of such indebtedness (even though the rights and remedies of the seller or bank under such agreement in the event of default are limited to repossession or sale of such property), (vi) all monetary obligations under any leasing or similar arrangement, whether or not classified as a capital lease in accordance with generally accepted accounting principles, (vii) all indebtedness referred to in clauses (i) through (vi) above secured by (or for which the holder of such Indebtedness has an existing right, contingent or otherwise, to be secured by) any Encumbrance upon or in any property or assets (including accounts and contract rights) owned by any Person, even though the Person which owns such assets or property has not assumed or become liable for the payment of such indebtedness, and (viii) all Contingent Obligations in respect of indebtedness or obligations of others of the kinds referred to in clauses (i) through (vii) above.
+“NYSE” means the New York Stock Exchange, Inc. or any successor thereto.
+“Onshore Companies” means the legal entities set forth in Schedule 1 and all other legal entities established in the PRC in which any of the foregoing legal entities directly or indirectly owns any interest.
+“Party” or “Parties” means any signatory or the signatories to this Agreement and any Person that subsequently becomes a party to this Agreement as provided herein.
+5
+“Person” means any natural person, firm, company, Governmental Authority, joint venture, partnership, association or other entity (whether or not having separate legal personality).
+“Principal Business” means the business of the Group, being cord blood banking and related services.
+“Pro Rata Share” means the proportion that the number of the Shares held by the Investor on an as converted basis bears to the aggregate number of Shares.
+“Registration Rights Agreement” means the Registration Rights Agreement, in the form of Exhibit F, to be executed at Completion by and between the Company and the Investor.
+“Related Party” means (a) any Affiliate of any Group Member and (b) any director or officer of any Group Member or any Affiliate thereof.
+“Relative” of a natural person means the spouse of such person and any parent, grandparent, child, grandchild, sibling, first cousin, uncle, aunt, nephew, niece or in-laws of such person or spouse.
+“SEC” means the United States Securities and Exchange Commission or any successor thereto.
+“Senior Managers” means the senior managers and key employees of the Group set forth in Schedule 4.
+“Subsidiary” of any Person (the “Parent”) means any Person directly or indirectly Controlled by the Parent.
+“Tax” means any tax, duty, deduction, withholding, impost, levy, fee, assessment or charge of any nature whatsoever (including, without limitation, income, franchise, value added, sales, use, excise, stamp, customs, documentary, transfer, withholding, property, capital, employment, payroll, ad valorem, net worth or gross receipts taxes and any social security, unemployment or other mandatory contributions) imposed, levied, collected, withheld or assessed by any local, municipal, regional, urban, governmental, state, national or other body in the PRC, the United States or elsewhere and any interest, addition to tax, penalty, surcharge or fine in connection therewith.
+“Tax Authority” means any Governmental Authority which imposes any Tax in any jurisdiction.
+“Tax Returns” means any and all reports, returns, declarations, disclosures, or statements supplied or required to be supplied to a Tax Authority in connection with any Tax, including any schedule, attachment or amendment thereto.
+“Trading Day” has the meaning set forth in Exhibit A.
+“Transaction Documents” means this Agreement, the Notes and the Registration Rights Agreement.
+6
+“US GAAP” means the generally accepted accounting principles as applied in the United States.
+“US$” means United States Dollars, the lawful currency of the United States of America.
+1.2                                 Terms Defined Elsewhere in this Agreement.
+The following terms are defined in this Agreement as follows:
+Preamble
+Recital B
+Preamble
+“Company Warranties”
+Section 6.1
+“Confidential Information”
+Section 7.1
+“Consideration”
+Section 2.1
+Recital B
+Section 8.19
+“East BVI”
+Recital B
+Recital B
+Recital B
+Section 10.1
+Section 10.1
+Preamble
+“Investor Warranties”
+Section 6.2
+Recital C
+“Lukou”
+Recital C
+Section 8.14
+“North BVI”
+Recital B
+Recital B
+“Notes”
+Recital D
+“Nuoya”
+Recital C
+“Proceeds”
+Section 2.3
+“Reporting Period”
+Section 8.4
+“Representatives”
+Section 7.1
+Recital D
+“South BVI”
+Recital B
+Recital B
+“Value of the Equity Securities”
+“West BVI”
+Recital B
+Recital B
+1.3                                 Interpretation.
+(a)                                  Directly or Indirectly.
+The phrase “directly or indirectly” means directly, or indirectly through one or more intermediate Persons or through contractual or other arrangements, and “direct or indirect” has the correlative meaning.
+(b)                                 Gender and Number.
+Unless the context otherwise requires, all words (whether gender-specific or gender neutral) shall be deemed to include each of the
+7
+masculine, feminine and neuter genders, and words importing the singular include the plural and vice versa.
+(c)                                  Headings.
+Headings are included for convenience only and shall not affect the construction of any provision of this Agreement.
+“Include,” “including,” “are inclusive of” and similar expressions are not expressions of limitation and shall be construed as if followed by the words “without limitation.”
+(e)                                  Law.
+References to “law” shall include all applicable laws, regulations, rules and orders of any Governmental Authority, any common or customary law, constitution, code, ordinance, statute or other legislative measure and any regulation, rule, treaty, order, decree or judgment; and “lawful” shall be construed accordingly.
+(f)                                    References to Documents.
+References to this Agreement include the Schedules and Exhibits, which form an integral part hereof.
+A reference to any Section, Schedule or Exhibit is, unless otherwise specified, to such Section of, or Schedule or Exhibit to this Agreement.
+The words “hereof,” “hereunder” and “hereto,” and words of like import, unless the context requires otherwise, refer to this Agreement as a whole and not to any particular Section hereof or Schedule or Exhibit hereto.
+A reference to any document (including this Agreement) is, unless otherwise specified, to that document as amended, restated, consolidated, supplemented, novated or replaced from time to time.
+(g)                                 Share Calculations.
+In calculations of share numbers, references to a (i) “fully diluted basis” mean that the calculation is to be made assuming that all outstanding options, warrants and other Equity Securities convertible into or exercisable or exchangeable for Shares (whether or not by their terms then currently convertible, exercisable or exchangeable), have been so converted, exercised or exchanged; and (ii) on an “as converted basis” means that the calculation is to be made assuming that the Notes in question have been converted, but not assuming the exercise or conversion of any other options, warrants or other Equity Securities that are convertible into Shares.
+Any share calculation that makes reference to a specific date shall be appropriately adjusted to take into account any bonus share issue, share subdivision, share consolidation or combination, share split, recapitalization, reclassification or similar event affecting the Shares after such date.
+(h)                                 Knowledge.
+Where any statement is qualified by the expression “to the best of a Person’s knowledge” or any similar expression, that statement shall, unless otherwise stated, be deemed to refer to the knowledge of a prudent Person in the position of such Person who shall be deemed to have knowledge of such matters as he would have discovered, had he made such enquiries and investigations as a prudent Person would have made to confirm the subject matter of the statement.
+(i)                                     Scope of Company Warranties.
+To the extent any Company Warranty is applicable to any individual Group Member, such Company Warranty shall only be deemed to have been breached if the misrepresentation causing such
+8
+breach would have resulted in a material adverse effect on the Group, taken as a whole and affecting the Group’s ability to carry out its obligations pursuant to the Transaction Documents.
+(j)                                Writing.
+References to writing and written include any mode of reproducing words in a legible and non-transitory form including emails and faxes.
+(k)                             Language.
+This Agreement is drawn up in the English language.
+SECTION 2
+SALE AND PURCHASE OF THE NOTES
+2.1                                 Notes.
+2.2                                 Consideration.
+2.3                                 Use of Proceeds.
+The Company shall use the proceeds from the issuance of the Notes (the “Proceeds”) for general corporate purposes, which may include, but is not limited to, funding sales and marketing, increasing working capital, business expenses, business expansions and capital expenditures.
+SECTION 3
+CONDITIONS PRECEDENT TO COMPLETION
+3.1                                 Conditions Precedent to Obligations of the Investor at Completion.
+(a)                             the Company Warranties remaining true and correct in all material respects on the Completion Date as provided in Section 6.5, provided, however, that to the extent any portion of any Company Warranty is already qualified as to materiality, such portion of such Company Warranty as so qualified shall remain true and correct in all respect;
+(b)                            the Company having performed and complied in all material respects with all of its agreements and obligations contained in the Transaction Documents to which it is a party that are required to be performed or complied with by it on or before Completion;
+9
+include approval by the Board on or prior to the date hereof, each to the extent required by applicable law and Company Charter Documents, of the following:
+(1)                                  the authorization and issuance of Notes to the Investor and the authorization and issue of the Shares to the Investor upon the conversion of the Notes; and
+(2)                                  the execution, delivery and performance by the Company of each Transaction Document to which it is a party and all the transactions contemplated thereby;
+(d)                                 all consents and approvals of, notices to and filings or registrations with any Governmental Authority or any other Person required pursuant to any applicable law of any Governmental Authority (including any anti-trust, competition or similar legal requirements in any jurisdiction), or pursuant to any contract binding on the Company or whereby its respective assets are subject or bound, to consummate the transactions contemplated under this Agreement and the other Transaction Documents (to the extent that such transactions are to be completed on or prior to the Completion Date) having been obtained or made, and copies thereof having been provided to the Investor (each certified by a duly authorized director to be true, complete and correct copies thereof as of the Completion Date);
+(e)                                  there being no Governmental Authority or other Person that has:
+(i)                                     instituted any legal, arbitral or administrative proceedings or written inquiry against the Company or any other Group Member to restrain, prohibit, delay or otherwise challenge the transaction contemplated hereby or under any Transaction Document or requested any information in connection with the possible institution of any such proceedings or inquiry; or
+(ii)                                  enacted any statute, regulation or policy which would prohibit, materially restrict, impact or delay implementation of the transactions contemplated under any Transaction Document or the operation of any Group Member or the operation of any Group Member after Completion as contemplated in the Transaction Documents;
+(g)                                 except as may be the result of the announcement of the transactions contemplated hereby, there having been since the date of this Agreement, (i) no material adverse change in, and no change in circumstances that has a material adverse impact on the business, operations, properties or financial condition or prospects of the Group, taken as a whole, and (ii) no material change in, and no event or circumstance that has occurred and could result in any material change or amendment to, any historical financial statement of any Group Member;
+(h)                                 completion of all appropriate actions to elect or appoint at Completion the Nominee Director to the Board and any committees thereof as selected by the
+10
+Nominee Director, including, if necessary, taking such appropriate actions to increase the size of the Board and such committees to effect such election or appointment;
+(l)                                     there being no outstanding comments from the SEC regarding any filings by the Company;
+(o)                                 The board and shareholders (if required) of the Investor shall have approved the execution, delivery and performance by the Investor of this Agreement and all transactions contemplated hereby, and, to the extent required, each other Transaction Document to which it is a party and all transactions contemplated thereby; and
+(p)                                 NYSE having conditionally approved the listing of the Conversion Shares on NYSE, subject only to official notice of issuance.
+3.2                                 Conditions Precedent to Obligations of Company at Completion.
+With respect to the Investor, the Company's obligation to complete the issuance of the Notes at Completion
+11
+is subject to the fulfillment, prior to or simultaneously with Completion, of the following conditions, any one or more of which may be waived by the Company:
+(a)                                  the Investor Warranties remaining true and correct in all material respects on the Completion Date, provided, however, that to the extent any portion of any Investor Warranty is already qualified as to materiality, such portion of such Investor Warranty as so qualified shall remain true and correct in all respect;
+(b)                                 the Investor having performed and complied in all material respects with all of its agreements and obligations contained in this Agreement and the other Transaction Documents to which it is a party that are required to be performed or complied with by it on or before Completion;
+(c)                                  the Investor having duly attended to and carried out all corporate procedures that are required under the laws of its place of incorporation or establishment to effect its execution, delivery and performance of each Transaction Document to which it is as a party and the transactions contemplated thereby;
+(e)                                  there being no Governmental Authority or other Person that has:
+(i)                                     instituted any legal, arbitral or administrative proceedings or written inquiry against the Investor to restrain, prohibit or otherwise challenge the transaction contemplated hereby or under any Transaction Document or any other matter or requested any information in connection with the possible institution of any such proceedings or inquiry; or
+(ii)                                  enacted any statute, regulation or policy which would prohibit, materially restrict, impact or delay the implementation of the transactions contemplated under any Transaction Document;
+(h)                                 the Investor having provided a certificate of incumbency and authority in the form attached as Exhibit B;
+12
+(j)                                NYSE having conditionally approved the listing of the Conversion Shares issuable upon conversion of the Notes on NYSE, subject only to official notice of issuance; provided that the condition set forth in this Section 3.2(j) shall be deemed waived by the Company to the extent the failure of NYSE to approve such listing has been caused solely by the Company.
+(k)                             the Company shall have received an opinion of Cowen and Company (Asia) Limited in form and substance reasonably satisfactory to the Company, on the basis of certain facts, representations and assumptions set forth in such opinion, dated on or prior to the Completion Date, to the effect that the sale of the Notes in exchange for the Consideration on the terms and subject to the conditions contained in this Agreement and the other Transaction Documents is fair, from a financial point of view, to holders of the Company’s ordinary shares, other than the Investor, as of the date thereof.
+(l)                                the Company shall have received the written consent of KKR China Healthcare Investment Limited to the sale of the Notes under this Agreement as required by the KKR Transaction Documents.
+SECTION 4
+COMPLETION ACTIONS
+4.1                                 Time and Place of Completion.
+4.2                                 Actions at Completion.
+With respect to the Investor, at Completion,
+(a)                                  the Company shall:
+(i)                                     issue the Notes to the Investor or its nominee(s) free and clear of Encumbrances;
+13
+(a)                                  the Investor, in the case of a failure of any of the conditions set forth in Section 3.1 by the Company, may, at its option, without prejudice to its rights hereunder and in accordance with applicable law:
+(i)                                     defer Completion to a later date;
+(ii)                                  so far as practicable, proceed to Completion; or
+(b)                                 the Company, in the case of a failure of any of the conditions set forth in Section 3.2, may, at its option, without prejudice to its rights hereunder and in accordance with applicable law:
+(i)                                     defer Completion to a later date;
+(ii)                                  so far as practicable, proceed to Completion; or
+SECTION 5
+OBLIGATIONS OF THE COMPANY BETWEEN EXECUTION AND
+COMPLETION
+5.1                                 Notices of Breaches.
+From the date hereof until the Completion Date, except as disclosed in the Transaction Documents or otherwise as contemplated thereunder, the Company shall, and shall cause each other Group Member to, conduct its business in a manner consistent with its past practice in its ordinary course of business in all material respects.
+5.2                                 Restrictions on Actions between Execution and Completion.
+From the date hereof until the Completion Date, other than as set forth in this Agreement or other Transaction Documents, the Company shall not, without the prior written consent of the Investor, and shall not permit any other Group Member to:
+(a)                                  amend, modify or waive any provision or provisions of any Transaction Document;
+(b)                                 make any distribution of profits by way of interim or final dividend, capitalization of reserves or otherwise;
+(c)                                  appoint or change the accounting firm responsible for the audit of the Group, or make any material change of accounting or audit policies of any Group Member
+14
+other than such change required by relevant accounting standards or the auditor of the Company or by law;
+(e)                                  approve transactions exceeding US$1,000,000 involving the interest of any Related Party, or waive or make adjustments or modifications which has an effect of exceeding US$1,000,000 to the terms of any transactions involving the interests of any Related Party, in each case other than the transactions expressly contemplated in the Transaction Documents;
+(g)                                 except for Encumbrances which exists prior to the date hereof, create or allow to exist any Encumbrances in excess of US$5,000,000 in the aggregate of any nature securing obligations on any of the property, undertaking, assets or rights of any Group Member;
+(h)                                 acquire, sell, transfer, license, or otherwise dispose in any form of any asset including any trademarks, patents or other intellectual property owned by any Group Member, other than the sales of products to customers or non-material purchases of supplies and equipment not exceeding US$5,000,000 in total costs in the ordinary course of business consistent with past practice;
+(i)                                     make any alteration or amendment to the Company Charter Documents or the charter documents of any other Group Member, or change the size or composition of its board of directors or any committee thereof other than as contemplated under the Transaction Documents;
+(j)                                     approve the execution or termination of any material contract by any Group Member that is not in the ordinary course of business and consistent with past practice of the Group;
+(k)                                  cease to conduct or carry on business in substantially the form as now conducted, approve the development of any new line of business or materially change any part of its business activities;
+(l)                                     settle, compromise or concede any litigation, legal proceedings, arbitration, mediation or any other dispute resolution procedures, except where the amount of the claim is less than US$5,000,000;
+(n)                                 commence any bankruptcy or insolvency related proceeding.
+15
+SECTION 6
+REPRESENTATIONS AND WARRANTIES
+6.1                                 Company Warranties.
+The Company represents and warrants to the Investor in the terms of the warranties set forth in Schedule 2 (such warranties, the “Company Warranties”) and acknowledges that the Investor in entering into this Agreement is relying on the Company Warranties.
+6.2                                 Investor Warranties.
+The Investor represents and warrants to the Company in the terms of the warranties set forth in Schedule 3 (such warranties, the “Investor Warranties”) and acknowledges that the Company in entering into this Agreement is relying on the Investor Warranties.
+6.3                                 Knowledge of Claims.
+Each of the Company Warranties is given subject to the matters fully and fairly Disclosed.
+No other information relating to any Group Member of which the Investor has knowledge (actual or constructive), no other information relating to the Investor of which the Company has knowledge (actual or constructive) and no investigation by or on behalf of the Investor or the Company shall prejudice any claim made by the Investor or the Company, as the case may be, under the indemnity contained in Section 10, or operate to reduce any amount recoverable thereunder.
+It shall not be a defense to any claim against the Company or the Investor that the Company or the Investor, as the case may be, knew or ought to have known or had constructive knowledge of any information, other than as fully and fairly disclosed as above, relating to the circumstances giving rise to such claim.
+The Disclosure Letter shall be deemed to take effect as at the date hereof.
+6.4                                 Separate and Independent.
+The Company Warranties shall be separate and independent and save as expressly provided shall not be limited by reference to any other paragraph or anything in this Agreement or the Schedules.
+6.5                                 Bring-Down to Completion.
+The Company Warranties shall be deemed to be repeated as at the Completion Date as if they were made on and as of the Completion Date and all references therein to the date of this Agreement were references to the Completion Date.
+6.6                                 Survival.
+The Company Warranties shall survive the Completion Date.
+SECTION 7
+7.1                                 General Obligation.
+Each Party undertakes to the other Party that it shall not reveal, and that it shall use its commercially reasonable efforts to procure that its respective directors, equity interest holders, officers, employees, agents, counsel and advisors who are in receipt of any Confidential Information (collectively, “Representatives”) do not reveal, to any third party any Confidential Information without the prior written consent of the concerned Party or use any Confidential Information in such manner that is detrimental to the concerned Party.
+The term “Confidential Information” as used in this Section 7 means: (a) any non-public information concerning the organization, structure, business or financial results or condition of any Party; (b) the terms of this Agreement and the terms of any of the other Transaction Documents, and the identities of the Parties and their respective Affiliates; and (c) any other information or material
+16
+prepared by a Party or its Representatives that contains or otherwise reflects, or is generated from, Confidential Information.
+7.2                                 Exceptions.
+The provisions of Section 7.1 shall not apply to:
+(a)                                  disclosure of Confidential Information that is or becomes generally available to the public other than as a result of disclosure by or at the direction of a Party or any of its Representatives in violation of this Agreement;
+(b)                                 disclosure by a Party to a Representative or an Affiliate if such Representative or Affiliate (i) is under a similar obligation of confidentiality or (ii) is otherwise under a binding professional obligation of confidentiality;
+(c)                                  disclosure, after giving prior notice to the other Parties to the extent practicable under the circumstances and subject to any practicable arrangements to protect confidentiality, to the extent required under the rules of any stock exchange on which the shares of a Party or its parent company are listed or by applicable laws or governmental regulations or judicial or regulatory process or in connection with any judicial process regarding any legal action, suit or proceeding arising out of or relating to this Agreement; provided that no prior notice to any Party shall be required to be given under this Section 7.2(c) with respect to any dispute arising out of or relating to this Agreement;
+7.3                                 Publicity.
+Subject to Section 8.12, except as required by law, by any Governmental Authority (including any relevant stock exchange on which the shares of a Party or its parent company are listed) or otherwise agreed by all the Parties, no publicity release or public announcement concerning the relationship or involvement of the Parties shall be made by any Party; provided that any such publicity release or public announcement shall be reviewed and agreed by the Parties hereto prior to its release.
+17
+SECTION 8
+COVENANTS
+8.1                                 Benefit of Covenants.
+(a)                                  The covenants of the Company under this Section 8 shall be for the sole benefit of the Investor.
+All other provisions in Section 8 shall be in full force and effect for so long as the Investor beneficially owns any Notes or Conversion Shares.
+(c)                                  “Investment Value” at any time shall mean the total Value of the Equity Securities held by the Investor at such time.
+“Value of the Equity Securities” held by the Investor at a particular time shall mean (i) the outstanding principal amount of the Notes held by the Investor at such time, plus (ii) the number of Conversion Shares held by the Investor at such time multiplied by the Conversion Price at which such Conversion Shares were issued.
+8.2                                 Commercially Reasonable Efforts.
+Each Party shall use its commercially reasonable efforts to timely satisfy each of the covenants and conditions for Completion to be satisfied by it as provided in this Agreement.
+8.3                                 Corporate Existence.
+So long as the Investor beneficially owns any Notes or Conversion Shares, the Company shall maintain its corporate existence.
+8.4                                 Reporting Status.
+Until the earlier of (i) the date on which the Investor shall have sold all of the Notes and the Conversion Shares and (ii) the date on which the Investor may sell all of the Notes and the Conversion Shares in one transaction without restriction or limitation as to volume pursuant to Rule 144 (or any successor rule thereto) promulgated under the 1933 Act (the “Reporting Period”), the Company shall timely file all reports required to be filed with the SEC pursuant to the 1934 Act, including any extension period under Rule 12b-25 promulgated under the 1934 Act, and the Company shall not terminate its status as an issuer required to file reports under the 1934 Act even if the 1934 Act would no longer require or otherwise permit such termination.
+8.5                                 Form F-3 Eligibility.
+The Company shall use best efforts to maintain its eligibility to register the Conversion Shares, to the extent possible and permitted under applicable law and regulations, for resale by the Investor on Form F-3.
+8.6                                 Listing.
+The Company shall use best efforts to maintain the Shares’ authorization for listing on the NYSE.
+Neither the Company nor any other Group Member shall take any action which would be reasonably expected to result in the delisting or suspension from trading of the Shares on the NYSE.
+8.7                                 Financial Information.
+18
+8.8                                 Information Rights.
+Upon the reasonable request of the Investor, the Company shall in a timely manner provide to the Investor financial or other information (including non-public information) regarding the business and operation of the Group, including any information or statements as may be reasonably necessary for the Investor (or any of its direct or indirect owner) to file any Tax Return or other filings required by law.
+Upon the Investor’s request, and with reasonable prior notice to the Company, the Company shall permit representatives of the Investor, during normal office hours, to (a) visit any of the sites and premises where any business of any Group Member is conducted; (b) inspect any of the sites, facilities, plants and equipment of any Group Member; and (c) have reasonable access to those officers, employees, agents, accountants, auditors, contractors and subcontractors of any Group Member who have or may have knowledge of matters with respect to which the Investor seeks information; provided, however, that, for the avoidance of doubt, any information provided with respect to any of the foregoing shall be subject to Section 7.
+8.9                                 Budgets and Business Plans.
+The Board shall adopt a budget and business plan for the Company within one (1) month after the commencement of the relevant Financial Year, which the Board shall review at least twice annually and may revise from time to time in accordance with the needs of the Group.
+8.10                           Notification to the Investor.
+Subject to Section 8.12(b), the Company shall promptly notify the Investor of the occurrence of any transaction or event (i) as a consequence of which (whether alone or together with any one or more transactions or events occurring before, on or after the Completion Date) any material Liability of any Group Member has arisen or may arise (including any legal proceedings that has been instituted or any material threatened legal proceedings), or (ii) which may otherwise cause a material adverse effect on the Group.
+8.11                           Pledge or Charge of Securities.
+The Company acknowledges and agrees that the Notes and the Conversion Shares may be pledged or charged by the Investor in connection with a bona fide margin agreement or other loan or financing arrangement.
+The pledge of the Notes and charge of the Conversion Shares shall not be deemed to be a transfer, sale or assignment of such securities hereunder, and upon effecting such a pledge or charge, the Investor shall provide the Company with notice thereof but shall not be required to otherwise make any delivery to the Company pursuant to this Agreement.
+8.12                           Disclosure of Transactions and Other Material Information.
+19
+issue a press release and file a report describing the terms of the transactions contemplated by the Transaction Documents in the form required by the 1934 Act and attaching the material Transaction Documents as exhibits to such filing to the extent required by the 1934 Act; provided that the Investor shall be consulted by the Company in connection with any such press release or other public disclosure prior to its release.
+In the event that the Investor is not entitled to appoint the Nominee Director and its nominee no longer serves as a director of the Company, (i) the Company shall not, and shall cause each other Group member not to, provide the Investor with any material, nonpublic information regarding the Company or any other Group Member without the express written consent of the Investor prior to such disclosure; and (ii) if the Investor has, or believes it has, received during the time subsequent to the time that it is not so entitled, any such material, nonpublic information regarding the Company or any of the Group Member, it may provide the Company with written notice thereof.
+In the event of a breach of the foregoing covenant by the Company or any other Group Member, in addition to any other remedy provided herein or in the Transaction Documents and notwithstanding any provision under Section 7, the Investor shall have the right to make a public disclosure, in the form of a press release, public advertisement or otherwise, of such material, nonpublic information without the prior approval by the Company or any other Group Member.
+The Investor shall not have any liability to the Company or any other Group Member for any such disclosure.
+(b)                                 The Investor may at any time in writing waive its right to receive any or certain material, nonpublic information regarding the Company or any other Group Member.
+8.13                           Reservation of Shares.
+The Company shall at all times reserve and keep available out of its authorized and unissued share capital, solely for the purpose of issuance and delivery upon conversion of the Notes, the maximum number of Conversion Shares that may be issuable or deliverable upon such conversion.
+Such Conversion Shares are duly authorized and, when issued or delivered in accordance with Exhibit A, shall be validly issued, fully-paid and non-assessable.
+The Company shall issue such Conversion Shares in accordance with the terms of the Exhibit A, and otherwise comply with the terms hereof and thereof.
+8.14                           Nominee Director.
+The Company shall procure that one nominee designated by the Investor shall be appointed as a director of the Company (the “Nominee Director”).
+At Completion, the Company shall cause the Nominee Director to be appointed to fill the one (1) directorship reserved for the Nominee Director on the Board and the committees thereof.
+If the Nominee Director no longer remains the Nominee Director for any reason, the Company shall cause the new Nominee Director selected by the Investor to be appointed to the Board.
+It is understood that the appointment of the Nominee Director as a director of the Board shall be subject to legal and governance requirements regarding service as a director of the Company.
+20
+The Company shall, and shall procure that each other Group Member shall, subject to the availability of the type of insurance and the commercial reasonableness of the terms by the standards generally applied to comparable businesses, insure and keep insured with an insurer or insurers, all of the assets and business which can be insured of each of its operating Subsidiaries, against insurable losses, to the extent possible, on a reinstatement basis utilizing current full replacement values, and any other insurance required by law.
+8.16                           Intellectual Property Protection.
+(a)                             The Company shall, and shall ensure that each other Group Member shall, take all steps promptly to protect their respective intellectual property rights (if any), including (i) registering all their respective trademarks, brand names, domain names and copyrights, and (ii) wherever prudent applying for patents on their respective technology.
+(b)                            The Company shall use its best efforts to transfer the trademarks held by the Onshore Companies to a Group Member incorporated in Hong Kong in accordance with applicable laws.
+Upon the completion of such transfer, the Group Member incorporated in Hong Kong shall enter into a trademark licensing agreement with the Onshore Companies to authorize the use of such trademarks by the Onshore Companies.
+8.17                           Compliance with Law.
+So long as the Investor beneficially owns any Notes or Conversion Shares, the Company shall, and shall cause each other Group Member and its respective Affiliate (other than dormant companies) to comply in all material respects with all applicable laws, including the requirements of the Sarbanes-Oxley Act of 2002, as amended, and any and all applicable rules and regulations promulgated by the SEC thereunder that are effective with the force of law.
+8.18                           Books, Records and Internal Controls.
+(a)                             The Company shall, and shall cause each other Group Member to, (i) make and keep books, records and accounts which, in reasonable detail, accurately and fairly (x) reflect their transactions and dispositions of assets, and (y) present their financial instruments and Equity Securities; and (ii) prepare its financial statements and disclosure documents accurately, in accordance with US GAAP, as applicable and ensure the completeness and timeliness of such financial statements and disclosure documents in all material respects.
+(b)                            The Company shall, and shall cause each other Group Member to, devise and maintain a system of internal accounting controls sufficient to provide reasonable assurance that:
+(i)                                     transactions are executed and access to assets is permitted only in accordance with management’s general or specific authorization;
+(ii)                                  transactions are recorded as necessary to permit preparation of periodic financial statements and to maintain accountability for assets;
+21
+(iii)                               the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to any differences; and
+(iv)                              any transaction by and between any Group Member and any Related Party is properly monitored, recorded and disclosed.
+(c)                                  The Company shall, and shall cause each other Group Members to, install and have in operation an accounting and control system, management information system and books of account and other records, which together will adequately give a fair and true view of the financial condition of the Group and the results of its operations in conformity with US GAAP, as applicable.
+8.19                      Legends.
+The Investor understands that the certificates or other instruments representing the Notes and the Conversion Shares shall, except as set forth below, bear a restrictive legend in substantially the following form (and a stop-transfer order may be placed against transfer of such securities):
+THE SECURITIES MAY NOT BE OFFERED FOR SALE, SOLD, TRANSFERRED OR ASSIGNED: (I) IN THE ABSENCE OF (A) AN EFFECTIVE REGISTRATION STATEMENT FOR THE SECURITIES UNDER THE 1933 ACT AND OTHER APPLICABLE SECURITIES LAWS, OR (B) AN OPINION OF COUNSEL, IN FORM REASONABLY ACCEPTABLE TO THE COMPANY, THAT REGISTRATION IS NOT REQUIRED UNDER THE 1933 ACT AND ANY OTHER APPLICABLE SECURITIES LAWS; OR (II) UNLESS THE SECURITIES HAVE BEEN SOLD PURSUANT TO RULE 144 UNDER THE 1933 ACT OR ANOTHER AVAILABLE EXEMPTION UNDER THE 1933 ACT.
+The legend set forth above shall be removed and the Company shall issue a certificate without such legend to the Investor or its successor or assignee upon which it is stamped or issued to such holder by electronic delivery at the applicable balance account at The Depository Trust Company (“DTC”), if (i) such Notes or Conversion Shares are resold pursuant to an effective resale registration statement under the 1933 Act, (ii) following a sale, assignment or other transfer if such holder provides the Company with an opinion of counsel, in form reasonably acceptable to the Company, to the effect that such sale, assignment or transfer of the Notes or Conversion Shares may be made without registration under the applicable requirements of the 1933 Act, or (iii) following a sale pursuant to Rule 144 under the 1933 Act, provided the Company received from the holder reasonable assurance, including reasonable representations and warranties, that such securities are being sold pursuant to Rule 144, together with written advice from counsel to the Company in support of the holder’s reliance on Rule
+22
+The Company shall be responsible for the fees of its transfer agent, the costs of any legal opinions required by its transfer agent (other than those of counsel to the Investor) and all DTC fees associated with such issuance.
+8.20                      U.S. Economic Sanctions.
+The Company agrees and covenants that the Proceeds shall not directly or indirectly be used, or lent, contributed or otherwise made available to any of its Subsidiaries, joint venture partner or other person or entity, towards any sales or operations in any Sanctioned Country (as defined in Clause 3 of Schedule 2) or for the purpose of financing the activities of any person currently the target of any U.S. Economic Sanctions (as defined in Clause 3 of Schedule 2) in a manner that would breach applicable law; and the use of the Proceeds shall be in compliance with and shall not result in the breach by any person of applicable provisions of the U.S. Economic Sanctions or any applicable embargos or sanctions regulations imposed by the United Nations; and the Company further covenants not to engage, directly or indirectly, in any other activities that would result in such breach of applicable U.S. Economic Sanctions by the Investor.
+8.21                      Anti-bribery Covenant.
+None of the Company, the Group Members and the Group Representatives (as defined in Clause 3 of Schedule 2) shall violate the FCPA or any other applicable Anti-Corruption Law or undertake any Anti-Corruption Prohibited Activity (each as defined in Clause 3 of Schedule 2).
+8.22                      Disclosure of Criminal or Regulatory Investigation.
+The Company and Investor shall keep the Parties promptly informed of any events, discussions, notices or changes with respect to any criminal or regulatory investigation or action involving the Investor, the Company or any Group Representative, so that the counterparty shall have the opportunity to take appropriate steps to avoid or mitigate any regulatory consequences to the counterparty that might arise from such criminal or regulatory investigation or action.
+The Investor, the Company and any Group Representative shall reasonably cooperate with the counterparty in an effort to avoid or mitigate any cost or regulatory consequences that might arise from such investigation or action (including, its legally permissible, by providing an opportunity review written submissions in advance, attend meetings with authorities, coordinate and provide assistance in meeting with regulators and, by making a public announcement of such matters).
+8.23                      Cash Payments.
+Unless otherwise permitted by resolutions or specific guidelines approved by the Board, no payments by the Company shall be made in cash or by bearer instruments, other than cash advances for employee travel or other purposes approved by the Board that are below a reasonable or de minimis threshold approved by the Board and in compliance with any applicable law.
+8.24                      Use of Sales Agents, Representatives and Consultants.
+The Company shall not, and shall procure that no Group Members shall, use any sales agent, representative or consultant unless the agent, representative or consultant has been screened to ensure that it has a good business reputation and conducts its business in an ethical fashion and in compliance with applicable laws.
+Notwithstanding any other provision of this Agreement, the Investor shall not be obligated to take any action or omit to take any action under this Agreement that it believes, in good faith based on the written advice of its counsel, would cause it to be in violation of any applicable law.
+23
+(b) In case the consideration received by the Company from such sale or issuance is not cash, the amount of the consideration shall be the fair market value of such non-cash consideration.
+8.27                           Negative Covenants.
+From the Completion Date, the Company shall not, and shall cause each Group Member not to, without the prior written consent of the Investor, take any of the following actions, or take or omit to take any action that would have the effect of any of the following actions:
+(a)          change the scope of the Principal Business; approve the development of any new line of business; or enter into any business other than the Principal Business;
+(b)         except for any amendment required by law, amend, modify or waive any provisions of the Charter Documents which may reasonably be deemed to affect the Notes or the rights of the Holders under the Notes;
+(d)         enter into any joint venture or partnership with, or otherwise acquire any interest in the Equity Securities of, any Person other than a wholly-owned Subsidiary of the Company;
+(e)          change the size or composition of the Board or the board of directors of any Subsidiary of the Company or any committee thereof;
+(f)            approve any budget or business plan of the Company or any material Subsidiary or any modification thereto;
+(g)         approve the employment or termination of, or compensation agreements for any Senior Officer, or determine the compensation (including without limitation cash and stock option compensation) of any Director or director of a Subsidiary or any member of a committee of the Board or the board of directors of any Subsidiary;
+(h)         incur any Indebtedness (other than amounts payable under the Notes) such that the outstanding Indebtedness is in excess of US$ 87 million (or its equivalent in other currencies) in the aggregate for the Group;
+(i)             change the Company’s auditors to a firm not considered one of the “Big Four” accounting firms as of the date hereof, or any successor thereto; or
+24
+SECTION 9 FEES AND EXPENSES
+9.1                                 Fees and Expenses upon Completion.
+At Completion, the Company shall bear all transfer taxes or duties in connection with the issuance of the Notes to the Investor.
+SECTION 10 INDEMNIFICATION
+10.1                      General Indemnity.
+The Company (the “Indemnifying Party”) shall (to the fullest extent permitted by applicable laws) indemnify, defend and hold harmless the Investor, officers, directors, agents and employees (each an “Indemnified Party”) from and against any and all losses, damages, liabilities, claims, proceedings, Taxes, costs and expenses actually suffered or incurred by any such Indemnified Party (including the fees, disbursements and other charges of counsel reasonably incurred by the Indemnified Party in any action between the Indemnifying Party and the Indemnified Party or between the Indemnified Party and any third party, in connection with any breach as set forth below) resulting from or arising out of any breach by the Indemnifying Party of any Company Warranty or any other covenant or agreement in this Agreement or any other Transaction Document or resulting from or arising out of any claims against the Company or any other Group Member relating to any Tax liability that arose on or prior to the Completion Date, except to the extent that the Loss resulting from the gross negligence or willful misconduct of any Indemnified Party.
+The amount of any payment to any such Indemnified Party shall be sufficient to make such Indemnified Party whole for any diminution in value of the Equity Securities held by it resulting from such breach.
+Any indemnity referred to in this Section 10 for breach of a Company Warranty shall be such as to place the Indemnified Party in the same position as it would have been in had there not been any breach of the Company Warranties under which the Indemnified Party is to be indemnified.
+In connection with the indemnification obligation of the Indemnifying Party as set forth above, the Indemnifying Party shall, upon presentation of appropriate invoices containing reasonable detail, reimburse each Indemnified Party for all such expenses as they are incurred by such Indemnified Party.
+The aggregate liability of the Indemnifying Party under this Section 10.1 in respect of any breach of the Company Warranty shall not exceed an amount equal to US$50,000,000.
+SECTION 11 TERMINATION
+This Agreement shall become effective upon execution by all of the Parties and shall continue in force until terminated in accordance with Section 11.2.
+25
+11.2                           Events of Termination.
+11.3                           Survival.
+SECTION 12 NOTICES
+12.1                           Notices.
+26
+DHL).
+12.2                           Addresses and Fax Numbers.
+The initial address and facsimile for each Party for the purposes of this Agreement are:
+if to the Investor :
+Golden Meditech Holdings Limited
+48th Floor, Bank of China Tower
+Kramer Levin Naftalis & Frankel LLP
+1177 Avenue of the Americas
+New York, New York 10036
+Hong Kong
+if to the Company:
+China Cord Blood Corporation
+48th Floor, Bank of China Tower
+1 Garden Road, Central
+Loeb & Loeb LLP
+345 Park Avenue
+New York, NY 10154
+Hong Kong
+USA
+SECTION 13 MISCELLANEOUS
+The Parties expressly do not intend to form a partnership, either general or limited, under any jurisdiction’s partnership law.
+The Parties do not intend to be partners to each other, partners as to any third party, or create any fiduciary relationship among themselves, solely by virtue of transactions contemplated hereby or the Investor’s status as holder of the Notes.
+The Company further acknowledges that the Investor is not acting as a financial advisor or fiduciary of the Company or any other Group Member (or in any similar capacity) with respect to the Transaction Documents and the transactions contemplated hereby and thereby, and the Company has not received any advice given by the Investor or any of its representatives or agents in connection with the Transaction Documents and the transactions contemplated hereby except for the Investor Warranties set forth in Schedule 3 hereto.
+13.2                           Amendment.
+This Agreement may not be amended, modified or supplemented except by a written instrument executed by each of the Parties.
+13.3                           Waiver.
+No waiver of any provision of this Agreement shall be effective unless set forth in a written instrument signed by the Party waiving such provision.
+No failure or delay by a Party in exercising any right, power or remedy under this Agreement shall operate as a waiver thereof, nor shall any single or partial exercise of the same preclude any
+27
+further exercise thereof or the exercise of any other right, power or remedy.
+Without limiting the foregoing, no waiver by a Party of any breach by any other Party of any provision hereof shall be deemed to be a waiver of any subsequent breach of that or any other provision hereof.
+13.4                           Entire Agreement.
+This Agreement (together with the other Transaction Documents and any other documents referred to herein or therein) constitutes the whole agreement among the Parties relating to the subject matter hereof and supersedes any prior agreements or understandings relating to such subject matter.
+13.5                           Severability.
+Each and every obligation under this Agreement shall be treated as a separate obligation and shall be severally enforceable as such and in the event of any obligation or obligations being or becoming unenforceable in whole or in part.
+To the extent that any provision or provisions of this Agreement are unenforceable they shall be deemed to be deleted from this Agreement, and any such deletion shall not affect the enforceability of such provisions of this Agreement as remain not so deleted.
+13.6                           Counterparts.
+This Agreement may be executed in one or more counterparts including counterparts transmitted by telecopier or facsimile, each of which shall be deemed an original, but all of which signed and taken together, shall constitute one document.
+13.7                           Transfer; Assignment.
+The Company shall not assign this Agreement or any of its rights or duties hereunder to any Person.
+The Investor may assign this Agreement or any of its rights or obligations hereunder to any of its Affiliates; subject to compliance with applicable securities laws, provided that the the Company has previously approved such assignment in writing.
+13.8                           Further Assurances.
+13.9                           Remedies.
+In addition to being entitled to exercise all rights provided herein or granted by law, including recovery of damages, the Investor shall be entitled to specific performance under the Transaction Documents.
+The Parties agree that monetary damages may not be adequate compensation for any loss incurred by the Investor by reason of any breach of obligations contained in the Transaction Documents by the other Parties and the Company hereby agrees to waive and not to assert in any action for specific performance of any such obligation the defense that a remedy at law would be adequate.
+SECTION 14
+GOVERNING LAW AND JURISDICTION
+14.1                           GOVERNING LAW.
+28
+REGARD TO THE PRINCIPLES OF CONFLICTS OF LAW OF ANY JURISDICTION.
+14.2                           Submission to Jurisdiction.
+Each of the parties hereto (i) shall submit itself to the non-exclusive jurisdiction of the United States district court for the Southern District of New York in the event any dispute arises out of this Agreement, (ii) agrees that venue will be proper as to proceedings brought in any such court with respect to such a dispute, (iii) shall not attempt to deny or defeat such personal jurisdiction or venue by motion or other request for leave from such court and (iv) agrees to accept service of process at its address for notices pursuant to this Agreement in any such action or proceeding brought in any such court.
+With respect to any such action, service of process upon any Party in the manner provided herein for the giving of notices shall be deemed, in every respect, effective service of process upon such Party.
+If there is no applicable jurisdiction in such federal court, each of the Parties shall submit itself to the jurisdiction of the state court for the State of New York in the borough of Manhattan.
+[The remainder of this page is intentionally left blank]
+29
+IN WITNESS WHEREOF this Agreement has been executed on the day and year first above written.
+By:
+Name:
+Title:
+By:
+Name:
+Title:
+SCHEDULE 1
+PART A — PARTICULARS OF THE COMPANY
+Company
+Registered Company Name :
+China Cord Blood Corporation
+Registered Address :
+Grand Cayman KY1-1111, Cayman Islands
+Registration by
+Way of Continuation ::
+Company Number :
+Place of Incorporation :
+Cayman Islands by way of continuation
+Zheng Ting
+Chen Bing Chuen Albert
+Jennifer J. Weng
+Mark D. Chen
+Julian Wolhardt
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+Subsidiaries (and percentage of shareholding) :
+1-1
+PART B — PARTICULARS OF OTHER OFFSHORE COMPANIES
+Registered Company Name :
+China Cord Blood Services Corporation
+Registered Address :
+Grand Cayman KY1-1111, Cayman Islands
+Date of Incorporation :
+Company Number :
+CT-203251
+Place of Incorporation :
+Cayman Islands
+Chen Bing Chuen Albert
+Zheng Ting
+Yue Deng
+Rui Arashiyama
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+Subsidiaries (and percentage of shareholding) :
+China Stem Cells Holdings Limited (100%)
+Shareholder as of the Date hereof :
+1-2
+PART B — PARTICULARS OF OTHER OFFSHORE COMPANIES
+Registered Company Name :
+China Stem Cells Holdings Limited
+Registered Address :
+Grand Cayman KY1-1111, Cayman Islands
+Date of Incorporation :
+Company Number :
+Place of Incorporation :
+Cayman Islands
+Chen Bing Chuen Albert
+Zheng Ting
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+Subsidiaries (and percentage of shareholding) :
+1-3
+Incorporated in Hong Kong (100%)
+Shareholder as of the Date hereof:
+1-4
+PART B — PARTICULARS OF OTHER OFFSHORE COMPANIES
+Registered Company Name :
+China Stem Cells (East) Company Limited
+Registered Address :
+P.O.
+Road Town, Tortola, British Virgin Islands
+Date of Incorporation :
+Company Number :
+Place of Incorporation :
+British Virgin Islands
+Zheng Ting
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+Subsidiaries (and percentage of shareholding) :
+N/A
+Shareholder as of the Date hereof :
+China Stem Cells Holdings Limited (100%)
+1-5
+PART B — PARTICULARS OF OTHER OFFSHORE COMPANIES
+Registered Company Name :
+China Stem Cells (South) Company Limited
+Registered Address :
+P.O.
+Road Town, Tortola, British Virgin Islands
+Date of Incorporation :
+Company Number :
+Place of Incorporation :
+British Virgin Islands
+Zheng Ting
+Chen Bing Chuen Albert
+Yee Pinh Jeremy
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+Subsidiaries (and percentage of shareholding) :
+Guangzhou Municipality Tianhe Nuoya Bio-engineering Company Limited (100%)
+Shareholder as of the Date hereof :
+China Stem Cells Holdings Limited (90%)
+1-6
+PART B — PARTICULARS OF OTHER OFFSHORE COMPANIES
+Registered Company Name :
+China Stem Cells (West) Company Limited
+Registered Address :
+P.O.
+Road Town, Tortola, British Virgin Islands
+Date of Incorporation :
+Company Number :
+Place of Incorporation :
+British Virgin Islands
+Zheng Ting
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+Subsidiaries (and percentage of shareholding) :
+N/A
+Shareholder as of the Date hereof :
+China Stem Cells Holdings Limited (100%)
+1-7
+PART B — PARTICULARS OF OTHER OFFSHORE COMPANIES
+Registered Company Name :
+China Stem Cells (North) Company Limited
+Registered Address :
+P.O.
+Road Town, Tortola, British Virgin Islands
+Date of Incorporation :
+Company Number :
+Place of Incorporation :
+British Virgin Islands
+Zheng Ting
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+Subsidiaries (and percentage of shareholding) :
+N/A
+Shareholder as of the Date hereof :
+China Stem Cells Holdings Limited (100%)
+1-8
+PART B — PARTICULARS OF OTHER OFFSHORE COMPANIES
+Registered Company Name :
+China Stem Cells (East) Company Limited
+Registered Address :
+48th Floor, Bank of China Tower, 1 Garden Road, Central, Hong Kong
+Date of Incorporation :
+Company Number :
+1109278
+Place of Incorporation :
+Hong Kong
+Zheng Ting
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+Subsidiaries (and percentage of shareholding) :
+Favorable Fort Limited (83%)
+Shareholder as of the Date hereof :
+China Stem Cells Holdings Limited (100%)
+1-9
+PART B — PARTICULARS OF OTHER OFFSHORE COMPANIES
+Registered Company Name :
+China Stem Cells (South) Company Limited
+Registered Address :
+48th Floor, Bank of China Tower, 1 Garden Road, Central, Hong Kong
+Date of Incorporation :
+Company Number :
+Place of Incorporation :
+Hong Kong
+Zheng Ting
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+Subsidiaries (and percentage of shareholding) :
+N/A
+Shareholder as of the Date hereof :
+China Stem Cells Holdings Limited (100%)
+1-10
+PART B — PARTICULARS OF OTHER OFFSHORE COMPANIES
+Registered Company Name :
+China Stem Cells (West) Company Limited
+Registered Address :
+48th Floor, Bank of China Tower, 1 Garden Road, Central, Hong Kong
+Date of Incorporation :
+Company Number :
+1109299
+Place of Incorporation :
+Hong Kong
+Zheng Ting
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+Subsidiaries (and percentage of shareholding) :
+N/A
+Shareholder as of the Date hereof :
+China Stem Cells Holdings Limited (100%)
+1-11
+PART B — PARTICULARS OF OTHER OFFSHORE COMPANIES
+Registered Company Name :
+China Stem Cells (North) Company Limited
+Registered Address :
+48th Floor, Bank of China Tower, 1 Garden Road, Central, Hong Kong
+Date of Incorporation :
+Company Number :
+1109291
+Place of Incorporation :
+Hong Kong
+Zheng Ting
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+Subsidiaries (and percentage of shareholding) :
+N/A
+Shareholder as of the Date hereof :
+China Stem Cells Holdings Limited (100%)
+1-12
+PART B — PARTICULARS OF OTHER OFFSHORE COMPANIES
+Registered Company Name :
+Favorable Fort Limited
+Registered Address :
+11th Floor, AXA Centre, 151 Gloucester Road,
+Wanchai, Hong Kong
+Date of Incorporation :
+April 21, 2009
+Company Number :
+Place of Incorporation :
+Hong Kong
+Chen Bing Chuen Albert
+Fang Boon Sing
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+Subsidiaries (and percentage of shareholding) :
+Jinan Baoman Science & Technology Development Company Limited (100%)
+Shareholder as of the Date hereof :
+1-13
+PART C —
+PARTICULARS OF THE OTHER ONSHORE COMPANIES
+Registered Company Name :
+Guangzhou Municipality Tianhe Nuoya Bio-engineering Company Limited
+Registered Address :
+Date of Incorporation :
+Company Number :
+Place of Incorporation :
+Guangzhou
+Kam Yuen
+Zheng Ting
+Gao Feng
+Liu Ying
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+December 31
+Subsidiaries (and percentage of shareholding) :
+N/A
+Shareholder as of the Date hereof :
+1-14
+PART C —
+PARTICULARS OF THE OTHER ONSHORE COMPANIES
+Registered Company Name :
+Beijing Jiachenhong Biological Technologies Company Limited
+Registered Address :
+4 Yong Chang North Road, Beijing Economic-Technological Development Area,
+Beijing
+Date of Incorporation :
+Company Number :
+110000410187944
+Place of Incorporation :
+Beijing
+Kam Yuen
+Zheng Ting
+Gao Feng
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+December 31
+Subsidiaries (and percentage of shareholding) :
+Zhejiang Lukou Biotechnology Company Limited (90%)
+Shareholder as of the Date hereof :
+China Stem Cells Holdings Limited (100%)
+1-15
+PART C —
+PARTICULARS OF THE OTHER ONSHORE COMPANIES
+Registered Company Name :
+Zhejiang Lukou Biotechnology Company Limited
+Registered Address :
+Date of Incorporation :
+Company Number :
+330000000054663
+Place of Incorporation :
+Zhejiang
+Kam Yuen
+Yang Chun
+Lu Hang Jun
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+December 31
+Subsidiaries (and percentage of shareholding) :
+N/A
+Shareholder as of the Date hereof :
+- Beijing Jiachenhong Biological Technologies Company Limited (90%)
+- Zhejiang Provincial Blood Center (10%)
+1-16
+PART C —
+PARTICULARS OF THE OTHER ONSHORE COMPANIES
+Registered Company Name :
+Jinan Baoman Science & Technology Development Company Limited
+Registered Address :
+Shizhong District, Jinan
+Date of Incorporation :
+Company Number :
+370100000030271
+Place of Incorporation :
+Shandong
+Kam Yuen
+Zheng Ting
+Zhang Ying
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+December 31
+Subsidiaries (and percentage of shareholding) :
+N/A
+Shareholder as of the Date hereof :
+Favorable Fort Limited (100%)
+1-17
+PART C —
+PARTICULARS OF THE OTHER ONSHORE COMPANIES
+Registered Company Name :
+Shandong Qilu Stem Cells Engineering Company Limited
+Registered Address :
+666 Xunhua East Road, High & New Technology Development Zone, Jinan
+Date of Incorporation :
+July 5, 2004
+Company Number :
+370000018082702
+Place of Incorporation :
+Shandong
+Wang Shan
+Wang Baoling
+Sheng Dewei
+Ma Xiaoqing
+Chen Chen
+Authorized Share Capital :
+Issued Share Capital :
+Financial Year End :
+December 31
+Subsidiaries (and percentage of shareholding) :
+N/A
+Shareholder as of the Date hereof :
+Shandong Yinfeng Investment Group Company Limited (54%)
+Jinan Baoman Science & Technology Development Company Limited (24%)
+Jinan Chuangli Hengye Investment Consulting Company Limited (20%)
+1-18
+PART D –

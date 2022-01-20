@@ -1,0 +1,54 @@
+SECTION 3.15
+SECTION 6.08
+SECTION 6.15
+SECTION 7.01
+SECTION 8.01
+SECTION 8.02
+SECTION 9.01
+SECTION 9.05
+SECTION 9.07
+SECTION 9.08
+SECTION 9.09
+SECTION 1.02    Effective Time; Closing.
+(d)        all current directors of Parent will resign, and the individuals set forth in Section 6.16 as post-Closing directors of Parent (the “Director Nominees”) shall become the directors of Parent from and after the Merger Effective Time, until the earlier of their resignation or removal or until their respective successors are duly elected and qualified, as the case may be;
+(e)        all current officers of Parent will resign and the individuals set forth in Section 6.16 as post-Closing officers of Parent (the “Officers Nominees”) shall become the officers of Parent from and after the Merger Effective Time, until the earlier of their resignation or removal or until their respective successors are duly elected and qualified, as the case may be; and
+No suspension or cancellation of any of the Company Permits is pending or, to the Knowledge of the Company, threatened.
+(b)    Neither the Company nor any Company Subsidiary, nor to the Knowledge of the Company, any other person or entity, has any express or implied commitment, whether legally enforceable or not, to establish, modify, change or terminate any Plan, other than with respect to a modification, change or termination required by ERISA or the Code.
+No suspension or cancellation of any of the Parent Permits is pending or, to the Knowledge of Parent, threatened.
+(b)          In the event that Parent (i) accepts a Superior Proposal and terminates this Agreement, (ii) accepts a Competing Proposal or (iii) notifies the Company of its termination of this Agreement which termination is not otherwise allowed pursuant to Section 8.01, Parent shall pay to the Company a “break-up” fee in the amount of seven hundred fifty thousand dollars ($750,000) (the “Parent Break Up Fee”), the Company shall not be required to reimburse Parent for any fees or expenses as referenced in Section 6.05(a).
+SECTION 6.16    FINRA Notification.
+(d)    No Order.
+(d)    Resignation.
+SECTION 8.01    Termination.
+This Agreement may be terminated and the Merger and the other Transactions may be abandoned at any time prior to the Merger Effective Time, notwithstanding any requisite approval and adoption of this Agreement and the Transactions by the shareholders of the Company and/or the stockholders of Parent, as follows:
+(b)    by either Parent or the Company if the Merger Effective Time shall not have occurred on or before August 31, 2021; or
+(d)    by the Company if a Parent Triggering Event shall have occurred; or
+(e)    by Parent if the Parent Stockholders Approval Matters shall fail to receive the requisite vote for approval at the Parent Stockholders’ Meeting; or
+(f)    by Parent upon a breach of any representation, warranty, covenant or agreement on the part of the Company set forth in this Agreement, or if any representation or warranty of the Company shall have become untrue, in either case such that the conditions set forth in Section 7.02(a), Section 7.02(b), Section 7.02(e), Section 7.02(f) or Section 7.02(i) would not be satisfied (“Terminating Company Breach”); provided, however, that, if such Terminating Company Breach is curable by the Company, Parent may not terminate this Agreement under this Section 8.01(f) for so long as the Company continues to exercise its reasonable efforts to cure such breach, unless such breach is not cured within thirty (30) days after notice of such breach is provided by Parent to the Company; or
+(h)    by the Company upon a breach of any representation, warranty, covenant or agreement on the part of Parent set forth in this Agreement, or if any representation or warranty of Parent shall have become untrue, in either case such that the conditions set forth in Section 7.03(a), Section 7.03(b) would not be satisfied (“Terminating Parent Breach”); provided, however, that, if such Terminating Parent Breach is curable by Parent, the Company may not terminate this Agreement under this Section 8.01(g) for so long as Parent continues to exercise its reasonable efforts to cure such breach, unless such breach is not cured within thirty (30) days after notice of such breach is provided by the Company to Parent.
+(a)    In the event of the termination of this Agreement pursuant to Section 8.01, this Agreement shall forthwith become void, and there shall be no liability under this Agreement on the part of any party hereto, except as set forth in Section 6.05; provided, however, that the Confidentiality Agreement shall survive any termination of this Agreement.
+SECTION 8.04    Waiver.
+The representations, warranties and agreements in this Agreement and in any certificate delivered pursuant hereto shall terminate at the later to occur of the Merger Effective Time or upon the termination of this Agreement pursuant to Section 8.01, as the case may be, except that the agreements set forth in Articles I and II and Section 6.07 and Section 6.05 and this Article IX shall survive the Merger Effective Time and the provisions of Section 6.03(b) and Section 6.05 shall survive the termination of this Agreement.
+SECTION 9.02    Notices.
+Brea, California 92821
+§ 3.07(c)
+§ 3.13(e)
+§ 3.13(d)
+§ 3.10(c)
+§ 3.07(e)
+§ 3.12(b)
+§ 3.10(c)
+§ 7.01(d)
+Parent Break Up Fee
+Terminating Company Breach
+Terminating Parent Breach
+SECTION 9.08    Waiver of Jury Trial.
+36.59
+19.26
+21002 · Due to PCH
+210420
+210430
+210440
+210450
+Acuitas 10.12.20
+(317,866.81)

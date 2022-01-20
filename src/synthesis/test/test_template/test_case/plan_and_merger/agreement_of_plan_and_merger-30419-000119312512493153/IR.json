@@ -1,0 +1,36 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "DEX ONE CORPORATION"
+    ],
+    "BuyerName": [],
+    "EffectiveTime": [
+        "December 5, 2012"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        ".3.16"
+    ],
+    "Payments": [
+        {
+            "From": [],
+            "To": [
+                "DEX ONE CORPORATION"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 11250000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

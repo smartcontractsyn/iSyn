@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "Nord Anglia Education Finance LLC"
+    ],
+    "BuyerName": [
+        "Citicorp International Limited"
+    ],
+    "EffectiveTime": [
+        "June 25, 2015"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Citicorp International Limited"
+            ],
+            "To": [
+                "Nord Anglia Education Finance LLC"
+            ],
+            "PurchasePrice": "200000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

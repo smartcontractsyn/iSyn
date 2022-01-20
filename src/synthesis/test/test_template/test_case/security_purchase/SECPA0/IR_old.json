@@ -1,0 +1,39 @@
+{
+    "BuyerName": [
+        "AJB CAPITAL INVESTMENTS"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "EffectiveTime": [
+        "April __, 2021,"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "AJB CAPITAL INVESTMENTS"
+            ],
+            "PurchasePrice": "420000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "To": [
+                "FUTURIS COMPANY"
+            ],
+            "Transfer": true
+        }
+    ],
+    "SellerName": [
+        "FUTURIS COMPANY"
+    ],
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    },
+    "Transfers": true
+}

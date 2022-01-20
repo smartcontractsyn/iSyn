@@ -1,0 +1,1064 @@
+Exhibit 2.1
+among
+and
+NET ELEMENT, INC.
+TABLE OF CONTENTS
+ARTICLE I THE MERGER
+SECTION 1.01
+The Merger
+2
+SECTION 1.02
+Effective Time; Closing
+3
+SECTION 1.03
+Effect of the Merger
+3
+SECTION 1.04
+Articles of Incorporation; Name of the Surviving Corporation; By-laws
+3
+SECTION 1.05
+Officers and Directors Nominees
+4
+ARTICLE II CONVERSION OF SECURITIES; EXCHANGE OF CERTIFICATES
+SECTION 2.01
+Conversion of Securities
+4
+SECTION 2.02
+5
+SECTION 2.03
+Stock Transfer Books
+7
+SECTION 2.04
+Dissenting Shares
+8
+SECTION 2.05
+Affiliates
+8
+ARTICLE III REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+SECTION 3.01
+Organization and Qualification; Subsidiaries
+9
+SECTION 3.02
+Articles of Incorporation and By-laws
+9
+SECTION 3.03
+Capitalization
+9
+SECTION 3.04
+Authority Relative to This Agreement
+9
+SECTION 3.05
+No Conflict; Required Filings and Consents
+10
+SECTION 3.06
+Permits; Compliance
+10
+SECTION 3.07
+Financial Statements
+11
+SECTION 3.08
+Absence of Certain Changes or Events
+12
+SECTION 3.09
+Absence of Litigation
+12
+SECTION 3.10
+Employee Benefit Plans
+12
+SECTION 3.11
+Labor and Employment Matters
+13
+SECTION 3.12
+Real Property; Title to Assets
+13
+SECTION 3.13
+Intellectual Property
+13
+SECTION 3.14
+Taxes
+14
+Environmental Matters
+15
+SECTION 3.16
+Material Contracts
+15
+SECTION 3.17
+Board Approval; Shareholders’ Approval; Vote Required
+15
+SECTION 3.18
+Brokers
+16
+SECTION 3.19
+Spin-Off
+16
+ARTICLE IV REPRESENTATIONS AND WARRANTIES OF PARENT
+SECTION 4.01
+Corporate Organization
+16
+SECTION 4.02
+Certificate of Incorporation
+16
+SECTION 4.03
+Capitalization
+16
+SECTION 4.04
+Authority Relative to This Agreement
+17
+SECTION 4.05
+No Conflict; Required Filings and Consents
+17
+SECTION 4.06
+Permits; Compliance
+18
+SECTION 4.07
+SEC Filings; Financial Statements
+18
+SECTION 4.08
+Absence of Certain Changes or Events
+20
+SECTION 4.09
+Absence of Litigation
+20
+SECTION 4.10
+Board Approval; Vote Required
+20
+SECTION 4.11
+Tax Matters
+21
+SECTION 4.12
+Change in Control Payments.
+21
+SECTION 4.13
+Brokers
+22
+ARTICLE V CONDUCT OF BUSINESS PENDING THE MERGERS
+SECTION 5.01
+Conduct of Business by the Company Pending the Merger
+22
+SECTION 5.02
+Conduct of Business by Parent Pending the Merger
+22
+SECTION 6.01
+Registration Statement; Proxy Statement
+22
+SECTION 6.02
+Stockholders’ Meeting
+23
+SECTION 6.03
+Access to Information; Confidentiality.
+24
+SECTION 6.04
+Competing Transactions and Superior Proposals.
+24
+SECTION 6.05
+Expenses
+26
+SECTION 6.06
+Employee Benefits Matters
+26
+SECTION 6.07
+Directors’ and Officers’ Indemnification and Insurance
+26
+Notification of Certain Matters
+27
+SECTION 6.09
+Company Affiliates
+27
+SECTION 6.10
+Further Action; Reasonable Efforts
+27
+SECTION 6.11
+Reorganization
+27
+SECTION 6.12
+Consents of Accountants
+28
+SECTION 6.13
+Nasdaq Listing
+28
+SECTION 6.14
+Public Announcements
+28
+Board of Directors and Officers of Parent
+28
+SECTION 6.16
+FINRA Notification
+28
+SECTION 6.17
+Section 16 Matters
+29
+SECTION 6.18
+Divestiture
+29
+ARTICLE VII CONDITIONS TO THE MERGER
+Conditions to the Obligations of Each Party
+29
+SECTION 7.02
+Conditions to the Obligations of Parent
+29
+SECTION 7.03
+Conditions to the Obligations of the Company
+30
+ARTICLE VIII TERMINATION, AMENDMENT AND WAIVER
+Termination
+31
+Effect of Termination
+32
+SECTION 8.03
+Amendment
+32
+SECTION 8.04
+Waiver
+32
+ARTICLE IX GENERAL PROVISIONS
+Non-Survival of Representations, Warranties and Agreements
+33
+SECTION 9.02
+Notices
+33
+SECTION 9.03
+Certain Definitions
+33
+SECTION 9.04
+Severability
+38
+Entire Agreement; Assignment
+38
+SECTION 9.06
+Parties in Interest
+38
+Governing Law
+38
+Waiver of Jury Trial
+38
+Headings
+38
+SECTION 9.10
+Counterparts
+38
+WHEREAS, prior to the Merger Effective Time, (i) Mullen Technologies is contemplating to assign and transfer to the Company all of its electric vehicle business related assets, business and operations and the Company is contemplating to assume certain debt and liabilities of Mullen Technologies as described herein (the “Mullen Divestiture”) and (ii) Mullen Technologies is contemplating a spin off, via share dividend, of all of the capital stock of the Company to the stockholders of Mullen Technologies as of the effective date of such spin off (the “Spin Off”);
+WHEREAS, after such spin off and immediately prior to the Merger Effective Time, the capital structure (including its issued and outstanding common and preferred stock) of the Company shall mirror the capital structure of Mullen Technologies;
+WHEREAS, Section 8.03 of the Original Agreement permits the Original Agreement to be amended by amendment in writing signed by Parent, Merger Sub, Mullen and Mullen Technologies;
+WHEREAS, each of Parent, Merger Sub, Mullen Technologies and the Company desires to enter into this Agreement, which shall amend and restate and replace in its entirety the Original Agreement;
+WHEREAS, Parent has caused the incorporation of Merger Sub for the purpose of accomplishing, subject to the terms and conditions set forth in this Agreement, its acquisition of the Company through a reverse triangular merger;
+WHEREAS, upon the terms and subject to the conditions of this Agreement and in accordance with the Corporations Code of the State of California (the “California Corporations Code”), Parent, the Company and Merger Sub will enter into a business combination transaction pursuant to which Merger Sub will merge with and into the Company, with the result that the Company shall be the surviving corporation and shall become a wholly-owned subsidiary of Parent (the “Merger”);
+WHEREAS, the board of directors of the Company (the “Company Board”) (i) determined that the Merger is consistent with and in furtherance of the long-term business strategy of the Company and fair to, and in the best interests of, the Company and its stockholders and has approved and adopted this Agreement and declared its advisability and approved the Merger and the other transactions contemplated by this Agreement and (ii) has resolved to recommend the approval and adoption of this Agreement by the stockholders of the Company;
+WHEREAS, the board of directors of Merger Sub (the “Merger Sub Board”) has approved and adopted this Agreement and approved the Merger and the other transactions contemplated by this Agreement and has resolved to recommend the approval and adoption of this Agreement by Parent, as the sole shareholder of Merger Sub;
+WHEREAS, the board of directors of Parent (the “Parent Board”) in its sole discretion, and after having been provided a fairness opinion satisfactory to each of the special committee of the Board comprised of only independent members (the “Special Committee”) and the Parent Board relating to the Merger, the Parent Board (after the recommendation of the Special Committee) has (i) determined that the Merger (including the issuance and registration of the Parent Shares (as defined below) pursuant to the Merger), (including the Escrow Shares (as defined below), the authorization and issuance of Parent Shares pursuant to the Parent COI Amendment (as defined below) and the reservation for issuance, subject to and contingent upon consummation of the Merger and Parent’s stockholders approval, in excess of the limitation set forth in the applicable Nasdaq rules, of Parent Common Shares (as hereinafter defined) issuable upon conversion of each of the Drawbridge Convertible Note, Current Investor Notes (as hereinafter defined), Current Noteholder Warrants (as hereinafter defined), Parent Series A Preferred Stock, Parent Series B Preferred Stock and Parent Series C Preferred Stock (each as hereinafter defined)), the Divestiture (as hereinafter defined), the Parent COI Amendment, the issuance by Parent, concurrent with or prior to the Merger, of any shares in any placements, exchanges or offers of Parent’s securities, in excess of the limitation set forth in the applicable Nasdaq rules (together the “Private Placement”), lending funds (as hereinafter described) to the Company, are consistent with and in furtherance of the long-term business strategy of Parent and fair to, and in the best interests of, Parent and its stockholders and has approved and adopted this Agreement and (ii) has resolved to recommend to the stockholders of Parent to the approve and adopt, as applicable, this Agreement, the Merger (including the issuance and reservation for issuance, as applicable, of Parent Shares described in this recital), the Divestiture, the Parent COI Amendment, the issuance of Parent Shares in furtherance of the Private Placement, and the other transactions contemplated by this Agreement requiring such stockholders approval (collectively, the “Parent Stockholders Approval Matters”);
+WHEREAS, contemporaneously with the execution of this Agreement each of the Persons listed on Exhibit D hereto is executing a Voting Agreement in the form of Exhibit D hereto (the “Voting Agreement”) in which each such Person agrees to vote in favor of the approval of this Agreement, the Merger (including the issuance and registration of the Parent Shares pursuant to the Merger), the Divestiture, the Private Placement and other transactions contemplated by this Agreement;
+WHEREAS, upon recommendation of the Company Board, to the shareholders of the Company to approve and adopt this Agreement and approve the Merger, the Company’s shareholders approved and adopted by the requisite affirmative vote in accordance with the California Corporations Code and the Company’s articles of incorporation, as amended and by-laws, as amended, this Agreement, the Merger and the other Transactions; and
+WHEREAS, for United States federal income tax purposes, it is intended that (i) the Merger will qualify as a reorganization within the meaning of Section 368(a) of the Internal Revenue Code of 1986 (the “Code”), (ii) this Agreement will constitute a “plan of reorganization” (within the meaning of Treasury Regulations Section 1.368-2(g)), and (ii) each party will be a party to such reorganization within the meaning of Section 368(b) of the Code.
+NOW, THEREFORE, in consideration of the foregoing and the mutual covenants and agreements herein contained, and intending to be legally bound hereby, Parent, Merger Sub, Mullen Technologies and the Company hereby agree as follows:
+ARTICLE I
+THE MERGER
+SECTION 1.01    The Merger.
+Upon the terms and subject to the conditions set forth in Article VII, and in accordance with the California Corporations Code, at the Merger Effective Time, the Merger Sub shall be merged with and into the Company.
+As a result of the Merger, the separate corporate existence of Merger Sub shall cease and the Company shall continue as the surviving corporation existing under the laws of the State of California, shall become a wholly-owned subsidiary of Parent and shall succeed to and assume all of the respective rights and obligations of Merger Sub and the Company (the “Surviving Corporation”).
+(a)         Subject to the provisions of this Agreement, as promptly as practicable after the satisfaction or, if permissible, waiver of the conditions set forth in Article VII, the Merger shall become effective when an agreement of merger evidencing the Merger, substantially in the form attached to this Agreement as Exhibit E (the “Agreement of Merger”) and the accompanying officer’s certificates of the Company and Merger Sub required by Section 1103 of the California Corporations Code, all executed in accordance with the relevant provisions of the California Corporations Code, are duly filed with the Secretary of State of the State of California, or at such later time as Merger Sub and the Company shall agree and is specified in the Agreement of Merger.
+When used in this Agreement, the term “Merger Effective Time” shall mean the later of the date and time at which the Agreement of Merger is duly filed with the Secretary of State of the State of California or such later time established by the Agreement of Merger.
+SECTION 1.03    Effect of the Merger.
+At the Merger Effective Time, the effect of the Merger shall be as provided in the applicable provisions of the California Corporations Code.
+Without limiting the generality of the foregoing, and subject thereto, from and after the Merger Effective Time, all of the property, rights, privileges, immunities, powers, franchises, licenses and authority of each of the Company and Merger Sub shall vest in the Surviving Corporation, and all debts, restrictions, duties and other liabilities of each of the Company and Merger Sub shall become the debts, restrictions, duties and other liabilities of the Surviving Corporation.
+SECTION 1.04    Articles of Incorporation; Name of the Surviving Corporation; By-laws; Directors and Officers of Parent; Parent COI Amendment.
+(a)        the Articles of Incorporation of Merger Sub, as in effect immediately prior to the Closing and substantially in the form attached hereto as Exhibit A, shall become the Articles of Incorporation of the Surviving Corporation, except for Article One of such Articles of Incorporation, which shall read “The name of the corporation is Ottava Automotive, Inc.”, until thereafter amended as provided by law and such Articles of Incorporation;
+(b)        the bylaws of Merger Sub, as in effect immediately prior to the Closing and substantially in the form attached hereto as Exhibit B, shall become the bylaws of the Surviving Corporation (other than changing the name therein to “Ottava Automotive, Inc.”) until thereafter changed or amended as provided by the Articles of Incorporation or the bylaws of the Surviving Corporation or by applicable law.
+(c)         Parent shall amend its Certificate of Incorporation to (i) authorize a sufficient number of shares of three series of preferred stock of Parent with identical rights, preferences and privileges currently afforded holders of Series A Preferred Stock, Series B Preferred Stock and Series C Preferred Stock of the Company (upon the Parent Board’s designation of such new series of preferred stock, such stock shall be referred to as “Parent Series A Preferred Stock,” “Parent Series B Preferred Stock” and “Parent Series C Preferred Stock”) and (ii) change its name to “Mullen Automotive, Inc.” (the “Parent COI Amendment”);
+SECTION 1.05    Officers and Directors Nominees.
+ARTICLE II
+CONVERSION OF SECURITIES; EXCHANGE OF CERTIFICATES
+SECTION 2.01    Conversion of Securities .
+At the Merger Effective Time, by virtue of the Merger and without any action on the part of Parent, the Company or the holders of any of the following securities:
+(a)    except for the Dissenting Shares, each share of Company Common Stock, Company Series A Preferred Stock, Company Series B Preferred Stock and Company Series C Preferred Stock (all issued and outstanding shares of Company Common Stock, Company Series A Preferred Stock, Company Series B Preferred Stock and Company Series C Preferred Stock being hereinafter collectively referred to as the “Company Shares”) issued and outstanding immediately prior to the Merger Effective Time (other than any Company Shares to be canceled pursuant to Section 2.01(b) and any Dissenting Shares) shall be canceled and shall be converted automatically, subject to Section 2.02, into the right to receive that number of shares of Parent Common Stock, Parent Series A Preferred Stock, Parent Series B Preferred Stock and Parent Series C Preferred Stock, as the case may be (collectively the “Parent Shares”), as set forth and further described on Schedule A hereto, the number of shares of Parent common stock to be issued to holders of Company common stock and issuable upon conversion of the Parent Series A Preferred Stock, Parent Series B Preferred Stock and Parent Series C Preferred Stock and exercise of the Current Noteholder Warrants and any other warrants and/or notes issued at or prior to the Merger Effective Time by Mullen or any of its Affiliates to any Person (including, without limitation, to Acuitas and any other investor into the Company Series C Preferred Stock) and assumed or to be assumed upon or after the Merger by Parent to be known as the “Underlying Parent Common Shares”);
+(d)    each Company Share held in the treasury of the Company and each Company Share owned by any direct or indirect wholly-owned subsidiary of the Company immediately prior to the Merger Effective Time shall be canceled without any conversion thereof and no payment or distribution shall be made with respect thereto.
+(e)     For purposes of this Agreement, the aggregate number of Underlying Parent Common Shares issuable pursuant to the Merger plus the Escrow Shares shall constitute 85% of the total number of issued and outstanding shares of Parent Common Stock on a fully-diluted and converted basis immediately after the Merger Effective Time (the Parent Pre-Merger Stockholders to own 15% of the total number of issued and outstanding shares of Parent Common Stock on a fully-diluted and converted basis immediately after the Merger Effective Time).
+For purposes of determining the  aggregate number of Underlying Parent Common Shares and Escrow Shares issuable pursuant to the Merger, Parent will cause its transfer agent to provide, on the day prior to the Merger Effective Time, a list of the then outstanding shares of Parent Common Stock on a fully-diluted and converted basis.
+For purposes of determining the number of outstanding shares of Parent Common Stock on a fully-diluted and converted basis prior and/or after to the Merger Effective Time, the parties shall  include all shares of Parent Common Stock issuable upon exercise or conversion of outstanding warrants, options or other convertible securities of Parent outstanding immediately prior to the Merger Effective Time plus, for purposes of determining the number of outstanding shares of Parent Common Stock on a fully-diluted and converted basis immediately after to the Merger Effective Time, the Underlying Parent Common Shares and the Escrow Shares.
+Parent and the Company may agree that Parent may raise additional capital beyond the Net Cash Position (as defined in Section 7.03(g)).
+In such event, the Company and its shareholders shall solely absorb all of the dilution from such additional capital raise beyond the Net Cash Position for purposes of allocating ownership between the Parent Pre-Merger Stockholders, on the one hand, and all other parties, on the other hand.
+SECTION 2.02    Exchange of Certificates.
+(a)    Exchange Agent.
+Except as contemplated by Section 2.02(g) hereof, the Exchange Fund shall not be used for any other purpose.
+(b)    Exchange Procedures.
+Until surrendered as contemplated by this Section 2.02, each Certificate and Book-Entry Share shall be deemed at all times after the Merger Effective Time to represent only the right to receive upon such surrender the certificate representing Parent Shares that such holder has the right to receive pursuant to the provisions of Section 2.01or 2.02(e) and any dividends or other distributions to which such holder is entitled pursuant to Section 2.02(c).
+(c)    Distributions with Respect to Unexchanged Shares of Company Common Stock.
+No dividends or other distributions declared or made after the Merger Effective Time with respect to the Company Common Stock with a record date after the Merger Effective Time shall be paid to the holder of any Company Common Stock until the holder shall surrender the Certificate pursuant to the letter of transmittal or, in the case of shares held as Book-Entry Shares, upon adherence to the procedures set forth in the letter of transmittal.
+(d)    No Further Rights in Company Common Stock.
+All Parent Shares issued upon conversion of the Company Shares in accordance with the terms hereof (including any cash paid pursuant to Section 2.02(c)) shall be deemed to have been paid and issued in full satisfaction of all rights pertaining to such Company Shares.
+(e)     No Fractional Shares.
+No certificates or scrip of Parent Shares representing fractional Company Shares will be issued; in lieu thereof, Parent shall issue one Parent Share to the holder of any Company Shares that would otherwise be entitled to such fractional Parent Shares.
+(f)    Adjustments to Parent Shares.
+The number Parent Shares which a holder has the right to receive pursuant to the provisions of Section 2.01 and 2.02(e) and the number of Escrow Shares shall be adjusted to reflect appropriately the effect of any stock split, reverse stock split, stock dividend (including any dividend or distribution of securities convertible into Parent Common Stock or Company Common Stock), extraordinary cash dividends, reorganization, recapitalization, reclassification, combination, exchange of shares or other like change with respect to Parent Common Stock or Company Common Stock occurring on or after the date hereof and prior to the Merger Effective Time.
+(g)    No Liability.
+Neither of the Exchange Agent or Parent shall be liable to any holder of Company Shares or Parent Shares for any such Company Shares or Parent Shares, as applicable (or dividends or distributions with respect thereto), or cash delivered to a public official pursuant to any abandoned property, escheat or similar Law.
+(h)    Withholding Rights.
+Parent shall be entitled to deduct and withhold from the consideration otherwise payable pursuant to this Agreement to any holder of Company Shares or Parent Shares such amounts as it is required to deduct and withhold with respect to the making of such payment under the Code, or any provision of state, local or foreign tax law.
+To the extent that amounts are so withheld by Parent and remitted to the appropriate Governmental Authority, such withheld amounts shall be treated for all purposes of this Agreement as having been paid to the holder of the Company Shares or Parent Shares in respect of which such deduction and withholding was made by Parent.
+If any Certificate shall have been lost, stolen or destroyed, upon the making of an affidavit of that fact by the person claiming such Certificate to be lost, stolen or destroyed the Exchange Agent will issue in exchange for such lost, stolen or destroyed Certificate the shares to which the holders thereof have the right to receive pursuant to the provisions of Section 2.01 and 2.02(e), and any dividends or other distributions to which the holders thereof are entitled pursuant to Section 2.02(c), as applicable.
+SECTION 2.03    Stock Transfer Books.
+From and after the Merger Effective Time, the holders of Certificates representing Company Shares outstanding immediately prior to the Merger Effective Time shall cease to have any rights with respect to such Company Shares except as otherwise provided in this Agreement or by Law.
+On or after the Merger Effective Time, any Certificates presented to the Exchange Agent or Parent for any reason shall be converted into the shares of the common stock of Parent to which the holders thereof have the right to receive pursuant to the provisions of Section 2.01 and 2.02(e) and any dividends or other distributions to which the holders thereof are entitled pursuant to Section 2.02(c).
+SECTION 2.04    Dissenting Shares.
+(a)    Notwithstanding anything in this Agreement to the contrary, any Company Shares issued and outstanding immediately before the Merger Effective Time that are held by a stockholder (a “Dissenting Stockholder”) that has not voted in favor of or consented in writing to the adoption of this Agreement and the Merger and has complied with the provisions of Chapter 13 of the California Corporations Code concerning the right of holders of Company Shares to require the Company to repurchase their Company Shares (“Dissenting Shares”) shall not be converted into the right to receive Parent Shares as provided in Section 2.01, but shall instead become the right to receive from Parent such consideration as may be determined to be due to such Dissenting Stockholder pursuant to the procedures set forth in Chapter 13 of the California Corporations Code (and at the Merger Effective Time, such Dissenting Shares shall no longer be outstanding and shall automatically be cancelled and shall cease to exist, and such Stockholder shall cease to have any rights with respect thereto, except the right to receive the appraised value of such Dissenting Shares in accordance with the provisions of Chapter 13 of the California Corporations Code).
+If, prior to the Merger Effective Time, such Dissenting Stockholder withdraws its demand for Company repurchase of such Dissenting Stockholder’s Company Shares or fails to perfect or otherwise loses such Dissenting Stockholder’s right to such repurchase, in any case pursuant to Chapter 13 of the California Corporations Code, such Dissenting Stockholder’s Company Shares shall be deemed to be converted as of the Merger Effective Time into the right to receive, without interest, Parent Shares as provided in Section 2.01.
+SECTION 2.05    Affiliates.
+ARTICLE III
+REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+As stated in the preamble, (i) on May 12, 2021, Mullen Technologies effected the Mullen Divestiture with the Company; (ii) prior to the Merger Effective Time, Mullen Technologies will effect a spin off, via share dividend, of all of the capital stock of the Company to the stockholders of Mullen Technologies as of the effective date of such spin off; and (iii) after such spin off and immediately prior to the Merger Effective Time, the capital structure (including its issued and outstanding common and preferred stock) of the Company shall mirror the capital structure of Mullen Technologies.
+As of the date hereof, the Company has one share of common stock outstanding which is owned by Mullen Technologies.
+For purposes of this Article III, except as otherwise expressly set forth in this Article III, the “Company” shall refer to both of Mullen Automotive, Inc. and Mullen Technologies, Inc.
+As an inducement to Parent and Merger Sub to enter into this Agreement, and subject to the disclosure set forth in the disclosure schedule which identifies exceptions to the Company’s representations and warranties and which has been prepared by the Company and delivered by the Company to Parent and Merger Sub concurrently with the execution and delivery of this Agreement (the “Company Disclosure Schedule”), the Company hereby represents and warrants to Parent and Merger Sub that:
+SECTION 3.01    Organization and Qualification; Subsidiaries.
+Each of the Company and each subsidiary of the Company (each a “Company Subsidiary”) is a corporation or other organization duly organized, validly existing and in good standing under the laws of the jurisdiction of its incorporation or organization and has the requisite corporate or other organizational power and authority and all necessary governmental approvals to own, lease and operate its properties and to carry on its business as it is now being conducted, except where the failure to be so organized, existing or in good standing or to have such power, authority and governmental approvals would not, individually or in the aggregate, prevent or materially delay consummation of the Merger or any of the transactions contemplated by this Agreement (collectively, the “Transactions”) or otherwise prevent or materially delay the Company from performing its obligations under this Agreement.
+Each of the Company and each Company Subsidiary is duly qualified or licensed as a foreign corporation or other organization to do business, and is in good standing, in each jurisdiction where the character of the properties owned, leased or operated by it or the nature of its business makes such qualification or licensing necessary, except for such failures to be so qualified or licensed and in good standing that would not, individually or in the aggregate, prevent or materially delay consummation of any of the Transactions or otherwise prevent or materially delay the Company from performing its obligations under this Agreement and would not have a Company Material Adverse Effect.
+The assets of Mullen Automotive, Inc., as assigned and transferred to it by Mullen Technologies pursuant to the Mullen Divestiture are set forth on Schedule C to the Agreement.
+After and as a result of the Mullen Divestiture, all Mullen Automotive, Inc’s liabilities as of such date consisted solely of the indebtedness of Mullen Technologies assumed by Mullen Automotive, Inc. All such liabilities are set forth on Schedule C to the Agreement.
+SECTION 3.02    Articles of Incorporation and By-laws.
+Such articles of incorporation, by-laws or equivalent organizational documents are in full force and effect.
+Neither the Company nor any Company Subsidiary is in violation of any of the provisions of its Certificate of Incorporation, By-laws or equivalent organizational documents.
+SECTION 3.03    Capitalization.
+(a)    The authorized capital stock of Mullen Technologies (which shall also be the authorized capital stock of Mullen Automotive, Inc. as of the Merger Effective Time) consists of (i) 600,000,000 shares of Common Stock, par value $0.001 per share, and (ii) 73,800,250 shares of preferred stock, par value $0.001 per share.
+The number of shares of capital stock and warrants outstanding as of the date hereof, and the number of shares of capital stock and warrants currently expected to be outstanding immediately prior to the Merger Effective Time, are set forth on Schedule A attached to this Agreement.
+Except as set forth on Schedule A, there are no current options, warrants or other rights, agreements, arrangements or commitments of any character relating to the issued or unissued capital stock of Mullen Technologies or any Mullen Technologies Subsidiary or obligating Mullen Technologies or any Mullen Technologies Subsidiary to issue or sell any shares of capital stock of, or other equity interests in, Mullen Technologies or any Mullen Technologies Subsidiary that are expected to exist as of the Merger Effective Time.
+There are no outstanding contractual obligations of Mullen Technologies or any Mullen Technologies  Subsidiary to repurchase, redeem or otherwise acquire any shares of Mullen Technologies Common Stock or any capital stock of any Mullen Technologies Subsidiary or to provide funds to, or make any investment (in the form of a loan, capital contribution or otherwise) in, any Mullen Technologies Subsidiary or any other person.
+(b)    Each outstanding share of capital stock of each Mullen Technologies Subsidiary is duly authorized, validly issued, fully paid and nonassessable.
+SECTION 3.04    Authority Relative to This Agreement.
+The Company has all necessary corporate power and authority to execute and deliver this Agreement, to perform its obligations hereunder and to consummate the Transactions.
+The execution and delivery of this Agreement by the Company and the consummation by the Company of the Transactions have been duly and validly authorized by all necessary corporate action, and no other corporate proceedings on the part of the Company are necessary to authorize this Agreement or to consummate the Transactions (other than the approval and adoption of this Agreement by the affirmative vote or written consent of the holders of a majority of the outstanding shares of Company Common Stock, Series A Preferred Stock of the Company and Series B Preferred Stock of the Company, voting together as a single class, and the filing and recordation of appropriate merger documents as required by the California Corporations Code).
+This Agreement has been duly and validly executed and delivered by the Company and, assuming the due authorization, execution and delivery by Parent and Merger Sub, constitutes a legal, valid and binding obligation of the Company, enforceable against the Company in accordance with its terms.
+To the Knowledge of the Company, no takeover statute or any other similar restrictions is applicable to the Merger or the other Transactions.
+SECTION 3.05    No Conflict; Required Filings and Consents.
+(a)    The execution and delivery of this Agreement by the Company do not, and the performance of this Agreement by the Company will not, (i) conflict with or violate the articles of incorporation or by-laws of the Company or any Company Subsidiary, (ii) to the Knowledge of the Company, conflict with or violate any United States statute, law, ordinance, regulation, rule, code, executive order, injunction, judgment, decree or other order, including, without limitation, the Code, the Treasury Regulations thereunder and other tax rules and regulations (collectively, “Law”) applicable to the Company or any Company Subsidiary or by which any property or asset of the Company or any Company Subsidiary is bound or affected, or (iii) result in any breach of or constitute a default (or an event which, with notice or lapse of time or both, would become a default) under, or give to others any right of termination, amendment, acceleration or cancellation of, or result in the creation of a lien or other encumbrance on any property or asset of the Company or any Company Subsidiary pursuant to, any note, bond, mortgage, indenture, contract, agreement, lease, license, permit, franchise or other instrument or obligation, except, with respect to clause (iii), for any such conflicts, violations, breaches, defaults or other occurrences which would not, individually or in the aggregate, prevent or materially delay consummation of any of the Transactions or otherwise prevent or materially delay the Company from performing its obligations under this Agreement and would not have a Company Material Adverse Effect.
+(b)    The execution and delivery of this Agreement by the Company do not, and the performance of this Agreement by the Company will not, require any consent, approval, authorization or permit of, or filing with or notification to, any United States federal, state, county or local or non-United States government, governmental, regulatory or administrative authority, agency, instrumentality or commission or any court, tribunal, or judicial or arbitral body (a “Governmental Authority”), except (i) for applicable requirements, if any, of the Exchange Act, state securities or “blue sky” laws (“Blue Sky Laws”) and state takeover laws (if any), and filing and recordation of appropriate merger documents as required by the California Corporations Code, and (ii) where the failure to obtain such consents, approvals, authorizations or permits, or to make such filings or notifications, would not, individually or in the aggregate, prevent or materially delay consummation of any of the Transactions or otherwise prevent or materially delay the Company from performing its obligations under this Agreement, and would not have a Company Material Adverse Effect.
+SECTION 3.06    Permits; Compliance.
+Each of the Company and the Company Subsidiaries is in possession of all material franchises, grants, authorizations, licenses, permits, easements, variances, exceptions, consents, certificates, approvals and orders of any Governmental Authority necessary for each of the Company or the Company Subsidiaries to own, lease and operate its properties or to carry on its business as it is now being conducted (the “Company Permits”).
+Neither the Company nor any Company Subsidiary is in conflict with, or in default, breach or violation of, (a) any Law applicable to the Company or any Company Subsidiary or by which any property or asset of the Company or any Company Subsidiary is bound or affected, or (b) any note, bond, mortgage, indenture, contract, agreement, lease, license, Company Permit, franchise or other instrument or obligation to which the Company or any Company Subsidiary is a party or by which the Company or any Company Subsidiary or any property or asset of the Company or any Company Subsidiary is bound, except for any such conflicts, defaults, breaches or violations that would not, individually or in the aggregate, prevent or materially delay consummation of any of the Transactions or otherwise prevent or materially delay the Company from performing its obligations under this Agreement and would not have a Company Material Adverse Effect.
+SECTION 3.07    Financial Statements.
+(b)    Except as and to the extent set forth on the consolidated balance sheet of the Company and the consolidated Company Subsidiaries as at September 30, 2020, including the notes thereto (the “2020 Company Balance Sheet”), and set forth in Section 3.07(c) of the Company Disclosure Schedule, neither the Company nor any Company Subsidiary has any liability or obligation of any nature (whether accrued, absolute, contingent or otherwise), except for (i) liabilities and obligations incurred since the date of the 2020 Company Balance Sheet in the ordinary course of business which are not, individually or in the aggregate, material to the Company and the Company Subsidiaries taken as a whole; (ii) liabilities and obligations incurred in connection with the transactions contemplated by this Agreement; and (iii) liabilities and obligations which are not, individually or in the aggregate, material to the Company and the Company Subsidiaries taken as a whole.
+(c)    The Financial Statements (1) are true, complete and correct in all material respects, (2) are based on the books and records of the Company and the Company Subsidiaries, which are themselves true, complete and correct in all material respects, and have been prepared in accordance with GAAP throughout the periods or on the dates indicated (except as may be indicated in the notes thereto), and (3) present fairly, in all material respects, the financial position, results of operations and cash flows of the Company, as at the respective dates thereof and for the respective periods indicated therein, except as otherwise noted therein and subject, in the case of the Interim Financial Statements, to normal and recurring year-end adjustments and the absence of notes, none of which will be material individually or in the aggregate.
+(d)    The Company maintains a standard system of accounting established and administered in accordance with United States generally accepted accounting principles (“GAAP”) applied on a consistent basis throughout the periods indicated.
+(e)    All accounts payable of the Company and its Company Subsidiaries reflected on the 2020 Company Balance Sheet or arising thereafter are the result of bona fide transactions in the ordinary course of business.
+Since the date of the 2020 Company Balance Sheet, the Company and its Company Subsidiaries have not altered in any material respects their practices for the payment of such accounts payable, including the timing of such payment.
+(f)    Except as set forth in Schedule 3.07, the Company and its Company Subsidiaries maintain a system of internal accounting controls sufficient to provide reasonable assurance that (i) transactions are executed in accordance with management’s general or specific authorizations, (ii) transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP and to maintain asset accountability, (iii) access to assets is permitted only in accordance with management’s general or specific authorization, and (iv) the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to any differences.
+(g)    All accounts receivable of the Company and its Company Subsidiaries reflected on the 2020 Company Balance Sheet or arising thereafter have arisen from bona fide transactions in the ordinary course of business consistent with past practices The Company’s reserve for contractual allowances and doubtful accounts is adequate and has been calculated in a manner consistent with past practices.
+SECTION 3.08    Absence of Certain Changes or Events.
+Since September 30, 2020, except as set forth in Schedule 3.08, or as expressly contemplated by this Agreement, (a) the Company and the Company Subsidiaries have conducted their businesses only in the ordinary course and in a manner consistent with past practice, (b) there has not been any Company Material Adverse Effect, and (c) none of the Company or any Company Subsidiary has taken any action that, if taken after the date of this Agreement, would constitute a breach of any of the covenants set forth in Section 5.01.
+SECTION 3.09    Absence of Litigation.
+Except as set forth in Schedule 3.09, there is no litigation, suit, claim, action, proceeding or investigation (an “Action”), pending or, to the Knowledge of the Company, threatened against the Company or any Company Subsidiary, or any property or asset of the Company or any Company Subsidiary, before any Governmental Authority the outcome of which would have a Company Material Adverse Effect.
+Neither the Company nor any Company Subsidiary nor any property or asset of the Company or any Company Subsidiary is subject to any continuing order of, consent decree, settlement agreement or other similar written agreement with, or, to the Knowledge of the Company, continuing investigation by, any Governmental Authority, or any order, writ, judgment, injunction, decree, determination or award of any Governmental Authority.
+SECTION 3.10    Employee Benefit Plans.
+(a)    Schedule 3.10 lists (i) all employee benefit plans (as defined in Section 3(3) of the Employee Retirement Income Security Act of 1974, as amended (“ERISA”), whether or not subject to ERISA) and all bonus, stock option, stock purchase, restricted stock, incentive, deferred compensation, retiree medical or life insurance, supplemental retirement, severance, fringe benefit, change in control or other compensation or benefit plans, programs or arrangements (whether written or oral), and (ii) all employment and consulting contracts or agreements to which the Company or any Company Subsidiary is a party, which are maintained, contributed to or sponsored by the Company or any Company Subsidiary, or with regard to which the Company or any Company Subsidiary otherwise has or could reasonably be expected to have any liability, whether direct or indirect, absolute or contingent (all of such plans referred to herein collectively as the “Plans”).
+(c)    None of the Plans (nor any plan maintained by any entity contained in a controlled group of organizations with the Company pursuant to Sections 414(b), (c), (m) or (o) of the Code (any such entity an “ERISA Affiliate”), is a multiemployer plan (within the meaning of Section 3(37) or 4001(a)(3) of ERISA) (a “Multiemployer Plan”), a single employer pension plan (within the meaning of Section 4001(a)(15) of ERISA) or other pension plan subject to Title IV of ERISA and neither the Company nor any ERISA Affiliate has sponsored or contributed to or been required to contribute to a Multiemployer Plan or other pension plan subject to Title IV of ERISA.
+No material liability under Title IV of ERISA has been incurred by Company or any ERISA Affiliate that has not been satisfied in full, and no condition exists that presents a material risk to Company or any ERISA Affiliate of incurring or being subject (whether primarily, jointly or secondarily) to a material liability thereunder, and none of the assets of Company or any ERISA Affiliate is, or may reasonably be expected to become, the subject of any lien arising under ERISA or Section 412(n) of the Code.
+SECTION 3.11    Labor and Employment Matters.
+(a)    Except as set forth in Schedule 3.11, there are no controversies pending or, to the Knowledge of the Company, threatened between the Company or any Company Subsidiary and any of their respective employees, which controversies would, individually or in the aggregate, prevent or materially delay consummation of any of the Transactions or otherwise prevent or materially delay the Company from performing its obligations under this Agreement or would otherwise result in material liability to the Company or any Company Subsidiary;.
+(b)    To the Knowledge of the Company, the Company and the Company Subsidiaries are in material compliance with all applicable laws relating to employment or termination of employment, including those related to wages, hours, compensation, terms and conditions of employment, workplace health and safety, discrimination or harassment, retaliation, human rights, pay equity, notice of termination, classification of employees, immigration, collective bargaining and the payment and withholding of taxes and other sums as required by the appropriate Governmental Authority.
+SECTION 3.12    Real Property; Title to Assets.
+(a)    Neither the Company nor any Company Subsidiary owns a fee interest in any real property.
+(b)    Schedule 3.12 lists each parcel of real property currently leased or subleased by the Company or any Company Subsidiary, with the name of the lessor and the date of the lease, sublease, assignment of the lease, any guaranty given or leasing commissions payable by the Company or any Company Subsidiary in connection therewith and each amendment to any of the foregoing (collectively, the “Lease Documents All such current leases and subleases are in full force and effect, are valid and effective in accordance with their respective terms, and there is not, under any of such leases, any existing material default or event of default (or event which, with notice or lapse of time, or both, would constitute a default) by the Company or any Company Subsidiary or, to the Company’s Knowledge, by the other party to such lease or sublease, or person in the chain of title to such leased premises.
+SECTION 3.13    Intellectual Property.
+(a)    To the Knowledge of the Company, the conduct of the business of the Company and the Company Subsidiaries as currently conducted does not materially infringe upon or misappropriate the Intellectual Property rights of any third party.
+(b)    No claim has been asserted or, to the Knowledge of the Company, threatened to be asserted against the Company that the conduct of the business of the Company and the Company Subsidiaries as currently conducted infringes upon or may infringe upon or misappropriates the Intellectual Property Rights of any third party.
+(c)    With respect to each material item of Intellectual Property owned by the Company or a Company Subsidiary (“Company Owned Intellectual Property”), the Company or a Company Subsidiary is the sole and exclusive owner of the entire right, title and interest in and to such Company Owned Intellectual Property and is entitled to use such Company Owned Intellectual Property in the continued operation of its respective business.
+(d)    With respect to each material item of Intellectual Property licensed to the Company or a Company Subsidiary (“Company Licensed Intellectual Property”), the Company or a Company Subsidiary has sufficient right to use such Company Licensed Intellectual Property in the continued operation of its respective business in accordance with the terms of a valid license agreement governing such Company Licensed Intellectual Property.
+(e)    To the Knowledge of the Company, the Company Owned Intellectual Property is valid, enforceable, and subsisting, and has not been adjudged invalid or unenforceable in whole or in part, and there is no pending proceeding in which any claim has been asserted that any Company Owned Intellectual Property is invalid or unenforceable.
+(f)    To the Knowledge of the Company, each license of the Company Licensed Intellectual Property is valid and enforceable, is binding on all parties to such license, and is in full force and effect.
+(g)    The Company is not and, to the Knowledge of the Company, no other party to any license of the Company Licensed Intellectual Property is in material breach thereof or default thereunder.
+(h)    Neither the execution of this Agreement nor the consummation of any Transaction shall adversely affect any of the Company’s rights with respect to the Company Owned Intellectual Property or the Company Licensed Intellectual Property.
+SECTION 3.14    Taxes.
+(a)    Except as set forth in Schedule 3.14, the Company and each of its Company Subsidiaries (i) have timely filed (taking into account any extension of time within which to file) all material Tax Returns required to be filed by any of them as of the date hereof and all such filed Tax Returns are complete and accurate in all material respects; (ii) have timely paid all Taxes that are shown as due on such filed Tax Returns and any other material Taxes that the Company or any of its Company Subsidiaries are otherwise obligated to pay, except with respect to Taxes that are being contested in good faith, and for which adequate reserves have been provided in accordance with U.S. GAAP in the most recent consolidated financial statements of the Company and its Company Subsidiaries and no material penalties or charges are due with respect to the late filing of any Tax Return required to be filed by or with respect to any of them on or before the Merger Effective Time; (iii) with respect to all material Tax Returns filed by or with respect to any of them, have not waived any statute of limitations with respect to Taxes or agreed to any extension of time with respect to a Tax assessment or deficiency; (iv) as of the date hereof, do not have any deficiency, audit, examination, investigation or other proceeding in respect of material Taxes or Tax matters pending or proposed or threatened in writing; and (v) have provided adequate reserves in accordance with U.S. GAAP in the most recent consolidated financial statements of the Company and its Company Subsidiaries, for any material Taxes of the Company or any of its Company Subsidiaries that have not been paid, whether or not shown as being due on any Tax Return.
+(b)    Each of the Company and its Company Subsidiaries has withheld and paid to the appropriate Taxing authority all material Taxes required to have been withheld and paid in connection with amounts paid or owing to any current or former employee, independent contractor, creditor, stockholder or other third party and has complied in all material respects with all applicable laws, rules and regulations relating to the payment and withholding of Taxes.
+(c)    The Company and its Company Subsidiaries are, and have at all times been, in compliance in all material respects with the provisions of Sections 6011, 6111 and 6112 of the Code relating to tax shelter disclosure, registration and list maintenance and with the Treasury Regulations thereunder, and neither the Company nor any of the Company Subsidiaries has engaged in or entered into a “listed transaction” with the meaning of Treasury Regulation Sections 1.6011-4(b)(2), 301.6111-2(b)(2) or 301.6112-1(c)(3).
+(d)    There are no Tax liens upon any assets of the Company or any of the Company Subsidiaries except statutory liens for current Taxes not yet due and payable.
+(e)    Neither the Company nor any of its Subsidiaries have taken, or agreed to take, any action, or know of any fact, plan, or other circumstance, that is reasonably likely to prevent the qualification of the Merger as a reorganization within the meaning of Section 368(a) of the Code.
+SECTION 3.15    Environmental Matters.
+Except as described in Schedule 3.15 or as would not, individually or in the aggregate, prevent or materially delay consummation of any of the Transactions or otherwise prevent or materially delay the Company from performing its obligations under this Agreement and would not have a Company Material Adverse Effect, none of the Company nor any of the Company Subsidiaries has violated or is in violation of any Environmental Law;
+SECTION 3.16    Material Contracts.
+(a)    Schedule 3.16 lists each “material contract” (as such term is defined in Item 601(b)(10) of Regulation S-K of the SEC) with respect to the Company and its Company Subsidiaries (the “Material Contracts”);
+(b)    Except as would not, individually or in the aggregate, prevent or materially delay consummation of any of the Transactions or otherwise prevent or materially delay the Company from performing its obligations under this Agreement, (i) each Material Contract is a legal, valid and binding obligation of the Company or the Company Subsidiaries and, to the Knowledge of the Company, the other parties thereto, and neither the Company nor any Company Subsidiary is in material breach or violation of, or default under, any Material Contract nor has any Material Contract been canceled by the other party; (ii) to the Company’s Knowledge, no other party is in breach or violation of, or default under, any Material Contract; (iii) the Company and the Company Subsidiaries have not received any claim of default under any such agreement; and (iv) neither the execution of this Agreement nor the consummation of any Transaction shall constitute a default under, give rise to cancellation rights under, or otherwise adversely affect any of the material rights of the Company or any Company Subsidiary under any Material Contract.
+SECTION 3.17    Board Approval; Shareholders’ Approval; Vote Required.
+(a)    The Company Board, by resolutions duly adopted by unanimous vote of those voting at a meeting duly called and held and not subsequently rescinded or modified in any way, has duly (i) determined that this Agreement and the Merger are fair to and in the best interests of the Company and its shareholders, (ii) approved this Agreement and the Merger and declared their advisability, (iii) recommend that the shareholders of the Company approve and adopt this Agreement and approve the Merger and directed that this Agreement and the transactions contemplated hereby be submitted for consideration by the Company’s shareholders.
+The shareholders of the Company duly approved and adopted this Agreement and approved the Merger by written consent executed and delivered by the holders of the requisite number of shares of Company’s capital stock on the date hereof.
+The only vote or written consent of the holders of any class or series of capital stock of the Company necessary to approve this Agreement, the Merger and the other Transactions is the affirmative vote or written consent of the holders of a majority of the outstanding shares of Company Common Stock, Series A Preferred Stock and Series B Preferred stock, voting together as a single class, in favor of the approval and adoption of this Agreement and approval of the Merger.
+SECTION 3.18    Brokers.
+No broker, finder or investment banker is entitled to any brokerage, finder’s or other fee or commission in connection with the Transactions based upon arrangements made by or on behalf of the Company.
+SECTION 3.19    Spin-Off.
+The Spin-Off, in and of itself, is a tax-free reorganization pursuant to Code Sections 355 and 368, and shall not give rise to any tax to any of Mullen Technologies, the Company or any shareholder of either.
+Each of the Merger and each of the Capital Transactions (defined below), whether considered alone or in  conjunction with the other(s), will not result in any tax being recognized in connection with the Spin-Off or otherwise jeopardize the Spin-Off from being treated as a fully tax-free reorganization pursuant to Code Sections 355 and 368.
+The Company shall not, directly or indirectly, be liable for any tax that may arise as a result of the Spin-Off, whether pursuant to any contract or agreement (e.g., any agreement entered into in connection with or respecting the Spin-Off), by operation of law, or otherwise.
+“Capital Transactions” means the transactions (including the issuances of stock in connection with any exercise of the Noteholders Warrants) contemplated in the exchange agreement and securities purchase agreement among such noteholders and Mullen Technologies, any issuances of stock in connection with each of the Drawbridge Convertible Note, Private Placement, the Divestiture, Parent’s equity incentive plan and/or exercise of the current outstanding warrants issued to Esousa Holdings, LLC, a New York limited liability company (or its successors or transferees).
+ARTICLE IV
+REPRESENTATIONS AND WARRANTIES OF PARENT
+As an inducement to the Company to enter into this Agreement, and subject to the disclosure set forth in the disclosure schedule which has been prepared by Parent and delivered by Parent to the Company concurrently with the execution of this Agreement (the “Parent Disclosure Schedule”), Parent hereby represents and warrants to the Company that:
+SECTION 4.01    Corporate Organization.
+Parent is a corporation duly organized, validly existing and in good standing under the laws of the jurisdiction of its incorporation and has the requisite corporate power and authority and all necessary governmental approvals to own, lease and operate its properties and to carry on its business as it is now being conducted, except where the failure to be so organized, existing or in good standing or to have such power, authority and governmental approvals would not, individually or in the aggregate, prevent or materially delay consummation of any of the Transactions or otherwise prevent or materially delay Parent from performing its obligations under this Agreement and would not have a Parent Material Adverse Effect.
+SECTION 4.02    Certificate of Incorporation.
+Such Certificate of Incorporation of Parent is in full force and effect.
+Parent is not in violation of any of the provisions of its Certificate of Incorporation of Parent.
+SECTION 4.03    Capitalization.
+(a)    The authorized capital stock of Parent consists of 100,000,000 shares of Parent Common Stock, par value $0.0001 per share and 1,000,000 shares of Parent preferred stock, par value $0.0001 per shares (“Parent Preferred Stock”).
+As of the date of this Agreement, (i) 5,415,396 shares of Parent Common Stock are issued and outstanding, all of which are validly issued, fully paid and non-assessable, (ii) no shares of Parent Preferred Stock issued and outstanding, (iii) no shares of Parent Common Stock are held in the treasury of Parent, (iv) 766,475 shares of Parent Common Stock are reserved for future issuance pursuant to warrants and options and (v) 1,082,538 shares of Parent Common Stock are reserved for future issuance pursuant to that certain Master Exchange Agreement, dated as of July 9, 2021 between Parent and ESOUSA Holdings, LLC, a New York limited liability company.
+Except as set forth in Section 4.03(a) of the Parent Disclosure Schedule, there are no options, warrants or other rights, agreements, arrangements or commitments of any character relating to the issued or unissued capital stock of Parent or obligating Parent to issue or sell any shares of capital stock of, or other equity interests in, Parent.
+All shares of Parent Common Stock subject to issuance as aforesaid, upon issuance on the terms and conditions specified in the instruments pursuant to which they are issuable, will be duly authorized, validly issued, fully paid and non-assessable.
+There are no outstanding contractual obligations of Parent to repurchase, redeem or otherwise acquire any shares of Parent Common Stock.
+There are no outstanding contractual obligations of Parent to provide funds to, or make any investment (in the form of a loan, capital contribution or otherwise) in, any person.
+(b)    Parent shall cause the shares of Parent Common Stock to be issued pursuant to the Merger in accordance with Section 2.01 and 2.02(e): (i) to be duly authorized, validly issued, fully paid and non-assessable and not subject to preemptive rights; and (ii) to be, when issued, registered under the Securities Act and the Securities Exchange Act of 1934, as amended (the “Exchange Act”), and registered or exempt from registration under applicable Blue Sky Laws.
+SECTION 4.04    Authority Relative to This Agreement.
+Each of Parent and Merger Sub has all necessary power and authority to execute and deliver this Agreement, to perform its obligations hereunder and to consummate the Transactions.
+The execution and delivery of this Agreement by Parent and Merger Sub and the consummation by Parent and Merger Sub of the Transactions have been duly and validly authorized by all necessary corporate action, and no other corporate proceedings on the part of Parent and Merger Sub are necessary to authorize this Agreement or to consummate the Transactions (other than (i) the approval and/or adoption, as applicable, by the holders of a majority of the then-outstanding shares of Parent Common Stock of the Parent Stockholders Approval Matters, (ii) the approval by Parent, as the sole holder of shares of common stock of Merger Sub of this Agreement and the Merger, (iii) and the filing and recordation of Parent COI Amendment, the certificates of designations for Parent Series A Preferred Stock, Series B Preferred Stock and Series C Preferred Stock and appropriate merger documents as required by Law, (iv) the Nasdaq initial listing application and Nasdaq listing notifications and approvals of listing of the Parent Common Stock issuable pursuant to the Transactions contemplated by this Agreement, including the Merger, the Escrow Shares and the Parent Common Shares issuable upon conversion of each of the Drawbridge Convertible Note, Current Investor Notes, Parent Series A Preferred Stock, Parent Series B Preferred Stock and Parent Series C Preferred Stock, upon exercise of the Current Noteholder Warrants, any other warrants and/or notes issued at or prior to the Merger Effective Time by Mullen or any of its Affiliates to any Person (including, without limitation, to Acuitas and any other investor into the Company Series C Preferred Stock) and assumed or to be assumed upon or after the Merger by Parent and pursuant to the Private Placement).
+This Agreement has been duly and validly executed and delivered by Parent and Merger Sub and, assuming due authorization, execution and delivery by the Company, constitutes a legal, valid and binding obligation of Parent and Merger Sub, enforceable against Parent and Merger Sub in accordance with its terms.
+SECTION 4.05    No Conflict; Required Filings and Consents.
+(a)    The execution and delivery of this Agreement by Parent do not, and the performance of this Agreement by Parent will not, (i) conflict with or violate the certificate of incorporation of Parent, (ii) assuming that all consents, approvals, authorizations and other actions described in Section 4.05(b) have been obtained and all filings and obligations described in Section 4.05(b) have been made, conflict with or violate any law, rule, regulation, order, judgment or decree applicable to Parent or by which any of its property or assets is bound or affected, or (iii) result in any breach of, or constitute a default (or an event which, with notice or lapse of time or both, would become a default) under, or give to others any rights of termination, amendment, acceleration or cancellation of, or result in the creation of a lien or other encumbrance on any property or asset of Parent pursuant to, any note, bond, mortgage, indenture, contract, agreement, lease, license, permit, franchise or other instrument or obligation to which Parent is a party or by which Parent or any of its property or assets is bound or affected, except, with respect to clause (iii), for any such conflicts, violations, breaches, defaults or other occurrences which would not, individually or in the aggregate, prevent or materially delay consummation of any of the Transactions or otherwise prevent or materially delay Parent from performing its obligations under this Agreement and would not have a Parent Material Adverse Effect.
+(b)    The execution and delivery of this Agreement by Parent do not, and the performance of this Agreement by Parent will not, require any consent, approval, authorization or permit of, or filing with or notification to, any Governmental Authority, except (i) for applicable requirements, if any, of the Exchange Act, Blue Sky Laws and state takeover laws, filing and recordation of appropriate merger documents as required by the California Corporations Code and the NASDAQ Stock Market (“Nasdaq”) approval of Parent’s listing application covering the shares of Parent Common Stock to be issued in the Merger, and (ii) where the failure to obtain such consents, approvals, authorizations or permits, or to make such filings or notifications, would not, individually or in the aggregate, prevent or materially delay consummation of any of the Transactions or otherwise prevent Parent from performing its material obligations under this Agreement.
+SECTION 4.06    Permits; Compliance.
+Parent is in possession of all franchises, grants, authorizations, licenses, permits, easements, variances, exceptions, consents, certificates, approvals and orders of any Governmental Authority necessary for Parent to own, lease and operate its properties or to carry on its business as it is now being conducted (the “Parent Permits”).
+Parent is not in conflict with, or in default, breach or violation of, (a) any Law applicable to Parent or by which any property or asset of Parent is bound or affected, or (b) any note, bond, mortgage, indenture, contract, agreement, lease, license, Parent Permit, franchise or other instrument or obligation to which Parent is a party or by which Parent or any property or asset of Parent is bound, except for any such conflicts, defaults, breaches or violations that would not, individually or in the aggregate, prevent or materially delay consummation of any of the Transactions or otherwise prevent or materially delay Parent from performing its obligations under this Agreement and would not have a Parent Material Adverse Effect.
+SECTION 4.07    SEC Filings; Financial Statements.
+The Parent SEC Reports were, and the Additional Parent SEC Reports will be, prepared in all material respects in accordance with the requirements of the Securities Act and the Exchange Act, as the case may be, and the rules and regulations thereunder.
+The Parent SEC Reports did not, and the Additional Parent SEC Reports will not, at the time they were or are filed, as the case may be, with the SEC (except to the extent that information contained in any Parent SEC Report or Additional Parent SEC Report has been or is revised or superseded by a later filed Parent SEC Report or Additional Parent SEC Report) contain any untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary in order to make the statements made therein, in the light of the circumstances under which they were made, not misleading.
+(b)    Each of the financial statements (including, in each case, any notes thereto) contained in the Parent SEC Reports was prepared in accordance with GAAP applied on a consistent basis throughout the periods indicated (except as may be indicated in the notes thereto or, in the case of unaudited statements, as permitted by Form 10-K of the SEC) and each fairly presents, in all material respects, the financial position, results of operations and cash flows of Parent as at the respective dates thereof and for the respective periods indicated therein.
+(c)    Except as and to the extent set forth on the balance sheet of Parent as at December 31, 2020, including the notes thereto (the “2020 Parent Balance Sheet”), Parent has no liability or obligation of any nature (whether accrued, absolute, contingent or otherwise), except for (i) liabilities and obligations incurred since the date of the 2020 Parent Balance Sheet in the ordinary course of business which are not, individually or in the aggregate, material to Parent; (ii) liabilities and obligations incurred in connection with the transactions contemplated by this Agreement; and (iii) liabilities and obligations which are not, individually or in the aggregate, material to Parent.
+(f)    All accounts payable of Parent reflected on the 2020 Parent Balance Sheet or arising thereafter are the result of bona fide transactions in the ordinary course of business.
+Since the date of the 2020 Parent Balance Sheet, Parent has not altered in any material respects its practices for the payment of such accounts payable, including the timing of such payment.
+(g)    Parent has timely filed and made available to the Company all certifications and statements required by (x) Rule 13a-14 or Rule 15d-14 under the Exchange Act or (y) 18 U.S.C.
+Section 1350 (Section 906 of the Sarbanes-Oxley Act of 2002) with respect to any Parent SEC Report (the “Parent Certifications”).
+Each of the Parent Certifications is true and correct.
+Parent maintains disclosure controls and procedures required by Rule 13a-15 or Rule 15d-15 under the Exchange Act; such controls and procedures are reasonably designed to ensure that all material information concerning the Parent and its consolidated subsidiaries is made known on a timely basis to the individuals responsible for the preparation of the Company’s SEC filings and other public disclosure documents.
+As used in this Section 4.07, the term “file” shall be broadly construed to include any manner in which a document or information is furnished, supplied or otherwise made available to the SEC.
+(h)    Parent maintains and will continue to maintain a standard system of accounting established and administered in accordance with GAAP.
+Parent has designed and maintains a system of internal controls over financial reporting, as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act, sufficient to provide reasonable assurances regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with GAAP.
+Parent maintains a system of internal accounting controls sufficient to provide reasonable assurance that (i) transactions are executed in accordance with management’s general or specific authorizations, (ii) transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP and to maintain asset accountability, (iii) access to assets is permitted only in accordance with management’s general or specific authorization, and (iv) the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to any differences.
+(i)    Since January 1, 2020, no non-audit services have been performed by Parent’s auditors for Parent since the date of Parent’s formation.
+Parent has no off-balance sheet arrangements.
+(j)    Neither Parent nor, to the Knowledge of Parent, any manager, director, officer, employee, auditor, accountant or representative of Parent has received or otherwise had or obtained knowledge of any complaint, allegation, assertion or claim, whether written or oral, regarding the accounting or auditing practices, procedures, methodologies or methods of Parent or their respective internal accounting controls, including any complaint, allegation, assertion or claim that Parent has engaged in questionable accounting or auditing practices.
+Since Parent’s inception, there have been no internal investigations regarding accounting or revenue recognition discussed with, reviewed by or initiated at the direction of the chief executive officer, chief financial officer, general counsel, the Parent Board or any committee thereof.
+(k)    To the Knowledge of Parent, no employee of Parent has provided or is providing information to any law enforcement agency regarding the commission or possible commission of any crime or the violation or possible violation of any applicable Law.
+Neither Parent nor any of its officer, employee, contractor, subcontractor or agent has discharged, demoted, suspended, threatened, harassed or in any other manner discriminated against an employee of Parent in the terms and conditions of employment because of any act of such employee described in 18 U.S.C.
+§ 1514A(a).
+SECTION 4.08    Absence of Certain Changes or Events.
+Since December 31, 2020, or as expressly contemplated by this Agreement, or specifically disclosed in any Parent SEC Report filed since December 31, 2020 and prior to the date of this Agreement, (a) Parent has conducted its business only in the ordinary course and in a manner consistent with past practice, and (b) there has not been any Parent Material Adverse Effect.
+SECTION 4.09    Absence of Litigation.
+There is no Action pending or, to the Knowledge of Parent, threatened against Parent, or any property or asset of Parent, before any Governmental Authority.
+Neither Parent nor any material property or asset of Parent is subject to any continuing order of, consent decree, settlement agreement or other similar written agreement with, or, to the Knowledge of Parent, continuing investigation by, any Governmental Authority.
+SECTION 4.10    Board Approval; Vote Required.
+(a)    The Parent Board, by resolutions duly adopted by unanimous vote of those voting at a meeting duly called and held and not subsequently rescinded or modified in any way, has duly (i) determined that this Agreement and the Merger are fair to and in the best interests of Parent and its stockholders, (ii) approved this Agreement and the Merger (including the issuance of Parent Shares pursuant to the Merger and the Parent COI Amendment), the Divestiture, Private Placement, and declared their advisability, (iii) resolved to recommend that the stockholders of Parent approve and adopt this Agreement and approve the Merger (including the issuance of Parent Shares pursuant to the Merger and the Parent COI Amendment), the Divestiture, the Private Placement and directed that this Agreement and the transactions contemplated hereby be submitted for consideration by Parent’s stockholders at the Parent Stockholders’ Meeting.
+(b)    With respect to Parent, the only vote of the holders of any class or series of capital stock of Parent necessary to approve this Agreement and the Merger is the affirmative vote of the holders of a majority of the outstanding shares of Parent Common Stock in favor of the approval and adoption of this Agreement and approval of the Merger.
+The voting requirements for the Divestiture, the Private Placement, the Parent COI Amendment and the other Transactions will be disclosed in the Proxy Statement (as hereinafter defined).
+(c)    with respect to the Merger Sub, the only vote of Parent, as the sole shareholders of the Merger Sub, is necessary to approve this Agreement, the Merger and the other Transactions.
+SECTION 4.11    Tax Matters.
+(a)    Parent (i) has timely filed (taking into account any extension of time within which to file) all material Tax Returns required to be filed as of the date hereof and all such filed Tax Returns are complete and accurate in all material respects; (ii) has timely paid all Taxes that are shown as due on such filed Tax Returns and any other material Taxes that Parent is otherwise obligated to pay, except with respect to Taxes that are being contested in good faith and for which adequate reserves have been provided in accordance with U.S. GAAP in the most recent consolidated financial statements of Parent, and no material penalties or charges are due with respect to the late filing of any Tax Return required to be filed by or with respect to Parent on or before the Merger Effective Time; (iii) with respect to all material Tax Returns filed by or with respect to Parent, has not waived any statute of limitations with respect to Taxes or agreed to any extension of time with respect to a Tax assessment or deficiency; (iv) as of the date hereof, does not have any deficiency, audit, examination, investigation or other proceeding in respect of material Taxes or Tax matters pending or proposed or threatened in writing; and (v) has provided adequate reserves in accordance with U.S. GAAP in the most recent consolidated financial statements of Parent, for any material Taxes of Parent that have not been paid, whether or not shown as being due on any Tax Return.
+(b)    Parent is not a party to, is bound by or has an obligation under any Tax sharing agreement, Tax indemnification agreement, or Tax allocation agreement (other than customary contractual provisions in financing or other commercial agreements entered into in the ordinary course of business).
+(c)    Parent has withheld and paid to the appropriate Taxing authority all material Taxes required to have been withheld and paid in connection with amounts paid or owing to any current or former employee, independent contractor, creditor, stockholder or other third party and has complied in all material respects with all applicable laws, rules and regulations relating to the payment and withholding of Taxes.
+(d)    Parent has not been a member of an affiliated group filing a consolidated, combined or unitary U.S. federal, state, local or foreign income Tax Return (other than the group, the common parent of which is or was Parent).
+(e)    Parent has not in any year for which the applicable statute of limitations remains open distributed stock of another person, nor has had its stock distributed by another person, in a transaction that was purported or intended to be governed in whole or in part by Section 355 or Section 361 of the Code.
+(f)    Parent is, and has at all times been, in compliance in all material respects with the provisions of Sections 6011, 6111 and 6112 of the Code relating to tax shelter disclosure, registration and list maintenance and with the Treasury Regulations thereunder, and Parent has not engaged in or entered into a “listed transaction” with the meaning of Treasury Regulation Sections 1.6011-4(b)(2), 301.6111-2(b)(2) or 301.6112-1(c)(3).
+(g)    There are no Tax liens upon any assets of Parent except statutory liens for current Taxes not yet due and payable.
+SECTION 4.12    Change in Control Payments.
+Subject to occurrence and at the Closing, Parent shall have satisfied any cash obligations or severances Parent may have to its employees that are payable solely by reason of a change in control of Parent.
+SECTION 4.13    Brokers.
+No broker, finder or investment banker is entitled to any brokerage, finder’s or other fee or commission in connection with the Transactions based upon arrangements made by or on behalf of Parent.
+ARTICLE V
+CONDUCT OF BUSINESS PENDING THE MERGERS
+SECTION 5.01    Conduct of Business by the Company Pending the Merger.
+Except as expressly contemplated by any other provision of this Agreement, Company agrees that from the date of this Agreement until the earlier of the termination of this Agreement and the Merger Effective Time, Company shall not, without the prior written consent of the Parent, take any action that would reasonably be likely to prevent, interfere with or materially delay the Merger.
+SECTION 5.02    Conduct of Business by Parent Pending the Merger.
+Except as expressly contemplated by any other provision of this Agreement, Parent agrees that from the date of this Agreement until the earlier of the termination of this Agreement and the Merger Effective Time, Parent shall not, without the prior written consent of the Company, take any action that would reasonably be likely to prevent, interfere with or materially delay the Merger.
+ARTICLE VI
+SECTION 6.01    Registration Statement; Proxy Statement.
+(ii)    Subject and contingent upon the Company’s completion by a PCAOB-approved independent auditor and delivery to Parent, at the Company’s expense, of the audited financial statements for the Company, the Company’s Subsidiaries and Company’s affiliates required to be included in the Registration Statement, Parent shall file with the SEC a registration statement on Form S-4 (together with all amendments thereto, the “Registration Statement”) in which the Proxy Statement shall be included as a part of the prospectus, in connection with the registration under the Securities Act of the Parent Shares to be issued pursuant to Section 2.01 and Section 2.02(e).
+Parent and the Company each shall use their reasonable efforts to cause the Registration Statement to become effective as promptly as practicable, and, prior to the effective date of the Registration Statement, Parent shall take all or any action required under any applicable federal or state securities laws in connection with the issuance of shares of Parent Common Stock pursuant to the Merger.
+The Company shall timely furnish to Parent all true, accurate and complete information concerning the Company and the Company Subsidiaries, as Parent may request in connection with such actions and the preparation of the Registration Statement and Proxy Statement.
+(b)    Except as provided in Section 6.04(c), Parent covenants that none of the Parent Board or any committee thereof shall withdraw or modify, or propose to withdraw or modify, in a manner adverse to the Company, the approval or recommendation by the Parent Board or any committee thereof of this Agreement, the Merger or any other Transaction and the Proxy Statement shall include the recommendation of the Parent Board to the stockholders of the Parent in favor of approval and adoption of this Agreement and approval of the Merger (the “Parent Recommendation”).
+(c)    Parent will notify the Company and allow the Company’s input and prior approval of any amendment or supplement to the Proxy Statement.
+Parent will advise the Company, promptly after Parent receives notice thereof, of the time when the Registration Statement has become effective (and allow the Company’s input and prior approval of any supplement or amendment to be filed) of the issuance of any stop order, of the suspension of the qualification of the Parent Common Stock issuable in connection with the Merger for offering or sale in any jurisdiction, or of any request by the SEC for amendment of the Proxy Statement or the Registration Statement or comments thereon and responses thereto or requests by the SEC for additional information.
+(d)    Parent represents that the information supplied by Parent for inclusion in the Registration Statement and the Proxy Statement shall not, at (i) the time the Registration Statement is declared effective, (ii) the time the Proxy Statement (or any amendment thereof or supplement thereto) is first mailed to the stockholders of Parent, (iii) the time of the Parent Stockholders’ Meeting, and (iv) the Merger Effective Time, contain any untrue statement of a material fact or fail to state any material fact required to be stated therein or necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading.
+If, at any time prior to the Merger Effective Time, any event or circumstance relating to Parent, or its officers or directors, should be discovered by Parent which should be set forth in an amendment or a supplement to the Registration Statement or Proxy Statement, Parent shall promptly inform the Company.
+All documents that Parent is responsible for filing with the SEC in connection with the Merger or the other transactions contemplated by this Agreement will comply as to form and substance in all material aspects with the applicable requirements of the Securities Act and the rules and regulations thereunder and the Exchange Act and the rules and regulations thereunder.
+(e)    The Company represents that the information supplied by the Company for inclusion in the Registration Statement and the Proxy Statement shall not, at (i) the time the Registration Statement is declared effective, (ii) the time the Proxy Statement (or any amendment thereof or supplement thereto) is first mailed to the stockholders of Parent, (iii) the time of the Parent Stockholders’ Meeting, and (iv) the Merger Effective Time, contain any untrue statement of a material fact or fail to state any material fact required to be stated therein or necessary in order to make the statements therein, in light of the circumstances under which they were made, not misleading.
+If, at any time prior to the Merger Effective Time, any event or circumstance relating to the Company or any Company Subsidiary, or their respective officers or directors, should be discovered by the Company which should be set forth in an amendment or a supplement to the Registration Statement or Proxy Statement, the Company shall promptly inform Parent.
+All documents that Parent is responsible for filing with the SEC in connection with the Merger or the other transactions contemplated by this Agreement will (as they relate to, and/or contain any information about, the Company and the Company Subsidiaries and/or their respective business and operations) comply as to form and substance in all material respects with the applicable requirements of the Securities Act and the rules and regulations thereunder and the Exchange Act and the rules and regulations thereunder.
+SECTION 6.02    Stockholders’ Meeting.
+Parent shall call and hold the Parent Stockholders’ Meeting as promptly as practicable for the purpose of voting upon the approval and adoption, as applicable, of the Parent Stockholders Approval Matters and Parent shall use its reasonable efforts to hold the Parent Stockholders’ Meeting as soon as practicable after the date on which the Registration Statement becomes effective.
+Parent shall use its reasonable efforts to solicit from its stockholders proxies in favor of the approval and adoption , as applicable, of the Parent Stockholders Approval Matters and shall take all other action necessary or advisable to secure the required vote or consent of its stockholders, except in the event and to the extent that the Parent Board, in accordance with Section 6.04(c), withdraws or modifies its recommendation to the stockholders of Parent in favor of the approval and adoption, as applicable, of the Parent Stockholders Approval Matters.
+SECTION 6.03    Access to Information; Confidentiality.
+(a)    Except as required pursuant to any confidentiality agreement or similar agreement or arrangement to which the Company or Parent or any of their respective subsidiaries is a party or pursuant to applicable Law, from the date of this Agreement until the Merger Effective Time, the Company and Parent shall (and shall cause their respective subsidiaries to): (i) provide to the other party (and the other party’s officers, directors, employees, accountants, consultants, legal counsel, agents and other representatives, collectively, “Representatives”) access at reasonable times upon prior notice to the officers, employees, agents, properties, offices and other facilities of such party and its subsidiaries and to the books and records thereof; and (ii) furnish promptly to the other party such information concerning the business, properties, contracts, assets, liabilities, personnel and other aspects of such party and its subsidiaries as the other party or its Representatives may reasonably request.
+(b)    All information obtained by the parties pursuant to this Section 6.03 and otherwise shall be kept confidential in accordance with the Mutual Non-Disclosure Agreement, dated June 6, 2020, between the Company and Parent (the “Confidentiality Agreement”), between Parent and the Company.
+(c)    No investigation pursuant to this Section 6.03 shall affect any representation or warranty in this Agreement of any party hereto or any condition to the obligations of the parties hereto.
+(d)    The Company hereby waives the provisions of the Confidentiality Agreement as and to the extent necessary to permit the consummation of each Transaction.
+(e)    Notwithstanding anything in this agreement to the contrary, each party (and its representatives, agents and employees) may consult any tax advisor regarding the tax treatment and tax structure of the transactions contemplated hereby and may disclose to any person, without limitation of any kind, the tax treatment and tax structure of the transactions contemplated hereby and all materials (including opinions or other tax analyses) that are provided relating to such treatment or structure.
+SECTION 6.04    Competing Transactions and Superior Proposals.
+(a)    For the avoidance of doubt, nothing contained in this Section 6.04 shall prohibit Parent from taking and disclosing to its stockholders a position contemplated by Rule 14e‑2 or Rule 14d-9 promulgated under the Exchange Act or from making any disclosure to Parent’s stockholders if, in the good faith judgment of the Parent Board, after consultation with outside counsel, failure so to disclose would be inconsistent with applicable law; provided, however, that neither Parent nor Parent Board nor any committee thereof shall, except as specifically permitted by Section 6.04(c), withdraw or modify, or propose to withdraw or modify, in a manner adverse to the Company, the Parent Recommendation, or propose to approve or recommend, a Competing Transaction.
+(c)    Except as set forth in this Section 6.04(c), neither the Parent Board nor any committee thereof shall withdraw or modify, or propose to withdraw or modify, in a manner adverse to the Company, the Parent Recommendation (a “Change in Parent Recommendation”) or approve or recommend, or cause or permit Parent to enter into any letter of intent, agreement or obligation with respect to, any Competing Transaction.
+Any disclosure that the Parent Board may be compelled to make with respect to the receipt of a proposal or offer for a Competing Transaction or otherwise in order to comply with its fiduciary obligations to Parent and its stockholders under applicable Law or Rule 14d-9 or 14e-2 will not constitute a violation of this Agreement, provided that such disclosure states that no action will be taken by the Parent Board in violation of this Section 6.04(c).
+Notwithstanding anything to the contrary contained in this Agreement, the obligation of Parent to call, give notice of, convene and hold the Parent Stockholders’ Meeting shall not be limited or otherwise affected by the commencement, disclosure, announcement or submission to it of any Competing Transaction, or by any Change in Parent Recommendation.
+Parent shall not submit to the vote of its stockholders any Competing Transaction, or propose to do so.
+(d)    A “Competing Transaction” means any of the following (other than the Transactions): (i) any merger, consolidation, share exchange, business combination, recapitalization, liquidation, dissolution or other similar transaction involving Parent; (ii) any sale, lease, exchange, transfer or other disposition of all or a substantial part of the assets of the Parent; (iii) any sale, exchange, transfer or other disposition of 15% or more of any class of equity securities of Parent; (iv) any tender offer or exchange offer that, if consummated, would result in any person beneficially owning 15% or more of any class of equity securities of Parent; (v) any solicitation in opposition to approval and adoption of this Agreement by Parent’s stockholders; or (vi) any other transaction the consummation of which would reasonably be expected to impede, interfere with, prevent or materially delay any of the Transactions.
+(e)    A “Superior Proposal” means an unsolicited written bona fide offer to consummate any of the following transactions made by a third party that the Parent Board determines, in its good faith judgment (after having received the advice of a financial advisor of nationally recognized reputation), is capable of doing so: (i) a merger, consolidation, share exchange, business combination or other similar transaction involving Parent pursuant to which the stockholders of Parent immediately preceding such transaction would hold less than 50% of the equity interest in the surviving or resulting entity of such transaction; or (ii) the acquisition by any person or group (including by means of a tender offer or an exchange offer or a two-step transaction involving a tender offer followed with reasonable promptness by a cash-out merger involving Parent), directly or indirectly, of ownership of 100% of the then outstanding shares of stock of Parent, in each case on terms (including conditions to consummation of the contemplated transaction) that the Parent Board determines, in its good faith judgment, to be more favorable to Parent’s stockholders than the Transactions and for which financing, to the extent required, is then committed.
+SECTION 6.05    Expenses.
+(a)          The Company payment obligations set forth in that certain Binding Letter of Intent, dated June 12, 2020, as amended on July 10, 2020, between the Company and Parent (the “LOI”) shall remain in place.
+Any expenses for non-referenced in the LOI matters in excess of the Reimbursable Expense Amount shall require the prior written consent of Company, which consent shall not be unreasonably withheld.
+It is understood and agreed that the primary drafting and preparation of the Proxy Statement and the Registration Statement shall be done by Company counsel in coordination with and subject to the ultimate approval by Parent counsel.
+The Company counsel shall also have primary responsibility for any initial drafting and coordinating any response to SEC comments received by Parent in connection with the Proxy Statement and/or the Registration Statement any such response to be coordinated with and subject to the ultimate approval of counsel to Parent.
+In addition, each of (i) all aggregate amount of all accrued pursuant to Section 2.1(f) Late Fees and (ii) the aggregate amount of the loan from Parent to Mullen Technologies in the principal amount of $500,000 plus all accrued interested thereon shall be reimbursed by Company in the form of a reduction of the Net Cash Position, it being understood and agreed that such reduction shall still count as having been included in the Net Cash Position and therefore be deemed to have been included in the Net Cash Position.
+The Company and Parent agree that if the Company Break Up Fee or Parent Break Up Fee, as the case may be, is payable hereunder, the right of the Company or Parent, as the case may be, to receive such amount shall constitute the sole and exclusive remedy for, and such amount shall constitute liquidated damages in respect of such termination of this Agreement.
+SECTION 6.06    Employee Benefits Matters.
+Employees of the Company or any Company Subsidiary shall receive credit for purposes of eligibility to participate and vesting (but not for benefit accruals) under any employee benefit plan, program or arrangement established or maintained by Parent or any of its subsidiaries for service accrued prior to the Merger Effective Time with the Company or any Company Subsidiary; provided, however, that such crediting of service shall not operate to duplicate any benefit or the funding of any such benefit.
+SECTION 6.07     Directors’ and Officers’ Indemnification and Insurance.
+(a)    The indemnification provisions set forth in the certificate of incorporation, as in effect immediately prior to the Merger Effective Time, and in the by-laws of Parent, as in effect immediately prior to the Merger Effective Time, shall not be amended, repealed or otherwise modified for a period of six years from the Merger Effective Time in any manner that would affect adversely the rights thereunder of individuals who, at or prior to the Merger Effective Time, were directors, officers, employees, fiduciaries or agents of the Company, unless such modification shall be required by law.
+Each of Parent and the Company agrees that all rights to indemnification for acts or omissions occurring prior to the Merger Effective Time now existing in favor of the current or former directors or officers of Parent and/or its subsidiaries as provided in their respective certificates or articles of incorporation or bylaws (or similar organizational documents) and/or any indemnification or similar agreements and/or arrangements, shall survive the Merger and shall continue in full force and effect in accordance with their terms, together with all other indemnification agreements in favor of such current or former directors or officers.
+(b)    Parent shall maintain in effect for at least two years from the Merger Effective Time, the current directors’ and officers’ liability insurance policies maintained by the Company (provided that Parent may substitute therefor policies of at least the same coverage containing terms and conditions that are not materially less favorable) with respect to matters occurring prior to the Merger Effective Time.
+SECTION 6.08    Notification of Certain Matters.
+The Company shall give prompt notice to Parent, and Parent shall give prompt notice to the Company, of (a) the occurrence, or non-occurrence, of any event the occurrence, or non-occurrence, of which could reasonably be expected to cause any representation or warranty contained in this Agreement to be untrue or inaccurate in any material respect and (b) any failure of the Company or Parent, as the case may be, to comply with or satisfy any covenant or agreement to be complied with or satisfied by it hereunder; provided, however, that the delivery of any notice pursuant to this Section 6.08 shall not limit or otherwise affect the remedies available hereunder to the party receiving such notice.
+SECTION 6.09    Company Affiliates.
+SECTION 6.10    Further Action; Reasonable Efforts.
+Upon the terms and subject to the conditions of this Agreement, each of the parties hereto shall use its reasonable efforts to take, or cause to be taken, all appropriate action, and to do, or cause to be done, all things necessary, proper or advisable under applicable Laws or otherwise to consummate and make effective the Transactions, including, without limitation, using its reasonable efforts to obtain all Permits, consents, approvals, authorizations, qualifications and orders of Governmental Authorities and parties to contracts with the Company and the Company Subsidiaries as are necessary for the consummation of the Transactions and to fulfill the conditions to the Merger; provided that Parent will not be required by this Section 6.10 to take any action, including entering into any consent decree, hold separate orders or other arrangements, that limits Parent’s freedom of action with respect to, or its ability to retain, the Company and the Company Subsidiaries or any portion thereof or any of Parent’s or its affiliates’ other assets or businesses (other than in furtherance of the Divestiture if it is approved by Parent’s stockholders).
+In case, at any time after the Merger Effective Time, any further action is necessary or desirable to carry out the purposes of this Agreement, the proper officers and directors of each party to this Agreement shall use their reasonable efforts to take all such action.
+SECTION 6.11    Reorganization.
+(a)    Parent and the Company shall each use its reasonable best efforts to cause the Merger to qualify as a “reorganization” within the meaning of Section 368(a) of the Code.
+Neither Parent nor the Company, nor their affiliates, shall directly or indirectly (without the consent of the other) take any action (or fail to take any action) that would reasonably be expected to adversely affect the Merger from qualifying as a reorganization within the meaning of Section 368(a) of the Code.
+This Agreement is intended to constitute a “plan of reorganization” within the meaning of Treasury Regulation Section 1.368-2(g).
+(b)    The Company and Parent shall cooperate in the preparation, execution and filing of all Tax Returns, questionnaires, applications or other documents regarding any real property transfer or gains, sales, use, transfer, value-added, stock transfer and stamp taxes, and transfer, recording, registration and other fees and similar Taxes which become payable in connection with the Merger that are required or permitted to be filed on or before the Merger Effective Time.
+The Company shall pay, without reimbursement from Parent or its subsidiaries, any such Taxes or fees imposed on it by any Governmental Entity (or for which its stockholders are primarily liable), which becomes payable in connection with the Merger.
+SECTION 6.12    Consents of Accountants.
+Parent and the Company will each use all reasonable efforts to cause to be delivered to each other consents from their respective independent auditors, in form reasonably satisfactory to the recipient and customary in scope and substance for consents delivered by independent public accountants in connection with registration statements on Form S-4 under the Securities Act.
+SECTION 6.13    Nasdaq Listing.
+SECTION 6.14    Public Announcements.
+The initial press release relating to this Agreement shall be a joint press release the text of which has been agreed to by each of Parent and the Company.
+Thereafter, unless otherwise required by applicable Law or the requirements of Nasdaq, each of Parent and the Company shall each use its reasonable efforts to consult with each other before issuing any press release or otherwise making any public statements with respect to this Agreement, the Merger or any of the other Transactions.
+SECTION 6.15    Board of Directors and Officers of Parent.
+Parent shall take all such action as may be necessary to cause those persons selected by the Company after the date hereof but prior to the Merger Effective Time to be appointed, contingent upon the Merger becoming effective, to the Board of Directors of Parent, as of the Merger Effective Time, to serve until the next annual election of directors of Parent.
+Parent shall take all such action as may be necessary to cause those persons selected by the Company after the date hereof but prior to the Merger Effective Time to those positions of officers of Parent as of the Merger Effective Time, to serve in such positions effective immediately after the Closing.
+Each party shall use its reasonable efforts to assist the other party as may be necessary to prepare and file the FINRA Notifications and any responses to comments or inquiries made by FINRA with regard to the FINRA Notifications.
+SECTION 6.17    Section 16 Matters.
+Prior to the Merger Effective Time, Parent and the Company shall take all reasonable steps as may be required or permitted to cause any acquisitions of, or any other transactions relating to, the Parent Shares (including options or other derivative securities with respect to the shares of Parent) that occur or are deemed to occur by reason of or pursuant to the transactions contemplated by this Agreement by each individual who is or will be subject to the reporting requirements of Section 16(a) of the Exchange Act with respect to Parent to be exempt under Rule 16b-3 promulgated under the Exchange Act, including by taking steps in accordance with the No-Action Letter, dated January 12, 1999, issued by the SEC regarding such matters.
+SECTION 6.18    Divestiture.
+Prior to the Merger Effective Time but, in any event, subject to and after this Agreement, the Merger, the Divestiture and the Parent COI Amendment is approved and adopted by the requisite affirmative vote of the stockholders of Parent in accordance with the Proxy Statement, Parent shall divest itself of its existing business operations to another party, and shall cause such party to assume all liabilities of Parent directly related to Parent’s operations of its existing business immediately prior to the closing of such divestiture (the “Divestiture”).
+ARTICLE VII
+CONDITIONS TO THE MERGER
+SECTION 7.01    Conditions to the Obligations of Each Party.
+The obligations of the Company, Merger Sub and Parent to consummate the Merger are subject to the satisfaction or waiver (where permissible) of the following conditions:
+(a)    Registration Statement.
+The Registration Statement shall have been declared effective by the SEC under the Securities Act and no stop order suspending the effectiveness of the Registration Statement shall have been issued by the SEC and no proceeding for that purpose shall have been initiated by the SEC.
+(b)    Company Stockholder Approval.
+This Agreement shall have been approved and adopted by the requisite affirmative vote of the shareholders of the Company in accordance with the California Corporations Code and the Company’s articles of incorporation, as amended and the Company’s by-laws, as amended.
+(c)    Parent Stockholder Approval.
+The Parent Stockholders Approval Matters shall have been approved and adopted by the requisite affirmative vote of the stockholders of Parent in accordance with the Proxy Statement.
+No Governmental Authority shall have enacted, issued, promulgated, enforced or entered any law, rule, regulation, judgment, decree, executive order or award (an “Order”) which is then in effect and has the effect of making the Merger illegal or otherwise prohibiting consummation of the Merger.
+(e)    Governmental Consents.
+All consents, approvals and authorizations legally required to be obtained to consummate the Merger shall have been obtained from and made with all Governmental Authorities.
+(f)    Divestiture.
+SECTION 7.02    Conditions to the Obligations of Parent and Merger Sub.
+The obligations of each of Parent and Merger Sub to consummate the Merger are subject to the satisfaction or waiver (where permissible) of the following additional conditions:
+(a)    Representations and Warranties.
+The representations and warranties of the Company contained in this Agreement shall be true and correct in all material respects as of the Merger Effective Time, as though made on and as of the Merger Effective Time, except to the extent expressly made as of an earlier date, in which case as of such earlier date (provided, that any representation or warranty that is qualified by materiality or Company Material Adverse Effect shall be true and correct in all respects as of the Merger Effective Time, or as of such particular earlier date, as the case may be).
+(b)    Agreements and Covenants.
+The Company shall have performed or complied in all material respects with all agreements and covenants required by this Agreement to be performed or complied with by it on or prior to the Merger Effective Time.
+(d)    Third Party Consents.
+All consents from third parties under any Company Contract or other material agreement, contract, license, lease or other instrument to which the Company or any Company Subsidiary is a party or by which it is bound required as a result of the transactions contemplated by this Agreement shall have been obtained from such third parties.
+(e)    Material Adverse Effect.
+No Company Material Adverse Effect shall have occurred since the date of this Agreement
+(f)    Nasdaq Listing.
+The Company’s stockholders’ equity as of the period to be taken into consideration for purposes of the Nasdaq listing application for Parent Common Stock due to change in control resulting from the Merger shall be sufficient to cause Parent (after the Divestiture) to satisfy the Nasdaq Capital Market initial listing application standards and the shares of Parent Common Stock to be issued in the Merger shall have been approved and authorized for the listing on Nasdaq.
+(h)    Escrow Agreement.
+SECTION 7.03    Conditions to the Obligations of the Company.
+The obligations of the Company to consummate the Merger are subject to the satisfaction or waiver (where permissible) of the following additional conditions:
+(a)    Representations and Warranties.
+The representations and warranties of Parent contained in this Agreement shall be true and correct in all material respects as of the Merger Effective Time, as though made on and as of the Merger Effective Time, except to the extent expressly made as of an earlier date, in which case as of such earlier date (provided that any representation or warranty that is qualified by materiality or Parent Material Adverse Effect shall be true and correct in all respects as of the Merger Effective Time, or as of such particular earlier date, as the case may be).
+(b)    Agreements and Covenants.
+Parent shall have performed or complied in all material respects with all agreements and covenants required by this Agreement to be performed or complied with by it on or prior to the Merger Effective Time.
+(e)    Articles and By-laws.
+The Article of Incorporation of Merger Sub shall be in substantially the form attached hereto as Exhibit A and the by-laws of Merger Sub shall be in substantially the form attached hereto as Exhibit B.
+The Parent COI Amendment shall be in the form attached hereto as Exhibit F.
+(f)    Nasdaq Listing.
+The shares of Parent Common Stock to be issued in the Merger shall have been approved and authorized for the listing on Nasdaq.
+(g)    Net Cash Position.
+“Net Cash Position” means Parent’s and its subsidiaries aggregate cash and cash equivalents less accounts payable and debt (exclusive of unfunded warrant proceeds).
+(h)    Third Party Consents.
+All consents from third parties under any Parent or its subsidiary Contract or other material agreement, contract, license, lease or other instrument to which Parent or any of its subsidiaries is a party or by which it is bound required as a result of the transactions contemplated by this Agreement, including due to change in control, shall have been obtained from such third parties.
+(i)    Material Adverse Effect.
+No Parent Material Adverse Effect shall have occurred since the date of this Agreement.
+For clarity, the transactions contemplated hereunder (including, without limitation, the Divestiture, the Private Placement, the issuance of Parent Stock) and their effect on Parent shall be disregarded for purposes of determination of Parent Material Adverse Effect.
+(j)    Escrow Agreement.
+ARTICLE VIII
+(a)    by mutual written consent of Parent and the Company duly authorized by the Parent Board and the Company Board; or
+(c)    by either Parent or the Company if any Governmental Authority in the United States shall have enacted, issued, promulgated, enforced or entered any injunction, order, decree or ruling (whether temporary, preliminary or permanent) which has become final and non-appealable and has the effect of making consummation of the Merger illegal or otherwise preventing or prohibiting consummation of the Merger; or
+For purposes of this Agreement, a “Parent Triggering Event” shall be deemed to have occurred if: (i) the Parent Board withdraws, modifies or changes the Parent Recommendation in a manner adverse to the Company or shall have formally resolved to do so; (ii) the Parent Board shall have recommended to the stockholders of Parent a Competing Transaction or shall have formally resolved to do so or shall have entered into any agreement, contract or commitment accepting any Competing Transaction; (iii) Parent shall have failed to include in the Proxy Statement the recommendation of the Parent Board in favor of the approval and adoption of this Agreement and the approval of the Merger; (iv) Parent shall have intentionally breached its obligations under Section 6.04; or (v) a tender offer or exchange offer for 20% or more of the outstanding shares of capital stock of Parent is commenced, and the Parent Board fails to recommend against acceptance of such tender offer or exchange offer by its stockholders (including by taking no position with respect to the acceptance of such tender offer or exchange offer by its stockholders).
+SECTION 8.02    Effect of Termination.
+SECTION 8.03    Amendment.
+This Agreement may be amended by the parties hereto by action taken by or on behalf of their respective boards of directors at any time prior to the Merger Effective Time; provided, however, that, after the approval and adoption of this Agreement and the Transactions by the stockholders of Parent, no amendment may be made that would increase the amount or change the type of consideration into which each Company Share shall be converted upon consummation of the Merger.
+At any time prior to the Merger Effective Time, any party hereto may (a) extend the time for the performance of any obligation or other act of any other party hereto, (b) waive any inaccuracy in the representations and warranties of any other party contained herein or in any document delivered pursuant hereto and (c) waive compliance with any agreement of any other party or any condition to its own obligations contained herein.
+ARTICLE IX
+GENERAL PROVISIONS
+SECTION 9.01    Non-Survival of Representations, Warranties and Agreements.
+Net Element, Inc.
+if to the Company:
+SECTION 9.03    Certain Definitions.
+(a)    For purposes of this Agreement:
+“affiliate” of a specified person means a person who, directly or indirectly through one or more intermediaries, controls, is controlled by, or is under common control with, such specified person.
+“Anti-Bribery Laws” means the United States Foreign Corrupt Practices Act or any other similar laws, statue, rule or regulation of any country, including any anti-bribery and related prohibitions implemented under the Organization for Economic Cooperation and Development Convention on Combating Bribery of Foreign Public Officials in International Business Transactions, the Organization of American States Inter-American Convention Against Corruption, Council of Europe Criminal Law Convention on Corruption, the United Nations Convention Against Corruption, the African Union Convention on Preventing and Combating Corruption, applicable to the Companies or any of their Subsidiaries.
+“beneficial owner”, with respect to any Shares, has the meaning ascribed to such term under Rule 13d-3(a) of the Exchange Act.
+“business day” means any day on which the principal offices of the SEC in Washington, D.C. are open to accept filings, or, in the case of determining a date when any payment is due, any day on which banks are not required or authorized to close in New York, New York.
+“Company Series A Preferred Stock” means the shares of Series A Preferred Stock, par value $0.001 per share, of the Company.
+“Company Series B Preferred Stock” means the shares of Series B Preferred Stock, par value $0.001 per share, of the Company.
+“Company Common Stock” means the shares of common stock, par value $0.001 per share, of the Company.
+“Company Material Adverse Effect” means any event, circumstance, change or effect that, individually or in the aggregate with all other events, circumstances, changes and effects, is or is reasonably likely to be materially adverse to (i) the business, condition (financial or otherwise), assets, liabilities or results of operations of the Company and the Company Subsidiaries taken as a whole or (ii) the ability of the Company to consummate the transactions contemplated by this Agreement; provided, however, that clause (i) shall not include any event, circumstance, change or effect resulting from (x) changes in general economic conditions (including, without limitation, interest rates generally) or changes in securities markets in general that do not have a materially disproportionate effect (relative to other industry participants) on the Company or the Company Subsidiaries, (y) general changes in the industries in which the Company and the Company Subsidiaries operate, except those events, circumstances, changes or effects that adversely affect the Company and its subsidiaries to a materially greater extent than they affect other entities operating in such industries, (z) the public announcement or pendency of the transactions contemplated hereby or the Company’s or the Company Subsidiaries’ compliance with the terms and conditions of this Agreement or actions taken or not taken by the Company or the Company Subsidiaries upon the request of the other party to this Agreement, (xx) changes in Laws, or (yy) changes in GAAP of general applicability or generally applicable to the Company’s or Company Subsidiaries’ industry segment.
+“control” (including the terms “controlled by” and “under common control with”) means the possession, directly or indirectly, or as trustee or executor, of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of voting securities, as trustee or executor, by contract or credit arrangement or otherwise.
+“Environmental Laws” means any United States federal, state or local or non-United States laws relating to (i) releases or threatened releases of Hazardous Substances or materials containing Hazardous Substances; (ii) the manufacture, handling, transport, use, treatment, storage or disposal of Hazardous Substances or materials containing Hazardous Substances; or (iii) pollution or protection of the environment, health, safety or natural resources.
+“Hazardous Substances” means (i) those substances defined in or regulated under the following United States federal statutes and their state counterparts, as each may be amended from time to time, and all regulations thereunder: the Hazardous Materials Transportation Act, the Resource Conservation and Recovery Act, the Comprehensive Environmental Response, Compensation and Liability Act, the Clean Water Act, the Safe Drinking Water Act, the Atomic Energy Act, the Federal Insecticide, Fungicide, and Rodenticide Act and the Clean Air Act; (ii) petroleum and petroleum products, including crude oil and any fractions thereof; (iii) natural gas, synthetic gas, and any mixtures thereof; (iv) polychlorinated biphenyls, asbestos and radon; (v) any other contaminant; and (vi) any substance, material or waste regulated by any Governmental Authority pursuant to any Environmental Law.
+“Intellectual Property” means (i) patents, patent applications and statutory invention registrations, (ii) trademarks and service marks, trade dress, logos, trade names, corporate names and other source identifiers (all of the foregoing whether or not registered), and registrations and applications for registration thereof, (iii) copyrights and registrations and applications for registration thereof, copyrightable works of authorship in any medium (whether or not registered), including without limitation writings of any kind, printed or graphic matter (including all preparatory materials such as sketches, drafts, outtakes, outlines and drawings), scripts, films, audio, video, or audiovisual recordings in any medium, artwork and designs in any medium, computer source code and object code and related documentation, photographs in any medium, and musical compositions and recordings;, and (iv) confidential and proprietary information, including trade secrets and know-how; and all other intellectual property or proprietary rights of any kind or description.
+“Knowledge of the Company”, “to the Company’s Knowledge” and phrases of similar import mean the actual knowledge of David Michery, and Jerry Alban.
+“Knowledge of Parent”, “to Parent’s Knowledge” and phrases of similar import mean the actual knowledge of Oleg Firer.
+“Parent Common Stock” means the shares of common stock, par value $0.0001 per share, of Parent.
+“Parent Material Adverse Effect” means any event, circumstance, change or effect that, individually or in the aggregate with all other events, circumstances, changes and effects, is or is reasonably likely to be materially adverse to (i) the business, condition (financial or otherwise), assets, liabilities or results of operations of Parent and its subsidiaries taken as a whole or (ii) the ability of Parent to consummate the transactions contemplated by this Agreement; provided, however, that clause (i) shall not include any event, circumstance, change or effect resulting from (x) changes in general economic conditions (including, without limitation, interest rates generally) or changes in securities markets in general that do not have a materially disproportionate effect (relative to other industry participants) on Parent and its subsidiaries, (y) general changes in the industries in which Parent and its subsidiaries operate, except those events, circumstances, changes or effects that adversely affect Parent and its subsidiaries to a materially greater extent than they affect other entities operating in such industries, (z) the public announcement or pendency of the transactions contemplated hereby or the Parent’s or its subsidiaries’ compliance with the terms and conditions of this Agreement or actions taken or not taken by Parent or its subsidiaries upon the request of the other party to this Agreement, (xx) changes in Laws, or (yy) changes in GAAP of general applicability or generally applicable to Parent’s or its subsidiaries’ industry segment.
+“person” means an individual, corporation, partnership, limited partnership, limited liability company, syndicate, person (including, without limitation, a “person” as defined in Section 13(d)(3) of the Exchange Act), trust, association or entity or government, political subdivision, agency or instrumentality of a government.
+“subsidiary” or “subsidiaries” of the Company, the Surviving Corporation, Parent or any other person means an affiliate controlled by such person, directly or indirectly, through one or more intermediaries.
+“Tax” (including, with correlative meaning, the term “Taxes,”) means all federal, state, local and foreign income, profits, franchise, gross receipts, environmental, capital stock, severances, stamp, payroll, sales, employment, unemployment, disability, use, property, withholding, excise, production, value added, occupancy and other taxes, duties or assessments of any nature whatsoever, together with all interest, penalties and additions imposed with respect to such amounts and any interest in respect of such penalties and additions.
+“Tax Return” means all returns and reports (including elections, declarations, disclosures, schedules, estimates and information returns, as well as attachments thereto and amendments thereof) required to be supplied to a Governmental Authority relating to Taxes.
+(b)    The following terms have the meaning set forth in the Sections set forth below:
+Defined Term
+Location of Definition
+2020 Company Balance Sheet
+2020 Parent Balance Sheet
+§ 4.07(c)
+Action
+§ 3.09
+Additional Parent SEC Reports
+§ 4.07(a)
+Agreement
+Preamble
+§ 1.02(a)
+Benchmark Gross Revenue
+§ 2.07
+Blue Sky Laws
+§ 3.05(b)
+Certificates
+§ 2.02(b)
+Change in Parent Recommendation
+§ 6.04(c)
+Closing
+§ 1.02(b)
+Code
+Recitals
+Company
+Preamble
+Company Affiliate
+§ 6.09
+Company Board
+Recitals
+Company Break Up Fee
+§ 6.05(b)
+Company Disclosure Schedule
+Article III
+Company Licensed Intellectual Property
+Company Owned Intellectual Property
+Company Permits
+§ 3.06
+Company Shares
+§ 2.01(a)
+Company Software
+§ 3.13(k)
+Company Stock Awards
+§ 3.03(a)
+Company Stock Options
+§ 2.04(a)
+Company Subsidiary
+§ 3.01(a)
+Company Warrants
+§ 2.04(a)
+Competing Transaction
+§ 6.04(d)
+Confidentiality Agreement
+§ 6.03(b)
+Conversion Agreement
+§ 2.04(a)
+California Corporations Code
+Recitals
+Dissenting Shares
+§ 2.05(a)
+Dissenting Stockholder
+§ 3.15
+Divestiture
+§ 6.24
+Drawbridge Convertible Note
+§ 3.03(a)
+Environmental Permits
+§ 3.15
+ERISA
+§ 3.10(a)
+ERISA Affiliate
+Escrow Shares
+§ 3.07(a)
+Exchange Act
+§ 2.04(c)
+§ 2.02(a)
+Exchange Fund
+§ 2.02(a)
+Expenses
+§ 6.05
+FINRA
+§ 6.17
+FINRA Notifications
+§ 6.17
+Fixed Conversion Securities
+§ 2.04(a)
+Free Software
+§ 3.13(k)
+GAAP
+Governmental Authority
+§ 3.05(b)
+IRS
+§ 3.10(b)
+Law
+§ 3.05(a)
+Material Contracts
+§ 3.16(a)
+Merger
+Recitals
+Merger Sub Board
+Preamble
+Merger Sub
+Preamble
+Merger Effective Time
+§ 1.02(a)
+Mullen Divestiture
+Preamble
+Multiemployer Plan
+Nasdaq
+§ 4.05
+Net Cash Position
+§ 7.03(h)
+Notice of Superior Proposal
+§ 6.04(c)
+Officers Nominees
+§ 1.04(d)
+Open Source Software
+§ 3.13(k)
+Parent
+Preamble
+Parent Board
+Recitals
+§ 6.05(b)
+Parent Certifications
+§ 4.07(g)
+Parent COI Amendment
+§ 1.04(c)
+Parent Disclosure Schedule
+Article IV
+Parent Preferred Stock
+§ 4.03(a)
+Parent Permits
+§ 4.06
+Parent Representative
+Schedule B
+Parent Series A Preferred Stock
+§ 1.04(c)
+Parent Series B Preferred Stock
+§ 1.04(c)
+Parent Recommendation
+§ 6.01(b)
+Parent SEC Reports
+§ 4.07(a)
+Parent Shares
+§ 2.01(a)
+Parent Stockholders Approval Matters
+Recitals
+Parent Stockholders’ Meeting
+§ 6.01(a)
+Parent Triggering Event
+§ 8.01
+Plans
+§ 3.10(a)
+Private Placement
+§ 2.01(e)
+Proposal
+§ 6.04(b)
+Proprietary Software
+§ 3.13(k)
+Proxy Statement
+§ 6.01(a)
+Registration Statement
+§ 6.01(a)
+Representatives
+§ 6.03(a)
+SEC
+§ 1.05
+Securities Act
+§ 2.06
+Special Committee
+Recitals
+Superior Proposal
+§ 6.04(e)
+Surviving Corporation
+§ 1.01
+§ 8.01(f)
+§ 8.01(h)
+§ 8.02(b)
+Transactions
+§ 3.01(a)
+Underlying Parent Common Shares
+§ 2.04(a)
+Unvested Securities
+§ 2.04(a)
+Voting Agreement
+Recitals
+SECTION 9.04    Severability.
+If any term or other provision of this Agreement is invalid, illegal or incapable of being enforced by any rule of law, or public policy, all other conditions and provisions of this Agreement shall nevertheless remain in full force and effect so long as the economic or legal substance of the Transactions is not affected in any manner materially adverse to any party.
+Upon such determination that any term or other provision is invalid, illegal or incapable of being enforced, the parties hereto shall negotiate in good faith to modify this Agreement so as to effect the original intent of the parties as closely as possible in a mutually acceptable manner in order that the Transactions be consummated as originally contemplated to the fullest extent possible.
+SECTION 9.05    Entire Agreement; Assignment.
+This Agreement constitutes the entire agreement among the parties with respect to the subject matter hereof and supersede, except as set forth in Section 6.03(b), all prior agreements and undertakings, both written and oral, among the parties, or any of them, with respect to the subject matter hereof.
+This Agreement shall not be assigned (whether pursuant to a merger, by operation of law or otherwise).
+SECTION 9.06    Parties in Interest.
+This Agreement shall be binding upon and inure solely to the benefit of each party hereto, and nothing in this Agreement, express or implied, is intended to or shall confer upon any other person any right, benefit or remedy of any nature whatsoever under or by reason of this Agreement, other than Section 6.07 (which is intended to be for the benefit of the persons covered thereby and may be enforced by such persons).
+SECTION 9.07    Governing Law.
+This Agreement shall be governed by, and construed in accordance with, the laws of the State of Delaware applicable to contracts executed in and to be performed in that State.
+All actions and proceedings arising out of or relating to this Agreement shall be heard and determined exclusively in any Delaware Chancery Court.
+The parties hereto hereby (a) submit to the exclusive jurisdiction of the Delaware Chancery Court for the purpose of any Action arising out of or relating to this Agreement brought by any party hereto, and (b) irrevocably waive, and agree not to assert by way of motion, defense, or otherwise, in any such Action, any claim that it is not subject personally to the jurisdiction of the above-named courts, that its property is exempt or immune from attachment or execution, that the Action is brought in an inconvenient forum, that the venue of the Action is improper, or that this Agreement or the Transactions may not be enforced in or by any of the above-named courts.
+Each of the parties hereto hereby waives to the fullest extent permitted by applicable law any right it may have to a trial by jury with respect to any litigation directly or indirectly arising out of, under or in connection with this Agreement or the Transactions.
+Each of the parties hereto (a) certifies that no representative, agent or attorney of any other party has represented, expressly or otherwise, that such other party would not, in the event of litigation, seek to enforce that foregoing waiver and (b) acknowledges that it and the other hereto have been induced to enter into this Agreement and the Transactions, as applicable, by, among other things, the mutual waivers and certifications in this Section 9.08.
+SECTION 9.09    Headings.
+The descriptive headings contained in this Agreement are included for convenience of reference only and shall not affect in any way the meaning or interpretation of this Agreement.
+SECTION 9.10    Counterparts.
+IN WITNESS WHEREOF, Parent, Merger Sub and the Company have caused this Agreement to be executed as of the date first written above by their respective officers thereunto duly authorized.
+Name: David Michery
+Title: Chief Executive Officer
+Name: David Michery
+Title: Chief Executive Officer
+NET ELEMENT, INC.
+Name: Oleg Firer
+Title: Chief Executive Officer
+Name: Oleg Firer
+Title: President
+EXHIBIT A
+Articles of Incorporation of Merger Sub
+EXHIBIT B
+Bylaws of Merger Sub
+EXHIBIT C
+Form of Affiliate Letter for Affiliates of the Company
+EXHIBIT D
+Form of Voting Agreement and List of Persons to Execute Voting Agreement
+EXHIBIT E
+Form of Agreement of Merger to be Filed Pursuant to the California Corporations Code
+EXHIBIT F
+Form of Parent COI Amendment
+SCHEDULE A
+Initial Parent Shares
+Notes issued further to the Pre-Merger Issuance are referred to herein as the “Additional Investor Notes” and warrants issued further to the Pre-Merger Issuance are referred to herein as the “Additional Noteholder Warrants.” The sum of the number of shares of Company Common Stock issuable upon full conversion of Series C Preferred Stock issuable further to the Pre-Merger Issuance and upon full conversion of the Current Investor Notes and the Additional Investor Notes is referred to herein as the “Investor Conversion Shares” (44,732,441 shares), the sum of the number of shares of Company Common Stock issuable upon full exercise of warrants issued further to the Pre-Merger Issuance, the Current Noteholder Warrants and sum of the Additional Noteholder Warrants is referred to herein as the “Warrant Shares” and the warrants issued further to the Pre-Merger Issuance, the Current Noteholder Warrants and the Additional Noteholder Warrants is referred to herein as the “Investor Warrants” (116,892,615 warrants).
+The shares of Parent  Common Stock issuable upon exercise of the Investor Warrants immediately after the Merger Effective Time shall represent the same percentage of shares of Parent Common Stock on a fully diluted and fully converted basis (but excluding shares of Parent Common Stock outstanding) pursuant to the Merger, in each case based on ownership of Parent Common Stock outstanding immediately prior to the Merger) as the percentage of Company Common Stock issuable upon full exercise of the Investor Warrants is of the outstanding Company Common Stock on a fully diluted and fully converted basis immediately prior to the Merger (including conversion of the Drawbridge Note, the Current Investor Notes and the Additional Investor Notes and exercise of the Investor Warrants); in connection with the foregoing, there shall be a corresponding adjustment to the conversion price of the Mullen Series C Preferred and the exercise price of the Investor Warrants.
+The holders of the Company Common Stock, Company Series C Preferred Stock  and Company Series A Preferred Stock shall be entitled in the aggregate to that percentage of the Post Merger Capitalization remaining after deducting (i) the percentage allocation to the Parent Pre-Merger Stockholders set forth in Section 2.01, (ii) the Series B Percentage, (iii) the Investor Warrant Percentage and (iii) that percentage of the Post Merger Capitalization represented by the Drawbridge Conversion Shares (the “Drawbridge Conversion Percentage”) - such remaining percentage being referred to as the “Remainder Percentage” -- and the shares of Parent Common Stock immediately after the Merger Effective Time represented by such Remainder Percentage, the “Remainder Shares.”  As a share of the Remainder Percentage, the holders of the Company Common Stock, Company Series C Preferred Stock and Series A Preferred Stock shall be entitled to those holders’ respective percentage ownership of the Company’s outstanding common stock on a fully converted basis immediately prior to the Merger Effective Time, excluding the Company’s Series B Preferred Stock and the Investor Warrants.
+As such, the holders of the Company Common Stock will be issued in the aggregate that number of shares of Parent Common Stock equal to that entitled percentage of the Remainder Shares, the holders of the Company’s Series C Preferred Stock will be issued in the aggregate that number of shares of Parent Series C Preferred Stock which converts into that number of shares of Parent Common Stock equal to that entitled percentage of the Remainder Shares and the holders of the Company’s Series A Preferred Stock will be issued in the aggregate that number of shares of Parent Series A Preferred Stock which converts into that number of shares of Parent Common Stock equal to that entitled percentage of the Remainder Shares.
+As the holders of the Investor Warrants are exercisable for approximately 25.8% of the Company’s outstanding common stock on a fully converted and fully diluted basis immediately prior to the Merger Effective Time, the holders of the Investor Warrants will be issued newly issued Parent warrants exercisable for 19,335,582 shares of Parent Common Stock.
+Assuming no variance in these numbers of shares as of the Merger Effective Time, holders of the Company Common Stock, Series C Preferred Stock and Series A Preferred Stock would own approximately 25.8%, 17% and 57.1%, respectively, of the Remainder Percentage.
+In such a case, the number of Investor Warrants would substantially increase and the number of shares of Series C Preferred Stock would also increase.
+In such a case, those allocations set forth in the above paragraph would materially change such that a larger percentage of the Post-Merger Sum would be allocated to the holders of Investor Warrants and a far lesser sum allocated to holders of Common Stock and Series A Preferred Stock.
+For the avoidance of doubt, the aggregate number of Underlying Parent Common Shares issuable pursuant to the Merger plus the Escrow Shares shall constitute 85% of the total number of issued and outstanding shares of Parent common stock on a fully-diluted and converted basis immediately after the Merger Effective Time  (with the Parent Pre-Merger Stockholders to own 15% of the total number of issued and outstanding shares of Parent Common Stock on a fully-diluted and converted basis immediately after the Merger Effective Time) – such 15% figure is subject to upward adjustment (with a corresponding downward adjustment in such 85% figure) pursuant to Section 2.01(e) of the Merger Agreement.
+Parent and the Company may agree that Parent may raise additional capital beyond the Net Cash Position.
+In such event, the Company and its shareholders shall solely absorb all of the dilution from such additional capital raise beyond the Net Cash Position for purposes of allocating ownership between the Parent Pre-Merger Stockholders, on the one hand, and all other parties, on the other hand.
+SCHEDULE B
+Escrow Arrangement
+“Distributees” shall mean the holders of the Company’s common stock, Series C Preferred Stock and Series A Preferred Stock as of the Merger Effective Time pro rata in proportion to each of their percentage holdings of the Company on a fully converted basis and fully diluted (excluding the Series B Preferred Stock, the Drawbridge Conversion Shares and Investor Warrants) as of the Closing Date as more fully set forth in Schedule A of the Merger Agreement (each of such pro rata percentage is referred to in this Schedule B as the “Common Stock Percentage”, “Series C Percentage” and Series A Percentage”, respectively).
+SCHEDULE C
+Assets Assigned and Transferred to the Company and Labilities assumed by the Company pursuant to Mullen Divestiture
+Account
+EV Adjusted
+FSLI
+Cash and cash equivalents
+Cash and cash equivalents
+Cash and cash equivalents
+Cash and cash equivalents
+Cash and cash equivalents
+Cash and cash equivalents
+Cash and cash equivalents
+Cash and cash equivalents
+Cash and cash equivalents
+Cash and cash equivalents
+Cash and cash equivalents
+Cash and cash equivalents
+Cash and cash equivalents
+Cash and cash equivalents
+Cash and cash equivalents
+12.52
+Cash and cash equivalents
+12000 · Inventories:12015 · Coda Agreement - Cars
+Other assets
+12000 · Inventories:12020 · Exim USA
+Inventory
+12000 · Inventories:12020 · Exim USA:12020.1 · Exim Battery Impairment
+Inventory
+12000 · Inventories:12045 · Parts
+Other assets
+12000 · Inventories:12045 · Parts:12045.5 · Codacar Accumulated Impairment
+Other assets
+Deferred advertising
+Other current assets
+14015 · Prepaid Services
+Other assets
+14031 · Due from PCH
+Other current assets
+14046 · Notes Receivable-Clovis Auto
+Other assets
+Other assets
+15000 · Office Furniture & Equipment
+Property and equipment, net
+Accumulated Depreciation
+16000 · Battery Production - Codacar
+Property and equipment, net
+Accumulated Depreciation
+16001 · Battery Towers, Equip and Tools
+Property and equipment, net
+16001 · Battery Towers, Equip and Tools:16002 · Accumulated Depreciation
+Accumulated Depreciation
+16003 · Brea Manufacturing Assets- Coda
+Property and equipment, net
+16003 · Brea Manufacturing Assets- Coda:16003.1 · Brea Manufacturing Acc Dep
+Accumulated Depreciation
+160060 · Computer Hardware
+Property and equipment, net
+160060 · Computer Hardware:160061 · Accumulated Depreciation
+Accumulated Depreciation
+160062 · Computer Software
+Property and equipment, net
+160062 · Computer Software:160063 · Accumulated Depreciation
+Accumulated Depreciation
+16008 · Dspace Simulator
+Property and equipment, net
+16008 · Dspace Simulator:16009 · Accumulated Depreciation
+Accumulated Depreciation
+16013 · Shop Machinery & Equipment
+Property and equipment, net
+Accumulated Depreciation
+16013 · Shop Machinery & Equipment:16016 · MMS M-11
+Property and equipment, net
+Other assets
+Other assets
+Other assets
+Other assets
+16015 · Vehicle
+Property and equipment, net
+16015 · Vehicle:160150 · Accumulated Depreciation
+Accumulated Depreciation
+16100 · Leasehold Improvement
+Property and equipment, net
+Accumulated Depreciation
+16103 · Properties-Building,Land,Commis:161030 · Accumulated Depreciation
+Accumulated Depreciation
+16103 · Properties-Building,Land,Commis:161031 · Property-2601 Land
+Property and equipment, net
+16103 · Properties-Building,Land,Commis:161032 · Property-2601Building
+Property and equipment, net
+16103 · Properties-Building,Land,Commis:161033 · Property-Real Estate Commission
+Property and equipment, net
+Property and equipment, net
+16104 · MMS Transaction - Stock:161040 · Accumulated Deprecation
+Accumulated depreciation
+Property and equipment, net
+Other current assets
+14012 Right of use asset
+ROU assets
+Other assets
+Other assets
+Other assets
+Other assets
+Other assets
+Other assets
+Other assets
+14100 · Intangible Assets:14150 · Website Intangible
+Intangibles, net
+14100 · Intangible Assets:141501 Accumulated Amortiz · Website Intangible
+Intangibles, net
+Other assets
+Accrued expenses and other current liabilities
+21004 · Lease Liability ST
+Lease liabilities, current portion
+21009 · Deferred Rent Liability
+Accrued expenses and other current liabilities
+21010 · Accrued Other
+Accrued expenses and other current liabilities
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+210410
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+210460
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+101,317.29
+Notes payable
+Notes payable
+101,317.29
+Notes payable
+Notes payable
+1.6.20
+Notes payable
+Accrued expenses and other current liabilities
+Accrued expenses and other current liabilities
+Accrued expenses and other current liabilities
+Accrued expenses and other current liabilities
+Accrued expenses and other current liabilities
+Accrued expenses and other current liabilities
+Accrued expenses and other current liabilities
+Accrued expenses and other current liabilities
+Accrued expenses and other current liabilities
+Liability for future issuance of stock
+2400012 · Employee Wage Garnishment
+Accrued expenses and other current liabilities
+Accrued expenses and other current liabilities
+Notes payable
+Notes payable
+Notes payable
+Lease liabilities, net of current portion
+Notes payable
+Accrued expenses and other current liabilities
+Notes payable
+Notes payable
+Notes payable
+27000 · Long Term Liabilities:2700004 · Loan- Advanced Powder Solutions
+Notes payable
+Notes payable
+27000 · Long Term Liabilities:2700010 · Loan  - 2601 Partners LLC
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+Notes payable
+27000 · Long Term Liabilities:2700030 · IBM Licensing & Research Agmt
+Other liabilities
+Total Liabilities

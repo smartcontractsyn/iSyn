@@ -1,0 +1,39 @@
+{
+    "BuyerName": [
+        "METROSPACES"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "EffectiveTime": [
+        "May 4, 2021,"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "METROSPACES"
+            ],
+            "PurchasePrice": "50000.0",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "To": [
+                "GOOD HEMP INC."
+            ],
+            "Transfer": true
+        }
+    ],
+    "SellerName": [
+        "GOOD HEMP INC."
+    ],
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    },
+    "Transfers": true
+}

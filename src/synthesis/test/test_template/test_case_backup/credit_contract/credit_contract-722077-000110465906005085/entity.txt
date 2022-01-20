@@ -1,0 +1,108 @@
+CREDIT AGREEMENT
+AMC ENTERTAINMENT INC.
+GRUPO CINEMEX, S.A. DE C.V.
+and
+CADENA MEXICANA DE EXHIBICIÓN, S.A. DE C.V.
+as Borrowers
+THE LENDERS AND ISSUERS PARTY HERETO
+CITICORP NORTH AMERICA, INC.
+as Administrative Agent
+BANCO NACIONAL DE MEXICO, S.A., INTEGRANTE
+DEL GRUPO FINANCIERO BANAMEX
+as Mexican Facility Agent
+J.P. MORGAN SECURITIES INC.
+as Syndication Agent
+CREDIT SUISSE SECURITIES (USA) LLC
+BANK OF AMERICA, N.A.
+GENERAL ELECTRIC CAPITAL CORPORATION
+as Co-Documentation Agents
+J.P. MORGAN SECURITIES INC.
+Joint Book Managers and Joint Lead Arrangers
+WEIL, GOTSHAL & MANGES LLP
+767 FIFTH AVENUE
+NEW YORK, NEW YORK  10153-0119
+DEFINITIONS, INTERPRETATION AND ACCOUNTING TERMS
+FINANCIAL COVENANT
+CREDIT AGREEMENT, dated as of January 26, 2006, among AMC ENTERTAINMENT INC., a Delaware corporation (the “Company”), GRUPO CINEMEX, S.A. DE C.V., a corporation organized under the laws of Mexico (“Grupo Cinemex”), CADENA MEXICANA DE EXHIBICIÓN, S.A. DE C.V., a corporation organized under the laws of Mexico (“Cadena” and, together with Grupo Cinemex, the “Mexican Borrowers”), the Lenders and the Issuers, CITICORP NORTH AMERICA, INC. (“Citicorp”), as agent for the Lenders and the Issuers and as agent for the Secured Parties under the Collateral Documents (in such capacity, the “Administrative Agent”), and BANCO NACIONAL DE MEXICO, S.A., INTEGRANTE DEL GRUPO FINANCIERO BANAMEX (“Banamex”), as agent for the Lenders under the Mexican Facility (in such capacity, the “Mexican Facility Agent”).
+NET SENIOR SECURED LEVERAGE
+RATIO
+NET SENIOR SECURED LEVERAGE RATIO
+“Apollo” means Apollo Management V, L.P., a Delaware limited partnership.
+“Apollo Group” means (i) Apollo; (ii) the Apollo Holders; and (iii) any Affiliate of Apollo (including the Apollo Holders).
+“Apollo Holders” means (i) Apollo Investment Fund V, L.P. (“AIF V”), Apollo Overseas Partners V, LP.
+(“AOP V”), Apollo Netherlands Partners V (A), L.P. (“Apollo Netherlands A”), Apollo Netherlands Partners V (B), L.P. (“Apollo Netherlands B”), and Apollo German Partners V GmbH & Co KG (“Apollo German Partners”) and (ii) any other partnership or entity affiliated with and managed by Apollo or its Affiliates to which AIF V, AOP V, Apollo Netherlands A, Apollo Netherlands B or Apollo German Partners assigns any of their respective interests in the Company.
+“Arrangers” means Citigroup Global Markets Inc. and J.P. Morgan Securities Inc., in their capacities as joint book managers and joint lead arrangers.
+“Bain Capital Group” means (i) Bain Capital Holdings (Loews) I, L.P., (ii) Bain Capital AIV (Loews) II, L.P. and (iii) any Affiliates of Bain Capital Holdings (Loews) I, L.P. and Bain Capital AIV (Loews) II, L.P.
+“Carlyle Group” means (i) TC Group, L.L.C., (ii) Carlyle Partners III Loews, L.P., (iii) CP II Coinvestment, L.P. and (iv) any Affiliates of TC Group, L.L.C., Carlyle Partners III Loews, L.P. and CP II Coinvestment, L.P.
+“Citibank” means Citibank, N.A., a national banking association.
+“Co-Documentation Agents” means Credit Suisse Securities (USA) LLC, Bank of America, N.A.
+“Co-Investors” means Weston Presidio Capital IV, L.P., WPC Entrepreneur Fund II, L.P., SSB Capital Partners (Master Fund) I, L.P., Caisse de Depot et Placement du Quebec, Co-Investment Partners, L.P., CSFB Strategic Partners Holdings II, L.P., CSFB Strategic Partners Parallel Holdings II, L.P., CSFB Credit Opportunities Fund (Employee), L.P., CSFB Credit Opportunities Fund (Helios), L.P., Credit Suisse Anlagestiftung, Pearl Holding Limited, Partners Group Private Equity Performance Holding Limited, Vega Invest (Guernsey) Limited, Alpinvest Partners CS Investments 2003 C.V., Alpinvest Partners Later Stage Co-Investments Custodian II B.V., Alpinvest Partners Later Stage Co-Investments Custodian IIA B.V. and Screen Investors 2004, LLC and their respective Affiliates.
+“Existing Loews Credit Agreement” means that certain Credit Agreement, dated as of July 30, 2004 and as amended, supplemented or otherwise modified from time to time, among the Loews Cineplex Entertainment Corporation, Grupo Cinemex and Cadena, LCE Holdco LLC, the institutions party thereto as lenders and issuing banks and Citicorp, as administrative agent.
+“Fee Letter” means the Fee Letter, dated June 20, 2005, addressed to the Company from the Arrangers and Credit Suisse, Cayman Islands Branch, and accepted by the Company on June 20, 2005, with respect to certain fees to be paid from time to time to the Arrangers and Credit Suisse, Cayman Islands Branch.
+“Foreign Pledge Agreements” means, collectively, (i) the Pledge Agreement to be entered into between LCE Mexican Holdings, Inc. and the Administrative Agent with respect to the Stock of Symphony Subsisting Vehicle, S. de R.L.
+de C.V. and (ii) the Pledge Agreement to be entered into among LCE Acquisition Sub, Inc., the Administrative Agent and LCE Lux Holdco S.a r.l.
+“Holdings” means Marquee Holdings Inc., a Delaware corporation.
+“HSBC” means HSBC Bank USA, National Association.
+Morgan Partners Group” means (i) J.P. Morgan Partners, LLC and (ii) any Affiliates of J.P. Morgan Partners, LLC.
+“Loews” means Loews Cineplex Entertainment Corporation, a Delaware corporation.
+“Loews Holdings” means LCE Holdings Inc., a Delaware corporation.
+“Merger Agreement” means the Agreement and Plan of Merger, dated as of June 20, 2005, between Holdings and Loews Holdings.
+“Moody’s” means Moody’s Investors Service, Inc.
+“Prior Transactions” means, collectively, (i) the acquisition of the Company by Holdings, a company formed by the J.P. Morgan Partners Group, the Apollo Group and certain other co-investors, in December 2004 and (ii) the acquisition of Loews by Loews Holdings, a company formed by the Bain Capital Group, the Carlyle Group and the Spectrum Group, in July 2004.
+“Senior Note Indentures” means the 2010 Senior Note Indenture, the 2012 Senior Note Indenture and the Holdings Senior Note Indenture.
+“Spectrum Group” means (i) Spectrum Equity Investors IV, L.P., (ii) Spectrum Equity Investors Parallel IV, L.P., (iii) Spectrum IV Investment Managers’ Fund, L.P. and (iv) any Affiliates of Spectrum Equity Investors IV, L.P., Spectrum Equity Investors Parallel IV, L.P. and Spectrum IV Investment Managers’ Fund, L.P.
+“Sponsor Management Agreement” means the Amended and Restated Fee Agreement, dated as of January 26, 2006, by and among Holdings, the Company, J.P. Morgan Partners (BHCA), L.P., Apollo Management V, L.P. and certain of its affiliates, Bain Capital Partners, LLC, TC Group, L.L.C.
+“Subordinated Note Indentures” means the 2011 Subordinated Note Indenture, the 2012 Subordinated Note Indenture, the 2014 Subordinated Note Indenture and the New Subordinated Note Indenture.
+“Syndication Agent” means J.P. Morgan Securities Inc.
+“2010 Senior Note Indenture” means the Indenture, dated as of August 18, 2004, pursuant to which the 2010 Senior Notes were issued between the Company (as successor to Marquee Inc.) and HSBC, as the initial trustee.
+“2012 Senior Note Indenture” means the Indenture, dated as of August 18, 2004, pursuant to which the 2012 Senior Notes were issued between the Company (as successor to Marquee Inc.) and HSBC, as the initial trustee.
+(f)            The terms “Lender,” “Issuer,” “Administrative Agent” and “Mexican Facility Agent” include, without limitation, their respective successors.
+(a)           transactions among (i) the Loan Parties or (ii) Grupo Cinemex and its Subsidiaries;
+(c)                                  THE APPROVED ELECTRONIC PLATFORM AND THE APPROVED ELECTRONIC COMMUNICATIONS ARE PROVIDED “AS IS” AND “AS AVAILABLE”.
+NONE OF THE AGENTS OR ANY OF ITS AFFILIATES OR ANY OF THEIR RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, ADVISORS OR REPRESENTATIVES (THE “AGENT AFFILIATES”) WARRANT THE ACCURACY, ADEQUACY OR COMPLETENESS OF THE APPROVED ELECTRONIC COMMUNICATIONS OR THE APPROVED ELECTRONIC PLATFORM AND EACH EXPRESSLY DISCLAIMS LIABILITY FOR ERRORS OR OMISSIONS IN THE APPROVED ELECTRONIC PLATFORM AND THE APPROVED ELECTRONIC COMMUNICATIONS.
+AMC ENTERTAINMENT INC.
+920 Main Street
+Kansas City, MO 64105
+Attention: General Counsel
+Telecopy no: (816) 480-4700
+E-Mail Address: kconnor@amctheatres.com
+GRUPO CINEMEX, S.A. DE C.V.
+11000, México, D.F.
+Attention:  Miguel Angel Dávila Guzmán
+AMC ENTERTAINMENT INC.
+920 Main Street
+Kansas City, MO 64105
+Attention:  General Counsel
+Telecopy no:  (816) 480-4700
+E-Mail Address: kconnor@amctheatres.com
+CITICORP NORTH AMERICA, INC.
+390 Greenwich Street
+New York, New York 10013
+Attention:  Rob Ziemer
+Telecopy no:  (646) 291-1655
+E-Mail Address:  rob.ziemer@citigroup.com
+CITICORP NORTH AMERICA, INC.
+New Castle, Delaware 19720
+BANCO NACIONAL DE MEXICO, S.A., INTEGRANTE
+DEL GRUPO FINANCIERO BANAMEX
+Act.
+EACH OF THE AGENTS, THE LENDERS, THE ISSUERS AND THE BORROWERS IRREVOCABLY WAIVES TRIAL BY JURY IN ANY ACTION OR PROCEEDING WITH RESPECT TO THIS AGREEMENT OR ANY OTHER LOAN DOCUMENT.
+AMC ENTERTAINMENT INC.,
+GRUPO CINEMEX, S.A. DE C.V.,
+CADENA MEXICANA DE EXHIBICIÓN,
+S.A. DE C.V.,
+[SIGNATURE PAGE TO AMC ENTERTAINMENT INC. CREDIT AGREEMENT]
+CITICORP NORTH AMERICA, INC.,
+BANCO NACIONAL DE MEXICO, S.A.,
+INTEGRANTE DEL GRUPO FINANCIERO
+BANAMEX,
+as Mexican Facility Agent, Peso Swing Lender
+and Mexican Lender
+J.P. MORGAN SECURITIES INC.,
+CHASE LINCOLN FIRST COMMERCIAL
+CORPORATION,
+CREDIT SUISSE SECURITIES (USA) LLC,
+CREDIT SUISSE, CAYMAN ISLANDS
+BRANCH,
+BANK OF AMERICA, N.A.,
+THE BANK OF NOVA SCOTIA,

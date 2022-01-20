@@ -1,0 +1,983 @@
+2.5
+Payments and Computations
+2.10
+3.5
+Payment of Amounts Drawn Under Letters of Credit
+Payment by Revolving Credit Lenders
+Interest on Eurodollar Rate Loans
+10.2
+10.3
+10.5
+11.5
+Maximum Rate
+12.5
+WHEREAS, the Borrower has requested the Lenders to make available to the Borrower a revolving line of credit for loans and letters of credit in an original maximum amount of $500,000,000 and a term loan in an amount not to exceed $150,000,000, which extensions of credit the Borrower will use to refinance existing indebtedness and for its working capital and general corporate needs;
+In the event that on any such Delivery Date, the product of (x) 85% multiplied by (y) the Orderly Liquidation Value on such date (for the purposes of this definition, such product, the Orderly Liquidation Product) is less than the product of (i) 70% multiplied by (ii) the Net Book Value of all of the Qualified Credit Parties’ Eligible Rental Equipment on such date, then the Adjusted Net Book Value Percentage shall be reduced to a percentage such that if such reduced percentage were multiplied by the Net Book Value of all of the Qualified Credit Parties’ Eligible Rental Equipment on such date the resultant product would equal the Orderly Liquidation Product on such date, with the Adjusted Net Book Value Percentage to remain at such reduced percentage until the next succeeding Delivery Date at which time it shall return to 70% or be adjusted to a percentage below 70% in accordance with the provisions above.
+If at the time the Borrower has repaid more than $75,000,000 in the aggregate of Senior Secured Notes as permitted herein or at the time of any subsequent permitted repayment of Senior Secured Notes the Consolidated Leverage Ratio for the four consecutive fiscal quarter period (taken as one accounting period) of the Borrower most recently ended prior to the date of such repayment for which Financial Statements were required to be delivered pursuant to Section 7.1(a) or (b), on a pro forma basis giving effect to such repayment (as if such repayment had occurred on the last day of such four consecutive fiscal quarter period), is greater than 5.25:1.00, then effective on the date of such
+repayment, each reference to “70%” or “85%” set forth above shall instead be a reference to “65%” and “80%” respectively (subject to reinstatement to the previous percentages in the event that the Consolidated Leverage Ratio is less than 5.25:1.00 for any four consecutive fiscal quarter period (taken as one accounting period) of the Borrower ending after the fiscal quarter of the Borrower in which such repayment is made).
+be delivered) pursuant to Section 7.1(a) or (b) but after giving effect to repayments of Loans (but in the case of repayments of Revolving Loans only to the extent the Total Revolving Credit Commitment was contemporaneously reduced by a corresponding amount) made after the last day of such fiscal quarter or year and prior to the respective application of Net Equity Proceeds pursuant to the provisions of Section 2.5(k)) is equal to or less than 3.00:1.00, then the Applicable Equity Recapture Percentage for purposes of this clause (y) shall instead be 25%, provided further, that (i) if the Applicable Equity Recapture Percentage would otherwise be 50% but after giving effect to the respective application of Net Equity Proceeds pursuant to Section 2.5(k) in a percentage less than 50%, the Consolidated Leverage Ratio would be equal to or less than 3.00:1.00, the Applicable Equity Recapture Percentage for the purposes of this clause (y) shall instead be 25% or such higher percentage (not to exceed 50%) as may be necessary to reduce the Consolidated Leverage Ratio to 3.00:1.00 after giving effect to such application and (ii) notwithstanding anything to the contrary contained above, at any time that a Default or an Event of Default is then in existence, the Applicable Equity Recapture Percentage for the purposes of this clause (y) shall be 50%, and (z) in the case of any Equity Issuance by the Borrower or any other Domestic Subsidiary or Canadian Subsidiary of Holdings, 100%.
+Applicable Margin shall mean (i) initially a percentage per annum equal to (x) in the case of Loans maintained as Base Rate Loans, 1.00%, and (y) in the case of Loans maintained as Eurodollar Rate Loans, 2.50%, and (ii) from and after October 1, 2005, the percentage per annum set forth below opposite the respective Level (i.e., Level 1, Level 2 or Level 3, as the case may be) of Average Excess Availability for the fiscal quarter of the Borrower most recently ended; provided that the Applicable Margin shall not change until five (5) Business Days after the end of such fiscal quarter.
+Greater than $250,000,000
+2.25
+0.75
+Equal to or less than $250,000,000 but greater than $100,000,000
+2.50
+1.00
+Equal to or less than $100,000,000
+2.75
+1.25
+consecutive fiscal quarter period of the Borrower then ended), then each of the Applicable Margins set forth in the table above will be reduced by 0.25% and (ii) the Consolidated Leverage Ratio for any period of four consecutive fiscal quarters of the Borrower (taken as one accounting period) is less than 4.50:1.00, determined as set forth in clause (i) above, then each of the Applicable Margins set forth in the table above will be reduced by 0.50% (without giving effect to any reduction based upon clause (i) above), in each case the reduction shall be for the period commencing on the date five (5) Business Days after the date of delivery of the certificate of a Responsible Officer of the Borrower and ending on the date five (5) Business Days after the date on which the next certificate of a Responsible Officer of the Borrower is delivered to the Administrative Agent, provided that if no certificate has been delivered to the Administrative Agent within 45 days after the last day of the most recently ended fiscal quarter (or 90 days after the last day of any fiscal year) of the Borrower, the Applicable Margins set forth in the table above (without giving effect to any reduction based upon this paragraph) shall be applicable until five (5) Business Days after the date the Borrower delivers a new certificate to the Administrative Agent indicating a Consolidated Leverage Ratio that is less than 5.25:1.00 or 4.50:1.00.
+Applicable Unused Line Fee Percentage shall mean the percentage per annum set forth below opposite the respective Level (i.e., Level 1 or Level 2, as the case may be) of Average Revolver Usage for the calendar month most recently ended (or, for the first payment of the Unused Line Fee under Section 4.6, for the period commencing on the Initial Borrowing Date and ending on the last day of the calendar month in which the Initial Borrowing Date occurred); provided that the Applicable Unused Line Fee Percentage shall not change until five (5) Business Days after the end of such calendar month (or shorter period).
+Less than 50%
+0.375
+0.250
+Average Excess Availability shall mean, for any period, an amount equal to (i) the sum of Excess Availability for each day during such period, divided by (ii) the number of days in such period.
+Average Lease Term shall mean, as of any date, an amount equal to (x) the total number of months that all Rental Equipment has been on rent as of such date (including for this purpose the month in which the date recalculation occurs) divided by (y) the number of all existing Units on rent as of such date.
+Average Rental Rate shall mean, at any time, the average monthly rental payment per unit of leased Rental Equipment.
+Average Revolver Usage shall mean, for any period, an amount equal to (i) the quotient of (x) the sum of the Revolving Outstandings for each day during such period, divided by (y) the number of days in such period, divided by (ii) the quotient of (x) the sum of the Total Revolving Credit Commitments for each day during such period, divided by (y) the number of days in such period, all as determined by the Administrative Agent.
+Change of Control shall mean, at any time and for any reason whatsoever, (a) Holdings shall cease to own directly 100% on a fully diluted basis of the economic and voting interest in the Borrower’s capital stock or (b) the Borrower shall cease to own directly 100% on a fully diluted basis of the economic and voting interests in the Unit Subsidiary’s equity or (c) the Equity Investors and/or their respective Affiliates and Permitted Transferees shall cease to own on a fully diluted basis in the aggregate (x) prior to the consummation of the Holdings IPO, at least 51% of the economic and voting interest in Holdings’ capital stock and (y) after consummation of the Holdings IPO, at least 25% of the economic and voting interest in Holdings’ capital stock or (d) after the consummation of the Holdings IPO, the Equity Investors and/or their respective Affiliates and Permitted Transferees shall own on a fully diluted basis in
+Dollar Equivalent of an amount denominated in an Alternate Currency shall mean, at any time for the determination thereof, the amount of Dollars which could be purchased with the amount of the Alternate Currency involved in such computation at the spot exchange rate therefor as quoted by the Administrative Agent as of 11:00 a.m. (New York time) on the date two Business Days prior to the date of any determination thereof for purchase on such date, provided that the Dollar Equivalent of any unpaid drawing under a Letter of Credit expressed in an Alternate Currency shall be determined at the time the drawing under the related Letter of Credit was paid or disbursed by the Issuing Lender, provided further, that for purposes of (x) determining compliance with Sections 2.2(a), 2.5(d) and 3.1(a) and (y) calculating Fees pursuant to Section 4.7, the Dollar Equivalent of any amounts denominated in an Alternate Currency shall be revalued on a monthly basis using the spot exchange rates therefor as shown in The Wall Street Journal (or, if same does not provide such exchange rates, on such other basis as is satisfactory to the Administrative Agent) on the last Business Day of each calendar month, provided, however, that at any time during a calendar month, if the Revolving Outstandings (for the purposes of the determination thereof, using the Dollar Equivalent as recalculated based on the spot exchange rate therefor as shown in The Wall Street Journal (or, if same does not provide such exchange rates, on such other basis as is satisfactory to the Administrative Agent) on the respective date of determination pursuant to this exception) would exceed 85% of the Total Revolving Credit Commitment, then at the discretion of the Administrative Agent or at the request of the Required Lenders, the Dollar Equivalent shall be reset based upon the spot exchange rates on such date as shown in The Wall Street Journal (or, if same does not provide such exchange rates, on such other basis as is satisfactory to the Administrative Agent), which rates shall remain in effect until the first Business Day of the then immediately succeeding calendar month or such earlier date, if any, as the rate is reset pursuant to this proviso.
+Eurodollar Rate shall mean, for any Interest Period, with respect to Eurodollar Rate Loans, the rate of interest per annum determined pursuant to the following formula:
+Eurodollar Rate =
+1.00 - Eurodollar Reserve Percentage
+Offshore Base Rate means the rate per annum appearing on Telerate Page 3750 (or any successor page) as the London interbank offered rate for deposits in Dollars at approximately 11:00 a.m. (London time) two Business Days prior to the first day of such Interest Period for a term comparable to such Interest Period.
+If for any reason such rate is not available, the Offshore Base Rate shall be, for any Interest Period, the rate per annum appearing on Reuters Screen LIBO Page as the London interbank offered rate for deposits in Dollars at approximately 11:00 a.m. (London time) two Business Days prior to the first day of such Interest Period for a term comparable to such Interest Period; provided, however, if more than one rate is specified on Reuters Screen LIBO Page, the applicable rate shall be the arithmetic mean of all such rates.
+Eurodollar Rate Loan shall mean a Loan bearing interest as provided in Section 4.1.
+Federal Funds Rate shall mean, for any day, the rate per annum (rounded upwards, if necessary, to the nearest 1/8th of 1.00%) equal to the weighted average of the rates on overnight Federal funds transactions with members of the Federal Reserve System arranged by Federal funds brokers on such day, as published by the Federal Reserve Bank of New York on the Business Day next succeeding such day; provided that (a) if such day is not a Business Day, the Federal Funds Rate for such day shall be such rate on such transactions on the next preceding Business Day as so published on the next succeeding Business Day and (b) if no such rate is so published on such next succeeding Business Day, the Federal Funds Rate for such day shall be the average rate charged to BofA on such day on such transactions as determined by BofA.
+Required Lenders shall mean, at any time, Non-Defaulting Lenders the sum of whose outstanding Term Loans and Revolving Credit Commitments (or after the termination thereof, outstanding Revolving Loans and Revolving Credit Proportionate Shares of Letter of Credit Obligations) represent more than 50% of the sum of (i) all outstanding Term Loans of Non-Defaulting Lenders, and (ii) the Total Revolving Credit Commitments less the Revolving Credit Commitments of all Defaulting Lenders (or after the termination thereof, the sum of the then total outstanding Revolving Loans of Non-Defaulting Lenders and the aggregate Revolving Credit Proportionate Shares of all Non-Defaulting Lenders of the total Letter of Credit Obligations at such time).
+Revolving Credit Proportionate Share of a Revolving Credit Lender shall mean, at any particular time, a fraction, expressed as a percentage, obtained by dividing its Revolving Credit Commitment by the aggregate Revolving Credit Commitments of all the Revolving Credit Lenders or, if the Revolving Credit Commitments have been terminated, by dividing (i) the sum of (A) the outstanding Revolving Loans made or held by such Revolving Credit Lender, plus (B) the amount of such Revolving Credit Lender’s unfunded participations in outstanding Letters of Credit, plus (C) the amount of all payments made by such Revolving Credit Lender to the Issuing Lender in respect of its participations in Letters of Credit for which the Borrower has not reimbursed such Revolving Credit Lender (other than with respect to outstanding Revolving Loans deemed requested pursuant to Section 3.5), by (ii) the sum of (A) the aggregate amount of all Revolving Loans then outstanding, plus (B) the aggregate amount of all Revolving Credit Lenders’ unfunded participations in outstanding Letters of Credit, plus (C) the aggregate amount of all payments made by all Revolving Credit Lenders to the Issuing Lender in respect of their respective participations in Letters of Credit for which the Borrower has not reimbursed the Revolving Credit Lenders (other than with respect to outstanding Loans deemed requested pursuant to Section 3.5).
+Significant Divestiture shall mean any sale or other disposition (other than in the ordinary course of business) of assets by the Borrower or any of its Subsidiaries to any other Person (other than the Borrower or a Subsidiary thereof), the fair market value (determined in good faith by the Borrower) of which exceeds $1,000,000 for any such transaction (or series of related transactions).
+Trigger Event shall mean for any reason Excess Availability is less than $75,000,000 for three (3) consecutive Business Days or is less than $70,000,000 at any time.
+Trigger Event Compliance Period shall mean the period commencing on the occurrence of a Trigger Event and continuing until such time as Excess Availability is greater than $75,000,000 for ten (10) consecutive Business Days.
+The Borrower acknowledges and agrees that (i) pursuant to the Bank Assignment Agreement, on the Effective Date, BofA and DBTCA purchased from the other banks and other financial institutions party to the Existing Credit Agreement the outstanding term loans made to the Borrower under the Existing Credit Agreement held by such banks and other financial institutions, (ii) such term loans purchased by BofA and DBTCA pursuant to the Bank Assignment Agreement and the term loans made by BofA and DBTCA to the Borrower under the Existing Credit Agreement and outstanding on the Effective Date, in an aggregate outstanding principal amount of $151,974,511.95, shall, subject to clause (iii) of the last sentence of Section 2.1(c), be deemed to constitute term loans made under this Credit Agreement on the Effective Date (each, a “Term Loan” and, collectively, the “Term Loans”), (iii) the Term Loans shall initially be maintained as a single Borrowing of Base Rate Loans (subject to the option to convert the Term Loans pursuant to Section 4.3) and (iv) a portion of the Term Loans shall be assigned by BofA and DBTCA to certain of the Lenders on the Effective Date pursuant to Section 2.12.
+(D)          the aggregate principal amount of Senior Secured Notes then outstanding, minus
+(a)  The Borrower shall make each payment hereunder and under the Notes not later than 1:00 P.M. New York City time on the day when due in Dollars to the Administrative Agent at its Payment Office in immediately available funds.
+3.5           Payment of Amounts Drawn Under Letters of Credit.
+If for any reason, proceeds of Revolving Loans are not received by the Issuing Lender on such date in an amount equal to the amount of such drawing (or the Dollar Equivalent thereof in the case of any drawing under a Letter of Credit denominated in a currency other than Dollars), the Borrower shall be obligated to and shall reimburse the Issuing Lender, on the Business Day immediately following such date, in Dollars in an amount in same day funds equal to the excess of the amount of such drawing (or the Dollar Equivalent thereof in the case of any drawing under a Letter of Credit denominated in a currency other than Dollars) over the amount of such Revolving Loans, if any, which are so received, plus accrued interest on such amount until paid in full at the rate set forth in Section 4.2 or 4.4, as applicable; provided, however, that any such payments shall not prejudice any rights that the Borrower may have against any Revolving Credit Lender as a result of any default by such Revolving Credit Lender in funding such Revolving Loans, as provided in the final sentence of Section 2.4(c).
+4.1           Interest on Eurodollar Rate Loans.
+Subject to the provisions of Section 4.4 hereof, interest on Eurodollar Rate Loans shall be payable in arrears (i) on the last day of each Interest Period with respect to such Eurodollar Rate Loans (and, in the case of any Interest Period in excess of three months, on each date which occurs at three month intervals after the first day of the respective Interest Period), (ii) at the date of any Conversion thereof (or portion thereof) to a Base Rate Loan, (iii) upon any prepayment, except pursuant to Section 2.6(d), (on the amount prepaid) and (iv) at maturity (whether by acceleration or otherwise) and, after such maturity, on demand, in each case at an interest rate per annum equal during each Interest Period for such Eurodollar Rate Loan to the Eurodollar Rate in effect for such Interest Period plus the relevant Applicable Margin.
+4.2           Interest on Base Rate Loans.
+Subject to the provisions of Section 4.4 hereof, interest on Base Rate Loans shall be payable quarterly in arrears (i) on the last Business Day of each calendar quarter, (ii) upon any prepayment, except pursuant to Section 2.6(d), (on the amount prepaid) and (iii) at maturity (whether by acceleration or otherwise) and, after such maturity, on demand, in each case at an interest rate per annum equal to the Base Rate plus the relevant Applicable Margin.
+(a)  With respect to any Borrowing consisting of Eurodollar Rate Loans, the Borrower may, subject to the provisions of Section 4.3(c) and the condition that no Default or Event of Default then exists, elect to maintain such Borrowing or any portion thereof equal to at least $1,000,000 as Eurodollar Rate Loans by selecting a new Interest Period for such Borrowing (or portion thereof), which new Interest Period shall commence on the last day of the immediately preceding Interest Period.
+Interest on any amount of matured principal of the Loans, and interest on the amount of principal of the Loans outstanding as of the date a Default or an Event of Default occurs, and at all times thereafter until the earlier of the date upon which (i) all Obligations have been paid and satisfied in full or (ii) such Default or Event of Default shall have been cured or waived, shall be payable on demand at a rate equal to 2% in excess of the rate then borne by such Loans, or, if higher, the Base Rate in effect from time to time plus the sum of (x) the Applicable Margin for Base Rate Loans then in effect and (y) 2%.
+The Borrower shall pay to the Administrative Agent for the benefit of each of the Lenders (other than a Defaulting Lender for so long as such Lender is a Defaulting Lender) a non-refundable fee (the “Unused Line Fee”) at a per annum rate equal to the Applicable Unused Line Fee Percentage of the daily unused portion of such Lender’s Revolving Credit Commitment, which Unused Line Fee shall (i) accrue from the Effective Date until the Maturity Date or any earlier date on which the Total Revolving Credit Commitments are terminated and (ii) be due and payable quarterly in arrears on the last Business Day of each calendar quarter and on the Maturity Date or any earlier date on which the Total Revolving Credit Commitments are terminated.
+(a)  The Administrative Agent shall be entitled to charge to the account of the Borrower (i) for the ratable benefit of the Revolving Credit Lenders in accordance with their respective Revolving Credit Proportionate Shares, a fee (the “Letter of Credit Fee”), in an amount equal to the Applicable Margin then in effect for Revolving Loans maintained as Eurodollar Rate Loans per annum of the daily amount of Undrawn Letter of Credit Outstandings during the immediately preceding month, due and payable monthly in arrears on the last Business Day of each calendar month, and on the Maturity Date or any earlier date on or after the termination of the Total Revolving Credit Commitments when no Letters of Credit are outstanding and (ii) as and when incurred by the Administrative Agent or any Lender, any administrative charges, fees, costs and expenses charged to the Administrative Agent or any Lender for the Borrower’s account by the Issuing Lender (other than any fees charged to the
+In addition, the Borrower agrees to pay to the Issuing Lender, for its own account, a facing fee in respect of each Letter of Credit issued by it (the “Facing Fee”) for the period from and including the date of issuance of such Letter of Credit to and including the date of termination or expiration of such Letter of Credit, computed at a rate per annum equal to 0.25% on the daily amount of Undrawn Letter of Credit Outstandings, provided that in any event the minimum amount of Facing Fees payable in any twelve-month period for each Letter of Credit shall be not less than $500, it being agreed that, on the day of issuance of any Letter of Credit and on each anniversary thereof prior to the termination or expiration of such Letter of Credit, if $500 will exceed the amount of Facing Fees that will accrue with respect to such Letter of Credit for the immediately succeeding twelve-month period, the full $500 shall be payable on the date of issuance of such Letter of Credit and on each such anniversary thereof.
+The Borrower may agree to pay to any Incremental Revolving Lender such up-front fees, and amounts as contemplated by the last paragraph of Section 2.1, as are specified in the Incremental Commitment Agreement pursuant to which such Incremental Revolving Credit Commitment has been provided, with such amounts to be payable at the times set forth in such Incremental Commitment Agreement.
+The Borrower agrees to pay (without duplication) fees to the Administrative Agent, the Syndication Agent, the Collateral Agent and the Co-Lead Arrangers (or their respective affiliates as specified therein) in the amounts and at the times set forth in the Fee Letter.
+amount of proceeds of Revolving Loans to be used to pay the purchase price and any other amounts related to such Permitted Acquisition, (y) the aggregate amount of proceeds of Revolving Loans used to pay the purchase price and any other amounts related to all other Permitted Acquisitions consummated since the Effective Date and (z) the aggregate amount of proceeds of Revolving Loans used to pay the purchase price and any other amounts related to all Permitted Acquisitions consummated during such fiscal year.
+Notwithstanding the foregoing, no greater than $50,000,000 in the aggregate of proceeds of Revolving Loans may be used pursuant to clause (vi)(A) of the immediately preceding sentence in any fiscal year of the Borrower to pay the purchase price or any other amounts related to (x) any Permitted Acquisitions by Holdings or any Unrestricted Subsidiaries or (y) any Permitted Acquisitions by the Borrower or any of the Borrower’s Wholly-Owned Subsidiaries with respect to acquisition of assets located outside the United States and Canada or of any Person that, as a result of such acquisition, shall become a Non-Canadian Foreign Subsidiary of the Borrower.
+130,000,000
+140,000,000
+150,000,000
+160,000,000
+175,000,000
+180,000,000
+At all times prior to the Maturity Date and thereafter until the payment in full in cash of all Obligations then due and payable hereunder and under the other Credit Documents, the Borrower shall pay Dividends on the Permitted Preferred Stock only in additional shares of Permitted Preferred Stock.
+Any assignment to another Lender pursuant to this clause (b)(A) will become effective upon the payment to the Administrative Agent by either the assigning or the assignee Lender of a nonrefundable assignment fee of $3,500 (provided that (i) no such fee shall be payable in the event of assignments from any Lender to a fund that invests in loans and is managed or advised by the same investment advisor as such assigning Lender (or by an Affiliate of such investment advisor) and (ii) contemporaneous assignments by a Lender to two or more Eligible Transferees that are funds that invest in loans which are managed or advised by the same investment advisor (or an Affiliate thereof) shall be treated as one assignment for the purposes of the aforementioned assignment fee) and the recording by the Administrative Agent of such assignment, and the resultant effects thereof on the Loans and Commitments of the assigning Lender and the assignee Lender, in a register maintained by the Administrative Agent as agent of the Borrower for this purpose (the “Register”), the Administrative Agent hereby agreeing to effect such recordation no later
+amount in excess of $800,000,000 or (iii) release any Subsidiary Guarantor from its respective Subsidiaries Guaranty (except as expressly provided in Section 8.1(c) or in the respective Subsidiaries Guaranty).
+11.16       Maximum Rate.
+70,000,000
+136,420,000
+35,000,000
+34,250,000
+33,500,000
+33,500,000
+27,500,000
+27,500,000
+27,500,000
+24,000,000
+20,000,000
+19,250,000
+19,000,000
+19,000,000
+15,000,000
+15,000,000
+15,000,000
+15,000,000
+10,000,000
+10,000,000
+10,000,000
+10,000,000
+10,000,000
+5,820,000
+3,880,000
+3,880,000
+500,000,000
+150,000,000
+Senior Secured Notes; principal amount outstanding: $150,000,000.
+Senior Unsecured Notes; principal amount outstanding: $550,000,000.
+04 FORD / 1FDWXW47PX4EC60448
+605.70
+04 FORD / 1FDXX46P54EA19525
+04 FORD / 1FDXF47P24EB18997
+04 FORD / 1FTRX12W14NB33952
+473.32
+04 CHEV / 1GBE4C1234F51356
+04 FORD / 1FDAW57P54EC34089
+791.27
+04 FORD / 1FDXX46P84ED30897
+1,184.13
+622.70
+1,371.15
+364.82
+364.82
+367.18
+367.18
+365.21
+365.21
+198.60
+316.69
+250.68
+174.35
+218.94
+270.51
+04 THUNDERBIRD / 1FAHP60A64Y104080
+05 FORD F 550 / 1FDAF57P95EA83210
+620.68
+04 FORD F 450 / 1FDXF46P34ED99368
+05 SUPERCAB XL/XLT / 1FTSX20545EA72132
+05 EVACO / 1E9DE392X5A283047
+489.84
+05 FORD E 350 / 1FTSE34P05HA96420
+558.10
+05 FORD F 350 / 1FTWF31P35EA49256
+05 EVACO / 1E9DE39295A283220
+497.41
+572.67
+05 EVACO / 1E9DE39205A283221
+1,145.71
+1,539.54
+05 FORD F 350 / 1FDWF36P75EC01320
+649.50
+892.91
+1,260.47
+2004 Komatsu FG50R2-7 / AT33B50024
+486.48
+1,570.49
+1,272.24
+13.0 acs.
+3,600.00
+0.00
+3.0 acs.
+4,300.00
+0.00
+1.0 acs.
+3,000.00
+1,000.00
+30 Days
+10.0 acs.
+6,450.00
+0.00
+5.0 acs.
+3,000.00
+12,858.00
+6.0 acs.
+3,250.00
+0.00
+5.0 acs.
+0.00
+7.0 acs.
+2,000.00
+0.00
+2.0 acs.
+2,894.43
+2,500.00
+3.0 acs.
+4,500.00
+0.00
+1.0 acs.
+1,750.00
+0.00
+0.0 acs.
+1,103.00
+2,328.00
+10.0 acs.
+2,233.00
+0.00
+10.0 acs.
+12,376.49
+27,500.00
+18.0 acs.
+10,666.66
+0.00
+3.0 acs.
+3,600.00
+0.00
+5.0 acs.
+2,600.00
+0.00
+5.0 acs.
+3,300.00
+0.00
+15.0 acs.
+13,510.99
+0.00
+4.0 acs.
+3,850.00
+0.00
+10.0 acs.
+8,131.80
+10,000.00
+2.0 acs.
+1,400.00
+0.00
+11.0 acs.
+12,070.04
+11,842.20
+3.0 acs.
+680.00
+0.00
+9.0 acs.
+9,968.86
+0.00
+0.63 acs.
+1,541.00
+0.00
+6.0 acs.
+5,010.00
+5,010.00
+9.0 acs.
+6,302.83
+0.00
+5.0 acs.
+5,750.00
+0.00
+4.0 acs.
+1,966.74
+0.00
+15.0 acs.
+7,268.51
+0.00
+2.187 acs.
+3,200.00
+0.00
+7.0 acs.
+5,575.00
+0.00
+8.0 acs.
+18,259.59
+0.00
+3.0 acs.
+4,800.00
+7,500.00
+16.0 acs.
+29,618.52
+26,920.08
+6.0 acs.
+4,551.67
+4,550.00
+10.0 acs.
+5,800.00
+0.00
+2.0 acs.
+1,108.42
+0.00
+1.0 acs.
+4,370.00
+6,600.00
+3.0 acs.
+1,600.00
+1,200.00
+15.0 acs.
+2,400.00
+0.00
+7.98 acs.
+8,000.00
+0.00
+0.0 acs.
+3,658.77
+6,600.00
+6.0 acs.
+0.00
+19.0 acs.
+17,763.37
+0.00
+10.0 acs.
+30,000.00
+50,000.00
+4.0 acs.
+7,596.34
+6,250.00
+1.0 acs.
+2,423.01
+2,250.00
+1.2 acs.
+950.00
+0.00
+4.5 acs.
+1,900.00
+0.00
+1.0 acs.
+6,490.00
+0.00
+0.0 acs.
+1,500.00
+0.00
+10.0 acs.
+14,317.62
+17,000.00
+6.5 acs.
+15,532.03
+13,500.00
+4.0 acs.
+4,326.00
+4,000.00
+13.0 acs.
+16,298.64
+15,000.00
+11.0 acs.
+15,318.00
+13,500.00
+4.0 acs.
+10,491.67
+0.00
+12.0 acs.
+5,881.36
+0.00
+5.0 acs.
+14,857.00
+28,000.00
+10.0 acs.
+17,023.93
+10,000.00
+7.0 acs.
+6,500.00
+0.00
+10.0 acs.
+10,214.00
+0.00
+5.0 acs.
+19,127.31
+0.00
+3.0 acs.
+3,152.79
+3,179.44
+5.0 acs.
+5,230.00
+0.00
+2.0 acs.
+2,530.92
+0.00
+9.0 acs.
+12,500.00
+0.00
+5.0 acs.
+2,956.25
+0.00
+5.0 acs.
+6,333.92
+0.00
+4.0 acs.
+10,650.00
+2,919.00
+Rent per
+Month
+ 0.0 acs.
+3,117.15
+2,000.00
+ 2.02 acs.
+4,416.66
+2,333.33
+ 16.0 acs.
+10,700.00
+1,000,00
+ 5.0 acs.
+5,000.00
+0.00
+ 2.0 acs.
+2,100.00
+1,700.00
+ 0.8 acs.
+2,600.00
+0.00
+ 1.0 acs.
+17,000.00
+6,420.00
+ 0.0 acs.
+4,908.00
+18,000.00
+Rent per Month
+Option to Purchase
+13.0 acs.
+3,600.00
+0.00
+3.0 acs.
+4,300.00
+0.00
+2.0 acs.
+0.00
+1.0 acs.
+3,000.00
+1,000.00
+30 Days
+10.0 acs.
+6,450.00
+0.00
+20.0 acs.
+0.00
+5.0 acs.
+3,000.00
+12,858.00
+9.0 acs.
+0.00
+6.0 acs.
+3,250.00
+0.00
+5.0 acs.
+0.00
+18.0 acs.
+0.00
+25.0 acs.
+0.00
+7.0 acs.
+2,000.00
+0.00
+2.0 acs.
+2,894.43
+2,500.00
+16.0 acs.
+0.00
+Rent per Month
+Option to Purchase
+3.0 acs.
+4,500.00
+0.00
+1.0 acs.
+1,750.00
+0.00
+0.0 acs.
+1,103.00
+2,328.00
+3.0 acs.
+0.00
+1.0 acs.
+0.00
+10.0 acs.
+2,233.00
+0.00
+10.0 acs.
+12,376.49
+27,500.00
+18.0 acs.
+10,666.66
+0.00
+3.0 acs.
+0.00
+3.0 acs.
+3.600.00
+0.00
+6.0 acs.
+0.00
+15.0 acs.
+0.00
+8.0 acs.
+0.00
+5.0 acs.
+2,600.00
+0.00
+Rent per Month
+Option to Purchase
+5.0 acs.
+0.00
+5.0 acs.
+3,300.00
+0.00
+3.0 acs.
+0.00
+15.0 acs.
+13,510.99
+0.00
+4.0 acs.
+3,850.00
+0.00
+25.0 acs.
+0.00
+10.0 acs.
+8,131.80
+10,000.00
+2.0 acs.
+1,400.00
+0.00
+11.0 acs.
+12,070.04
+11,842.20
+3.0 acs.
+680.00
+0.00
+9.0 acs.
+9,968.86
+0.00
+8.0 acs.
+0.00
+6.0 acs.
+0.00
+1.0 acs.
+0.00
+0.63 acs.
+1,541.00
+0.00
+Rent per Month
+Option to Purchase
+6.0 acs.
+5,010.00
+5,010.00
+4.0 acs.
+0.00
+9.0 acs.
+6,302.83
+0.00
+40.0 acs.
+0.00
+5.0 acs.
+5,750.00
+0.00
+4.0 acs.
+1,966.74
+0.00
+15.0 acs.
+7,268.51
+0.00
+2.187 acs.
+3,200.00
+0.00
+7.0 acs.
+5,575.00
+0.00
+8.0 acs.
+18,259.59
+0.00
+3.0 acs.
+4,800.00
+7,500.00
+16.0 acs.
+29,618.52
+26,920.08
+6.0 acs.
+4,551.67
+4,550.00
+10.0 acs.
+5,800.00
+0.00
+2.0 acs.
+1,108.42
+0.00
+Rent per Month
+Option to Purchase
+1.0 acs.
+4,370.00
+6,600.00
+3.0 acs.
+1,600.00
+1,200.00
+15.0 acs.
+2,400.00
+0.00
+7.98 acs.
+8,000.00
+0.00
+0.0 acs.
+3,658.77
+6,600.00
+6.0 acs.
+0.00
+19.0 acs.
+17,763.37
+0.00
+10.0 acs.
+30,000.00
+50,000.00
+4.0 acs.
+7,596.34
+6,250.00
+5.0 acs.
+3,600.00
+1.2 acs.
+950.00
+0.00
+1.0 acs.
+2,423.01
+2,250.00
+30.0 acs.
+0.00
+4.5 acs.
+1,900.00
+0.00
+3.0 acs.
+0.00
+Rent per Month
+Option to Purchase
+1.0 acs.
+6,490.00
+0.00
+0.0 acs.
+1,500.00
+0.00
+10.0 acs.
+14,317.62
+17,000.00
+19.0 acs.
+0.00
+6.5 acs.
+15,532.03
+13,500.00
+4.0 acs.
+4,326.00
+4,000.00
+9.0 acs.
+0.00
+13.0 acs.
+16,298.64
+15,000.00
+3.0 acs.
+0.00
+11.0 acs.
+15,318.00
+13,500.00
+4.0 acs.
+10,491.67
+0.00
+12.0 acs.
+5,881.36
+0.00
+5.0 acs.
+14,857.00
+28,000.00
+10.0 acs.
+17,023.93
+10,000.00
+7.0 acs.
+6,500.00
+0.00
+Rent per Month
+Option to Purchase
+10.0 acs.
+10,214.00
+0.00
+5.0 acs.
+19,127.31
+0.00
+3.0 acs.
+3,152.79
+3,179.44
+5.0 acs.
+5,230.00
+0.00
+2.0 acs.
+2,530.92
+0.00
+9.0 acs.
+12,500.00
+0.00
+5.0 acs.
+0.00
+5.0 acs.
+2,956.25
+0.00
+14.0 acs.
+0.00
+5.6 acs.
+0.00
+8.049 acs.
+0.00
+4.0 acs.
+0.00
+4.0 acs.
+0.00
+5.0 acs.
+8,333.92
+0.00
+Rent per Month
+Option to Purchase
+4.0 acs.
+10,650.00
+2,919.00
+0.0 acs.
+3,117.15
+2,000.00
+2.02 acs.
+4,416.66
+2,333.33
+18.0 acs.
+10,700.00
+1,000.00
+5.0 acs.
+5,000.00
+0.00
+2.0 acs.
+2,100.00
+1,700.00
+0.8 acs.
+2,600.00
+0.00
+1.0 acs.
+17,000.00
+6,420.00
+0.0 acs.
+4,908.00
+18,000.00
+Purchase Price
+2.04 acs
+285,000.00
+12 acs
+250,000.00
+ 70,000.00
+3.87 acs
+215,000.00
+6.5 acs
+447,881.55
+8.04 acs
+160,999.48
+3.05 acs
+356,850.00
+25.34 acs
+1,682,998.70
+2.88 acs
+175,000.00
+3.00 acs
+118,000.00
+5.82 acs
+215,239.00
+1.875 acs
+150,000.00
+40.0 acs
+1,350,000.00
+30.8 acs
+2,167,794.77
+3.94 acs
+19.0 acs
+735,000.00
+9.32 acs
+102,520.00
+5.0 acs
+39,900.00
+14.25 acs
+1,975,000.00
+12,775
+Current large ded ($350K per claim): Gen Liab, WC and Auto Increased from $1.5M effective May 9, 2002 (1)
+2,000
+16,194
+7,539.00
+per occur.- $1 M;
+500,000
+$2 M
+Products-Completed Operations Aggregate - $2M
+Combined BI & PD each occurrence - $1M
+each occurrence - $1M
+Personal & Advertising Injury - $ 1M
+Fire Legal Damage - $500,000 Medical Expense - $5,000
+$20 M maximum aggregate limit on:
+$5M-each occurrence & aggregate for BI & PD
+UXP000536000
+$15M over AXIS Umbrella
+$45M over Arch Specialty Excess
+$10M over Fireman’s Fund Excess
+$2M-Combined Single Limit
+500,000
+500,000
+500,000
+500,000
+500,000
+Coverage B-Employers Liability $1M
+500,000
+250,000
+Business
+Personal Property - $5,000,000 Extra Expense - $2,500,000
+Flood Aggregate $10M (except Zones A&V)
+Flood Aggregate $5M (Zones A&V) Earthquake $10M (except CA & WA) Earthquake $5M (CA & WA)
+1,000,000
+2,500,000
+2,500,000
+250,000
+Any 1 occurrence - $10,000,000
+250,000
+$15,000,000 - Monthly Reporting Flood/Earthquake-$5M Agg.
+250,000
+250,000
+*   Special Deductibles on Property Policy: Flood $250,000; Earthquake 5% of values with a min.
+of $250,000 (CA & WA); Earthquake $250,000 (other states); Windstorm 2% of values subject to a $250,000 minimum for Tier One County locations from Texas to Virginia and for Wind & Hail in Named Storms.
+$257,305,682 Excess of primary $5,000,000
+5,000,000
+Employee Dishonesty-$1,000,000 per loss
+25,000
+Forgery or Alteration-$1,000,000 per loss
+25,000
+Computer / Funds Transfer Fraud - $1,000,000 per loss
+25,000
+$5,000,000 Limit
+10,000
+250,000
+Personal Property - $5,000,000
+250,000
+General Liability aggregate $2,000,000 products / completed operations personal / advers.
+premises & operations general aggregate $1,000,000 aggregate $1,000,000 aggregate
+500,000
+Employers liability $500,000
+Repatriation $25,000 (each employee)
+$250,000 - policy limit
+Automobile $1,000,000 CSL
+500,000
+per occur.- $1 M; Genl.
+$2 M
+Products-Completed Operations Aggregate - $1M Combined BI & PD each occurrence - $1M
+each occurrence - $1 M
+Personal & Advertising Injury - $ 1M
+Fire Legal Damage - $100,000
+Medical Expense - $10,000
+Automobile $1,000,000 CSL
+Foreign Voluntary WC and Employers Liability - $1,000,000
+Repatriation Expense - $50,000 any one emp $250,000 Policy Limit
+per occur.- $1 M; Genl.
+$2 M Products-Completed Operations Aggregate - $1M
+Combined BI & PD each occurrence - $1M each occurrence - $1 M
+Personal & Advertising Injury - $ 1M
+Fire Legal Damage - $100,000
+Medical Expense - $10,000
+$15M each loss, and aggregate
+10,000
+$ 15M each loss, and aggregate
+150,000
+$15M each loss, and aggregate
+$0 to officers & directors
+$100,000 to corp.
+$15M each loss, and aggregate note: limits shared with D & O
+$1,000,000
+1,000
+$2,000,000.
+350,000
+Private Aircraft Exclusion Principal Sum per Class:
+Executive officer: $250,000
+Sales & salaried emp: $150,000
+Service emp: $75,000
+20018000380
+20030086517C
+20018000382
+of indebtness:$38,410.20
+Lease#006310484-014 dd.10/16/2003
+Lease#006310484-015 dd.10/20/2003
+Lease#006310484-024 dd.01/16/2004
+Lease#006310484-025 dd.01/16/2004
+Lease#006310484-026 dd.01/26/2004
+20018000376
+02032214369, as amended by 03081428546, 05062410708 and 05062826143
+02032214443 as amended by 03081428611, 05062410724 and 05062826176
+03081428736 as amended by 05062410732 and 05062826200
+The funds in this program total approximately $390,540.70 as of March 31, 2005.
+Disbursement
+Lockbox
+Local Corporate Miscellaneous Deposit Account
+Willscot Equipment Branch Disbursement/Zero Balance Account
+Williams Scotsman Pay Flex Account
+Disbursement/Positive Pay Account
+Disbursement/Payroll
+EXL was paid $26,000 and approximately $191,000 in 2004, and the first quarter of 2005, respectively, in fees and expense reimbursements.
+WESCO was paid approximately $1,272,615 and $273,529 in 2004 and the first quarter of 2005, respectively, for such services.
+(the “Administrative Agent”) located at 335 Madison Avenue, New York, New York 10017 on the Maturity Date (as defined in the Credit Agreement referred to below) the principal sum of _____________ DOLLARS ($__________) or, if less, the then unpaid principal amount of all Term Loans (as defined in the Credit Agreement) made by the Lender pursuant to the Credit Agreement.
+The Borrower promises also to pay interest on the unpaid principal amount hereof in like money at said office from the date hereof until paid at the rates and at the times provided in the Credit Agreement.
+The Borrower promises also to pay interest on the unpaid principal amount hereof in like money at said office from the date hereof until paid at the rates and at the times provided in the Credit Agreement.
+(i)            The aggregate principal amount of the Proposed Borrowing is $___________.1
+(iv)          The Proposed Borrowing is to consist of [Base Rate Loans] [Eurodollar Rate Loans].3
+1                         Shall be an amount not less than $1,000,000 in the case of Eurodollar Rate Loans.
+[(v)          The initial Interest Period for the Proposed Borrowing is [one month] [two months] [three months] [six months] [nine months] [twelve months].4
+[(vi)         The proceeds of the proposed Borrowing are to be deposited in the Disbursement Account.
+Pursuant to Section 3.4 of the Credit Agreement, the undersigned hereby requests that the Issuing Lender issue a [trade] [standby] Letter of Credit on _____________2 (the “Date of Issuance”) in the aggregate stated amount of [U.S. $]3___________.4
+(i)            $[aggregate principal amount to be continued]1 of the Eurodollar Rate Loan presently outstanding with an Interest Period expiring on ________ __, ____ is to be continued as a Eurodollar Rate Loan.
+(iii)          The Eurodollar Rate Loan to be continued as a Eurodollar Rate Loan shall have an Interest Period of [one month] [two months] [three months] [six months], [nine months] [twelve months].2
+1                    Shall be an amount equal to at least $1,000,000.
+(ii)           The Loans to be converted are [Revolving Loans] [Term Loans] in an aggregate principal amount of $___________.2
+[(iv)         The Loans to be converted into Eurodollar Rate Loans shall initially have an Interest Period of [one month][two months][three months][six months][nine months] [twelve months]4
+2                    Conversion of Eurodollar Rate Loans into Base Rate Loans shall be in an aggregate amount not less than $250,000.
+Conversion of Base Rate Loans into Eurodollar Rate Loans shall be in an aggregate amount of not less $1,000,000.
+ACCEPTABLE PAYEES
+To the extent permitted by any such requirement of law, the Collateral Agent may bid for and become the purchaser (and may pay all or any portion of the purchase price by crediting Obligations against the purchase price) of the Collateral or any item thereof, offered for disposition in accordance with this Section 7.2 without accountability to the relevant Assignor.
+(ii)                                  For the purposes of this Agreement, “Second Lien Creditor Pro Rata Share” shall mean, when calculating a Second Lien Creditor’s portion of any distribution or amount, that amount (expressed as a percentage) equal to a fraction the numerator of which is the then unpaid amount of such Second Lien Creditor’s Second Lien Obligations and the denominator of which is the then outstanding amount of all Second Lien Obligations.
+If any payment to any First Lien Creditor of its First Lien Creditor Pro Rata Share of any distribution would result in overpayment to such First Lien Creditor, such excess amount shall instead be distributed in respect of the unpaid First Lien Primary Obligations or First Lien Secondary Obligations, as the case may be, of the other First Lien Creditors, with each First Lien Creditor whose First Lien Primary Obligations or First Lien Secondary Obligations, as the case may be, have not been paid in full to receive an amount equal to such excess amount multiplied by a fraction the numerator of which is the unpaid First Lien Primary Obligations or First Lien Secondary Obligations, as the case may be, of such First Lien Creditor and the denominator of which is the unpaid First Lien Primary Obligations or First Lien Secondary Obligations, as the case may be, of all First Lien Creditors entitled to such distribution.
+If any payment to any Second Lien Creditor of its Second Lien Creditor Pro Rata Share of any distribution would result in overpayment to such Second Lien Creditor, such excess shall instead be distributed in respect of the unpaid Second Lien Obligations of the other Second Lien Creditors with each Second Lien Creditor whose Second Lien Obligations have not been paid in full to receive an amount equal to such excess amount multiplied by a fraction, the numerator of which is the unpaid Second Lien Obligations of such Second Lien Creditor entitled to distribution and the denominator of which is the unpaid Second Lien Obligations of all Second Lien Creditors entitled to such distribution.
+02032214369, as amended by 03081428546, 05062410708 and 05062826143
+02032214443 as amended by 03081428611, 05062410724 and 05062826176
+03081428736 as amended by 05062410732 and 05062826200
+Payroll
+All payments by each Guarantor under this Guaranty shall be made on the same basis as payments by the Borrower under Sections 2.6 and 2.9 of the Credit Agreement.
+If any amount is paid to the Guarantor at any time when all the
+For purposes of the Interest Act (Canada), whenever any interest is calculated using a rate based on a year of 360 days such rate determined pursuant to such calculation, when expressed as an annual rate is equivalent to (i) the applicable rate based on a year of 360 days, (ii) multiplied by the actual number of days in the calendar year in which the period for such interest is payable (or compounded) ends, and (iii) divided by 360.
+purchase Stock) held by such Pledgor consists of the number and type of shares of the stock (or warrants or options to purchase any stock) of the corporations as described in Annex C hereto; (iv) such Stock constitutes that percentage of the issued and outstanding capital stock of the issuing corporation as is set forth in Annex C hereto; (v) the Notes held by such Pledgor consist of the promissory notes described in Annex D hereto where such Pledgor is listed as the lender; (vi) the Limited Liability Company Interests held by such Pledgor consist of the number and type of interests of the Persons described in Annex E hereto; (vii) each such Limited Liability Company Interest constitutes that percentage of the issued and outstanding equity interest of the issuing Person as set forth in Annex E hereto; (viii) the Partnership Interests held by such Pledgor consist of the number and type of interests of the Persons described in Annex F hereto; (ix) each such Partnership Interest constitutes that percentage or portion of the entire partnership interest of the Partnership as set forth in Annex F hereto; (x) the Pledgor has complied with the respective procedure set forth in Section 3.2(a) hereof with respect to each item of Collateral described in Annexes B through F hereto; and (xi) on the Amendment and Restatement Effective Date, such Pledgor owns no other Securities, Limited Liability Company Interests or Partnership Interests.
+Payment and Performance of Obligations
+Release Upon Full Payment
+“1.14       Maturity Date.
+____:1.00
+____:1.00
+____:1.00
+____:1.00
+____:1.00
+During the Relevant Period, neither the Borrower nor any of its Subsidiaries has received any proceeds from a Casualty Loss in excess of $5,000,000.20
+During the Relevant Period, neither the Borrower nor any Subsidiary Guarantor has acquired any Real Property with a fair market value greater than $ 2,000,000.21
+21                                        If the Borrower or any Subsidiary Guarantor has acquired any Real Property with a fair market value greater than $ 2,000,000 during the Relevant Period, the certificate should describe such Real Property, the location thereof and the fair market value thereof.
+61,840,622
+6,722,033
+68,562,655
+(15,042,191
+(2,813,126
+(17,855,317
+Less: Logged Receipts (Unapplied Cash)
+50,707,338
+(13,382,482
+37,324,855
+31,726,127
+(594,072
+31,132,055
+283,183,109
+539,561,282
+  69,135,302
+891,879,693
+4,411,766
+   103,989
+4,515,755
+(4,817,634
+891,577,815
+624,104,470
+655,236,525
+655,236,525
+650,000,000
+655,236,525
+650,000,000
+10,945,304
+115,024,074
+125,969,378
+374,030,622
+d)             Payment Terms over 90 days
+e)              50% past due, then whole account past due
+4,817,634
+4,817,634
+(x) Orderly Liquidation Value at 12/31/04 (a)
+800,392
+680,333
+(y) Net Book Value of Eligible Rental Equipment as of 12/31/04 (a)
+896,645,858
+672,484,393
+38,503,726
+32,728,167
+705,212,561
+(398,036
+Aggregate principal amount of outstanding Senior Secured Notes (line (7) of Borrowing Base)
+(150,000,000
+Aggregate principal amount of Senior Secured Notes redeemed or repurchased less net proceeds from Permitted Units Financing1
+(150,398,036)
+(398,036)
+Net proceeds from Permitted Units Financing2
+(398,036)
+554,814,525
+(150,000,000
+404,814,525
+(11)                          Maximum permitted amount (greater of $300,000,000 and (10))
+404,814,525
+4                                            Assignments made pursuant to Section 11.6(b)(A)(y) shall not be less than $1,000,000 in the case of such Lender’s Term Loan or $5,000,000 in the case of such Lender’s Revolving Credit Commitment.
+7                                            Assignments made pursuant to Section 11.6(b)(A)(y) shall not be less than $1,000,000 in the case of such Lender’s Term Loan or $5,000,000 in the case of such Lender’s Revolving Credit Commitment.
+[Payment Instructions:
+Payment.
+From and after the Effective Date, the Administrative Agent shall make all payment in respect to the Assigned Interest (including payments of principal, interest, fees and other amounts) to the Assignor for amounts which have accrued to but excluding the Effective
+[NAME OF ASSIGNOR] (“Assignor”) has sold to [NAME OF ASSIGNEE] (“Assignee”) an assignment of $______ aggregate principal amount of outstanding Term Loans and $_______ of Revolving Credit Commitments 1  (together Commitments (together with the related outstanding principal of Revolving Loans and outstanding Letter of Credit Obligations)).2
+1                                            Assignments made pursuant to Section 11.6(b)(A)(y) shall not be less than $1,000,000 in the case of such Lender’s Term Loan or $5,000,000 in the case of such Lender’s Revolving Credit Commitment.
+Upfront Fees:5
+4                    Must be at least $5,000,000, in integral multiples of $1,000,000 in excess thereof.
+WHEREAS, the Assignees desire to purchase from the Assignors, and the Assignors desire to sell, transfer and assign to the Assignees, as herein provided, all of the Assignors’ rights, interests, obligations and Revolving Credit Commitments arising under the Current Credit Agreement and all other Credit Documents, including, without limitation (i) all of the Assignors’ Revolving Credit Commitments to make Revolving Loans under the Current Credit Agreement (collectively, the “Assignors’ Revolving Credit Commitments”), (ii) all of the Loans made under the Current Credit Agreement
+WHEREAS, on the Effective Date immediately prior to the effectiveness of the assignments and assumptions set forth in Section 1 hereof, the Majority Lenders of each Tranche and the Required Lenders are agreeing to amend the Current Credit Agreement to provide, among other things, that the Borrower shall borrow from the Current Administrative Agent a Revolving Loan in the amount of $53,988,557.30 and use the proceeds of such Loan for the sole purpose of repaying in full the principal amount of, and interest accrued but unpaid on, Loans owing to the Lenders whose names and Loan balances are set forth on Schedule B hereto (such Lenders are hereinafter called the “Non-Assigning Lenders”) and all other amounts owing to the Non-Assigning Lenders under the Current Credit Agreement; and

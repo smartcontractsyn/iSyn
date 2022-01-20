@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "Credit Agreement",
+    "SellerName": [
+        "AMC ENTERTAINMENT INC."
+    ],
+    "BuyerName": [
+        "GRUPO CINEMEX, S.A. DE C.V.；CADENA MEXICANA DE EXHIBICIÓN, S.A. DE C.V."
+    ],
+    "EffectiveTime": [
+        "January 26, 2006"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "GRUPO CINEMEX, S.A. DE C.V.；CADENA MEXICANA DE EXHIBICIÓN, S.A. DE C.V."
+            ],
+            "To": [
+                "AMC ENTERTAINMENT INC."
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

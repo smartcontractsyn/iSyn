@@ -1,0 +1,33 @@
+November 7, 2017
+(v)                                 Absence of Proceedings.
+(y)                                 Absence of Further Requirements.
+(d)                                 Notice to the Representative.
+(a)                                 Registration Compliance; No Stop Order.
+(b)                                 Indemnification of the Company.
+This Agreement may be terminated in the absolute discretion of the Representative, by notice to the Company, if after the execution and delivery of this Agreement and prior to the Closing Date or, in the case of the Option Securities, prior to the Additional Closing Date (i) trading generally shall have been suspended or materially limited on or by any of NYSE or The NASDAQ Stock Market; (ii) trading of any securities issued or guaranteed by the Company shall have been suspended on any exchange or in any over-the-counter market; (iii) a general moratorium on commercial banking activities shall have been declared by federal or New York State authorities; or (iv) there shall have occurred any outbreak or escalation of hostilities or any change in financial markets or any calamity or crisis, either within or outside the United States, that, in the judgment of the Representative, is material and adverse and makes it impracticable or inadvisable to proceed with the offering, sale or delivery of the Securities on the Closing Date or the Additional Closing Date, as the case may be, on the terms and in the manner contemplated by this Agreement, the Time of Sale Information and the Prospectus.
+(c)                                  If, after giving effect to any arrangements for the purchase of the Securities of a defaulting Underwriter or Underwriters by the non-defaulting Underwriters and the Company as provided in paragraph (a) above, the aggregate number of Securities that remain unpurchased on the Closing Date or the Additional Closing Date, as the case may be, exceeds one-eleventh of the aggregate principal amount of Securities to be purchased on such date, or if the Company shall not exercise the right described in paragraph (b) above, then this Agreement or, with respect to any Additional Closing Date, the obligation of the Underwriters to purchase Securities on the Additional Closing Date, as the case may be, shall terminate without liability on the part of the non-defaulting Underwriters.
+Any termination of this Agreement pursuant to this Section 10 shall be without liability on the part of the Company, except that the Company will continue to be liable for the payment of expenses as set forth in Section 11 hereof and except that the provisions of Section 7 hereof shall not terminate and shall remain in effect.
+(b)                                 If (i) this Agreement is terminated pursuant to Section 9, (ii) the Company for any reason fails to tender the Securities for delivery to the Underwriters or (iii) the Underwriters decline to purchase the Securities for any reason permitted under this Agreement, the Company agrees to reimburse the Underwriters for all out-of-pocket costs and expenses (including the fees and expenses of their counsel) reasonably incurred by the Underwriters in connection with this Agreement and the offering contemplated hereby.
+(b)                                 Notices.
+49.74
+November 15, 2020, unless earlier repurchased or converted
+November 13, 2017
+10.7712
+9.7272
+7.5315
+5.4088
+November 15, 2018
+10.7712
+9.2360
+4.9123
+November 15, 2019
+10.7712
+3.8892
+1.2330
+November 15, 2020
+10.7712
+6.5501
+3.3859
+November 8, 2017
+November 13, 2017 (T+3)*
+The undersigned understands that, if the Underwriting Agreement does not become effective by December 31, 2017, or if the Underwriting Agreement (other than the provisions thereof which survive termination) shall terminate or be terminated prior to payment for and delivery of the Common Stock to be sold thereunder, the undersigned shall be released from all obligations under this Letter Agreement.

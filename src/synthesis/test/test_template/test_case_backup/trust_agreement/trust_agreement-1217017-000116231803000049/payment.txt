@@ -1,0 +1,1056 @@
+LT1-Pool 15.25%$273,296,791.38LT1-AP(1)0.00%2,081,938.00LT1-1-AX(1)(1)
+LT1-Pool 26.00%$112,454,501.78LT1-AP(2)0.00%282,815.00LT1-AX(2)(2)(2)
+LT1-Pool 35.35%$150,710,706.56LT1-AP(3)0.00%1,194,565.00LT1-AX(3)(3)(3)
+LT1-Pool 45.50%$59,716,731.18LT1-AP(4)0.00%1,026,561.00LT1-AX(4)(4)(4)
+R-1(5)(5)__________________(1)The Class LT1-1-AX Interest is entitled to receive on each Distribution Date a specified portion of the interest payable on the AX Mortgage Loans in Pool 1.
+Specifically, for each Accrual Period, the Class LT1-1-AX Interest is entitled to interest accruals on the AX Mortgage Loans in Pool 1 at a per annum rate equal to the excess of the weighted average of the Net Mortgage Rates on the AX Mortgage Loans in Pool 1 over 5.25%.
+(2)The Class LT1-AX(2) Interest is entitled to receive on each Distribution Date a specified portion of the interest payable on the AX Mortgage Loans in Pool 2.
+Specifically, for each Accrual Period, the Class LT1-AX(2) Interest is entitled to interest accruals on the AX Mortgage Loans in Pool 2 at a per annum rate equal to the excess of the weighted average of the Net Mortgage Rates on the AX Mortgage Loans in Pool 2 over 6.00%.
+(3)The Class LT1-AX(3) Interest is entitled to receive on each Distribution Date a specified portion of the interest payable on the AX Mortgage Loans in Pool 3.
+Specifically, for each Accrual Period, the Class LT1-AX(3) Interest is entitled to interest accruals on the AX Mortgage Loans in Pool 3 at a per annum rate equal to the excess of the weighted average of the Net Mortgage Rates on the AX Mortgage Loans in Pool 3 over 5.35%.
+(4)The Class LT1-AX(4) Interest is entitled to receive on each Distribution Date a specified portion of the interest payable on the AX Mortgage Loans in Pool 4.
+Specifically, for each Accrual Period, the Class LT1-AX(4) Interest is entitled to interest accruals on the AX Mortgage Loans in Pool 4 at a per annum rate equal to the excess of the weighted average of the Net Mortgage Rates on the AX Mortgage Loans in Pool 4 over 5.50%.
+On each Distribution Date, Net Prepayment Shortfalls shall be allocated between the Class LT1-Pool 1, LT1-Pool 2, Class LT1-Pool 3 and Class LT1-Pool 4 Interests based on the relative amounts of interest otherwise accrued for the related Accrual Period on each such REMIC I Interest.On each Distribution Date, the Available Distribution Amount distributable as principal shall be distributed as principal on REMIC I Interests as follows:  (a)First, to the Class LT1-AP(1) Interest, the AP Principal Distribution Amount for Pool 1;(b)Second, to the Class LT1-AP(2) Interest, the AP Principal Distribution Amount for Pool 2;(c)Third, to the Class LT1-AP(3) Interest, the AP Principal Distribution Amount for Pool 3;(d)Fourth, to the Class LT1-AP(4) Interest, the AP Principal Distribution Amount for Pool 4;(e)Fifth, to the Class LT1-Pool 1 Interest, the remaining amounts distributable as principal with respect to Pool 1;(f)Sixth, to the Class LT1-Pool 2 Interest, the remaining amounts distributable as principal with respect to Pool 2;(g)Seventh, to the Class LT1-Pool 3 Interest, the remaining amounts distributable as principal with respect to Pool 3;(h)Eighth, to the Class LT1-Pool 4 Interest, the remaining amounts distributable as principal with respect to Pool 4.On each Distribution Date, Realized Losses and Excess Losses shall each be allocated among the REMIC I Interests in the same manner that principal is distributed among such REMIC I Interests.REMIC IIREMIC II shall hold as assets all the REMIC I Interests, other than the Class R-1 Interest.
+REMIC IIClassDesignationInterest RateInitial Class Principal             Amount           LT2-1-AX(1)(1)LT2-AX(2)(2)LT2-AP0.00%$4,585,879.00LT2-GSA-1(3)60,586.91LT2-GSA-2(3)24,805.02LT2-GSA-3(3)33,427.07LT2-GSA-4(3)13,367.31LT2-Q(3) 596,046,544.59R-2(4)(4)__________________(1)The Class LT2-1-AX Interest is entitled to receive on each Distribution Date 100% of the amounts distributable with respect to the Class LT1-1-AX Interest.
+(2)The Class LT2-AX Interest is entitled to receive on each Distribution Date 100% of the amounts distributable with respect to the Class LT1-AX(2), Class LT1-AX(3), and Class LT1-AX(4) Interests.
+(3)For any Distribution Date (and the related Accrual Period) the interest rate for each of these REMIC II Interests shall be a per annum rate equal to the weighted average of the rates at which interest accrues on the Class LT1-Pool 1, Class LT1-Pool 2, Class LT1-Pool 3 and Class LT1-Pool 4  Interests for the related Accrual Period, weighted on the basis of the Class Principal Amount of each such REMIC I Interest as of the beginning of the related Accrual Period.
+(b)Principal, other than the AP Principal Distribution Amount, as follows:(i)First, to the Class LT2-GSA-1 Interest until its Class Principal Amount equals 1% of the Group Subordinate Amount for Pool 1 for such Distribution Date;(ii)Second, to the Class LT2-GSA-2 Interest until its Class Principal Amount equals 1% of the Group Subordinate Amount for Pool 2 for such Distribution Date;(iii)Third, to the Class LT2-GSA-3 Interest until its Class Principal Amount equals 1% of the Group Subordinate Amount for Pool 3 for such Distribution Date;(iv)Fourth, to the Class LT2-GSA-4 Interest until its Class Principal Amount equals 1% of the Group Subordinate Amount for Pool 4 for such Distribution Date; and(v)Fifth, to the Class LT2-GSA-1, Class LT2-GSA-2, Class LT2-GSA-3 and Class LT2-GSA-4 Interests the minimum amounts necessary to any such Class such that, following the distributions of any such amounts, the relative proportions among the Class LT2-GSA-1, Class LT2-GSA-2, Class LT2-GSA-3 and Class LT2-GSA-4 Interests equal the relative proportions among the Group Subordinate Amounts of Pool 1, Pool 2, Pool 3 and Pool 4 respectively; and(vi)Sixth, to the Class LT2-Q Interest, any remaining amount.On each Distribution Date, Realized Losses and Excess Losses shall each be allocated among the REMIC II Interests in the same manner that principal is distributed among the REMIC II Interests.REMIC IIIREMIC III shall hold as assets all the REMIC II Interests, other than the Class R-2 Interest.
+REMIC III
+Class DesignationInterest RateInitial Class
+Principal
+   Amount   Corresponding Class
+of Certificates
+      or Components     LT3-1-A15.25%$70,922,000.00Class 1-A1, Class 1-A7LT3-1-A25.25%50,000,000.00Class 1-A2, Class 1-A7LT3-1-A35.25%51,108,000.00Class 1-A3LT3-1-A45.25%30,000,000.00Class 1-A4LT3-1-A55.25%65,207,000.00Class 1-A5LT3-1-A65.25%1,000.00Class 1-A6
+LT3-2-A16.00%109,974,000.00Class 2-A1
+LT3-3-A15.35%147,368,000.00Class 3-A1
+LT3-4-A15.50%58,380,000.00Class 4-A1
+LT3-AR5.25%100.00Class R
+LT3-1-AX(1)(1)Class 1-AXLT3-AX(2)(2)Class AXLT3-AP0.00%$4,585,879.00Class AP
+LT3-B1(3)8,110,000.00Class B1LT3-B2(3)1,802,000.00Class B2LT3-B3(3)1,201,000.00Class B3LT3-B4(3)600,000.00Class B4LT3-B5(3)600,000.00Class B5LT3-B6(3)905,630.00Class B6
+LT3-R(4)(4)__________________(1)The Class LT3-1-AX Interest is entitled to receive on each Distribution Date 100% of the amounts distributable with respect to the Class LT2-1-AX Interest.
+(2)The Class LT3-AX Interest is entitled to receive on each Distribution Date 100% of the amounts distributable with respect to the Class LT2-AX Interest.
+(3)For each Distribution Date (and the related Accrual Period) each of these REMIC III Interests will accrue interest at a per annum rate equal to the Average Rate (i.e.
+the weighted average of the rates at which interest accrues on the Class LT2-GSA-1, Class LT2-GSA-2 , Class LT2-GSA-3 and Class LT2-GSA-4 Interests, computed after subjecting the rate on the Class LT2-GSA-1 Interest to a cap and a floor equal to the Designated Rate for Pool 1, subjecting the rate on the Class LT2-GSA-2 Interest to a cap and a floor equal to the Designated Rate for Pool 2, subjecting the rate on the Class LT2-GSA-3 Interest to a cap and a floor equal to the Designated Rate for Pool 3, and subjecting the rate on the Class LT2-GSA-4 Interest to a cap and a floor equal to the Designated Rate for Pool 4).
+Class 1-A14.27%$ 70,922,000.00$     25,000Class 1-A23.24%$ 50,000,000.00$     25,000Class 1-A35.25%$ 51,108,000.00$     25,000Class 1-A45.25%$ 30,000,000.00$     25,000Class 1-A55.25%$ 65,207,000.00$     25,000Class 1-A65.25%$          1,000.00      100%Class 1-A75.25%(1)$1,000,000Class 1-AX5.50%(2)$1,000,000Class 2-A16.00%$109,974,000.00$     25,000Class 3-A15.35%$147,368,000.00$     25,000Class 4-A15.50%$58,380,000.00$     25,000Class AP0.00%$   4,585,879.00$   150,000Class AX6.00%(3)$1,000,000Class B1(4)$   8,110,000.00$   100,000Class B2(4)$   1,802,000.00$   100,000Class B3(4)$   1,201,000.00$   100,000Class B4(4)$      600,000.00$   100,000Class B5(4)$      600,000.00$   100,000Class B6(4)$      905,630.00$   100,000Class R(5)5.25%$             100.00100%Class P(6)(6)100%Class E(7)(7)100%___________________(1)The Class Notional Amount with respect to any Distribution Date (and the related Accrual Period) for the Class 1-A7 Certificates will equal the sum of (i) the product of (x) 18.6666666667% and (y) the Class Principal Amount of the Class 1-A1Certificates immediately before such Distribution Date and (ii) the product of (x) 38.2857142857% and (y) the Class Principal Amount of the Class 1-A2 Certificates immediately before such Distribution Date.
+The initial Class Notional Amount of the Class 1-A17 Certificates is $32,381,630.48(2)The Class Notional Amount with respect to any Distribution Date (and the related Accrual Period) for the Class 1-AX Certificates will  the product of  (i) a fraction, the numerator of which is the weighted average of the Net Mortgage Rates of the AX Mortgage Loans in Pool 1 at the beginning of the related Due Period minus 5.25% and the denominator of which is 5.50% and (ii) the total Scheduled Principal Balance of the AX Mortgage Loans in Pool 1 as of the first day of the related Accrual Period.
+The initial Class Notional Amount of the Class 1-A12 Certificates is $10,965,092.33.
+Interest shall accrue on the basis of a 360-day year comprising twelve 30-day months.Act:  As defined in Section 3.03(c).Additional Collateral:  None.Advance:  An advance of the aggregate of payments of principal and interest (net of the applicable Servicing Fee) on one or more Mortgage Loans that were due on the Due Date in the related Due Period and not received as of the close of business on the related Determination Date, required to be made by or on behalf of the Master Servicer and the related Servicer (or by the Trustee) pursuant to Section 5.04.Affiliate:  With respect to any specified Person, any other Person controlling or controlled by or under common control with such specified Person.
+As to any Non-Discount Mortgage Loan, 0%.AP Principal Distribution Amount:  For any Distribution Date and for each Mortgage Pool, the sum of the following amounts:(i)the applicable AP Percentage of the principal portion of each Scheduled Payment (without giving effect to any Debt Service Reduction occurring prior to the Bankruptcy Coverage Termination Date) on each Mortgage Loan in the related Mortgage Pool due during the related Due Period;(ii)the applicable AP Percentage of each of the following amounts:  (1) each Principal Prepayment collected on a Mortgage Loan in the related Mortgage Pool during the applicable Prepayment Period, (2) each other unscheduled collection, including Insurance Proceeds and Net Liquidation Proceeds (other than with respect to any Mortgage Loan in the related Mortgage Pool that was finally liquidated during the applicable Prepayment Period), representing or allocable to recoveries of principal of such Mortgage Loan in the related Mortgage Pool received during the applicable Prepayment Period and (3) the principal portion of all proceeds of the purchase of any Mortgage Loan in the related Mortgage Pool (or, in the case of a permitted substitution, amounts representing a principal adjustment) actually received by the Trustee with respect to the applicable Prepayment Period;(iii)with respect to unscheduled recoveries allocable to principal of any Mortgage Loan in the related Mortgage Pool that was finally liquidated during the related Prepayment Period, the applicable AP Percentage of the related net Liquidation Proceeds allocable to principal; and(iv)any amounts described in clauses (i) through (iii) for any previous Distribution Date that remain unpaid.Apportioned Principal Balance:  As to any Class of Subordinate Certificates and any Distribution Date, the Class Principal Amount of such Class immediately prior to such Distribution Date multiplied by a fraction, the numerator of which is the applicable Group Subordinate Amount for such date and the denominator of which is the sum of the Group Subordinate Amounts for all Mortgage Pools for such date.Appraised Value:  With respect to any Mortgage Loan, the amount set forth in an appraisal made in connection with the origination of such Mortgage Loan as the value of the related Mortgaged Property.Assignment of Mortgage:  An assignment of the Mortgage, notice of transfer or equivalent instrument, in recordable form, sufficient under the laws of the jurisdiction wherein the related Mortgaged Property is located to reflect the sale of the Mortgage to the Trustee, which assignment, notice of transfer or equivalent instrument may be in the form of one or more blanket assignments covering the Mortgage Loans secured by Mortgaged Properties located in the same jurisdiction, if permitted by law; provided, however, that the Trustee shall not be responsible for determining whether any such assignment is in recordable form.Aurora:  Aurora Loan Services Inc. or its successor in interest, in its capacity as a Servicer.Authenticating Agent:  Any authenticating agent appointed by the Trustee pursuant to Section 6.10.Authorized Officer:  Any Person who may execute an Officer’s Certificate on behalf of the Depositor.Available Distribution Amount:  As to each Mortgage Pool and on any Distribution Date, the sum of the following amounts:(i)the total amount of all cash received by the Master Servicer through the Remittance Date applicable to each Servicer and deposited with the Trustee by the Master Servicer by the Master Servicer Remittance Date for such Distribution Date on the Mortgage Loans of such Mortgage Pool (including proceeds of any Insurance Policy and any other credit support relating to such Mortgage Loans and including recoveries through liquidation of any REO Property), plus all Advances made by the Master Servicer or any Servicer for such Distribution Date, any Compensating Interest Payment for such date and Mortgage Pool and any amounts paid by any Servicer in respect of Prepayment Interest Shortfalls in respect of the related Mortgage Loans for such date, any proceeds of any purchase of a related Mortgage Loan and any Prepayment Penalty Amounts with respect to the related Mortgage Loans for which the Sellers own the servicing rights, but not including:(A)all amounts distributed pursuant to Section 5.02 on prior Distribution Dates;(B)all Scheduled Payments of principal and interest collected but due on a date subsequent to the related Due Period;(C)all Principal Prepayments received or identified by the applicable Servicer after the applicable Prepayment Period (together with any interest payments received with such prepayments to the extent that they represent the payment of interest accrued on the related Mortgage Loans for the period subsequent to the applicable Prepayment Period);(D)any other unscheduled collection, including Net Liquidation Proceeds and Insurance Proceeds, received by the Master Servicer after the applicable Prepayment Period;(E)all fees and amounts due or reimbursable to the Master Servicer, the Trustee, a Custodian or any Servicer pursuant to the terms of this Agreement, a Custodial Agreement or the applicable Servicing Agreement;(F)any Prepayment Penalty Amounts with respect to Mortgage Loans for which the Sellers do not hold the servicing rights;(G)any Prepayment Interest Excess; and(H)such portion of each payment in respect of interest representing Retained Interest; and(v)any other payment made by the Master Servicer, any Servicer, the Sellers, the Depositor, or any other Person with respect to such Distribution Date (including the Purchase Price with respect to any Mortgage Loan purchased by the Sellers, the Depositor or any other Person and any related Substitution Amount).Average Rate:  With respect to each Distribution Date and each Subordinate Class, a per annum rate equal to the weighted average of the Designated Rates for each Mortgage Pool, expressed as a percentage and weighted on the basis of the Group Subordinate Amount for each such Mortgage Pool.AX Mortgage Loans:  The Non-Discount Mortgage Loans listed on Schedule B-2 hereto.Balloon Mortgage Loan:  Any Mortgage Loan having an original term to maturity that is shorter than its amortization schedule, and a final Scheduled Payment that is disproportionately large in comparison to other Scheduled Payments.Balloon Payment:  The final Scheduled Payment in respect of a Balloon Mortgage Loan.Bankruptcy:  With respect to any Person, the making of an assignment for the benefit of creditors, the filing of a voluntary petition in bankruptcy, adjudication as a bankrupt or insolvent, the entry of an order for relief in a bankruptcy or insolvency proceeding, the seeking of reorganization, arrangement, composition, readjustment, liquidation, dissolution or similar relief, or seeking, consenting to or acquiescing in the appointment of a trustee, receiver or liquidator, dissolution, or termination, as the case may be, of such Person pursuant to the provisions of either the United States Bankruptcy Code of 1986, as amended, or any other similar state laws.Bankruptcy Coverage Termination Date:  With respect to any Mortgage Pool, the Distribution Date on which the Bankruptcy Loss Limit has been reduced to zero (or less than zero).Bankruptcy Loss Limit:  As of the Cut-off Date, $100,000 which amount shall be reduced from time to time by the amount of Bankruptcy Losses allocated to the Certificates.Bankruptcy Losses:  With respect to the Mortgage Loans in the related Mortgage Pool, losses that are incurred as a result of Deficient Valuations and any reduction, in a bankruptcy proceeding, of the amount of the Scheduled Payment on a Mortgage Loan other than as a result of a Deficient Valuation.Benefit Plan Opinion:  An Opinion of Counsel satisfactory to the Trustee to the effect that any proposed transfer will not (i) cause the assets of the Trust Fund to be regarded as plan assets for purposes of the Plan Asset Regulations or (ii) give rise to any fiduciary duty on the part of the Depositor or the Trustee.Blanket Mortgage:  The mortgage or mortgages encumbering a Cooperative Property.Book-Entry Certificates:  Beneficial interests in Certificates designated as “Book-Entry Certificates” in this Agreement, ownership and transfers of which shall be evidenced or made through book entries by a Clearing Agency as described in Section 3.09; provided, that after the occurrence of a condition whereupon book-entry registration and transfer are no longer permitted and Definitive Certificates are to be issued to Certificate Owners, such Book-Entry Certificates shall no longer be “Book-Entry Certificates.”  As of the Closing Date, all of the Classes of Certificates listed in the second table of the Preliminary Statement, other than the Class P and Class R Certificates, constitute Book-Entry Certificates.
+Component Certificate:  Any Class AP or Class AX Certificate.Component Interest Rate:  As set forth in the chart above.Component Notional Amount:  With respect to the AX(2) Component and each Distribution Date, the product of (i) a fraction, the numerator of which is the weighted average of the Net Mortgage Rates of the AX Mortgage Loans in Pool 2 at the beginning of the related Due Period minus 6.00% and the denominator of which is 6.00% and (ii) the total Scheduled Principal Balance of the AX Mortgage Loans in Pool 2 as of the first day of the related Accrual Period.
+With respect to the AX(3) Component and each Distribution Date, the product of (i) a fraction, the numerator of which is the weighted average of the Net Mortgage Rates of the AX Mortgage Loans in Pool 3 at the beginning of the related Due Period minus 5.35% and the denominator of which is 6.00% and (ii) the total Scheduled Principal Balance of the AX Mortgage Loans in Pool 3 as of the first day of the related Accrual Period.
+With respect to the AX(4) Component and any Distribution Date, the product of (i) a fraction, the numerator of which is the weighted average of the Net Mortgage Rates of the AX Mortgage Loans in Pool 4 at the beginning of the related Due Period minus 5.50% and the denominator of which is 6.00% and (ii) the total Scheduled Principal Balance of the AX Mortgage Loans in Pool 4 as of the first day of the related Accrual Period.
+With respect to Pool 2, 6.00% per annum.
+With respect to Pool 3, 5.35% per annum.
+With respect to Pool 4, 5.50% per annum.Determination Date:  With respect to each Distribution Date, the Remittance Date immediately preceding such Distribution Date.Discount Mortgage Loan:  With respect to Pool 1, any Mortgage Loan with a Net Mortgage Rate less than 5.25% per annum.
+With respect to Pool 2, any Mortgage Loan with a Net Mortgage Rate less than 6.00% per annum.
+With respect to Pool 3, any Mortgage Loan with a Net Mortgage Rate less than 5.35% per annum.
+With respect to Pool 2, any Mortgage Loan with a Net Mortgage Rate equal to or greater than 6.00% per annum.
+With respect to Pool 3, any Mortgage Loan with a Net Mortgage Rate equal to or greater than 5.35% per annum.
+With respect to Pool 4, any Mortgage Loan with a Net Mortgage Rate equal to or greater than 5.50% per annum.
+For purpose of Section 2.01(c)(i), the Opinion of Counsel referred to therein may take the form of a memorandum of law or other acceptable assurance.Original Credit Support Percentage:  With respect to each Class of Subordinate Certificates, the Credit Support Percentage for such Class of Certificates on the Closing Date.Original Subordinate Amount:  The Group Subordinate Amount for all four Mortgage Pools on the Closing Date.Original Value:  The lesser of (a) the Appraised Value of a Mortgaged Property at the time the related Mortgage Loan was originated and (b) if the Mortgage Loan was made to finance the acquisition of the related Mortgaged Property, the purchase price paid for the Mortgaged Property by the Mortgagor at the time the related Mortgage Loan was originated.PAC Principal Amount:  For each Class of PAC Certificates, and as to each Distribution Date, the amount set forth for such Class and date in the PAC Principal Amount Schedule.PAC Certificate:  Any Class 1-A1, Class 1-A2 or Class 1-A3 Certificate.PAC Principal Amount Schedule:  The table attached as Exhibit P-1 hereto that sets forth the PAC Principal Amounts for the PAC Certificates.Paying Agent:  Any paying agent appointed pursuant to Section 3.08.Percentage Interest:  With respect to any Certificate and the related Class, such Certificate’s percentage interest in the undivided beneficial ownership interest in the Trust Fund evidenced by all Certificates of the same Class as such Certificate.
+Prepayment Interest Shortfall:  With respect to any Distribution Date and (x) any Principal Prepayment in part (and, with respect to those Mortgage Loans serviced by Servicers other than Aurora, any Principal Prepayment in full) and (y) any Principal Prepayment in full with respect to those Mortgage Loans serviced by Aurora if received on or after the seventeenth day of the month immediately preceding the month of such Distribution Date, but on or before the last day of the month immediately preceding the month of such Distribution Date, the difference between (i) one full month’s interest at the applicable Mortgage Rate (after giving effect to any applicable Relief Act Reduction), as reduced by the applicable Servicing Fee Rate, the Master Servicing Fee Rate (if the Master Servicer is acting as Servicer) and the applicable Retained Interest Rate, if any, on the outstanding principal balance of such Mortgage Loan immediately prior to such prepayment and (ii) the amount of interest actually received with respect to such Mortgage Loan in connection with such Principal Prepayment.Prepayment Penalty Amounts:  With respect to any Distribution Date, all premiums or charges paid by the obligors under the related Mortgage Notes due to Principal Prepayments collected by the Servicers during the immediately preceding Prepayment Period.Prepayment Period:  With respect to those Mortgage Loans serviced by Servicers other than Aurora, any Distribution Date and any Principal Prepayment, whether in part or in full (including any liquidation), the calendar month immediately preceding the month in which such Distribution Date occurs.
+Notwithstanding any provision herein to the contrary, a Qualifying Substitute Mortgage Loan shall be deemed to have the same AP Percentage and Non-AP Percentage as that of the Deleted Mortgage Loan for which it was substituted.Rating Agency:  Each of S&P and Moody’s.Realized Loss:  (a) With respect to each Liquidated Mortgage Loan, an amount equal to (i) the unpaid principal balance of such Mortgage Loan as of the date of liquidation, plus (ii) interest at the applicable Net Mortgage Rate (plus the Employee Discount Rate, if any, for such Mortgage Loan) from the date as to which interest was last paid up to the last day of the month of such liquidation, minus (iii) Liquidation Proceeds received, net of amounts that are reimbursable to the Master Servicer or the applicable Servicer with respect to such Mortgage Loan (other than Advances of principal and interest) including expenses of liquidation, and (b) with respect to each Mortgage Loan that has become the subject of a Deficient Valuation, the difference between the unpaid principal balance of such Mortgage Loan immediately prior to such Deficient Valuation and the unpaid principal balance of such Mortgage Loan as reduced by the Deficient Valuation.
+In the case of any bi-weekly payment Mortgage Loan, all payments due on such Mortgage Loan during any Due Period shall be deemed collectively to constitute the Scheduled Payment due on such Mortgage Loan in such Due Period.Scheduled Principal Balance:  With respect to (i) any Mortgage Loan as of any Distribution Date, the principal balance of such Mortgage Loan at the close of business on the Cut-off Date, after giving effect to principal payments due on or before the Cut-off Date, whether or not received, less an amount equal to principal payments due after the Cut-off Date and on or before the Due Date in the related Due Period, whether or not received from the Mortgagor or advanced by the applicable Servicer or the Master Servicer, and all amounts allocable to unscheduled principal payments (including Principal Prepayments, Net Liquidation Proceeds, Insurance Proceeds and condemnation proceeds, in each case to the extent identified and applied prior to or during the applicable Prepayment Period) and (ii) any REO Property as of any Distribution Date, the Scheduled Principal Balance of the related Mortgage Loan on the Due Date immediately preceding the date of acquisition of such REO Property by or on behalf of the Trustee (reduced by any amount applied as a reduction of principal on the Mortgage Loan).
+With respect to each Mortgage Pool and for any Distribution Date occurring on or after the fifth anniversary of the first Distribution Date, the related Senior Percentage plus the following percentage of the related Subordinate Percentage for such Distribution Date: for any Distribution Date in the first year thereafter, 70%; for any Distribution Date in the second year thereafter, 60%; for any Distribution Date in the third year thereafter, 40%; for any Distribution Date in the fourth year thereafter, 20%; and for any subsequent Distribution Date, 0%; provided, however, that if on any of the foregoing Distribution Dates the Senior Percentage for a Mortgage Pool exceeds the initial Senior Percentage for such Mortgage Pool, the Senior Prepayment Percentage for each Mortgage Pool for such Distribution Date shall once again equal 100% for such Distribution Date.Notwithstanding the foregoing, no decrease in the Senior Prepayment Percentage for any Mortgage Pool below the level in effect for the most recent prior period set forth in the paragraph above shall be effective on any Distribution Date if, as of the first Distribution Date as to which any such decrease applies, (i) the average outstanding principal balance on such Distribution Date and for the preceding five Distribution Dates of all Mortgage Loans in such Mortgage Pool that were delinquent 60 days or more (including for this purpose any REO Property or Mortgage Loans in foreclosure and the Scheduled Payments that would have been due on Mortgage Loans with respect to which the related Mortgaged Property has been acquired by the Trust Fund if the related Mortgage Loan had remained in existence) is greater than or equal to 50% of the Original Subordinate Amount immediately prior to such Distribution Date or (ii) cumulative Realized Losses with respect to the Mortgage Loans in such Mortgage Pool exceed (a) with respect to the Distribution Date on the fifth anniversary of the first Distribution Date, 30% of the Original Subordinate Amount, (b) with respect to the Distribution Date on the sixth anniversary of the first Distribution Date, 35% of the Original Subordinate Amount, (c) with respect to the Distribution Date on the seventh anniversary of the first Distribution Date, 40% of the Original Subordinate Amount, (d) with respect to the Distribution Date on the eighth anniversary of the first Distribution Date, 45% of the Original Subordinate Amount, and (e) with respect to the Distribution Date on the ninth anniversary of the first Distribution Date or thereafter, 50% of the Original Subordinate Amount.
+After the Class Principal Amount of each Class of Senior Certificates (and the Component Principal Amount of the related Components) in any Certificate Group has been reduced to zero, the Senior Prepayment Percentage for the related Mortgage Pool shall be 0%.Senior Principal Distribution Amount:  For each Certificate Group and any Distribution Date, the sum of the following amounts:(i)the product of (1) the related Senior Percentage for such date and (2) the principal portion (multiplied by the applicable Non-AP Percentage) of each Scheduled Payment (without giving effect to any Debt Service Reduction occurring prior to the Bankruptcy Coverage Termination Date), on each Mortgage Loan in the related Mortgage Pool due during the related Due Period;(ii)the product of (a) the related Senior Prepayment Percentage for such date and (b) each of the following amounts (multiplied by the applicable Non-AP Percentage):  (1) each Principal Prepayment on the Mortgage Loans in the related Mortgage Pool collected during the related Prepayment Period, (2) each other unscheduled collection, including Insurance Proceeds and Net Liquidation Proceeds (other than with respect to any Mortgage Loan in the related Mortgage Pool that was finally liquidated during the related Prepayment Period) representing or allocable to recoveries of principal received during the related Prepayment Period, and (3) the principal portion of all proceeds of the purchase of any Mortgage Loan in the related Mortgage Pool (or, in the case of a permitted substitution, amounts representing a principal adjustment) actually received by the Trustee during the related Prepayment Period;(iii)with respect to unscheduled recoveries allocable to principal of any Mortgage Loan in the related Mortgage Pool that was finally liquidated during the related Prepayment Period, the lesser of (a) the related net Liquidation Proceeds allocable to principal (multiplied by the applicable Non-AP Percentage) and (b) the product of the related Senior Prepayment Percentage for such date and the Scheduled Principal Balance (multiplied by the applicable Non-AP Percentage) of such related Mortgage Loan at the time of liquidation; and(iv)any amounts described in clauses (i) through (iii) for any previous Distribution Date that remain unpaid.If on any Distribution Date the Class Principal Amount of each Class of Senior Certificates (other than any Class AP Certificates) and the Component Principal Amount of the related Component in any Certificate Group has been reduced to zero, the Senior Principal Distribution Amount for such Certificate Group for such date (following such reduction) and each subsequent Distribution Date shall be zero.Senior Principal Priorities:  The priorities for distribution of principal to the Senior Certificates and Components as set forth in Exhibit O.Servicer:  Any Servicer that has entered into any of the Servicing Agreements attached as Exhibit E hereto, or any successors in interest.
+Within the two year period following the Closing Date, the Depositor may, in lieu of repurchasing a Mortgage Loan pursuant to this Section 2.02, substitute for such Mortgage Loan a Qualifying Substitute Mortgage Loan subject to the provisions of Section 2.05.
+Each Class of Book-Entry Certificates shall be issued in the minimum denominations in Certificate Principal Amount (or Notional Amount) or Percentage Interest specified in the Preliminary Statement hereto and in integral multiples of $1 or 5% (in the case of Certificates issued in Percentage Interests) in excess thereof.
+The Trustee shall make withdrawals from the Certificate Account only for the following purposes:(i)to withdraw amounts deposited in the Certificate Account in error;(ii)to pay itself any investment income earned with respect to funds in the Certificate Account invested in Eligible Investments as set forth in subsection (c) below, and to make payments to itself prior to making distributions pursuant to Section 5.02 for any expenses or other indemnification owing to the Trustee and others pursuant to any provision of this Agreement;(iii)to make payments of the Master Servicing Fee (to the extent not already withheld or withdrawn from the Collection Account by the Master Servicer) to the Master Servicer;(iv)to make distributions to the Certificateholders pursuant to Article V; and(v)to clear and terminate the Certificate Account pursuant to Section 7.02.
+If any payment required to be made on the Certificates is to be made on a day that is not a Business Day, then such payment will be made on the next succeeding Business Day.
+(e)On each Distribution Date, the Accrual Amount for such date shall be distributed in reduction of the Class Principal Amounts of the Class 1-A4 and Class 1-A5 Certificates, pro rata, until their Class Principal Amounts have been reduced to zero, and an equal amount will be added to the Class Principal Amount of the Class 1-A6 Certificates.
+(g)(i)  On each Distribution Date prior to the Credit Support Depletion Date but after the date on which the aggregate Certificate Principal Amount or Component Principal Amount of the Non-AP Senior Certificates and the Non-AP Senior Components of any Certificate Group has been reduced to zero, amounts otherwise distributable as principal on each Class of Subordinate Certificates pursuant to Section 5.02(a)(vii), in reverse order of priority, in respect of such Class’s Subordinate Class Percentage of the Subordinate Principal Distribution Amount for the Mortgage Pool relating to such retired Certificates, shall be distributed as principal to the Non-AP Senior Certificates and the Non-AP Senior Components (other than any Notional Certificates or Notional Components) remaining outstanding pursuant to Section 5.02(a)(iv) until the Class Principal Amounts or Component Principal Amounts thereof have been reduced to zero, provided that on such Distribution Date (a) the Aggregate Subordinate Percentage for such Distribution Date is less than 200% of the Aggregate Subordinate Percentage as of the Cut-off Date or (b) the average outstanding principal balance of the Mortgage Loans in any Mortgage Pool that are delinquent 60 days or more for the last six months as a percentage of the related Group Subordinate Amount is greater than or equal to 50%.
+Compensating Interest Payments.The amount of the Master Servicing Fee payable to the Master Servicer in respect of any Distribution Date shall be reduced by the amount of any Compensating Interest Payment for such Distribution Date, but only to the extent such Compensating Interest Payment is not actually made by a Servicer on the applicable Remittance Date.
+The property of the Trust Fund shall be sold at a price (the “Termination Price”) equal to the sum of : (i) 100% of the unpaid principal balance of each Mortgage Loan on the day of such purchase plus interest accrued thereon at the applicable Mortgage Rate with respect to any Mortgage Loan to the Due Date in the Due Period immediately preceding the related Distribution Date to the date of such repurchase, (ii) the fair market value of any REO Property and any other property held by any REMIC, such fair market value to be determined by an appraiser or appraisers appointed by the Master Servicer with the consent of the Trustee and (iii) any unreimbursed Servicing Advances with respect to each Mortgage Loan.Section 7.02     Procedure Upon Termination of Trust Fund.
+The latest possible maturity date for purposes of Treasury Regulation 1.86OG-1(a)(4) will be the Latest Possible Maturity Date.
+:Reason for requesting file:1.Mortgage Loan paid in full.
+Dear Sirs:In connection with our proposed purchase of $______________ principal amount of Mortgage Pass-Through Certificates, Series 2003-1 (the “Privately Offered Certificates”) of Structured Asset Securities Corporation (the “Depositor”) which are held in the form of Definitive Certificates, we confirm that:(1)We understand that the Privately Offered Certificates have not been, and will not be, registered under the Securities Act of 1933, as amended (the “Securities Act”), and may not be sold except as permitted in the following sentence.
+SENIOR PRINCIPAL PRIORITIES(3)to the Senior Certificates or Components of the related Certificate Group, other than any related Interest-Only Certificates or Interest-Only Components, to the extent of the remaining Available Distribution Amount for the related Mortgage Pool, as follows:(a)to the Class 1-A1, Class 1-A2, Class 1-A3, Class 1-A4, Class 1-A5, Class 1-A6 and Class R Certificates and the AP(1) Component, in reduction of their respective Class Principal Amounts or Component Principal Amount, from the Available Distribution Amount for Pool 1, concurrently, as follows:(i)to the Class 1-A1, Class 1-A2, Class 1-A3, Class 1-A4, Class 1-A5, Class 1-A6 and Class R Certificates, in an amount up to the Senior Principal Distribution Amount for Pool 1, in the following order of priority:(A)to the Class R Certificate, until its Class Principal Amount has been reduced to zero;(B)to the Class 1-A1, Class 1-A2, Class 1-A3 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their PAC Principal Amount for such Distribution Date (as set forth in the PAC Principal Amount Schedule attached in Annex B to this Prospectus Supplement), in the following order of priority:(I)concurrently, to the Class 1-A1, Class 1-A2 and Class 1-A3 Certificates, so long as the Class 1-A3 Certificates remain outstanding, as follows:(1)approximately 60.0267395222% of the amount distributable pursuant to clause (3)(a)(i)(B), sequentially, to the Class 1-A1 and 1-A3 Certificates, in that order, until their Class Principal Amounts have been reduced to zero; and(2)approximately 39.9732604778% of the amount distributable pursuant to clause (3)(a)(i)(B), sequentially, to the Class 1-A2 and 1-A3 Certificates, in the order, until their Class Principal Amounts have been reduced to zero;(II)sequentially, to the Class 1-A1, Class 1-A2 and Class 1-A3 Certificates, in that order, until their Class Principal Amounts have been reduced to zero;(C)concurrently, to the Class 1-A4 and Class 1-A5 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule I attached in Annex C to this Prospectus Supplement), for so long as both the Class 1-A4 and Class 1-A5 Certificates remain outstanding, as follows:(I)approximately 5.00% of the amount distributable pursuant to clause (3)(a)(i)(C), to the Class 1-A4 Certificates, until their Class Principal Amount has been reduced to zero; and(II)approximately 95.00% of the amount distributable pursuant to clause (3)(a)(i)(C), to the Class 1-A5 Certificates, until their Class Principal Amount has been reduced to zero;(D)concurrently, to the Class 1-A4 and Class 1-A5 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule II attached in Annex C to this Prospectus Supplement), for so long as both the Class 1-A4 and Class 1-A5 Certificates remain outstanding as follows:(I)approximately 29.50% of the amount distributable pursuant to clause (3)(a)(i)(D), to the Class 1-A4 Certificates, until their Class Principal Amount has been reduced to zero; and(II)approximately 70.50% of the amount distributable pursuant to clause (3)(a)(i)(D, to the Class 1-A5 Certificates, until their Class Principal Amount has been reduced to zero;(E)concurrently, to the Class 1-A4 and Class 1-A5 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule III attached in Annex C to this Prospectus Supplement), for so long as both the Class 1-A4 and Class 1-A5 Certificates remain outstanding, as follows:(I)approximately 38.50% of the amount distributable pursuant to clause (3)(a)(i)(E), to the Class 1-A4 Certificates, until their Class Principal Amount has been reduced to zero; and(II)approximately 61.50% of the amount distributable pursuant to clause (3)(a)(i)(E), to the Class 1-A5 Certificates, until their Class Principal Amount ahs been reduced to zero;(F)concurrently, to the Class 1-A4 and Class 1-A5 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule IV attached in Annex C to this Prospectus Supplement), for so long as both the Class 1-A4 and Class 1-A5 Certificates remain outstanding, as follows:(I)approximately 49.00% of the amount distributable pursuant to clause (3)(a)(i)(F), to the Class 1-A4 Certificates, until their Class Principal Amount has been reduced to zero; and(II)approximately 51.00% of the amount distributable pursuant to clause (3)(a)(i)(F), to the Class 1-A5 Certificates, until their Class Principal Amount has been reduced to zero;(G)concurrently, to the Class 1-A4 and Class 1-A5 Certificates, up to the amount necessary to reduce the aggregate Class Principal Amount thereof to their Scheduled Principal Amount for such Distribution Date (as set forth in the Principal Amount Schedule V attached in Annex C to this Prospectus Supplement), for so long as both the Class 1-A4 and Class 1-A5 Certificates remain outstanding, as follows:(I)approximately 51.50% of the amount distributable pursuant to clause (3)(a)(i)(G), to the Class 1-A4 Certificates, until their Class Principal Amount has been reduced to zero; and(II)approximately 48.50% of the amount distributable pursuant to clause (3)(a)(i)(G), to the Class 1-A5 Certificates, until their Class Principal Amount has been reduced to zero;(H)concurrently, to the Class 1-A4 and Class 1-A5 Certificates, without regard to their Principal Amount Schedules and for so long as both the Class 1-A4 and Class 1-A5 Certificates remain outstanding as follows:(I)approximately 57.10% of the amount distributable pursuant to clause (3)(a)(i)(H), to the Class 1-A4 Certificates, until their Class Principal Amount has been reduced to zero;(II)approximately 42.90% of the amount distributable pursuant to clause (3)(a)(i)(H), to the Class 1-A5 Certificates, until their Class Principal Amount has been reduced to zero; and(I)sequentially, to the Class 1-A4, Class 1-A5 and Class 1-A6 Certificates, in that order, until their Class Principal Amounts have been reduced to zero;(J)to the Class 1-A1, Class 1-A2 and Class 1-A3 Certificates, in the same manner and priority as specified in clause (3)(a)(i)(B), without regard to the PAC Principal Amount Schedule, until their respective Class Principal Amount have been reduced to zero;(ii)to the AP(1) Component, the AP Principal Distribution Amount (as defined herein) for Pool 1, until its Component Principal Amount has been reduced to zero;(b)to the Class 2-A1 Certificates and the AP(2) Component, in reduction of their Class Principal Amounts or Component Principal Amount, from the Available Distribution Amount for Pool 2, concurrently, as follows:(i)to the Class 2-A1 Certificates, in an amount up to the Senior Principal Distribution Amount for Pool 2, until their Class Principal Amount has been reduced to zero; and(ii)to the Class AP(2) Component, the AP Principal Distribution Amount for Pool 1, until its Component Principal Amount has been reduced to zero;(c)to the Class 3-A1 Certificates and the AP(3) Component, in reduction of their Class Principal Amounts or Component Principal Amount, from the Available Distribution Amount for Pool 3, concurrently as follows:(i)to the Class 3-A1 Certificates, in an amount up to the Senior Principal Distribution Amount for Pool 3, until their Class Principal Amount has been reduced to zero; and(ii)to the Class AP(3) Component, the AP Principal Distribution Amount for Pool 3, until its Component Principal Amount has been reduced to zero;(d)to the Class 4-A1 Certificates and the AP(4) Component, in reduction of their Class Principal Amounts or Component Principal Amount, from the Available Distribution Amount for Pool 4, concurrently, as follows:(i)to the Class 4-A1 Certificates, in an amount up to the Senior Principal Distribution Amount for Pool 4, until their Class Principal Amount have been reduced to zero; and(ii)to the Class AP(4) Component, the AP Principal Distribution Amount for Pool 4, until its Component Principal Amount has been reduced to zero.
+$172,030,000.00August 25, 2006$ 91,377,262.03February 25, 2003
+170,921,440.82September 25, 200689,413,278.42March 25, 2003
+169,764,667.16October 25, 200687,460,080.39April 25, 2003
+168,560,248.08November 25, 200685,517,613.48May 25, 2003
+167,308,679.53December 25, 200683,585,823.55June 25, 2003
+166,010,484.01January 25, 200781,664,656.71July 25, 2003
+164,666,210.28February 25, 200779,754,059.38August 25, 2003
+163,276,432.95March 25, 200777,853,978.24September 25, 2003
+161,841,752.09April 25, 200775,964,360.27October 25, 2003
+160,362,792.84May 25, 200774,085,152.71November 25, 2003
+158,840,204.98June 25, 200772,216,303.10December 25, 2003
+157,274,662.43July 25, 200770,357,759.24January 25, 2004
+155,666,862.78August 25, 200768,509,469.20February 25, 2004
+154,017,526.81September 25, 200766,671,381.33March 25, 2004
+152,327,397.92October 25, 200764,843,444.26April 25, 2004
+150,597,241.61November 25, 200763,025,606.88May 25, 2004
+148,827,844.90December 25, 200761,217,818.36June 25, 2004
+147,020,015.71January 25, 200859,420,028.11July 25, 2004
+145,174,582.30February 25, 200857,639,087.86August 25, 2004
+143,292,392.59March 25, 200855,867,946.99September 25, 2004
+141,374,313.55April 25, 200854,106,555.33October 25, 2004
+136,509,028.00May 25, 200852,354,862.96November 25, 2004
+134,555,833.69June 25, 200850,612,820.22December 25, 2004
+132,569,260.47July 25, 200848,911,695.43January 25, 2005
+130,550,245.57August 25, 200847,256,939.36February 25, 2005
+128,499,741.72September 25, 200845,647,369.67March 25, 2005
+126,418,716.44October 25, 200844,081,833.11April 25, 2005
+124,308,151.28November 25, 200842,559,204.77May 25, 2005
+122,169,199.43December 25, 200841,078,387.45June 25, 2005
+120,036,699.91January 25, 200939,638,310.96July 25, 2005
+117,915,837.95February 25, 200938,246,542.29August 25, 2005
+115,806,554.64March 25, 200936,893,191.17September 25, 2005
+113,708,791.38April 25, 200935,577,268.35October 25, 2005
+111,622,489.86May 25, 200934,297,809.04November 25, 2005
+109,547,592.10June 25, 200933,053,872.32December 25, 2005
+107,484,040.42July 25, 200931,844,540.59January 25, 2006
+105,431,777.42August 25, 200930,668,918.96February 25, 2006
+103,390,746.02September 25, 200929,526,134.76March 25, 2006
+101,360,889.43October 25, 200928,415,336.95April 25, 2006
+99,342,151.18November 25, 200927,335,695.63May 25, 2006
+97,334,475.06December 25, 200926,286,401.51June 25, 2006
+95,337,805.18January 25, 201025,266,665.44July 25, 2006
+93,352,085.94February 25, 201024,289,768.07
+23,340,354.55March 25, 2012
+7,290,615.74April 25, 2010
+22,417,705.01April 25, 2012
+6,846,227.65May 25, 2010
+21,521,117.63May 25, 2012
+6,414,671.15June 25, 2010
+20,649,908.18June 25, 2012
+5,995,606.09July 25, 2010
+19,803,409.59July 25, 2012
+5,588,700.88August 25, 2010
+18,980,971.57August 25, 2012
+5,193,632.34September 25, 2010
+18,181,960.14September 25, 2012
+4,810,085.45October 25, 2010
+17,405,757.29October 25, 2012
+4,437,753.17November 25, 2010
+16,651,760.55November 25, 2012
+4,075,215.79December 25, 2010
+15,919,382.62December 25, 2012
+3,723,347.73January 25, 2011
+15,208,051.02January 25, 2013
+3,381,863.31February 25, 2011
+14,527,882.66February 25, 2013
+3,050,484.10March 25, 2011
+13,867,109.11March 25, 2013
+2,728,938.78April 25, 2011
+13,225,216.80April 25, 2013
+2,416,962.90May 25, 2011
+12,601,705.16May 25, 2013
+2,114,298.78June 25, 2011
+11,996,086.30June 25, 2013
+1,820,695.28July 25, 2011
+11,407,884.70July 25, 2013
+1,535,907.68August 25, 2011
+10,836,636.90August 25, 2013
+1,259,697.52September 25, 2011
+10,281,891.22September 25, 2013
+991,832.42October 25, 2011
+9,743,207.43October 25, 2013
+732,085.95November 25, 2011
+9,220,156.53November 25, 2013
+480,237.47December 25, 2011
+8,712,320.41December 25, 2013
+236,072.02January 25, 2012
+8,219,291.63Thereafter
+0.00February 25, 2012
+7,748,184.40
+$95,207,000.00July 25, 2006
+$80,614,895.38February 25, 2003
+93,954,585.15August 25, 2006
+80,614,890.12March 25, 2003
+92,763,068.89September 25, 2006
+80,614,884.84April 25, 2003
+91,631,917.22October 25, 2006
+80,614,879.54May 25, 2003
+90,560,569.59November 25, 2006
+80,614,874.22June 25, 2003
+89,548,439.23December 25, 2006
+80,614,868.87July 25, 2003
+88,594,913.44January 25, 2007
+80,614,863.50August 25, 2003
+87,699,354.04February 25, 2007
+80,614,858.10September 25, 2003
+86,861,097.65March 25, 2007
+80,614,852.68October 25, 2003
+86,079,456.22April 25, 2007
+80,614,847.24November 25, 2003
+85,353,717.36May 25, 2007
+80,614,841.77December 25, 2003
+84,683,144.87June 25, 2007
+80,614,836.28January 25, 2004
+84,066,979.20July 25, 2007
+80,614,830.77February 25, 2004
+83,504,437.94August 25, 2007
+80,614,825.23March 25, 2004
+82,994,716.38September 25, 2007
+80,614,819.67April 25, 2004
+82,536,988.04October 25, 2007
+80,614,814.08May 25, 2004
+82,130,405.23November 25, 2007
+80,614,808.47June 25, 2004
+81,774,099.66December 25, 2007
+80,614,802.84July 25, 2004
+81,467,183.05January 25, 2008
+80,614,797.18August 25, 2004
+81,208,747.75February 25, 2008
+80,614,791.49September 25, 2004
+80,997,867.39March 25, 2008
+80,614,785.78October 25, 2004
+80,837,917.86April 25, 2008
+80,614,780.05November 25, 2004
+80,719,268.75May 25, 2008
+80,614,774.29December 25, 2004
+80,645,289.64June 25, 2008
+80,614,768.50January 25, 2005
+80,614,986.15July 25, 2008
+80,614,762.69February 25, 2005
+80,614,981.29August 25, 2008
+80,614,756.86March 25, 2005
+80,614,976.42September 25, 2008
+80,614,750.99April 25, 2005
+80,614,971.51October 25, 2008
+80,614,745.11May 25, 2005
+80,614,966.59November 25, 2008
+80,614,739.19June 25, 2005
+80,614,961.65December 25, 2008
+80,614,733.26July 25, 2005
+80,614,956.68January 25, 2009
+80,614,727.29August 25, 2005
+80,614,951.70February 25, 2009
+80,614,721.30September 25, 2005
+80,614,946.69March 25, 2009
+80,614,715.28October 25, 2005
+80,614,941.66April 25, 2009
+80,614,709.24November 25, 2005
+80,614,936.60May 25, 2009
+80,614,703.17December 25, 2005
+80,614,931.53June 25, 2009
+80,614,697.07January 25, 2006
+80,614,926.43July 25, 2009
+80,614,690.95February 25, 2006
+80,614,921.31August 25, 2009
+80,614,684.80March 25, 2006
+80,614,916.17September 25, 2009
+80,614,678.62April 25, 2006
+80,614,911.00October 25, 2009
+80,614,672.42May 25, 2006
+80,614,905.82November 25, 2009
+80,614,666.19June 25, 2006
+80,614,900.61December 25, 2009
+80,614,659.93
+$80,614,653.65January 25, 2014
+$45,598,711.22February 25, 2010
+80,614,647.33February 25, 2014
+44,481,881.46March 25, 2010
+80,614,640.99March 25, 2014
+43,371,168.73April 25, 2010
+80,182,813.93April 25, 2014
+42,266,541.37May 25, 2010
+79,651,884.94May 25, 2014
+41,167,967.91June 25, 2010
+79,103,444.82June 25, 2014
+40,075,417.05July 25, 2010
+78,538,119.90July 25, 2014
+38,988,857.62August 25, 2010
+77,956,520.00August 25, 2014
+37,908,258.65September 25, 2010
+77,359,238.77September 25, 2014
+36,833,589.29October 25, 2010
+76,746,854.14October 25, 2014
+35,764,818.88November 25, 2010
+76,119,928.70November 25, 2014
+34,701,916.90December 25, 2010
+75,479,010.06December 25, 2014
+33,644,852.99January 25, 2011
+74,824,631.22January 25, 2015
+32,593,596.96February 25, 2011
+74,149,820.11February 25, 2015
+31,548,118.74March 25, 2011
+73,463,035.17March 25, 2015
+30,508,388.46April 25, 2011
+72,764,751.47April 25, 2015
+29,474,376.38May 25, 2011
+72,055,431.27May 25, 2015
+28,446,052.90June 25, 2011
+71,335,524.36June 25, 2015
+27,423,388.61July 25, 2011
+70,605,468.35July 25, 2015
+26,406,354.21August 25, 2011
+69,865,688.97August 25, 2015
+25,394,920.57September 25, 2011
+69,116,600.40September 25, 2015
+24,389,058.72October 25, 2011
+68,358,605.53October 25, 2015
+23,388,739.83November 25, 2011
+67,592,096.23November 25, 2015
+22,393,935.21December 25, 2011
+66,817,453.67December 25, 2015
+21,404,616.32January 25, 2012
+66,035,048.54January 25, 2016
+20,420,754.78February 25, 2012
+65,240,384.57February 25, 2016
+19,442,322.35March 25, 2012
+64,439,065.01March 25, 2016
+18,469,290.92April 25, 2012
+63,631,412.27April 25, 2016
+17,501,632.55May 25, 2012
+62,817,739.93May 25, 2016
+16,539,319.43June 25, 2012
+61,998,352.93June 25, 2016
+15,582,323.89July 25, 2012
+61,173,547.84July 25, 2016
+14,630,618.41August 25, 2012
+60,343,612.98August 25, 2016
+13,684,175.60September 25, 2012
+59,508,828.70September 25, 2016
+12,742,968.23October 25, 2012
+58,669,467.56October 25, 2016
+11,806,969.20November 25, 2012
+57,819,510.17November 25, 2016
+10,876,151.54December 25, 2012
+56,965,495.16December 25, 2016
+9,950,488.44January 25, 2013
+56,107,674.02January 25, 2017
+9,029,953.20February 25, 2013
+55,246,291.17February 25, 2017
+8,114,519.29March 25, 2013
+54,381,584.10March 25, 2017
+7,204,160.28April 25, 2013
+53,513,783.61April 25, 2017
+6,298,849.92May 25, 2013
+52,643,113.88May 25, 2017
+5,398,562.05June 25, 2013
+51,769,792.75June 25, 2017
+4,503,270.68July 25, 2013
+50,894,031.79July 25, 2017
+3,612,949.93August 25, 2013
+50,016,036.50August 25, 2017
+2,727,574.07September 25, 2013
+49,136,006.46September 25, 2017
+1,847,117.48October 25, 2013
+48,254,135.46October 25, 2017
+971,554.71November 25, 2013
+47,370,611.67November 25, 2017
+108,010.45December 25, 2013
+46,485,617.76Thereafter
+0.00
+$95,207,000.00April 25, 2007
+$75,771,992.57February 25, 2003
+93,713,234.14May 25, 2007
+75,771,987.10March 25, 2003
+92,284,803.05June 25, 2007
+75,771,981.61April 25, 2003
+90,921,133.23July 25, 2007
+75,771,976.10May 25, 2003
+89,621,624.89August 25, 2007
+75,771,970.56June 25, 2003
+88,385,652.34September 25, 2007
+75,771,965.00July 25, 2003
+87,212,564.26October 25, 2007
+75,771,959.41August 25, 2003
+86,101,684.12November 25, 2007
+75,771,953.80September 25, 2003
+85,052,310.51December 25, 2007
+75,771,948.16October 25, 2003
+84,063,717.60January 25, 2008
+75,771,942.50November 25, 2003
+83,135,155.55February 25, 2008
+75,771,936.82December 25, 2003
+82,265,850.95March 25, 2008
+75,771,931.11January 25, 2004
+81,455,007.36April 25, 2008
+75,771,925.37February 25, 2004
+80,701,805.74May 25, 2008
+75,771,919.61March 25, 2004
+80,005,405.03June 25, 2008
+75,771,913.83April 25, 2004
+79,364,942.68July 25, 2008
+75,771,908.02May 25, 2004
+78,779,535.20August 25, 2008
+75,771,902.18June 25, 2004
+78,248,278.78September 25, 2008
+75,771,896.32July 25, 2004
+77,770,249.88October 25, 2008
+75,771,890.43August 25, 2004
+77,344,505.86November 25, 2008
+75,771,884.52September 25, 2004
+76,970,085.64December 25, 2008
+75,771,878.58October 25, 2004
+76,705,616.38January 25, 2009
+75,771,872.62November 25, 2004
+76,432,800.30February 25, 2009
+75,771,866.63December 25, 2004
+76,208,261.99March 25, 2009
+75,771,860.61January 25, 2005
+76,030,973.98April 25, 2009
+75,771,854.57February 25, 2005
+75,899,893.81May 25, 2009
+75,771,848.50March 25, 2005
+75,813,964.81June 25, 2009
+75,771,842.40April 25, 2005
+75,772,116.84July 25, 2009
+75,771,836.28May 25, 2005
+75,772,111.92August 25, 2009
+75,649,061.65June 25, 2005
+75,772,106.98September 25, 2009
+75,304,385.11July 25, 2005
+75,772,102.01October 25, 2009
+74,938,033.04August 25, 2005
+75,772,097.02November 25, 2009
+74,550,771.75September 25, 2005
+75,772,092.01December 25, 2009
+74,143,347.31October 25, 2005
+75,772,086.98January 25, 2010
+73,716,486.04November 25, 2005
+75,772,081.93February 25, 2010
+73,261,140.47December 25, 2005
+75,772,076.86March 25, 2010
+72,788,208.91January 25, 2006
+75,772,071.76April 25, 2010
+72,298,349.80February 25, 2006
+75,772,066.64May 25, 2010
+71,792,203.91March 25, 2006
+75,772,061.50June 25, 2010
+71,270,394.78April 25, 2006
+75,772,056.33July 25, 2010
+70,733,529.15May 25, 2006
+75,772,051.15August 25, 2010
+70,182,197.38June 25, 2006
+75,772,045.94September 25, 2010
+69,616,973.84July 25, 2006
+75,772,040.70October 25, 2010
+69,038,417.34August 25, 2006
+75,772,035.45November 25, 2010
+68,447,071.48September 25, 2006
+75,772,030.17December 25, 2010
+67,843,465.05October 25, 2006
+75,772,024.87January 25, 2011
+67,228,112.38November 25, 2006
+75,772,019.54February 25, 2011
+66,594,520.19December 25, 2006
+75,772,014.20March 25, 2011
+65,950,613.14January 25, 2007
+75,772,008.82April 25, 2011
+65,296,848.32February 25, 2007
+75,772,003.43May 25, 2011
+64,633,670.16March 25, 2007
+75,771,998.01June 25, 2011
+63,961,510.74Principal Amount Schedule IIDistribution DateClass 1-A4 and    Class 1-A5    Distribution DateClass 1-A4 and    Class 1-A5    July 25, 2011
+$63,280,790.14October 25, 2014
+$31,455,956.97August 25, 2011
+62,591,916.69November 25, 2014
+30,493,911.13September 25, 2011
+61,895,287.28December 25, 2014
+29,538,680.03October 25, 2011
+61,191,287.68January 25, 2015
+28,590,221.26November 25, 2011
+60,480,292.79February 25, 2015
+27,648,492.61December 25, 2011
+59,762,666.91March 25, 2015
+26,713,452.18January 25, 2012
+59,038,764.03April 25, 2015
+25,785,058.28February 25, 2012
+58,304,459.79May 25, 2015
+24,863,269.51March 25, 2012
+57,564,934.70June 25, 2015
+23,948,044.70April 25, 2012
+56,820,495.21July 25, 2015
+23,039,342.94May 25, 2012
+56,071,439.04August 25, 2015
+22,137,123.55June 25, 2012
+55,318,055.45September 25, 2015
+21,241,346.13July 25, 2012
+54,560,625.40October 25, 2015
+20,351,970.49August 25, 2012
+53,799,421.76November 25, 2015
+19,468,956.71September 25, 2012
+53,034,709.56December 25, 2015
+18,592,265.10October 25, 2012
+52,266,746.14January 25, 2016
+17,721,856.22November 25, 2012
+51,490,254.21February 25, 2016
+16,857,690.86December 25, 2012
+50,711,007.73March 25, 2016
+15,999,730.05January 25, 2013
+49,929,243.28April 25, 2016
+15,147,935.05February 25, 2013
+49,145,190.45May 25, 2016
+14,302,267.38March 25, 2013
+48,359,072.05June 25, 2016
+13,462,688.78April 25, 2013
+47,571,104.30July 25, 2016
+12,629,161.20May 25, 2013
+46,781,496.96August 25, 2016
+11,801,646.86June 25, 2013
+45,990,453.51September 25, 2016
+10,980,108.18July 25, 2013
+45,198,171.33October 25, 2016
+10,164,507.82August 25, 2013
+44,404,841.81November 25, 2016
+9,354,808.68September 25, 2013
+43,610,650.55December 25, 2016
+8,550,973.85October 25, 2013
+42,815,777.49January 25, 2017
+7,752,966.69November 25, 2013
+42,020,397.04February 25, 2017
+6,960,750.74December 25, 2013
+41,224,678.25March 25, 2017
+6,174,289.79January 25, 2014
+40,428,165.05April 25, 2017
+5,393,547.83February 25, 2014
+39,402,833.47May 25, 2017
+4,618,489.09March 25, 2014
+38,384,710.44June 25, 2017
+3,849,078.00April 25, 2014
+37,373,751.12July 25, 2017
+3,085,279.22May 25, 2014
+36,369,910.97August 25, 2017
+2,327,057.62June 25, 2014
+35,373,145.69September 25, 2017
+1,574,378.26July 25, 2014
+34,383,411.26October 25, 2017
+827,206.46August 25, 2014
+33,400,663.95November 25, 2017
+91,592.38September 25, 2014
+32,424,860.25Thereafter
+0.00
+$95,207,000.00April 25, 2007
+$69,525,125.41February 25, 2003
+93,469,492.39May 25, 2007
+69,525,119.95March 25, 2003
+91,802,232.31June 25, 2007
+69,525,114.46April 25, 2003
+90,204,593.78July 25, 2007
+69,525,108.94May 25, 2003
+88,675,925.04August 25, 2007
+69,525,103.41June 25, 2003
+87,215,548.88September 25, 2007
+69,525,097.84July 25, 2003
+85,822,762.90October 25, 2007
+69,525,092.26August 25, 2003
+84,496,839.95November 25, 2007
+69,525,086.65September 25, 2003
+83,237,028.47December 25, 2007
+69,525,081.01October 25, 2003
+82,042,552.92January 25, 2008
+69,525,075.35November 25, 2003
+80,912,614.16February 25, 2008
+69,525,069.66December 25, 2003
+79,846,389.98March 25, 2008
+69,525,063.95January 25, 2004
+78,843,035.52April 25, 2008
+69,525,058.22February 25, 2004
+77,901,683.78May 25, 2008
+69,525,052.46March 25, 2004
+77,021,446.17June 25, 2008
+69,525,046.67April 25, 2004
+76,201,413.02July 25, 2008
+69,525,040.86May 25, 2004
+75,440,654.15August 25, 2008
+69,525,035.03June 25, 2004
+74,738,219.49September 25, 2008
+69,525,029.17July 25, 2004
+74,093,139.64October 25, 2008
+69,525,023.28August 25, 2004
+73,504,426.52November 25, 2008
+69,525,017.37September 25, 2004
+72,971,074.00December 25, 2008
+69,525,011.43October 25, 2004
+72,606,506.30January 25, 2009
+69,525,005.46November 25, 2004
+72,184,569.93February 25, 2009
+69,524,999.47December 25, 2004
+71,814,754.11March 25, 2009
+69,431,201.37January 25, 2005
+71,495,988.67April 25, 2009
+69,212,244.98February 25, 2005
+71,227,188.83May 25, 2009
+68,969,473.51March 25, 2005
+71,007,255.97June 25, 2009
+68,703,736.17April 25, 2005
+70,835,078.39July 25, 2009
+68,415,859.55May 25, 2005
+70,709,373.64August 25, 2009
+68,106,648.11June 25, 2005
+70,595,174.36September 25, 2009
+67,776,884.79July 25, 2005
+70,487,167.88October 25, 2009
+67,427,331.47August 25, 2005
+70,385,286.57November 25, 2009
+67,058,729.57September 25, 2005
+70,289,463.38December 25, 2009
+66,671,800.47October 25, 2005
+70,199,631.86January 25, 2010
+66,267,246.09November 25, 2005
+70,115,726.12February 25, 2010
+65,836,595.40December 25, 2005
+70,037,680.83March 25, 2010
+65,390,103.93January 25, 2006
+69,965,431.26April 25, 2010
+64,928,406.57February 25, 2006
+69,898,913.20May 25, 2010
+64,452,120.75March 25, 2006
+69,838,063.02June 25, 2010
+63,961,846.92April 25, 2006
+69,782,817.65July 25, 2010
+63,458,168.95May 25, 2006
+69,733,114.54August 25, 2010
+62,941,654.53June 25, 2006
+69,688,891.70September 25, 2010
+62,412,855.60July 25, 2006
+69,650,087.70October 25, 2010
+61,872,308.73August 25, 2006
+69,616,641.60November 25, 2010
+61,320,535.53September 25, 2006
+69,588,493.04December 25, 2010
+60,758,042.97October 25, 2006
+69,565,582.14January 25, 2011
+60,185,323.82November 25, 2006
+69,547,849.57February 25, 2011
+59,596,351.11December 25, 2006
+69,535,236.52March 25, 2011
+58,998,521.57January 25, 2007
+69,527,684.69April 25, 2011
+58,392,271.62February 25, 2007
+69,525,136.27May 25, 2011
+57,778,025.23March 25, 2007
+69,525,130.86June 25, 2011
+57,156,194.24
+$56,527,178.65October 25, 2014
+$27,621,769.03August 25, 2011
+55,891,366.94November 25, 2014
+26,752,865.27September 25, 2011
+55,249,136.34December 25, 2014
+25,891,477.37October 25, 2011
+54,600,853.13January 25, 2015
+25,037,549.94November 25, 2011
+53,946,872.93February 25, 2015
+24,191,028.01December 25, 2011
+53,287,540.94March 25, 2015
+23,351,856.98January 25, 2012
+52,623,192.24April 25, 2015
+22,519,982.64February 25, 2012
+51,950,057.26May 25, 2015
+21,695,351.17March 25, 2012
+51,272,905.93June 25, 2015
+20,877,909.10April 25, 2012
+50,592,026.76July 25, 2015
+20,067,603.38May 25, 2012
+49,907,699.72August 25, 2015
+19,264,381.31June 25, 2012
+49,220,196.45September 25, 2015
+18,468,190.56July 25, 2012
+48,529,780.51October 25, 2015
+17,678,979.19August 25, 2012
+47,836,707.52November 25, 2015
+16,896,695.59September 25, 2012
+47,141,225.43December 25, 2015
+16,121,288.57October 25, 2012
+46,443,574.68January 25, 2016
+15,352,707.24November 25, 2012
+45,739,149.25February 25, 2016
+14,590,901.11December 25, 2012
+45,033,024.05March 25, 2016
+13,835,820.05January 25, 2013
+44,325,419.14April 25, 2016
+13,087,414.25February 25, 2013
+43,616,547.77May 25, 2016
+12,345,634.28March 25, 2013
+42,906,616.57June 25, 2016
+11,610,431.05April 25, 2013
+42,195,825.73July 25, 2016
+10,881,755.83May 25, 2013
+41,484,369.15August 25, 2016
+10,159,560.21June 25, 2013
+40,772,434.62September 25, 2016
+9,443,796.15July 25, 2013
+40,060,203.95October 25, 2016
+8,734,415.92August 25, 2013
+39,347,853.15November 25, 2016
+8,031,372.15September 25, 2013
+38,635,552.60December 25, 2016
+7,334,617.80October 25, 2013
+37,923,467.14January 25, 2017
+6,644,106.16November 25, 2013
+37,211,756.25February 25, 2017
+5,959,790.85December 25, 2013
+36,500,574.20March 25, 2017
+5,281,625.83January 25, 2014
+35,789,450.30April 25, 2017
+4,609,565.36February 25, 2014
+34,850,346.10May 25, 2017
+3,943,564.05March 25, 2014
+33,919,274.17June 25, 2017
+3,283,576.81April 25, 2014
+32,996,175.51July 25, 2017
+2,629,558.90May 25, 2014
+32,080,991.50August 25, 2017
+1,981,465.86June 25, 2014
+31,173,663.96September 25, 2017
+1,339,253.56July 25, 2014
+30,274,135.12October 25, 2017
+702,878.20August 25, 2014
+29,382,347.59November 25, 2017
+77,464.14September 25, 2014
+28,498,244.42Thereafter
+0.00
+$95,207,000.00April 25, 2007
+$62,715,624.87February 25, 2003
+93,223,309.85May 25, 2007
+62,684,795.21March 25, 2003
+91,315,270.47June 25, 2007
+62,661,443.83April 25, 2003
+89,482,188.94July 25, 2007
+62,645,476.97May 25, 2003
+87,723,347.23August 25, 2007
+62,636,801.76June 25, 2003
+86,038,002.52September 25, 2007
+62,635,326.23July 25, 2003
+84,425,387.51October 25, 2007
+62,635,320.65August 25, 2003
+82,884,710.81November 25, 2007
+62,635,315.04September 25, 2003
+81,415,157.25December 25, 2007
+62,635,309.40October 25, 2003
+80,015,888.35January 25, 2008
+62,635,303.74November 25, 2003
+78,686,042.70February 25, 2008
+62,635,298.05December 25, 2003
+77,424,736.44March 25, 2008
+62,635,292.35January 25, 2004
+76,231,063.68April 25, 2008
+62,635,286.61February 25, 2004
+75,104,097.07May 25, 2008
+62,635,280.85March 25, 2004
+74,042,888.23June 25, 2008
+62,635,275.07April 25, 2004
+73,046,468.38July 25, 2008
+62,635,269.25May 25, 2004
+72,113,848.81August 25, 2008
+62,635,263.42June 25, 2004
+71,244,021.51September 25, 2008
+62,635,257.56July 25, 2004
+70,435,959.79October 25, 2008
+62,635,251.67August 25, 2004
+69,688,618.82November 25, 2008
+62,635,245.76September 25, 2004
+69,000,936.35December 25, 2008
+62,635,239.82October 25, 2004
+68,540,677.45January 25, 2009
+62,604,648.81November 25, 2004
+67,974,646.59February 25, 2009
+62,443,502.50December 25, 2004
+67,464,805.23March 25, 2009
+62,258,718.09January 25, 2005
+67,010,030.23April 25, 2009
+62,051,161.38February 25, 2005
+66,609,184.44May 25, 2009
+61,821,674.69March 25, 2005
+66,261,117.41June 25, 2009
+61,571,077.43April 25, 2005
+65,964,666.12July 25, 2009
+61,300,166.70May 25, 2005
+65,718,497.35August 25, 2009
+61,009,717.84June 25, 2005
+65,487,593.53September 25, 2009
+60,700,484.93July 25, 2005
+65,266,592.27October 25, 2009
+60,373,201.38August 25, 2005
+65,055,376.77November 25, 2009
+60,028,580.41September 25, 2005
+64,853,831.31December 25, 2009
+59,667,315.54October 25, 2005
+64,661,841.29January 25, 2010
+59,290,081.13November 25, 2005
+64,479,293.15February 25, 2010
+58,888,976.17December 25, 2005
+64,306,074.46March 25, 2010
+58,473,612.79January 25, 2006
+64,142,073.79April 25, 2010
+58,044,599.47February 25, 2006
+63,987,180.82May 25, 2010
+57,602,527.54March 25, 2006
+63,841,286.23June 25, 2010
+57,147,971.65April 25, 2006
+63,704,281.77July 25, 2010
+56,681,490.14May 25, 2006
+63,576,060.20August 25, 2010
+56,203,625.49June 25, 2006
+63,456,515.29September 25, 2010
+55,714,904.69July 25, 2006
+63,345,541.84October 25, 2010
+55,215,839.67August 25, 2006
+63,243,035.64November 25, 2010
+54,706,927.66September 25, 2006
+63,148,893.46December 25, 2010
+54,188,651.53October 25, 2006
+63,063,013.07January 25, 2011
+53,661,480.24November 25, 2006
+62,985,293.21February 25, 2011
+53,119,841.36December 25, 2006
+62,915,633.59March 25, 2011
+52,570,610.21January 25, 2007
+62,853,934.86April 25, 2011
+52,014,200.58February 25, 2007
+62,800,098.64May 25, 2011
+51,451,014.07March 25, 2007
+62,754,027.48June 25, 2011
+50,881,440.42Principal Amount Schedule IVDistribution DateClass 1-A4 and    Class 1-A5    Distribution DateClass 1-A4 and    Class 1-A5    July 25, 2011 $50,305,857.76October 25, 2014
+$24,214,596.50August 25, 2011
+49,724,632.96November 25, 2014
+23,431,512.90September 25, 2011
+49,138,121.90December 25, 2014
+22,656,411.78October 25, 2011
+48,546,669.76January 25, 2015
+21,889,224.89November 25, 2011
+47,950,611.31February 25, 2015
+21,129,884.47December 25, 2011
+47,350,271.12March 25, 2015
+20,378,323.35January 25, 2012
+46,745,963.90April 25, 2015
+19,634,474.89February 25, 2012
+46,134,258.63May 25, 2015
+18,898,272.99March 25, 2012
+45,519,527.45June 25, 2015
+18,169,652.08April 25, 2012
+44,902,039.69July 25, 2015
+17,448,547.14May 25, 2012
+44,282,056.36August 25, 2015
+16,734,893.65June 25, 2012
+43,659,830.39September 25, 2015
+16,028,627.63July 25, 2012
+43,035,606.82October 25, 2015
+15,329,685.61August 25, 2012
+42,409,622.98November 25, 2015
+14,638,004.66September 25, 2012
+41,782,108.76December 25, 2015
+13,953,522.32October 25, 2012
+41,153,286.72January 25, 2016
+13,276,176.66November 25, 2012
+40,519,157.68February 25, 2016
+12,605,906.26December 25, 2012
+39,884,158.50March 25, 2016
+11,942,650.17January 25, 2013
+39,248,491.90April 25, 2016
+11,286,347.96February 25, 2013
+38,612,354.00May 25, 2016
+10,636,939.69March 25, 2013
+37,975,934.52June 25, 2016
+9,994,365.88April 25, 2013
+37,339,416.91July 25, 2016
+9,358,567.57May 25, 2013
+36,702,978.56August 25, 2016
+8,729,486.24June 25, 2013
+36,066,790.93September 25, 2016
+8,107,063.89July 25, 2013
+35,431,019.71October 25, 2016
+7,491,242.94August 25, 2013
+34,795,825.00November 25, 2016
+6,881,966.32September 25, 2013
+34,161,361.40December 25, 2016
+6,279,177.41October 25, 2013
+33,527,778.23January 25, 2017
+5,682,820.04November 25, 2013
+32,895,219.61February 25, 2017
+5,092,838.51December 25, 2013
+32,263,824.64March 25, 2017
+4,509,177.56January 25, 2014
+31,633,107.63April 25, 2017
+3,931,782.39February 25, 2014
+30,775,015.34May 25, 2017
+3,360,598.64March 25, 2014
+29,925,545.71June 25, 2017
+2,795,572.40April 25, 2014
+29,084,625.29July 25, 2017
+2,236,650.19May 25, 2014
+28,252,181.21August 25, 2017
+1,683,778.98June 25, 2014
+27,428,141.19September 25, 2017
+1,136,906.13July 25, 2014
+26,612,433.54October 25, 2017
+595,979.49August 25, 2014
+25,804,987.14November 25, 2017
+65,327.63September 25, 2014
+25,005,731.45Thereafter
+0.00
+$95,207,000.00April 25, 2007
+$56,135,670.78February 25, 2003
+92,974,634.84May 25, 2007
+56,069,458.66March 25, 2003
+90,823,828.66June 25, 2007
+56,013,396.57April 25, 2003
+88,753,805.45July 25, 2007
+55,967,346.50May 25, 2003
+86,763,765.01August 25, 2007
+55,931,171.88June 25, 2003
+84,852,883.35September 25, 2007
+55,904,737.55July 25, 2003
+83,020,312.92October 25, 2007
+55,887,909.82August 25, 2003
+81,265,183.02November 25, 2007
+55,880,556.37September 25, 2003
+79,586,600.11December 25, 2007
+55,880,550.73October 25, 2003
+77,983,648.24January 25, 2008
+55,880,545.07November 25, 2003
+76,455,389.45February 25, 2008
+55,880,539.39December 25, 2003
+75,000,864.20March 25, 2008
+55,880,533.68January 25, 2004
+73,619,091.84April 25, 2008
+55,880,527.94February 25, 2004
+72,309,071.12May 25, 2008
+55,880,522.18March 25, 2004
+71,069,780.64June 25, 2008
+55,880,516.40April 25, 2004
+69,900,179.43July 25, 2008
+55,880,510.59May 25, 2004
+68,799,207.48August 25, 2008
+55,880,504.75June 25, 2004
+67,765,786.29September 25, 2008
+55,880,498.89July 25, 2004
+66,798,819.52October 25, 2008
+55,880,493.00August 25, 2004
+65,897,193.54November 25, 2008
+55,880,487.09September 25, 2004
+65,059,778.07December 25, 2008
+55,880,481.15October 25, 2004
+64,508,220.88January 25, 2009
+55,800,300.53November 25, 2004
+63,803,100.13February 25, 2009
+55,652,598.93December 25, 2004
+63,158,455.02March 25, 2009
+55,483,078.29January 25, 2005
+62,573,098.66April 25, 2009
+55,292,570.56February 25, 2005
+62,045,830.86May 25, 2009
+55,081,884.66March 25, 2005
+61,575,438.89June 25, 2009
+54,851,807.03April 25, 2005
+61,160,698.22July 25, 2009
+54,603,102.22May 25, 2005
+60,800,214.82August 25, 2009
+54,336,513.44June 25, 2005
+60,458,911.06September 25, 2009
+54,052,763.05July 25, 2005
+60,131,365.19October 25, 2009
+53,752,553.15August 25, 2005
+59,817,401.77November 25, 2009
+53,436,566.05September 25, 2005
+59,516,847.15December 25, 2009
+53,105,464.79October 25, 2005
+59,229,529.48January 25, 2010
+52,759,893.60November 25, 2005
+58,955,278.67February 25, 2010
+52,392,515.58December 25, 2005
+58,693,926.38March 25, 2010
+52,012,299.47January 25, 2006
+58,445,306.02April 25, 2010
+51,619,825.10February 25, 2006
+58,209,252.70May 25, 2010
+51,215,655.53March 25, 2006
+57,985,603.26June 25, 2010
+50,800,337.47April 25, 2006
+57,774,196.20July 25, 2010
+50,374,401.74May 25, 2006
+57,574,871.71August 25, 2010
+49,938,363.62June 25, 2006
+57,387,471.63September 25, 2010
+49,492,723.30July 25, 2006
+57,211,839.44October 25, 2010
+49,037,966.24August 25, 2006
+57,047,820.24November 25, 2010
+48,574,563.55September 25, 2006
+56,895,260.75December 25, 2010
+48,102,972.35October 25, 2006
+56,754,009.27January 25, 2011
+47,623,636.15November 25, 2006
+56,623,915.69February 25, 2011
+47,131,425.89December 25, 2006
+56,504,831.45March 25, 2011
+46,632,702.71January 25, 2007
+56,396,609.55April 25, 2011
+46,127,856.45February 25, 2007
+56,299,104.53May 25, 2011
+45,617,265.06March 25, 2007
+56,212,172.42June 25, 2011
+45,101,294.93Principal Amount Schedule VDistribution DateClass 1-A4 and   Class 1-A5   Distribution DateClass 1-A4 and    Class 1-A5    July 25, 2011
+$44,580,301.20October 25, 2014
+$21,191,109.33August 25, 2011
+44,054,628.03November 25, 2014
+20,486,919.59September 25, 2011
+43,524,608.91December 25, 2014
+19,790,981.16October 25, 2011
+42,990,566.93January 25, 2015
+19,103,213.43November 25, 2011
+42,452,815.07February 25, 2015
+18,423,536.53December 25, 2011
+41,911,656.44March 25, 2015
+17,751,871.33January 25, 2012
+41,367,384.54April 25, 2015
+17,088,139.42February 25, 2012
+40,816,891.45May 25, 2015
+16,432,263.11March 25, 2012
+40,264,164.85June 25, 2015
+15,784,165.43April 25, 2012
+39,709,454.32July 25, 2015
+15,143,770.11May 25, 2012
+39,153,001.37August 25, 2015
+14,511,001.58June 25, 2012
+38,595,039.72September 25, 2015
+13,885,784.96July 25, 2012
+38,035,795.44October 25, 2015
+13,268,046.07August 25, 2012
+37,475,487.20November 25, 2015
+12,657,711.41September 25, 2012
+36,914,326.42December 25, 2015
+12,054,708.14October 25, 2012
+36,352,517.53January 25, 2016
+11,458,964.11November 25, 2012
+35,786,609.57February 25, 2016
+10,870,407.81December 25, 2012
+35,220,458.02March 25, 2016
+10,288,968.41January 25, 2013
+34,654,248.08April 25, 2016
+9,714,575.72February 25, 2013
+34,088,158.59May 25, 2016
+9,147,160.19March 25, 2013
+33,522,362.25June 25, 2016
+8,586,652.94April 25, 2013
+32,957,025.72July 25, 2016
+8,032,985.68May 25, 2013
+32,392,309.85August 25, 2016
+7,486,090.78June 25, 2013
+31,828,369.78September 25, 2016
+6,945,901.23July 25, 2013
+31,265,355.12October 25, 2016
+6,412,350.62August 25, 2013
+30,703,410.11November 25, 2016
+5,885,373.17September 25, 2013
+30,142,673.76December 25, 2016
+5,364,903.70October 25, 2013
+29,583,279.97January 25, 2017
+4,850,877.63November 25, 2013
+29,025,357.70February 25, 2017
+4,343,230.98December 25, 2013
+28,469,031.08March 25, 2017
+3,841,900.36January 25, 2014
+27,913,799.70April 25, 2017
+3,346,822.95February 25, 2014
+27,131,595.78May 25, 2017
+2,857,936.53March 25, 2014
+26,358,402.97June 25, 2017
+2,375,179.45April 25, 2014
+25,594,133.71July 25, 2017
+1,898,490.62May 25, 2014
+24,838,701.25August 25, 2017
+1,427,809.52June 25, 2014
+24,092,019.60September 25, 2017
+963,076.19July 25, 2014
+23,354,003.61October 25, 2017
+504,231.23August 25, 2014
+22,624,568.85November 25, 2017
+54,920.81September 25, 2014
+21,903,631.71Thereafter
+0.00

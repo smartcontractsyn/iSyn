@@ -1,0 +1,42 @@
+ContractCategory: SecurityAgreement;
+
+Entity: {
+    SellerNames: ['Adial Pharmaceuticals'];
+    BuyerNames: ['Adial Pharmaceuticals'];
+};
+
+EffectiveTime: June 6, 2018,;
+CloseTime: "";
+ExpiryTime: ;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: false;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: ['Adial Pharmaceuticals'];
+         To: ['Adial Pharmaceuticals'];
+         Price: {
+             Amount: 325000,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: false;
+    OtherConstraint: false;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};

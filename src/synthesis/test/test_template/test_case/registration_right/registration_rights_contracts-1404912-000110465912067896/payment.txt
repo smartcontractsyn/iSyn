@@ -1,0 +1,55 @@
+WHEREAS, the Company and the Investor entered into a convertible note purchase agreement, dated April 12, 2012 (the “KKR Purchase Agreement”) pursuant to which the Company issued senior convertible notes in the aggregate principal amount of US$65,000,000, which Notes are convertible into ordinary shares of US$0.0001 par value per share in the capital of the Company (“Ordinary Shares”) in accordance with the terms of the Notes (terms used but not defined herein shall have the same meanings assigned to them in the KKR Purchase Agreement); and
+WHEREAS, the Company now desires to enter into a convertible note purchase agreement (the “GM Purchase Agreement”) with Golden Meditech Holdings Limited, an exempted company with limited liability incorporated in the Cayman Islands (“Golden Meditech”), pursuant to which the Company will issue senior unsecured convertible notes (“GM Notes”) in the aggregate principal amount of US$50,000,000, which GM Notes will be convertible into Ordinary Shares in accordance with the terms thereof; and
+East HK owns eighty-three percent (83%) of the issued shares of Favorable Fort Limited, a Hong Kong company (“FF HK”).
+Jiachenhong owns ninety percent (90%) equity interest in Zhejiang Lukou Biotechnology Company Limited, a PRC limited liability company (“Lukou”).
+(D)                               Upon the terms and conditions set forth in this Agreement, the Company has authorized the issuance of senior unsecured convertible notes in the aggregate principal amount of US$50,000,000 (United States Dollars Fifty Million) in the form attached hereto as Exhibit A (the “Notes”) which Notes shall be convertible into ordinary shares of US$0.0001 par value per share in the capital of the Company (the “Shares”) in accordance with the terms of the Notes.
+“Conversion Price” means US$2.838.
+“Existing Repurchase Program” means the share repurchase program approved by the Board on July 31, 2012 in the aggregate amount of US$20 million for 12 months continuing until July 30, 2013, which does not obligate the Company to acquire any particular amount of ordinary shares and may be commenced, suspended or discontinued at any time or from time to time in the Company’s discretion without prior notice.
+“KKR Notes” means the 7% Senior Convertible Notes due 2017 issued pursuant to the KKR Convertible Notes Purchase Agreement, dated April 12, 2012, by and between the Company and KKR.
+Upon the terms and subject to the conditions of this Agreement, the Investor agrees to purchase, and the Company agrees to issue and sell to the Investor at Completion, the Notes for a total purchase price of US$50,000,000 (United States Dollars Fifty Million) (the “Consideration”).
+The Investor shall pay the Consideration at Completion in accordance with Section 4.2(b).
+(b)                                 subject to Section 9, the Investor shall pay the Consideration, by wire transfer of immediately available funds to an account opened in the name of the Company, or if instructed by the Company, any Subsidiary of the Company outside the
+(d)                                 make any investment or any capital expenditure or incur any commitment outside the ordinary course of business in an aggregate amount exceeding US$5,000,000;
+(f)                                    borrow any money or obtain any financial facilities in an aggregate amount exceeding US$5,000,000 in the aggregate, except for renewal of any existing debts of the Company;
+(b)                                 Sections 8.8 (Information Rights), 8.9 (Budgets and Business Plans), 8.14 (Nominee Director), 8.26 (No Issuances below Conversion Price) and 8.27 (Negative Covenants) shall be in full force and effect only for so long as the Investor’s Investment Value is equal to or greater than US$20,000,000.
+(a) The Company shall not, at any time on or after the Completion Date and for so long as the Investor holds any Notes or Conversion Shares, issue or sell any Shares or other Equity Securities at a price per Share, or in the case of other Equity Securities exchangeable or convertible into Shares, at a conversion or exercise price for a Share that is less than the Conversion Price in effect as of the date of such issuance (treating the price per Share, in the case of the issuance of any Equity Securities, as equal to (x) the sum of the price for such Equity Securities plus any additional consideration payable (without regard to any anti-dilution adjustments) upon the conversion, exchange or exercise of such Equity Securities divided by (y) the number of Shares initially underlying such Equity Securities).
+(j)             redeem or repurchase any Equity Securities of the Company or any Subsidiary of the Company except pursuant to the Existing Repurchase Program.
+Following the Completion, upon the receipt from the Investor of appropriate invoices containing reasonable detail, the Company shall within ten (10) Business Days reimburse the Investor 50% of all fees and expenses actually incurred by the Investor for engaging legal counsel and other professional advisors and agents (the “Fees and Expenses”) in connection with due diligence, preparation and negotiation of the Transaction Documents, performance hereunder or thereunder and consummation of the transactions contemplated hereby or referred to herein.
+US$25,100 divided into 251,000,000 shares of a nominal or par value of US$0.0001 each, of which 250,000,000 shall be Ordinary Shares of a par value of US$0.0001 each and 1,000,000 shall be Preferred Shares, par value of US$0.0001 each.
+US$7,314 divided into 73,140,147 ordinary shares of a nominal or par value of US$0.0001 each as of March 31, 2012
+US$10,000,000 divided into 1,000,000,000 ordinary shares of a par value of US$0.01 each
+US$1,618,980 divided into 161,898,000 ordinary shares of a par value of US$0.01 each
+China Cord Blood Corporation (100%)
+US$10,000,000 divided into 10,000,000 ordinary shares of a par value of US$1 each
+US$1,618,980 divided into 1,618,980 ordinary shares of a par value of US$1 each
+US$50,000 divided into 50,000 ordinary shares of a par value of US$1 each
+US$1 divided into 1 ordinary share of a par value of US$1 each
+US$50,000 divided into 50,000 ordinary shares of a par value of US$1 each
+US$1,000 divided into 1,000 ordinary shares of a par value of US$1 each
+US$50,000 divided into 50,000 ordinary shares of a par value of US$1 each
+US$1 divided into 1 ordinary share of a par value of US$1 each
+US$50,000 divided into 50,000 ordinary shares of a par value of US$1 each
+US$1 divided into 1 ordinary share of a par value of US$1 each
+HK$10,000 divided into 10,000 ordinary shares of a par value of HK$1 each
+HK$1,000 divided into 1,000 ordinary shares of a par value of HK$1 each
+US$50,000 divided into 50,000 ordinary shares of a par value of US$1 each
+US$1 divided into 1 ordinary share of a par value of US$1 each
+HK$10,000 divided into 10,000 ordinary shares of a par value of HK$1 each
+HK$1,000 divided into 1,000 ordinary shares of a par value of HK$1 each
+HK$10,000 divided into 10,000 ordinary shares of a par value of HK$1 each
+HK$1,000 divided into 1,000 ordinary shares of a par value of HK$1 each
+HK$10,000 divided into 10,000 ordinary shares of a par value of HK$1 each
+HK$10,000 divided into 10,000 ordinary shares of a par value of HK$1 each
+LTD. (17%)
+RMB 90,000,000
+RMB 50,290,183
+RMB 280,000,000
+RMB 280,000,000
+RMB 50,000,000
+RMB 50,000,000
+RMB 12,000,000
+RMB 12,000,000
+RMB 50,000,000
+RMB 50,000,000
+Wang Shan (1%)
+Shen Bojun (1%)

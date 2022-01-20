@@ -1,0 +1,410 @@
+August 15, 2017
+Page
+1
+1.1
+1
+1.2
+3
+1.3
+3
+1.4
+3
+5
+2.1
+6
+2.2
+6
+2.3
+2.4
+2.5
+2.6
+9
+2.7
+9
+2.8
+9
+2.9
+10
+2.10
+10
+2.11
+10
+2.12
+11
+2.13
+11
+2.14
+11
+2.15
+Changes
+12
+2.16
+Employee Matters
+13
+2.17
+2.18
+2.19
+2.20
+15
+2.21
+15
+2.22
+83(b) Elections
+15
+2.23
+15
+2.24
+15
+2.26
+2.27
+2.28
+2.29
+2.31
+2.33
+2.34
+3.1
+3.2
+3.3
+19
+TABLE OF CONTENTS
+(continued)
+Page
+3.4
+19
+3.5
+19
+3.6
+20
+3.7
+20
+3.8
+20
+3.9
+21
+3.10
+21
+3.11
+Changes
+22
+3.12
+22
+3.13
+23
+3.14
+23
+3.15
+23
+3.16
+23
+3.17
+24
+3.18
+24
+3.19
+24
+3.20
+24
+24
+3.22
+25
+3.23
+25
+25
+25
+25
+4.1
+25
+4.2
+25
+4.3
+26
+4.4
+26
+4.5
+26
+4.6
+26
+4.7
+26
+4.8
+26
+4.9
+26
+4.10
+27
+5.1
+5.2
+5.3
+5.4
+5.5
+5.6
+5.7
+5.8
+5.9
+5.10
+5.11
+29
+5.12
+29
+5.13
+29
+TABLE OF CONTENTS
+(continued)
+Page
+5.14
+29
+5.15
+29
+5.16
+29
+5.17
+29
+5.18
+29
+5.19
+29
+5.20
+29
+5.21
+29
+5.22
+30
+5.23
+30
+30
+6.1
+30
+6.2
+30
+6.3
+30
+6.4
+30
+6.5
+30
+6.6
+30
+6.7
+30
+6.8
+30
+6.9
+31
+6.10
+31
+6.11
+31
+6.12
+31
+6.13
+Appointment of Mitch Lowe as Director
+31
+6.14
+31
+6.15
+31
+6.16
+31
+6.17
+31
+6.18
+31
+6.19
+31
+32
+7.1
+32
+7.2
+32
+7.3
+32
+7.4
+32
+7.5
+32
+7.6
+33
+7.7
+33
+7.8
+33
+7.9
+33
+7.10
+33
+7.11
+34
+7.12
+34
+7.13
+34
+7.14
+Entire Agreement
+34
+7.15
+34
+7.16
+35
+7.17
+35
+7.18
+Termination
+36
+EXHIBIT C
+EXHIBIT D
+EXHIBIT E
+EXHIBIT F
+EXHIBIT G
+EXHIBIT K-1
+EXHIBIT K-2
+1.
+1.1          Sale and Issuance of Common Stock to Helios.
+(a)          MoviePass shall adopt and file with the Secretary of State of the State of Delaware at or before the Closing (as defined below) the Amended and Restated Certificate of Incorporation in the form of Exhibit A attached to this Agreement (the “Restated Certificate”).
+1.3         Use of Proceeds.
+(i)     “Helios Key Employee” means Theodore Farnsworth (Chief Executive Officer) and Stuart Benson (Chief Financial Officer).
+(j)     “Helios Securities” means the Helios Note and Helios Shares.
+(l)     “Investors’ Rights Agreement” means the agreement among MoviePass, Helios and certain other stockholders of MoviePass dated as of the date of the Closing, in the form of Exhibit F attached to this Agreement.
+(m)     “Key Employee” means any executive-level employee (including division director and vice president-level positions) of MoviePass as well as any employee or consultant who either alone or in concert with others develops, invents, programs or designs any material MoviePass Intellectual Property.
+(n)     “Knowledge” or “knowledge” with respect to MoviePass, including the phrase “to MoviePass’ knowledge,” shall mean the actual knowledge of the following officers or directors: Mitch Lowe, Sanjay Puri and Stacey Spikes.
+(o)     “Material Adverse Effect” means, with respect to the applicable party, any changes, events, circumstances or developments which have, or would reasonably be expected to have, a material adverse effect on (x) the business, assets (including intangible assets), liabilities, financial condition, property or results of operations of such party and its subsidiaries, taken as a whole, or (y) the ability of such party to consummate the transactions contemplated by this Agreement or the other Transaction Agreements to which such party is a party or to perform its obligations hereunder or thereunder; provided, however, that none of the following shall constitute a “Material Adverse Effect” for purposes of clause (x): (i) general changes in the financial or securities markets or general economic or political conditions in the United States or any other country or region in which such party does business; (ii) changes, conditions or effects that generally affect the industries in which such party principally operates; (iii) changes in law, statute, ordinance, rule, regulation, code, order, judgment, injunction, decree or other provision having the force or effect of law enacted, issued, promulgated, enforced or ordered by a governmental authority or GAAP or the interpretation thereof; (iv) conditions caused by acts of God, terrorism, war (whether or not declared) or natural disaster; (v) changes that are the result of the announcement or pendency of the transactions contemplated by this Agreement, including the impact thereof on the relationships (contractual or otherwise) of the parties with customers, suppliers, licensors or employees; (vi) any failure in and of itself by such party to meet any internal or published budgets, projections, forecasts or predictions of financial performance for any period (provided, that the underlying cause of any such failure may be considered in determining whether a Material Adverse Effect has occurred or would reasonably be expected to occur to the extent not excluded by another exception herein); (vii) changes that result from any action taken by or on behalf of one of the parties pursuant to this Agreement or at the written request or with the written consent of the other party; and (viii) any change in the market price or trading volume of the Helios Common Stock; provided, further, that any change, event, circumstance or development referred to in clauses (i) - (iv) immediately above shall be taken into account in determining whether a Material Adverse Effect has occurred or would reasonably be expected to occur to the extent that such change, event, circumstance or development has a disproportionate effect on such party as compared to other participants of similar size and scope of such party in the industries and geographic areas in which such party primarily conducts its business.
+(t)      “Securities Act” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
+(w)     “Voting Agreement” means the agreement among MoviePass, Helios and certain other stockholders of MoviePass, dated as of the date of the Closing, in the form of Exhibit G attached to this Agreement.
+2.
+2.1         Organization, Good Standing, Corporate Power and Qualification.
+2.2          Capitalization.
+(a)           As of the date hereof, the authorized and outstanding capital of MoviePass consists of the following:
+(iv)     The warrants described on Subsection 2.2(a)(iv) of the Disclosure Schedule.
+(v)     The convertible promissory notes described on Subsection 2(a)(v) of the Disclosure Schedule.
+(b)          Effective as of the Closing, the authorized and outstanding capital of MoviePass will consist of the following:
+(iv)     The warrants described on Subsection 2.2(a)(iv) of the Disclosure Schedule.
+MoviePass has a right of first refusal over transfers of all outstanding shares of Common Stock until the termination of the Amended and Restated Right of First Refusal and Co-Sale Agreement, dated June 24, 2014, by and among MoviePass and the parties signatory thereto.
+(d)         None of MoviePass’ stock purchase agreements or stock option documents contains a provision for acceleration of vesting (or lapse of a repurchase right) or other changes in the vesting provisions or other terms of such agreement or understanding upon the occurrence of any event or combination of events, including without limitation in the case where the Stock Plan is not assumed in an acquisition.
+(e)     409A.
+(f)     MoviePass has obtained valid waivers of any rights by other parties to purchase any of the Shares covered by this Agreement.
+2.3         Subsidiaries.
+2.4         Authorization.
+(b)     No “bad actor” disqualifying event described in Rule 506(d)(1)(i)-(viii) of the Securities Act (a “Disqualification Event”) is applicable to MoviePass or, to MoviePass’ knowledge, any MoviePass Covered Person, except for a Disqualification Event as to which Rule 506(d)(2)(ii–iv) or (d)(3) is applicable.
+2.7         Litigation.
+2.9        Compliance with Other Instruments.
+(c)     Subsection 2.10(c) of the Disclosure Schedule sets forth all of the indebtedness for borrowed money for which MoviePass is liable which is outstanding as of the date hereof.
+2.11        Certain Transactions.
+2.15         Changes.
+(a)     any change in the assets, liabilities, financial condition or operating results of MoviePass reflected in the Financial Statements, except changes in the ordinary course of business that have not caused, in the aggregate, a Material Adverse Effect on MoviePass;
+(b)     any damage, destruction or loss, whether or not covered by insurance, that would have a Material Adverse Effect on MoviePass;
+(c)     any waiver or compromise by MoviePass of a valuable right or of a material debt owed to it;
+(d)     any satisfaction or discharge of any lien, claim, or encumbrance or payment of any obligation by MoviePass, except in the ordinary course of business and the satisfaction or discharge of which would not have a Material Adverse Effect on MoviePass;
+(e)     any material change to a material contract or agreement by which MoviePass or any of its assets is bound or subject;
+(f)     any material change in any compensation arrangement or agreement with any employee, officer, director or stockholder;
+(g)     any resignation or termination of employment of any officer or Key Employee of MoviePass;
+(h)     any mortgage, pledge, transfer of a security interest in, or lien, created by MoviePass, with respect to any of its material properties or assets, except liens for taxes not yet due or payable and liens that arise in the ordinary course of business and do not materially impair MoviePass’ ownership or use of such property or assets;
+(i)     any loans or guarantees made by MoviePass to or for the benefit of its employees, officers or directors, or any members of their immediate families, other than travel advances and other advances made in the ordinary course of its business;
+(j)     any declaration, setting aside or payment or other distribution in respect of any of MoviePass’ capital stock, or any direct or indirect redemption, purchase, or other acquisition of any of such stock by MoviePass;
+(k)     any sale, assignment or transfer of any MoviePass Intellectual Property that has resulted in, or would reasonably be expected to result in, a Material Adverse Effect on MoviePass;
+(m)     any arrangement or commitment by MoviePass to do any of the things described in this Subsection 2.15.
+2.16        Employee Matters.
+(a)     As of the date hereof, MoviePass employs 9 full-time employees and 5 part-time employees.
+(c)     MoviePass is not delinquent in payments to any of its employees, consultants, or independent contractors for any wages, salaries, commissions, bonuses, or other direct compensation for any service performed for it to the date hereof or amounts required to be reimbursed to such employees, consultants or independent contractors.
+(d)     To MoviePass’ knowledge, no Key Employee intends to terminate employment with MoviePass or is otherwise likely to become unavailable to continue as a Key Employee, nor does MoviePass have a present intention to terminate the employment of any of the foregoing.
+Except as set forth in Subsection 2.16(d) of the Disclosure Schedule, the employment of each employee of MoviePass is terminable at the will of MoviePass.
+(f)     Intentionally omitted.
+(g)     Subsection 2.16(g) of the Disclosure Schedule sets forth each employee benefit plan maintained, established or sponsored by MoviePass, or which MoviePass participates in or contributes to, which is subject to the Employee Retirement Income Security Act of 1974, as amended (“ERISA”).
+2.18     Insurance.
+2.19     Employee Agreements.
+2.22     83(b) Elections.
+2.31     Legends.
+(a)     Any legend set forth in, or required by, the other Transaction Agreements.
+(b)     Any legend required by the securities laws of any state to the extent such laws are applicable to the Helios Securities represented by the certificate, instrument, or book entry so legended.
+2.33     No General Solicitation.
+2.34     Exculpation.
+3.
+3.2     Authorization.
+3.4         Subsidiaries.
+3.5          Valid Issuance of Securities.
+3.6     Governmental Consents and Filings.
+3.7     Litigation.
+3.8     Intellectual Property.
+3.9      Compliance with Other Instruments.
+3.11        Changes.
+(a)     any change in the assets, liabilities, financial condition or operating results of any Helios Company from that reflected in the Public Report Financial Statements, except changes in the ordinary course of business that have not caused, in the aggregate, a Material Adverse Effect on Helios;
+(b)     any damage, destruction or loss, whether or not covered by insurance, that would have a Material Adverse Effect on Helios;
+(c)     any waiver or compromise by a Helios Company of a valuable right or of a material debt owed to it;
+(d)     any satisfaction or discharge of any lien, claim, or encumbrance or payment of any obligation by a Helios Company, except in the ordinary course of business, the satisfaction or discharge of certain of Helios’ obligations under the Senior Secured Convertible Notes described in the Public Reports and the satisfaction or discharge of which would not have a Material Adverse Effect on Helios;
+(e)     any material change to a material contract or agreement by which a Helios Company or any of its assets is bound or subject (including any material change in any compensation arrangement or agreement with any employee, officer, director or stockholder);
+(f)     any resignation or termination of employment of any officer of Helios Company or Helios Key Employee;
+(g)     any mortgage, pledge, transfer of a security interest in, or lien, created by a Helios Company, with respect to any of its material properties or assets, except liens for taxes not yet due or payable and liens that arise in the ordinary course of business and do not materially impair any Helios Company’s ownership or use of such property or assets;
+(h)     any loans or guarantees made by a Helios Company to or for the benefit of any employees, officers or directors of any Helios Company, or any members of their immediate families, other than travel advances and other advances made in the ordinary course of its business;
+(j)     any sale, assignment or transfer of any Helios Intellectual Property that could reasonably be expected to result in a Material Adverse Effect on Helios; or
+(k)     any arrangement or commitment by any Helios Company to do any of the things described in this Subsection 3.11.
+3.21     Legends.
+(a)     Any legend set forth in, or required by, the other Transaction Agreements.
+(b)     Any legend required by the securities laws of any state to the extent such laws are applicable to the MoviePass Securities represented by the certificate, instrument, or book entry so legended.
+3.23     No General Solicitation.
+3.24     Exculpation.
+4.
+4.1     MoviePass Employment Agreements.
+4.2     Dilutive Issuances.
+4.5     Helios Employment Agreements.
+4.6     Appointment of Director.
+4.7     Publicity.
+4.9     Commercially Reasonable Efforts.
+5.
+5.2     Performance.
+5.4     Qualifications.
+5.5     Opinion of MoviePass Counsel.
+5.6     Board of Directors.
+5.9     Voting Agreement.
+5.10     Restated Certificate.
+Prior to the Closing, MoviePass shall have caused all Preferred Stock and convertible notes (other than the convertible notes in the aggregate principal amount of $1,000,000 held by Chris Kelly (collectively, the “Kelly Note”)) to have been cancelled, extinguished or otherwise exchanged for shares of Common Stock, as applicable, and consistent with MoviePass’ representations and warranties in Subsection 2.2(b).
+5.16     Approval of the Stockholders of Helios.
+5.17     Approval of Hudson Bay Master Fund Ltd. Helios shall have obtained the written consent of Hudson Bay Master Fund Ltd to issue the Helios Shares.
+5.23     MoviePass Stockholder Approval.
+6.
+6.2     Performance.
+6.4     Qualifications.
+6.7     Restated Certificate.
+6.10     Lock-Up Agreements.
+6.12     Approval of the Stockholders of MoviePass.
+6.13     Appointment of Mitch Lowe as Director.
+6.15     Approval of the Stockholders of Helios.
+6.18     Voting Proxy.
+7.
+7.1     Survival of Warranties; Damages Under this Agreement.
+7.2     Successors and Assigns; Third Party Beneficiaries.
+7.8     Specific Performance.
+7.11        Amendments and Waivers.
+Any term of this Agreement may be amended, terminated or waived only with the written consent of MoviePass and Helios.
+7.12        Severability.
+7.13        Delays or Omissions.
+7.14        Entire Agreement.
+(b)     In the event of a dispute relating to the number of MoviePass subscribers to the MoviePass product (a “Dispute”), such Dispute shall be governed by this Subsection 7.15(b).
+7.16     WAIVER OF JURY TRIAL.
+7.17     No Commitment for Additional Financing.
+7.18         Termination.
+(a)           This Agreement may be terminated and the transactions contemplated hereby may be abandoned at any time prior to the Closing as follows:
+(i)     by mutual written consent of the parties;
+(ii)     by written notice by either party if a governmental authority of competent jurisdiction shall have issued a law, judgment, writ or order or taken any other action permanently restraining, enjoining or otherwise prohibiting the transactions contemplated by this Agreement, and such law, judgment, writ or order or other action has become final and non-appealable;
+(iii)     by written notice by either party if the conditions to the Closing of the other party set forth in Section 5 or 6, as applicable, have not been satisfied within twelve (12) months after the date hereof (the “Outside Date”); provided, however, the right to terminate under this Subsection 7.18(a)(iii) shall not be available if an intentional and willful failure by the offending party to fulfill a condition was the primary cause of the failure of the Closing to occur on or before the Outside Date;
+(iv)     by written notice by Helios if (A) there has been a breach by MoviePass of any of its representations, warranties, covenants or agreements contained in this Agreement, or if any representation or warranty of MoviePass shall have become untrue or inaccurate, in any case, which would result in a failure of a condition set forth in Subsection 5.1 or 5.2 to be satisfied (treating the Closing Date for such purposes as the date of this Agreement or, if later, the date of such breach), and (B) the breach or inaccuracy is incapable of being cured or is not cured within the earlier of (x) twenty (20) days after written notice of such breach or inaccuracy is provided by Helios or (y) the Outside Date; provided, that Helios shall not have the right to terminate this Agreement pursuant to this Subsection 7.18(a)(iv) if at such time Helios is in material uncured breach of this Agreement;
+(v)     by written notice by MoviePass if (A) there has been a breach by Helios of any of its representations, warranties, covenants or agreements contained in this Agreement, or if any representation or warranty of Helios shall have become untrue or inaccurate, in any case, which would result in a failure of a condition set forth in Subsections 6.1 or 6.2 to be satisfied (treating the Closing Date for such purposes as the date of this Agreement or, if later, the date of such breach), and (B) the breach or inaccuracy is incapable of being cured or is not cured within the earlier of (x) twenty (20) days after written notice of such breach or inaccuracy is provided by MoviePass or (y) the Outside Date; provided, that MoviePass shall not have the right to terminate this Agreement pursuant to this Subsection 7.18(a)(v) if at such time MoviePass is in material uncured breach of this Agreement;
+(vi)     by written notice by Helios if the MoviePass Stockholder Approval is not received within the time period set forth in Subsection 5.23 of this Agreement; or
+(b)     This Agreement may only be terminated in the circumstances described in Subsection 7.18(a) and pursuant to a written notice delivered by the terminating party to the other party, which sets forth the basis for such termination.
+In the event of the valid termination of this Agreement pursuant to Subsection 7.18(a), this Agreement shall forthwith become void, and there shall be no liability on the part of either party or any of their respective Representatives, and all rights and obligations of each party shall cease, except: (i) Subsections 4.7, 4.8 and 7 shall survive the termination of this Agreement, and (ii) nothing herein shall relieve either party from liability for any willful breach of any representation, warranty, covenant or obligation under this Agreement or any claim for common law fraud in connection with the transactions contemplated by this Agreement against such party, in either case, prior to termination of this Agreement.
+Without limiting the foregoing, and except as provided in this Section 7, the parties’ sole right prior to the Closing with respect to any breach of any representation, warranty, covenant or other agreement contained in this Agreement by the other party or with respect to the transactions contemplated by this Agreement shall be the right, if applicable, to terminate this Agreement pursuant to Subsection 7.18(a).
+(c)     Notwithstanding the foregoing, if Helios terminates this Agreement pursuant to Subsection 7.18(a)(iv) or MoviePass terminates this Agreement pursuant to Subsection 7.18(a)(v), in addition to any other remedies available to the terminating party under this Agreement, the breaching party shall pay the terminating party’s actual reasonable out-of-pocket costs and expenses incurred in connection with the transactions contemplated hereby in an aggregate amount of up to $250,000.
+Such amount shall be paid to the terminating party after the termination of this Agreement by wire transfer within five (5) business days of the breaching party‘s receipt of reasonable evidence from the terminating party of its incurrence of such costs and expenses.
+                 New York, NY 10012
+                 New York, New York 10118
+EXHIBIT C
+EXHIBIT D
+EXHIBIT E
+EXHIBIT F
+EXHIBIT G
+EXHIBIT K-1
+EXHIBIT K-2
+EXHIBIT C
+EXHIBIT D
+EXHIBIT E
+EXHIBIT F
+EXHIBIT G
+EXHIBIT K-1
+EXHIBIT K-2

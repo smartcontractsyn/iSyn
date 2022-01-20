@@ -1,0 +1,111 @@
+A.
+B.
+1.
+a.
+b.
+1A.
+Warrant.
+2.
+a.
+b.
+g. Legends.
+h. Authorization; Enforcement.
+3.
+b.
+e. Issuance of Warrant.
+f. Acknowledgment of Dilution.
+i.
+j.
+o.
+ q.
+s. Permits; Compliance.
+u.
+ v. Insurance.
+x.
+y.
+[Intentionally omitted] z.
+aa.
+bb.
+cc.
+dd.
+ee.
+ff.
+Breach of Representations and Warranties by the Company.
+4.
+a.
+b.
+c. Use of Proceeds.
+e. Usury.
+f. Restriction on Activities.
+h. Corporate Existence.
+i.
+j.
+k. Compliance with 1934 Act; Public Information Failures.
+During the period that the Buyer beneficially owns the Note, if the Company shall (i) fail for any reason to satisfy the requirements of Rule 144(c)(1), including, without limitation, the failure to satisfy the current public information requirements under Rule 144(c) or (ii) if the Company has ever been an issuer described in Rule 144(i)(1)(i) or becomes such an issuer in the future, and the Company shall fail to satisfy any condition set forth in Rule 144(i)(2) (each, a “Public Information Failure”) then, as partial relief for the damages to the Buyer by reason of any such delay in or reduction of its ability to sell the Securities (which remedy shall not be exclusive of any other remedies available pursuant to this Agreement, the Note, or at law or in equity), the Company shall pay to the Buyer an amount in cash equal to three percent (3%) of the Purchase Price on the day of a Public Information Failure and on every thirtieth day (prorated for periods totaling less than thirty days) thereafter until the date such Public Information Failure is cured.
+l. Acknowledgement Regarding Buyer’s Trading Activity.
+m. [Intentionally Omitted].
+o.
+q.
+5.
+6.
+b.
+7.
+b.
+i.
+8.
+a.
+b.
+d. Severability.
+e. Entire Agreement; Amendments.
+i.
+Survival.
+j.
+o.
+p. Failure or Indulgence Not Waiver.
+The maturity date shall be twelve (12) months from the Issue Date (the “Maturity Date”), and is the date upon which the principal sum, the OID, as well as any accrued and unpaid interest and other fees, shall be due and payable.
+(a) Mechanics of Conversion.
+At the time that the Holder submits the Notice of Conversion to the Borrower or Borrower’s transfer agent, the Holder shall be deemed to be the holder of record of the Conversion Shares issuable upon such conversion, the outstanding Principal Amount and the amount of accrued and unpaid interest (including any Default Interest) under this Note shall be reduced to reflect such conversion, and, unless the Borrower defaults on its obligations under this Article I, all rights with respect to the portion of this Note being so converted shall forthwith terminate except the right to receive the Common Stock or other securities, cash or other assets, as herein provided, on such conversion.
+1.5 Concerning the Shares.
+ 1.6 Effect of Certain Events.
+(a) Effect of Merger, Consolidation, Etc.
+(b) Adjustment Due to Merger, Consolidation, Etc.
+(c) Adjustment Due to Distribution.
+(e) Dilutive Issuance.
+ 1.7 [RESERVED].
+Upon submission of a Notice of Conversion by a Holder, (i) the Conversion Shares covered thereby (other than the Conversion Shares, if any, which cannot be issued because their issuance would exceed such Holder’s allocated portion of the Reserved Amount or Maximum Share Amount) shall be deemed converted into shares of Common Stock and (ii) the Holder’s rights as a Holder of such converted portion of this Note shall cease and terminate, excepting only the right to receive certificates for such shares of Common Stock and to any remedies provided herein or otherwise available at law or in equity to such Holder because of a failure by the Borrower to comply with the terms of this Note.
+1.10 [Intentionally Omitted].
+ARTICLE II.
+2.4 Restriction on Stock Repurchases.
+2.8 Preservation of Business and Existence, etc.
+ 2.9 Noncircumvention.
+ARTICLE III.
+3.2 Conversion and the Shares.
+3.3 Breach of Agreements and Covenants.
+3.4 Breach of Representations and Warranties.
+3.5 Receiver or Trustee.
+3.7 Bankruptcy.
+3.8 Failure to Comply with the 1934 Act.
+3.9 Liquidation.
+3.10 Cessation of Operations.
+The failure by Borrower to maintain any material intellectual property rights, personal, real property or other assets which are necessary to conduct its business (whether now or in the future).
+3.13 Replacement of Transfer Agent.
+3.14 [RESERVED] 3.15 Variable Rate Transactions.
+Any attempt by the Borrower or its officers, directors, and/or affiliates to transmit, convey, disclose, or any actual transmittal, conveyance, or disclosure by the Borrower or its officers, directors, and/or affiliates of, material non-public information concerning the Borrower, to the Holder or its successors and assigns, which is not immediately cured by Borrower’s filing of a Form 8-K pursuant to Regulation FD on that same date.
+3.17 Unavailability of Rule 144.
+3.18 Delisting or Suspension of Trading of Common Stock.
+ARTICLE IV.
+MISCELLANEOUS 4.1 Failure or Indulgence Not Waiver.
+4.12 Usury.
+4.13 Severability.
+4.15 Dispute Resolution.
+b.
+i.
+j.
+2.
+b.
+The Suspension Damages shall continue until the obligation is fulfilled and shall be paid within five (5) business days after each thirty (30) day period, or portion thereof, until such suspension is released.
+3.
+b.
+Failure to cure the Registration Default within five (5) business days shall result in the Company paying liquidated damages of one percent (1%) of the Purchase Amount for each thirty (30) calendar day period or portion thereof, beginning on the date of suspension.
+The Company acknowledges that its failure to cure the Registration Default within five (5) business days will cause the Holder irreparable harm, and that damages will be difficult to ascertain.
+g. [RESERVED] h. [RESERVED] i.

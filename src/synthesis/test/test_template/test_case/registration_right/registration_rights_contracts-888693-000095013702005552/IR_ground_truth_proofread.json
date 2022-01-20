@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "RegistrationRightAgreement",
+    "SellerName": [
+        "ISCO International, Inc."
+    ],
+    "BuyerName": [
+        "Manchester Securities Corporation"
+    ],
+    "EffectiveTime": [
+        "October 23, 2002"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Manchester Securities Corporation"
+            ],
+            "To": [
+                "ISCO International, Inc."
+            ],
+            "PurchasePrice": "4000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

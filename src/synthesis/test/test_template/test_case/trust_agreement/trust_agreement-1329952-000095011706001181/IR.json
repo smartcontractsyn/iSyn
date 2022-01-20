@@ -1,0 +1,32 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [],
+    "BuyerName": [],
+    "EffectiveTime": [
+        "October 1, 2002 through March 6, 2003"
+    ],
+    "CloseTime": [""],
+    "OutSideClosingDate": [
+        "March 10"
+    ],
+    "Payments": [
+        {
+            "From": [],
+            "To": [],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 120000000.2,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

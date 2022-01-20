@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "the Company"
+    ],
+    "BuyerName": [
+        "Inc"
+    ],
+    "EffectiveTime": [
+        "Closing Date"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "October 1, 2021"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Inc"
+            ],
+            "To": [
+                "the Company"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 175000000.0,
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

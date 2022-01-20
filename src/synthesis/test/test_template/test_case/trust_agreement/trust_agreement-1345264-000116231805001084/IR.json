@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "CHASE BANK USA"
+    ],
+    "BuyerName": [
+        "WACHOVIA EDUCATION LOAN FUNDING LLC"
+    ],
+    "EffectiveTime": [
+        "November 29, 2005"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "July 2007"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "WACHOVIA EDUCATION LOAN FUNDING LLC"
+            ],
+            "To": [
+                "CHASE BANK USA"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 1800000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

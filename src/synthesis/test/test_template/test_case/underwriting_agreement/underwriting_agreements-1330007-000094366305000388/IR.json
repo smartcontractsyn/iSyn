@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Wachovia Bank"
+    ],
+    "BuyerName": [
+        "Underwritten Certificates"
+    ],
+    "EffectiveTime": [
+        "June 1, 2005"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "June 22, 2005"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Underwritten Certificates"
+            ],
+            "To": [
+                "Wachovia Bank"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 1614545341,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

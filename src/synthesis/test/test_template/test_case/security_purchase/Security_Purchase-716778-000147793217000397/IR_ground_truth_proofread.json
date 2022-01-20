@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "SellerName": [
+        "SPO Global Inc."
+    ],
+    "BuyerName": [
+        "Blackbridge Capital Growth Fund, LLC"
+    ],
+    "EffectiveTime": [
+        "June 23, 2016"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Blackbridge Capital Growth Fund, LLC"
+            ],
+            "To": [
+                "SPO Global Inc."
+            ],
+            "PurchasePrice": "500000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

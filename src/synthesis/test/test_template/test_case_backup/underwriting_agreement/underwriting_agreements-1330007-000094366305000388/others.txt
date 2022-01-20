@@ -1,0 +1,430 @@
+Exhibit 1.1
+WACHOVIA BANK
+COMMERCIAL MORTGAGE TRUST
+COMMERCIAL MORTGAGE PASS THROUGH CERTIFICATES
+SERIES 2005-C19
+Charlotte, North Carolina
+                    Two separate real estate mortgage investment conduit (“REMIC”) elections will be made with respect to certain portions of the Trust Fund for federal income tax purposes.
+The Underwritten Certificates and the Mortgage Pool are described more fully in Schedule I hereto and in a registration statement furnished to you by the Company.
+                    Capitalized terms used but not otherwise defined herein shall have the respective meanings assigned to them in the Pooling and Servicing Agreement.
+                    1.
+Representations and Warranties.
+(a) The Company represents and warrants to, and agrees with, each Underwriter that:
+                    (i)          The Company has filed with the Securities and Exchange Commission (the “Commission”) a registration statement (No.
+333-120922) on Form S-3 for the registration of Commercial Mortgage Pass Through Certificates, issuable in series, including the Underwritten Certificates, under the Securities Act of 1933, as amended (the “1933 Act”), which registration statement has become effective and a copy of which, as amended to the date hereof, has heretofore been delivered to you.
+The Company meets the requirements for use of Form S-3 under the 1933 Act, and such registration statement, as amended at the date hereof, meets the requirements set forth in Rule 415(a)(1)(x) under the 1933 Act and complies in all other material respects with the 1933 Act and the rules and regulations thereunder.
+The Company proposes to file with the Commission, with your consent, pursuant to Rule 424 under the 1933 Act, a supplement dated June 22, 2005 (the “Prospectus Supplement”) to the prospectus dated June 22, 2005 (the “Base Prospectus”), relating to the Underwritten Certificates and the method of distribution thereof, and has previously advised you of all further information (financial and other) with respect to the Underwritten Certificates and the Mortgage Pool to be set forth therein.
+Such registration statement (No.
+333-120922), including all exhibits thereto, is referred to herein as the “Registration Statement”; and the Base Prospectus and the Prospectus Supplement, together with any amendment thereof or supplement thereto authorized by the Company prior to the Closing Date for use in connection with the offering of the Underwritten Certificates, are hereinafter called the “Prospectus”.
+Any preliminary form of the Prospectus Supplement that has heretofore been filed pursuant to Rule 424 or, prior to the effective date of the Registration Statement, pursuant to Rule 402(a) or 424(a), is hereinafter called a “Preliminary Prospectus Supplement”.
+As used herein, “Pool Information” means the mortgage pool information reflected in the Master Tape and the Prospectus Supplement.
+The “Master Tape” shall mean the compilation of information and data regarding the Mortgage Loans covered by the letters rendered by KPMG LLP (a “hard copy” of which Master Tape was produced on behalf of the Mortgage Loan Seller) described in Section 6(h)(ii) in this Agreement.
+-2-
+                    (ii)         As of the date hereof, as of the date on which the Prospectus Supplement is first filed pursuant to Rule 424 under the 1933 Act, as of the date on which, prior to the Closing Date, any amendment to the Registration Statement becomes effective, as of the date on which any supplement to the Prospectus Supplement is filed with the Commission, and as of the Closing Date, (i) the Registration Statement, as amended as of any such time, and the Prospectus, as amended or supplemented as of any such time, complies and will comply in all material respects with the applicable requirements of the 1933 Act and the rules and regulations thereunder, (ii) the Registration Statement, as amended as of any such time, does not include and will not include any untrue statement of a material fact and does not omit and will not omit to state any material fact required to be stated therein or necessary in order to make the statements therein not misleading, and (iii) the Prospectus, as amended or supplemented as of any such time, does not include and will not include any untrue statement of a material fact and does not omit and will not omit to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading; provided, however, that the Company makes no representations or warranties as to (x) statements contained in or omitted from the Registration Statement or the Prospectus or any amendment or supplement thereto made in reliance upon and in conformity with information furnished in writing to the Company by or on behalf of any Underwriter through you specifically for use in the Registration Statement and the Prospectus (such information being identified in Section 8(b)), or (y) the Mortgage Loan Seller Covered Information (as defined in Section 8 hereof).
+                    (iii)        The Company has been duly incorporated and is validly existing as a corporation in good standing under the laws of the State of North Carolina with corporate power and authority to own, lease or operate its properties and to conduct its business as now conducted by it and to enter into and perform its obligations under this Agreement and the Pooling and Servicing Agreement; and the Company is duly qualified as a foreign corporation to transact business and is in good standing in each jurisdiction in which such qualification is required, whether by reason of the ownership or leasing of property or the conduct of business.
+                    (iv)        As of the date hereof, as of the date on which the Prospectus Supplement is first filed pursuant to Rule 424 under the 1933 Act, as of the date on which, prior to the Closing Date, any amendment to the Registration Statement becomes effective, as of the date on which any supplement to the Prospectus Supplement is filed with the Commission, and as of the Closing Date, there has not and will not have been (i) any request by the Commission for any further amendment to the Registration Statement or the Prospectus or for any additional information, (ii) any issuance by the Commission of any stop order suspending the effectiveness of the Registration Statement or the institution or threat of any proceeding for that purpose or (iii) any notification with respect to the suspension of the qualification of the Underwritten Certificates for sale in any jurisdiction or any initiation or threat of any proceeding for such purpose.
+-3-
+                    (v)        Each of this Agreement, the Pooling and Servicing Agreement and the Mortgage Loan Purchase Agreement has been duly authorized, executed and delivered by the Company and each of this Agreement, the Pooling and Servicing Agreement, and the Mortgage Loan Purchase Agreement constitutes legal, valid and binding agreements of the Company, enforceable against the Company in accordance with their respective terms, except as enforceability may be limited by (i) bankruptcy, insolvency, reorganization, receivership, moratorium or other similar laws affecting the enforcement of the rights of creditors generally, (ii) general principles of equity, whether enforcement is sought in a proceeding in equity or at law, and (iii) public policy considerations underlying the securities laws, to the extent that such public policy considerations limit the enforceability of the provisions of this Agreement, the Pooling and Servicing Agreement or the Mortgage Loan Purchase Agreement that purport to provide indemnification from securities law liabilities.
+                    (vi)        As of the Closing Date, the Underwritten Certificates, the Pooling and Servicing Agreement and the Mortgage Loan Purchase Agreement will conform in all material respects to the respective descriptions thereof contained in the Prospectus.
+As of the Closing Date, the Underwritten Certificates will be duly and validly authorized and, when delivered in accordance with the Pooling and Servicing Agreement to you against payment therefor as provided herein, will be duly and validly issued and outstanding and entitled to the benefits of the Pooling and Servicing Agreement.
+                    (vii)       The Company is not in violation of its certificate of incorporation or by laws or in default under any agreement, indenture or instrument the effect of which violation or default would be material to the Company or which violation or default would have a material adverse affect on the performance of its obligations under this Agreement, the Pooling and Servicing Agreement or the Mortgage Loan Purchase Agreement.
+Neither the issuance and sale of the Underwritten Certificates, nor the execution and delivery by the Company of this Agreement, the Mortgage Loan Purchase Agreement or the Pooling and Servicing Agreement nor the consummation by the Company of any of the transactions herein or therein contemplated, nor compliance by the Company with the provisions hereof or thereof, did, does or will conflict with or result in a breach of any term or provision of the certificate of incorporation or by laws of the Company or conflict with, result in a breach, violation or acceleration of, or constitute a default (or an event which, with the passing of time or notification, or both, would constitute a default) under, the terms of any indenture or other agreement or instrument to which the Company is a party or by which it or any material asset is bound, or any statute, order or regulation applicable to the Company of any court, regulatory body, administrative agency or governmental body having jurisdiction over the Company.
+-4-
+                    (viii)      There is no action, suit or proceeding against the Company pending, or, to the knowledge of the Company, threatened, before any court, arbitrator, administrative agency or other tribunal (i) asserting the invalidity of this Agreement, the Pooling and Servicing Agreement, the Mortgage Loan Purchase Agreement or the Underwritten Certificates, (ii) seeking to prevent the issuance of the Underwritten Certificates or the consummation of any of the transactions contemplated by this Agreement, (iii) that might materially and adversely affect the performance by the Company of its obligations under, or the validity or enforceability of, this Agreement, the Pooling and Servicing Agreement, the Mortgage Loan Purchase Agreement or the Underwritten Certificates or (iv) seeking to affect adversely the federal income tax attributes of the Underwritten Certificates as described in the Prospectus.
+                    (ix)        There are no contracts, indentures or other documents of a character required by the 1933 Act or by the rules and regulations thereunder to be described or referred to in the Registration Statement or the Prospectus or to be filed as exhibits to the Registration Statement which have not been so described or referred to therein or so filed or incorporated by reference as exhibits thereto.
+                    (x)         No authorization, approval or consent of any court or governmental authority or agency is necessary in connection with the offering or sale of the Underwritten Certificates pursuant to this Agreement, except such as have been, or as of the Closing Date will have been, obtained or such as may otherwise be required under applicable state securities laws in connection with the purchase and offer and sale of the Underwritten Certificates by the Underwriters and any recordation of the respective assignments of the Mortgage Loans to the Trustee pursuant to the Pooling and Servicing Agreement that have not been completed.
+                    (xi)        The Company possesses all material licenses, certificates, authorities or permits issued by the appropriate state, federal or foreign regulatory agencies or bodies necessary to conduct the business now operated by it, and the Company has not received any notice of proceedings relating to the revocation or modification of any such license, certificate, authority or permit which, singly or in the aggregate, if the subject of any unfavorable decision, ruling or finding, would materially and adversely affect the condition, financial or otherwise, or the earnings, business affairs or business prospects of the Company.
+                    (xii)       Any taxes, fees and other governmental charges in connection with the execution and delivery of this Agreement and the delivery and sale of the Underwritten Certificates (other than such federal, state and local taxes as may be payable on the income or gain recognized therefrom) have been or will be paid at or prior to the Closing Date.
+                    (xiii)      Neither the Company nor the Trust Fund is, and neither the sale of the Underwritten Certificates in the manner contemplated by the Prospectus nor the activities of the Trust Fund pursuant to the Pooling and Servicing Agreement will cause the Company or the Trust Fund to be, an “investment company” or under the control of an “investment company” as such terms are defined in the Investment Company Act of 1940, as amended (the “Investment Company Act”).
+-5-
+                    (xiv)      Under generally accepted accounting principles (“GAAP”) and for federal income tax purposes, the Company reported the transfer of the Mortgage Loans to the Trustee in exchange for the Certificates and will report the sale of the Underwritten Certificates to the Underwriters pursuant to this Agreement as a sale of the interests in the Mortgage Loans evidenced by the Underwritten Certificates.
+The consideration received by the Company upon the sale of the Underwritten Certificates to the Underwriters will constitute reasonably equivalent value and fair consideration for the Underwritten Certificates.
+The Company will be solvent at all relevant times prior to, and will not be rendered insolvent by, the sale of the Underwritten Certificates to the Underwriters.
+In addition, the Company was solvent at all relevant times prior to, and was not rendered insolvent by, the transfer of the Mortgage Loans to the Trustee on behalf of the Trust Fund.
+The Company is not selling the Underwritten Certificates to the Underwriters and did not transfer the Mortgage Loans to the Trustee on behalf of the Trust Fund with any intent to hinder, delay or defraud any of the creditors of the Company.
+                    (xv)       At the Closing Date, the respective classes of Underwritten Certificates shall continue to have maintained ratings no lower than those set forth in Schedule I hereto by the nationally recognized statistical rating organizations identified in Schedule I hereto (individually and collectively, the “Rating Agency”).
+                    (b)      Wachovia represents and warrants to, and agrees with, each Underwriter, that:
+                    (i)          Wachovia is a national banking association validly existing under the laws of the United States of America and possesses all requisite authority, power, licenses, permits and franchises to carry on its business as currently conducted by it and to execute, deliver and comply with its obligations under the terms of this Agreement.
+                    (ii)         This Agreement has been duly and validly authorized, executed and delivered by Wachovia and, assuming due authorization, execution and delivery hereof by the Company and the Underwriters, constitutes a legal, valid and binding obligation of Wachovia, enforceable against Wachovia in accordance with its terms, except as such enforcement may be limited by bankruptcy, insolvency, reorganization, moratorium and other laws affecting the enforcement of creditors’ rights in general, as they may be applied in the context of the insolvency of a national banking association, and by general equity principles (regardless of whether such enforcement is considered in a proceeding in equity or at law), and by public policy considerations underlying the securities laws, to the extent that such public policy considerations limit the enforceability of the provisions of this Agreement which purport to provide indemnification from liabilities under applicable securities laws.
+                    (iii)        The execution and delivery of this Agreement by Wachovia and Wachovia’s performance and compliance with the terms of this Agreement will not (A) violate Wachovia’s articles of association or by laws, (B) violate any law or regulation or any administrative decree or order to which it is subject or (C) constitute a default (or an event which, with notice or lapse of time, or both, would constitute a default) under, or result in the breach of, any contract, agreement or other instrument to which Wachovia is a party or by which Wachovia is bound.
+-6-
+                    (iv)        Wachovia is not in default with respect to any order or decree of any court or any order, regulation or demand of any federal, state, municipal or other governmental agency or body, which default might have consequences that would materially and adversely affect the condition (financial or other) or operations of Wachovia or its properties or have consequences that would materially and adversely affect its performance hereunder.
+                    (v)        Wachovia is not a party to or bound by any agreement or instrument or subject to any articles of association, bylaws or any other corporate restriction or any judgment, order, writ, injunction, decree, law or regulation that would materially and adversely affect the ability of Wachovia to perform its obligations under this Agreement or that requires the consent of any third person to the execution of this Agreement or the performance by Wachovia of its obligations under this Agreement (except to the extent such consent has been obtained).
+                    (vi)        No consent, approval, authorization or order of any court or governmental agency or body is required for the execution, delivery and performance by Wachovia of or compliance by Wachovia with this Agreement or the consummation of the transactions contemplated by this Agreement except as have previously been obtained.
+                    (vii)       No litigation is pending or, to the best of Wachovia’s knowledge, threatened against Wachovia that would assert the invalidity of this Agreement, prohibit its entering into this Agreement or materially and adversely affect the performance by Wachovia of its obligations under this Agreement.
+                    (viii)      Each representation and warranty of the Company set forth in Section 1(a) hereof is true and correct as of the date hereof or as of the date specified in such representation and warranty.
+                    (c)      Each Underwriter represents and warrants to the Company that, as of the date hereof and as of the Closing Date, (i) such Underwriter has complied in all material respects with all of its obligations under Section 4 hereof and (ii) with respect to all Computational Materials and Term Sheets (as such terms are defined in Section 4 herein), if any, provided by such Underwriter to the Company pursuant to Section 4(b)(iv), such Computational Materials and Term Sheets are accurate in all material respects (taking into account the assumptions explicitly set forth or otherwise referred to in the Computational Materials or in the Prospectus Supplement, the Term Sheets or the Preliminary Prospectus Supplement, and, provided, that the underlying data regarding the Mortgage Loans, and the related Mortgagors and Mortgaged Properties, provided to the Underwriters by the Mortgage Loan Seller is accurate and complete in all material respects) and constitute a complete set of all Computational Materials and Term Sheets distributed by such Underwriter that are required to be filed with the Commission pursuant to the No Action Letters (as defined herein).
+-7-
+                    2.
+                    3.
+                    References herein, including, without limitation, in the Schedules hereto, to actions taken or to be taken following the Closing Date with respect to any Underwritten Certificates that are to be delivered through the facilities of DTC shall include, if the context so permits, actions taken or to be taken with respect to the interests in such Certificates as reflected on the books and records of DTC.
+                    4.
+Offering by Underwriters.
+                    (a)      It is understood that the Underwriters propose to offer the Underwritten Certificates for sale to the public, including, without limitation, in and from the State of New York, as set forth in the Prospectus Supplement.
+It is further understood that the Company, in reliance upon an exemption from the Attorney General of the State of New York to be granted pursuant to Policy Statement 104 and 105, has not and will not file the offering pursuant to Section 352 e of the General Business Law of the State of New York with respect to the Underwritten Certificates.
+-8-
+                    (ii)         For purposes hereof, “Computational Materials” shall have the meaning given such term in the No Action Letters, but shall include only (x) the Computational Materials attached hereto as Exhibit A and (y) such other Computational Materials that have been delivered to prospective investors by or at the direction of such Underwriter.
+For purposes hereof, “ABS Term Sheets,” “Structural Term Sheets” and “Collateral Term Sheets” shall have the meanings given such terms in the PSA Letter but shall include only (x) the Term Sheets attached hereto as Exhibit B, and (y) those other ABS Term Sheets, Structural Term Sheets or Collateral Term Sheets that have been prepared for and delivered to prospective investors by or at the direction of such Underwriter.
+As used herein, “Term Sheets” means any ABS Term Sheets, Structural Term Sheets and/or Collateral Term Sheets.
+                    (iii)        All Computational Materials and Term Sheets provided to prospective investors shall bear a legend in a form previously approved by the Company or its counsel.
+                    (iv)        Such Underwriter shall not distribute any such Computational Materials or Term Sheets unless the forms and methodology thereof are in accordance with this Agreement.
+                    (v)        All information included in the Computational Materials and Term Sheets shall be generated based on substantially the same methodology and assumptions as are used to generate the information in the Prospectus Supplement as set forth therein; provided, that the Computational Materials and Term Sheets may include information based on alternative methodologies or assumptions if specified therein.
+If any
+-9-
+Computational Materials or Term Sheets were based on assumptions with respect to the Mortgage Pool that differ from the final Pool Information in any material respect or on Underwritten Certificate structuring assumptions (except in the case of Computational Materials when the different structuring terms were hypothesized and so described) that were revised in any material respect prior to the printing of the Prospectus, then to the extent that it has not already done so, such Underwriter shall immediately inform the Company and, upon the direction of the Company, and if not corrected by the Prospectus, shall prepare revised Computational Materials and Term Sheets, as the case may be, based on the final collateral information and structuring assumptions, circulate such revised Computational Materials and Term Sheets to all recipients of the preliminary versions thereof, and include such revised Computational Materials and Term Sheets (marked, “as revised”) in the materials delivered to the Company pursuant to subsection (iv) above.
+                    (vii)       Such Underwriter shall be deemed to have represented, as of the Closing Date, that except for Computational Materials and/or Term Sheets provided to the Company pursuant to subsection (iv) above, such Underwriter did not provide any prospective investors with any information in written or electronic form in connection with the offering of the Underwritten Certificates that is required to be filed with the Commission in accordance with the No Action Letters.
+33-7233 or other applicable laws or regulations.
+-10-
+                    (c)      Each Underwriter further agrees that it shall promptly provide the Company with such pricing information as the Company may reasonably request to enable it to comply with its reporting requirements with respect to each class of Underwritten Certificates to the extent such information can in the good faith judgment of the Underwriter be reasonably determined by it.
+                    5.
+Covenants of the Company.
+The Company covenants and agrees with the Underwriters that:
+                    (a)      The Company will not file any amendment to the Registration Statement (other than by reason of Rule 429 under the 1933 Act) or any supplement to the Base Prospectus relating to or affecting the Underwritten Certificates, unless the Company has furnished a copy to you for your review a reasonable time prior to filing, and will not file any such proposed amendment or supplement to which you reasonably object.
+Subject to the foregoing sentence, the Company will cause the Prospectus Supplement to be transmitted to the Commission for filing pursuant to Rule 424 under the 1933 Act or will cause the Prospectus Supplement to be filed with the Commission pursuant to said Rule 424.
+The Company promptly will advise you or counsel for the Underwriters (i) when the Prospectus Supplement shall have been filed or transmitted to the Commission for filing pursuant to Rule 424, (ii) when any amendment to the Registration Statement shall have become effective, (iii) of any request by the Commission to amend the Registration Statement or supplement the Prospectus Supplement or for any additional information in respect of the offering contemplated hereby, (iv) of the issuance by the Commission of any stop order suspending the effectiveness of the Registration Statement or any post effective amendment thereto which shall have become effective on or prior to the Closing Date or the institution or threatening of any proceeding for that purpose and (v) of the receipt by the Company of any notification with respect to the suspension of the qualification of the Underwritten Certificates for sale in any jurisdiction or the institution or threatening of any proceeding for that purpose.
+The Company will use its best efforts to prevent the issuance of any such stop order or suspension and, if issued, to obtain as soon as possible the withdrawal thereof.
+                    (b)      If, at any time when a prospectus relating to the Underwritten Certificates is required to be delivered under the 1933 Act, any event occurs as a result of which the Prospectus, as then amended or supplemented, would include any untrue statement of a material fact or omit to state any material fact necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading, or if it shall be necessary to amend or supplement the Prospectus to comply with the 1933 Act or the rules and regulations thereunder, the Company promptly will prepare and file with the Commission, at the expense of the Company, subject to paragraph (a) of this Section 5, an amendment or supplement that will correct such statement or omission or an amendment that will effect such compliance and, if such amendment or supplement is required to be contained in a post effective amendment to the Registration Statement, the Company will use its best efforts to cause such amendment to the Registration Statement to be made effective as soon as possible.
+-11-
+                    (d)      The Company will furnish such information, execute such instruments and take such action, if any, as may be required to qualify the Underwritten Certificates for sale under the laws of such jurisdictions as you may designate and will maintain such qualifications in effect so long as required for the distribution of the Underwritten Certificates; provided, however, that the Company shall not be required to qualify to do business in any jurisdiction where it is not now qualified or to take any action that would subject it to general or unlimited service of process in any jurisdiction where it is not now subject to such service of process.
+                    (e)      The Company will pay, or cause to be paid, all costs and expenses in connection with the transactions herein contemplated, including, but not limited to, the fees and disbursements of its counsel; the costs and expenses of printing (or otherwise reproducing) and delivering the Pooling and Servicing Agreement and the Underwritten Certificates; the fees and disbursements of accountants for the Company; the reasonable out of pocket costs and expenses in connection with the qualification or exemption of the Underwritten Certificates under state securities or “Blue Sky” laws, including filing fees and reasonable fees and disbursements of counsel in connection therewith, in connection with the preparation of any “Blue Sky” survey and in connection with any determination of the eligibility of the Underwritten Certificates for investment by institutional investors and the preparation of any legal investment survey; the expenses of printing any such “Blue Sky” survey and legal investment survey; the cost and expenses in connection with the preparation, printing and filing of the Registration Statement (including exhibits thereto), the Base Prospectus, the Preliminary Prospectus Supplement, if any, and the Prospectus Supplement, the preparation and printing of this Agreement and the delivery to the Underwriters of such copies of the Base Prospectus and each Preliminary Prospectus Supplement, if any, and Prospectus Supplement as you may reasonably request; the fees of the Rating Agencies that are rating the Underwritten Certificates; and the reasonable fees and disbursements of counsel to the Underwriters.
+                    (f)      To the extent that the Pooling and Servicing Agreement provides that the Underwriters are to receive any notices or reports, or have any other rights thereunder, the Company will enforce the rights of the Underwriters under the Pooling and Servicing Agreement and will not consent to any amendment of the Pooling and Servicing Agreement that would adversely affect such rights of the Underwriters.
+                    (g)      The Company shall, as to itself, and the Company, or pursuant to the Pooling and Servicing Agreement the Trustee, will be required to, as to the Trust Fund, satisfy and comply with all reporting requirements of the Securities Exchange Act of 1934, as amended (the “1934 Act”), and the rules and regulations thereunder.
+-12-
+                    (h)      The Company shall take all reasonable action necessary to enable the Rating Agencies to provide their respective credit ratings of the Underwritten Certificates as described in the Prospectus.
+                    6.
+Conditions to the Obligations of the Underwriters.
+The obligation of each Underwriter hereunder to purchase its allocated share of the Underwritten Certificates shall be subject to:  (i) the accuracy of the representations and warranties on the part of the Company contained herein as of the date hereof, as of the date of the effectiveness of any amendment to the Registration Statement filed prior to the Closing Date, as of the date the Prospectus Supplement or any supplement thereto is filed with the Commission and as of the Closing Date; (ii) the accuracy of the statements of the Company made in any certificates delivered pursuant to the provisions hereof; (iii) the performance by the Company of its obligations hereunder; and (iv) the following additional conditions:
+                    (a)      The Registration Statement shall have become effective and no stop order suspending the effectiveness of the Registration Statement, as amended from time to time, shall have been issued and not withdrawn and no proceedings for that purpose shall have been instituted or, to the Company’s knowledge, threatened; and the Preliminary Prospectus Supplement and the Prospectus Supplement shall have been filed or transmitted for filing with the Commission in accordance with Rule 424 under the 1933 Act.
+-13-
+                    (i)          The Company is a corporation in good standing under the laws of the State of North Carolina and has the corporate power and authority to enter into and perform its obligations under this Agreement.
+                    (ii)         Neither the sale of the Underwritten Certificates, nor the consummation of any other of the transactions contemplated in or the fulfillment of the terms of this Agreement, will conflict with or result in a breach or violation of any term or provision of, or constitute a default (or an event which with the passing of time or notification, or both, would constitute a default) under, the articles of incorporation or by laws of the Company, or, to the knowledge of such counsel, any indenture or other agreement or instrument to which the Company is a party or by which it is bound, or, to the knowledge of such counsel, any order of any State of North Carolina or federal court, regulatory body, administrative agency or governmental body having jurisdiction over the Company.
+-14-
+                    (iii)        To the knowledge of such counsel, there are no actions, proceedings or investigations pending before or threatened by any court, administrative agency or other tribunal to which the Company is a party or of which any of its properties is the subject (a) asserting the invalidity of this Agreement, (b) seeking to prevent the consummation by the Company of any of the transactions contemplated by this Agreement, as the case may be or (c) which, if adversely determined, might materially and adversely affect the performance by the Company of its obligations under, or the validity or enforceability of, this Agreement;
+                    (iv)        This Agreement has been duly authorized, executed and delivered by the Company.
+Each of the Pooling and Servicing Agreement and the Mortgage Loan Purchase Agreement has been duly authorized, executed and delivered by the Company.
+                    (v)        No consent, approval, authorization or order of any state or federal court or governmental agency or body is required for the consummation by the Company of the transactions contemplated by this Agreement except for those consents, approvals, authorizations or orders that previously have been obtained, as may be required under federal or state securities laws, and such real estate filings as may be required in connection with the transfer of the Mortgage Loans and the other matters contemplated under the Mortgage Loan Purchase Agreement.
+                    (vi)        The statements in the Prospectus under the headings “ERISA Considerations” and “Material Federal Income Tax Consequences”, to the extent that they describe certain matters of federal law or legal conclusions with respect thereto, provide a fair and accurate summary of such matters and conclusions;
+                    (vii)       As described in the Prospectus Supplement and assuming compliance with the provisions of the Pooling and Servicing Agreement, REMIC I and REMIC II will each qualify as a REMIC within the meaning of Sections 860A through 860G (the “REMIC Provisions”) of the Code.
+The portion of the Trust Fund consisting of the Additional Interest (as such terms are defined in the Pooling and Servicing Agreement) will be treated as a grantor trust for federal income tax purposes under subpart E, Part I of subchapter J of the Code and the portion of the Trust Fund consisting of the Class A-FL Regular Interest, the Swap Agreement and the Floating Rate Account will be treated as a grantor trust for federal income tax purposes under subpart E, Part I of subchapter J of the Code;
+                    (viii)      The Pooling and Servicing Agreement is not required to be qualified under the Trust Indenture Act of 1939, as amended, and the Trust Fund created by the Pooling and Servicing Agreement is not required to be registered under the Investment Company Act of 1940, as amended;
+-15-
+                    (ix)        The Mortgage Loan Purchase Agreement and the Pooling and Servicing Agreement constitute the legal, valid and binding agreement of the Company, enforceable against the Company in accordance with its terms, subject to applicable bankruptcy, insolvency, fraudulent conveyance, liquidation, receivership, moratorium, reorganization and similar laws affecting creditors’ rights generally, and general principles of equity (regardless of whether enforcement is sought in a proceeding in equity or at law), and except that:  (a) provisions purporting to waive or limit rights to trial by jury, oral amendments to written agreements or rights of set off, (b) provisions relating to submission to jurisdiction, venue or service of process, (c) interest on interest provisions or (d) severability clauses may be limited by applicable law or considerations of public policy;
+                    (x)         The Registration Statement is effective under the 1933 Act and, to such counsel’s knowledge, no stop order with respect thereto has been issued by the Commission;
+                    (xi)        The Registration Statement, as of its effective date, and the Prospectus, as of the date thereof (in each case, with the exception of any information incorporated by reference therein and any numerical, financial, statistical and quantitative data included therein), appeared on their respective faces to be appropriately responsive in all material respects to the requirements of the 1933 Act and the rules and regulations thereunder applicable to such documents as of the relevant date;
+                    (xii)       The statements contained in the Prospectus Supplement under the heading “Description of the Certificates”, insofar as such statements purport to summarize material terms of the Certificates, are correct in all material respects; and
+                    (xiii)      The Certificates, when duly and validly executed, authenticated and delivered in accordance with the Pooling and Servicing Agreement and paid for in accordance with the Underwriting Agreement will be validly issued and outstanding and entitled to the benefits provided by the Pooling and Servicing Agreement.
+                    Such opinions may express their reliance as to factual matters on the representations and warranties made by, and on certificates or other documents furnished by officers and/or authorized representatives of, the parties to this Agreement and the Pooling and Servicing Agreement and on certificates furnished by public officials.
+Such opinion may assume the due authorization, execution and delivery of the instruments and documents referred to therein by the parties thereto.
+Such opinion may be qualified as an opinion only on the laws of the State of New York and the federal law of the United States.
+                    In a separate letter addressed only to the Underwriters, Dechert LLP shall additionally state that, based on conferences and telephone conversations with representatives of Wachovia, the Underwriters, the Company, the Trustee, the Master Servicer, the Special Servicer and their respective counsel, and (with limited exception) without having reviewed any of the mortgage notes, mortgages or other documents relating to the Mortgage Loans or made any inquiry of any originator of any Mortgage Loan, nothing has come to such counsel’s attention that would lead it to believe that (i) the Prospectus (other than any financial, numerical, statistical or quantitative information included therein), at the date of the Prospectus Supplement or at the Closing Date, contained or contains any untrue statement of a material fact or omitted or omits to
+-16-
+state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading or (ii) the Registration Statement (other than with respect to any exhibits filed therewith or any information incorporated by reference), at its effective date, contained an untrue statement of a material fact or omitted to state a material fact required to be stated therein or necessary in order to make the statements therein not misleading.
+                    (i)          Wachovia is a national banking association validly existing under the laws of the United States of America and has the corporate power and authority to enter into and perform its obligations under this Agreement.
+                    (ii)         This Agreement has been duly authorized, executed and delivered by Wachovia.
+                    (iii)        No consent, approval, authorization or order of any state or federal court or governmental agency or body is required for the consummation by Wachovia of the transactions contemplated by this Agreement except for those consents, approvals, authorizations or orders that previously have been obtained, as may be required under federal or state securities laws, and such real estate filings as may be required in connection with the transfer of the Mortgage Loans and the other matters contemplated under the Mortgage Loan Purchase Agreement.
+                    (iv)        The fulfillment of the terms of this Agreement will not conflict with or result in a breach or violation of any term or provision of, or constitute a default (or an event which with the passing of time or notification, or both, would constitute a default) under, the articles of association or by laws of Wachovia or, to such counsel’s knowledge, any indenture or other agreement or instrument to which Wachovia is a party or by which it is bound, or to such counsel’s knowledge, any order of any federal court, regulatory body, administrative agency or governmental body having jurisdiction over Wachovia.
+                    (v)        To the knowledge of such counsel, there are no actions, proceedings or investigations pending before or threatened by any court, administrative agency or other tribunal to which Wachovia is a party or of which any of its properties is the subject (a) which, if adversely determined, would have a material adverse effect on the business or financial condition of Wachovia, (b) asserting the invalidity of this Agreement, (c) seeking to prevent the consummation by Wachovia of any of the transactions contemplated by this Agreement or (d) which, if adversely determined, might materially and adversely affect the performance by Wachovia of its obligations under, or the validity or enforceability of this Agreement.
+-17-
+                    (i)       they have performed certain specified procedures as a result of which they have determined that the information of an accounting, financial or statistical nature set forth in the Preliminary Prospectus Supplement and Prospectus Supplement under the captions “Summary of Prospectus Supplement,” “Description of the Mortgage Pool” and “Yield and Maturity Considerations” and on Annex A and in the Term Sheet agrees with the Master Tape prepared by or on behalf of the Mortgage Loan Seller, unless non material deviations are otherwise noted in such letter; and
+                    (i)          they have compared the data contained in the Master Tape referred to in the immediately preceding clause (i) to information contained in an agreed upon sampling of the Mortgage Loan files and in such other sources as shall be specified by them, and found such data and information to be in agreement in all material respects, unless non material deviations are otherwise noted in such letter.
+-18-
+                    (r)      All proceedings in connection with the transactions contemplated by this Agreement and all documents incident hereto shall be satisfactory in form and substance to you and counsel for the Underwriters, and you and such counsel shall have received such additional information, certificates and documents as you or they may have reasonably requested.
+                    If any of the conditions specified in this Section 6 shall not have been fulfilled in all material respects when and as provided in this Agreement, if the Company is in breach of any covenants or agreements contained herein or if any of the opinions and certificates referred to above or elsewhere in this Agreement shall not be in all material respects reasonably satisfactory in form and substance to you and counsel for the Underwriters, this Agreement and all obligations of the Underwriters hereunder may be canceled at, or at any time prior to, the Closing Date by you.
+                    7.
+Reimbursement of Underwriters’ Expenses.
+If the sale of the Underwritten Certificates provided for herein is not consummated because any condition to the obligations of the Underwriters set forth in Section 6 is not satisfied or because of any refusal, inability or failure on the part of the Company to perform any agreement herein or comply with any provision hereof, other than by reason of a default by any of the Underwriters, the Company and Wachovia, jointly and severally, will reimburse the Underwriters severally, upon demand, for all out of pocket expenses (including reasonable fees and disbursements of counsel) that shall have been incurred by them in connection with the proposed purchase and sale of the Underwritten Certificates.
+-19-
+                    8.
+Indemnification.
+                    (a)      The Company and Wachovia, jointly and severally, agree to indemnify and hold harmless each Underwriter, its officers and directors and each person, if any, who controls such Underwriter within the meaning of Section 15 of the 1933 Act and Section 20 of the 1934 Act as follows:
+                    (i)          against any and all loss, liability, claim, damage and expense whatsoever, as incurred, arising out of any untrue statement or alleged untrue statement of a material fact contained in the Registration Statement (or any amendment thereto), or the omission or alleged omission therefrom of a material fact required to be stated therein or necessary to make the statements therein not misleading or arising out of any untrue statement or alleged untrue statement of a material fact contained in the Base Prospectus, any Preliminary Prospectus Supplement or the Prospectus Supplement (or any amendment or supplement thereto), or the omission or alleged omission therefrom of a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading; provided the foregoing indemnity shall not inure to the benefit of any Underwriter (or to the benefit of any person controlling such Underwriter) from whom the person asserting claims giving rise to any such losses, claims, damages, expenses or liabilities purchased Underwritten Certificates if such untrue statement or omission or alleged untrue statement or omission made in any Preliminary Prospectus Supplement or Prospectus is eliminated or remedied in the Prospectus or a corrected and amended Prospectus as applicable, and, if required by law, a copy of the Prospectus (as corrected or amended, if applicable) shall not have been sent to such person at or prior to the written confirmation of the sale of such Underwritten Certificates to such person unless such failure to deliver the Prospectus (as corrected or amended, if applicable) was a result of the Company’s failure to furnish copies thereof in sufficient quantity or the Company’s failure to deliver copies thereof in such reasonable time period that would have allowed the Underwriter to provide the Prospectus (as corrected or amended, if applicable) to such person at or prior to the written confirmation of the sale of such Certificates to such person; provided, however, that the indemnity provided by this Section 8(a) shall not apply to any loss, liability, claim, damage or expense to the extent any such untrue statement or alleged untrue statement or omission or alleged omission arises out of or is based upon an untrue statement or omission with respect to information with respect to which the Mortgage Loan Seller provides indemnification pursuant to Section 7 of the Mortgage Loan Purchase Agreement (the “Mortgage Loan Seller Covered Information”); provided, further, that, the indemnification provided by this Section 8 shall not apply to the extent that such untrue statement or omission of a material fact was made as a result of an error in the manipulation of, or in any calculations based upon, or in any aggregation of the information regarding the Mortgage Loans, the related Mortgagors and/or the related Mortgaged Properties set forth in the Master Tape or Annex A to the Prospectus Supplement or Preliminary Prospectus Supplement, to the extent (i) such information was materially incorrect in the Master Tape or such Annex A, as applicable, including without limitation the aggregation of such information relating to the Mortgage Loans in the Trust Fund or the information provided by the Mortgage Loan Seller, and (ii) such loss, liability, claim, damage or expense would be subject to the provisions of Section 7 of the Mortgage Loan Purchase Agreement;
+-20-
+                    (ii)         against any and all loss, liability, claim, damage and expense whatsoever, as incurred, to the extent of the aggregate amount paid in settlement of any litigation, or any investigation or proceeding by any governmental agency or body, commenced or threatened, or of any claim whatsoever based upon any such untrue statement or omission, or any such alleged untrue statement or omission, if such settlement is effected with the written consent of the Company or as otherwise contemplated by Section 8(c); and
+                    (iii)        against any and all expense whatsoever, as incurred (including the fees and disbursements of counsel chosen by such Underwriter), reasonably incurred in investigating, preparing or defending against any litigation, or any investigation or proceeding by any governmental agency or body, commenced or threatened, or any claim whatsoever based upon any such untrue statement or omission, or any such alleged untrue statement or omission, to the extent that any such expense is not paid under (i) or (ii) above; provided, however, that the indemnity provided by this Section 8(a) shall not apply to any loss, liability, claim, damage or expense to the extent arising out of any untrue statement or omission or alleged untrue statement or omission made in reliance upon and in conformity with written information (as specified in Section 8(b) below) furnished to the Company by any Underwriter expressly for use in the Registration Statement (or any amendment thereto) or in the Base Prospectus, any Preliminary Prospectus Supplement or the Prospectus Supplement (or any amendment or supplement thereto).
+                    (b)      Each Underwriter, severally but not jointly, agrees to indemnify and hold harmless the Company, its directors, each of its officers who signed the Registration Statement, and each person, if any, who controls the Company within the meaning of Section 15 of the 1933 Act or Section 20 of the 1934 Act, against any and all loss, liability, claim, damage and expense described in the indemnity contained in subsection (a) of this Section, as incurred, but only with respect to untrue statements or omissions, or alleged untrue statements or omissions, made in the Registration Statement (or any amendment thereto) or in the Base Prospectus, any Preliminary Prospectus Supplement or the Prospectus Supplement (or any amendment or supplement thereto) in reliance upon and in conformity with written information furnished to the Company by such Underwriter expressly for use in the Registration Statement (or any amendment thereto) or in the Base Prospectus, such Preliminary Prospectus Supplement or the Prospectus Supplement (or any amendment or supplement thereto); provided, that no such material misstatement or omission arises from an error or omission in information relating to the underlying data regarding the Mortgage Loans or the related Mortgagors or Mortgaged Properties provided by the Company or the Mortgage Loan Seller to such Underwriter.
+In addition, each Underwriter, severally but not jointly, shall indemnify and hold harmless the Company, its directors, each of its officers who signed the Registration Statement and each person, if any, who controls the Company within the meaning of either Section 15 of the 1933 Act or Section 20 of the 1934 Act, against any and all losses, liabilities, claims and damages as incurred arising out of any untrue statement or alleged untrue statement of a material fact or omission or alleged omission of a material fact contained in any Term Sheets or Computational Materials which, when read together with any Preliminary
+-21-
+Prospectus Supplement and the Prospectus Supplement (or any amendment or supplement thereto), was required to be stated therein or necessary to make the statements therein not misleading; provided, that no such material misstatement or omission arises from an error or omission in information relating to the underlying data regarding the Mortgage Loans or the related Mortgagors or Mortgaged Properties provided by the Company or the Mortgage Loan Seller to such Underwriter; and provided, further, that any such Term Sheets or Computational Materials were prepared and distributed by such Underwriter.
+Notwithstanding the foregoing, the indemnity in the immediately preceding sentence will apply only if such misstatement or omission was not also a misstatement or omission in the Prospectus.
+It is hereby acknowledged that (i) the statements set forth in the first, second, third, fourth and fifth sentences of the penultimate paragraph on the cover of the Prospectus Supplement, (ii) the statements in the second paragraph and the first sentence of the sixth paragraph under the caption “Method of Distribution” in the Prospectus Supplement, and (iii) the statements in any Computational Materials and Term Sheets prepared and delivered by the Underwriters to the Company for filing (subject to the other provisions of this Section (b)) with the Commission pursuant to this Agreement and the No Action Letters, constitute the only written information furnished to the Company by the Underwriters expressly for use in the Registration Statement (or any amendment thereto) or in the Base Prospectus, the Preliminary Prospectus Supplement or the Prospectus Supplement (or any amendment or supplement thereto).
+                    (c)      Each indemnified party shall give notice as promptly as reasonably practicable to each indemnifying party of any action commenced against it in respect of which indemnity may be sought hereunder, but failure to so notify an indemnifying party shall not relieve such indemnifying party from any liability under Section 8(a) or Section 8(b) hereof (unless the indemnifying party is materially prejudiced  by such failure) or any liability that it may have, otherwise than on account of the indemnity provided by this Section 8.
+An indemnifying party may participate at its own expense in the defense of any such action and, to the extent that it may elect by written notice delivered to the indemnified party promptly after receiving the aforesaid notice from the indemnified party, to assume the defense thereof, with counsel satisfactory to such indemnified party.
+In any such proceeding, any indemnified party shall have the right to retain its own counsel, but the fees and expenses of such counsel shall be at the expense of such indemnified party unless (i) the indemnifying party and the indemnified party shall have agreed to the retention of such counsel, or (ii) the indemnifying party shall not have assumed the defense of such action, with counsel satisfactory to the indemnified party, within a reasonable period following the indemnifying party’s receiving notice of such action, or (iii) the named parties to any such proceeding (including any impleaded parties) include both the indemnifying party and the indemnified party and representation of both parties by the same counsel would be inappropriate due to actual or potential differing interests between them.
+In no event shall the indemnifying party or parties be liable for fees and expenses of more than one counsel (or, in the event the Company or Wachovia is the indemnifying party, one counsel for each Underwriter) (in addition to any local counsel) separate from its or their own counsel for all indemnified parties in connection with any one action or separate but similar or related actions in the same jurisdiction arising out of the same general allegations or circumstances.
+Unless it shall assume the defense of any proceeding, an indemnifying party shall not be liable for any settlement of any proceeding effected without its written consent (which consent shall not be unreasonably withheld) but, if settled with such consent or if there be a final judgment for the plaintiff, the indemnifying party shall indemnify the indemnified party from and against any loss
+-22-
+or liability by reason of such settlement or judgment.
+Notwithstanding the foregoing sentence, if at any time an indemnified party shall have requested an indemnifying party to reimburse the indemnified party for fees and expenses of counsel or any other expenses for which the indemnifying party is obligated under this subsection, the indemnifying party agrees that it shall be liable for any settlement of any proceeding effected without its written consent if (i) such settlement is entered into more than 45 days after receipt by such indemnifying party of the aforesaid request and (ii) such indemnifying party shall not have reimbursed the indemnified party in accordance with such request prior to the date of such settlement.
+If an indemnifying party assumes the defense of any proceeding, it shall be entitled to settle such proceeding with the consent of the indemnified party or, if such settlement provides for an unconditional release of the indemnified party in connection with all matters relating to the proceeding that have been asserted against the indemnified party in such proceeding by the other parties to such settlement, which release does not include a statement as to or an admission of fault, culpability or a failure to act by or on behalf of any indemnified party without the consent of the indemnified party.
+                    (d)      The indemnity provided by this Section 8 shall remain operative and in full force and effect regardless of (i) any termination of this Agreement, (ii) any investigation made by the Company, the Underwriters, any of their respective directors or officers, or any person controlling the Company or the Underwriters, and (iii) acceptance of and payment for any of the Underwritten Certificates.
+                    (e)      Each Underwriter, severally but not jointly, will indemnify and hold harmless any other Underwriter and each person, if any, who controls such Underwriter within the meaning of either the 1933 Act or the 1934 Act (collectively, the “Non Indemnifying Underwriter”) from and against any and all loss, liability, claim, damage and expense whatsoever, as incurred, that arise out of or are based upon (i) any untrue statement or alleged untrue statement of a material fact or omission or alleged omission of a material fact contained in Computational Materials or Term Sheets (other than the Computational Materials and Term Sheets attached hereto as Exhibit A and Exhibit B) which, when read together with any Preliminary Prospectus Supplement and the Prospectus Supplement, was required to be stated therein or necessary to make the statements therein not misleading prepared by such indemnifying Underwriter or any member of its selling group, in connection with the Underwritten Certificates (or in any revision or amendment thereof or supplement thereto); (ii) the failure of such indemnifying Underwriter, or any member of its selling group, to comply with any provision of Section 4(b) hereof, or (iii) any untrue statement or alleged untrue statement of a material fact or omission or alleged omission of a material fact relating to the information furnished to the Company by such Underwriter for which such Underwriter is required to indemnify the Company under Section 8(b) above, and agrees to reimburse each such Non Indemnifying Underwriter, as incurred, for any legal or other expenses reasonably incurred by them in connection with investigating or defending any such loss, liability, claim, damage or expense; provided, that the indemnity provided by this Section 8(e) shall not apply to the extent that such indemnified Underwriter is entitled under the Mortgage Loan Purchase Agreement to seek indemnity for such loss, liability, claim, damage or expense from the Mortgage Loan Seller.
+                    The indemnity provided by this Section 8 will be in addition to any liability that any Underwriter, the Company or Wachovia may otherwise have.
+-23-
+                    9.
+Contribution.
+                    (a)      In order to provide for just and equitable contribution in circumstances in which the indemnity provided by Section 8 hereof is for any reason held to be unenforceable by the indemnified parties although applicable in accordance with its terms, or if such indemnification provided for in Section 8 hereof is insufficient in respect of any losses, liabilities, claims or damages referred to therein, the Company and Wachovia, jointly and severally, and the Underwriters, severally, shall contribute to the aggregate losses, liabilities, claims, damages and expenses of the nature contemplated by the indemnity provided by Section 8 incurred by the Company and the Underwriters, as incurred, (i) in such proportion as is appropriate to reflect the relative benefits received by the Company and Wachovia on the one hand and each Underwriter on the other from the offering of the Underwritten Certificates or (ii) if the allocation provided by clause (i) above is not permitted by applicable law, in such proportion as is appropriate to reflect not only the relative benefits referred to in clause (i) above but also the relative fault of the Company and Wachovia on the one hand and of each Underwriter on the other in connection with the statements or omissions which resulted in such losses, claims, damages, expenses or liabilities, as well as any other relevant equitable considerations (taking into account the parties’ relative knowledge and access to information concerning the matter with respect to which the claim was asserted, the opportunity to correct and prevent any statement or omission or failure to comply, and any other equitable considerations appropriate under the circumstances).
+The relative benefits received by the Company and Wachovia on the one hand and the Underwriters on the other shall be deemed to be in the same respective portions as the net proceeds (before deducting expenses) received by the Company from the sale of the Underwritten Certificates and the total underwriting discounts and commissions and other fees received by the Underwriters in connection therewith bear to the aggregate offering price of the Underwritten Certificates.
+The relative fault of the Company and Wachovia on the one hand and of each Underwriter on the other shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by the Company and Wachovia or by the Underwriters, and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission.
+Notwithstanding the foregoing, no person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the 1933 Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation; and no Underwriter shall be obligated to contribute more than its share of underwriting discounts and commissions and other fees pertaining to the Underwritten Certificates less any damages otherwise paid by such Underwriter with respect to such loss, liability, claim, damage or expense.
+It is hereby acknowledged that the respective Underwriters’ obligations under this Section 9 shall be several and not joint.
+For purposes of this Section, each person, if any, who controls an Underwriter within the meaning of Section 15 of the 1933 Act or Section 20 of the 1934 Act, and such Underwriter’s officers and directors, shall have the same rights to contribution as such Underwriter, and each director of the Company, each officer of the Company who signed the Registration Statement, and each person, if any, who controls the Company within the meaning of Section 15 of the 1933 Act or Section 20 of the 1934 Act shall have the same rights to contribution as the Company.
+-24-
+                     (b)      The parties hereto agree that it would not be just and equitable if contribution were determined by pro rata or per capita allocation or by any other method of allocation that does not take account of the considerations referred to in subsection (a) above.
+The amount paid or payable by an indemnified party as a result of the losses, liabilities, claims or damages referred to in Section 8 or this Section 9 shall be deemed to include any legal fees and disbursements or other expenses reasonably incurred by such indemnified party in connection with investigating or defending any such claim except where the indemnified party is required to bear such expenses, which expenses the indemnifying party shall pay as and when incurred, at the request of the indemnified party, to the extent that it is reasonable to believe that the indemnifying party will be ultimately obligated to pay such expenses.
+In the event that any expenses so paid by the indemnifying party are subsequently determined to not be required to be borne by the indemnifying party hereunder, the party which received such payment shall promptly refund the amount so paid to the party which made such payment.
+The remedies provided for in Section 8 and this Section 9 are not exclusive and shall not limit any rights or remedies that may otherwise be available to any indemnified party at law or in equity.
+                    (c)      The contribution agreements contained in this Section 9 shall remain operative and in full force and effect regardless of (i) any termination of this Agreement, (ii) any investigation made by the Company, the Underwriters, any of their respective directors or officers, or any person controlling the Company or the Underwriters, and (iii) acceptance of and payment for any of the Underwritten Certificates.
+                    10.
+Default by an Underwriter.
+In the event of a default by any Underwriter as set forth in this Section 10, the Closing Date for the Underwritten Certificates shall be postponed for such period, not exceeding ten business days, as you shall determine in order that the required changes in the Registration Statement and the Prospectus Supplement or in any other documents or arrangements may be effected.
+Nothing contained in this Agreement shall relieve any defaulting Underwriter of its liability, if any, to the Company and any nondefaulting Underwriter for damages occasioned by its default hereunder.
+-25-
+                    11.
+Representations, Warranties and Agreements to Survive Delivery.
+All representations, warranties and agreements contained in this Agreement, or contained in certificates of officers of the Company and Wachovia submitted pursuant hereto, shall remain operative and in full force and effect, regardless of any investigation made by or on behalf of any Underwriter, or by or on behalf of the Company and Wachovia, or by or on behalf of any of the controlling persons and officers and directors referred to in Sections 8 and 9, and shall survive delivery of the Underwritten Certificates to the Underwriters.
+                    12.
+Termination of Agreement; Survival.
+                    (c)      The provisions of Section 5(e) regarding the payment of costs and expenses and the provisions of Sections 8 and 9 hereof shall survive the termination of this Agreement, whether such termination is pursuant to this Section 12 or otherwise.
+                    13.
+-26-
+                    14.
+Parties.
+This Agreement shall inure to the benefit of and be binding upon each of the Underwriters, the Company and Wachovia and their respective successors.
+Nothing expressed or mentioned in this Agreement is intended or shall be construed to give any person, firm or corporation, other than the Underwriters, the Company and Wachovia and their respective successors and the controlling persons and officers and directors referred to in Sections 8 and 9 and their heirs and legal representatives, any legal or equitable right, remedy or claim under or in respect of this Agreement or any provision herein contained.
+This Agreement and all conditions and provisions hereof are intended to be for the sole and exclusive benefit of the Underwriters, the Company and Wachovia and their respective successors, and said controlling persons and officers and directors and their heirs and legal representatives, and for the benefit of no other person, firm or corporation.
+No purchaser of Underwritten Certificates from any Underwriter shall be deemed to be a successor by reason merely of such purchase.
+                    15.
+Applicable Law; Counterparts.
+This Agreement will be governed by and construed in accordance with the laws of the State of New York applicable to agreements made and to be performed entirely in said State.
+This Agreement may be executed in any number of counterparts, each of which shall for all purposes be deemed to be an original and all of which shall together constitute but one and the same instrument.
+-27-
+Very truly yours,
+By:
+Name:
+Charles L. Culbreth
+Title:
+Managing Director
+By:
+Name:
+Wayne M. Fitzgerald, II
+Title:
+Vice President
+                    The foregoing Agreement is hereby confirmed and accepted as of the date first above written.
+By:
+Name:
+Elizabeth K. Stinson
+Title:
+Vice President
+CITIGROUP GLOBAL MARKETS INC.
+By:
+/s/ ANGELA VLECK
+Name:
+Angela J. Vleck
+Title:
+Managing Director
+By:
+Name:
+Jeffrey Altabef
+Title:
+Managing Director
+EXHIBIT A
+Computational Materials
+[Form 8-K filed by the Registrant on June 27, 2005, relating to Computational Materials is hereby incorporated by reference.]
+EXHIBIT B
+Term Sheets
+[Form 8-K filed by the Registrant on June 13, 2005, relating to a structural and collateral term sheet is hereby incorporated by reference.]
+SCHEDULE I
+As used in this Schedule I, the term “Registration Statement” refers to registration statement No.
+333-120922 filed by the Company on Form S-3 and declared effective on December 1, 2004.
+The term “Base Prospectus” refers to the form of prospectus in the Registration Statement or such later form as most recently filed by the Company pursuant to Rule 424(b) under the Securities Act of 1933, as amended.
+The term “Prospectus Supplement” refers to the supplement dated June 22, 2005, to the Base Prospectus, relating to the mortgage pass through certificates being sold pursuant to the Underwriting Agreement (the “Underwritten Certificates”).
+Mortgage Pool:
+Wachovia Bank Commercial Mortgage Trust, Commercial Mortgage Pass Through Certificates Series 2005-C19, Class A-1, Class A-2, Class A-3, Class A-4, Class A-5, Class A-PB, Class A-6, Class A-FL, Class A-M, Class A-J, Class B, Class C and Class D.
+Designation
+Closing Date
+Aggregate
+Certificate
+Principal Balance
+Initial Pass–
+Through Rate
+Rating 1
+Class A-1
+$
+%
+AAA/AAA
+99.99762
+%
+Class A-2
+$
+%
+AAA/AAA
+100.49839
+%
+Class A-3
+$
+%
+AAA/AAA
+100.49880
+%
+Class A-4
+$
+%
+AAA/AAA
+%
+Class A-5
+$
+%
+AAA/AAA
+100.49909
+%
+Class A-PB
+$
+%
+AAA/AAA
+100.49697
+%
+Class A-6
+$
+%
+AAA/AAA
+%
+Class A-FL
+$
+%
+AAA/AAA
+%
+Class A-M
+$
+%
+AAA/AAA
+%
+Class A-J
+$
+%
+AAA/AAA
+100.49974
+%
+Class B
+$
+%
+AA/AA
+%
+Class C
+$
+%
+AA-/AA-
+%
+Class D
+$
+%
+A/A
+100.49384
+%
+Credit Support and Other Terms and Conditions of the Underwritten Certificates:  As described in the Prospectus Supplement.
+-2-
+SCHEDULE II
+Wachovia Capital Markets, LLC
+Class A-1
+$
+Class A-2
+$
+Class A-3
+$
+Class A-4
+$
+Class A-5
+$
+Class A-PB
+$
+Class A-6
+$
+Class A-FL
+$
+Class A-M
+$
+Class A-J
+$
+Class B
+$
+Class C
+$
+Class D
+$
+Citigroup Global Markets Inc.
+Class A-1
+$
+0
+Class A-2
+$
+0
+Class A-3
+$
+0
+Class A-4
+$
+0
+Class A-5
+$
+0
+Class A-PB
+$
+0
+Class A-6
+$
+Class A-FL
+$
+0
+Class A-M
+$
+0
+Class A-J
+$
+0
+Class B
+$
+0
+Class C
+$
+0
+Class D
+$
+0
+Credit Suisse First Boston LLC
+Class A-1
+$
+0
+Class A-2
+$
+0
+Class A-3
+$
+0
+Class A-4
+$
+0
+Class A-5
+$
+0
+Class A-PB
+$
+0
+Class A-6
+$
+Class A-FL
+$
+0
+Class A-M
+$
+0
+Class A-J
+$
+0
+Class B
+$
+0
+Class C
+$
+0
+Class D
+$
+0

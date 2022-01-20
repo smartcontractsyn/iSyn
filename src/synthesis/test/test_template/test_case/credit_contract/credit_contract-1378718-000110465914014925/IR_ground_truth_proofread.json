@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "CREDIT AGREEMENT",
+    "SellerName": [
+        "WESCO AIRCRAFT HARDWARE CORP."
+    ],
+    "BuyerName": [
+        "BARCLAYS BANK PLC"
+    ],
+    "EffectiveTime": [
+        "February 12, 2014"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": ["December 7, 2017"],
+    "Payments": [
+        {
+            "From": [
+                "BARCLAYS BANK PLC"
+            ],
+            "To": [
+                "WESCO AIRCRAFT HARDWARE CORP."
+            ],
+            "PurchasePrice": "525000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

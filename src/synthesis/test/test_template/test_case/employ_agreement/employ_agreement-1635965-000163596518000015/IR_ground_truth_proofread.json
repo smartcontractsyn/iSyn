@@ -1,0 +1,41 @@
+{
+"ContractCategory":"EmploymentAgreement",       
+"SellerName": [
+        "Robert Klawonn"
+    ],
+    "BuyerName": [
+        "4M Carbon Fiber Corp."
+    ],
+    "EffectiveTime": [
+        "May 1st, 2018"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        "May 1st, 2021"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "4M Carbon Fiber Corp."
+            ],
+            "To": [
+                "Robert Klawonn"
+            ],
+            "PurchasePrice": "300000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

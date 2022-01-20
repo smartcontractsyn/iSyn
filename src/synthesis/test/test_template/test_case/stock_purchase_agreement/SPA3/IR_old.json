@@ -1,0 +1,41 @@
+{
+    "BuyerName": [
+        "BIOCARDIA"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "ContractCategory": "StockPurchaseAgreement",
+    "EffectiveTime": [
+        "March 29, 2021,"
+    ],
+    "OutSideClosingDate": [
+        "March 31, 2021"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "BIOCARDIA"
+            ],
+            "PurchasePrice": "20000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "To": [
+                "BIOCARDIA"
+            ],
+            "Transfer": true
+        }
+    ],
+    "SellerName": [
+        "BIOCARDIA"
+    ],
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    },
+    "Transfers": true
+}

@@ -1,0 +1,624 @@
+Exhibit 1.1
+Underwriting Agreement
+J.P. Morgan Securities LLC
+As Representative of the
+several Underwriters listed
+in Schedule 1 hereto
+c/o J.P. Morgan Securities LLC
+383 Madison Avenue
+New York, New York 10179
+Ladies and Gentlemen:
+The Underwritten Securities and the Option Securities are herein referred to as the “Securities.” The Securities will be convertible into cash, shares (the “Underlying Securities”) of common stock of the Company, par value $0.01 per share (the “Common Stock”), or a combination thereof, at the Company’s election.
+In addition to the Company, Arbor Realty Limited Partnership, a Delaware limited partnership (the “Operating Partnership”), also confirms as follows its respective representations, warranties, covenants and agreements with the Underwriters.
+The Company hereby confirms its agreement with the several Underwriters concerning the purchase and sale of the Securities, as follows:
+1.
+Registration Statement.
+The Company has prepared and filed with the Securities and Exchange Commission (the “Commission”) under the Securities Act of 1933, as amended, and the rules and regulations of the Commission thereunder (collectively, the “Securities Act”), a registration statement on Form S-3 (File No.
+333-212554) including a prospectus, relating to the Securities.
+Such registration statement, as amended at the time it became effective, including
+1
+the information, if any, deemed pursuant to Rule 430A, 430B or 430C under the Securities Act to be part of the registration statement at the time of its effectiveness (“Rule 430 Information”), is referred to herein as the “Registration Statement”; and as used herein, the term “Preliminary Prospectus” means each prospectus included in such registration statement (and any amendments thereto) before effectiveness, any prospectus filed with the Commission pursuant to Rule 424(a) under the Securities Act and the prospectus included in the Registration Statement at the time of its effectiveness that omits Rule 430 Information, and the term “Prospectus” means the prospectus in the form first used (or made available upon request of purchasers pursuant to Rule 173 under the Securities Act) in connection with confirmation of sales of the Securities.
+If the Company has filed an abbreviated registration statement pursuant to Rule 462(b) under the Securities Act (the “Rule 462 Registration Statement”), then any reference herein to the term “Registration Statement” shall be deemed to include such Rule 462 Registration Statement.
+Any reference in this underwriting agreement (this “Agreement”) to the Registration Statement, any Preliminary Prospectus or the Prospectus shall be deemed to refer to and include the documents incorporated by reference therein pursuant to Item 12 of Form S-3 under the Securities Act, as of the effective date of the Registration Statement or the date of such Preliminary Prospectus or the Prospectus, as the case may be and any reference to “amend”, “amendment” or “supplement” with respect to the Registration Statement, any Preliminary Prospectus or the Prospectus shall be deemed to refer to and include any documents filed after such date under the Securities Exchange Act of 1934, as amended, and the rules and regulations of the Commission thereunder (collectively, the “Exchange Act”), that are deemed to be incorporated by reference therein.
+Capitalized terms used but not defined herein shall have the meanings given to such terms in the Registration Statement and the Prospectus.
+2.
+Purchase of the Securities.
+2
+(c)           The Company understands that the Underwriters intend to make a public offering of the Securities as soon after the effectiveness of this Agreement as in the judgment of the Representative is advisable, and initially to offer the Securities on the terms set forth in the Time of Sale Information.
+The Company acknowledges and agrees that the Underwriters may offer and sell Securities to or through any affiliate of an Underwriter and that any such affiliate may offer and sell Securities purchased by it to or through any Underwriter.
+3
+(e)           The Company acknowledges and agrees that each Underwriter is acting solely in the capacity of an arm’s length contractual counterparty to the Company with respect to the offering of Securities contemplated hereby (including in connection with determining the terms of the offering) and not as a financial advisor or a fiduciary to, or an agent of, the Company or any other person.
+Additionally, neither the Representative nor any other Underwriter is advising the Company or any other person as to any legal, tax, investment,  accounting or regulatory matters in any jurisdiction.
+The Company shall consult with its own advisors concerning such matters and shall be responsible for making its own independent investigation and appraisal of the transactions contemplated hereby, and the Underwriters shall have no responsibility or liability to the Company with respect thereto.
+Any review by the Underwriters of the Company, the transactions contemplated hereby or other matters relating to such transactions will be performed solely for the benefit of the Underwriters and shall not be on behalf of the Company.
+3.
+Representations and Warranties of the Company and the Operating Partnership.
+The Company and the Operating Partnership each, joint and severally, represent and warrant to each Underwriter that:
+(a)           Compliance with Registration Requirements.
+The Company meets the requirements for use of Form S-3 under the Securities Act.
+Each of the Registration Statement and any Rule 462 Registration Statement has become effective under the Securities Act and no stop order suspending the effectiveness of the Registration Statement or any Rule 462 Registration Statement has been issued under the Securities Act and no proceedings for that purpose have been instituted or are pending or, to the knowledge of the Company, are contemplated by the Commission, and any request on the part of the Commission for additional information has been complied with.
+At the respective times the Registration Statement and any post-effective amendments thereto became or become effective and at the Registration Statement’s “new effective date” with respect to the Underwriters pursuant to Rule 430B(f)(2) promulgated under the Securities Act, the Registration Statement and any amendments and supplements thereto complied and will comply in all material respects with the requirements of the Securities Act and the Trust Indenture Act of 1939, as amended, and the rules and regulations of the Commission promulgated thereunder (collectively, the “Trust Indenture Act”) and did not and will not contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein not misleading.
+The Prospectus, and any amendments or supplements thereto, as of its date, at the date hereof and at the Closing Date (and, if any Option Securities are purchased, at the applicable Additional Closing Date), complied and will comply in all material respects with the requirements of the Securities Act and did not, does not, and will not include an untrue statement of a material fact or omit to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading.
+4
+No order preventing or suspending the use of any Preliminary Prospectus has been issued by the Commission, and each Preliminary Prospectus and the prospectus filed as part of the Registration Statement as originally filed or as part of any amendment thereto, or filed pursuant to Rule 424 promulgated under the Securities Act, complied when so filed in all material respects with the Securities Act and each Preliminary Prospectus and the Prospectus delivered to the Underwriters for use in connection with this offering were identical to the electronically transmitted copies thereof filed with the Commission pursuant to the Electronic Data Gathering, Analysis, and Retrieval system (“EDGAR”), except to the extent permitted by Regulation S-T.
+The Time of Sale Information, at the Time of Sale, did not, and at the Closing Date and as of the Additional Closing Date, as the case may be, will not, include any untrue statement of a material fact or omit to state any material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading.
+The representations and warranties in the preceding four paragraphs shall not apply to statements in or omissions from the Registration Statement or any post-effective amendment thereto, any Preliminary Prospectus or any amendments or supplements thereto, the Prospectus or any amendments or supplements thereto, or the Time of Sale Information made in reliance upon and in conformity with any information furnished to the Company in writing by the Underwriters through the Representative expressly for use in the Registration Statement or any post-effective amendment thereto, any Preliminary Prospectus, or any amendments or supplements thereto, the Prospectus, or any amendments or supplements thereto or the Time of Sale Information, it being understood and agreed that the only such information furnished by any Underwriter consists of the information described as such in Section 7(b) hereof (the “Underwriter Information”).
+(b)           Incorporated Documents.
+The documents incorporated or deemed to be incorporated by reference in the Registration Statement, the Prospectus and the Time of Sale Information, when they became effective or at the time they were or hereafter are filed with the Commission, complied and will comply in all material respects with the requirements of the Securities Act or Exchange Act, as applicable, and, when read together with the other information in the Prospectus, (i) at the time the Registration Statement became effective, (ii) at the Registration Statement’s “new effective date” with respect to the Underwriters pursuant to Rule 430B(f)(2) of the Securities Act and (iii) at the Closing Date, did not and will not contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements therein, in the light of the circumstances under which they were made, not misleading.
+(c)           Company Not Ineligible Issuer.
+As of the date of the execution and delivery of this Agreement, the Company was not and is not an “ineligible issuer” (as defined in Rule 405 of the Securities Act), without taking account of any determination by the Commission pursuant to Rule 405 of the Securities Act that it is not necessary that the Company be considered an ineligible issuer (as defined in Rule 405 of the Securities Act).
+(d)           Issuer Free Writing Prospectuses.
+Each “issuer free writing prospectus,” as defined in Rule 433 of the Securities Act (“Rule 433”), relating to the Securities that (i) is
+5
+required to be filed with the Commission by the Company, (ii) is a “road show that is a written communication” within the meaning of Rule 433(d)(8)(i), whether or not required to be filed with the Commission or (iii) is exempt from filing pursuant to Rule 433(d)(5)(i) because it contains a description of the Securities or of the offering that does not reflect the final terms, in each case in the form filed or required to be filed with the Commission or, if not required to be filed, in the form retained in the Company’s records pursuant to Rule 433(g) (an “Issuer Free Writing Prospectus”) listed in Annex A hereto, as of its issue date and at all subsequent times through the completion of the public offer and sale of the Securities or until any earlier date as of which the Company notified or notifies the Representative as described in Section 4(e) of this Agreement, did not, does not and will not include any information that conflicted, conflicts or will conflict with the information contained in the Registration Statement, including any document incorporated by reference therein that has not been superseded or modified, and, when taken together with the Preliminary Prospectus filed prior to the first use of such Issuer Free Writing Prospectus, did not, and at the Closing Date and as of the Additional Closing Date, as the case may be, will not, contain any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading.
+The foregoing sentence does not apply to statements in or omissions from any Issuer Free Writing Prospectus based upon and in conformity with the Underwriter Information.
+(e)           Due Authorization.
+The Company has full right, power and authority to execute and deliver this Agreement, the Indenture and the Securities (collectively, the “Transaction Documents”) and to perform its obligations hereunder and thereunder.
+(f)            Company Authorization of Agreement.
+This Agreement and the transactions contemplated herein have been duly and validly authorized by the Company and this Agreement has been duly and validly executed and delivered by the Company.
+(g)           Operating Partnership Authorization of Agreement.
+This Agreement and the transactions contemplated herein have been duly and validly authorized by the Operating Partnership and this Agreement has been duly and validly executed and delivered by the Operating Partnership.
+(h)           Distribution of Offering Material by the Company.
+The Company and its affiliates have not distributed and will not distribute, prior to the later of the Additional Closing Date (as defined below) and the completion of the Underwriters’ distribution of the Securities, any written offering material in connection with the offering and sale of the Securities other than the Prospectus, the Registration Statement or any Issuer Free Writing Prospectus.
+(i)            Independent Accountants.
+Ernst & Young LLP, who certified the financial statements and supporting schedules incorporated by reference in the Registration Statement, the Time of Sale Information and the Prospectus, is an independent registered public accounting firm as required by the Securities Act, the Exchange Act and the Public Company Accounting Oversight Board (United States).
+Richey, May & Co., LLP, who certified the balance sheet of Cardinal Financial Company, Limited Partnership (in which the Company has a 16.3% interest) as of December 31, 2016 and the related statements of operations, changes in partners’ equity
+6
+and cash flows for the year then ended, all incorporated by reference in the Registration Statement, is an independent certified public accountant as required by the Securities Act, the Exchange Act and the Public Company Accounting Oversight Board (United States).
+(j)            Financial Statements; Non-GAAP Financial Measures.
+The financial statements of the Company and its subsidiaries, together with the related schedules (if any) and notes, incorporated by reference in the Registration Statement, the Time of Sale Information and the Prospectus, and any financial statements required by Rule 3-14 of Regulation S-X (“Acquisition Financial Statements”), incorporated by reference in the Registration Statement, the Time of Sale Information and the Prospectus present fairly the financial position of the Company and its consolidated subsidiaries at the dates indicated, or, if applicable, with respect to any Acquisition Financial Statements, the respective property or tenant; and all such financial statements have been prepared in conformity with United States generally accepted accounting principles (“GAAP”) applied on a consistent basis throughout the periods involved and comply with all applicable accounting requirements under the Securities Act.
+The supporting schedules, if any, incorporated by reference in the Registration Statement, the Time of Sale Information and the Prospectus present fairly, in accordance with GAAP, the information required to be stated therein.
+The selected financial data and the summary financial information included or incorporated by reference in the Registration Statement, the Time of Sale Information and the Prospectus present fairly in all material respects the information shown therein and have been compiled on a basis consistent with that of the audited financial statements included therein.
+There are no financial statements or schedules required to be included in the Registration Statement, the Time of Sale Information or the Prospectus under the Securities Act which are not so included.
+If applicable, the unaudited pro forma financial information (including the related notes) incorporated by reference in the Registration Statement, the Time of Sale Information or the Prospectus complies as to form in all material respects with the applicable accounting requirements of the Securities Act, and management of the Company believes that the assumptions underlying the pro forma adjustments are reasonable.
+If applicable, such pro forma adjustments have been properly applied to the historical amounts in the compilation of the information and such information fairly presents with respect to the Company and its consolidated subsidiaries, the financial position, results of operations and other information purported to be shown therein at the respective dates and for the respective periods specified.
+No pro forma financial information is required to be included in the Registration Statement, the Time of Sale Information or the Prospectus which is not so included.
+All disclosures contained in the Registration Statement, the Time of Sale Information or the Prospectus regarding “non-GAAP financial measures” (as such term is defined by the rules and regulations of the Commission) comply in all material respects with Regulation G of the Exchange Act and Item 10 of Regulation S-K of the Securities Act, to the extent applicable.
+The interactive data in eXtensible Business Reporting Language incorporated by reference in the Registration Statement, the Time of Sale Information and the Prospectus fairly presents the information called for in all material respects and has been prepared in accordance with the Commission’s rules and guidelines applicable thereto.
+(k)           No Material Adverse Change in Business.
+Since the respective dates as of which information is given in the Registration Statement, the Time of Sale Information and the Prospectus (in each case exclusive of any amendments or supplements thereto subsequent to the
+7
+date of this Agreement), except as otherwise stated therein, (A) there has been no material adverse change or any development involving a prospective material adverse change in the operations, condition (financial or otherwise), or in the earnings, business affairs or business prospects of the Company and its subsidiaries, including, without limitation, the Operating Partnership, considered as one enterprise, whether or not arising in the ordinary course of business (a “Material Adverse Effect”), (B) there have been no transactions entered into by the Company or any of its subsidiaries that are material with respect to the Company and its subsidiaries considered as one enterprise, (C) neither the Company nor any of its subsidiaries has entered into any transaction or agreement or incurred or undertaken any liabilities or obligations, direct or contingent, in each case which are material to the Company and its subsidiaries, including without limitation the Operating Partnership, considered as one enterprise, except for agreement, transactions, liabilities or obligations which are described in the Registration Statement, the Time of Sale Information and the Prospectus, and (D) there has been no dividend or distribution of any kind declared, paid or made by the Company on any class of its stock.
+(l)            Good Standing of the Company and the Operating Partnership.
+The Company has been duly organized and is validly existing as a corporation in good standing under the laws of the State of Maryland and has power and authority to own, lease and operate its properties and to conduct its business as described in the Registration Statement, the Time of Sale Information and the Prospectus and to enter into and perform its obligations under this Agreement; and the Operating Partnership has been duly formed and is validly existing as a limited partnership in good standing under the laws of the State of Delaware and has authority to own, lease and operate its properties and to conduct its business as described in the Registration Statement, the Time of Sale Information and the Prospectus.
+Each of the Company and the Operating Partnership is duly qualified as a foreign corporation to transact business and is in good standing in the State of New York and in each other jurisdiction in which such qualification is required, whether by reason of the ownership or leasing of property or the conduct of business, except (solely in the case of jurisdictions other than the State of New York) where the failure so to qualify or to be in good standing would not result in a Material Adverse Effect.
+(m)          The Partnership Agreement.
+The Third Amended and Restated Agreement of Limited Partnership of Arbor Realty Limited Partnership, dated as of July 14, 2016, among Arbor Realty GPOP, Inc., a Delaware corporation, Arbor Realty LPOP, Inc., a Delaware corporation, Arbor Commercial Mortgage, LLC, a New York limited liability company and the former manager of the Company and the Operating Partnership (together with its affiliates, the “Former Manager”), and the Company, has been duly and validly authorized, executed and delivered by the Company (through its direct subsidiaries) and is a valid and binding agreement, enforceable against the Company in accordance with its terms, except to the extent that enforcement thereof may be limited by bankruptcy, insolvency, reorganization or other laws affecting enforcement of creditors’ rights or by general equitable principles.
+(n)           Good Standing of Subsidiaries.
+Each subsidiary of the Company has been duly organized and is validly existing as a corporation, limited or general partnership or limited liability company, as the case may be, in good standing under the laws of the jurisdiction of its organization, has power and authority to conduct its business as described in the Registration Statement, the Time of Sale Information and the Prospectus and is duly qualified as a foreign
+8
+corporation, limited or general partnership or limited liability company, as the case may be, to transact business and is in good standing in each jurisdiction in which such qualification is required, whether by reason of the ownership or leasing of property or the conduct of business, except where the failure so to qualify or to be in good standing would not result in a Material Adverse Effect; except as otherwise disclosed in the Registration Statement, the Time of Sale Information and the Prospectus, all of the issued and outstanding stock of each such subsidiary that is a corporation, all of the issued and outstanding partnership interests of each such subsidiary that is a limited or general partnership and all of the issued and outstanding limited liability company interests, membership interests or other similar interests of each such subsidiary that is a limited liability company have been duly authorized and validly issued, and, in the case of each subsidiary that is a corporation, are fully paid and nonassessable and are owned by the Company or the Operating Partnership, directly or indirectly, free and clear of any security interest, mortgage, pledge, lien, encumbrance, claim or equity (each, a “Lien”); and none of the outstanding shares of stock, partnership interests or limited liability company interests, membership interests or other similar interests of any such subsidiary was issued in violation of any preemptive rights, rights of first refusal or other similar rights of any securityholder of such subsidiary or any other person.
+Any subsidiaries of the Company which are “significant subsidiaries” as defined by Rule 1-02 of Regulation S-X are listed on Schedule 2 hereto and Schedule 2 accurately sets forth whether each such subsidiary is a corporation, limited or general partnership or limited liability company and the jurisdiction of organization of each such subsidiary and, in the case of any subsidiary which is a partnership or limited liability company, its general partners and managing members, respectively.
+(o)           Capitalization.
+As of the date hereof, there are 500,000,000 shares of the Common Stock authorized and 61,702,628 shares of Common Stock issued and outstanding.
+The issued and outstanding shares of stock of the Company have been duly authorized and are validly issued, fully paid and nonassessable; and none of the outstanding shares of stock of the Company was issued in violation of any preemptive rights, rights of first refusal or other similar rights of any securityholder of the Company or any other person; the capital stock of the Company conforms in all material respects to the description thereof contained in the Registration Statement, the Time of Sale Information and the Prospectus.
+The authorized, issued and outstanding units of partnership interest in the Operating Partnership (the “OP Units”), have been duly authorized and validly issued; and all of such OP Units have been sold in compliance with applicable laws (including, without limitation, federal and state securities laws).
+(p)           Authorization of the Indenture.
+The Indenture has been duly authorized by the Company, is duly qualified under the Trust Indenture Act and constitutes a valid and binding agreement of the Company, enforceable against the Company in accordance with its terms, except as the enforcement thereof may be limited by bankruptcy, insolvency (including, without
+9
+limitation, all laws relating to fraudulent transfers), reorganization, moratorium or similar laws affecting enforcement of creditors’ rights generally and except as enforcement thereof is subject to general principles of equity (regardless of whether enforcement is considered in a proceeding in equity or at law).
+(q)           Authorization of the Securities.
+The Company has all requisite corporate power and authority to execute, issue, sell and perform its obligations under the Securities.
+The Securities have been duly authorized and, at the Closing Date, will have been duly executed by the Company and, when authenticated, issued and delivered in the manner provided for in the Indenture and delivered against payment of the Purchase Price therefor as provided in this Agreement, will constitute valid and binding obligations of the Company entitled to the benefits of the Indenture, enforceable against the Company in accordance with their terms, except as the enforcement thereof may be limited by bankruptcy, insolvency (including, without limitation, all laws relating to fraudulent transfers), reorganization, moratorium or similar laws affecting enforcement of creditors’ rights generally and except as enforcement thereof is subject to general principles of equity (regardless of whether enforcement is considered in a proceeding in equity or at law), and will be in the form contemplated by, and entitled to the benefits of, the Indenture.
+(r)            Authorization of the Underlying Securities.
+Upon issuance and delivery of the Securities in accordance with this Agreement and the Indenture, the Securities will be convertible at the option of the holder thereof into cash, shares of the Underlying Securities or a combination thereof, in accordance the terms of the Securities and the Indenture; the Underlying Securities (assuming physical settlement and the maximum conversion rate under any “make-whole” adjustment applies) reserved for issuance upon conversion of the Securities have been duly authorized and reserved and, when issued upon conversion of the Securities in accordance with the terms of the Securities and the Indenture, will be validly issued, fully paid and non assessable, no holder of the Underlying Securities will be subject to personal liability by reason of being such a holder and the issuance of the Underlying Securities will not be subject to any preemptive right, right of first refusal or other similar rights of any securityholder of the Company or any other person.
+(s)            Description of Securities.
+The Securities and Indenture conform in all material respects to the description thereof contained in the sections of the Registration Statement, the Time of Sale Information, and the Prospectus entitled “Description of Debt Securities” and “Description of notes.”
+(t)            Absence of Defaults and Conflicts.
+Neither the Company, the Operating Partnership nor any of their respective subsidiaries is (i) in violation of its Organizational Documents (as defined below) or (ii) in default, and no event has occurred that, with notice or lapse of time or both, would constitute such a default, in the performance or observance of any obligation, agreement, covenant or condition contained in any Company Document (as defined below), except, in the case of clause (ii) above, for such defaults that would not result in a Material Adverse Effect.
+The execution, delivery and performance of the Transaction Documents, the issuance of Securities and the consummation of the other transactions contemplated herein and therein and in the Registration Statement, the Time of Sale Information and the Prospectus (including the issuance and sale of the Securities (including the issuance of
+10
+the Underlying Securities upon conversion thereof) and the use of the proceeds from the sale of the Securities as described in the Time of Sale Information and the Prospectus under the caption “Use of proceeds”) and compliance by each of the Company and the Operating Partnership with its obligations under the Transaction Documents do not and will not, whether with or without the giving of notice or passage of time or both, conflict with or constitute a breach of, or default under any Company Documents, or result in the creation or imposition of any Lien upon any property or assets of the Company, the Operating Partnership or any of their respective subsidiaries, nor will such action result in any violation of the provisions of the Organizational Documents of the Company, the Operating Partnership or any of their respective subsidiaries or any applicable law, statute, rule, regulation, judgment, order, writ or decree of any government, government instrumentality or court, domestic or foreign, having jurisdiction over the Company or any of its subsidiaries or any of their respective assets, properties or operations.
+The term “Company Documents” as used herein means any contracts, indentures, guarantees, mortgages, deeds of trust, loan or credit agreements, letter of credit facilities, security agreements, bonds, notes, debentures, evidences of indebtedness, leases or other instruments or agreements to which the Company, the Operating Partnership, or any of their respective subsidiaries is a party or by which the Company, the Operating Partnership, or any of their respective subsidiaries is bound or to which any of the property or assets of the Company, the Operating Partnership, or any of their respective subsidiaries is subject.
+The term “Organizational Documents” as used herein means (a) in the case of a corporation, its charter and bylaws; (b) in the case of a limited or general partnership, its partnership certificate, certificate of formation or similar organizational document and its partnership agreement; (c) in the case of a limited liability company, its articles of organization, certificate of formation or similar organizational documents and its operating agreement, limited liability company agreement, membership agreement or other similar agreement; (d) in the case of a trust, its certificate of trust, certificate of formation or similar organizational document and its trust agreement or other similar agreement; and (e) in the case of any other entity, the organizational and governing documents of such entity.
+(u)                                 Absence of Labor Dispute.
+No labor dispute with the employees of the Company or any subsidiary of the Company exists or, to the knowledge of the Company, is imminent, and the Company is not aware of any existing or imminent labor disturbance by the employees of any of the principal suppliers, manufacturers, customers or contractors of the Company or any of its subsidiaries which, in any such case, may reasonably be expected to result in a Material Adverse Effect.
+Except as described in the Registration Statement, the Time of Sale Information and the Prospectus, there is no action, suit, proceeding, inquiry or investigation before or brought by any court or governmental agency or body, domestic or foreign, now pending, against or affecting the Company, the Operating Partnership or any of their respective subsidiaries or which has as a subject thereof, any officer or director of the Company in their capacity as such or as would otherwise be required to be disclosed in the Prospectus.
+To the knowledge of the Company or the Operating Partnership, there is no action, suit, proceeding, inquiry or investigation before or brought by any court or governmental agency or body, domestic or foreign, threatened, against or affecting the Company, the Operating Partnership or any of their respective subsidiaries except as would not have a Material Adverse
+11
+Effect or which has as a subject thereof, any officer or director of the Company in their capacity as such or as would otherwise be required to be disclosed in the Prospectus.
+(w)                               Accuracy of Descriptions and Exhibits.
+The information in the Preliminary Prospectus and the Prospectus under the captions “Description of notes,” “Description of Debt Securities,” “Description of Capital Stock,” “U.S.
+Federal Income Tax Considerations,” and “Additional U.S. Federal Income Tax Considerations” is correct in all material respects; all descriptions in the Registration Statement, the Time of Sale Information and the Prospectus of any Company Documents are accurate in all material respects; and there are no franchises, contracts, indentures, mortgages, deeds of trust, loan or credit agreements, bonds, notes, debentures, evidences of indebtedness, leases or other instruments or agreements required to be described or referred to in the Registration Statement, the Time of Sale Information or the Prospectus or to be filed as exhibits to the Registration Statement which have not been so described and filed as required.
+(x)                                 Possession of Intellectual Property.
+The Company and its subsidiaries own or possess or have the right to use on reasonable terms all patents, patent rights, patent applications, licenses, inventions, copyrights, know how (including trade secrets and other unpatented and/or unpatentable proprietary or confidential information, systems or procedures), trademarks, service marks, trade names, service names and other intellectual property (collectively, “Intellectual Property”) necessary to carry on their respective businesses as described in the Time of Sale Information and the Prospectus and as proposed to be conducted; and neither the Company nor any of its subsidiaries has received any notice or is otherwise aware of any infringement of or conflict with asserted rights of others with respect to any Intellectual Property or of any facts or circumstances which would render any Intellectual Property invalid or inadequate to protect the interests of the Company or any of its subsidiaries therein, and which infringement or conflict (if the subject of any unfavorable decision, ruling or finding) or invalidity or inadequacy, individually or in the aggregate, might result in a Material Adverse Effect.
+(A) No filing with, or authorization, approval, consent, license, order, registration, qualification or decree of, any court or governmental authority or agency, domestic or foreign, (B) no authorization, approval, vote or other consent of any stockholder or creditor of the Company or the Operating Partnership, (C) no waiver or consent under any Company Document, and (D) no authorization, approval, vote or other consent of any other person or entity, is necessary or required for the performance by the Company or the Operating Partnership of their respective obligations under this Agreement, for the offering, issuance, sale or delivery of the Securities hereunder (including the issuance of the Underlying Securities upon conversion thereof), or for the consummation of any of the other transactions contemplated by this Agreement, in each case on the terms contemplated by this Agreement, the Prospectus and the Indenture, except such as have been or will be obtained under the Securities Act, the rules of the New York Stock Exchange (“NYSE”), state securities laws or the rules of the Financial Industry Regulatory Authority, Inc. (“FINRA”).
+(z)                                  Possession of Licenses and Permits.
+The Company, the Operating Partnership and their respective subsidiaries possess such permits, licenses, approvals, consents and other authorizations issued by the appropriate federal, state, local or foreign regulatory agencies or
+12
+bodies (collectively, “Governmental Licenses”) as are necessary to conduct the business now operated by them; the Company and its subsidiaries are in compliance with the terms and conditions of all such Governmental Licenses, except where the failure so to comply would not, individually or in the aggregate, have a Material Adverse Effect; all of the Governmental Licenses are valid and in full force and effect, except when the invalidity of such Governmental Licenses or the failure of such Governmental Licenses to be in full force and effect would not have a Material Adverse Effect; and neither the Company, the Operating Partnership nor any of their respective subsidiaries has received any notice of proceedings relating to the revocation or modification of any such Governmental Licenses which, individually or in the aggregate, if the subject of an unfavorable decision, ruling or finding, would result in a Material Adverse Effect.
+(aa)                          Investment Company Act.
+The Company is not, and upon the issuance and sale of the Securities (including the issuance of the Underlying Securities upon conversion thereof) as herein contemplated and the application of the net proceeds therefrom as described in the Time of Sale Information and the Prospectus, will not be, an “investment company” or an entity “controlled” by an “investment company” as such terms are defined the Investment Company Act of 1940, as amended (the “Investment Company Act”).
+Neither the Operating Partnership nor any of the subsidiaries of the Company is an “investment company” as defined in the Investment Company Act.
+(bb)                          Absence of Registration Rights.
+Except as disclosed in the Registration Statement, the Time of Sale Information and the Prospectus, there are no persons with registration rights or other similar rights to have any securities (debt or equity) (A) registered pursuant to the Registration Statement or included in the offering contemplated by this Agreement or (B) otherwise registered by the Company under the Securities Act.
+(cc)                            Joint Ventures.
+All of the joint ventures in which the Company or any subsidiary owns any interest (the “Joint Ventures”) are listed on Schedule 3 hereto.
+The Company’s or subsidiary’s ownership interest in such Joint Venture is set forth in Schedule 3.
+(dd)                          1934 Act Registration; New York Stock Exchange.
+The Common Stock has been registered pursuant to Section 12(b) of the 1934 Act.
+The outstanding shares of Common Stock have been listed, and the Company will use its best efforts to list the Underlying Securities, on the NYSE.
+(ee)                            FINRA Matters.
+All of the information (including, but not limited to, information regarding affiliations, security ownership and trading activity) provided to the Underwriters or to counsel for the Underwriters by the Company, its officers and directors and the holders of any securities (debt or equity) or options to acquire any securities of the Company in connection with letters, filings or other supplemental information provided to FINRA is true, complete and correct.
+(ff)                              Insurance.
+The Company, the Operating Partnership and each of their respective subsidiaries are insured by insurers of recognized financial responsibility against such losses and risks and in such amounts as are prudent and customary in the businesses in which they are engaged; all policies of insurance and any fidelity or surety bonds insuring the Company, the
+13
+Operating Partnership or any of their respective subsidiaries or their respective businesses, assets, employees, officers and directors are in full force and effect; the Company, the Operating Partnership and their respective subsidiaries are in compliance with the terms of such policies and instruments in all material respects; there are no claims by the Company, the Operating Partnership or any of their respective subsidiaries under any such policy or instrument as to which any insurance company is denying liability or defending under a reservation of rights clause; neither the Company, the Operating Partnership nor any such subsidiary has been refused any insurance coverage sought or applied for; and neither the Company, the Operating Partnership nor any such subsidiary has any reason to believe that it will not be able to renew its existing insurance coverage as and when such coverage expires or to obtain similar coverage from similar insurers as may be necessary to continue its business at a cost that would not have a Material Adverse Effect.
+Without limitation to the foregoing provisions of this Section 3(gg), and such exceptions as would not, individually or in the aggregate, have a Material Adverse Effect, the Company, the Operating Partnership and their respective subsidiaries have title insurance on any real property currently leased or owned or controlled by them or to be leased or owned or to be controlled by them (collectively, the “Real Property”), in each case in an amount at least equal to the original cost of acquisition, and the Company, the Operating Partnership and their respective subsidiaries are entitled to all benefits of the insured thereunder, and each such Real Property is insured by extended coverage hazard and casualty insurance in amounts and on such terms as are customarily carried by lessors of properties similar to those owned by the Company, the Operating Partnership and their respective subsidiaries (in the markets in which the Company’s and subsidiaries’ respective Real Properties are located), and the Company, the Operating Partnership and their respective subsidiaries carry comprehensive general liability insurance and such other insurance as is customarily carried by lessors of properties similar to those owned by the Company, the Operating Partnership and their respective subsidiaries in amounts and on such terms as are customarily carried by lessors of properties similar to those owned by the Company, the Operating Partnership and their respective subsidiaries (in the markets in which the Company’s, the Operating Partnership’s and their respective subsidiaries’ respective Real Properties are located) and the Company, the Operating Partnership or one of their respective subsidiaries is named as an additional insured on all policies required under the leases for such properties.
+With respect to mortgage loans extended by the Company and its subsidiaries, the Company or its subsidiary has one or more lender’s title insurance policies insuring the lien of the mortgages encumbering the real property underlying such loans with coverages, in the aggregate, equal to at least the maximum aggregate principal amount of such loan.
+(gg)                            Disclosure Controls and Procedures.
+The Company and the Operating Partnership have established and maintain disclosure controls and procedures (as such term is defined in Rule 13a-15(e) under the Exchange Act) that (i) are designed to ensure that material information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is accumulated and communicated to the Company’s management, including the Company’s principal executive officer and principal financial officer, particularly during the preparation of the reports that it files or submits under the Exchange Act; and (ii) are effective to ensure that information required to be disclosed by the Company in the reports that it files or submits under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the Commission’s rules and forms.
+14
+(hh)                          Accounting Controls.
+The Company, the Operating Partnership and each of their respective subsidiaries maintain a system of internal control over financial reporting sufficient to provide reasonable assurance that financial reporting is reliable and financial statements for external purposes are prepared in accordance with GAAP and includes policies and procedures that (i) pertain to the maintenance of records that in reasonable detail accurately and fairly reflect the transactions and dispositions of the assets of the Company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with GAAP, and to maintain asset accountability; (iii) access to assets is permitted only in accordance with management’s general or specific authorization; (iv) the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to any differences; and (v) interactive data in eXtensible Business Reporting Language included or incorporated by reference in the Registration Statement fairly presents the information called for in all material respects and is prepared in accordance with the Commission’s rules and guidelines applicable thereto.
+Except as described in the Registration Statement, the Time of Sale Information and the Prospectus, since the end of the Company’s most recent audited fiscal year, there has been (i) no material weakness in the Company’s internal control over financial reporting (whether or not remediated) and (ii) no change in the Company’s internal control over financial reporting that has materially affected, or is reasonably likely to materially affect, the Company’s internal control over financial reporting.
+(ii)                                  Absence of Manipulation.
+Each of the Company and the Operating Partnership has not taken and will not take, directly or indirectly, any action designed to or that would constitute or that might reasonably be expected to cause or result in the stabilization or manipulation of the price of any security to facilitate the sale or resale of the Securities.
+(jj)                                Statistical and Market-Related Data.
+The statistical and market-related data included in the Registration Statement, the Time of Sale Information and the Prospectus are based on or derived from sources that the Company believes to be reliable and accurate as of the respective dates of such documents, and the Company has obtained the written consent to the use of such data from such sources to the extent required.
+(kk)                          Foreign Corrupt Practices Act.
+Neither the Company, the Operating Partnership nor any of their respective subsidiaries, nor to the knowledge of the Company or the Operating Partnership, any director, officer, employee, agent, affiliate or other person acting on behalf of the Company, the Operating Partnership or any of their respective subsidiaries has (i) used any corporate funds for any unlawful contribution, gift, entertainment or other unlawful expense relating to political activity; (ii) made or taken an act in furtherance of an offer, promise or authorization of any direct or indirect unlawful payment or benefit to any foreign or domestic government official or employee , including of any government-owned or controlled entity or of a public international organization, or any person acting in an official capacity for or on behalf of any of the foregoing, or any political party or party official or candidate for political office; (iii) violated or is in violation of any provision of the Foreign Corrupt Practices Act of 1977, as amended, or any applicable law or regulation implementing the OECD Convention on Combating Bribery of Foreign Public Officials in International Business Transactions, or committed an offence under  the Bribery Act 2010 of the United Kingdom, or any other applicable anti-bribery or anti-corruption law; or (iv) made, offered,
+15
+agreed, requested or taken an act in furtherance of any unlawful bribe or other unlawful benefit, including, without limitation, any  rebate, payoff, influence payment, kickback or other unlawful or improper payment or benefit.
+The Company, the Operating Partnership and their respective subsidiaries have instituted, maintain and enforce, and will continue to maintain and enforce, policies and procedures designed to promote and ensure compliance with all applicable anti-bribery and anti-corruption laws.
+(ll)                                  Compliance with Anti-Money Laundering Laws.
+The operations of the Company and its subsidiaries are and have been conducted at all times in compliance with applicable financial recordkeeping and reporting requirements, including those of the Currency and Foreign Transactions Reporting Act of 1970, as amended, the applicable money laundering statutes of all jurisdictions where the Company or any of its subsidiaries conducts business, the rules and regulations thereunder and any related or similar rules, regulations or guidelines, issued, administered or enforced by any governmental agency (collectively, the “Anti-Money Laundering Laws”), and no action, suit or proceeding by or before any court or governmental agency, authority or body or any arbitrator involving the Company or any of its subsidiaries with respect to the Anti-Money Laundering Laws is pending or, to the knowledge of the Company or the Operating Partnership, threatened.
+(mm)                  No Conflicts with Sanctions Laws.
+Neither the Company nor any of its subsidiaries, nor to the knowledge of the Company or the Operating Partnership, any directors, officers or employees, agents, affiliates or other persons acting on behalf of the Company or any of its subsidiaries is currently the subject or the target of any sanctions administered or enforced by the U.S. government, (including, without limitation, the Office of Foreign Assets Control of the U.S. Department of the Treasury (“OFAC”) or the U.S. Department of State and including, without limitation, the designation as a “specially designated national” or “blocked person”), the United Nations Security Council (“UNSC”), the European Union, Her Majesty’s Treasury, or other relevant sanctions authority (collectively, “Sanctions”), nor is the Company or any of its subsidiaries located, organized or resident in a country or territory that is the subject  or target of Sanctions, including, without limitation, Cuba, Iran, North Korea, Sudan, Syria and Crimea (each, a “Sanctioned Country”); and the Company will not directly or indirectly use the proceeds of the offering of the Securities hereunder, or lend, contribute or otherwise make available such proceeds to any subsidiary, joint venture partner or other person or entity (i) to fund or facilitate any activities of or business with any person that, at the time of such funding or facilitation, is the subject or target of Sanctions, (ii) to fund or facilitate any activities of or business in any Sanctioned Country or (iii) in any other manner that will result in a violation by any person (including any person participating in the transaction, whether as underwriter, advisor, investor or otherwise) of Sanctions.
+For the past five years, the Company and its subsidiaries have not knowingly engaged in and are not now knowingly engaged in any dealings or transactions with any person that at the time of the dealing or transaction is or was the subject or the target of Sanctions or with any Sanctioned Country.
+(nn)                          Lending Relationship.
+Except as disclosed in the Registration Statement, the Time of Sale Information and the Prospectus, neither the Company nor any of its subsidiaries has any outstanding borrowings from, or is a party to any line of credit, credit agreement or other credit facility or otherwise has a borrowing relationship with, any bank or other lending institution affiliated with the Underwriters, and the Company does not intend to use any of the
+16
+proceeds from the sale of the Securities to repay any debt owed to the Underwriters or any affiliate of the Underwriters.
+(oo)                          Transfer Taxes.
+There are no stock or other transfer taxes, stamp duties, capital duties or other similar duties, taxes or charges payable in connection with the execution or delivery of this Agreement by the Company or the issuance or sale by the Company of the Securities to be sold by the Company to the Underwriters hereunder.
+(pp)                          ERISA.
+Except as set forth in the Company’s financial statements, each of the Company and the Operating Partnership does not have any material liabilities under the Employee Retirement Income Security Act of 1974, as amended, or Section 4975 of the Internal Revenue Code of 1986, as amended, and the regulations and published interpretations thereunder (collectively, the “Code”).
+(qq)                          REIT Status.
+Commencing with the Company’s taxable year ended December 31, 2003, and the taxable year ended December 31, 2005 of Arbor Realty SR, Inc., a Maryland real estate investment trust (the “Private REIT”), each of the Company and the Private REIT has been organized and operated in conformity with the requirements for qualification and taxation as a real estate investment trust (“REIT”) under the Code, and each of the Company’s and the Private REIT’s current and proposed method of operations as described in the Registration Statement, the Time of Sale Information and the Prospectus will enable it to continue to meet the requirements for qualification and taxation as a REIT under the Code for its taxable year ending December 31, 2017 and thereafter.
+The Company does not know of any event that would cause or is likely to cause either the Company or the Private REIT to fail to qualify as a REIT under the Code at any time.
+(rr)                                Tax Opinion.
+With respect to the legal opinion as to federal income tax matters provided to the Underwriters pursuant to Section 5(g) hereof, the Company’s representatives have discussed with its counsel, Skadden, Arps, Slate, Meagher & Flom LLP, the officer’s certificate supporting such opinion, and where representations in such officer’s certificate involve terms defined in the Code, the Treasury regulations thereunder, published rulings of the Internal Revenue Service or other relevant authority, the Company’s representatives are satisfied after their discussions with their counsel in their understanding of such terms and are capable of making such representations.
+(ss)                              Tax Returns.
+All tax returns required to be filed as of the date hereof by the Company and each of its subsidiaries have been timely filed (or valid extensions to such filings have been obtained), all such tax returns are true, correct and complete in all material respects, and all material taxes and other assessments of a similar nature (whether imposed directly or through withholding) including any interest, additions to tax or penalties applicable thereto due or claimed to be due from such entities have been paid, other than those being contested in good faith and for which adequate reserves have been provided.
+(tt)                                Related-Party Transactions.
+There are no business relationships or related-party transactions involving the Company or the Operating Partnership required to be described in the
+17
+Registration Statement, the Time of Sale Information and the Prospectus which have not been so described as required.
+(uu)                          No Unlawful Contributions or Other Payments.
+Neither the Company, the Operating Partnership nor any subsidiary nor, to the best of the Company’s knowledge, any employee or agent of the Company, the Operating Partnership or any subsidiary, has made any contribution or other payment to any official of, or candidate for, any federal, state or foreign office in violation of any law or of the character required to be disclosed in the Prospectus.
+(vv)                          Brokers and Finders.
+Neither the Company, the Operating Partnership nor any subsidiary has incurred any liability for a fee, commission or other compensation on account of the employment of a broker or finder in connection with the transactions contemplated by this Agreement other than as contemplated hereby.
+(ww)                      No Prohibition on Subsidiaries from Paying Dividends or Making Other Distributions.
+No subsidiary is currently prohibited, directly or indirectly, from paying any dividends to the Company, from making any other distribution on such subsidiary’s capital stock or other equity interests, from repaying to the Company any loans or advances to such subsidiary from the Company or from transferring any of such subsidiary’s property or assets to the Company or any other Subsidiary.
+(xx)                          Title to Real and Personal Property.
+(i) The Company and its subsidiaries, including the Operating Partnership, have (or in the case of a Joint Venture, such limited partnership, limited liability company or other joint venture entity has) good and marketable title in fee simple to, or a valid leasehold interest in, the Real Property and good and marketable title to any and all personal property owned by the Company or any of its Subsidiaries that is material to the business of the Company or the Operating Partnership, in each case free and clear of all Liens, except as described in the Prospectus or such as would not reasonably be expected to result in a Material Adverse Effect; and any real property, buildings and equipment held under lease by the Company and its subsidiaries are held by them under valid, subsisting and enforceable leases (the “Leases”) with such exceptions as are disclosed in the Prospectus or such as would not reasonably be expected to result in a Material Adverse Effect; (ii) neither the Company nor any of its Subsidiaries has received notice of any claim that has been or may be asserted by anyone adverse to the rights of the Company or any subsidiary with respect to any such Real Properties, personal property or Leases or affecting or questioning the rights of the Company to the continued ownership, lease, possession or occupancy of such Real Properties, personal property or Leases, except for such claims that would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect; (iii) no person or entity, including, without limitation, any tenant under the leases, if any, for the Real Properties has an option or right of first refusal or any other right to purchase any of such Real Properties, except as disclosed in the Prospectus; (iv) each of the Real Properties has access to public rights of way, either directly or through insured easements, except where the failure to have such access would not, individually or in the aggregate, have a Material Adverse Effect; (v) each of the Real Properties is served by all public utilities necessary for the current operations on such property in sufficient quantities for such operations, except where the failure to have such public utilities would not, individually or in the aggregate, have a Material Adverse Effect; (vi) each of the Real
+18
+Properties complies with all applicable codes and zoning and subdivision laws and regulations, except for such failure to comply which would not, either individually or in the aggregate, have a Material Adverse Effect; (vii) all of the Leases are in full force and effect, except where the failure to be in full force or effect would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect, and neither the Company nor any of its subsidiaries is in default in the payment of any amounts due under any such Leases or in any other default thereunder and neither the Company nor any of its subsidiaries knows or an event which, with the passage of time or the giving of notice or both, would constitute a default under any such Lease, except such defaults that would not, individually or in the aggregate, reasonably be expected to have a Material Adverse Effect; and (viii) there is no pending or, to the knowledge of the Company or its subsidiaries, threatened condemnation, zoning change, or other proceeding or action that would in any manner affect the size of, use of, improvements on, construction on or access to any Real Property, except such proceedings or actions that, either individually or in the aggregate, would not reasonably be expected to have a Material Adverse Effect.
+(yy)                          Compliance with Environmental Laws.
+Except as otherwise disclosed in the Registration Statement, and the Time of Sale Information and the Prospectus: (i) neither the Company nor any of its subsidiaries nor, to the knowledge of the Company, any other owners of the Real Property at any time, or to the knowledge of the Company, any other party has at any time, handled, stored, treated, transported, manufactured, spilled, leaked, or discharged, dumped, transferred or otherwise disposed of or dealt with, Hazardous Materials (as hereinafter defined) on, to or from any Real Property, other than by any such action taken in material compliance with all applicable Environmental Statutes (as hereinafter defined) or by the Company, any of its subsidiaries or any other party in connection with the ordinary use of residential, retail or commercial properties owned by the Company or any subsidiary; (ii) the Company and its subsidiaries do not intend to use the Real Property or any subsequently acquired properties for the purpose of handling, storing, treating, transporting, manufacturing, spilling, leaking, discharging, dumping, transferring or otherwise disposing of or dealing with Hazardous Materials other than by any such action taken in material compliance with all applicable Environmental Statues or by the Company, any of its subsidiaries or, to the knowledge of the Company, any other party in connection with the ordinary use of residential, retail or commercial properties owned by the Company or any subsidiary; (iii) the Company and the Operating Partnership do not know of any seepage, leak, discharge, release, emission, spill, or dumping of Hazardous Materials from the Real Property into waters on or adjacent to the Real Property or from the Real Property onto any real property owned or occupied by any other party, or onto lands from which Hazardous Materials might seep, flow or drain into such waters other than in material compliance with Environmental Statutes; (iv) neither the Company nor any of its subsidiaries has received any notice of, or has knowledge of, any occurrence or circumstance which, with notice or passage of time or both, would give rise to a claim under or pursuant to any U.S. federal, state or local environmental statute or regulation or under common law, pertaining to Hazardous Materials on or originating from any of the Real Property or arising out of the conduct of the Company or any of its subsidiaries, including without limitation a claim under or pursuant to any Environmental Statute; and (v) neither the Real Property is included nor, to the Company’s or the Operating Partnership’s knowledge, is proposed for inclusion on the National Priorities List issued pursuant to CERCLA (as hereinafter defined) by United States Environmental Protection Agency or, to the Company’s or to the Operating Partnership’s
+19
+knowledge, proposed for inclusion on any similar list or inventory issued pursuant to any other Environmental Statute or issued by any other governmental authority.
+As used herein, “Hazardous Materials” shall include, without limitation, any flammable explosives, radioactive materials, hazardous materials, hazardous wastes, toxic substances, or related materials, asbestos or any hazardous material as defined by any U.S. federal, state or local environmental law, ordinance, rule or regulation including without limitation the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended, 42 U.S.C.
+Sections 9601-9675 (“CERCLA”), the Hazardous Materials Transportation Act, as amended, 49 U.S.C.
+Sections 1801-1819, the Resource Conservation and Recovery Act, as amended, 42 U.S.C.
+Sections 6901-6992K, the Emergency Planning and Community Right-to-Know Act of 1986, 42 U.S.C.
+Sections 11001-11050, the Toxic Substances Control Act, 15 U.S.C.
+Sections 2601-2671, the Federal Insecticide, Fungicide and Rodenticide Act, 7 U.S.C.
+Sections 136-136y, the Clean Air Act, 42 U.S.C.
+Sections 7401-7642, the Clean Water Act (Federal Water Pollution Control Act), 33 U.S.C.
+Sections 1251-1387, the Safe Drinking Water Act, 42 U.S.C.
+Sections 300f-330j-26, and the Occupational Safety and Health Act, 29 U.S.C.
+Sections 651-678, as any of the above statutes may be amended from time to time, and in the regulations promulgated pursuant to each of the foregoing (individually, an “Environmental Statute”) or by any governmental authority.
+(zz)                            Compliance with ADA.
+The Company and its subsidiaries and each Real Property are currently in compliance with all presently applicable provisions of the Americans with Disabilities Act, as amended, except for any such non-compliance that would not, individually or in aggregate, reasonably be expected to have a Material Adverse Effect.
+(aaa)                   No Breach or Default under Loans.
+To the Company’s knowledge, there is no breach of, or default under (nor has any event occurred which with notice, lapse of time, or both would constitute a breach of, or default under) the loan documents relating to the debt instruments acquired or originated by the Company (collectively, the “Loans”) which breach or default, if uncured, would result in a Material Adverse Effect.
+To the Company’s knowledge without due inquiry, there is no breach or default under (nor has any event occurred which with notice, lapse of time, or both would constitute a breach of, or default under) the loan documents relating to any loans senior to the Loans, which breach or default, if uncured, would result in a Material Adverse Effect.
+(bbb)                   Compliance with Sarbanes-Oxley Act.
+There is and has been no failure on the part of the Company or any of the Company’s directors or officers, in their capacities as such, to comply with any provision of the Sarbanes-Oxley Act of 2002 and the rules and regulations promulgated in connection therewith, including Section 402 related to loans and Sections 302 and 906 related to certifications.
+(ccc)                      No Ratings.
+There are no securities or preferred stock of or guaranteed by the Company or any of its subsidiaries that are rated by a “nationally recognized statistical rating organization,” as such term is defined under Section 3(a)(62) under the Exchange Act.
+20
+4.
+Further Agreements of the Company and the Operating Partnership.
+Each of the Company and the Operating Partnership, jointly and severally, covenant and agree with each Underwriter that:
+(a)                                 Required Filings.
+(b)                                 Delivery of Copies.
+As used herein, the term “Prospectus Delivery Period” means such period of time after the first date of the public offering of the Securities as in the opinion of counsel for the Underwriters a prospectus relating to the Securities is required by law to be delivered (or required to be delivered but for Rule 172 under the Securities Act) in connection with sales of the Securities by any Underwriter or dealer.
+(c)                                  Amendments or Supplements, Issuer Free Writing Prospectuses.
+21
+Issuer Free Writing Prospectus or any amendment to the Prospectus has been filed; (iii) of any request by the Commission for any amendment to the Registration Statement or any amendment or supplement to the Prospectus or the receipt of any comments from the Commission relating to the Registration Statement or any other request by the Commission for any additional information; (iv) of the issuance by the Commission or any other governmental or regulatory authority of any order suspending the effectiveness of the Registration Statement or preventing or suspending the use of any Preliminary Prospectus, any of the Time of Sale Information or the Prospectus or the initiation or threatening of any proceeding for that purpose or pursuant to Section 8A of the Securities Act; (v) of the occurrence of any event or development within the Prospectus Delivery Period as a result of which the Prospectus, the Time of Sale Information or any Issuer Free Writing Prospectus as then amended or supplemented would include any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements therein, in the light of the circumstances existing when the Prospectus, the Time of Sale Information or any such Issuer Free Writing Prospectus is delivered to a purchaser, not misleading; and (vi) of the receipt by the Company of any notice with respect to any suspension of the qualification of the Securities for offer and sale in any jurisdiction or the initiation or threatening of any proceeding for such purpose; and the Company will use its reasonable best efforts to prevent the issuance of any such order suspending the effectiveness of the Registration Statement, preventing or suspending the use of any Preliminary Prospectus, any of the Time of Sale Information or the Prospectus or suspending any such qualification of the Securities and, if any such order is issued, will obtain as soon as possible the withdrawal thereof.
+(e)                                  Ongoing Compliance.
+22
+be necessary so that the statements in the Time of Sale Information as so amended or supplemented will not, in the light of the circumstances, be misleading or so that the Time of Sale Information will comply with law.
+(f)                                   Blue Sky Compliance.
+The Company will qualify the Securities for offer and sale under the securities or Blue Sky laws of such jurisdictions as the Representative shall reasonably request and will continue such qualifications in effect so long as required for distribution of the Securities; provided that the Company shall not be required to (i) qualify as a foreign corporation or other entity or as a dealer in securities in any such jurisdiction where it would not otherwise be required to so qualify, (ii) file any general consent to service of process in any such jurisdiction or (iii) subject itself to taxation in any such jurisdiction if it is not otherwise so subject.
+(g)                                  Earning Statement.
+The Company will make generally available to its security holders and the Representative as soon as practicable an earning statement that satisfies the provisions of Section 11(a) of the Securities Act and Rule 158 of the Commission promulgated thereunder covering a period of at least twelve months beginning with the first fiscal quarter of the Company occurring after the “effective date” (as defined in Rule 158) of the Registration Statement.
+(h)                                 Clear Market.
+For a period of 45 days after the date of the offering of the Securities, each of the Company and the Operating Partnership will not (i) offer, pledge, sell, contract to sell, sell any option or contract to purchase, purchase any option or contract to sell, grant any option, right or warrant to purchase, or otherwise transfer or dispose of, directly or indirectly, or file with the Commission a registration statement under the Securities Act relating to, any shares of Common Stock or any securities convertible into or exercisable or exchangeable for Common Stock, or publicly disclose the intention to make any offer, sale, pledge, disposition or filing, or (ii) enter into any swap or other agreement that transfers, in whole or in part, any of the economic consequences of ownership of the Common Stock or any such other securities, whether any such transaction described in clause (i) or (ii) above is to be settled by delivery of Common Stock or such other securities, in cash or otherwise, without the prior written consent of the Representative, other than the Securities to be sold hereunder and any shares of Common Stock of the Company issued upon the exercise of options granted under existing employee stock option plans; provided, however, that the Company may issue and sell Common Stock pursuant to the Equity Distribution Agreement, dated as of February 13, 2014, as amended as of August 10, 2016, among the Company, the Operating Partnership and JMP Securities LLC in connection with an “at the market offering,” so long as such issuances and sales occur no earlier than 30 days after the date of this Agreement.
+(i)                                     Use of Proceeds.
+The Company will apply the net proceeds from the sale of the Securities as described in each of the Registration Statement, the Time of Sale Information and the Prospectus under the heading “Use of proceeds”.
+(j)                                    No Stabilization.
+Neither the Company nor the Operating Partnership will take, directly or indirectly, any action designed to or that could reasonably be expected to cause or result in any stabilization or manipulation of the price of the Securities and will not take any action
+23
+prohibited by Regulation M under the Exchange Act in connection with the distribution of the Securities contemplated hereby.
+(k)                                 Underlying Securities.
+The Company will reserve and keep available at all times, free of pre-emptive rights, shares of Common Stock for the purpose of enabling the Company to satisfy all obligations to issue the Underlying Securities upon conversion of the Securities (assuming physical settlement and the maximum conversion rate under any “make-whole” adjustment applies).
+The Company will use its best efforts to cause the Underlying Securities to be listed on NYSE.
+(l)                                     Qualification and Taxation as a REIT.
+The Company will use its best efforts to
+meet the requirements for qualification and taxation as a REIT under the Code for its taxable year ending December 31, 2017, and the Company will use its best efforts to continue to qualify for taxation as a REIT under the Code unless the Company’s Board of Directors determines in good faith that it is no longer in the best interest of the Company and its stockholders to be so qualified.
+(m)                             Investment Company.
+The Company is familiar with the Investment Company Act and the rules and regulations thereunder, and will in the future conduct its and the Operating Partnership’s affairs, in such a manner and will use its commercially reasonable best efforts to ensure that the Company and the Operating Partnership will not be an “investment company” within the meaning of the Investment Company Act and the rules and regulations thereunder.
+(n)                                 DTC.
+The Company will assist the Underwriters in arranging for the Securities to be eligible for clearance and settlement through DTC.
+5.
+Certain Agreements of the Underwriters.
+Each Underwriter hereby represents and agrees that:
+(a)                                 It has not and will not use, authorize use of, refer to, or participate in the planning for use of, any “free writing prospectus”, as defined in Rule 405 under the Securities Act (which term includes use of any written information furnished to the Commission by the Company and not incorporated by reference into the Registration Statement and any press release issued by the Company) other than (i) a free writing prospectus that contains no “issuer information” (as defined in Rule 433(h)(2) under the Securities Act) that was not included (including through incorporation by reference) in the Preliminary Prospectus or a previously filed Issuer Free Writing Prospectus, (ii) any Issuer Free Writing Prospectus listed on Annex A or prepared pursuant to Section 3(c) or Section 4(c) above (including any electronic road show), or (iii) any free writing prospectus prepared by such Underwriter and approved by the Company in advance in writing.
+(b)                                 It has not and will not, without the prior written consent of the Company, use any free writing prospectus that contains the final terms of the Securities unless such terms have previously been included in a free writing prospectus filed with the Commission; provided that Underwriters may use a term sheet substantially in the form of Annex B hereto without the consent of the Company; provided further that any Underwriter using such term sheet shall
+24
+(c)                                  It is not subject to any pending proceeding under Section 8A of the Securities Act with respect to the offering (and will promptly notify the Company if any such proceeding against it is initiated during the Prospectus Delivery Period).
+6.
+Conditions of Underwriters’ Obligations.
+The obligation of each Underwriter to purchase the Underwritten Securities on the Closing Date or the Option Securities on the Additional Closing Date, as the case may be as provided herein is subject to the performance by the Company and the Operating Partnership of their respective covenants and other obligations hereunder and to the following additional conditions:
+No order suspending the effectiveness of the Registration Statement shall be in effect and no proceeding for such purpose pursuant to Section 8A under the Securities Act shall be pending before or, to the knowledge of the Company, threatened by the Commission; the Prospectus and each Issuer Free Writing Prospectus shall have been timely filed with the Commission under the Securities Act (in the case of an Issuer Free Writing Prospectus, to the extent required by Rule 433 under the Securities Act) and in accordance with Section 4(a) hereof; and all requests by the Commission for additional information shall have been complied with to the reasonable satisfaction of the Representative.
+(b)                                 Representations and Warranties.
+The representations and warranties of the Company and the Operating Partnership contained herein shall be true and correct on the date hereof and on and as of the Closing Date or the Additional Closing Date, as the case may be; and the statements of the Company and its officers made in any certificates delivered pursuant to this Agreement shall be true and correct on and as of the Closing Date or the Additional Closing Date, as the case may be.
+(c)                                  No Downgrade.
+Subsequent to the earlier of (A) the Time of Sale and (B) the execution and delivery of this Agreement, (i) no downgrading shall have occurred in the rating accorded any securities or preferred stock issued or guaranteed by the Company or any of its subsidiaries by any “nationally recognized statistical rating organization”, as such term is defined under Section 3(a)(62) under the Exchange Act and (ii) no such organization shall have publicly announced that it has under surveillance or review, or has changed its outlook with respect to, its rating of any such securities or preferred stock issued or guaranteed by the Company or any of its subsidiaries (other than an announcement with positive implications of a possible upgrading).
+(d)                                 No Material Adverse Change.
+No event or condition of a type described in Section 3(k) hereof shall have occurred or shall exist, which event or condition is not described in the Time of Sale Information (excluding any amendment or supplement thereto) and the Prospectus (excluding any amendment or supplement thereto) and the effect of which in the judgment of the Representative makes it impracticable or inadvisable to proceed with the offering, sale or delivery of the Securities on the Closing Date or the Additional Closing Date, as
+25
+the case may be, on the terms and in the manner contemplated by this Agreement, the Time of Sale Information and the Prospectus.
+(e)                                  Officer’s Certificate.
+(f)                                   Comfort Letters.
+(g)                                  Opinion and 10b-5 Statement of Counsel for the Company.
+26
+(h)                                 Opinion and 10b-5 Statement of Counsel for the Underwriters.
+(i)                                     No Legal Impediment to Issuance.
+No action shall have been taken and no statute, rule, regulation or order shall have been enacted, adopted or issued by any federal, state or foreign governmental or regulatory authority that would, as of the Closing Date or the Additional Closing Date, as the case may be, prevent the issuance or sale of the Securities; and no injunction or order of any federal, state or foreign court shall have been issued that would, as of the Closing Date or the Additional Closing Date, as the case may be, prevent the issuance or sale of the Securities.
+(j)                                    Good Standing.
+(k)                                 Exchange Listing.
+An application for the listing of the Underlying Securities shall have been submitted to NYSE.
+(l)                                     Lock-up Agreements.
+(m)                             DTC.
+The Securities shall be eligible for clearance and settlement through DTC.
+(n)                                 Additional Documents.
+27
+All opinions, letters, certificates and evidence mentioned above or elsewhere in this Agreement shall be deemed to be in compliance with the provisions hereof only if they are in form and substance reasonably satisfactory to counsel for the Underwriters.
+7.
+Indemnification and Contribution.
+(a)                                 Indemnification of the Underwriters.
+Each of the Company and the Operating Partnership, jointly and severally, agree to indemnify and hold harmless each Underwriter, its affiliates, directors and officers and each person, if any, who controls such Underwriter within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act, from and against any and all losses, claims, damages and liabilities (including, without limitation, legal fees and other expenses incurred in connection with any suit, action or proceeding or any claim asserted, as such fees and expenses are incurred), joint or several, that arise out of, or are based upon, (i) any untrue statement or alleged untrue statement of a material fact contained in the Registration Statement or caused by any omission or alleged omission to state therein a material fact required to be stated therein or necessary in order to make the statements therein, not misleading, (ii) or any untrue statement or alleged untrue statement of a material fact contained in the Prospectus (or any amendment or supplement thereto), any Issuer Free Writing Prospectus, any “issuer information” filed or required to be filed pursuant to Rule 433(d), any “road show” as defined in Rule 433(h) under the Securities Act (a “road show”) or any Time of Sale Information (including any Time of Sale Information that has subsequently been amended), or caused by any omission or alleged omission to state therein a material fact necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading, in each case except insofar as such losses, claims, damages or liabilities arise out of, or are based upon, any untrue statement or omission or alleged untrue statement or omission made in reliance upon and in conformity with any information relating to any Underwriter furnished to the Company in writing by such Underwriter through the Representative expressly for use therein, it being understood and agreed that the only such information furnished by any Underwriter consists of the information described as such in subsection (b) below.
+Each Underwriter agrees, severally and not jointly, to indemnify and hold harmless the Company, its directors, its officers who signed the Registration Statement, the Operating Partnership and each person, if any, who controls the Company and the Operating Partnership within the meaning of Section 15 of the Securities Act or Section 20 of the Exchange Act to the same extent as the indemnity set forth in paragraph (a) above, but only with respect to any losses, claims, damages or liabilities that arise out of, or are based upon, any untrue statement or omission or alleged untrue statement or omission made in reliance upon and in conformity with any information relating to such Underwriter furnished to the Company in writing by such Underwriter through the Representative expressly for use in the Registration Statement, the Prospectus (or any amendment or supplement thereto), any Issuer Free Writing Prospectus, any road show or any Time of Sale Information (including any Time of Sale Information that has subsequently been amended), it being understood and agreed upon that the only such information furnished by any Underwriter consists of the following information in the Prospectus furnished on behalf of each Underwriter: the concession figure appearing in the fourth paragraph of text under the caption “Underwriting,” the information contained in the
+28
+seventh paragraph of text under the caption “Underwriting,” the first two sentences of the second paragraph under the caption “Underwriting — New issue of notes,” and the first sentence of the first paragraph under the caption “Underwriting — Price stabilization and short positions; repurchase of common stock.”
+(c)                                  Notice and Procedures.
+If any suit, action, proceeding (including any governmental or regulatory investigation), claim or demand shall be brought or asserted against any person in respect of which indemnification may be sought pursuant to either paragraph (a) or (b) above, such person (the “Indemnified Person”) shall promptly notify the person against whom such indemnification may be sought (the “Indemnifying Person”) in writing; provided that the failure to notify the Indemnifying Person shall not relieve it from any liability that it may have under paragraph (a) or (b) above except to the extent that it has been materially prejudiced (through the forfeiture of substantive rights or defenses) by such failure; and provided, further, that the failure to notify the Indemnifying Person shall not relieve it from any liability that it may have to an Indemnified Person otherwise than under paragraph (a) or (b) above.
+If any such proceeding shall be brought or asserted against an Indemnified Person and it shall have notified the Indemnifying Person thereof, the Indemnifying Person shall retain counsel reasonably satisfactory to the Indemnified Person (who shall not, without the consent of the Indemnified Person, be counsel to the Indemnifying Person) to represent the Indemnified Person and any others entitled to indemnification pursuant to this Section that the Indemnifying Person may designate in such proceeding and shall pay the fees and expenses in such proceeding and shall pay the fees and expenses of such counsel related to such proceeding, as incurred.
+In any such proceeding, any Indemnified Person shall have the right to retain its own counsel, but the fees and expenses of such counsel shall be at the expense of such Indemnified Person unless (i) the Indemnifying Person and the Indemnified Person shall have mutually agreed to the contrary; (ii) the Indemnifying Person has failed within a reasonable time to retain counsel reasonably satisfactory to the Indemnified Person; (iii) the Indemnified Person shall have reasonably concluded that there may be legal defenses available to it that are different from or in addition to those available to the Indemnifying Person; or (iv) the named parties in any such proceeding (including any impleaded parties) include both the Indemnifying Person and the Indemnified Person and representation of both parties by the same counsel would be inappropriate due to actual or potential differing interests between them.
+It is understood and agreed that the Indemnifying Person shall not, in connection with any proceeding or related proceeding in the same jurisdiction, be liable for the fees and expenses of more than one separate firm (in addition to any local counsel) for all Indemnified Persons, and that all such fees and expenses shall be paid or reimbursed as they are incurred.
+Any such separate firm for any Underwriter, its affiliates, directors and officers and any control persons of such Underwriter shall be designated in writing by the Representative and any such separate firm for the Company, its directors, its officers who signed the Registration Statement and any control persons of the Company shall be designated in writing by the Company.
+The Indemnifying Person shall not be liable for any settlement of any proceeding effected without its written consent, but if settled with such consent or if there be a final judgment for the plaintiff, the Indemnifying Person agrees to indemnify each Indemnified Person from and against any loss or liability by reason of such settlement or judgment.
+Notwithstanding the foregoing sentence, if at any time an Indemnified Person shall have requested that an Indemnifying Person reimburse the Indemnified Person for fees and expenses of counsel as contemplated by this paragraph, the Indemnifying Person shall be liable for any
+29
+No Indemnifying Person shall, without the written consent of the Indemnified Person, effect any settlement of any pending or threatened proceeding in respect of which any Indemnified Person is or could have been a party and indemnification could have been sought hereunder by such Indemnified Person, unless such settlement (x) includes an unconditional release of such Indemnified Person, in form and substance reasonably satisfactory to such Indemnified Person, from all liability on claims that are the subject matter of such proceeding and (y) does not include any statement as to or any admission of fault, culpability or a failure to act by or on behalf of any Indemnified Person.
+(d)                                 Contribution.
+If the indemnification provided for in paragraphs (a) and (b) above is unavailable to an Indemnified Person or insufficient in respect of any losses, claims, damages or liabilities referred to therein, then each Indemnifying Person under such paragraph, in lieu of indemnifying such Indemnified Person thereunder, shall contribute to the amount paid or payable by such Indemnified Person as a result of such losses, claims, damages or liabilities (i) in such proportion as is appropriate to reflect the relative benefits received by the Company and the Operating Partnership, on the one hand, and the Underwriters, on the other, from the offering of the Securities or (ii) if the allocation provided by clause (i) is not permitted by applicable law, in such proportion as is appropriate to reflect not only the relative benefits referred to in clause (i) but also the relative fault of the Company and the Operating Partnership, on the one hand, and the Underwriters, on the other, in connection with the statements or omissions that resulted in such losses, claims, damages or liabilities, as well as any other relevant equitable considerations.
+The relative benefits received by the Company and the Operating Partnership, on the one hand, and the Underwriters, on the other, shall be deemed to be in the same respective proportions as the net proceeds (before deducting expenses) received by the Company and the Operating Partnership from the sale of the Securities and the total underwriting discounts and commissions received by the Underwriters in connection therewith, in each case as set forth in the table on the cover of the Prospectus, bear to the aggregate offering price of the Securities.
+The relative fault of the Company and the Operating Partnership, on the one hand, and the Underwriters, on the other, shall be determined by reference to, among other things, whether the untrue or alleged untrue statement of a material fact or the omission or alleged omission to state a material fact relates to information supplied by the Company, the Operating Partnership or by the Underwriters and the parties’ relative intent, knowledge, access to information and opportunity to correct or prevent such statement or omission.
+(e)                                  Limitation on Liability.
+The Company, the Operating Partnership and the Underwriters agree that it would not be just and equitable if contribution pursuant to this Section 7 were determined by pro rata allocation (even if the Underwriters were treated as one entity for such purpose) or by any other method of allocation that does not take account of the equitable considerations referred to in paragraph (d) above.
+The amount paid or payable by an Indemnified Person as a result of the losses, claims, damages and liabilities referred to in paragraph (d) above shall be deemed to include, subject to the limitations set forth above, any legal or other expenses incurred by such Indemnified Person in connection with any such action or claim.
+Notwithstanding the provisions of this Section 7, in no event shall an Underwriter be
+30
+required to contribute any amount in excess of the amount by which the total underwriting discounts and commissions received by such Underwriter with respect to the offering of the Securities exceeds the amount of any damages that such Underwriter has otherwise been required to pay by reason of such untrue or alleged untrue statement or omission or alleged omission.
+No person guilty of fraudulent misrepresentation (within the meaning of Section 11(f) of the Securities Act) shall be entitled to contribution from any person who was not guilty of such fraudulent misrepresentation.
+The Underwriters’ obligations to contribute pursuant to this Section 7 are several in proportion to their respective purchase obligations hereunder and not joint.
+(f)                                   Non-Exclusive Remedies.
+The remedies provided for in this Section 7 are not exclusive and shall not limit any rights or remedies which may otherwise be available to any Indemnified Person at law or in equity.
+8.
+Effectiveness of Agreement.
+This Agreement shall become effective as of the date first written above.
+9.
+Termination.
+10.
+Defaulting Underwriter.
+(a)                                 If, on the Closing Date or the Additional Closing Date, as the case may be, any Underwriter defaults on its obligation to purchase the Securities that it has agreed to purchase hereunder on such date, the non-defaulting Underwriters may in their discretion arrange for the purchase of such Securities by other persons satisfactory to the Company on the terms contained in this Agreement.
+If other persons become obligated or agree to purchase the Securities of a defaulting Underwriter, either the non-defaulting Underwriters or the Company may postpone the Closing Date or the Additional Closing Date, as the case may be, for up to five full business days in order to effect any changes that in the opinion of counsel for the Company or counsel for the Underwriters may be necessary in the Registration Statement, the Time of Sale Information and the Prospectus or in any other document or
+31
+arrangement, and the Company agrees to promptly prepare any amendment or supplement to the Registration Statement, the Time of Sale Information and the Prospectus that effects any such changes.
+As used in this Agreement, the term “Underwriter” includes, for all purposes of this Agreement unless the context otherwise requires, any person not listed in Schedule 1 hereto that, pursuant to this Section 10, purchases Securities that a defaulting Underwriter agreed but failed to purchase.
+(d)                                 Nothing contained herein shall relieve a defaulting Underwriter of any liability it may have to the Company or any non-defaulting Underwriter for damages caused by its default.
+11.
+(a)                                 Whether or not the transactions contemplated by this Agreement are consummated or this Agreement is terminated, the Company will pay or cause to be paid all costs and expenses incident to the performance of its obligations hereunder, including without limitation, (i) the costs incident to the authorization, issuance, sale, preparation and delivery of the Securities and any taxes payable in that connection; (ii) the costs incident to the preparation, printing and filing under the Securities Act of the Registration Statement, the Preliminary Prospectus, any Issuer Free Writing Prospectus, any Time of Sale Information and the Prospectus (including all exhibits, amendments and supplements thereto) and the distribution thereof; (iii) the costs of reproducing and distributing each of the Transaction Documents; (iv) the fees and expenses of the Company’s counsel and independent accountants; (v) the fees and expenses
+32
+incurred in connection with the registration or qualification and determination of eligibility for investment of the Securities under the laws of such jurisdictions as the Representative may designate and the preparation, printing and distribution of a Blue Sky Memorandum (including the related fees and expenses of counsel for the Underwriters); (vi) any fees charged by rating agencies for rating the Securities; (vii) the fees and expenses of the Trustee and any paying agent (including related fees and expenses of any counsel to such parties); (viii) all expenses and application fees incurred in connection with any filing with, and clearance of the offering by, FINRA in an amount not to exceed $5,000 and the approval of the Securities for book-entry transfer by DTC; (ix) all expenses incurred by the Company in connection with any “road show” presentation to potential investors; and (x) all expenses and application fees related to the listing of the Underlying Securities on NYSE.
+12.
+Persons Entitled to Benefit of Agreement.
+This Agreement shall inure to the benefit of and be binding upon the parties hereto and their respective successors and the officers and directors and any controlling persons referred to herein, and the affiliates of each Underwriter referred to in Section 7 hereof.
+Nothing in this Agreement is intended or shall be construed to give any other person any legal or equitable right, remedy or claim under or in respect of this Agreement or any provision contained herein.
+No purchaser of Securities from any Underwriter shall be deemed to be a successor merely by reason of such purchase.
+13.
+Survival.
+The respective indemnities, rights of contribution, representations, warranties and agreements of the Company, the Operating Partnership and the Underwriters contained in this Agreement or made by or on behalf of the Company, the Operating Partnership or the Underwriters pursuant to this Agreement or any certificate delivered pursuant hereto shall survive the delivery of and payment for the Securities and shall remain in full force and effect, regardless of any termination of this Agreement or any investigation made by or on behalf of the Company, the Operating Partnership or the Underwriters.
+14.
+Certain Defined Terms.
+For purposes of this Agreement, (a) except where otherwise expressly provided, the term “affiliate” has the meaning set forth in Rule 405 under the Securities Act; (b) the term “business day” means any day other than a day on which banks are permitted or required to be closed in New York City; (c) the term “subsidiary” has the meaning set forth in Rule 405 under the Securities Act; and (d) the term “significant subsidiary” has the meaning set forth in Rule 1-02 of Regulation S-X under the Exchange Act.
+15.
+Compliance with USA Patriot Act.
+In accordance with the requirements of the USA Patriot Act, the Underwriters are required to obtain, verify and record information that identifies their respective clients, including the Company, which information may include the
+33
+name and address of their respective clients, as well as other information that will allow the Underwriters to properly identify their respective clients.
+16.
+Miscellaneous.
+(a)                                 Authority of the Representative.
+Any action by the Underwriters hereunder may be taken by the Representative on behalf of the Underwriters, and any such action taken by the Representative shall be binding upon the Underwriters.
+(c)                                  Governing Law.
+This Agreement and any claim, controversy or dispute arising under or related to this Agreement shall be governed by and construed in accordance with the laws of the State of New York.
+(d)                                 Waiver of Jury Trial.
+Each of the parties hereto hereby waives any right to trial by jury in any suit or proceeding arising out of or relating to this Agreement.
+(e)                                  Counterparts.
+This Agreement may be signed in counterparts (which may include counterparts delivered by any standard form of telecommunication), each of which shall be an original and all of which together shall constitute one and the same instrument.
+(f)                                   Amendments or Waivers.
+No amendment or waiver of any provision of this Agreement, nor any consent or approval to any departure therefrom, shall in any event be effective unless the same shall be in writing and signed by the parties hereto.
+(g)                                  Headings.
+The headings herein are included for convenience of reference only and are not intended to be part of, or to affect the meaning or interpretation of, this Agreement.
+34
+If the foregoing is in accordance with your understanding, please indicate your acceptance of this Agreement by signing in the space provided below.
+Very truly yours,
+By:
+/s/ Ivan Kaufman
+Name:
+Ivan Kaufman
+Title:
+Chief Executive Officer and President
+By:
+General Partner
+By:
+/s/ Ivan Kaufman
+Name:
+Ivan Kaufman
+Title:
+Chief Executive Officer and President
+Accepted: As of the date first written above, on behalf of itself and the several other Underwriters named on Schedule 1 hereto:
+J.P. MORGAN SECURITIES LLC
+By:
+/s/ Kevin Cheng
+Name:
+Kevin Cheng
+Title:
+Vice President
+Schedule 1
+Underwriter
+Principal Amount
+J.P. Morgan Securities LLC
+$
+JMP Securities LLC
+$
+$
+Total:
+$
+Schedule 2
+Significant Subsidiaries
+Name
+Jurisdiction of
+Organization
+Type of Entity
+Delaware
+Corporation
+Arbor Realty Limited Partnership
+Delaware
+Arbor Realty SR, Inc.
+Maryland
+Corporation
+Arbor Realty Commercial Real Estate Notes 2015-FL2, Ltd.
+Cayman Islands
+Exempted Company with Limited Liability
+Arbor Realty Commercial Real Estate Notes 2015-FL1, Ltd.
+Cayman Islands
+Exempted Company with Limited Liability
+Arbor Realty Commercial Real Estate Notes 2016-FL1, Ltd.
+Cayman Islands
+Exempted Company with Limited Liability
+Arbor Realty Commercial Real Estate Notes 2017-FL1, Ltd.
+Cayman Islands
+Exempted Company with Limited Liability
+Arbor Realty Commercial Real Estate Notes 2017-FL2, Ltd.
+Cayman Islands
+Exempted Company with Limited Liability
+ARSR Alpine LLC
+Delaware
+Corporation
+Schedule 3
+Joint Venture
+Name
+Percentage
+Ownership
+Jurisdiction of
+Organization
+Type of Entity
+Richland Terrace Apartments , LLC
+%
+South Carolina
+Limited Liability Company
+ABT ESI, LLC
+%
+Delaware
+Limited Liability Company
+420 Fifth Associates, LLC
+%
+Delaware
+Limited Liability Company
+Legacy Equity Investment Group LLC
+%
+Delaware
+Limited Liability Company
+Arbor Realty Holdings LLC
+%
+Delaware
+Limited Liability Company
+PE 25 LLC
+%
+Delaware
+Limited Liability Company
+Lexford Pools 1/3 LLC
+%
+Delaware
+Limited Liability Company
+AR Prime
+66.67
+%
+Delaware
+Limited Liability Company
+JT Prime
+%
+Delaware
+Limited Liability Company
+WSC Investors, LLC
+%
+Delaware
+Limited Liability Company
+%
+Delaware
+Limited Liability Company
+Empirian Highlands, LP
+%
+Tennessee
+Limited Partnership
+Empirian Wildewood LLC
+%
+Georgia
+Limited Liability Company
+Empirian at Park Row LLLP
+%
+Delaware
+Limited Liability Limited Partnership
+ARSR East Rider Portfolio Holdings LLC
+%
+Delaware
+Limited Liability Company
+Schedule 4
+Parties Signing Lock-Up Agreements
+1.
+Arbor Commercial Mortgage, LLC
+2.
+Ivan Kaufman
+3.
+Paul Elenio
+4.
+Fred Weber
+5.
+Gene Kilgore
+6.
+John J. Bishar, Jr.
+7.
+Andy Guziewicz
+8.
+John Natalone
+9.
+Thomas Murphy
+10.
+Bonnie Habyan
+11.
+Daniel P. Kenny
+12.
+Thomas Ridings
+13.
+John Caulfield
+14.
+Melvin F. Lazar
+15.
+George Tsunis
+16.
+Karen K. Edwards
+17.
+William Helmreich
+18.
+William C. Green
+19.
+Archie R. Dykes
+20.
+Joseph Martello
+Annex A
+Term sheet containing the terms of the Securities, substantially in the form of Annex B.
+Annex B
+PRICING TERM SHEET
+The information in this pricing term sheet relates only to Arbor Realty Trust, Inc.’s offering (the “offering”) of its 5.375% Convertible Senior Notes due 2020 and should be read together with the preliminary prospectus supplement dated November 7, 2017 relating to the offering (the “preliminary prospectus supplement”) and the related base prospectus dated July 26, 2016, filed pursuant to Rule 424(b) under the Securities Act of 1933, as amended, including the documents incorporated by reference therein.
+The information in this pricing term sheet updates and, to the extent inconsistent, supersedes the information in the preliminary prospectus supplement and the accompanying prospectus.
+You should read the entire preliminary prospectus supplement, accompanying prospectus and documents incorporated by reference therein carefully, especially the “Risk Factors” sections and the consolidated financial statements and related schedules and notes, before deciding to invest in our securities.
+Terms used but not defined herein have the meanings given in the preliminary prospectus supplement.
+Issuer:
+Ticker / Exchange for common stock:
+Title of securities:
+Aggregate principal amount offered:
+Maturity date:
+Interest:
+Conversion premium:
+Initial conversion rate:
+Aggregate underwriting discount:
+Adjustment to conversion rate upon conversion upon a make-whole fundamental change
+If and only to the extent a holder elects to convert its notes in connection with a make-whole fundamental change (as defined under “Description of notes—Conversion rights—Increase in conversion rate upon conversion upon a make-whole fundamental change” in the preliminary prospectus supplement), the Issuer will, under certain circumstances, increase the conversion rate by a number of additional shares of common stock.
+Effective Date
+7.0272
+1.0662
+8.3139
+The exact stock prices and effective dates may not be set forth in the table above, in which case:
+·                  If the stock price is between two stock prices in the table or the effective date is between two effective dates in the table, the number of additional shares by which the conversion rate will be increased will be determined by a straight-line interpolation between the number of additional shares set forth for the higher and lower stock prices and the earlier and later effective dates, as applicable, based on a 365-day year.
+Use of proceeds:
+The Issuer intends to use the net proceeds of this offering to make investments relating to its business and for general corporate purposes.
+indebtedness; however, the Issuer has no current commitments or obligations to do so.
+Pending application of the net proceeds as described above, the Issuer intends to invest the proceeds in interest-bearing accounts and short-term interest-bearing securities that are consistent with the Issuer’s qualification as a REIT.
+Trade date:
+Joint book-running managers:
+J.P. Morgan Securities LLC, JMP Securities LLC and Merrill Lynch, Pierce, Fenner & Smith Incorporated
+038923 AB4 / US038923AB43
+No listing:
+The notes will not be listed on any securities exchange.
+* Under Rule 15c6-1 under the Exchange Act, trades in the secondary market generally are required to settle in two business days, unless the parties to any such trade expressly agree otherwise.
+Accordingly, purchasers who wish to trade notes on the date of pricing will be required, by virtue of the fact that the notes initially will settle T + 3, to specify an alternate settlement cycle at the time of any such trade to prevent a failed settlement.
+The Issuer has filed a registration statement (including a base prospectus and a preliminary prospectus supplement) with the SEC for the offering to which this communication relates.
+Before you invest, you should read the preliminary prospectus supplement and the accompanying prospectus, and the information incorporated therein by reference, and other documents the Issuer has filed with the SEC for more complete information about the Issuer and this offering.
+ANY DISCLAIMERS OR OTHER NOTICES THAT MAY APPEAR BELOW ARE NOT APPLICABLE TO THIS COMMUNICATION AND SHOULD BE DISREGARDED.
+Annex C-1
+Form of Opinion of Venable LLP
+Annex C-2
+Form of Opinion of Skadden, Arps, Slate, Meagher & Flom LLP
+Form of 10b-5 Statement of Skadden, Arps, Slate, Meagher & Flom LLP
+Annex C-3
+Form of Tax Opinion of Skadden, Arps, Slate, Meagher & Flom LLP
+Annex C-4
+Form of Opinion of Allen & Overy LLP
+Exhibit A
+Form of Lock-Up Agreement
+November    , 2017
+J.P. Morgan Securities LLC
+As Representative of the
+several Underwriters
+listed in Schedule 1 to the Underwriting Agreement
+referred to below
+c/o J.P. Morgan Securities LLC
+383 Madison Avenue
+New York, New York 10179
+Ladies and Gentlemen:
+Capitalized terms used herein and not otherwise defined shall have the meanings set forth in the Underwriting Agreement.
+In consideration of the Underwriters’ agreement to purchase and make the Public Offering of the Securities, and for other good and valuable consideration, receipt of which is hereby acknowledged, the undersigned hereby agrees that, without the prior written consent of J.P. Morgan Securities LLC on behalf of the Underwriters, the undersigned will not, during the period beginning on the date of this letter agreement (this “Letter Agreement”) and ending 45 days after the date of the final prospectus supplement relating to the Public Offering (such period, the “Restricted Period”), (1) offer, pledge, sell, contract to sell, sell any option or contract to purchase, purchase any option or contract to sell, grant any option, right or warrant to purchase, or otherwise transfer or dispose of, directly or indirectly, any shares of Common Stock or any securities convertible into or exercisable or exchangeable for Common Stock (including without limitation, Common Stock or such other securities which may be deemed to be beneficially owned by the undersigned in accordance with the rules and regulations of the Securities and Exchange Commission and securities which may be issued upon exercise of a stock option or warrant), or publicly disclose the intention to make any offer, sale, pledge or disposition, (2) enter into any swap or other agreement that transfers, in whole or in part, any of the economic consequences of ownership of the Common Stock or such other securities, whether
+any such transaction described in clause (1) or (2) above is to be settled by delivery of Common Stock or such other securities, in cash or otherwise or (3) make any demand for or exercise any right with respect to, the registration of any shares of Common Stock or any security convertible into or exercisable or exchangeable for Common Stock.
+Notwithstanding the restrictions noted above, the undersigned may transfer Common Stock or any securities convertible into or exercisable or exchangeable for Common Stock (including without limitation, Common Stock or such other securities which may be deemed to be beneficially owned by the undersigned in accordance with the rules and regulations of the Securities and Exchange Commission and securities which may be issued upon exercise of a stock option or warrant): (i) as a bona fide gift or gifts, (ii) by will or intestacy, (iii) to any trust, partnership, limited liability company or other entity for the direct or indirect benefit of the undersigned or the immediate family of the undersigned (for purposes of this Letter Agreement, “immediate family” shall mean any relationship by blood, current or former marriage or adoption, not more remote than first cousin), (iv) to any immediate family member or other dependent, (v) to a nominee or custodian of a person or entity to whom transfers would be permitted under clauses (i) through (iv) above, (vi) pursuant to an order of a court or regulatory agency, and (vii) if the undersigned is an executive officer, to the Company upon death, disability, or termination of employment, in each case, of such executive officer; provided that (a) in the case of any transfer or distribution pursuant to clauses (i) through (v) above, each donee or distributee shall execute and deliver to J.P. Morgan Securities LLC a lock-up letter in the form of this Letter Agreement and (b) in the case of any transfer or distribution pursuant to clauses (i) through (v) above, such transfer or distribution shall not be for value; and provided, further, that in the case of any transfer or distribution pursuant to clauses (i), (iii), (iv) and (v), during the Restricted Period no public reports or filings (including filings under Section 16(a) of the Securities Exchange Act of 1934, as amended (the “Exchange Act”)) reporting a reduction in beneficial ownership of Common Stock shall be required or voluntarily made; and provided further, that in the case of any transfer or distribution pursuant to clauses (ii), (vi) and (vii) above, during the Restricted Period, no public reports or filings (including filings under Section 16(a) of the Exchange Act) reporting a reduction in beneficial ownership of Common Stock shall be voluntarily made, and any such reports or filings required under Section 16(a) of the Exchange Act shall indicate in the notes thereto or otherwise that the filing relates to the circumstances described in clauses (ii), (vi) or (vii), as applicable.
+](1)
+(1) To be included in the Arbor Commercial Mortgage, LLC lock-up only.
+In furtherance of the foregoing, the Company, and any duly appointed transfer agent for the registration or transfer of the securities described herein, are hereby authorized to decline to make any transfer of securities if such transfer would constitute a violation or breach of this Letter Agreement.
+The undersigned hereby represents and warrants that the undersigned has full power and authority to enter into this Letter Agreement.
+All authority herein conferred or agreed to be conferred and any obligations of the undersigned shall be binding upon the successors, assigns, heirs or personal representatives of the undersigned.
+The undersigned understands that the Underwriters are entering into the Underwriting Agreement and proceeding with the Public Offering in reliance upon this Letter Agreement.
+This Letter Agreement and any claim, controversy or dispute arising under or related to this Letter Agreement shall be governed by and construed in accordance with the laws of the State of New York.
+Very truly yours,
+Name of Securityholder (Print exact name)
+By:
+Signature
+Name of Authorized Signatory (Print)
+Title of Authorized Signatory (Print)
+(indicate capacity of person signing if signing as custodian, trustee, or on behalf of an entity)

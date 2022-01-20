@@ -1,0 +1,161 @@
+1.
+Employment, Term.
+2.
+3.
+3.3  Specific Equity Awards.
+2
+3.4  Other Equity Awards.
+3
+3.5  Taxes.
+4.
+Benefits.
+4.1  Retirement and Other Benefit Plans Generally.
+4.2  Insurance, Generally.
+life, disability, etc.)
+5.
+6.
+Termination.
+6.1  Death or Disability.
+Executive’s employment under this Agreement will terminate immediately upon Executive’s death.
+DDR may terminate Executive’s employment under this Agreement immediately upon giving notice of termination if Executive is Totally Disabled (as that term is defined in Section 9.1 below) for an aggregate of 120 days in any consecutive 12 calendar months or for 90 consecutive days.
+6.2  For Cause by DDR.
+(a)  During the Contract Period while Executive is employed by DDR, DDR may terminate Executive’s employment under this Agreement for “Cause” at any time upon the occurrence of any of the following circumstances:
+4
+(i)  (A) Executive commits a fraud or a felony or an act that is not or a series of acts that are not taken in good faith and (B) the commission of such fraud, felony or act or series of acts results in material injury to the business reputation of DDR.
+(ii)  Executive commits an act or series of repeated acts of dishonesty that are materially inimical to the best interests of DDR.
+(iii)  Other than as a result of disability, Executive consistently fails to perform Executive’s duties and responsibilities as specified in Sections 1 and 2 above and the failure continues for 15 days after DDR has advised Executive in writing of that failure.
+(iv)  Executive has materially breached any provision of this Agreement (other than Section 1 or 2 above, as to any breach of which Section 6.2(a)(iii) would apply) and the breach has not been cured in all substantial respects within 30 days after DDR has advised Executive in writing of the nature of the breach.
+(b)  The termination of Executive’s employment under this Agreement shall not be deemed to be for “Cause” pursuant to this Section 6.2 unless and until there shall have been delivered to Executive a copy of a resolution duly adopted by the affirmative vote of not less than three-fourths of the entire membership of the Board (other than Executive) at a meeting of the Board called and held for such purpose (after reasonable notice is provided to Executive and Executive is given an opportunity, together with counsel, to be heard before the Board) finding that, in the good faith opinion of the Board, Executive is guilty of the conduct described in Sections 6.2(a)(i), (ii), (iii) or (iv) above, and specifying the particulars thereof in detail.
+6.3  For Good Reason by Executive.
+During the Contract Period while Executive is employed by DDR, Executive may terminate Executive’s employment under this Agreement for “Good Reason” if any of the following circumstances occur:
+(a)  DDR materially changes Executive’s duties and responsibilities from those set forth in Section 1 above and the change has not been rescinded to Executive’s satisfaction within 15 days after Executive has advised DDR in writing of dissatisfaction with the change.
+(b)  DDR changes Executive’s place of employment or its principal executive offices to a location that is more than 50 miles from the geographical center of Cleveland, Ohio.
+(c)  DDR materially reduces Executive’s remuneration from that set forth in Section 3 above and the reduction has not been rescinded to Executive’s satisfaction within 15 days after Executive has advised DDR in writing of dissatisfaction with the reduction.
+(d)  DDR materially breaches any of its obligations under this Agreement (other than its obligations under Section 1 above, as to any breach of which Section 6.3(a) would apply) and the breach is not cured in all material respects within 30 days after Executive has advised DDR in writing of the breach.
+6.4  Without Cause by DDR.
+During the Contract Period while Executive is employed by DDR, DDR may terminate Executive’s employment under this Agreement at any time without Cause
+5
+pursuant to written notice provided to Executive not less than 90 days in advance of such termination.
+Any termination under this Section 6.4 will be effective at such time during the Contract Period while Executive is employed by DDR as may be specified in that written notice.
+6.5  Without Good Reason by Executive.
+During the Contract Period while Executive is employed by DDR, Executive may terminate Executive’s employment under this Agreement at any time without Good Reason pursuant to written notice provided to DDR not less than 90 days in advance of such termination.
+Any termination under this Section 6.5 will be effective at such time during the Contract Period while Executive is employed by DDR as Executive may specify in that written notice.
+7.
+Payments upon Termination.
+7.1  Upon Termination For Cause or Without Good Reason.
+If Executive’s employment under this Agreement is terminated by DDR for Cause or by Executive without Good Reason during the Contract Period, DDR will pay and provide to Executive the Executive’s Base Salary through the Termination Date to the extent not already paid and continuing health, dental and vision insurance and other insurance (e.g.
+life, disability, etc.)
+7.2  Upon Termination Without Cause or For Good Reason.
+If Executive’s employment under this Agreement is terminated by DDR without Cause or by Executive for Good Reason during the Contract Period and Section 7.5 does not apply, DDR will pay and provide to Executive the amounts and benefits specified in this Section 7.2, except that DDR will not be obligated to pay the lump sum amount specified in Section 7.2(d) unless either (x) DDR is deemed to have waived the obligation to provide a Release as provided in Section 8.2 or (y) Executive has timely executed a Release as contemplated by Section 8.3.
+DDR will pay this amount to Executive within 30 days of the Termination Date.
+(b)  A lump sum amount equal to Executive’s Annual Bonus earned for the calendar year immediately preceding the calendar year in which the Termination Date occurs, to the extent not already paid.
+DDR will pay this amount to Executive on the same date and in the same amount that the Annual Bonus for such year would have been paid if Executive’s employment had not been terminated, but in any event not later than March 15 of the calendar year in which the Termination Date occurs.
+(c)  A lump sum amount equal to Executive’s Annual Bonus for the calendar year in which the Termination Date occurs at the “target” level, pro-rated based on the number of days that elapse between January 1 of such year and the Termination Date.
+Subject to Section 13.1, DDR will pay this amount to Executive within 30 days of the Termination Date.
+6
+in effect for Executive as of the Termination Date.
+DDR will pay this amount to Executive during the Seventh Month after the Termination Date.
+(f)  Outplacement services and support, the reasonable scope and provider of which will be selected by DDR, for a period of one year following the Termination Date; provided, that Executive must first utilize such outplacement services and support within 90 days following the Termination Date.
+7.3 Upon Termination by Reason of Death.
+If Executive’s employment under this Agreement is terminated by reason of Executive’s death during the Contract Period, DDR will pay, or cause to be paid, and provide, or cause to be provided, to Executive’s personal representative and Executive’s eligible dependents, as appropriate, the amounts and benefits specified in this Section 7.3, except that DDR will not be obligated to pay the lump sum amount specified in Section 7.3(d) unless either (x) DDR is deemed to have waived the obligation to provide a Release as provided in Section 8.2 or (y) Executive’s personal representative has timely executed a Release as contemplated by Section 8.3.
+DDR will pay this amount to Executive’s personal representative within 30 days of the Termination Date.
+(b)  A lump sum amount equal to Executive’s Annual Bonus earned for the calendar year immediately preceding the calendar year in which the Termination Date occurs, to the extent not already paid.
+DDR will pay this amount to Executive’s personal representative on the same date and in the same amount that the Annual Bonus for such year would have been paid if Executive’s employment had not been terminated, but in any event not later than March 15 of the calendar year in which the Termination Date occurs.
+(c)  A lump sum amount equal to Executive’s Annual Bonus for the calendar year in which the Termination Date occurs at the “target” level, pro-rated based on the number of days that elapse between January 1 of such year and the Termination Date.
+Subject to
+7
+life, disability, etc.)
+in effect for Executive as of Executive’s death.
+7.4  Upon Termination by Reason of Disability.
+If Executive’s employment under this Agreement is terminated by DDR pursuant to Section 6.1 during the Contract Period following Executive’s disability, DDR will pay and provide to Executive and Executive’s eligible dependents, as appropriate, the amounts and benefits specified in this Section 7.4.
+DDR will pay this amount to Executive within 30 days of the Termination Date.
+(b)  A lump sum amount equal to Executive’s Annual Bonus earned for the calendar year immediately preceding the calendar year in which the Termination Date occurs, to the extent not already paid.
+DDR will pay this amount to Executive on the same date and in the same amount that the Annual Bonus for such year would have been paid if Executive’s employment had not been terminated, but in any event not later than March 15 of the calendar year in which the Termination Date occurs.
+(c)  A lump sum amount equal to Executive’s Annual Bonus for the calendar year in which the Termination Date occurs at the “target” level, pro-rated based on the number of days that elapse between January 1 of such year and the Termination Date.
+Subject to Section 13.1, DDR will pay this amount to Executive within 30 days of the Termination Date.
+in effect for Executive as of the Termination Date.
+DDR will pay this amount to Executive during the Seventh Month after the Termination Date.
+7.5  Upon Termination In Connection With a Change in Control.
+DDR will pay this amount to Executive within 30 days of the Termination Date.
+(b)  A lump sum amount equal to Executive’s Annual Bonus earned for the calendar year immediately preceding the calendar year in which the Termination Date occurs, to the extent not already paid.
+DDR will pay this amount to Executive on the same date and in the same amount that the Annual Bonus for such year would have been paid if Executive’s employment had not been terminated, but in any event not later than March 15 of the calendar year in which the Termination Date occurs.
+(c)  A lump sum amount equal to Executive’s Annual Bonus for the calendar year in which the Termination Date occurs at the “target” level, pro-rated based on the number of days that elapse between January 1 of such year and the Termination Date.
+Subject to Section 13.1, DDR will pay this amount to Executive within 30 days of the Termination Date.
+in effect for Executive as of the Termination Date.
+DDR will pay this amount to Executive during the Seventh Month after the Termination Date.
+(f)  Outplacement services and support, the reasonable scope and provider of which will be selected by DDR, for a period of one year following the Termination Date; provided, that Executive must first utilize such outplacement services and support within 90 days following the Termination Date.
+9
+8.
+This Section 8 will apply only upon termination of Executive’s employment during the Contract Period (a) by reason of Executive’s death, (b) by DDR without Cause or (c) by Executive for Good Reason.
+8.2  Effect of Failure by DDR to Present Release.
+8.4  Effect of Failure to Execute Release or of Revocation of Release.
+9.
+(a)  Executive’s “Own Occupation” means the regular occupation in which Executive is engaged under this Agreement at the time Executive becomes disabled.
+(b)  “Total Disability” means that, because of sickness or injury, Executive is not able to perform the material and substantial duties of Executive’s Own Occupation.
+10
+(c)  “Totally Disabled” means that Executive suffers from Total Disability (and Executive will be deemed to continue to be Totally Disabled so long as Executive is not able to work in Executive’s Own Occupation even if he works in some other capacity).
+10.
+DDR’s obligation to make the payments provided for in this Agreement and otherwise to perform its obligations under this Agreement will not be affected by any set‑off, counterclaim, recoupment, defense, or other claim whatsoever that DDR or any Subsidiary may have against Executive, except that the prohibition on set-off, counterclaim, recoupment, defense, or other claim contained in this sentence will not apply if Executive’s employment is terminated by DDR for Cause.
+11.
+If Executive becomes entitled to receive payments under this Agreement as a result of termination of Executive’s employment, those payments will be in lieu of any and all other claims or rights that Executive may have against DDR for severance, separation, and/or salary continuation pay upon that termination of Executive’s employment.
+12.
+12.1    Noncompetition.
+11
+12.3  Nonsolicitation.
+12.5  Acknowledgement.
+13.
+13.1  Six Month Delay on Certain Payments, Benefits, and Reimbursements.
+12
+during the period of 30 consecutive days beginning on the first business day after the Six Month Date (that period of 30 consecutive days, the “Seventh Month after the Termination Date”), except that if Executive dies before the Six Month Date, the payments, benefits, or reimbursements will be accumulated only through the date of Executive’s death and thereafter paid or provided not later than 30 days after the date of death.
+13.3  Additional Limitations on Reimbursements and In-Kind Benefits.
+13.5  Termination of Employment to Constitute a Separation from Service.
+The parties intend that the phrase “termination of employment” and words and phrases of similar import mean a “separation from service” with DDR within the meaning of Section 409A.
+Executive and DDR will take all steps necessary (including taking into account this Section 13.5 when considering any further agreement regarding provision of services by Executive to DDR after the Termination Date) to ensure that (a) any termination of employment under this Agreement constitutes a “separation from service” within the meaning of Section 409A, and (b) the Termination Date is
+13
+the date on which Executive experiences a “separation from service” within the meaning of Section 409A.
+14.
+15.
+16.
+Except as is otherwise expressly provided in this Agreement, the respective obligations of DDR and Executive under this Agreement will survive any termination of Executive’s employment under this Agreement.
+17.
+18.
+19.
+19.1  Scope of Arbitration.
+20.
+15
+conditions of this Agreement except, to the extent applicable,  that certain Form B Non-Compete and Confidentiality Agreement dated February 3, 2014 between Executive and Dick’s Sporting Goods, Inc. (the “Prior Agreement”).
+20.2  Assistance.
+Executive will be entitled to reimbursement of reasonable out-of-pocket travel or related costs and expenses relating to any such cooperation or assistance that occurs following the Termination Date.
+20.3  Severability.
+20.5  No Waiver.
+20.6  Modification.
+This Agreement may not be modified or terminated orally.
+No modification or termination will be valid unless in writing and signed by the party against which the modification or termination is sought to be enforced.
+20.7  Merger or Transfer of Assets of DDR.
+20.9  Termination of Status as Director or Officer.
+Notwithstanding anything in this Agreement to the contrary, unless otherwise agreed to by DDR and Executive prior to the Termination Date, Executive shall be deemed to have automatically resigned from all directorships and offices with DDR and its Subsidiaries, and their affiliates (including joint ventures), as of the Termination Date.
+21.
+21.1  Reserved.
+21.2  Reserved.
+21.3  Cause.
+21.4  Change in Control.
+(a)  consummation of a consolidation or merger in which DDR is not the surviving corporation, the sale of substantially all of the assets of DDR, or the liquidation or dissolution of DDR;
+(b)  any person or other entity (other than DDR or a Subsidiary or any DDR employee benefit plan (including any trustee of any such plan acting in its capacity as trustee)) purchases any Shares (or securities convertible into Shares) pursuant to a tender or exchange offer without the prior consent of the Board, or becomes the beneficial owner of securities of DDR representing 30% or more of the voting power of DDR’s outstanding securities without the prior consent of the Board; or
+(c)  during any two-year period, individuals who at the beginning of such period constitute the entire Board cease to constitute a majority of the Board; provided, that any person becoming a director of DDR during such two-year period whose election, or nomination for election by DDR’s shareholders, was approved by a vote of at least two-thirds of the directors who at the beginning of such period constituted the entire Board (either by a specific vote or by approval of DDR’s proxy statement in which such person is named as a nominee of DDR for director), but excluding for this purpose any person whose initial assumption of office as a director of DDR occurs as a result of either an actual or threatened election contest with respect to the election or removal of directors of DDR or other actual or threatened solicitation of proxies or consents by or on behalf of an individual, corporation, partnership, group, associate or other entity or person
+21.6  Reserved.
+21.7  Reserved.
+21.8  Good Reason.
+21.10  Reserved.
+21.11  Section.
+21.12  Section 409A.
+21.15  Termination Date.
+The term “Termination Date” means the date on which Executive’s employment with DDR and its Subsidiaries terminates.
+21.16  Triggering Event.
+A “Triggering Event” for the purpose of this Agreement will be deemed to have occurred if, during the Contract Period while Executive is employed by DDR:
+(a)  Within two years after the date on which a Change in Control occurs, DDR terminates the employment of Executive, other than in the case of a termination for Cause, a termination by DDR pursuant to Section 6.1 following Executive’s disability, or a termination based on death;
+(b)  Within two years after the date on which a Change in Control occurs, DDR reduces Executive’s title, responsibilities, power, or authority in comparison with Executive’s title, responsibilities, power or authority at the time of the Change in Control and Executive thereafter terminates Executive’s employment with DDR within such two-year period;
+(c)  Within two years after the date on which a Change in Control occurs, DDR assigns Executive duties which are inconsistent with the duties assigned to Executive on the date on which the Change in Control occurred and which duties DDR persists in assigning to Executive despite the prior written objection of Executive and Executive thereafter terminates Executive’s employment with DDR within such two-year period;
+(d)  Within two years after the date on which a Change in Control occurs, DDR (i) reduces Executive’s base compensation, Executive’s incentive opportunity bonus percentages of salary, Executive’s health and dental insurance coverage and benefits (including any such benefits provided to Executive’s eligible dependents), Executive’s pension, retirement, or profit-sharing benefits or any benefits provided by any of DDR’s equity-based award plans, or any substitute therefor, unless in any case such reduction applies generally to all employees of DDR, (ii) establishes criteria and factors to be achieved for the payment of bonus compensation that are substantially different than the criteria and factors established for other similar executive officers of DDR, (iii) fails to pay Executive any bonus compensation to which Executive is entitled through the achievement of the criteria and factors established for the payment of such bonus, or (iv) excludes Executive from any plan, program, or arrangement in which the other executive officers of DDR are included, and Executive thereafter terminates Executive’s employment with DDR within such two-year period; or
+(e)  Within two years after the date on which a Change in Control occurs, DDR requires Executive to be based at or generally work from any location more than fifty miles from the geographical center of Cleveland, Ohio and Executive thereafter terminates Executive’s employment with DDR within such two-year period.
+21.17  Reserved.
+[THE REMAINDER OF THIS PAGE INTENTIONALLY LEFT BLANK]

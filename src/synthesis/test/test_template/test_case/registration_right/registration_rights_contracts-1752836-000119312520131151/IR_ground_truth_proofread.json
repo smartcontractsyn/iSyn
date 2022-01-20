@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "RegistrationRight Agreement",
+    "SellerName": [
+        "Covetrus, Inc."
+    ],
+    "BuyerName": [
+        "CD&R VFC Holdings, L.P."
+    ],
+    "EffectiveTime": [
+        "April 30, 2020"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        "July 31, 2020"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "CD&R VFC Holdings, L.P."
+            ],
+            "To": [
+                "Covetrus, Inc."
+            ],
+            "PurchasePrice": "250000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "ADOLOR CORPORATION"
+    ],
+    "BuyerName": [
+        "CUBIST PHARMACEUTICALS"
+    ],
+    "EffectiveTime": [
+        "October 24, 2011"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "September"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "CUBIST PHARMACEUTICALS"
+            ],
+            "To": [
+                "ADOLOR CORPORATION"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 125000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

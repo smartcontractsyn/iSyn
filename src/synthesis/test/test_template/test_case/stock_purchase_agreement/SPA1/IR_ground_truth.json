@@ -1,0 +1,38 @@
+{
+    "SellerName": [
+        "Centrue Financial Corporation"
+    ],
+    "BuyerName": [
+        "Investor"
+    ],
+    "EffectiveTime": [
+        "March 30, 2015"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Investor"
+            ],
+            "To": [
+                "Centrue Financial Corporation"
+            ],
+            "PurchasePrice": "460000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": false,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

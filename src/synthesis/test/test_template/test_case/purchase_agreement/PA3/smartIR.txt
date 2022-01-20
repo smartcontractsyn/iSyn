@@ -1,0 +1,42 @@
+ContractCategory: PurchaseAgreement;
+
+Entity: {
+    SellerNames: ['NISSAN MOTOR ACCEPTANCE CORPORATION'];
+    BuyerNames: ['NISSAN AUTO RECEIVABLES CORPORATION II'];
+};
+
+EffectiveTime: January 16, 2013,;
+CloseTime: "";
+ExpiryTime: ;
+
+OfflineDelivery: {
+    DeliveryConstraint: hash;
+};
+
+OnlineStateTransfer: [{
+    TimeConstraint: {
+        operator: <=,
+        leftOprand: now,
+        rightOprand: CloseTime
+    };
+    DeliveryConstraint: false;
+    (TimeContraint && DeliveryConstraint) -> Payment {
+         From: ['NISSAN AUTO RECEIVABLES CORPORATION II'];
+         To: ['NISSAN MOTOR ACCEPTANCE CORPORATION'];
+         Price: {
+             Amount: 1427665100.36,
+             Unit: USD
+         }
+    };
+}];
+
+Termination: {
+    TimeConstraint: {
+        operator: >=,
+        leftOprand: now,
+        rightOprand: ExpiryTime
+    };
+    DeliveryConstraint: false;
+    OtherConstraint: true;
+    (TimeConstraint || DeliveryConstraint || OtherConstraint);
+};
