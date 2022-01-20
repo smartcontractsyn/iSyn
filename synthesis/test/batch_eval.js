@@ -21,7 +21,8 @@ contractNameDict = {
     "plan_and_merger": "PlanAndMergerAgreement",
     "trust_agreement": "TrustAgreement",
     "underwriting_agreement": "UnderwritingAgreement",
-    "credit_contract": "CreditAgreement"
+    "credit_contract": "CreditAgreement",
+    "stock_purchase_agreement": "StockPurchaseAgreement"
 };
 
 // get AST of template contract

@@ -50,11 +50,15 @@ Smart contract which reflects the semantic requirements
 3. install the required packages and StanfordCorenlp pipeline
 
 ## How to run
+
+### Step 1 - Instantiate SmartIR
 First, users should generate the smartIR. To generate smartIR, users should execute
 pipline_for_contract with two input parameters: legal agreement location and output location.
 After this execution, the res folder contains the four types programmable clauses and smartIR.
 
     python3 pipline_for_contract.py contract_path output_path
+
+### Step 2 - Smart Contract Synthesis
 
 After the smartIR for a legal agreement is generated, it is ready to synthesize the corresponding target smart contract. The code for synthesis process are placed under folder `synthesis/`. Please install dependencies first:
 
@@ -63,11 +67,19 @@ cd synthesis
 npm install
 ```
 
-A typical example showing how to pipe the synthesis process is `synthesis/test/batch_eval.js`, which actually generates the test dataset for us. You can run it with:
+A typical example showing how to pipe the synthesis process is `synthesis/test/batch_eval.js`, which actually generates the evaluation dataset for us. You can run it with:
 
 ```bash
 cd synthesis/test/
 node batch_eval.js
+```
+
+### Step 3 - Smart Contract Validation
+
+The smart contract validation module automatically extract the operation constraints from SmartIR, construct validation cases and validate the synthesized smart contracts. Our validation module is powered by the Truffle suite. So please first install Truffle.
+
+```bash
+npm install truffle -g
 ```
 
 ## Example

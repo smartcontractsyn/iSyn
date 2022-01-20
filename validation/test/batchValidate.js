@@ -1,6 +1,6 @@
 const fs = require("fs");
 const exec = require('child_process').exec;
-// const singleContractTest = require("./singleTest.js");
+const singleContractValidate = require("./singleValidate.js");
 
 testcase_Dirs = [["0", "1", "2", "3", "4", "4", "5"], // PA
                 ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"], // SPA
@@ -44,12 +44,12 @@ let test_config = {
   };
 
 let column_tags = ['Contract',
-    "gen test case",
-    "gt test case",
-    "gen test constraint",
-    "gt test constraint",
-    "gen test constraint bitvec",
-    "gt test constraint bitvec"
+    "gen validation case",
+    "gt validation case",
+    "gen operation constraint",
+    "gt operation constraint",
+    "gen operation constraint bitvec",
+    "gt operation constraint bitvec"
 ];
 
 let all_constraints = [
@@ -97,23 +97,23 @@ for (var i=0; i<category_dirs.length; i++) {
         var IR = JSON.parse(fs.readFileSync(contract_dir_path + "/IR.json"));
         // var IR_ground_truth = JSON.parse()
 
-        [gt_test_cases, gt_test_constraints] = getTestCase(IR_ground_truth);
-        [test_cases, test_constraints] = getTestCase(IR);
-        console.log([test_cases.length, gt_test_cases.length]);
+        [gt_validation_cases, gt_operation_constraints] = getValidationCase(IR_ground_truth);
+        [validation_cases, operation_constraints] = getValidationCase(IR);
+        console.log([validation_cases.length, gt_validation_cases.length]);
 
-        test_constraints_bit_vec = "";
-        gt_test_constraints_bit_vec = "";
+        operation_constraints_bit_vec = "";
+        gt_operation_constraints_bit_vec = "";
         for (var k=0; k<all_constraints.length; ++k) {
-            if (test_constraints.includes(all_constraints[k])) test_constraints_bit_vec += "1";
-            else test_constraints_bit_vec += "0";
-            if (gt_test_constraints.includes(all_constraints[k])) gt_test_constraints_bit_vec += "1";
-            else gt_test_constraints_bit_vec += "0";
+            if (operation_constraints.includes(all_constraints[k])) operation_constraints_bit_vec += "1";
+            else operation_constraints_bit_vec += "0";
+            if (gt_operation_constraints.includes(all_constraints[k])) gt_operation_constraints_bit_vec += "1";
+            else gt_operation_constraints_bit_vec += "0";
         }
 
-        // output_str += contract_dirs[j] + " " + String(test_cases.length) + " " + String(ground_truth_test_cases.length) + "\n"
-        output_str += "|" + contract_dirs[j] + "|" + String(test_cases.length) + "|" + String(gt_test_cases.length) + "|" 
-                        + String(test_constraints.length) + "|" + String(gt_test_constraints.length) + "|"
-                        + test_constraints_bit_vec + "|" + gt_test_constraints_bit_vec + "|"
+        // output_str += contract_dirs[j] + " " + String(validation_cases.length) + " " + String(ground_truth_validation_cases.length) + "\n"
+        output_str += "|" + contract_dirs[j] + "|" + String(validation_cases.length) + "|" + String(gt_validation_cases.length) + "|" 
+                        + String(operation_constraints.length) + "|" + String(gt_operation_constraints.length) + "|"
+                        + operation_constraints_bit_vec + "|" + gt_operation_constraints_bit_vec + "|"
                         + "\n";
 
         // Set EffectiveTime
@@ -180,21 +180,21 @@ for (var i=0; i<category_dirs.length; i++) {
         // let contract_name = IR.ContractCategory + "_" + testcase_Dirs[i][j] + "_" + "sythesized";
         // const cur_contract = artifacts.require(contract_name);
 
-        // for (var k=0; k<test_case_num; ++k) {
-        //     singleContractTest.single_contract_test(contract_name, cur_contract, contract_config, test_cases[k]);
+        // for (var k=0; k<validation_case_num; ++k) {
+        //     singleContractTest.single_contract_test(contract_name, cur_contract, contract_config, validation_cases[k]);
         // }
         // singleContractEval.single_contract_eval(contract_name, cur_contract, contract_config);
     }
 }
 
-fs.writeFileSync("./test_case_num.txt", output_str, "utf-8", function(err) {
-    // console.log("test_case_num saved!");
+fs.writeFileSync("./validation_case_num.txt", output_str, "utf-8", function(err) {
+    // console.log("validation_case_num saved!");
     if (err) throw err;
     // console.log("test_conf saved!");
 });
 
 
-function getTestCase(IR) {
+function getValidationCase(IR) {
     // Extract condition entry
     condition_entries = {}
     if (IR.EffectiveTime.length != 0 && IR.EffectiveTime[0] != "") condition_entries["EffectiveTimeCon"] = true;
@@ -212,25 +212,25 @@ function getTestCase(IR) {
 
     // console.log(condition_entries);
 
-    cur_test_case = JSON.parse(JSON.stringify(condition_entries));
+    cur_validation_case = JSON.parse(JSON.stringify(condition_entries));
     condition_entries = Object.keys(condition_entries);
     console.log(condition_entries);
     condition_entry_num = condition_entries.length;
-    test_case_num = Math.pow(2, condition_entry_num);
-    // console.log(test_case_num);
-    test_cases = [];
-    for (var k=0; k<test_case_num; ++k) {
+    validation_case_num = Math.pow(2, condition_entry_num);
+    // console.log(validation_case_num);
+    validation_cases = [];
+    for (var k=0; k<validation_case_num; ++k) {
         var conf_array = k;
         // console.log(conf_array);
         for (var kk=0; kk<condition_entry_num; ++kk) {
             // console.log(conf_array, conf_array[kk], kk);
-            cur_test_case[condition_entries[kk]] = false;
-            if ((conf_array >> kk) & 1) cur_test_case[condition_entries[kk]] = true;
-            else cur_test_case[condition_entries[kk]] = false;
+            cur_validation_case[condition_entries[kk]] = false;
+            if ((conf_array >> kk) & 1) cur_validation_case[condition_entries[kk]] = true;
+            else cur_validation_case[condition_entries[kk]] = false;
         }
-        // console.log(cur_test_case);
-        test_cases.push(cur_test_case);
+        // console.log(cur_validation_case);
+        validation_cases.push(cur_validation_case);
     }
-    return [test_cases, condition_entries];
+    return [validation_cases, condition_entries];
 
 }
