@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Jazz Semiconductor"
+    ],
+    "BuyerName": [
+        "Acquicor Technology Inc."
+    ],
+    "EffectiveTime": [
+        "September 26, 2006,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "May 31, 2007"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Acquicor Technology Inc."
+            ],
+            "To": [
+                "Jazz Semiconductor"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 260000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

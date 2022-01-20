@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "MUTUAL FUND CUSTODY AGREEMENT",
+    "SellerName": [
+        "SEI INSTITUTIONAL INVESTMENTS TRUST"
+    ],
+    "BuyerName": [
+        "WACHOVIA BANK, NATIONAL ASSOCIATION"
+    ],
+    "EffectiveTime": [
+        "September 17, 2004"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "WACHOVIA BANK, NATIONAL ASSOCIATION"
+            ],
+            "To": [
+                "SEI INSTITUTIONAL INVESTMENTS TRUST"
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

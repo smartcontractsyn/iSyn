@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "UnderWriting Ageement",
+    "SellerName": [
+        "Iron Mountain Incorporated"
+    ],
+    "BuyerName": [
+        "Morgan Stanley & Co. LLC"
+    ],
+    "EffectiveTime": [
+        "August 7, 2012"
+    ],
+    "CloseTime": [
+        "August 10, 2012"
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Morgan Stanley & Co. LLC"
+            ],
+            "To": [
+                "Iron Mountain Incorporated"
+            ],
+            "PurchasePrice": "1000000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "CREDIT AGREEMENT",
+    "SellerName": [
+        "BANK OF AMERICA, N.A."
+    ],
+    "BuyerName": [
+        "WILLIAMS SCOTSMAN, INC."
+    ],
+    "EffectiveTime": [
+        "June 28, 2005"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "WILLIAMS SCOTSMAN, INC."
+            ],
+            "To": [
+                "BANK OF AMERICA, N.A."
+            ],
+            "PurchasePrice": "500000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

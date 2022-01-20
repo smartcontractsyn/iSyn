@@ -1,0 +1,41 @@
+{
+"ContractCategory":"EmploymentAgreement",     
+  "SellerName": [
+        "David Paulson"
+    ],
+    "BuyerName": [
+        "ROCKVILLE FINANCIAL, INC."
+    ],
+    "EffectiveTime": [
+        "February 19, 2014"
+    ],
+    "CloseTime": [
+        "December 31, 2014"
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "ROCKVILLE FINANCIAL, INC."
+            ],
+            "To": [
+                "David Paulson"
+            ],
+            "PurchasePrice": "275000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

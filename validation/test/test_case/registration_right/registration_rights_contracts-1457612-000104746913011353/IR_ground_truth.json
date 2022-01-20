@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "RegistrationRightAgreement",
+    "SellerName": [
+        "Company"
+    ],
+    "BuyerName": [
+        "LIGHTHOUSE CAPITAL PARTNERS VI, L.P."
+    ],
+    "EffectiveTime": [
+        "October 25, 2011"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "LIGHTHOUSE CAPITAL PARTNERS VI, L.P."
+            ],
+            "To": [
+                "Company"
+            ],
+            "PurchasePrice": "1000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": true,
+        "TransferTermination": false
+    }
+}

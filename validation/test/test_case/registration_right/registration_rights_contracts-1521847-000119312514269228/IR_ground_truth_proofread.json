@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "purchase agreement",
+    "SellerName": [
+        "MEMORIAL PRODUCTION PARTNERS LP；MEMORIAL PRODUCTION FINANCE CORPORATION"
+    ],
+    "BuyerName": [
+        "Barclays Capital Inc."
+    ],
+    "EffectiveTime": [
+        "July 14, 2014"
+    ],
+    "CloseTime": [
+        "July 17, 2014"
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Barclays Capital Inc."
+            ],
+            "To": [
+                "MEMORIAL PRODUCTION PARTNERS LP；MEMORIAL PRODUCTION FINANCE CORPORATION"
+            ],
+            "PurchasePrice": "500000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

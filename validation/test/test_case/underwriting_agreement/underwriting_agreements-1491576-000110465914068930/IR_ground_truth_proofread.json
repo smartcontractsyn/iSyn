@@ -1,0 +1,43 @@
+{
+    "ContractCategory": "UnderWriting Agreement",
+    "SellerName": [
+        "TESARO, Inc."
+    ],
+    "BuyerName": [
+        "Citigroup Global Markets Inc. ",
+	"Deutsche Bank Securities Inc."
+    ],
+    "EffectiveTime": [
+        "September 23, 2014"
+    ],
+    "CloseTime": [
+        " September 29, 2014"
+    ],
+    "OutSideClosingDate": [
+        "October 1, 2021"
+    ],
+    "Payments": [
+        {
+            "From": [
+                 "Citigroup Global Markets Inc. ",
+	"Deutsche Bank Securities Inc."
+            ],
+            "To": [
+                "TESARO, Inc."
+            ],
+            "PurchasePrice": "175000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

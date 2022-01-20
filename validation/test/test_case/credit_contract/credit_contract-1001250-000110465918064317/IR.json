@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "THE EST\u00c9E LAUDER COMPANIES INC."
+    ],
+    "BuyerName": [
+        "LENDERS"
+    ],
+    "EffectiveTime": [
+        "October 26, 2018"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "October 26, 2023"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "LENDERS"
+            ],
+            "To": [
+                "THE EST\u00c9E LAUDER COMPANIES INC."
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 1500000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

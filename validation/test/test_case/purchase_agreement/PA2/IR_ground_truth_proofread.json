@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "Purchase Agreement",
+    "SellerName": [
+        "VW CREDIT, INC."
+    ],
+    "BuyerName": [
+        "VOLKSWAGEN AUTO LEASE/LOAN UNDERWRITTEN FUNDING, LLC"
+    ],
+    "EffectiveTime": [
+        "May 19, 2020"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "VOLKSWAGEN AUTO LEASE/LOAN UNDERWRITTEN FUNDING, LLC"
+            ],
+            "To": [
+                "VW CREDIT, INC."
+            ],
+            "PurchasePrice": "1290803105.57",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

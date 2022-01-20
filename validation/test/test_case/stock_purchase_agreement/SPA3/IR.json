@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "BIOCARDIA"
+    ],
+    "BuyerName": [
+        "LINCOLN PARK CAPITAL FUND"
+    ],
+    "EffectiveTime": [
+        "March 29, 2021,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "March 31, 2021"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "LINCOLN PARK CAPITAL FUND"
+            ],
+            "To": [
+                "BIOCARDIA"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 20000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Huntsman International LLC"
+    ],
+    "BuyerName": [
+        "Lenders"
+    ],
+    "EffectiveTime": [
+        "June 15, 2017"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "December 31, 2022"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Lenders"
+            ],
+            "To": [
+                "Huntsman International LLC"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": true
+            },
+            "PurchasePrice": 1640000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

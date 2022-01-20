@@ -1,0 +1,41 @@
+{
+"ContractCategory": "employment agreement",    
+"SellerName": [
+        "Jeffrey W. Farrar"
+    ],
+    "BuyerName": [
+        "StellarOne Corporation"
+    ],
+    "EffectiveTime": [
+        "1st day of January, 2011"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        "December 31, 2013"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "StellarOne Corporation"
+            ],
+            "To": [
+                "Jeffrey W. Farrar"
+            ],
+            "PurchasePrice": "232000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

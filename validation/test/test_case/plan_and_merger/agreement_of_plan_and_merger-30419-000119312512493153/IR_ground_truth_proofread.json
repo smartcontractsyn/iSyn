@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "AGREEMENT AND PLAN OF MERGER",
+    "SellerName": [
+        "DEX ONE CORPORATION"
+    ],
+    "BuyerName": [
+        "NEWDEX, INC."
+    ],
+    "EffectiveTime": [
+        "December 5, 2012"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "NEWDEX, INC."
+            ],
+            "To": [
+                "DEX ONE CORPORATION"
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

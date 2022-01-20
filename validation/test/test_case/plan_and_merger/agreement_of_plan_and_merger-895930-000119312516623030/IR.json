@@ -1,0 +1,30 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": ["AmSurg Corp."],
+    "BuyerName": ["Envision Healthcare Holdings, Inc."],
+    "EffectiveTime": [],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "December 31"
+    ],
+    "Payments": [
+        {
+            "From": ["Envision Healthcare Holdings, Inc."],
+            "To": [],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": true
+            },
+            "PurchasePrice": 200.0,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

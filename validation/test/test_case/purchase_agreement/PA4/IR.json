@@ -1,0 +1,38 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Yes Yield Investments Limited"
+    ],
+    "BuyerName": [
+        "Yes Yield Investments Limited"
+    ],
+    "EffectiveTime": [
+        "May 4, 2015"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Yes Yield Investments Limited"
+            ],
+            "To": [
+                "Yes Yield Investments Limited"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 25002000,
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": false,
+        "OutOfDateTermination": false,
+        "OtherTermination": true
+    }
+}

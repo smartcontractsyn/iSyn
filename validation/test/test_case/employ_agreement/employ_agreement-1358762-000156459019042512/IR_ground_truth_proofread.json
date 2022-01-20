@@ -1,0 +1,41 @@
+{
+"ContractCategory":"EmploymentAgreement",      
+ "SellerName": [
+        "Manmeet S. Soni"
+    ],
+    "BuyerName": [
+        "Reata Pharmaceuticals, Inc."
+    ],
+    "EffectiveTime": [
+        "August 28, 2019"
+    ],
+    "CloseTime": [
+        "August 28, 2023"
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Reata Pharmaceuticals, Inc."
+            ],
+            "To": [
+                "Manmeet S. Soni"
+            ],
+            "PurchasePrice": "530000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

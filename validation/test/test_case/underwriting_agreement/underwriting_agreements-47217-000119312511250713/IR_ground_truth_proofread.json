@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "Underwriting Agreement",
+    "SellerName": [
+        "Hewlett-Packard Company"
+    ],
+    "BuyerName": [
+        "underwriters named in Schedule II"
+    ],
+    "EffectiveTime": [
+        "September 13, 2011"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "underwriters named in Schedule II"
+            ],
+            "To": [
+                "Hewlett-Packard Company"
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

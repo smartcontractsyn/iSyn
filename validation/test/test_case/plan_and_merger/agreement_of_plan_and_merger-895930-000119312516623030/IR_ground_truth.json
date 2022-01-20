@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "New Amethyst Corp."
+    ],
+    "BuyerName": [
+        "Envision Healthcare Holdings, Inc."
+
+    ],
+    "EffectiveTime": [
+        "June 15, 2016"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Envision Healthcare Holdings, Inc."
+            ],
+            "To": [
+                "New Amethyst Corp."
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

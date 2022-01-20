@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "AEGON N.V."
+    ],
+    "BuyerName": [
+        "Underwriters"
+    ],
+    "EffectiveTime": [
+        "August 21, 2007"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "February 15, 2042"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Underwriters"
+            ],
+            "To": [
+                "AEGON N.V."
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 500000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

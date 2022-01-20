@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "RANGE TEXAS PRODUCTION"
+    ],
+    "BuyerName": [
+        "VANGUARD PERMIAN LLC"
+    ],
+    "EffectiveTime": [
+        "26th  February 2013"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "June 1, 2013"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "VANGUARD PERMIAN LLC"
+            ],
+            "To": [
+                "RANGE TEXAS PRODUCTION"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 275000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

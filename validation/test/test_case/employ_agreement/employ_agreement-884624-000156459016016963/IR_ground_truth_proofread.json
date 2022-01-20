@@ -1,0 +1,41 @@
+{
+"ContractCategory": "employment agreement",   
+ "SellerName": [
+        "Raymond Fujikawa"
+    ],
+    "BuyerName": [
+        "Orthofix Inc."
+    ],
+    "EffectiveTime": [
+        "August 1, 2013"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        "July 1, 2014"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Orthofix Inc."
+            ],
+            "To": [
+                "Raymond Fujikawa"
+            ],
+            "PurchasePrice": "300000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

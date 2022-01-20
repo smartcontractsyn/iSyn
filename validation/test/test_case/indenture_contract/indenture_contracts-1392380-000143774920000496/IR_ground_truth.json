@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "Gevo"
+    ],
+    "BuyerName": [
+        "Wilmington Savings Fund Society"
+    ],
+    "EffectiveTime": [
+        "January 10, 2020"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Wilmington Savings Fund Society"
+            ],
+            "To": [
+                "Gevo"
+            ],
+            "PurchasePrice": "7140000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

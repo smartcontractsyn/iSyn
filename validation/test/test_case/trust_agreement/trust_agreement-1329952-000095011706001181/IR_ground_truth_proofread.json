@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        ""
+    ],
+    "BuyerName": [
+        "FIELDSTONE MORTGAGE INVESTMENT CORPORATION"
+    ],
+    "EffectiveTime": [
+        "，2006"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "FIELDSTONE MORTGAGE INVESTMENT CORPORATION"
+            ],
+            "To": [
+                ""
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

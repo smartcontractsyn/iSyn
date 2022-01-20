@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "Agiliti"
+    ],
+    "BuyerName": [
+        "FEDERAL STREET ACQUISITION CORP."
+    ],
+    "EffectiveTime": [
+        "August 13, 2018"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": ["December 31, 2018"],
+    "Payments": [
+        {
+            "From": [
+                "FEDERAL STREET ACQUISITION CORP."
+            ],
+            "To": [
+                "Agiliti"
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

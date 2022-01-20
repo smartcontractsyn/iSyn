@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "DRS TECHNOLOGIES"
+    ],
+    "BuyerName": [
+        "THE BANK OF NEW YORK."
+    ],
+    "EffectiveTime": [
+        "empty"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "February 1, 2025;"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "THE BANK OF NEW YORK."
+            ],
+            "To": [
+                "DRS TECHNOLOGIES"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": true
+            },
+            "PurchasePrice": 345000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

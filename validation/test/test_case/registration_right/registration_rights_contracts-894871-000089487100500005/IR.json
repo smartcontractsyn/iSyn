@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Integrated Surgical Systems"
+    ],
+    "BuyerName": [
+        "Investor"
+    ],
+    "EffectiveTime": [
+        "August 17, 2000"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "August 31, 2000;"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Investor"
+            ],
+            "To": [
+                "Integrated Surgical Systems"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 1200000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

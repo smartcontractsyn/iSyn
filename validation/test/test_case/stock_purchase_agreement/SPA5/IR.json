@@ -1,0 +1,38 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Griffin Ventures"
+    ],
+    "BuyerName": [
+        "investors"
+    ],
+    "EffectiveTime": [
+        "July 29, 2011,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "investors"
+            ],
+            "To": [
+                "Griffin Ventures"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 60639067.55,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": false,
+        "OtherTermination": true
+    }
+}

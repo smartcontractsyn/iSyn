@@ -1,0 +1,38 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Entech Solar"
+    ],
+    "BuyerName": [
+        "The Quercus Trust"
+    ],
+    "EffectiveTime": [
+        "October 4, 2011,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "The Quercus Trust"
+            ],
+            "To": [
+                "Entech Solar"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 100000,
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": false,
+        "OutOfDateTermination": false,
+        "OtherTermination": true
+    }
+}

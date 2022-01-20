@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "UnderWritingAgeement",
+    "SellerName": [
+        "Hewlett-Packard Company"
+    ],
+    "BuyerName": [
+        "Underwriters"
+    ],
+    "EffectiveTime": [
+        ""
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                ""
+            ],
+            "To": [
+                "Hewlett-Packard Company"
+            ],
+            "PurchasePrice": "1000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

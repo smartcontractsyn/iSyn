@@ -1,0 +1,38 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "William Osbourn"
+    ],
+    "BuyerName": [
+        "TIME WARNER CABLE INC."
+    ],
+    "EffectiveTime": [
+        "October 1, 2013"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "TIME WARNER CABLE INC."
+            ],
+            "To": [
+                "William Osbourn"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 1509807,
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": false,
+        "OtherTermination": true
+    }
+}

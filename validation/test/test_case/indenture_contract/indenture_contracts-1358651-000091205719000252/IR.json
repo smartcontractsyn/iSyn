@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "ACCEPTANCE HEREOF"
+    ],
+    "BuyerName": [
+        "Wilmington Trust National Association"
+    ],
+    "EffectiveTime": [
+        "June 7, 2019"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "October 1"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Wilmington Trust National Association"
+            ],
+            "To": [
+                "ACCEPTANCE HEREOF"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 730534000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

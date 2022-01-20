@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "indenture contract",
+    "SellerName": [
+        "U.S. BANK NATIONAL ASSOCIATION"
+    ],
+    "BuyerName": [
+        "FRESENIUS MEDICAL CARE US FINANCE II, INC."
+    ],
+    "EffectiveTime": [
+        "October 29, 2014"
+    ],
+    "CloseTime": [
+        "October 15, 2020"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "FRESENIUS MEDICAL CARE US FINANCE II, INC."
+            ],
+            "To": [
+                "U.S. BANK NATIONAL ASSOCIATION"
+            ],
+            "PurchasePrice": "500000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

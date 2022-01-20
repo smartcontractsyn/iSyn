@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "indenture contract",
+    "SellerName": [
+        "CITICORP INTERNATIONAL LIMITED"
+    ],
+    "BuyerName": [
+        "Nord Anglia Education Finance LLC"
+    ],
+    "EffectiveTime": [
+        "June 25, 2015"
+    ],
+    "CloseTime": [
+        " July 15, 2022"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Nord Anglia Education Finance LLC"
+            ],
+            "To": [
+                "CITICORP INTERNATIONAL LIMITED"
+            ],
+            "PurchasePrice": "200000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

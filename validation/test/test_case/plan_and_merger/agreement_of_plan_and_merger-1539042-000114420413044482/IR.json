@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Westinghouse Solar"
+    ],
+    "BuyerName": [
+        "WESTINGHOUSE SOLAR"
+    ],
+    "EffectiveTime": [
+        "May 7, 2012"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "December 31, 2012"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "WESTINGHOUSE SOLAR"
+            ],
+            "To": [
+                "Westinghouse Solar"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 200000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

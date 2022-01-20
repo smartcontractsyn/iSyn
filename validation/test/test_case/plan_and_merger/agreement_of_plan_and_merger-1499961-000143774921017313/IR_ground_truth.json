@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "",
+    "SellerName": [
+        "Mullen Automotive"
+    ],
+    "BuyerName": [
+        "Net Element"
+    ],
+    "EffectiveTime": [
+        "July 20, 2021"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Net Element"
+            ],
+            "To": [
+                "Mullen Automotive"
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

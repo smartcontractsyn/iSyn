@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Taylor Capital Group"
+    ],
+    "BuyerName": [
+        "Buyers"
+    ],
+    "EffectiveTime": [
+        "September 4, 2008"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "June 30, 2009"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Buyers"
+            ],
+            "To": [
+                "Taylor Capital Group"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 60000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Owens-Brockway Glass Container Inc."
+    ],
+    "BuyerName": [
+        "U.S. Bank National Association"
+    ],
+    "EffectiveTime": [
+        "May 7, 2010"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "November 15, 2015"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "U.S. Bank National Association"
+            ],
+            "To": [
+                "Owens-Brockway Glass Container Inc."
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 690000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

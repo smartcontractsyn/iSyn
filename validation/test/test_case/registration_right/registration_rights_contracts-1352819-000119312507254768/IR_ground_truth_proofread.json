@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "Stock PurchaseAgreement",
+    "SellerName": [
+        "Elandia International Inc."
+    ],
+    "BuyerName": [
+        "Stanford International Bank Ltd."
+    ],
+    "EffectiveTime": [
+        "the 21st day of November 2007"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Stanford International Bank Ltd."
+            ],
+            "To": [
+                "Elandia International Inc."
+            ],
+            "PurchasePrice": "35000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

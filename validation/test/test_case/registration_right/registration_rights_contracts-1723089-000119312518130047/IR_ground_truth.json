@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "RegistrationRightAgreement",
+    "SellerName": [
+        "Apergy Corporation"
+    ],
+    "BuyerName": [
+        "Purchasers"
+    ],
+    "EffectiveTime": [
+        "May 3, 2018"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Purchasers"
+            ],
+            "To": [
+                "Apergy Corporation"
+            ],
+            "PurchasePrice": "300000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

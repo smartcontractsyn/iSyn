@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "UnderWriting Ageement",
+    "SellerName": [
+        "Grupo Televisa, S.A.B"
+    ],
+    "BuyerName": [
+        "Bank of New York Mellon"
+    ],
+    "EffectiveTime": [
+        "August 8, 2000"
+    ],
+    "CloseTime": [
+        "May 24, 2019"
+    ],
+    "OutSideClosingDate": [
+        "May 24, 2049"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Bank of New York Mellon"
+            ],
+            "To": [
+                "Grupo Televisa, S.A.B"
+            ],
+            "PurchasePrice": "750000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

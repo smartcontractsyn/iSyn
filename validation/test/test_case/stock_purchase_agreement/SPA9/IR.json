@@ -1,0 +1,38 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "BETWEEN\u00a0LOCATION BASED TECHNOLOGIES"
+    ],
+    "BuyerName": [
+        "Allen Simon"
+    ],
+    "EffectiveTime": [
+        "November 2, 2009"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Allen Simon"
+            ],
+            "To": [
+                "BETWEEN\u00a0LOCATION BASED TECHNOLOGIES"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 60000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": false,
+        "OutOfDateTermination": false,
+        "OtherTermination": true
+    }
+}

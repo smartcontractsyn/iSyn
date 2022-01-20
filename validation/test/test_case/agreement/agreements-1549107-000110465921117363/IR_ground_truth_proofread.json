@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "REVOLVING FACILITIES AGREEMENT",
+    "SellerName": [
+        "MANCHESTER UNITED FOOTBALL CLUB LIMITED"
+    ],
+    "BuyerName": [
+        "RED FOOTBALL LIMITED"
+    ],
+    "EffectiveTime": [
+        "4 March 2021"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "RED FOOTBALL LIMITED"
+            ],
+            "To": [
+                "MANCHESTER UNITED FOOTBALL CLUB LIMITED"
+            ],
+            "PurchasePrice": "150000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": false
+    }
+}

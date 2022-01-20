@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Hewlett-Packard Company"
+    ],
+    "BuyerName": [
+        "Underwriters"
+    ],
+    "EffectiveTime": [
+        "June 1, 2000"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "September 13, 2011"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Underwriters"
+            ],
+            "To": [
+                "Hewlett-Packard Company"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 1000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

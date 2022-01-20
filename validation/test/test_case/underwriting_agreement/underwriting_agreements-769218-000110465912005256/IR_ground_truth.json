@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "UnderWritingAgeement",
+    "SellerName": [
+        "AEGON N.V."
+    ],
+    "BuyerName": [
+        "Underwriters"
+    ],
+    "EffectiveTime": [
+        "January 24, 2012"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Underwriters"
+            ],
+            "To": [
+                "AEGON N.V."
+            ],
+            "PurchasePrice": "500000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

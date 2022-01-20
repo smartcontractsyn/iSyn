@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "TRUST AGREEMENT",
+    "SellerName": [
+        "LASALLE BANK NATIONAL ASSOCIATION"
+    ],
+    "BuyerName": [
+        "STRUCTURED ASSET SECURITIES CORPORATION"
+    ],
+    "EffectiveTime": [
+        "January 1, 2003"
+    ],
+    "CloseTime": [
+        "January 30, 2003"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "STRUCTURED ASSET SECURITIES CORPORATION"
+            ],
+            "To": [
+                "LASALLE BANK NATIONAL ASSOCIATION"
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

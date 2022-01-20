@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "UnderWritingAgeement",
+    "SellerName": [
+        ""
+    ],
+    "BuyerName": [
+        "The Bank of New York Mellon"
+    ],
+    "EffectiveTime": [
+        "August 8, 2000"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "The Bank of New York Mellon"
+            ],
+            "To": [
+                ""
+            ],
+            "PurchasePrice": "750000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "indenture contract",
+    "SellerName": [
+        "NorthStar Realty Finance Limited Partnership"
+    ],
+    "BuyerName": [
+        "Wilmington Trust, National Association"
+    ],
+    "EffectiveTime": [
+        "June 19, 2013"
+    ],
+    "CloseTime": [
+        " June 15, 2023"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Wilmington Trust, National Association"
+            ],
+            "To": [
+                "NorthStar Realty Finance Limited Partnership"
+            ],
+            "PurchasePrice": "300000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

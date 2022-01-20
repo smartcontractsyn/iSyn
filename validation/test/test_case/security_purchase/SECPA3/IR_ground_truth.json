@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "SellerName": [
+        "G Medical Innovations Holdings Ltd."
+    ],
+    "BuyerName": [
+        "Purchasers"
+    ],
+    "EffectiveTime": [
+        "April 7, 2021,"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Purchasers"
+            ],
+            "To": [
+                "G Medical Innovations Holdings Ltd."
+            ],
+            "PurchasePrice": "600000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": false,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

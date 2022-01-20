@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "PurchaseAgreement",
+    "SellerName": [
+        "RANGE TEXAS PRODUCTION, LLC.；RANGE OPERATING NEW MEXICO, LLC."
+    ],
+    "BuyerName": [
+        "VANGUARD PERMIAN LLC"
+    ],
+    "EffectiveTime": [
+        "26th  February 2013,"
+    ],
+    "CloseTime": [
+        "April 8, 2013"
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "VANGUARD PERMIAN LLC"
+            ],
+            "To": [
+                "RANGE TEXAS PRODUCTION, LLC.；RANGE OPERATING NEW MEXICO, LLC."
+            ],
+            "PurchasePrice": "275000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "AGREEMENT AND PLAN OF MERGER",
+    "SellerName": [
+        "GGP Inc."
+    ],
+    "BuyerName": [
+        "Goldfinch Merger Sub Corp."
+    ],
+    "EffectiveTime": [
+        "March 26, 2018"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": ["September 26, 2018"],
+    "Payments": [
+        {
+            "From": [
+                "Goldfinch Merger Sub Corp."
+            ],
+            "To": [
+                "GGP Inc."
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

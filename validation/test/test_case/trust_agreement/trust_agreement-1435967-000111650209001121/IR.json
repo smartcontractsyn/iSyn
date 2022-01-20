@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "MacroShares Major Metro Housing Up Trust"
+    ],
+    "BuyerName": [
+        "CEDE & CO."
+    ],
+    "EffectiveTime": [
+        "empty"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "May"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "CEDE & CO."
+            ],
+            "To": [
+                "MacroShares Major Metro Housing Up Trust"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 20000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

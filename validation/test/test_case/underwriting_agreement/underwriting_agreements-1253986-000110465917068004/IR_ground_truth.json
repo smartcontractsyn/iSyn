@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "UnderWritingAgeement",
+    "SellerName": [
+        ""
+    ],
+    "BuyerName": [
+        "U.S. Bank National Association"
+    ],
+    "EffectiveTime": [
+        "May 12, 2014"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "U.S. Bank National Association"
+            ],
+            "To": [
+                ""
+            ],
+            "PurchasePrice": "143750000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "ContractCategory": "indenture contract",
+    "SellerName": [
+        "U.S. Bank National Association"
+    ],
+    "BuyerName": [
+        "Owens-Brockway Glass Container Inc."
+    ],
+    "EffectiveTime": [
+        "May 7, 2010"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Owens-Brockway Glass Container Inc."
+            ],            "To": [
+                "U.S. Bank National Association"
+            ],
+            "PurchasePrice": "600000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": false
+    }
+}

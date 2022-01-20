@@ -1,0 +1,39 @@
+{
+    "ContractCategory": " CREDIT AGREEMENT",
+    "SellerName": [
+        "Huntsman International LLC"
+    ],
+    "BuyerName": [
+        "JPMorgan Chase Bank, N.A."
+    ],
+    "EffectiveTime": [
+        "June 15, 2017"
+    ],
+    "CloseTime": [
+        "August 16, 2005."
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "JPMorgan Chase Bank, N.A."
+            ],
+            "To": [
+                "Huntsman International LLC"
+            ],
+            "PurchasePrice": "200000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

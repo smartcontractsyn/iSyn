@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "UnderWritingAgeement",
+    "SellerName": [
+        "Bunge Finance Europe B.V."
+    ],
+    "BuyerName": [
+        "Underwriters listed in Schedule I"
+    ],
+    "EffectiveTime": [
+        "November 10, 2016"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Underwriters listed in Schedule I"
+            ],
+            "To": [
+                "Bunge Finance Europe B.V."
+            ],
+            "PurchasePrice": "€200,000,000 ",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

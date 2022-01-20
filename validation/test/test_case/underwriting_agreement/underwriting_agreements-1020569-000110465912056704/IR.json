@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "U.S. BANK NATIONAL ASSOCIATION"
+    ],
+    "BuyerName": [
+        "Iron Mountain Incorporated\nUNDERWRITING AGREEMENT\nMorgan Stanley & Co. LLC"
+    ],
+    "EffectiveTime": [
+        "October 1, 1998,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "August 15, 2024"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Iron Mountain Incorporated\nUNDERWRITING AGREEMENT\nMorgan Stanley & Co. LLC"
+            ],
+            "To": [
+                "U.S. BANK NATIONAL ASSOCIATION"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 1000000000,
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

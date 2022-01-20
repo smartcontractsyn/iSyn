@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "INDENTURE AGREEMENT",
+    "SellerName": [
+        "Gevo, Inc."
+    ],
+    "BuyerName": [
+        "Wilmington Savings Fund Society, FSB"
+    ],
+    "EffectiveTime": [
+        "January 10, 2020"
+    ],
+    "CloseTime": [
+        "January 10, 2020"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Wilmington Savings Fund Society, FSB"
+            ],
+            "To": [
+                "Gevo, Inc."
+            ],
+            "PurchasePrice": "7140000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": true
+    }
+}

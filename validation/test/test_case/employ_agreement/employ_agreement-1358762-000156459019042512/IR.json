@@ -1,0 +1,36 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Manmeet S. Soni"
+    ],
+    "BuyerName": [],
+    "EffectiveTime": [
+        "August 28, 2019,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "August 28, 2023"
+    ],
+    "Payments": [
+        {
+            "From": [],
+            "To": [
+                "Manmeet S. Soni"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 530000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

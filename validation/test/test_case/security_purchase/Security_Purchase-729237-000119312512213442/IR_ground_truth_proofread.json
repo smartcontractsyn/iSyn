@@ -1,0 +1,41 @@
+{
+    "ContractCategory": "SecurityPurchaseAgreement",
+    "SellerName": [
+        "Parkway Properties, Inc."
+    ],
+    "BuyerName": [
+        "TPG VI Pantera Holdings, L.P."
+    ],
+    "EffectiveTime": [
+        "May 3, 2012"
+    ],
+    "CloseTime": [
+        "May 31, 2012"
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "TPG VI Pantera Holdings, L.P."
+            ],
+            "To": [
+                "Parkway Properties, Inc."
+            ],
+            "PurchasePrice": "151625002",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

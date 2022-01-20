@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "WESCO AIRCRAFT HARDWARE CORP."
+    ],
+    "BuyerName": [
+        "Lenders"
+    ],
+    "EffectiveTime": [
+        "February 12, 2014"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "December"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Lenders"
+            ],
+            "To": [
+                "WESCO AIRCRAFT HARDWARE CORP."
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime-5",
+                "disabled": false
+            },
+            "PurchasePrice": 75000000100000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

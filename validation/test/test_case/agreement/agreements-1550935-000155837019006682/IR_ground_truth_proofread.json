@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "Agreement for Subscription for Share Option Offering",
+    "SellerName": [
+        "FRONTEO, Inc."
+    ],
+    "BuyerName": [
+        "Subscriber"
+    ],
+    "EffectiveTime": [
+        ""
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Subscriber"
+            ],
+            "To": [
+                "FRONTEO, Inc."
+            ],
+            "PurchasePrice": "",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": false,
+        "TransferTermination": false
+    }
+}

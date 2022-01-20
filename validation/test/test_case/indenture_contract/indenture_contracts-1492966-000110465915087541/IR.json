@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Nord Anglia Education Finance LLC"
+    ],
+    "BuyerName": [
+        "HSBC Bank USA"
+    ],
+    "EffectiveTime": [
+        "June 25, 2015,"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "November 26"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "HSBC Bank USA"
+            ],
+            "To": [
+                "Nord Anglia Education Finance LLC"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 100000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

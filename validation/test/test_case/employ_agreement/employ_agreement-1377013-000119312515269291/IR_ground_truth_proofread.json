@@ -1,0 +1,41 @@
+{
+"Contract category":  "EMPLOYMENT AGREEMENT",  
+"SellerName": [
+        "William Osbourn"
+    ],
+    "BuyerName": [
+        "TIME WARNER CABLE INC."
+    ],
+    "EffectiveTime": [
+        "October 1, 2013"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        "September 30, 2016"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "TIME WARNER CABLE INC."
+            ],
+            "To": [
+                "William Osbourn"
+            ],
+            "PurchasePrice": "495019",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": ">=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

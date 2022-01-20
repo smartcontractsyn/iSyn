@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Apergy Corporation"
+    ],
+    "BuyerName": [
+        "Purchasers"
+    ],
+    "EffectiveTime": [
+        "April 19, 2018"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "May 31, 2018"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Purchasers"
+            ],
+            "To": [
+                "Apergy Corporation"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 300000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

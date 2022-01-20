@@ -1,0 +1,38 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Catherine R. Atwood"
+    ],
+    "BuyerName": [
+        "Regional Management Corp."
+    ],
+    "EffectiveTime": [
+        "September 30, 2020"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                "Regional Management Corp."
+            ],
+            "To": [
+                "Catherine R. Atwood"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 275000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": false,
+        "OtherTermination": true
+    }
+}

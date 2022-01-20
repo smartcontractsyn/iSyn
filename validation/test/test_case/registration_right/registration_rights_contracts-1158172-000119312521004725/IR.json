@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "comScore"
+    ],
+    "BuyerName": [
+        "Charter Communications Holding Company"
+    ],
+    "EffectiveTime": [
+        "January 7, 2021"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "July 1, 2021"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Charter Communications Holding Company"
+            ],
+            "To": [
+                "comScore"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 100000000,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

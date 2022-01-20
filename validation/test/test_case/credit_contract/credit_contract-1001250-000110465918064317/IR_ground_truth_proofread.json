@@ -1,0 +1,39 @@
+{
+    "ContractCategory": "CREDIT AGREEMENT",
+    "SellerName": [
+        "THE ESTÉE LAUDER COMPANIES INC."
+    ],
+    "BuyerName": [
+        ""
+    ],
+    "EffectiveTime": [
+        "October 26, 2018"
+    ],
+    "CloseTime": [
+        "October 26, 2018"
+    ],
+    "OutSideClosingDate": [],
+    "Payments": [
+        {
+            "From": [
+                ""
+            ],
+            "To": [
+                "THE ESTÉE LAUDER COMPANIES INC."
+            ],
+            "PurchasePrice": "20000000",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}

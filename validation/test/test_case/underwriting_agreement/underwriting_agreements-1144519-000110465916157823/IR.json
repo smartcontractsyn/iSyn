@@ -1,0 +1,40 @@
+{
+    "ContractCategory": "StockPurchaseAgreement",
+    "SellerName": [
+        "Bunge Limited"
+    ],
+    "BuyerName": [
+        "Bermuda Company"
+    ],
+    "EffectiveTime": [
+        "June 16, 2016"
+    ],
+    "CloseTime": [],
+    "OutSideClosingDate": [
+        "June 16, 2023"
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Bermuda Company"
+            ],
+            "To": [
+                "Bunge Limited"
+            ],
+            "TimeLimit": {
+                "operator": "<=",
+                "leftOp": "now",
+                "rightOp": "CloseTime",
+                "disabled": false
+            },
+            "PurchasePrice": 630,
+            "Transfer": true
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "TransferTermination": true,
+        "OutOfDateTermination": true,
+        "OtherTermination": true
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "SellerName": [
+        "Jack K. Heilbron"
+    ],
+    "BuyerName": [
+        "Presidio Property Trust, Inc."
+    ],
+    "EffectiveTime": [
+        "October 18, 2017"
+    ],
+    "CloseTime": [
+        ""
+    ],
+    "OutSideClosingDate": [
+        ""
+    ],
+    "Payments": [
+        {
+            "From": [
+                "Presidio Property Trust, Inc."
+            ],
+            "To": [
+                "Jack K. Heilbron"
+            ],
+            "PurchasePrice": "333900",
+            "TimeLimit": {
+                "leftOp": "now",
+                "operator": "<=",
+                "rightOp": "CloseTime"
+            },
+            "Transfer": false
+        }
+    ],
+    "Transfers": true,
+    "Terminations": {
+        "OtherTermination": true,
+        "OutOfDateTermination": true,
+        "TransferTermination": true
+    }
+}
