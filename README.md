@@ -4,7 +4,7 @@
 ![System arch of ContractSyn](picture/system-arch.png)
 The Pandemic has fundamentally shaped many aspects ofour lives. One significant example is the ever-growing digi-tal transformation for virtually every type of business, suchas online courses, online conferencing, online medical andpharmaceutical systems, remote work forces, and so on.
 Similarly, the legal sector is experiencing online transformation. To enable profound digital
-transformation of legal contract, ContractSyn is the first system that synthesizes blockchain-executable
+transformation of legal agreement, ContractSyn is the first system that synthesizes blockchain-executable
 smart contracts that honor the semantics of legally binding agreements.
 
 ## Requirements
@@ -15,7 +15,7 @@ smart contracts that honor the semantics of legally binding agreements.
 </ol>
 
 ## Input
-A legal contract containing the following types of "programmable clauses". 
+A legal agreement containing the following types of "programmable clauses". 
 
 * Entity, e.g.,
     ```
@@ -51,12 +51,12 @@ Smart contract which reflects the semantic requirements
 
 ## How to run
 First, users should generate the smartIR. To generate smartIR, users should execute
-pipline_for_contract with two input parameters: legal contract location and output location.
+pipline_for_contract with two input parameters: legal agreement location and output location.
 After this execution, the res folder contains the four types programmable clauses and smartIR.
 
     python3 pipline_for_contract.py contract_path output_path
 
-After the smartIR for a legal contract is generated, it is ready to synthesize the corresponding target smart contract. The code for synthesis process are placed under folder `src/synthesis`. Please install dependencies first:
+After the smartIR for a legal agreement is generated, it is ready to synthesize the corresponding target smart contract. The code for synthesis process are placed under folder `src/synthesis`. Please install dependencies first:
 
 ```bash
 cd src/synthesis
