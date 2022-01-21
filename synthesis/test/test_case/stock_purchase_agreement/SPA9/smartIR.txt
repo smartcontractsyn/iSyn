@@ -1,42 +1,37 @@
-ContractCategory: StockPurchaseAgreement;
+ContractCategory: Mini-bench;
 
-Entity: {
-    SellerNames: [];
-    BuyerNames: [];
-};
+        Entity: {
+            SellerNames: ['BETWEEN\xa0LOCATION BASED TECHNOLOGIES'];
+            BuyerNames: ['Allen Simon'];
+        };
 
-EffectiveTime: November 2, 2009;
-CloseTime: "";
-ExpiryTime: ;
+        EffectiveTime: November 2, 2009;
+        CloseTime: "";
+        ExpiryTime: ;
 
-OfflineDelivery: {
-    DeliveryConstraint: hash;
-};
+        OfflineDelivery: {
+            DeliveryConstraint: hash;
+        };
 
-OnlineStateTransfer: [{
-    TimeConstraint: {
-        operator: <=,
-        leftOprand: now,
-        rightOprand: CloseTime
-    };
-    DeliveryConstraint: true;
-    (TimeContraint && DeliveryConstraint) -> Payment {
-         From: [];
-         To: [];
-         Price: {
-             Amount: 60000,
-             Unit: USD
-         }
-    };
-}];
+        OnlineStateTransfer: [{
+            TimeConstraint: {
+                operator: <=,
+                leftOprand: now,
+                rightOprand: CloseTime
+            };
+            DeliveryConstraint: true;
+            (TimeContraint && DeliveryConstraint) -> Payment {
+                 From: ['Allen Simon'];
+                 To: ['BETWEEN\xa0LOCATION BASED TECHNOLOGIES'];
+                 Price: {
+                     Amount: 60000,
+                     Unit: USD
+                 }
+            };
+        }];
 
-Termination: {
-    TimeConstraint: {
-        operator: >=,
-        leftOprand: now,
-        rightOprand: ExpiryTime
-    };
-    DeliveryConstraint: false;
-    OtherConstraint: false;
-    (TimeConstraint || DeliveryConstraint || OtherConstraint);
-};
+        Termination: {
+            DeliveryConstraint: false;
+            OtherConstraint: true;
+            (DeliveryConstraint || OtherConstraint);
+        };

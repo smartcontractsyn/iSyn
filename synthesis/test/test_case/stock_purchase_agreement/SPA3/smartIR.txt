@@ -1,42 +1,42 @@
-ContractCategory: StockPurchaseAgreement;
-
-Entity: {
-    SellerNames: ['BIOCARDIA'];
-    BuyerNames: ['BIOCARDIA'];
-};
-
-EffectiveTime: March 29, 2021,;
-CloseTime: "";
-ExpiryTime: March 31, 2021;
-
-OfflineDelivery: {
-    DeliveryConstraint: hash;
-};
-
-OnlineStateTransfer: [{
-    TimeConstraint: {
-        operator: <=,
-        leftOprand: now,
-        rightOprand: CloseTime
+ContractCategory: Mini-bench;
+    
+    Entity: {
+        SellerNames: ['BIOCARDIA'];
+        BuyerNames: ['LINCOLN PARK CAPITAL FUND'];
     };
-    DeliveryConstraint: true;
-    (TimeContraint && DeliveryConstraint) -> Payment {
-         From: ['BIOCARDIA'];
-         To: ['BIOCARDIA'];
-         Price: {
-             Amount: 20000000,
-             Unit: USD
-         }
+    
+    EffectiveTime: March 29, 2021,;
+    CloseTime: "";
+    ExpiryTime: March 31, 2021;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
     };
-}];
-
-Termination: {
-    TimeConstraint: {
-        operator: >=,
-        leftOprand: now,
-        rightOprand: ExpiryTime
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['LINCOLN PARK CAPITAL FUND'];
+             To: ['BIOCARDIA'];
+             Price: {
+                 Amount: 20000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
     };
-    DeliveryConstraint: true;
-    OtherConstraint: true;
-    (TimeConstraint || DeliveryConstraint || OtherConstraint);
-};

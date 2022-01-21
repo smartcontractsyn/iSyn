@@ -1,42 +1,37 @@
-ContractCategory: SecurityAgreement;
+ContractCategory: Mini-bench;
 
-Entity: {
-    SellerNames: ['INTELLIGENT LIVING INC.'];
-    BuyerNames: ['INTELLIGENT LIVING INC.'];
-};
+        Entity: {
+            SellerNames: ['INTELLIGENT LIVING INC.'];
+            BuyerNames: ['HOYTS HOLLOW MANAGEMENT LLC'];
+        };
 
-EffectiveTime: April 25, 2014,;
-CloseTime: "";
-ExpiryTime: ;
+        EffectiveTime: April 25, 2014,;
+        CloseTime: "";
+        ExpiryTime: ;
 
-OfflineDelivery: {
-    DeliveryConstraint: hash;
-};
+        OfflineDelivery: {
+            DeliveryConstraint: hash;
+        };
 
-OnlineStateTransfer: [{
-    TimeConstraint: {
-        operator: <=,
-        leftOprand: now,
-        rightOprand: CloseTime
-    };
-    DeliveryConstraint: false;
-    (TimeContraint && DeliveryConstraint) -> Payment {
-         From: ['INTELLIGENT LIVING INC.'];
-         To: ['INTELLIGENT LIVING INC.'];
-         Price: {
-             Amount: 300000,
-             Unit: USD
-         }
-    };
-}];
+        OnlineStateTransfer: [{
+            TimeConstraint: {
+                operator: <=,
+                leftOprand: now,
+                rightOprand: CloseTime
+            };
+            DeliveryConstraint: false;
+            (TimeContraint && DeliveryConstraint) -> Payment {
+                 From: ['HOYTS HOLLOW MANAGEMENT LLC'];
+                 To: ['INTELLIGENT LIVING INC.'];
+                 Price: {
+                     Amount: 300000,
+                     Unit: USD
+                 }
+            };
+        }];
 
-Termination: {
-    TimeConstraint: {
-        operator: >=,
-        leftOprand: now,
-        rightOprand: ExpiryTime
-    };
-    DeliveryConstraint: false;
-    OtherConstraint: false;
-    (TimeConstraint || DeliveryConstraint || OtherConstraint);
-};
+        Termination: {
+            DeliveryConstraint: true;
+            OtherConstraint: true;
+            (DeliveryConstraint || OtherConstraint);
+        };

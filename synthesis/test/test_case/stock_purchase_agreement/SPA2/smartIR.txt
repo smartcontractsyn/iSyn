@@ -1,42 +1,37 @@
-ContractCategory: StockPurchaseAgreement;
+ContractCategory: Mini-bench;
 
-Entity: {
-    SellerNames: ['Don Marcos Trading Co.'];
-    BuyerNames: ['Mark E. Tupper'];
-};
+        Entity: {
+            SellerNames: ['Don Marcos Trading Co.'];
+            BuyerNames: ['Mark E. Tupper'];
+        };
 
-EffectiveTime: July 14, 2009;
-CloseTime: "";
-ExpiryTime: ;
+        EffectiveTime: July 14, 2009;
+        CloseTime: "";
+        ExpiryTime: ;
 
-OfflineDelivery: {
-    DeliveryConstraint: hash;
-};
+        OfflineDelivery: {
+            DeliveryConstraint: hash;
+        };
 
-OnlineStateTransfer: [{
-    TimeConstraint: {
-        operator: <=,
-        leftOprand: now,
-        rightOprand: CloseTime
-    };
-    DeliveryConstraint: false;
-    (TimeContraint && DeliveryConstraint) -> Payment {
-         From: ['Mark E. Tupper'];
-         To: ['Don Marcos Trading Co.'];
-         Price: {
-             Amount: 5000,
-             Unit: USD
-         }
-    };
-}];
+        OnlineStateTransfer: [{
+            TimeConstraint: {
+                operator: <=,
+                leftOprand: now,
+                rightOprand: CloseTime
+            };
+            DeliveryConstraint: false;
+            (TimeContraint && DeliveryConstraint) -> Payment {
+                 From: ['Mark E. Tupper'];
+                 To: ['Don Marcos Trading Co.'];
+                 Price: {
+                     Amount: 5000,
+                     Unit: USD
+                 }
+            };
+        }];
 
-Termination: {
-    TimeConstraint: {
-        operator: >=,
-        leftOprand: now,
-        rightOprand: ExpiryTime
-    };
-    DeliveryConstraint: false;
-    OtherConstraint: false;
-    (TimeConstraint || DeliveryConstraint || OtherConstraint);
-};
+        Termination: {
+            DeliveryConstraint: false;
+            OtherConstraint: true;
+            (DeliveryConstraint || OtherConstraint);
+        };
