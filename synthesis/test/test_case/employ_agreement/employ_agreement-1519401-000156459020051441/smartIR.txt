@@ -1,0 +1,37 @@
+ContractCategory: Employment Agreement;
+
+        Entity: {
+            SellerNames: ['Catherine R. Atwood'];
+            BuyerNames: ['Regional Management Corp.'];
+        };
+
+        EffectiveTime: September 30, 2020;
+        CloseTime: "";
+        ExpiryTime: ;
+
+        OfflineDelivery: {
+            DeliveryConstraint: hash;
+        };
+
+        OnlineStateTransfer: [{
+            TimeConstraint: {
+                operator: <=,
+                leftOprand: now,
+                rightOprand: CloseTime
+            };
+            DeliveryConstraint: true;
+            (TimeContraint && DeliveryConstraint) -> Payment {
+                 From: ['Regional Management Corp.'];
+                 To: ['Catherine R. Atwood'];
+                 Price: {
+                     Amount: 275000,
+                     Unit: USD
+                 }
+            };
+        }];
+
+        Termination: {
+            DeliveryConstraint: true;
+            OtherConstraint: true;
+            (DeliveryConstraint || OtherConstraint);
+        };
