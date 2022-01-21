@@ -1,6 +1,6 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
-contract undefined_3 {
+contract StockPurchaseAgreement_3 {
     address payable public seller;
     address payable[] public buyer;
     OracleTest internal oracle;
@@ -25,9 +25,9 @@ contract undefined_3 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1616947200;
+        EffectiveTime = 1616976000;
         CloseTime = 1000;
-        OutSideClosingDate = 1617120000;
+        OutSideClosingDate = 1617148800;
         sellerName = "BIOCARDIA";
         seller = address(0);
         buyerName =["LINCOLN PARK CAPITAL FUND"];

@@ -1,6 +1,6 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
-contract undefined_7 {
+contract StockPurchaseAgreement_7 {
     address payable public seller;
     address payable[] public buyer;
     OracleTest internal oracle;

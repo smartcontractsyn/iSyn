@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract TrustAgreement_8 {
     address payable public seller;
@@ -25,9 +25,9 @@ contract TrustAgreement_8 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1246204800;
+        EffectiveTime = 1246233600;
         CloseTime = 1000;
-        OutSideClosingDate = 1416844800;
+        OutSideClosingDate = 1416873600;
         sellerName = "MACROSHARES HOUSING DEPOSITOR, LLC";
         seller = address(0);
         buyerName =["STATE STREET BANK AND TRUST COMPANY, N.A."];

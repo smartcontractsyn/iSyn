@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract PurchaseAgreement_3 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract PurchaseAgreement_3 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1358265600;
+        EffectiveTime = 1358294400;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "NISSAN MOTOR ACCEPTANCE CORPORATION";

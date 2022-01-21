@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract SecurityPurchaseAgreement_1 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract SecurityPurchaseAgreement_1 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1620057600;
+        EffectiveTime = 1620086400;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "GOOD HEMP INC.";

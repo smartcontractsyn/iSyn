@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract undefined_5 {
     address payable public seller;
@@ -25,9 +25,9 @@ contract undefined_5 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1380556800;
+        EffectiveTime = 1380585600;
         CloseTime = 1000;
-        OutSideClosingDate = 1475164800;
+        OutSideClosingDate = 1475193600;
         sellerName = "William Osbourn";
         seller = address(0);
         buyerName =["TIME WARNER CABLE INC."];

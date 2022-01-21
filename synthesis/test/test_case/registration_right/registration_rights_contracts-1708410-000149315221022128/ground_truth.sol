@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract RegistrationRightAgreement_8 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract RegistrationRightAgreement_8 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1630339200;
+        EffectiveTime = 1630368000;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "Simplicity Esports and Gaming Company";

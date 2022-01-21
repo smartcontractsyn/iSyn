@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract CreditAgreement_0 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract CreditAgreement_0 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1540483200;
+        EffectiveTime = 1540512000;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "THE ESTÉE LAUDER COMPANIES INC.";

@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract PlanAndMergerAgreement_0 {
     address payable public seller;
@@ -25,9 +25,9 @@ contract PlanAndMergerAgreement_0 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1607184000;
+        EffectiveTime = 1607212800;
         CloseTime = 1000;
-        OutSideClosingDate = 1632931200;
+        OutSideClosingDate = 1632960000;
         sellerName = "Anworth Mortgage Asset Corporation";
         seller = address(0);
         buyerName =["READY CAPITAL CORPORATION"];

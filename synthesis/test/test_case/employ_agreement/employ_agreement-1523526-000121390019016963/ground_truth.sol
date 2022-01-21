@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract undefined_9 {
     address payable public seller;
@@ -25,9 +25,9 @@ contract undefined_9 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1561910400;
+        EffectiveTime = 1561939200;
         CloseTime = 1000;
-        OutSideClosingDate = 1625068800;
+        OutSideClosingDate = 1625097600;
         sellerName = "Seth Taube";
         seller = address(0);
         buyerName =["Medley Capital LLC"];

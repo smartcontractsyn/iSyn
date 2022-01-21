@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract RegistrationRightAgreement_13 {
     address payable public seller;
@@ -25,9 +25,9 @@ contract RegistrationRightAgreement_13 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 966441600;
+        EffectiveTime = 966470400;
         CloseTime = 1000;
-        OutSideClosingDate = 967651200;
+        OutSideClosingDate = 967680000;
         sellerName = "Integrated Surgical Systems";
         seller = address(0);
         buyerName =["Investor"];

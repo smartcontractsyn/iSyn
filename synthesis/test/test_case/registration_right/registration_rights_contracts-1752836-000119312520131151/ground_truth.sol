@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract RegistrationRightAgreement_11 {
     address payable public seller;
@@ -25,9 +25,9 @@ contract RegistrationRightAgreement_11 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1588176000;
+        EffectiveTime = 1588204800;
         CloseTime = 1000;
-        OutSideClosingDate = 1596124800;
+        OutSideClosingDate = 1596153600;
         sellerName = "COVETRUS";
         seller = address(0);
         buyerName =["CD&R VFC Holdings"];

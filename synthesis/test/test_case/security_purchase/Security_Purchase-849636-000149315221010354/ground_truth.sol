@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract SecurityPurchaseAgreement_12 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract SecurityPurchaseAgreement_12 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1619712000;
+        EffectiveTime = 1619740800;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "RESPIRERX PHARMACEUTICALS INC.";

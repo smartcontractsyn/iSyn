@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract IndentureAgreement_4 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract IndentureAgreement_4 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1559836800;
+        EffectiveTime = 1559865600;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "NEIMAN MARCUS GROUP LTD LLC";

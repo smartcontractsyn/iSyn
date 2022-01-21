@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract CreditAgreement_1 {
     address payable public seller;
@@ -25,9 +25,9 @@ contract CreditAgreement_1 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1062000000;
+        EffectiveTime = 1062028800;
         CloseTime = 1000;
-        OutSideClosingDate = 1151596800;
+        OutSideClosingDate = 1151625600;
         sellerName = "STANDARD PARKING CORPORATION";
         seller = address(0);
         buyerName =["Lenders"];

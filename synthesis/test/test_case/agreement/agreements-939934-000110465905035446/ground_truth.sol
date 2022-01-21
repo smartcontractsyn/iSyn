@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract MiscAgreement_8 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract MiscAgreement_8 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1095350400;
+        EffectiveTime = 1095379200;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "SEI INSTITUTIONAL INVESTMENTS TRUST";

@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract undefined_2 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract undefined_2 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1231171200;
+        EffectiveTime = 1231200000;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "GARY T. NEDELKA";

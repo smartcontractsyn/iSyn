@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract SecurityPurchaseAgreement_3 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract SecurityPurchaseAgreement_3 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1617724800;
+        EffectiveTime = 1617753600;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "G Medical Innovations Holdings Ltd.";

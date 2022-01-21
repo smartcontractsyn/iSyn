@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract SecurityAgreement_0 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract SecurityAgreement_0 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1528214400;
+        EffectiveTime = 1528243200;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "Adial Pharmaceuticals";
