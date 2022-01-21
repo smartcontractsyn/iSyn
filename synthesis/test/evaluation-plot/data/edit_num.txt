@@ -1,4 +1,4 @@
-|Contract|functionality correctness|edit num|
+|Contract|Same|Edit Num|
 |----|----|----|
 |credit_contract-1001250-000110465918064317|false|3|
 |credit_contract-1059262-000110465903024786|false|2|
