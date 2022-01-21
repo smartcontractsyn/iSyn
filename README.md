@@ -2,7 +2,7 @@
 
 ## Introduction
 ![System arch of ContractSyn](picture/system-arch.png)
-The Pandemic has fundamentally shaped many aspects ofour lives. One significant example is the ever-growing digi-tal transformation for virtually every type of business, suchas online courses, online conferencing, online medical andpharmaceutical systems, remote work forces, and so on.
+The Pandemic has fundamentally shaped many aspects of our lives. One significant example is the ever-growing digital transformation for virtually every type of business, such as online courses, online conferencing, online medical and pharmaceutical systems, remote work forces, and so on.
 Similarly, the legal sector is experiencing online transformation. To enable profound digital
 transformation of legal agreement, ContractSyn is the first system that synthesizes blockchain-executable
 smart contracts that honor the semantics of legally binding agreements.
