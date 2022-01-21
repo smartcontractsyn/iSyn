@@ -1,5 +1,7 @@
 from enum import IntEnum
 
+
+
 class SentenceLabel(IntEnum):
     PAYMENT = 0
     ENTITY = 1
@@ -92,6 +94,24 @@ PAYMENT_DIRECTIONS = {INDENTRUE_AGREEMENT:{SELLER: QUESTION_ABOUT_COMPANY_INDENT
                       PLAN_AND_MERGER_AGREEMENT:{SELLER:QUESTION_ABOUT_COMPANY_PLANMERGER_AGREEMENT, BUYER:QUESTION_ABOUT_BUYER_PLANMERGER_AGREEMENT},
                       REGISTRATION_AGREEMENT:{SELLER:QUESTION_ABOUT_COMPANY_REGISTRATION_AGREEMENT, BUYER:QUESTION_ABOUT_BUYER_REGISTRATION_AGREEMENT}}
 
+def get_category(string_input):
+    string_input = string_input.lower()
+    if string_input == "cc":
+        return CREDIT_AGREEMENT
+    elif string_input == "ea":
+        return EMPLOYMENT_AGREEMENT
+    elif string_input == "ic":
+        return INDENTRUE_AGREEMENT
+    elif string_input == "pma":
+        return PLAN_AND_MERGER_AGREEMENT
+    elif string_input == "rrc":
+        return registration_agreement
+    elif string_input == "secpa":
+        return SECURITY_PURCHASE_AGREEMENT
+    elif string_input == "ta":
+        return TRUST_AGREEMENT
+    else string_input == "mini":
+        return SECURITY_PURCHASE_AGREEMENT
 
 IR ={
     "ContractCategory": "StockPurchaseAgreement",

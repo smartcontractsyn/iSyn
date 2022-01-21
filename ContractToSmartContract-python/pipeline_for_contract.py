@@ -2,6 +2,7 @@
 import docx
 import time
 import os
+import sys
 from nltk.parse.corenlp import CoreNLPParser
 import nltk
 import ntpath
@@ -987,16 +988,16 @@ def process_contract_ner_from_txt(path, output_dir,contract_type):
 if __name__ == "__main__":
     cwd = os.getcwd()
 
-    path = "/home/xxx/contractpaty"   # the folder for the specific contract category
-    output_path = "/home/user/...."   # the output path
+    path = sys.argv[1]   # the folder for the specific contract category
+    output_path = sys.argv[2]   # the output path
+    CONTRACT_TYPE = get_category(sys.argv[3])
     qa_trained_model_path = '/home/uer/qa_modelpath' # the path of the trained QA model
     for folder in os.listdir(path):
         cur_path = os.path.join(path, folder)
         for f in os.listdir(cur_path):
             if f.endswith('docx'):
                 contract_path = os.path.join(cur_path, f)
-                print(contract_path)
-                process_contract_ner_from_txt(contract_path, output_path, SECURITY_PURCHASE_AGREEMENT)
+                process_contract_ner_from_txt(contract_path, output_path, CONTRACT_TYPE)
 
 
 
