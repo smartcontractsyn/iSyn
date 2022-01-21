@@ -57,7 +57,7 @@ pipline_for_contract with three input parameters: legal agreement location, outp
 The valid value of category are cc, ea, ic, pma, rrc, secpa, ta and mini, which represent the 7 contract category evaluated by ContractSyn and mini-bench used in the evaluation.
 After this execution, the res folder contains the four types programmable clauses and smartIR.
 
-    python3 pipline_for_contract.py contract_path output_path
+    python3 pipline_for_contract.py contract_path output_path category
 
 ### Step 2 - Smart Contract Synthesis
 
