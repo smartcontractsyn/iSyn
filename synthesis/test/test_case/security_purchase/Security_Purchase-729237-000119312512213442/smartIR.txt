@@ -1,0 +1,42 @@
+ContractCategory: Security Purchase Contract;
+    
+    Entity: {
+        SellerNames: ['Parkway Properties'];
+        BuyerNames: ['Investors'];
+    };
+    
+    EffectiveTime: May 3, 2012;
+    CloseTime: "";
+    ExpiryTime: August 1, 2012;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Investors'];
+             To: ['Parkway Properties'];
+             Price: {
+                 Amount: 200000002.5,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

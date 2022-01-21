@@ -1,0 +1,37 @@
+ContractCategory: Security Purchase Contract;
+
+        Entity: {
+            SellerNames: ['MPHASE TECHNOLOGIES'];
+            BuyerNames: ['[___]'];
+        };
+
+        EffectiveTime: January 25, 2021;
+        CloseTime: "";
+        ExpiryTime: ;
+
+        OfflineDelivery: {
+            DeliveryConstraint: hash;
+        };
+
+        OnlineStateTransfer: [{
+            TimeConstraint: {
+                operator: <=,
+                leftOprand: now,
+                rightOprand: CloseTime
+            };
+            DeliveryConstraint: true;
+            (TimeContraint && DeliveryConstraint) -> Payment {
+                 From: ['[___]'];
+                 To: ['MPHASE TECHNOLOGIES'];
+                 Price: {
+                     Amount: 140000.0,
+                     Unit: USD
+                 }
+            };
+        }];
+
+        Termination: {
+            DeliveryConstraint: true;
+            OtherConstraint: true;
+            (DeliveryConstraint || OtherConstraint);
+        };

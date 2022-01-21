@@ -1,0 +1,42 @@
+ContractCategory: Security Purchase Contract;
+    
+    Entity: {
+        SellerNames: ['MoviePass Inc.'];
+        BuyerNames: ['MOVIEPASS INC'];
+    };
+    
+    EffectiveTime: 15th  August, 2017;
+    CloseTime: "";
+    ExpiryTime: August 15, 2017;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['MOVIEPASS INC'];
+             To: ['MoviePass Inc.'];
+             Price: {
+                 Amount: 27000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

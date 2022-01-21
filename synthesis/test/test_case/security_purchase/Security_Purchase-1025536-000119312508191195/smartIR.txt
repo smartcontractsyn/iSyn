@@ -1,0 +1,42 @@
+ContractCategory: Security Purchase Contract;
+    
+    Entity: {
+        SellerNames: ['Taylor Capital Group'];
+        BuyerNames: ['Buyers'];
+    };
+    
+    EffectiveTime: September 4, 2008;
+    CloseTime: "";
+    ExpiryTime: June 30, 2009;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Buyers'];
+             To: ['Taylor Capital Group'];
+             Price: {
+                 Amount: 60000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };
