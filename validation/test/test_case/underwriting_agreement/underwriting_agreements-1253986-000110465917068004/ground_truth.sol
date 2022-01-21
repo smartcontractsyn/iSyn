@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract UnderwritingAgreement_3 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract UnderwritingAgreement_3 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1399824000;
+        EffectiveTime = 1399852800;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "";

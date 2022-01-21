@@ -25,9 +25,9 @@ contract UnderwritingAgreement_8 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 959788800;
+        EffectiveTime = 959817600;
         CloseTime = 1000;
-        OutSideClosingDate = 1315843200;
+        OutSideClosingDate = 1315872000;
         sellerName = "Hewlett-Packard Company";
         seller = address(0);
         buyerName =["Underwriters"];

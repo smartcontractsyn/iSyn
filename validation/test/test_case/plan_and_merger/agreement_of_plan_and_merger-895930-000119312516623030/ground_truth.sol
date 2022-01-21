@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract PlanAndMergerAgreement_8 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract PlanAndMergerAgreement_8 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1465920000;
+        EffectiveTime = 1465948800;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "New Amethyst Corp.";

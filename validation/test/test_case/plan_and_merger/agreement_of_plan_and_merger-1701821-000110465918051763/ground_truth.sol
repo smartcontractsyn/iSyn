@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract PlanAndMergerAgreement_5 {
     address payable public seller;
@@ -25,9 +25,9 @@ contract PlanAndMergerAgreement_5 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1534089600;
+        EffectiveTime = 1534118400;
         CloseTime = 1000;
-        OutSideClosingDate = 1546185600;
+        OutSideClosingDate = 1546214400;
         sellerName = "Agiliti";
         seller = address(0);
         buyerName =["FEDERAL STREET ACQUISITION CORP."];

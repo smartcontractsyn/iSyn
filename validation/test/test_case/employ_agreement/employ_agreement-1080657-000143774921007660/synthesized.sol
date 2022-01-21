@@ -25,7 +25,7 @@ contract undefined_1 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1508256000;
+        EffectiveTime = 1508284800;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "Jack K. Heilbron";

@@ -27,7 +27,7 @@ contract PlanAndMergerAgreement_8 {
     constructor() public payable {
         EffectiveTime = 1000;
         CloseTime = 1000;
-        OutSideClosingDate = 1009728000;
+        OutSideClosingDate = 1009756800;
         sellerName = "AmSurg Corp.";
         seller = address(0);
         buyerName =["Envision Healthcare Holdings, Inc."];

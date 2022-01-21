@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract MiscAgreement_1 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract MiscAgreement_1 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1107878400;
+        EffectiveTime = 1107907200;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "Syniverse Holdings, LLC";

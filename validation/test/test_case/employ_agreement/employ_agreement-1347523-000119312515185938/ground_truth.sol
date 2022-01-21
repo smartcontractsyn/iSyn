@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract undefined_3 {
     address payable public seller;
@@ -27,7 +27,7 @@ contract undefined_3 {
     constructor() public payable {
         EffectiveTime = 1000;
         CloseTime = 1000;
-        OutSideClosingDate = 1526572800;
+        OutSideClosingDate = 1526601600;
         sellerName = "GREG EDWARD BROOKS";
         seller = address(0);
         buyerName =["LANDMARK APARTMENT TRUST, INC."];

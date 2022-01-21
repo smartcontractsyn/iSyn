@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract PlanAndMergerAgreement_4 {
     address payable public seller;
@@ -25,9 +25,9 @@ contract PlanAndMergerAgreement_4 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1521993600;
+        EffectiveTime = 1522022400;
         CloseTime = 1000;
-        OutSideClosingDate = 1537891200;
+        OutSideClosingDate = 1537920000;
         sellerName = "GGP Inc.";
         seller = address(0);
         buyerName =["Brookfield Property Partners L.P."];

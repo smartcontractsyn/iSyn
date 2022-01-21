@@ -25,9 +25,9 @@ contract PlanAndMergerAgreement_1 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1159200000;
+        EffectiveTime = 1159228800;
         CloseTime = 1000;
-        OutSideClosingDate = 1180540800;
+        OutSideClosingDate = 1180569600;
         sellerName = "Jazz Semiconductor";
         seller = address(0);
         buyerName =["Acquicor Technology Inc."];

@@ -25,7 +25,7 @@ contract SecurityPurchaseAgreement_9 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1372262400;
+        EffectiveTime = 1372291200;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "Giga-tronics Incorporated";

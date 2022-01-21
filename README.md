@@ -72,7 +72,7 @@ A typical example showing how to pipe the synthesis process is `synthesis/test/b
 
 ```bash
 cd synthesis/test/
-node batch_eval.js
+node batch_synthesize.js
 ```
 
 ### Step 3 - Smart Contract Validation
@@ -86,9 +86,9 @@ npm install truffle -g
 The command to run the simplest validation example:
 
 ```bash
-cd validation/test
+cd validation
 truffle develop
-test singleValidate.js
+test test/singleValidate.js
 ```
 
 ## Example

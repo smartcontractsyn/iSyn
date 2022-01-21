@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract TrustAgreement_4 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract TrustAgreement_4 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1101830400;
+        EffectiveTime = 1101859200;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "LASALLE BANK NATIONAL ASSOCIATION";

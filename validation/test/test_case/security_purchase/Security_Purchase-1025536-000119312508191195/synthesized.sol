@@ -25,9 +25,9 @@ contract SecurityPurchaseAgreement_6 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1220457600;
+        EffectiveTime = 1220486400;
         CloseTime = 1000;
-        OutSideClosingDate = 1246291200;
+        OutSideClosingDate = 1246320000;
         sellerName = "Taylor Capital Group";
         seller = address(0);
         buyerName =["Buyers"];

@@ -25,7 +25,7 @@ contract SecurityPurchaseAgreement_12 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1619712000;
+        EffectiveTime = 1619740800;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "RESPIRERX PHARMACEUTICALS INC.";

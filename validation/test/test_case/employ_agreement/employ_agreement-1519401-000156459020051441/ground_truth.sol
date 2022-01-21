@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract undefined_8 {
     address payable public seller;
@@ -25,9 +25,9 @@ contract undefined_8 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1601395200;
+        EffectiveTime = 1601424000;
         CloseTime = 1000;
-        OutSideClosingDate = 1696003200;
+        OutSideClosingDate = 1696032000;
         sellerName = "Catherine R. Atwood";
         seller = address(0);
         buyerName =["Regional Management Corp."];

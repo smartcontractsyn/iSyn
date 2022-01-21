@@ -25,9 +25,9 @@ contract UnderwritingAgreement_3 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1510502400;
+        EffectiveTime = 1510531200;
         CloseTime = 1000;
-        OutSideClosingDate = 1005753600;
+        OutSideClosingDate = 1005782400;
         sellerName = "Company";
         seller = address(0);
         buyerName =["J.P. Morgan Securities LLC"];

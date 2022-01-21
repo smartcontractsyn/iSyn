@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract PlanAndMergerAgreement_2 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract PlanAndMergerAgreement_2 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1626710400;
+        EffectiveTime = 1626739200;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "Mullen Automotive";

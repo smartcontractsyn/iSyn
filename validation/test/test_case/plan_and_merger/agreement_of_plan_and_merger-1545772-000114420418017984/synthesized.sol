@@ -25,9 +25,9 @@ contract PlanAndMergerAgreement_4 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1069257600;
+        EffectiveTime = 1069286400;
         CloseTime = 1000;
-        OutSideClosingDate = 988214400;
+        OutSideClosingDate = 988243200;
         sellerName = "Brookfield Property Partners L.P.";
         seller = address(0);
         buyerName =["GGP"];

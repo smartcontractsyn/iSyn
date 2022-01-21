@@ -25,7 +25,7 @@ contract SecurityPurchaseAgreement_8 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1466611200;
+        EffectiveTime = 1466640000;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "SPO Global Inc.";

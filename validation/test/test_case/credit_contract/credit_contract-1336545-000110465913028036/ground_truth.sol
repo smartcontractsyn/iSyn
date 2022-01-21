@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract CreditAgreement_4 {
     address payable public seller;
@@ -25,8 +25,8 @@ contract CreditAgreement_4 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1365004800;
-        CloseTime = 1365004800;
+        EffectiveTime = 1365033600;
+        CloseTime = 1365033600;
         OutSideClosingDate = 1000;
         sellerName = "AMERICAN APPAREL (USA), LLC";
         seller = address(0);

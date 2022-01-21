@@ -25,9 +25,9 @@ contract CreditAgreement_1 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1062000000;
+        EffectiveTime = 1062028800;
         CloseTime = 1000;
-        OutSideClosingDate = 1001779200;
+        OutSideClosingDate = 1001808000;
         sellerName = "STANDARD PARKING CORPORATION";
         seller = address(0);
         buyerName =["Lenders"];

@@ -25,7 +25,7 @@ contract PurchaseAgreement_0 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1430409600;
+        EffectiveTime = 1430438400;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "FORD MOTOR CREDIT COMPANY LLC";

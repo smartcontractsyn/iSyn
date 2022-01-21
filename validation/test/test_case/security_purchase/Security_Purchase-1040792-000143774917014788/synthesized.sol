@@ -27,7 +27,7 @@ contract SecurityPurchaseAgreement_7 {
     constructor() public payable {
         EffectiveTime = 1000;
         CloseTime = 1000;
-        OutSideClosingDate = 1502726400;
+        OutSideClosingDate = 1502755200;
         sellerName = "MoviePass Inc.";
         seller = address(0);
         buyerName =["MOVIEPASS INC"];

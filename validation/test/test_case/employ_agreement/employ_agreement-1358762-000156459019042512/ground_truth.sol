@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract undefined_4 {
     address payable public seller;
@@ -25,9 +25,9 @@ contract undefined_4 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1566921600;
+        EffectiveTime = 1566950400;
         CloseTime = 1000;
-        OutSideClosingDate = 1693152000;
+        OutSideClosingDate = 1693180800;
         sellerName = "Manmeet S. Soni";
         seller = address(0);
         buyerName =["Reata Pharmaceuticals, Inc."];

@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract PlanAndMergerAgreement_3 {
     address payable public seller;
@@ -25,9 +25,9 @@ contract PlanAndMergerAgreement_3 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1336320000;
+        EffectiveTime = 1336348800;
         CloseTime = 1000;
-        OutSideClosingDate = 1351612800;
+        OutSideClosingDate = 1351641600;
         sellerName = "Westinghouse Solar";
         seller = address(0);
         buyerName =["CBD-WS Merger Sub"];

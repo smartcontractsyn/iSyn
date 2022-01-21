@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract TrustAgreement_2 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract TrustAgreement_2 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1046448000;
+        EffectiveTime = 1046476800;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "STRUCTURED ASSET SECURITIES CORPORATION";

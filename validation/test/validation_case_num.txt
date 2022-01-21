@@ -1,4 +1,4 @@
-|Contract|gen test case|gt test case|gen test constraint|gt test constraint|gen test constraint bitvec|gt test constraint bitvec|
+|Contract|gen validation case|gt validation case|gen operation constraint|gt operation constraint|gen operation constraint bitvec|gt operation constraint bitvec|
 |----|----|----|----|----|----|----|
 |credit_contract-1001250-000110465918064317|512|512|9|9|111111111|111111111|
 |credit_contract-1059262-000110465903024786|512|512|9|9|111111111|111111111|

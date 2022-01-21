@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract RegistrationRightAgreement_10 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract RegistrationRightAgreement_10 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1525276800;
+        EffectiveTime = 1525305600;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "Apergy Corporation";

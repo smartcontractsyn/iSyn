@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract SecurityPurchaseAgreement_4 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract SecurityPurchaseAgreement_4 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1490371200;
+        EffectiveTime = 1490400000;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "ACACIA DIVERSIFIED HOLDINGS";

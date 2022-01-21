@@ -25,7 +25,7 @@ contract SecurityPurchaseAgreement_13 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1552492800;
+        EffectiveTime = 1552521600;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "MDC Partners Inc.";

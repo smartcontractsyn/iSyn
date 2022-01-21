@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract SecurityPurchaseAgreement_2 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract SecurityPurchaseAgreement_2 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1619539200;
+        EffectiveTime = 1619568000;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "TEGO CYBER INC.";

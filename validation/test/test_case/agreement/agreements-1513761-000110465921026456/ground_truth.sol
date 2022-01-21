@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract MiscAgreement_4 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract MiscAgreement_4 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1613577600;
+        EffectiveTime = 1613606400;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "SEAHAWK ONE, LTD.";

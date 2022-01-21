@@ -25,9 +25,9 @@ contract CreditAgreement_0 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1540483200;
+        EffectiveTime = 1540512000;
         CloseTime = 1000;
-        OutSideClosingDate = 1698249600;
+        OutSideClosingDate = 1698278400;
         sellerName = "THE ESTÉE LAUDER COMPANIES INC.";
         seller = address(0);
         buyerName =["LENDERS"];

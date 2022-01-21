@@ -27,7 +27,7 @@ contract UnderwritingAgreement_10 {
     constructor() public payable {
         EffectiveTime = 1000;
         CloseTime = 1000;
-        OutSideClosingDate = 990633600;
+        OutSideClosingDate = 990662400;
         sellerName = "";
         seller = address(0);
         buyerName =[""];

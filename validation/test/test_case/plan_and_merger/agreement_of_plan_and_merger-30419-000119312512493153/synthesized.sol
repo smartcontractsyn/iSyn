@@ -25,9 +25,9 @@ contract PlanAndMergerAgreement_7 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1354636800;
+        EffectiveTime = 1354665600;
         CloseTime = 1000;
-        OutSideClosingDate = 984672000;
+        OutSideClosingDate = 984700800;
         sellerName = "DEX ONE CORPORATION";
         seller = address(0);
         buyerName =[""];

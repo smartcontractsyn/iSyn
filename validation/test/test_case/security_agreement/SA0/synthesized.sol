@@ -25,7 +25,7 @@ contract SecurityAgreement_0 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1528214400;
+        EffectiveTime = 1528243200;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "Adial Pharmaceuticals";

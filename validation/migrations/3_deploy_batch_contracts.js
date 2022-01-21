@@ -17,10 +17,10 @@ contractNameDict = {
 };
 
 module.exports = async function(deployer) {
-    var category_dirs = fs.readdirSync('../contracts/test_case/');
+    var category_dirs = fs.readdirSync('./contracts/test_case/');
     for (var i=0; i<category_dirs.length; i++) {
         if (category_dirs[i] == "selected") continue;
-        category_dir_path = '../contracts/test_case/' + category_dirs[i] + '/';
+        category_dir_path = './contracts/test_case/' + category_dirs[i] + '/';
         var contract_dirs = fs.readdirSync(category_dir_path);
         contract_dirs.sort()
         for (var j=0; j<contract_dirs.length; j++) {

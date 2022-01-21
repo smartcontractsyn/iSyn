@@ -27,7 +27,7 @@ contract TrustAgreement_5 {
     constructor() public payable {
         EffectiveTime = 1000;
         CloseTime = 1000;
-        OutSideClosingDate = 984153600;
+        OutSideClosingDate = 984182400;
         sellerName = "";
         seller = address(0);
         buyerName =[""];

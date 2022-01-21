@@ -27,7 +27,7 @@ contract PurchaseAgreement_5 {
     constructor() public payable {
         EffectiveTime = 1000;
         CloseTime = 1000;
-        OutSideClosingDate = 1370016000;
+        OutSideClosingDate = 1370044800;
         sellerName = "RANGE TEXAS PRODUCTION";
         seller = address(0);
         buyerName =["VANGUARD PERMIAN LLC"];

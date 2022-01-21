@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract TrustAgreement_0 {
     address payable public seller;
@@ -25,9 +25,9 @@ contract TrustAgreement_0 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 901900800;
+        EffectiveTime = 901929600;
         CloseTime = 1000;
-        OutSideClosingDate = 1609344000;
+        OutSideClosingDate = 1609372800;
         sellerName = "Allegiance Funding Corp.";
         seller = address(0);
         buyerName =["Manufacturers and Traders Trust Company"];

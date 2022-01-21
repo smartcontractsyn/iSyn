@@ -1,4 +1,4 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
 contract RegistrationRightAgreement_4 {
     address payable public seller;
@@ -25,7 +25,7 @@ contract RegistrationRightAgreement_4 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1348070400;
+        EffectiveTime = 1348099200;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "CHINA CORD BLOOD CORPORATION";

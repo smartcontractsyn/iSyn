@@ -1,6 +1,6 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
-contract undefined_0 {
+contract StockPurchaseAgreement_0 {
     address payable public seller;
     address payable[] public buyer;
     OracleTest internal oracle;
@@ -25,7 +25,7 @@ contract undefined_0 {
     event TerminatedByOthers();
     event Closed();
     constructor() public payable {
-        EffectiveTime = 1317657600;
+        EffectiveTime = 1317686400;
         CloseTime = 1000;
         OutSideClosingDate = 1000;
         sellerName = "Entech Solar";
