@@ -1,0 +1,42 @@
+ContractCategory: Credit Contract;
+    
+    Entity: {
+        SellerNames: ['ROCKWOOD SPECIALTIES GROUP'];
+        BuyerNames: ['Lenders'];
+    };
+    
+    EffectiveTime: February 10, 2011;
+    CloseTime: "";
+    ExpiryTime: December;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Lenders'];
+             To: ['ROCKWOOD SPECIALTIES GROUP'];
+             Price: {
+                 Amount: 850000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

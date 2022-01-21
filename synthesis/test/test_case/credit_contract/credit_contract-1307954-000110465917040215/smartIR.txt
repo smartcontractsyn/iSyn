@@ -1,0 +1,42 @@
+ContractCategory: Credit Contract;
+    
+    Entity: {
+        SellerNames: ['Huntsman International LLC'];
+        BuyerNames: ['Lenders'];
+    };
+    
+    EffectiveTime: June 15, 2017;
+    CloseTime: "";
+    ExpiryTime: December 31, 2022;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Lenders'];
+             To: ['Huntsman International LLC'];
+             Price: {
+                 Amount: 1640000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

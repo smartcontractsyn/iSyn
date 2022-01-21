@@ -1,0 +1,42 @@
+ContractCategory: Credit Contract;
+    
+    Entity: {
+        SellerNames: ['WILLIAMS SCOTSMAN'];
+        BuyerNames: ['Lenders'];
+    };
+    
+    EffectiveTime: June 28, 2005;
+    CloseTime: "";
+    ExpiryTime: December 31;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Lenders'];
+             To: ['WILLIAMS SCOTSMAN'];
+             Price: {
+                 Amount: 800000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

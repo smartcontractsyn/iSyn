@@ -1,0 +1,42 @@
+ContractCategory: Credit Contract;
+    
+    Entity: {
+        SellerNames: ['THE ESTÉE LAUDER COMPANIES INC.'];
+        BuyerNames: ['LENDERS'];
+    };
+    
+    EffectiveTime: October 26, 2018;
+    CloseTime: "";
+    ExpiryTime: October 26, 2023;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['LENDERS'];
+             To: ['THE ESTÉE LAUDER COMPANIES INC.'];
+             Price: {
+                 Amount: 1500000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };
