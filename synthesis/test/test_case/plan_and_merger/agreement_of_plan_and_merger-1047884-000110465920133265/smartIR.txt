@@ -1,0 +1,42 @@
+ContractCategory: Plan Merger Agreement;
+    
+    Entity: {
+        SellerNames: ['Anworth Mortgage Asset Corporation'];
+        BuyerNames: ['READY CAPITAL CORPORATION'];
+    };
+    
+    EffectiveTime: December 6, 2020;
+    CloseTime: "";
+    ExpiryTime: September 30, 2021;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['READY CAPITAL CORPORATION'];
+             To: ['Anworth Mortgage Asset Corporation'];
+             Price: {
+                 Amount: 125000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

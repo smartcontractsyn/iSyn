@@ -1,0 +1,42 @@
+ContractCategory: Plan Merger Agreement;
+    
+    Entity: {
+        SellerNames: ['AmSurg Corp.'];
+        BuyerNames: ['Envision Healthcare Holdings, Inc.'];
+    };
+    
+    EffectiveTime: ;
+    CloseTime: "";
+    ExpiryTime: December 31;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Envision Healthcare Holdings, Inc.'];
+             To: ['AmSurg Corp.'];
+             Price: {
+                 Amount: 200.0,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };
