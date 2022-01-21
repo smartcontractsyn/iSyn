@@ -1,0 +1,42 @@
+ContractCategory: Registration Right Contract;
+    
+    Entity: {
+        SellerNames: ['COVETRUS'];
+        BuyerNames: ['CD&R VFC Holdings'];
+    };
+    
+    EffectiveTime: 2020;
+    CloseTime: "";
+    ExpiryTime: July 31, 2020;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['CD&R VFC Holdings'];
+             To: ['COVETRUS'];
+             Price: {
+                 Amount: 250000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

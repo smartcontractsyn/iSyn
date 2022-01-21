@@ -1,0 +1,42 @@
+ContractCategory: Registration Right Contract;
+    
+    Entity: {
+        SellerNames: ['comScore'];
+        BuyerNames: ['Charter Communications Holding Company'];
+    };
+    
+    EffectiveTime: January 7, 2021;
+    CloseTime: "";
+    ExpiryTime: July 1, 2021;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Charter Communications Holding Company'];
+             To: ['comScore'];
+             Price: {
+                 Amount: 100000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

@@ -1,0 +1,37 @@
+ContractCategory: Registration Right Contract;
+
+        Entity: {
+            SellerNames: ['Simplicity Esports and Gaming Company'];
+            BuyerNames: ['Lucas Ventures'];
+        };
+
+        EffectiveTime: August 31, 2021;
+        CloseTime: "";
+        ExpiryTime: ;
+
+        OfflineDelivery: {
+            DeliveryConstraint: hash;
+        };
+
+        OnlineStateTransfer: [{
+            TimeConstraint: {
+                operator: <=,
+                leftOprand: now,
+                rightOprand: CloseTime
+            };
+            DeliveryConstraint: false;
+            (TimeContraint && DeliveryConstraint) -> Payment {
+                 From: ['Lucas Ventures'];
+                 To: ['Simplicity Esports and Gaming Company'];
+                 Price: {
+                     Amount: 200000.0,
+                     Unit: USD
+                 }
+            };
+        }];
+
+        Termination: {
+            DeliveryConstraint: false;
+            OtherConstraint: true;
+            (DeliveryConstraint || OtherConstraint);
+        };

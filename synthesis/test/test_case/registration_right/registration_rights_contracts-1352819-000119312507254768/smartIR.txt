@@ -1,0 +1,42 @@
+ContractCategory: Registration Right Contract;
+    
+    Entity: {
+        SellerNames: ['Elandia International Inc.'];
+        BuyerNames: ['Stanford International Bank Ltd.'];
+    };
+    
+    EffectiveTime: 21st  November 2007;
+    CloseTime: "";
+    ExpiryTime: NOVEMBER 21, 2007;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Stanford International Bank Ltd.'];
+             To: ['Elandia International Inc.'];
+             Price: {
+                 Amount: 35000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

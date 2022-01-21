@@ -1,0 +1,42 @@
+ContractCategory: Registration Right Contract;
+    
+    Entity: {
+        SellerNames: ['Integrated Surgical Systems'];
+        BuyerNames: ['Investor'];
+    };
+    
+    EffectiveTime: August 17, 2000;
+    CloseTime: "";
+    ExpiryTime: August 31, 2000;;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Investor'];
+             To: ['Integrated Surgical Systems'];
+             Price: {
+                 Amount: 1200000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

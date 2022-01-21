@@ -1,0 +1,37 @@
+ContractCategory: Registration Right Contract;
+
+        Entity: {
+            SellerNames: ['Xspand Products Lab'];
+            BuyerNames: ['Holders'];
+        };
+
+        EffectiveTime: September 4, 2018;
+        CloseTime: "";
+        ExpiryTime: ;
+
+        OfflineDelivery: {
+            DeliveryConstraint: hash;
+        };
+
+        OnlineStateTransfer: [{
+            TimeConstraint: {
+                operator: <=,
+                leftOprand: now,
+                rightOprand: CloseTime
+            };
+            DeliveryConstraint: true;
+            (TimeContraint && DeliveryConstraint) -> Payment {
+                 From: ['Holders'];
+                 To: ['Xspand Products Lab'];
+                 Price: {
+                     Amount: 0.001,
+                     Unit: USD
+                 }
+            };
+        }];
+
+        Termination: {
+            DeliveryConstraint: false;
+            OtherConstraint: true;
+            (DeliveryConstraint || OtherConstraint);
+        };

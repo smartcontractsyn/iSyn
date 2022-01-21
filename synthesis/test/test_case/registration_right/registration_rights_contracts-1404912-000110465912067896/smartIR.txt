@@ -1,0 +1,42 @@
+ContractCategory: Registration Right Contract;
+    
+    Entity: {
+        SellerNames: ['CHINA CORD BLOOD CORPORATION'];
+        BuyerNames: ['Codan Trust Company'];
+    };
+    
+    EffectiveTime: September 20, 2012;
+    CloseTime: "";
+    ExpiryTime: December 31;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Codan Trust Company'];
+             To: ['CHINA CORD BLOOD CORPORATION'];
+             Price: {
+                 Amount: 65000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };
