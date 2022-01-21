@@ -1,13 +1,13 @@
 ContractCategory: Trust Contract;
     
     Entity: {
-        SellerNames: ['CHASE BANK USA'];
-        BuyerNames: ['WACHOVIA EDUCATION LOAN FUNDING LLC'];
+        SellerNames: ['Allegiance Funding Corp.'];
+        BuyerNames: ['Allegiance Funding Corp.'];
     };
     
-    EffectiveTime: November 29, 2005;
+    EffectiveTime: August 1, 1998,;
     CloseTime: "";
-    ExpiryTime: July 2007;
+    ExpiryTime: Sunday;
     
     OfflineDelivery: {
         DeliveryConstraint: hash;
@@ -21,10 +21,10 @@ ContractCategory: Trust Contract;
         };
         DeliveryConstraint: true;
         (TimeContraint && DeliveryConstraint) -> Payment {
-             From: ['WACHOVIA EDUCATION LOAN FUNDING LLC'];
-             To: ['CHASE BANK USA'];
+             From: ['Allegiance Funding Corp.'];
+             To: ['Allegiance Funding Corp.'];
              Price: {
-                 Amount: 1800000000,
+                 Amount: 100000000,
                  Unit: USD
              }
         };

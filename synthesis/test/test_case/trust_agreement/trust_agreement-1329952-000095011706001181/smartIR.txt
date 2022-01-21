@@ -1,13 +1,13 @@
 ContractCategory: Trust Contract;
     
     Entity: {
-        SellerNames: ['CHASE BANK USA'];
-        BuyerNames: ['WACHOVIA EDUCATION LOAN FUNDING LLC'];
+        SellerNames: [];
+        BuyerNames: [];
     };
     
-    EffectiveTime: November 29, 2005;
-    CloseTime: "";
-    ExpiryTime: July 2007;
+    EffectiveTime: October 1, 2002 through March 6, 2003;
+    CloseTime: ;
+    ExpiryTime: March 10;
     
     OfflineDelivery: {
         DeliveryConstraint: hash;
@@ -21,10 +21,10 @@ ContractCategory: Trust Contract;
         };
         DeliveryConstraint: true;
         (TimeContraint && DeliveryConstraint) -> Payment {
-             From: ['WACHOVIA EDUCATION LOAN FUNDING LLC'];
-             To: ['CHASE BANK USA'];
+             From: [];
+             To: [];
              Price: {
-                 Amount: 1800000000,
+                 Amount: 120000000.2,
                  Unit: USD
              }
         };

@@ -1,13 +1,13 @@
 ContractCategory: Trust Contract;
     
     Entity: {
-        SellerNames: ['CHASE BANK USA'];
-        BuyerNames: ['WACHOVIA EDUCATION LOAN FUNDING LLC'];
+        SellerNames: ['LASALLE BANK NATIONAL ASSOCIATION'];
+        BuyerNames: ['STRUCTURED ASSET SECURITIES CORPORATION'];
     };
     
-    EffectiveTime: November 29, 2005;
+    EffectiveTime: January 1, 2003;
     CloseTime: "";
-    ExpiryTime: July 2007;
+    ExpiryTime: March 25, 2010;
     
     OfflineDelivery: {
         DeliveryConstraint: hash;
@@ -21,10 +21,10 @@ ContractCategory: Trust Contract;
         };
         DeliveryConstraint: true;
         (TimeContraint && DeliveryConstraint) -> Payment {
-             From: ['WACHOVIA EDUCATION LOAN FUNDING LLC'];
-             To: ['CHASE BANK USA'];
+             From: ['STRUCTURED ASSET SECURITIES CORPORATION'];
+             To: ['LASALLE BANK NATIONAL ASSOCIATION'];
              Price: {
-                 Amount: 1800000000,
+                 Amount: 600764609.9,
                  Unit: USD
              }
         };

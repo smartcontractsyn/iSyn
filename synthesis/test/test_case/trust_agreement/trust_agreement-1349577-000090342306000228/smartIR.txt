@@ -1,13 +1,13 @@
 ContractCategory: Trust Contract;
     
     Entity: {
-        SellerNames: ['CHASE BANK USA'];
-        BuyerNames: ['WACHOVIA EDUCATION LOAN FUNDING LLC'];
+        SellerNames: ['TILES'];
+        BuyerNames: ['MS Structured Asset Corp.'];
     };
     
-    EffectiveTime: November 29, 2005;
+    EffectiveTime: December 31,;
     CloseTime: "";
-    ExpiryTime: July 2007;
+    ExpiryTime: February 15, 2034.;
     
     OfflineDelivery: {
         DeliveryConstraint: hash;
@@ -21,10 +21,10 @@ ContractCategory: Trust Contract;
         };
         DeliveryConstraint: true;
         (TimeContraint && DeliveryConstraint) -> Payment {
-             From: ['WACHOVIA EDUCATION LOAN FUNDING LLC'];
-             To: ['CHASE BANK USA'];
+             From: ['MS Structured Asset Corp.'];
+             To: ['TILES'];
              Price: {
-                 Amount: 1800000000,
+                 Amount: 20000000,
                  Unit: USD
              }
         };
