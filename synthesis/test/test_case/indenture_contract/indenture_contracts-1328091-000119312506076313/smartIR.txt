@@ -1,0 +1,42 @@
+ContractCategory: Indenture Contract;
+    
+    Entity: {
+        SellerNames: ['Cayman Islands'];
+        BuyerNames: ['JPMORGAN CHASE BANK'];
+    };
+    
+    EffectiveTime: December 23, 2005;
+    CloseTime: "";
+    ExpiryTime: December 31;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['JPMORGAN CHASE BANK'];
+             To: ['Cayman Islands'];
+             Price: {
+                 Amount: 650000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

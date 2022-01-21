@@ -1,0 +1,42 @@
+ContractCategory: Indenture Contract;
+    
+    Entity: {
+        SellerNames: ['DRS TECHNOLOGIES'];
+        BuyerNames: ['THE BANK OF NEW YORK.'];
+    };
+    
+    EffectiveTime: empty;
+    CloseTime: "";
+    ExpiryTime: February 1, 2025;;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['THE BANK OF NEW YORK.'];
+             To: ['DRS TECHNOLOGIES'];
+             Price: {
+                 Amount: 345000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

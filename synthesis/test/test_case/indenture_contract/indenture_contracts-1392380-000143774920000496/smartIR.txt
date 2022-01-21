@@ -1,0 +1,42 @@
+ContractCategory: Indenture Contract;
+    
+    Entity: {
+        SellerNames: ['Gevo'];
+        BuyerNames: ['Wilmington Savings Fund Society'];
+    };
+    
+    EffectiveTime: January 10, 2020,;
+    CloseTime: "";
+    ExpiryTime: April 1, 2021;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Wilmington Savings Fund Society'];
+             To: ['Gevo'];
+             Price: {
+                 Amount: 500000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };
