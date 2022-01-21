@@ -45,18 +45,19 @@ Note that ContractSyn is not limited to any specific legal agreements. We use th
 Smart contract which reflects the semantic requirements
 
 ## Setup
-1. download and unzip [roberta-classification.zip](https://drive.google.com/file/d/1s8vbKgDeQ8NN4IpS3oPX87BJgWMJY1-w/view?usp=sharing), and assign the path to the variable CLASSIFIER_PATH in the file project_global_value.
-2. download and unzip [trained-qa.zip](https://drive.google.com/file/d/1cU7zgLDHAqW2sgbBj3YXcdmikLKG3oHQ/view?usp=sharing), and assign the path to the variable TRAINED_QA_MODEL_PATH in the file project_global_value.
+1. download and unzip [roberta-classification.zip](https://drive.google.com/file/d/1lC1kMeUqHQxkUuT_tuXnIVBdmzjVfo6t/view?usp=sharing), and assign the path to the variable CLASSIFIER_PATH in the file project_global_value.
+2. download and unzip [QA models](https://drive.google.com/drive/folders/1DZBVHkmwYkjyKqEfRZRy-vHRJ_Df9A0I?usp=sharing), and assign the path to the variable TRAINED_QA_MODEL_PATH in the file project_global_value.
 3. install the required packages and StanfordCorenlp pipeline
 
 ## How to run
 
 ### Step 1 - Instantiate SmartIR
 First, users should generate the smartIR. To generate smartIR, users should execute
-pipline_for_contract with two input parameters: legal agreement location and output location.
+pipline_for_contract with three input parameters: legal agreement location, output location and its category.
+The valid value of category are cc, ea, ic, pma, rrc, secpa, ta and mini, which represent the 7 contract category evaluated by ContractSyn and mini-bench used in the evaluation.
 After this execution, the res folder contains the four types programmable clauses and smartIR.
 
-    python3 pipline_for_contract.py contract_path output_path
+    python3 pipline_for_contract.py contract_path output_path category
 
 ### Step 2 - Smart Contract Synthesis
 
