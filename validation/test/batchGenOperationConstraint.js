@@ -2,20 +2,6 @@ const fs = require("fs");
 const exec = require('child_process').exec;
 // const singleContractValidate = require("./singleValidate.js");
 
-testcase_Dirs = [["0", "1", "2", "3", "4", "4", "5"], // PA
-                ["0", "1", "2", "3", "4", "5", "6", "7", "8", "9"], // SPA
-                ["0", "1", "2", "3"], // SECPA
-                ["0", "1"]]; // SA
-
-// testcase_Dirs = [[], // PA
-//                 ["0", "1", "2", "3", "4", "5", "6"], // SPA
-//                 ["0", "1"], // SECPA
-//                 ["0", "1"]]; // SA
-
-groundTruthNamePatterns = ["PurchaseAgreementGroundTruth_", "StockPurchaseAgreementGroundTruth_", "SecurityPurchaseAgreementGroundTruth_", "SecurityAgreementGroundTruth_"];
-generatedNamePatterns = ["PurchaseAgreementGenerated_", "StockPurchaseAgreementGenerated_", "SecurityPurchaseAgreementGenerated_", "SecurityAgreementGenerated_"];
-dirNamePatterns = ["PA", "SPA", "SECPA", "SA"];
-
 var sample_args = {
     EffectiveTime : 1000,
     CloseTime : 1000,
@@ -162,28 +148,6 @@ for (var i=0; i<category_dirs.length; i++) {
             IR.Payments[k].To = [0];
             IR.Payments[k].PurchasePrice = Math.floor(parseFloat(IR.Payments[k].PurchasePrice));
         }
-
-        // console.log(JSON.stringify(IR));
-
-        // process.exit();
-        
-        // process.exit();
-
-        // fs.writeFileSync("./test/test_case/" + dirNamePatterns[i] + testcase_Dirs[i][j] + "/test_conf.json", JSON.stringify(IR, null, 4), "utf-8", function(err) {
-        //     console.log("test_conf!");
-        //     if (err) throw err;
-        //     console.log("test_conf saved!");
-        // });
-
-
-        // let contract_config = JSON.parse(JSON.stringify(IR));
-        // let contract_name = IR.ContractCategory + "_" + testcase_Dirs[i][j] + "_" + "sythesized";
-        // const cur_contract = artifacts.require(contract_name);
-
-        // for (var k=0; k<validation_case_num; ++k) {
-        //     singleContractTest.single_contract_test(contract_name, cur_contract, contract_config, validation_cases[k]);
-        // }
-        // singleContractEval.single_contract_eval(contract_name, cur_contract, contract_config);
     }
 }
 
