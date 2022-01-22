@@ -1,0 +1,42 @@
+ContractCategory: Trust Contract;
+    
+    Entity: {
+        SellerNames: [];
+        BuyerNames: [];
+    };
+    
+    EffectiveTime: October 1, 2002 through March 6, 2003;
+    CloseTime: ;
+    ExpiryTime: March 10;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: [];
+             To: [];
+             Price: {
+                 Amount: 120000000.2,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

@@ -1,0 +1,42 @@
+ContractCategory: Security Purchase Contract;
+    
+    Entity: {
+        SellerNames: ['Air Industries Group'];
+        BuyerNames: ['Buyers'];
+    };
+    
+    EffectiveTime: May 12, 2017;
+    CloseTime: "";
+    ExpiryTime: Sunday;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Buyers'];
+             To: ['Air Industries Group'];
+             Price: {
+                 Amount: 3090000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

@@ -1,0 +1,42 @@
+ContractCategory: Trust Contract;
+    
+    Entity: {
+        SellerNames: ['Allegiance Funding Corp.'];
+        BuyerNames: ['Allegiance Funding Corp.'];
+    };
+    
+    EffectiveTime: August 1, 1998,;
+    CloseTime: "";
+    ExpiryTime: Sunday;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Allegiance Funding Corp.'];
+             To: ['Allegiance Funding Corp.'];
+             Price: {
+                 Amount: 100000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

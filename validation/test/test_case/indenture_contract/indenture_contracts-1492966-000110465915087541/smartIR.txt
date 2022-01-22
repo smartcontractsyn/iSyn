@@ -1,0 +1,42 @@
+ContractCategory: Indenture Contract;
+    
+    Entity: {
+        SellerNames: ['Nord Anglia Education Finance LLC'];
+        BuyerNames: ['HSBC Bank USA'];
+    };
+    
+    EffectiveTime: June 25, 2015,;
+    CloseTime: "";
+    ExpiryTime: November 26;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['HSBC Bank USA'];
+             To: ['Nord Anglia Education Finance LLC'];
+             Price: {
+                 Amount: 100000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

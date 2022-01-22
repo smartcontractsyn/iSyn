@@ -1,0 +1,42 @@
+ContractCategory: Indenture Contract;
+    
+    Entity: {
+        SellerNames: ['DUKE ENERGY CORPORATION'];
+        BuyerNames: ['The Bank of New York Mellon Trust Company'];
+    };
+    
+    EffectiveTime: 10th  August, 2017,;
+    CloseTime: "";
+    ExpiryTime: August 15, 2047;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: false;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['The Bank of New York Mellon Trust Company'];
+             To: ['DUKE ENERGY CORPORATION'];
+             Price: {
+                 Amount: 750000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

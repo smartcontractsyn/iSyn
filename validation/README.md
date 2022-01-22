@@ -30,7 +30,7 @@ The commands to run the simplest validation example:
 ```bash
 cd validation
 truffle develop
-test test/singleValidate.js
+test test/singleValidateExample.js
 ```
 
 

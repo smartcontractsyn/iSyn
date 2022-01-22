@@ -1,0 +1,42 @@
+ContractCategory: Trust Contract;
+    
+    Entity: {
+        SellerNames: ['LASALLE BANK NATIONAL ASSOCIATION'];
+        BuyerNames: ['STRUCTURED ASSET SECURITIES CORPORATION'];
+    };
+    
+    EffectiveTime: January 1, 2003;
+    CloseTime: "";
+    ExpiryTime: March 25, 2010;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['STRUCTURED ASSET SECURITIES CORPORATION'];
+             To: ['LASALLE BANK NATIONAL ASSOCIATION'];
+             Price: {
+                 Amount: 600764609.9,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

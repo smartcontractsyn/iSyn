@@ -1,0 +1,42 @@
+ContractCategory: Credit Contract;
+    
+    Entity: {
+        SellerNames: ['STANDARD PARKING CORPORATION'];
+        BuyerNames: ['“Lenders”'];
+    };
+    
+    EffectiveTime: August 28, 2003;
+    CloseTime: "";
+    ExpiryTime: September 30;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['“Lenders”'];
+             To: ['STANDARD PARKING CORPORATION'];
+             Price: {
+                 Amount: 500000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

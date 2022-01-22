@@ -1,0 +1,37 @@
+ContractCategory: Registration Right Contract;
+
+        Entity: {
+            SellerNames: ['KAMADA LTD.'];
+            BuyerNames: ['FIMI'];
+        };
+
+        EffectiveTime: 20th  January, 2020,;
+        CloseTime: "";
+        ExpiryTime: ;
+
+        OfflineDelivery: {
+            DeliveryConstraint: hash;
+        };
+
+        OnlineStateTransfer: [{
+            TimeConstraint: {
+                operator: <=,
+                leftOprand: now,
+                rightOprand: CloseTime
+            };
+            DeliveryConstraint: false;
+            (TimeContraint && DeliveryConstraint) -> Payment {
+                 From: ['FIMI'];
+                 To: ['KAMADA LTD.'];
+                 Price: {
+                     Amount: 5000000,
+                     Unit: USD
+                 }
+            };
+        }];
+
+        Termination: {
+            DeliveryConstraint: true;
+            OtherConstraint: true;
+            (DeliveryConstraint || OtherConstraint);
+        };

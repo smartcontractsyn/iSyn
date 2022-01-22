@@ -1,0 +1,42 @@
+ContractCategory: Trust Contract;
+    
+    Entity: {
+        SellerNames: ['MacroShares Major Metro Housing Up Trust'];
+        BuyerNames: ['CEDE & CO.'];
+    };
+    
+    EffectiveTime: empty;
+    CloseTime: "";
+    ExpiryTime: May;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['CEDE & CO.'];
+             To: ['MacroShares Major Metro Housing Up Trust'];
+             Price: {
+                 Amount: 20000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

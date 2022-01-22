@@ -1,0 +1,42 @@
+ContractCategory: Security Purchase Contract;
+    
+    Entity: {
+        SellerNames: ['ACACIA DIVERSIFIED HOLDINGS'];
+        BuyerNames: ['PEAK ONE OPPORTUNITY FUND'];
+    };
+    
+    EffectiveTime: March 25, 2017;
+    CloseTime: "";
+    ExpiryTime: March;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['PEAK ONE OPPORTUNITY FUND'];
+             To: ['ACACIA DIVERSIFIED HOLDINGS'];
+             Price: {
+                 Amount: 400000.0,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

@@ -1,0 +1,42 @@
+ContractCategory: Employment Agreement;
+    
+    Entity: {
+        SellerNames: ['David PaulsonAs'];
+        BuyerNames: ['ROCKVILLE FINANCIAL'];
+    };
+    
+    EffectiveTime: February 19, 2014;
+    CloseTime: "";
+    ExpiryTime: December 31st;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['ROCKVILLE FINANCIAL'];
+             To: ['David PaulsonAs'];
+             Price: {
+                 Amount: 275000.0,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

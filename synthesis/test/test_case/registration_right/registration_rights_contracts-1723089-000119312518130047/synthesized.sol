@@ -1,6 +1,6 @@
-import "./../../OracleTest.sol";
+import "./../../../OracleTest.sol";
 pragma solidity 0.5.16;
-contract RegistrationRightAgreement_10 {
+contract RegistrationRightAgreement_9 {
     address payable public seller;
     address payable[] public buyer;
     OracleTest internal oracle;

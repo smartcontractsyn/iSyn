@@ -3,6 +3,7 @@
 from distutils.dir_util import copy_tree
 from shutil import copyfile
 import os
+import glob
 
 # contract_path = "/home/zzh/projects/SmartContract/Justitia-Backup/src/synthesis/test/test_case"
 # temp_contract_path = "/home/zzh/projects/SmartContract/temp/Justitia-Backup/src/synthesis/test/test_case"
@@ -30,7 +31,7 @@ import os
 #             # copyfile(temp_c_path + "/ground_truth.sol", c_path + "/ground_truth.sol")
 
 
-contract_path = "/home/zzh/projects/SmartContract/Classification/evaluations2/evaluations"
+contract_path = "/home/vagrant/project/ContractSyn/synthesis/test/test_case"
 temp_contract_path = "/home/zzh/projects/SmartContract/temp/Justitia-Backup/src/synthesis/test/test_case"
 test_path = "/home/zzh/projects/SmartContract/Justitia-Backup/src/synthesis/test/test_case"
 gtt_path = "/home/zzh/projects/SmartContract/Justitia-Backup/src/synthesis/test/ground_truth_template.sol"
@@ -54,4 +55,7 @@ for folder in os.listdir(contract_path):
             # continue
             # print(temp_c_path + "/ground_truth.sol")
         print(c_path)
-        copyfile(IRgtt_path, c_path + "/IR_ground_truth.json")
+        for f in glob.glob(c_path + "/" + "*proofread*"):
+            os.remove(f)
+            print(f)
+        # copyfile(IRgtt_path, c_path + "/IR_ground_truth.json")

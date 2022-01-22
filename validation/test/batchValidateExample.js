@@ -1,6 +1,7 @@
 const fs = require("fs");
 const exec = require('child_process').exec;
-const singleContractValidate = require("./singleValidate.js");
+const singleContractValidate = require("../src/validate.js");
+const validationCase = require("../src/validationCase.js");
 
 var sample_args = {
     EffectiveTime : 1000,
@@ -94,9 +95,9 @@ for (var i=0; i<category_dirs.length; i++) {
 
         var IR = JSON.parse(fs.readFileSync(contract_dir_path + "/IR.json"));
         // var IR_ground_truth = JSON.parse()
-        [validation_cases, operation_constraints] = getValidationCase(IR);
+        [validation_cases, operation_constraints] = validationCase.getValidationCase(IR);
 
-        IR = IR_preprocess(IR);
+        IR = validationCase.IR_preprocess(IR, sample_args);
 
         console.log(JSON.stringify(IR));
 
@@ -118,97 +119,4 @@ for (var i=0; i<category_dirs.length; i++) {
         // }
         singleContractValidate.single_contract_validate(contract_name, cur_contract, contract_config, validation_cases[0]);
     }
-}
-
-function IR_preprocess(IR) {
-    // Set EffectiveTime
-    if (IR.EffectiveTime.length != 0 && IR.EffectiveTime[0] != "") {
-        IR.EffectiveTime[0] = IR.EffectiveTime[0].replace(/,$/, '');
-        // console.log(IR.EffectiveTime);
-        if (!Number.isNaN(Date.parse(IR.EffectiveTime[0]))) {
-            IR.EffectiveTime = [Date.parse(IR.EffectiveTime[0]) / 1000];
-        } else {
-            IR.EffectiveTime = [sample_args.EffectiveTime];
-        }
-    } else if (sample_args != undefined && sample_args.EffectiveTime != undefined) {
-        // stmts.push(createNumberLiteralAssignment("EffectiveTime", Date.parse(args.EffectiveTime) / 1000));
-        IR.EffectiveTime = [sample_args.EffectiveTime];
-    }
-    
-    // Set CloseTime
-    if (IR.CloseTime.length != 0 && IR.CloseTime[0] != "") {
-        IR.CloseTime = IR.CloseTime[0].replace(/,$/, '');
-        if (!Number.isNaN(Date.parse(IR.CloseTime[0]))) {
-            IR.CloseTime = [Date.parse(IR.CloseTime[0]) / 1000];
-        } else {
-            IR.CloseTime = [sample_args.CloseTime];
-        }
-    } else if (sample_args != undefined && sample_args.CloseTime != undefined) {
-        // stmts.push(createNumberLiteralAssignment("CloseTime", Date.parse(args.CloseTime) / 1000));
-        IR.CloseTime = [sample_args.CloseTime];
-    }
-
-    // Set OutSideClosingDate
-    if (IR.OutSideClosingDate.length != 0 && IR.OutSideClosingDate[0] != "") {
-        // console.log(Date.parse(IR.OutSideClosingDate) / 1000);
-        IR.OutSideClosingDate = IR.OutSideClosingDate[0].replace(/,$/, '');
-        if (!Number.isNaN(Date.parse(IR.OutSideClosingDate[0]))) {
-            IR.OutSideClosingDate = [Date.parse(IR.OutSideClosingDate[0]) / 1000];
-        } else {
-            IR.OutSideClosingDate = [sample_args.OutSideClosingDate];
-        }
-    } else if (sample_args != undefined && sample_args.OutSideClosingDate != undefined) {
-        // stmts.push(createNumberLiteralAssignment("OutSideClosingDate", Date.parse(args.OutSideClosingDate) / 1000));
-        IR.OutSideClosingDate = [sample_args.OutSideClosingDate];
-    }
-
-    for (var k=0; k<IR.Payments.length; ++k) {
-        IR.Payments[k].From = [0];
-        IR.Payments[k].To = [0];
-        IR.Payments[k].PurchasePrice = Math.floor(parseFloat(IR.Payments[k].PurchasePrice));
-    }
-
-    return IR;
-}
-
-
-function getValidationCase(IR) {
-    // Extract condition entry
-    condition_entries = {}
-    if (IR.EffectiveTime.length != 0 && IR.EffectiveTime[0] != "") condition_entries["EffectiveTimeCon"] = true;
-    // if (IR.CloseTime.length != 0 && IR.CloseTime[0] != "") condition_entries["CloseTimeCon"] = true;
-    if (IR.Payments.length > 0) condition_entries["PaymentRoleCon"] = true;
-    if (IR.Payments[0].TimeLimit != undefined) {
-        condition_entries["PaymentTimeCon"] = true;
-        condition_entries["PaymentPriceCon"] = true;
-        if (IR.Payments[0].Transfer != undefined && IR.Payments[0].Transfer) condition_entries["PaymentTransferCon"] = true;
-    }
-    if (IR.Transfers) condition_entries["ValidFileSignUploaderCon"] = true;
-    if (IR.Terminations.OtherTermination) condition_entries["OtherTerminationCon"] = true;
-    if (IR.Terminations.OutOfDateTermination) condition_entries["OutOfDateTerminationCon"] = true;
-    if (IR.Terminations.TransferTermination) condition_entries["TransferTerminationCon"] = true;
-
-    // console.log(condition_entries);
-
-    cur_validation_case = JSON.parse(JSON.stringify(condition_entries));
-    condition_entries = Object.keys(condition_entries);
-    console.log(condition_entries);
-    condition_entry_num = condition_entries.length;
-    validation_case_num = Math.pow(2, condition_entry_num);
-    // console.log(validation_case_num);
-    validation_cases = [];
-    for (var k=0; k<validation_case_num; ++k) {
-        var conf_array = k;
-        // console.log(conf_array);
-        for (var kk=0; kk<condition_entry_num; ++kk) {
-            // console.log(conf_array, conf_array[kk], kk);
-            cur_validation_case[condition_entries[kk]] = false;
-            if ((conf_array >> kk) & 1) cur_validation_case[condition_entries[kk]] = true;
-            else cur_validation_case[condition_entries[kk]] = false;
-        }
-        // console.log(cur_validation_case);
-        validation_cases.push(cur_validation_case);
-    }
-    return [validation_cases, condition_entries];
-
 }

@@ -1,0 +1,42 @@
+ContractCategory: Plan Merger Agreement;
+    
+    Entity: {
+        SellerNames: ['ADOLOR CORPORATION'];
+        BuyerNames: ['CUBIST PHARMACEUTICALS'];
+    };
+    
+    EffectiveTime: October 24, 2011;
+    CloseTime: "";
+    ExpiryTime: September;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['CUBIST PHARMACEUTICALS'];
+             To: ['ADOLOR CORPORATION'];
+             Price: {
+                 Amount: 125000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

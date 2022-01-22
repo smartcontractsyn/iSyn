@@ -1,42 +1,37 @@
-ContractCategory: StockPurchaseAgreement;
+ContractCategory: Mini-bench;
 
-Entity: {
-    SellerNames: [];
-    BuyerNames: [];
-};
+        Entity: {
+            SellerNames: ['Griffin Ventures'];
+            BuyerNames: ['investors'];
+        };
 
-EffectiveTime: July 29, 2011,;
-CloseTime: "";
-ExpiryTime: ;
+        EffectiveTime: July 29, 2011,;
+        CloseTime: "";
+        ExpiryTime: ;
 
-OfflineDelivery: {
-    DeliveryConstraint: hash;
-};
+        OfflineDelivery: {
+            DeliveryConstraint: hash;
+        };
 
-OnlineStateTransfer: [{
-    TimeConstraint: {
-        operator: <=,
-        leftOprand: now,
-        rightOprand: CloseTime
-    };
-    DeliveryConstraint: true;
-    (TimeContraint && DeliveryConstraint) -> Payment {
-         From: [];
-         To: [];
-         Price: {
-             Amount: 60639067.55,
-             Unit: USD
-         }
-    };
-}];
+        OnlineStateTransfer: [{
+            TimeConstraint: {
+                operator: <=,
+                leftOprand: now,
+                rightOprand: CloseTime
+            };
+            DeliveryConstraint: true;
+            (TimeContraint && DeliveryConstraint) -> Payment {
+                 From: ['investors'];
+                 To: ['Griffin Ventures'];
+                 Price: {
+                     Amount: 60639067.55,
+                     Unit: USD
+                 }
+            };
+        }];
 
-Termination: {
-    TimeConstraint: {
-        operator: >=,
-        leftOprand: now,
-        rightOprand: ExpiryTime
-    };
-    DeliveryConstraint: true;
-    OtherConstraint: false;
-    (TimeConstraint || DeliveryConstraint || OtherConstraint);
-};
+        Termination: {
+            DeliveryConstraint: true;
+            OtherConstraint: true;
+            (DeliveryConstraint || OtherConstraint);
+        };

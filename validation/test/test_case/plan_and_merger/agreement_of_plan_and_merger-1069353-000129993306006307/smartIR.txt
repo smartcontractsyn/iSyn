@@ -1,0 +1,42 @@
+ContractCategory: Plan Merger Agreement;
+    
+    Entity: {
+        SellerNames: ['Jazz Semiconductor'];
+        BuyerNames: ['Acquicor Technology Inc.'];
+    };
+    
+    EffectiveTime: September 26, 2006,;
+    CloseTime: "";
+    ExpiryTime: May 31, 2007;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Acquicor Technology Inc.'];
+             To: ['Jazz Semiconductor'];
+             Price: {
+                 Amount: 260000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

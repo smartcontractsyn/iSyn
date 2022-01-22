@@ -1,42 +1,42 @@
-ContractCategory: SecurityAgreement;
-
-Entity: {
-    SellerNames: ['Adial Pharmaceuticals'];
-    BuyerNames: ['Adial Pharmaceuticals'];
-};
-
-EffectiveTime: June 6, 2018,;
-CloseTime: "";
-ExpiryTime: ;
-
-OfflineDelivery: {
-    DeliveryConstraint: hash;
-};
-
-OnlineStateTransfer: [{
-    TimeConstraint: {
-        operator: <=,
-        leftOprand: now,
-        rightOprand: CloseTime
+ContractCategory: Mini-bench;
+    
+    Entity: {
+        SellerNames: ['RANGE TEXAS PRODUCTION'];
+        BuyerNames: ['VANGUARD PERMIAN LLC'];
     };
-    DeliveryConstraint: false;
-    (TimeContraint && DeliveryConstraint) -> Payment {
-         From: ['Adial Pharmaceuticals'];
-         To: ['Adial Pharmaceuticals'];
-         Price: {
-             Amount: 325000,
-             Unit: USD
-         }
+    
+    EffectiveTime: 26th  February 2013;
+    CloseTime: "";
+    ExpiryTime: June 1, 2013;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
     };
-}];
-
-Termination: {
-    TimeConstraint: {
-        operator: >=,
-        leftOprand: now,
-        rightOprand: ExpiryTime
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['VANGUARD PERMIAN LLC'];
+             To: ['RANGE TEXAS PRODUCTION'];
+             Price: {
+                 Amount: 275000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
     };
-    DeliveryConstraint: false;
-    OtherConstraint: false;
-    (TimeConstraint || DeliveryConstraint || OtherConstraint);
-};

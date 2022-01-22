@@ -1,0 +1,42 @@
+ContractCategory: Trust Contract;
+    
+    Entity: {
+        SellerNames: ['TILES'];
+        BuyerNames: ['MS Structured Asset Corp.'];
+    };
+    
+    EffectiveTime: December 31,;
+    CloseTime: "";
+    ExpiryTime: February 15, 2034.;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['MS Structured Asset Corp.'];
+             To: ['TILES'];
+             Price: {
+                 Amount: 20000000,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

@@ -1,0 +1,42 @@
+ContractCategory: Trust Contract;
+    
+    Entity: {
+        SellerNames: ['Manager'];
+        BuyerNames: ['STRUCTURED ASSET SECURITIES CORPORATION'];
+    };
+    
+    EffectiveTime: December 1, 2004___________________________STRUCTURED;
+    CloseTime: "";
+    ExpiryTime: Sunday;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['STRUCTURED ASSET SECURITIES CORPORATION'];
+             To: ['Manager'];
+             Price: {
+                 Amount: 2299579137.7,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };

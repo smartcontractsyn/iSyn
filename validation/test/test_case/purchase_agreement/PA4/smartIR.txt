@@ -1,42 +1,37 @@
-ContractCategory: PurchaseAgreement;
+ContractCategory: Mini-bench;
 
-Entity: {
-    SellerNames: ['Solar Power'];
-    BuyerNames: ['Yes Yield Investments Limited'];
-};
+        Entity: {
+            SellerNames: ['Yes Yield Investments Limited'];
+            BuyerNames: ['Yes Yield Investments Limited'];
+        };
 
-EffectiveTime: May 4, 2015,;
-CloseTime: "";
-ExpiryTime: ;
+        EffectiveTime: May 4, 2015;
+        CloseTime: "";
+        ExpiryTime: ;
 
-OfflineDelivery: {
-    DeliveryConstraint: hash;
-};
+        OfflineDelivery: {
+            DeliveryConstraint: hash;
+        };
 
-OnlineStateTransfer: [{
-    TimeConstraint: {
-        operator: <=,
-        leftOprand: now,
-        rightOprand: CloseTime
-    };
-    DeliveryConstraint: false;
-    (TimeContraint && DeliveryConstraint) -> Payment {
-         From: ['Yes Yield Investments Limited'];
-         To: ['Solar Power'];
-         Price: {
-             Amount: 25002000,
-             Unit: USD
-         }
-    };
-}];
+        OnlineStateTransfer: [{
+            TimeConstraint: {
+                operator: <=,
+                leftOprand: now,
+                rightOprand: CloseTime
+            };
+            DeliveryConstraint: false;
+            (TimeContraint && DeliveryConstraint) -> Payment {
+                 From: ['Yes Yield Investments Limited'];
+                 To: ['Yes Yield Investments Limited'];
+                 Price: {
+                     Amount: 25002000,
+                     Unit: USD
+                 }
+            };
+        }];
 
-Termination: {
-    TimeConstraint: {
-        operator: >=,
-        leftOprand: now,
-        rightOprand: ExpiryTime
-    };
-    DeliveryConstraint: false;
-    OtherConstraint: true;
-    (TimeConstraint || DeliveryConstraint || OtherConstraint);
-};
+        Termination: {
+            DeliveryConstraint: false;
+            OtherConstraint: true;
+            (DeliveryConstraint || OtherConstraint);
+        };

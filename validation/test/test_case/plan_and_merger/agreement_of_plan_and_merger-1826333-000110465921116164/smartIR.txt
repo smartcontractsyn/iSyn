@@ -1,0 +1,42 @@
+ContractCategory: Plan Merger Agreement;
+    
+    Entity: {
+        SellerNames: ['Princeville Global HK Limited'];
+        BuyerNames: ['Poema Global Holdings Corp.'];
+    };
+    
+    EffectiveTime: September 16, 2021;
+    CloseTime: "";
+    ExpiryTime: March 31, 2022;
+    
+    OfflineDelivery: {
+        DeliveryConstraint: hash;
+    };
+    
+    OnlineStateTransfer: [{
+        TimeConstraint: {
+            operator: <=,
+            leftOprand: now,
+            rightOprand: CloseTime
+        };
+        DeliveryConstraint: true;
+        (TimeContraint && DeliveryConstraint) -> Payment {
+             From: ['Poema Global Holdings Corp.'];
+             To: ['Princeville Global HK Limited'];
+             Price: {
+                 Amount: 2011251500,
+                 Unit: USD
+             }
+        };
+    }];
+    
+    Termination: {
+        TimeConstraint: {
+            operator: >=,
+            leftOprand: now,
+            rightOprand: ExpiryTime
+        };
+        DeliveryConstraint: true;
+        OtherConstraint: true;
+        (TimeConstraint || DeliveryConstraint || OtherConstraint);
+    };
