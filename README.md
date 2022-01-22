@@ -83,7 +83,7 @@ The smart contract validation module automatically extract the operation constra
 npm install truffle -g
 ```
 
-The command to run the simplest validation example:
+The commands to run the simplest validation example:
 
 ```bash
 cd validation
